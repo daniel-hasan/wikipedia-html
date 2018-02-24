@@ -1,0 +1,526 @@
+{{Infobox Military Conflict
+|conflict=Philippine-American War
+|image=[[Image:Filipino casualties on the first day of war.jpg|300px]]
+|caption=<small>Filipino casualties on the first day of Philippine-American War. Original caption is 'Insurgent dead just as they fell in the trench near Santa Ana, February 5th. The trench was circular, and the picture shows but a small portion.'</small>  
+|date= late mounths of 1899–1902 ''or'' 1899–1913 (unofficial)
+|place=[[Philippines]] 
+|result=United States victory. The Philippines becomes a U.S. territory.
+|combatant1={{Flagicon|USA}} [[United States]]
+|combatant2=[[Image:Philippines flag original.png|20px]] [[First Philippine Republic]]<br />several groups post-1902
+|commander1=[[William McKinley]]<br />[[Theodore Roosevelt]]
+|commander2=[[Emilio Aguinaldo]]<br />[[Miguel Malvar]]<br />[[Pio del Pilar]]<br />[[Manuel Tinio]]<br />[[Gregorio del Pilar]]†<br />[[Licerio Geronimo]]<br />[[Vicente Lukban]]<br />[[Juan Cailles]]<br />[[Maximino Hizon]]<br />several unofficial leaders post-1902
+|strength1=126,000 soldiers
+|strength2=First Philippine Republic: 80,000 soldiers
+|casualties1=4,380 U.S. soldiers dead, (possibly over 5000 from 1899–1913) 3,100+ wounded<br />{{cn|date=December 2007}}<br />
+2,000 killed, dead, or wounded suffered by the
+[[Philippine Constabulary]]<br />{{cn|date=December 2007}} 
+|casualties2=16,000 soldiers killed<br />est. 250,000 to 1,000,000 civilians died of war (through combatants of both sides), famine, or disease.<ref>{{Harvnb|Boot|2003|p=125}}, ''As many as 200,000 civilians also died, victims of disease and famine and the cruelties of both sides.'';<br />*{{cite book | author= Kumar, Amitava  | title= Poetics/Politics: Radical Aesthetics for the Classroom| publisher= Palgrave| date= [[October 29]], [[1999]]| id=ISBN 0-312-21866-4 }} ''“In the fifteen years that followed the defeat of the Spanish in Manila Bay in 1898, more Filipinos were killed by U.S. forces  than by the Spanish in 300 years of colonization. Over 1.5 million died out of a total population of 6 million.”''<br /> *{{cite book | author=	Painter, Nell Irvin | title= Standing at Armageddon: The United States, 1877–1919| publisher= W. W. Norton & Company| date= [[May 1]], [[1989]]| id=ISBN 0-393-30588-0}} p.&nbsp;154,  ''Hundreds of thousands of Filipinos died in battle, of disease, or of other war-related causes.''<br /> *{{cite book | author=Bayor, Ronald H  | title= The Columbia Documentary History of Race and Ethnicity in America| publisher= Columbia University Press | date= [[June 23]], [[2004]]| id=ISBN 0-231-11994-1}} p.&nbsp;335, ''Some seven thousand Americans and twenty thousand Filipinos were killed or wounded in the war, and hundreds of thousands of Filipinos – some estimates are as high as 1 million – died of war-related disease or famine.''<br />  *{{cite journal | author=Guillermo, Emil  | title= A first taste of empire| journal= Milwaukee Journal Sentinel | date= [[February 8]], [[2004]]| volume= | issue= | pages= 03J| url= }} ''The Philippines: 20,000 military dead; 200,000 civilian dead. Some historians, however, put the toll higher – closer to 1 million Filipinos because of the disease and starvation that ensued.''<br />  *{{cite journal | author= (author unknown) | title=Kipling, the 'White Man's Burden,' and U.S. Imperialism| journal= Monthly Review| date= [[November 1]], [[2003]]| volume= 55| issue= | pages= 1| url= }} ''Although a quarter of the million is the “consensual” figure of historians, estimates of Filipino deaths from the war have ranged as high as one million, which would have meant depopulation of the islands by around one-sixth.''</ref>
+|}}
+{{Campaignbox Philippine-American War}}
+
+The '''Philippine-American War'''<ref>This conflict is also known as the ''''Philippine Insurrection''''. This name was historically the most commonly used in the U.S., but Filipinos and some American historians refer to these hostilities as the ''Philippine-American War'', and, in 1999, the U.S. [[Library of Congress]] reclassified its references to use this term.</ref> was an armed military conflict between the [[United States|United States of America]] and the [[First Philippine Republic]], fought between 1899 to at least 1902, which occurred from a [[Filipino people|Filipino]] political struggle against U.S. occupation of the [[Philippines]]. 
+
+While the conflict was officially declared over on [[July 4]], [[1902]],<ref>{{Citation |last=Delmendo |first=Sharon |last2= |first2= |publication-date=2004
+|title=The Star-Entangled Banner: One Hundred Years of America in the Philippines |publication-place= |publisher=Rutgers University Press |isbn=0813534119 |page=47 |url=http://books.google.com/books?id=N6nkB_PDdXcC&pg=PA15&dq=Philippine+People+power+revolution&sig=H4SxP6yWi9qoAGv0drxC2zjETUQ#PPA48,M1 |accessdate=[[2007]]-[[12-03]]}}.</ref><ref name="agoncillo">{{cite book | author= Agoncillo, Teodoro| title= History of the Filipino People| year= 1960 (Eighth edition 1990)| id=ISBN 971-1024-15-2}}</ref><ref name="Past">{{cite book | author= Constantino, Renato| title= The Philippines: A Past Revisited| year= 1975| id=ISBN 971-8958-00-2}}</ref> American troops continued hostilities against remnants of the [[Philippine Army]] and other resistance groups until 1913, and some historians consider these unofficial extensions part of the war.<ref name="Past" />
+
+== Background ==
+===Philippine Revolution===
+[[Image:800px-Katipuneros.jpg|thumb|left|A late 19th century photograph of Filipino rebels, known as the ''[[Katipunan|Katipuneros]]''.]]
+
+On July 7, 1892, [[Andrés Bonifacio]], a [[warehouseman]] and [[clerk]] from [[Manila]], founded the ''[[Katipunan]]'', a secret organization which aimed to gain independence from Spanish colonial rule by armed revolt. The ''Katipunan'' spread throughout the provinces, and the [[Philippine Revolution]] of 1896 was led by its members.<ref name="agoncillo" /><ref name="Past" />
+
+While a charismatic and decisive figure, Bonifacio suffered defeats at the hands of the Spaniards in battles he personally led, including the very first major battle at [[San Juan del Monte]], Manila (now [[Pinaglabanan]]).<ref name = "agoncillo" /> Some historians have thus considered him an ineffectual military leader, but others have argued the opposite by virtue of [[chain of command]] as other lower-ranking commanders whom he directed were successful.<ref name = "guerrero">{{cite journal| title = Andres Bonifacio and the 1896 Revolution| author = Milagros C. Guerrero| journal = Sulyap Kultura  |date = 1996| url = http://www.ncca.gov.ph/about_cultarts/articles.php?artcl_Id=5| accessdate=2007-09-13}}</ref> 
+
+Fighters in [[Cavite]] province won early victories. One of the most influential and popular Caviteño leaders was [[Emilio Aguinaldo]], mayor of [[Kawit, Cavite|Cavite El Viejo]] (modern-day [[Kawit, Cavite|Kawit]]), who now controlled much of eastern Cavite. Eventually, Aguinaldo and his faction gained control of the movement. The ''Katipunan'' was superseded by a revolutionary government, of which Aguinaldo was elected president, and the “outmaneuvered”<ref name="Past" /> Bonifacio was executed for treason.<ref name="agoncillo" /><ref name="Past" /> 
+
+The conflict between Bonifacio and Aguinaldo has subsquently become a controversial matter among Filipino historians. At least one, [[Nick Joaquin]], has opined that the Revolution of 1896 as led by the Caviteños is to be distinguished from Bonifacio's failed uprising in Manila.<ref>{{cite book | author= Joaquin, Nicomedes | authorlink = Nick Joaquin | title= A Question of Heroes| year= 1977| id=ISBN 971-27-1545-0}}</ref> Others such as [[Teodoro Agoncillo]] and Milagros C. Guerrero have noted that Bonifacio organized the ''Katipunan'' into a government prior to the outbreak of hostilities, with him as president.<ref name = "agoncillo" /><ref name = "guerrero" /> This government was called ''Republika ng Katagalugan'', after "[[Tagalog people|Tagalog]]", the name of an ethnic group, used to refer to all natives.<ref name = "guerrero" />  Regardless, Aguindalo's national government and presidency are usually considered the first in Philippine history.
+
+=== Aguinaldo's exile and return ===
+[[Image:Gen Aguinaldo.jpg|thumb|150px|A photograph of Emilio Aguinaldo.]]
+
+By December 1897, the futility of the struggle was becoming apparent on both sides and came to a stalemate. In August 1897, armistice negotiations were opened between Aguinaldo and the current Spanish governor-general, [[Fernando Primo de Rivera]]. By mid-December, an agreement was reached in which the governor would pay Aguinaldo a sum described in the agreement as "$800,000 (Mexican)" in three installments if Aguinaldo would go into exile.<ref name=Aguinaldo1899ch2>{{Citation
+| url =http://www.authorama.com/true-version-of-the-philippine-revolution-1.html
+| title =True Version of the Philippine Revolution
+| author =Don Emilio Aguinaldo y Famy
+| work =Authorama Public Domain Books
+|chapter-url=http://www.authorama.com/true-version-of-the-philippine-revolution-3.html
+|chapter=Chapter II. The Treaty of Biak-na-bató
+| accessdate=2007-11-16
+}}</ref> Aguinaldo then established himself in [[Hong Kong]].<ref name=Aguinaldo1899ch2 /><ref name="agoncillo" /> Before leaving, Aguinaldo denounced the Revolution, exhorted Filipino combatants to disarm and declared those who continued hostilities to be bandits.<ref name="Past" /> However, some Filipino revolutionaries did continue armed struggle against the Spanish colonial government.<ref name="Past" /><ref>{{Harvnb|Miller|1982|p=34}}</ref><ref name="novel">{{cite journal
+| first =Ambeth R.
+| last =Ocampo
+| authorlink =
+| coauthors =
+| year =2005
+| month =January 7,
+| title =The First Filipino Novel
+| journal =Philippine Daily Inquirer
+| volume =
+| issue =
+| pages =
+| id =
+| url =
+}}</ref><ref name="timeline">{{cite web
+| title =Chronology of Significant Events Relating to the Career of Emilio Aguinaldo with Respect to the Various Imperialist and Anti-Imperialist Campaigns in the Philippines
+| work =randolf.bol.ucla.edu
+| url =http://web.archive.org/web/20060918062708/http://randolf.bol.ucla.edu/aguichron.htm
+| accessdate=2006-05-20
+}} (from internet archive)</ref><ref name="brands">{{Harvnb|Brands|1992|p=46}}</ref><ref name="David">{{cite journal
+| first =David Joel
+| last =Steinberg
+| authorlink =
+| coauthors =
+| year = 1972
+| month =Summer
+| title =An Ambiguous Legacy: Years at War in the Philippines
+| journal =Pacific Affairs
+| volume =45
+| issue =2
+| pages =167
+| id =
+| url =
+}} Citing {{cite book
+| last =Kalaw
+| first =Maximo M.
+| authorlink =
+| coauthors =
+| year =1926
+| title =The Development of Philippine Politics, 1872–1920
+| publisher =
+| location =Manila
+| id =
+}}p. 92–98 Miller states the amount was $800,000. {{Harvnb|Miller|1982|p=35}})</ref>
+
+Aguinaldo wrote retrospectively in 1899 that he had met with U.S. [[Consul]]s E. Spencer Pratt and Rounceville Wildman in Singapore between 22 and 25 April, and that they persuaded him to again take up the mantle of leadership in the revolution, with Pratt communicating with Admiral Dewey by telegram, passing assurances from Dewey to Aguinaldo that the United States would at least recognize the Independence of the Philippines under the protection of the United States Navy, and adding that there was no necessity for entering into a formal written agreement because the word of the Admiral and of the United States Consul were in fact equivalent to the most solemn pledge that their verbal promises and assurance would be fulfilled to the letter and were not to be classed with Spanish promises or Spanish ideas of a man’s word of honour.<ref name=Aguinaldo1899ch3 /> Aguinaldo reports agreeing to return to the Philippines, traveling from Singapore to Hong Kong aboard the steamship ''Malacca'', onwards from Hong Kong on American despatch-boat ''McCulloch'', and arriving in Cavite on May 19.<ref name=Aguinaldo1899ch3>{{Citation
+|url=http://www.authorama.com/true-version-of-the-philippine-revolution-1.html
+|title=True Version of the Philippine Revolution
+|author=Don Emilio Aguinaldo y Famy
+|chapter-url=http://www.authorama.com/true-version-of-the-philippine-revolution-4.html
+|chapter=Chapter III. Negotiations
+|publisher=Authorama: Public Domain Books
+|accessdate=[[2007-12-26]]}}</ref>  The New York Times wrote on [[August 6]], [[1899]] that Pratt had obtained a court order enjoining the publication of certain statements "... which might be regarded as showing a positive connection" between himself and Aguinaldo.<ref name=NYTimes1899-08-26>{{Citation
+|url=http://query.nytimes.com/mem/archive-free/pdf?_r=1&res=9F0DE3D61530EE32A25755C2A96E9C94689ED7CF&oref=slogin
+|title=Spencer-Pratt and Aguinaldo
+|publisher=The New York Times
+||date=[[August 26]], [[1899]]
+|accessdate=[[2007-12-26]]}}</ref>  The Times reports the court ruling to uphold Mr. Pratt's position that he had "no dealings of a political character" with Aguinaldo and the book publisher withdrew from publication statements to the contrary.<ref name=NYTimes1899-08-26 />
+
+In Cavite, Aguinaldo reports meeting with Admiral Dewey, and recalls: "I asked whether it was true that he had sent all the telegrams to the Consul at Singapore, Mr. Pratt, which that gentleman had told me he received in regard to myself. The Admiral replied in the affirmative, adding that the United States had come to the Philippines to protect the natives and free them from the yoke of Spain. He said, moreover, that America is exceedingly well off as regards territory, revenue, and resources and therefore needs no colonies, assuring me finally that there was no occasion for me to entertain any doubts whatever about the recognition of the Independence of the Philippines by the United States."<ref name=Aguinaldo1899ch3 /> By late May, Dewey had been ordered by the U.S.  [[Department of the Navy]] to distance himself from Aguinaldo lest he make untoward commitments to the Philippine forces.<ref name=LOC-outbreak />
+
+In a matter of months after Aguinaldo's return, the Philippine Army conquered nearly all of Spanish-held ground within the Philippines. With the exception of Manila, which was completely surrounded by the Philippine Army of 12,000, the Filipinos now controlled the Philippines. Aguinaldo also turned over 15,000 Spanish prisoners to the Americans, offering them valuable intelligence. On [[June 12]], Aguinaldo declared [[Philippine Declaration of Independence|independence]] at his house in Cavite El Viejo.
+
+On [[August 13]], with American commanders unaware that a peace protocol had been signed between Spain and the United States on the previous day, American forces captured the city of Manila from the Spanish.<ref>{{Citation |url=http://www.loc.gov/rr/hispanic/1898/intro.html |title=The World of 1898: The Spanish-American War |publisher=U.S. Library of Congress |accessdate=2007-10-10}}</ref> Governor-General Fermin Jaudenes had made a secret agreement with Dewey and General [[Wesley Merritt]]. Jaudenes specifically requested to surrender only to the Americans, not to the Filipino rebels. In order to save face, he proposed a mock battle with the Americans preceding the Spanish surrender; the Filipinos would not even be allowed to enter the city. Dewey and Merritt agreed to this, and no one else in either camp knew about the agreement. On the eve of the mock battle, General [[Thomas M. Anderson]] telegraphed Aguinaldo, “Do not let your troops enter Manila without the permission of the American commander. On this side of the Pasig River you will be under fire”.<ref name="agoncillo" />
+
+At the beginning of the war between Spain and America, Americans and Filipinos had been allies against Spain in all but name; now Spanish and Americans were in a partnership that excluded the Filipino insurgents. Fighting between American and Filipino troops almost broke out as the former moved in to dislodge the latter from strategic positions around Manila on the eve of the attack. Aguinaldo had been told bluntly by the Americans that his army could not participate and would be fired upon if it crossed into the city. The insurgents were infuriated at being denied triumphant entry into their own capital, but Aguinaldo bided his time. Relations continued to deteriorate, however, as it became clear to Filipinos that the Americans were in the islands to stay.<ref name=LOC-outbreak>{{Citation
+|editor-last=Dolan
+|editor-first
+|url=http://memory.loc.gov/frd/cs/phtoc.html
+|title=Philippines: A Country Study
+|location=Washington
+|publisher=Library of Congress
+|year=1991
+|chapter-url=http://lcweb2.loc.gov/cgi-bin/query/r?frd/cstdy:@field(DOCID+ph0023)
+|chapter=Historical Setting&mdash;Outbreak of War, 1898
+|last=Seekins <!-- chapter author -->
+|first=Donald M.
+|accessdate=2007-12-25}}</ref>
+
+The [[June 12]] declaration of Philippine independence had not been recognized by either the United States or Spain, and the Spanish government ceded the Philippines to the United States in the [[Treaty of Paris (1898)|1898 Treaty of Paris]], which was signed on [[December 10]] [[1898]], in consideration for an indemnity for Spanish expenses and assets lost. 
+
+On [[January 1]], [[1899]], Aguinaldo was declared [[President of the Philippines]] — the first and only president of what would be later called the [[First Philippine Republic]]. He later organized a Congress at [[Malolos]], [[Bulacan]] to draft a [[Constitution of the Philippines|constitution]].<ref name="agoncillo" />
+
+Admiral Dewey later argued that he had promised nothing regarding the future:
+
+{{quote |“From my observation of Aguinaldo and his advisers I decided that it would be unwise to co-operate with him or his adherents in an official manner…  In short, my policy was to avoid any entangling alliance with the insurgents, while I appreciated that, pending the arrival of our troops, they might be of service.”<ref name="brands" />}}
+
+== War against the United States==
+=== Conflict origins ===
+[[Image:Filipino soldiers outside Manila 1899.jpg|right|thumb|200px|Filipino soldiers outside Manila in 1899.]]
+In December 1898, the U.S. purchased the Philippines, Puerto Rico, and Guam from [[Spain]] as part of the [[Treaty of Paris (1898)|Treaty of Paris]] for the sum of [[United States Dollar|US $]]20 million, after the U.S. defeated [[Spain]] in the [[Spanish-American War]]. The U.S. government made plans to make the Philippines an American territory. However, the Filipinos, fighting for [[Philippine independence|independence]] from Spain since 1896, had already declared independence on [[June 12]], [[1898]], and had considered the Americans allies.
+
+Tensions between the Philippine and the American governments existed because of the conflicting movements for independence and colonization, aggravated by the feelings of betrayal on the part of Aguinaldo, who had been brought to the islands by the [[United States Navy]] on the understanding that the Americans would help his cause.
+
+== First shots ==
+One common view of how the conflict began was that on [[February 4]], [[1899]], a misunderstanding occurred between the two nations. A Filipino soldier was shot by an American soldier, [[William W. Grayson]], at now Silencio Street, Manila. Grayson's own account states:
+
+{{quote |In a moment, something rose up slowly in front of us. It was a Filipino. I yelled “Halt!” and made it pretty loud, for I was accustomed to challenging the officer of the guard in approved military style. I challenged him with another loud “halt!” Then he shouted “halto!” to me. Well, I thought the best thing to do was to shoot him.<ref>Wildman, E. ''Aguinaldo: A Narrative of Filipino Ambitions'' (1901). Norwood Press, Norwood, Massachusetts</ref><ref>{{Citation
+|chapter-url=http://www.msc.edu.ph/centennial/filam1.html
+|chapter=I. The Philippine American War
+|title=Excerpts from: The Filipino Americans (From 1763 to the Present)
+|publisher=msc.edu.ph}}<!-- possible copyvio -->
+*{{Citation
+|title = The Filipino Americans from 1763 to the Present: Their History, Culture, and Traditions |first = Veltisezar
+|last = Bautista 
+|isbn = 978-0931613142
+|publisher = Bookhaus Publishers
+|month = May
+|year = 1998}}
+</ref>}}
+
+It is believed{{who|date=December 2007}} that American aggression led to the first shot that sparked the war. McKinley himself encouraged his commanders to shoot first, ask later.{{Fact|date=June 2007}} Another view posits he was probably drunk.<ref>{{Harvnb|Karnow|1990|p=??}}</ref> Fighting soon erupted in [[Battle of Manila (1899)|Manila]]. It caused 2,000 casualties for Filipinos and 250 for the Americans. One Lt. Alfred C. Alford of the Kansas 20th may well be among the first Americans to perish in the conflict; he was [[killed in action]] in an advance on February 6.
+
+Aguinaldo subsequently tried to stop the hostilities and sent emissaries to the Americans, but General [[Elwell Otis]] replied: "Fighting having begun, must go on to the grim end."<ref name = "agoncillo" />  [[President of the United States|U.S. President]] [[William McKinley]] later told reporters “that the ''insurgents'' had attacked [[Manila]]” in justifying war on the Philippines.
+
+The McKinley administration subsequently declared Aguinaldo to be an “outlaw bandit”, and no formal [[declaration of war]] was ever issued. Two reasons have been suggested for this:
+
+# Calling the war the ''Philippine Insurrection'' made it appear to be a rebellion against a lawful government.<ref>{{Harvnb|Karnow|1990|p=??}}</ref>
+# To enable the American government to avoid liability to claims by [[veteran]]s of the action.{{Fact|date=February 2007}}
+
+=== American escalation ===
+[[Image:Pasigoregonvolunteer1899.jpg|right|thumb|200px|[[Pasig]]. Oregon Volunteer Infantry on firing line, March 14, 1899]]
+An American military force of 126,000 soldiers was needed to conquer the country, and the force was regularly engaged in war against Filipino forces for another decade. Also, [[Macabebe]] Filipinos were recruited by the [[United States Army]]. Twenty-six of the 30 American generals who served in the Philippines from 1898 to 1902 had fought in the [[Indian Wars]].<ref>{{Harvnb|Boot|2003|p=127}}</ref>
+
+By the end of February 1899, the Americans had prevailed in the struggle for Manila, and the Philippine Army was forced to retreat north. Hard-fought American victories followed at [[Battle of Quingua|Quingua]] (April), [[Battle of Zapote Bridge|Zapote Bridge]] (June), and [[Battle of Tirad Pass|Tirad Pass]] (December). With the June [[assassination]] of General [[Antonio Luna]] by rivals in the Philippine leadership, conventional military leadership was weakened. Brigadier General [[Gregorio del Pilar]] fought a delaying action at [[Battle of Tirad Pass]] to allow Aguinaldo to escape, but del Pilar was killed in the final attack. For the Filipinos, this battle remains their [[Battle of Thermopylae|Thermopylae]].{{Fact|date=August 2007}} After this battle and the loss of two of their best generals, the Filipinos' ability to fight a conventional war rapidly diminished.
+
+=== Philippine war strategy ===
+[[Image:Harpersweeklyapr241899.png|thumb|right|200px|[[Manila]] — Filipino insurgent attack on the barracks of Co. C, 13th Minnesota Volunteers, during the Tondo Fire]]
+Estimates of the Filipino forces vary between 80,000 and 100,000, with tens of thousands of auxiliaries.<ref name=Deady2005p55>{{Harvnb|Deady|2005|p=55}}</ref> Lack of weapons and ammunitions was a significant impediment to the Filipinos. U.S. troop strength averaged 40,000 and peaked at 74,000.<ref name=Deady2005p55 /> A total of 126,468 US soldiers served there.<ref>{{Harvnb|Deady|2005|p=62}}</ref>
+
+The goal, or end-state, sought by the First Philippine Republic was a sovereign, independent, socially stable Philippines led by the ''ilustrado'' ([[intellectual]]) [[oligarchy]].<ref name=Deady2005p57>{{Harvnb|Deady|2005|p=57}}</ref> Local chieftains, landowners, and businessmen were the ''[[principalia|principales]]'' who controlled local politics. The war was strongest when ''illustrados'', ''principales'', and peasants were unified in opposition to [[annexation]].<ref name=Deady2005p57 /> The peasants, who provided the bulk of guerrilla manpower, had interests different from their ''illustrado'' leaders and the principales of their villages.<ref name=Deady2005p57 />  Coupled with the ethnic and geographic fragmentation, unity was a daunting task. The challenge for Aguinaldo and his generals was to sustain unified Filipino public opposition; this was the revolutionaries' strategic center of gravity.<ref name=Deady2005p57 /> 
+
+The Filipino operational center of gravity was the ability to sustain its force of 100,000 irregulars in the field.<ref name=Deady2005p58>{{Harvnb|Deady|2005|p=58}}</ref> The Filipino general Francisco Makabulos described the Filipinos' war aim as, “not to vanquish the U.S. Army but to inflict on them constant losses.” They sought to initially use conventional tactics and an increasing toll of U.S. casualties to contribute to McKinley's defeat in the 1900 presidential election.<ref name=Deady2005p58 /> Their hope was that as President the avowedly anti-[[imperialism|imperialist]] [[William Jennings Bryan]] would withdraw from the Philippines.<ref name=Deady2005p58 /> They pursued this short-term goal with [[guerilla warfare|guerilla tactics]] better suited to a protracted struggle.<ref name=Deady2005p58 /> While targeting McKinley motivated the revolutionaries in the short term, his victory demoralized them and convinced many undecided Filipinos that the United States would not depart precipitately.<ref name=Deady2005p58 />
+
+== Guerrilla war phase ==
+In 1900, Aguinaldo shifted from conventional to guerrilla warfare, a means of operation which better suited their disadvantaged situation and made American occupation of the Philippine [[archipelago]] all the more difficult over the next few years. In fact, during just the first four months of the guerrilla war, the Americans had nearly 500 casualties. The Philippine Army began staging bloody ambushes and raids, such as the guerrilla victories at [[Battle of Paye|Paye]], [[Siege of Catubig|Catubig]], [[Battle of Makahambus|Makahambus]], [[Battle of Pulang Lupa|Pulang Lupa]], [[Balangiga Massacre|Balangiga]] and [[Battle of Mabitac|Mabitac]]. At first, it even seemed as if the Filipinos would fight the Americans to a stalemate and force them to withdraw. This was even considered by President McKinley at the beginning of the phase.
+
+The shift to guerrilla warfare, however, only angered the Americans into acting more ruthlessly than before. They began taking no prisoners, burning whole villages, and routinely shooting surrendering Filipino soldiers. Much worse were the [[concentration camps]] that civilians were forced into, after being suspected of being guerrilla sympathizers. Thousands of civilians died in these camps. In nearly all cases, the civilians suffered much more than the guerrillas.
+
+The subsequent American repression towards the population tremendously reduced the materials, men, and morale of many Filipino soldiers, compelling them in one way or another to surrender.
+
+== Decline and fall of the First Philippine Republic ==
+The Philippine Army continued suffering defeats from the better armed American Army during the conventional warfare phase, forcing Aguinaldo to continuously change his base of operations, which he did for nearly the length of the entire war.
+
+[[Image:Filipinoinsurgentssurrender.jpg|right|thumb|200px|A group of Filipino combatants are photographed just as they lay down their weapons prior to their surrender.]]
+On [[March 23]], [[1901]], General [[Frederick Funston]] and his troops captured Aguinaldo in [[Palanan, Isabela]], with the help of some Filipinos (called the [[Macabebe, Pampanga|Macabebe Scouts]] after their home locale) who had joined the Americans' side. The Americans pretended to be captives of the Macabebes, who were dressed in Philippine Army uniforms. Once Funston and his “captors” entered Aguinaldo's camp, they immediately fell upon the guards and quickly overwhelmed them and the weary Aguinaldo.
+
+On [[April 1]], [[1901]], at the [[Malacañang Palace]] in Manila, Aguinaldo swore an oath accepting the authority of the United States over the Philippines and pledging his allegiance to the American government. Three weeks later he publicly called on his followers to lay down arms. “Let the stream of blood cease to flow; let there be an end to tears and desolation,” Aguinaldo said. “The lesson which the war holds out and the significance of which I realized only recently, leads me to the firm conviction that the complete termination of hostilities and a lasting peace are not only desirable but also absolutely essential for the well-being of the Philippines.”<ref>{{Harvnb|Brands|1992|p=59}}</ref>
+
+The capture of Aguinaldo dealt a severe blow to the Filipino cause, but not as much as the Americans had hoped. The less competent General [[Mariano Trias]] succeeded him but surrendered shortly after.
+Command then fell to the highly regarded General [[Miguel Malvar]]{{Fact|date=August 2007}}, who originally had taken a defensive stance against the Americans, but now launched all-out offensives against the American-held towns in the [[Batangas]] region. Though his victories were small, they were a testament that the war was not yet over.
+
+In response, General [[J. Franklin Bell]] performed tactics that countered Malvar's guerrilla strategy. Forcing civilians to live in hamlets, interrogating suspected guerrillas (and regular civilians alike), and his execution of [[scorched earth]] campaigns took a heavy toll on the Filipino revolutionaries.
+
+Bell also relentlessly pursued Malvar and his men, breaking ranks, dropping morale, and forcing the surrender of many of the Filipino soldiers. Finally, in April 1902, after barely escaping capture, Malvar surrendered along with his sick wife and children and some of his most trusted officers who stood with him until the end. By the end of the month, nearly 3,000 of Malvar's men also surrendered.
+
+With the surrender of Malvar, the last truly capable general of the Philippine Army,{{Fact|date=August 2007}} the Filipino fight began to dwindle even further. Command changed hands frequently, as each general, one after another, was killed, captured, or surrendered.
+
+The United States government declared the conflict officially over in 1902. The Filipino leaders, for the most part, accepted that the Americans had won.
+
+===Post-1902 hostilities===
+Some Filipino nationalist historians like [[Renato Constantino]] have suggested that the war unofficially continued for nearly a decade, since bands of guerrillas, quasi-religious armed groups and other resistance groups continued to roam the countryside, still clashing with American Army or Philippine Constabulary patrols.<ref name="Past" /> 
+
+Simeon Ola of [[Guinobatan, Albay]] in the Bicol region has been suggested as the last Filipino general to surrender (on September 25, 1903) in place of Malvar.<ref>Dy-Liacco, Leonor R. (1996). ''Sarung Dolot sa Satuyang Ina.'' J & R Printing Co. Inc.</ref>
+
+In 1902, a veteran ''Katipunan'' member  and self-proclaimed ''generalisimo'' named [[Macario Sakay]] attempted to form [[Katagalugan|his own Republic]], called ''Katagalugan'' after Bonifacio's, in southern [[Luzon]]. After years of resistance, he was captured and executed in 1907 after accepting an amnesty offer.<ref>{{Citation
+|url=http://www.bibingka.com/phg/sakay/default.htm
+|last= Froles
+|first= Paul
+|title= Macario Sakay: Tulisán or Patriot?
+|publisher=Philippine History Group of Los Angeles}}<!-- Note: Copyright 1996 by Paul Flores and PHGLA, published online by copyright-holder --></ref><ref name="Past" />
+
+Quasi-religious armed groups included the ''pulajanes'' (so called because of their red garments), ''colorum'' (from a corruption of the Latin ''in saecula saeculorum'', part of the [[Glory Be to the Father]] prayer), and ''Dios-Dios'' (literally "God-God") groups of assorted provinces . These groups were mostly composed of farmers and other poor people led by messianic leaders, and they subscribed to a blend of [[Roman Catholic]]ism and folk beliefs. For example, they used [[amulet]]s (called ''agimat'' or ''anting-anting''), believing they would become bulletproof. One of these leaders was Dionisio Seguela, better known as [[Papa Isio]] (''Pope Isio'').  The last of these groups were wiped out or had surrendered by 1913.<ref name="Past" />
+
+These resistance movements were all dismissed by the American government as banditry, fanaticism or cattle rustling.<ref name="Past" />
+
+== American opposition to the war ==
+Some Americans, notably William Jennings Bryan, [[Mark Twain]], [[Andrew Carnegie]], Ernest Crosby, and other members of the [[American Anti-Imperialist League]], strongly objected to the annexation of the Philippines. Other Americans mistakenly thought that the Philippines wanted to become part of the United States. Anti-imperialist movements claimed that the United States had betrayed its lofty goals of the Spanish–American War by becoming a [[Colonialism|colonial]] power, merely replacing Spain in the Philippines. Other anti-imperialists opposed annexation on [[racism|racist]] grounds. Among these was Senator [[Benjamin Tillman]] of [[South Carolina]], who feared that annexation of the Philippines would lead to an influx of non-white immigrants, thus undermining white racial purity in America. As news of atrocities committed in subduing the Philippines arrived in the United States, support for the war flagged.
+
+[[Mark Twain]] famously opposed the war by using his influence in the press. He felt it betrayed the ideals of American democracy by not allowing the Filipino people to choose their own destiny.
+
+{{quote |“There is the case of the Philippines. I have tried hard, and yet I cannot for the life of me comprehend how we got into that mess. Perhaps we could not have avoided it — perhaps it was inevitable that we should come to be fighting the natives of those islands — but I cannot understand it, and have never been able to get at the bottom of the origin of our antagonism to the natives. I thought we should act as their protector — not try to get them under our heel. We were to relieve them from Spanish tyranny to enable them to set up a government of their own, and we were to stand by and see that it got a fair trial. It was not to be a government according to our ideas, but a government that represented the feeling of the majority of the Filipinos, a government according to Filipino ideas. That would have been a worthy mission for the United States. But now — why, we have got into a mess, a quagmire from which each fresh step renders the difficulty of extrication immensely greater. I'm sure I wish I could see what we were getting out of it, and all it means to us as a nation.”<ref>{{cite journal | author=Twain, Mark | title= Mark Twain, The Greatest American Humorist, Returning Home | journal= New York World| date=[[October 6]], [[1900]] | volume= | issue= | pages= | url= http://web.archive.org/web/20061010154645/http://shs.westport.k12.ct.us/conetta/US+History+Docs/mark_twain+anti-imperialism.htm}} (from internet archive)</ref> }}
+
+In 1904 or 1905, Twain dictated the [[The War Prayer (story)|War Prayer]] in protest against the Philippine-American war. It was submitted to Harper's Bazaar for publication, but on [[March 22]], [[1905]], the magazine rejected the story as "not quite suited to a woman's magazine." Because he had an exclusive contract with Harper & Brothers, Mark Twain could not publish The War Prayer elsewhere; it remained unpublished until 1923. According to one account, his illustrator [[Daniel Carter Beard|Dan Beard]] asked him if he would publish it regardless, and Twain replied that "Only dead men can tell the truth in this world. It can be published after I am dead."<ref name="Paine">{{cite book
+|url=http://www.gutenberg.org/dirs/2/9/8/2988/2988.txt
+|title=Mark Twain: A Biography : the Personal and Literary Life of Samuel Langhorne Clemens
+|author=Albert Bigelow Paine
+|year=1912
+|publisher=Harper & Brothers}}</ref> Mindful of public reaction, he considered that he had a family to support,<ref name="Brooks">{{cite book
+|url=http://ia331313.us.archive.org/0/items/ordealofmark00broorich/ordealofmark00broorich_djvu.txt
+|title=Ordeal of Mark Twain
+|author=Van Wyck Brooks
+|year=1920
+|publisher=E.P. Dutton & Company}}</ref> and did not want to be seen as a lunatic or fanatic.<ref name="Paine"/> In a letter to his confidant Joseph Twichell, he wrote that he had "suppressed" the book for seven years, even though his conscience told him to publish it, because he was not "equal" to the task.<ref name="Paine"/><ref>{{cite journal
+|url=http://www.populist.com/01.18.warprayer.html
+|journal=The Popululist
+|volume=7
+|issue=18
+|date=[[October 15]], [[2001]]
+|accessdate=2007-08-20}}</ref> The story was found in his manuscripts and published posthumously in 1923.<ref>{{cite journal | last=Twain | first=Mark | title= The War Prayer | journal= alibris | date=[[1904]]–[[1905]] | volume= | issue= | pages= | url=http://www.alibris.com/search/detail.cfm?chunk=25&mtype=&qwork=7120688&S=R&bid=8991933804&pbest=1%2E99&pqtynew=18&pbestnew=1%2E99&page=1&matches=69&qsort=r}}</ref>
+
+Some later historians, such as [[Howard Zinn]] and Daniel Boone Schirmer, cite the Philippine–American War as an example of [[American imperialism#US foreign interventions|American imperialism]].<ref>{{cite book| author=Zinn, Howard| title= A People’s History of the United States | publisher = Harper Collins Publishers |year=1999 }}; {{cite book| author=Schirmer, Daniel B.| title= Republic or Empire: American Resistance to the Philippine War | publisher = Schenkman |year=1972 }}</ref>
+
+== Casualties ==
+
+[[Image:Woundedfilipinos.jpg|right|thumb|200px|Some Filipinos wounded by the fighting in 1899]]
+During the war 4,324 American soldiers died, 1,000–1,500 of which were from actual combat; the remainder died of disease. 2,818 were wounded. There were also 2,000 casualties that the [[Philippine Constabulary]] suffered during the war, over one thousand of which were fatalities. Philippine military deaths are estimated at 20,000 with 16,000 actually counted, while civilian deaths numbered between 250,000 and 1,000,000 Filipinos. These numbers take into account those killed by war, malnutrition, and a [[cholera]] epidemic that raged during the war.<ref>{{Harvnb|Smallman-Raynor|1998}}</ref> The Philippine-American War Centennial Initiative gives an estimate of 510,000 civilian deaths, and 20,000 military deaths, excluding 100,000 deaths from the Moro Rebellion.{{Fact|date=April 2007}} The American military and Philippine Constabulary still suffered periodic losses combating small bands of Moro guerillas in the far south until 1913.
+
+The high Filipino casualty figures were a combination of the superior arms and even more superior numbers of the Americans, who were equipped with the most modern, up-to-date weapons in the world, including superb [[Krag-Jørgensen#American Krag-Jørgensen rifles|Krag-Jørgensen]] bolt-action rifles and [[machine gun]]s, and who were also well-led. Furthermore, U.S. warships stood ready to destroy Philippine positions when needed. In contrast, the Filipinos were armed with a motley collection of rifles such as [[Mauser]]s, many which had been taken from dead enemy soldiers or smuggled into the country by their fellow Filipinos. Their [[artillery]] was not much better, consisting mostly of worn-out artillery pieces captured from the Spanish. Although they did have a few [[Maxim gun|Maxim]] and [[Gatling gun|Gatling]] machine guns, along with a few modern [[Krupp]] artillery pieces, these were highly prized and taken to the rear for fear of capture before they could play any decisive role. Ammunition and rifles became more scarce as the war dragged on, and Filipinos were forced to manufacture their own, like the homemade ''[[paltik]]''. Still most did not even have firearms. Many used [[Bolo knife|bolo]]s, [[spear]]s, and [[lance]]s in fighting, which also contributed to high casualty figures when such obsolete weapons were used against the Americans' superior arms. However the Filipinos did have the advantage of knowing their own country and rough terrain well, in contrast to the Americans who were fighting on foreign terrain.
+
+In recognition of United States military service during the Philippine-American War, the [[United States military]] created two service decorations which were known as the [[Philippine Campaign Medal]] and the [[Philippine Congressional Medal]].
+
+In 1916, the United States granted the Philippines self-government and promised eventual independence, which came in 1946.
+
+== War crimes ==
+===American atrocities===
+[[Image:Phillipines.gif|right|thumb|200px|General [[Jacob H. Smith]]'s infamous order "''KILL EVERY ONE OVER TEN''" was the caption in the ''[[New York Journal]]'' cartoon on [[May 5]], [[1902]]. The [[Old Glory]] draped an [[Great Seal of the United States|American shield]] on which a [[vulture]] replaced the [[bald eagle]]. The bottom caption exclaimed, "''Criminals Because They Were Born Ten Years Before We Took the Philippines''". Published in the ''[[New York Journal-American]]'', [[May 5]], [[1902]].]]
+
+In 1908, [[Manuel Arellano Remondo]], in a book entitled "General Geography of the Philippine Islands", wrote:
+“The population decreased due to the wars, in the five-year period
+from 1895 to 1900, since, at the start of the first insurrection, the population was estimated at 9,000,000, and at present (1908), the inhabitants of the Archipelago do not exceed 8,000,000 in number.”<ref>{{Harvnb|Boot|2003|p=125}}</ref>
+
+U.S. attacks into the countryside often included scorched earth campaigns where entire villages were burned and destroyed, torture (''[[water cure]]'') and the concentration of civilians into “protected zones” (''[[concentration camps]]''). Many of the civilian casualties resulted from disease and famine.
+
+==== American soldiers' letters and response ====
+From almost the beginning of the war, soldiers wrote home describing, and usually bragging about, atrocities committed against Filipinos, soldiers and civilians alike. Increasingly, such personal letters, or portions of them, reached a national audience as anti-imperialist editors across the nation reproduced them.<ref>{{Harvnb|Miller|1982|p=88}};
+ *For a small sampling of some of the letters and statements see: Wikiquote: [http://en.wikiquote.org/wiki/Philippine-American_War#American_Torture_and_Attrocities_against_Filipinos American Torture and Attrocities against Filipinos], Wikisource: [[s:Secretary Root's Record:"Marked Severities" in Philippine Warfare|Anti-Imperalist summary of the findings of the Lodge Committee]], Wikipedia: [[Lodge Committee]], particularly the testiony of: [[Lodge committee#Sergeant Charles S. Riley .28 A.29|Charles S. Riley]], [[Lodge Committee#Private William L Smith .28 A.29|Private William L Smith]], [[Lodge Committee#Sergeant Edward J. Davis .28 A.29|Sergeant Edward J. Davis]], and [[Lodge Committee#ex-Corporal Richard Thomas O.27Brien .28 A.29|ex-Corporal Richard Thomas O'Brien]]</ref>
+
+Once these accounts were widely reproduced, the War Department was forced to demand that General Otis investigate their authenticity. For each press clipping, he forwarded it to the writer’s commanding officer, who would then convince the soldier to write a retraction.
+
+Private Charles Brenner of the [[Kansas]] regiment resisted such pressure. He insisted that [[Colonel Funston]]<ref>[[New York Sun]] March 10, 1902; p.&nbsp;234–235. In 1902 Funston toured the United States speaking to increase public support for the war in the Philippines. He said: ''“I personally strung up thirty-five Filipinos without trial, so what was all the fuss over Waller's ‘dispatching’ a few ‘treacherous savages’? If there had been more [[Jacob H. Smith|Smiths]] and [[Littleton Waller|Wallers]], the war would have been over long ago. Impromptu domestic hanging might also hasten the end of the war. For starters, all Americans who had recently petitioned Congress to sue for peace in the Philippines should be dragged out of their homes and lynched.'' — Colonel Frederick Funston at a banquet in Chicago.</ref> had ordered that all prisoners be shot and that Major Metcalf and Captain Bishop enforced these orders. Otis was obliged to order the Northern Luzon sector commander, [[Arthur MacArthur, Jr.|General MacArthur]], to look into the charge. Brenner confronted MacArthur’s aide with a corroborating witness, Private Putman, who confessed to shooting two prisoners after Bishop or Metcalf ordered, “Kill them! Damn it, Kill them!” MacArthur sent his aide’s report on to Otis with no comment. Otis ordered Brenner court-martialed “for writing and conniving at the publication of an article which... contains willful falsehoods concerning himself and a false charge against Captain Bishop.” The judge advocate in Manila convinced Otis that such a trial could open a [[Pandora’s box]] because “facts would develop implicating many others.”
+
+General Otis sent the Brenner case to Washington writing: “After mature deliberation, I doubt the wisdom of court-martial in this case, as it would give the insurgent authorities a knowledge of what was taking place and they would assert positively that our troops had practiced inhumanities, whether the charge should be proven or not, as they would use it as an excuse to defend their own barbarities;” and Otis went on, justifying the war crimes, “and it is not thought that his charge is very grievous under the circumstances then existing, as it was very early in the war, and the patience of our men was under great strain.”<ref>{{Harvnb|Miller|1982|p=89}};
+
+* {{cite journal | author=Storey, Moorfield and Codman, Julian | title= Secretary Root's Record: “Marked Severities” in Philippine Warfare| journal=Philippine Investigating Committee | year= | volume= | issue= | pages= 12–15| url=http://en.wikisource.org/wiki/Secretary_Root%27s_Record:%22Marked_Severities%22_in_Philippine_Warfare#How_Charges_Were_Investigated }}</ref>
+
+Towards the end of 1899, General Otis attempted to repair his battered image. He began to work to win new friends among the journalists in Manila and bestowed favors on any journalist who gave him favorable press.<ref>{{Harvnb|Miller|1982|p=91}}</ref>
+
+==== Concentration camps ====
+As one historian wrote about [[Marinduque]], the first island with concentration camps:
+
+: “The triple press of concentration (camps), devastation, and harassment led Abad (the Marinduque commander) …to request a truce to negotiate surrender terms… The Army pacified Marinduque not by winning the allegiance of the people, but by imposing coercive measures to control their behavior and separate them from the insurgents in the field. Ultimately, military and security measures proved to be the (essential element) of Philippine pacification.”<ref>{{cite journal | author= Birtle, Andrew J. | title=The U.S. Army's Pacification of Marinduque, Philippine Islands, April 1900 – April 1901 | journal= The Journal of Military History | year= April 1997| volume=61 | issue= | pages=255–282 | url=http://www.livejournal.com/users/bailey83221/49712.html }}</ref>
+
+This assessment could probably be applied to all of the Philippines.
+
+=== Filipino atrocities ===
+To counter the bad press back in America, General Otis stated that insurgents tortured American prisoners in “fiendish fashion”, some of whom were buried alive, or worse, up to their necks in anthills to be slowly devoured. Others were castrated, had the removed parts stuffed into their mouths, and were then left to suffocate or bleed to death. It was also stated that some prisoners were deliberately infected with [[leprosy]] before being released to spread the disease among their comrades. Spanish priests were horribly mutilated before their congregations, and natives who refused to support Emilio Aguinaldo were slaughtered by the thousands. American newspaper headlines announced the “Murder and Rapine” by the “Fiendish Filipinos.” [[Joseph Wheeler|General “Fighting Joe” Wheeler]] insisted that it was the Filipinos who had mutilated their own dead, murdered women and children, and burned down villages, solely to discredit American soldiers.<ref>{{Harvnb|Miller|1982|pp=92–93}}</ref>
+
+Other events dubbed atrocities included those by General [[Vicente Lukban]], the Filipino commander who masterminded the [[Balangiga Massacre]] in [[Samar]] province, a surprise attack that killed over fifty American soldiers. Media reports stated that many of the bodies were mutilated.<ref>{{Harvnb|Boot|2003|p=102}}</ref> The attack itself triggered American reprisals in Samar, ordered by General [[Jacob H. Smith|Jacob Hurd Smith]], who said, "I want no prisoners. I wish you to kill and burn, the more you kill and burn the better it will please me. I want all persons killed who are capable of bearing arms in actual hostilities against the United States", and defined this as everyone over ten years old. To his credit, Major [[Littleton Waller]] countermanded it to his own men. Nevertheless, some of his men "undoubtedly" carried out atrocities.<ref>{{Harvnb|Miller|1982|p=91}}</ref>
+
+Sergeant Hallock testified in the [[Lodge Committee]] that natives were given the [[water cure]], “…in order to secure information of the murder of Private O'Herne of Company I, who had been not only killed, but roasted and otherwise tortured before death ensued.”<ref>''[Lodge Committee testimony from the New York Times#The Water Cure Described|The Water Cure Described. Discharged Soldier Tells Senate Committee How and Why the Torture Was Inflicted.]]'' [[New York Times]] May 4, 1902. p.&nbsp;13</ref>
+
+On the Filipino side, information regarding atrocities comes from the eyewitnesses and the participants themselves. In his ''History of the Filipino People'' [[Teodoro Agoncillo]] writes that the Filipino troops could match and even exceed the Americans' penchant for brutality. Kicking, slapping, and spitting at faces were common. In some cases, ears and noses were cut off and salt applied to the wounds. In other cases, captives were buried alive. These atrocities occurred regardless of Aguinaldo's orders and circulars concerning the good treatment of prisoners.<ref name="agoncillo" />
+
+=== Reporters and Red Cross accounts contradict Otis ===
+During the closing months of 1899, Emilio Aguinaldo attempted to counter General Otis’s account by suggesting that neutral parties — foreign journalists or representatives of the [[International Red Cross]] — inspect his military operations. Otis refused, but Emilio Aguinaldo managed to smuggle in four reporters — two English, one Canadian, and a Japanese — into the Philippines. The correspondents returned to Manila to report that American captives were “treated more like guests than prisoners,” were “fed the best that the country affords, and everything is done to gain their favor.” The story went on to say that American prisoners were offered commissions in the Filipino army and that three had accepted. The four reporters were expelled from the Philippines as soon as their stories were printed.<ref>{{Harvnb|Miller|1982|p=93}};
+ *{{cite journal | author= | title= Ferocity Of The Filipinos. Massacre and Rapine Marked the Course of Their Biggest Warship Until It Fell Foul of a Typhoon | journal=[[New York Times]]| year=August 7, 1899 | volume= | issue= | pages= | url=http://en.wikisource.org/wiki/Ferocity_Of_The_Filipinos#Filipino_atrocities}} p.&nbsp;4;
+ *[[Public Opinion]] volume 27 (1899), p.&nbsp;291;
+
+* [[San Francisco Call]] February 14, 21, 23, March 30, 31, May 29, June 9, July 17, 1899</ref>
+
+Emilio Aguinaldo also released some American prisoners so they could tell their own stories. In a [[Boston Globe]] article entitled “With the Goo Goo’s” Paul Spillane described his fair treatment as a prisoner. Emilio Aguinaldo had even invited American captives to the christening of his baby and had given each a present of four dollars, Spillane recounted.
+
+Naval Lieutenant J.C. Gilmore, whose release was forced by American cavalry pursuing Aguinaldo into the mountains, insisted that he had received “considerable treatment” and that he was no more starved than were his captors. Otis responded to these two articles by ordering the “capture” of the two authors, and that they be “investigated”, therefore questioning their loyalty.<ref>{{Harvnb|Miller|1982|p=93}};
+
+* [[Literary Digest]] Volume 18 (1899), p.&nbsp;499</ref>
+
+When F.A. Blake of the International Red Cross arrived at Emilio Aguinaldo’s request, Otis kept him confined to Manila, where Otis’s staff explained all of the Filipinos' violations of civilized warfare. Blake managed to slip away from an escort and venture into the field. Blake never made it past American lines, but even within American lines he saw burned out villages and “horribly mutilated bodies, with stomachs slit open and occasionally decapitated.” Blake waited to return to [[San Francisco]], where he told one reporter that “American soldiers are determined to kill every Filipino in sight.”<ref>{{Harvnb|Miller|1982|p=94}};
+
+* [[Boston Globe]] June 27, 1900;
+* [[Literary Digest]] Volume 20 (1900), p.&nbsp;25;
+* [[San Francisco Call]] December 8, 1899, February 16, 1900</ref>
+
+=== Ratio of Filipinos wounded ===
+The most conclusive evidence that the enemy wounded were being killed, came from the official reports of Otis and his successor, General [[Arthur MacArthur, Jr.]], which claimed fifteen Filipinos killed for every one wounded. In the [[American Civil War]], the ratio had been five wounded for every soldier killed, which is close to historical norm. Otis attempted to explain this anomaly by the superior marksmanship of rural southerners and westerners in the U.S. military, who had hunted all their lives.
+MacArthur added a racial twist, asserting that Anglo-Saxons do not succumb to wounds as easily as do men of “inferior races.”<ref>{{Harvnb|Miller|1982|p=189}}
+* {{Citation
+|chapter-last=Nebrida
+|chapter-first=Victor
+|chapter=The Balangiga Massacre: Getting Even
+|chapter-url=http://www.bibingka.com/phg/balangiga/
+|editor=Hector Santos
+|title=Philippine History and Culture Series
+|url=http://www.bibingka.com/phg/menu.htm
+|publisher=The Philippine History Group of Los Angeles
+|date=[[15 June]], [[1997]]
+|accessdate=[[2007-12-21]]}}</ref>
+
+== Consequences ==
+===Muslims===
+In the south, Muslim Filipinos resisted until 1913— the so-called [[Moro rebellion]]. They were never part of Aguinaldo's movement but independently fought the Americans.
+
+During this conflict, the Americans realized a need to be able to stop a charging tribesman with a single shot. To fill this need, the [[M1911 pistol]] was later developed using larger caliber ammunition ([[.45 ACP]]), resulting in additional [[stopping power]]. In the interim the older [[Colt Single Action Army]] in [[.45 Colt]] was re-issued.
+
+=== English education and the Catholic Church ===
+The Roman Catholic Church was disestablished, and a considerable amount of church land was purchased and redistributed. However, the bulk of the land was quickly bought up by American companies with little going to Filipino peasants.{{Fact|date=February 2007}}
+
+During the U.S. occupation, [[English language|English]] was declared the official language, although the languages of the Philippine people were [[Spanish language|Spanish]], [[Visayan languages|Visayan]], [[Tagalog language|Tagalog]], [[Ilokano language|Ilokano]], [[Pangasinan language|Pangasinan]] and other native languages. The English requirement barred many from political office and ensured a dependency on American administrators.
+
+Also, five hundred and forty American teachers were imported aboard the ''[[USS Thomas]]''. The first task of the [[Thomasites]] was to reform the education system to one that maintained an anti-Spanish curriculum but glossed over existing American atrocities.{{Fact|date=February 2007}} It also ensured that [[Filipino nationalism]] would rise no more as an important force..
+
+== Quotes ==
+{{wikiquote}}
+In the fall of 1899, MacArthur, who was still loyal to General Otis, said to reporter H. Irving Hannock:
+
+{{quote |When I first started in against these rebels, I believed that Aguinaldo’s troops represented only a faction. I did not like to believe that the whole population of [[Luzon]] — the native population that is — was opposed to us and our offers of aid and good government. But after having come this far, after having occupied several towns and cities in succession, and having been brought much into contact with both insurrectos and amigos, I have been reluctantly compelled to believe that the Filipino masses are loyal to Aguinaldo and the government which he heads.<ref>{{Harvnb|Miller|1982|p=94}}; ''[[San Francisco Call]]'', [[March 31]] – [[September 1]], [[1899]]</ref>}}
+
+== See also ==
+* [[Battles of the Philippine-American War]]
+* [[Black Legend]]
+* [[George Dewey]]
+* [[Genocide]]
+* [[History of the Philippines]]
+* [[Katagalugan]]
+* [[Lodge Committee]]
+* [[Philippine Scouts]]
+* [[Timeline of Philippine-American War]]
+* [[Vicente Lukban]]
+* [[The White Man's Burden]], written in regard to the U.S. conquest of the Philippines and other former Spanish colonies
+
+== Notes ==
+
+<div class="references-small" style="column-count: 2;"><references/></div>
+
+== References ==
+* {{cite book | author= Joaquin, Nicomedes| title= A Question of Heroes| year= 1977| id=ISBN 971-27-1545-0}}
+
+* {{cite book | author=Agoncillo, Teodoro A | title=Malolos: The crisis of the republic | publisher=University of the Philippines Press | year=1997 | id=ISBN 971-542-096-6}}<font size="1">Kenton J. Clymer States “The book provides the best account to date of the inner dynamics of the Filipino side of the war.” — Review: Not so Benevolent Assimilation: The Philippine-American War, ''Reviews in American History'' Vol. 11, No. 4 (Dec., 1983), pp. 547–52</font>
+
+* {{Citation
+| last = Boot
+| first = Max
+| author-link=Max Boot
+| title= The Savage Wars of Peace: Small Wars and the Rise of American Power
+| publisher= Basic Books
+| year = 2003
+| isbn=0-465-00720-1 }}
+
+* {{Citation
+| last =Brands
+| first =H. W.
+| author-link = H. W. Brands
+| year =1992
+| title =Bound to Empire: The United States and the Philippines
+| publisher =Oxford University Press
+| isbn=0195071042
+}}
+
+* {{Citation
+| last = Deady
+| first = Timothy K.
+| title = Lessons from a Successful Counterinsurgency: The Philippines, 1899–1902
+| url = http://www.carlisle.army.mil/usawc/Parameters/05spring/deady.pdf
+| journal = Parameters'
+| volume = 35
+| issue = 1
+| month = Spring
+| year = 2005
+| pages = 53-68
+}}
+
+* {{cite book | author=Gates, John M. | title=Schoolbooks and Krags: The United States Army in the Philippines, 1898–1902 | publisher=Greenwood Press | year=1973 | id=ISBN 0-8371-5818-4}}
+* Gates, John. “War-Related Deaths in the Philippines, 1898–1902”, ''Pacific Historical Review'' 53:367+ (1983)
+* {{Citation
+|url=http://www.wooster.edu/history/jgates/book-contents.html
+|title=The US Army and Irregular Warfare
+|last=Gates
+|first=John M.
+|chapter-url=http://www.wooster.edu/history/jgates/book-ch3.html
+|chapter=Chapter 3: The Pacification of the Philippines
+|publisher=The College of Wooster}}
+
+* {{Citation
+| last = Karnow
+| first =Stanley
+| author-link =Stanley Karnow
+| title =In Our Image: America's Empire in the Philippines
+| url=http://books.google.com/books?id=pJqMAAAACAAJ
+| publisher =Ballantine Books
+|year=1990
+|isbn=0345328167
+}}
+
+* {{cite book | author=Linn, Brian McAllister | title=The U.S. Army and Counterinsurgency in the Philippine War, 1899–1902 | publisher=University of North Carolina Press | year=2000 | id=ISBN 0-8078-4948-0}}
+* {{cite book | author=May, Glenn Anthony| title=Battle for Batangas: A Philippine Province at War | publisher=Yale University Press | year=1991 | id= ISBN 0-300-04850-5}}
+* {{Citation 
+| last=Miller
+| first = Stuart Creighton 
+| title=Benevolent Assimilation: The American Conquest of the Philippines, 1899–1903 
+|url=http://books.google.com/books?id=Zj6g2ag47TwC
+| publisher = Yale University Press 
+| year=1982 
+| isbn= 0-300-02697-8
+}} <font size="1">Kenton J. Clymer States “The War Miller describes is a more believable one than the one Gates pictures.”</font>
+* {{cite book | author=Schirmer, Daniel B.| title=Republic or Empire: American Resistance to the Philippine War | publisher=Schenkman| year=1972 | id=ISBN 0-87073-105-X}}
+* {{cite book | author=Schirmer, Daniel B. Stephen Rosskamm Shalom| title =The Philippines Reader: A History of Colonialism, Neocolonialism, Dictatorship, and Resistance| publisher=South End Press | year=1987 | id=ISBN 0-89608-275-X}}
+* {{cite book | author=Shaw, Angel Velasco | title=Vestiges of War: The Philippine-American War and the Aftermath of an Imperial Dream, 1899–1999| publisher=New York University Press | year=2002 | id=ISBN 0-8147-9791-1}}
+* David J. Silbey ''A War of Frontier and Empire: The Philippine-American War, 1899-1902'' (2007)
+
+* {{Citation
+| first =Matthew
+| last =Smallman-Raynor
+| authorlink =
+| coauthors =Andrew D Cliff
+| year =1998
+| month =January
+| title =The Philippines Insurrection and the 1902–4 cholera epidemic: Part&nbsp;I — Epidemiological diffusion processes in war
+| journal =Journal of Historical Geography
+| volume =24
+| issue =1
+| pages =69–89
+}}
+
+* T.A. Agoncillo/M.C. Guerrero, History of the Filipino People, Quezon City, 1987, p. 159
+* {{cite book | author=Twain, Mark and Jim Zwick | title=Mark Twain's Weapons of Satire: Anti-Imperialist Writings on the Philippine-American War| publisher=Syracuse University Press | year=1992 | id=ISBN 0-8156-0268-5}}
+* {{cite book | author=Wolff, Leon. | title=Little Brown Brother: How the United States Purchased and Pacified the Philippine Islands at the Century's Turn| publisher=Doubleday & Company, Inc | year=1960 | id=Library of Congress Catalog Card Number 61-6528}}
+* Zwick, Jim. ''Friends of the Filipino People Bulletin''
+* {{Citation |last=Zwick |first=Jim |title=Militarism and Repression in the Philippines |publisher=Centre for Developing-Area Studies, McGill University |year=1982 |isbn=0888190549}}
+* Zwick, Jim. “Prodigally Endowed with Sympathy for the Cause:” Mark Twain's Involvement with the Anti-Imperialist League” (Ephemera Society of America (January 1, 1992) ASIN B0006R8RJ8
+* Young, Kenneth Ray; ''The General's General: The Life and Times of Arthur Macarthur'' Westview Press, 1994
+
+== Further reading ==
+
+* The "[[Lodge Committee]]" (a.k.a. Philippine Investigating Committee) hearings and a great deal of documentation were published in three volumes (3000 pages) as '''S. Doc. 331, 57th Cong., 1st Session''' An abridged version of the oral testimony can be found in: ''American Imperialism and the Philippine Insurrection: Testimony Taken from Hearings on Affairs in the Philippine Islands before the Senate Committee on the Philippines—1902''; edited by Henry F Graff; Publisher: Little, Brown; 1969. ASIN: B0006BYNI8
+* Wilcox, Marrion. ''Harper's History of the War''.  Harper, New York and London 1900, reprinted 1979. [Alternate title:  ''Harper's History of the War in the Philippines''].  Also reprinted in the Philippines by Vera-Reyes.
+* [[s:Secretary Root's Record:"Marked Severities" in Philippine Warfare|Secretary Root's Record:"Marked Severities" in Philippine Warfare &mdash; Wikisource]]
+
+== External links ==
+
+* {{cite web
+
+| title =Images from the Philippine-United States War
+| work =historicaltextarchive.com
+| url =http://historicaltextarchive.com/sections.php?op=viewarticle&artid=479
+| accessdate=2006-05-20
+}}
+
+* {{cite web
+
+| title =The Philippine Centennial Celebration
+| work =MSC Computer Training Center.
+| url =http://www.msc.edu.ph/centennial/
+| accessdate=2006-05-20
+}}
+
+* [http://www.historyguy.com/PhilipineAmericanwar.html A brief description of the war between the United States and the Philippines which began in 1899.]
+
+* [http://de.geocities.com/hispanofilipino/Articles/Estadisticas03.html A brief balance about the rate of casualties among Filipino rows.]
+
+* [http://www.everything2.com/index.pl?node_id=524887 Philippine-American War] on [[Everything2]].
+
+*[http://pinoynewsmagazine.com/default.asp?sourceid=&smenu=66&twindow=Default&mad=No&sdetail=260&wpage=1&skeyword=&sidate=&ccat=&ccatm=&restate=&restatus=&reoption=&retype=&repmin=&repmax=&rebed=&rebath=&subname=&pform=&sc=1536&hn=pinoynewsmagazine&he=.com "Aug. 13, 1898 and RP’s short-lived republic"] by By Mariano "Anong" Santos, Pinoy Newsmagazine, August 2006
+
+*[http://www.hartford-hwp.com/archives/54a/051.html "Imperial Amnesia"] by John B. Judis, Foreign Policy, July/August 2004
+
+{{American conflicts}}
+
+{{Philippine Revolution}}
+
+[[Category:Philippine-American War|Philippine-American War]]
+[[Category:Wars of independence]]
+[[Category:Wars involving the Philippines]]
+[[Category:Wars involving the United States]]
+
+{{Link FA|tl}}
+
+[[ar:حرب فلبينية أمريكية]]
+[[de:Philippinisch-Amerikanischer Krieg]]
+[[es:Guerra Filipino-Estadounidense]]
+[[lv:Filipīniešu - ASV karš]]
+[[nl:Filipijns-Amerikaanse Oorlog]]
+[[ja:米比戦争]]
+[[no:Den filippinsk-amerikanske krig]]
+[[nn:Den filippinsk-amerikanske krigen]]
+[[ru:Филиппино-американская война]]
+[[sr:Филипинско-амерички рат]]
+[[sv:Filippinsk-amerikanska kriget]]
+[[tl:Digmaang Pilipino-Amerikano]]

@@ -1,0 +1,91 @@
+The Horner-Wadsworth-Emmons reaction (or HWE reaction) is the chemical reaction of stabilized phosphonate carbanions with aldehydes (or ketones) to produce predominantly E-alkenes.
+
+Image:Horner-Wadsworth-Emmons_Reaction_Example.png|center|350px|The Horner-Wadsworth-Emmons reaction
+
+In 1958, Horner published a modified Wittig reaction using phosphonate-stabilized carbanions.;Horner, L.; Hoffmann, H. M. R.; Wippel, H. G. ''Ber.'' 1958, ''91'', 61-63.;;Horner, L.; Hoffmann, H. M. R.; Wippel, H. G.; Klahre, G. ''Ber.'' 1959, ''92'', 2499-2505.;Wadsworth and Emmons further defined the reaction.;Wadsworth, W. S., Jr.; Emmons, W. D. ''J. Am. Chem. Soc.'' 1961, ''83'', 1733. ();;Wadsworth, W. S., Jr.; Emmons, W. D. ''Organic Syntheses'', Coll. Vol. 5, p.547 (1973); Vol. 45, p.44 (1965). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv5p0547 Article]);
+
+In contrast to phosphonium ylides used in the Wittig reaction, phosphonate-stabilized carbanions are more nucleophilic and more basic.Likewise, phosphonate-stabilized carbanions can be alkylated, unlike phosphonium ylides. The dialkylphosphate salt byproduct is easily removed by aqueous liquid-liquid extraction|extraction.
+
+Several reviews have been published.;Wadsworth, W. S., Jr. ''Org. React.'' 1977, ''25'', 73-253. (Review);;Boutagy, J.; Thomas, R. ''Chem. Rev.'' 1974, ''74'', 87-99. (Review, );;Kelly, S. E. ''Comp. Org. Syn.'' 1991, ''1'', 729-817. (Review);;Maryanoff, B. E.; Reitz, A. B. ''Chem. Rev.'' 1989, ''89'', 863-927. (Review, );
+
+Reaction mechanism
+The Horner-Wadsworth-Emmons reaction begins with the deprotonation of the phosphonate to give the phosphonate carbanion 1.Nucleophilic addition of the carbanion onto the aldehyde 2 (or ketone) producing 3a or 3b is the rate-limiting step.;Larsen, R. O.; Aksnes, G. ''Phosphorus Sulfur'' 1983, ''15'', 218-219.;If R;2;=H, then intermediates 3a and 4a and intermediates 3b and 4b can interconvert with each other.;Lefèbvre, G.; Seyden-Penne, J. ''J. Chem Soc., Chem. Commun.'' 1970, 1308-1309.;The final elimination of 4a and 4b yield E-alkene 5 and Z-alkene 6.
+
+The mechanism of the Horner-Wadsworth-Emmons reaction
+
+The ratio of alkene isomers 5 and 6 is dependent upon the stereochemical outcome of the initial carbanion addition and upon the ability of the intermediates to equilibrate.
+
+The electron-withdrawing group (EWG) alpha to the phosphonate is necessary for the final elimination to occur.In the absence of an electron-withdrawing group, the final product is the α-hydroxyphosphonate 3a and 3b.;E. J. Corey|Corey, E. J.; Kwiatkowski, G. T. ''J. Am. Chem. Soc.'' 1966, ''88'', 5654-5656. ();However, these α-hydroxyphosphonates can be transformed to alkenes by reaction with diisopropylcarbodiimide.;Reichwein, J. F.; Pagenkopf, B. L. ''J. Am. Chem. Soc.'' 2003, ''125'', 1821-1824. ();
+
+Stereoselectivity
+The Horner-Wadsworth-Emmons reaction favours the formation of E-alkenes.In general, the more equilibration amongst intermediates, the higher the selectivity for E-alkene formation.
+
+=Disubstituted alkenes=
+Thompson and Heathcock have performed a systematic study of the reaction of trimethyl phosphonoacetate with various aldehydes.;Thompson, S. K.; Heathcock, C. H. ''J. Org. Chem.'' 1990, ''55'', 3386-3388. ();While each effect was small, they had a cumulative effect making it possible to modify the stereochemical outcome without modifying the structure of the phosphonate.They found greater E-stereoselectivity with the following conditions:
+* Increasing steric bulk of the aldehyde
+* Higher reaction temperatures (23 °C over -78 °C)
+* Li >; Na >; K salts
+* Using the solvent DME over THF
+
+In a separate study, it was found that bulky phosphonate and bulky electron-withdrawing groups enhance E-alkene selectivity.
+
+=Trisubstituted alkenes=
+The steric bulk of the phosphonate and electron-withdrawing groups plays a critical role in the reaction of α-branched phosphonates with aliphatic aldehydes.;Nagaoka, H.; Kishi, Y. ''Tetrahedron'' 1981, ''37'', 3873-3888.;
+
+Example of the Horner-Wadsworth-Emmons reaction with branched phosphonates
+
+{| align=&quot;center&quot;
+! R;1; 
+! R;2;
+! Ratio of alkenes;( E : Z )
+|- 
+| Methyl 
+| Methyl 
+| align=&quot;center&quot; | 5 : 95
+|- 
+| Methyl 
+| Ethyl 
+| align=&quot;center&quot; | 10 : 90
+|- 
+| Ethyl 
+| Ethyl 
+| align=&quot;center&quot; | 40 : 60
+|- 
+| Isopropyl
+| Ethyl 
+| align=&quot;center&quot; | 90 : 10
+|- 
+| Isopropyl 
+| Isopropyl 
+| align=&quot;center&quot; | 95 : 5
+|}
+
+Aromatic aldehydes produce almost exclusively E-alkenes.In case Z-alkenes from aromatic aldehydes are needed, the Still modification (see below) can be used.
+
+=Olefination of ketones=
+The stereoselectivity of the Horner-Wadsworth-Emmons reaction of ketones is poor to modest.
+
+Variations
+=Base sensitive substrates=
+Since many substrates are not stable to sodium hydride, several procedures have been developed using milder bases.Masamune and Roush have developed mild conditions using lithium chloride and DBU.;Blanchette, M. A.; Choy, W.; Davis, J. T.; Essenfeld, A. P.; Masamune, S.; Roush, W. R.; Sakai, T. ''Tetrahedron Lett.'' 1984, ''25'', 2183-2186.;Rathke extended this to lithium or magnesium halides with triethylamine.;Rathke, M. W.; Nowak, M. ''J. Org. Chem.'' 1985, ''50'', 2624-2626. ();Several other bases have been found effective.;Paterson, I.; Yeung, K.-S.; Smaill, J. B. ''Synlett'' 1993, 774.;;Simoni, D.; Rossi, M.; Rondanin, R.; Mazzali, A.; Baruchello, R.; Malagutti, C.; Roberti, M.; Invidiata, F. P. ''Org. Lett.'' 2000, ''2'', 3765-3768.;;Blasdel, L. K.; Myers, A. G. ''Org. Lett.'' 2005, ''7'', 4281-4283.;
+
+=Still modification=
+Still and Gennari have developed conditions that give Z-alkenes with excellent stereoselectivity.;Still, W. C.; Gennari, C. ''Tetrahedron Lett.'' 1983, ''24'', 4405-4408.; Using phosphonates with electron-withdrawing groups (trifluoroethyl;Patois, C.; Savignac, P.; About-Jaudet, E.; Collignon, N. ''Organic Syntheses'', Coll. Vol. 9, p.88 (1998); Vol. 73, p.152 (1996). ([http://www.orgsyn.org/orgsyn/prep.asp?prep=cv9p0088 Article]);) together with strongly dissociating conditions (KHMDS and 18-crown-6 in THF) nearly exclusive Z-alkene production can be achieved.
+
+The Still modification of the Horner-Wadsworth-Emmons reaction
+
+Ando has suggested that the use of electron-deficient phosphonates accelerates the elimination of the oxaphosphatane intermediates.;Ando, K. ''J. Org. Chem.'' 1997, ''62'', 1934–1939. ();
+
+References
+
+
+See also
+*Michaelis-Arbusov reaction
+*Michaelis-Becker reaction
+*Peterson reaction
+*Tebbe olefination
+
+Category:Carbon-carbon bond forming reactions
+
+de:Horner-Wadsworth-Emmons-Reaktion
+ja:ホーナー・ワズワース・エモンズ反応

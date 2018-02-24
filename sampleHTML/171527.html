@@ -1,0 +1,52 @@
+
+<p>{{Infobox_Software}}
+<div style="wigth:300px"><a class="internal" href="/wiki/Image:300px-Autoconf.svg.png" title="Flow diagram of autoconf and [[automake]]"><img src="http://en.wikipedia.org/wiki/300px-Autoconf.svg.png" alt="Flow diagram of autoconf and [[automake]]" title="Flow diagram of autoconf and [[automake]]" class="location-none type-thumb" width="300px" />
+</a>
+<div class="thumbcaption">Flow diagram of autoconf and <a href="/wiki/Automake" id="w">automake</a></div></div>
+
+<b>Autoconf</b> is a tool for producing <a href="/wiki/Shell_script" id="w">shell scripts</a> that automatically configure software <a href="/wiki/Source_code" id="w">source code</a> packages to adapt to many kinds of <a href="/wiki/UNIX-like" id="w">UNIX-like</a> systems.  The configuration scripts produced by Autoconf are independent of it when they are run.</p>
+<p>Together with <a href="/wiki/Automake" id="w">Automake</a> and <a href="/wiki/Libtool" id="w">Libtool</a>, Autoconf forms the <a href="/wiki/GNU_build_system" id="w">GNU build system</a>.</p>
+<p>Autoconf makes use of <a href="/wiki/GNU_m4" id="w">GNU m4</a> to transform a user-written &#39;configure.ac&#39; (formerly, and on older projects, called &#39;configure.in&#39;) file to a portable shell script called &#39;configure&#39;.  The &#39;configure&#39; script runs non-interactively, and generates customized headers and <a href="/wiki/Makefile" id="w">makefiles</a> derived from pre-written templates. You could say that Autoconf <a href="/wiki/Compiler" id="w">compiles</a> the <a href="/wiki/M4_(language)" id="w">M4</a> program in &#39;configure.ac&#39; into a shell script.</p>
+<p>Autoconf was begun in the summer of 1991 by David Mackenzie to support his work at the <a href="/wiki/Free_Software_Foundation" id="w">Free Software Foundation</a>.  In the subsequent years it grew to include enhancements from a variety of authors and became the most widely used build configuration system for writing portable free or open source software.</p>
+<a id="Approach" name="Approach"></a><h2> Approach </h2>
+<p>Autoconf is similar to the <a href="/wiki/Metaconfig" id="w">Metaconfig</a> package used by <a href="/wiki/Perl" id="w">Perl</a>.  The <a href="/wiki/Imake" id="w">imake</a> system formerly used by the <a href="/wiki/X_Window_System" id="w">X Window System</a> (up to X11R6.9) is closely related, but has a different philosophy.</p>
+<p>The Autoconf approach to <a href="/wiki/Porting" id="w">portability</a> is to test for <a href="/wiki/Feature" id="w">features</a>, not for <a href="/wiki/Version" id="w">versions</a>. For example, the native C compiler on SunOS 4 did not support <a href="/wiki/C_(programming_language)" id="w">ISO C</a>. However, it is possible for the user or administrator to have installed an ISO C compliant compiler.  A pure version-based approach would not detect the presence of the ISO C compiler, but a feature testing approach would be able to discover the ISO C compiler the user had installed. The rationale of this approach is to gain the following advantages:</p>
+
+<ul>
+<li>the configure script can get reasonable results on newer or unknown systems</li>
+<li>it allows <a href="/wiki/System_administrator" id="w">administrators</a> to customize their machines and have the configure script take advantage of the customizations</li>
+<li>there&#39;s no need to keep track of minute details of versions, patch numbers, etc., to figure out whether a particular feature is supported or not</li></ul>
+<a id="See_also" name="See_also"></a><h2>See also</h2>
+
+<ul>
+<li><a href="/wiki/GNU_build_system" id="w">GNU build system</a></li>
+<li><a href="/wiki/Sane_build_environment" id="w">Sane build environment</a></li>
+<li><a href="/wiki/Pkg-config" id="w">pkg-config</a> Detecting package dependencies</li>
+<li><a href="/wiki/CMake" id="w">CMake</a> Alternative build system</li></ul>
+<a id="External_links" name="External_links"></a><h2>External links</h2>
+<p>{{portal}}
+</p>
+<ul>
+<li><a class="externallink" href="http://www.gnu.org/software/autoconf/" rel="nofollow" title="http://www.gnu.org/software/autoconf/">GNU Autoconf home page</a></li>
+<li><a class="externallink" href="http://www.gnu.org/software/ac-archive/" rel="nofollow" title="http://www.gnu.org/software/ac-archive/">GNU Autoconf macro archive</a></li>
+<li><a class="externallink" href="http://sources.redhat.com/autobook/" rel="nofollow" title="http://sources.redhat.com/autobook/">&#39;&#39;The Goat Book&#39;&#39; homepage (aka the Autobook)</a></li>
+<li>Tutorial &#34;<a class="externallink" href="http://www.amath.washington.edu/~lf/tutorials/autoconf/" rel="nofollow" title="http://www.amath.washington.edu/~lf/tutorials/autoconf/">Learning Autoconf and Automake</a>&#34; by <a href="/wiki/Eleftherios_Gkioulekas" id="w">Eleftherios Gkioulekas</a></li>
+<li><a class="externallink" href="http://autotoolset.sourceforge.net/tutorial.html" rel="nofollow" title="http://autotoolset.sourceforge.net/tutorial.html">&#39;&#39;Learning the GNU development tools&#39;&#39; @sourceforge</a></li>
+<li>Murray Cumming (of <a href="/wiki/Gtkmm" id="w">gtkmm</a> fame) produced these succinct Autotool info pages:<a class="externallink" href="http://www.openismus.com/documents/linux/automake/automake.shtml" rel="nofollow" title="http://www.openismus.com/documents/linux/automake/automake.shtml">*one</a> <a class="externallink" href="http://www.openismus.com/documents/linux/using_libraries/using_libraries.shtml" rel="nofollow" title="http://www.openismus.com/documents/linux/using_libraries/using_libraries.shtml">*two</a>.</li>
+<li><a class="externallink" href="http://autotoolset.sourceforge.net/" rel="nofollow" title="http://autotoolset.sourceforge.net/">Autotoolset home page</a></li>
+<li>Tutorial &#34;<a class="externallink" href="http://liljencrantz.no-ip.org/howtos/autoconf.php" rel="nofollow" title="http://liljencrantz.no-ip.org/howtos/autoconf.php">Using Autoconf for fun and profit</a>&#34; by <a href="/wiki/Axel_Liljencrantz" id="w">Axel Liljencrantz</a> shows how to perform common, useful tests like checking for headers and providing fallbacks for missing functions using Autoconf</li>
+<li>The &#34;<a class="externallink" href="http://www-src.lip6.fr/homepages/Alexandre.Duret-Lutz/autotools.html" rel="nofollow" title="http://www-src.lip6.fr/homepages/Alexandre.Duret-Lutz/autotools.html">Autotools Tutorial</a>&#34; by <a href="/wiki/Alexandre_Duret-Lutz" id="w">Alexandre Duret-Lutz</a> introduces Autoconf, <a href="/wiki/Automake" id="w">Automake</a>, <a href="/wiki/Libtool" id="w">Libtool</a>, and <a href="/wiki/Gettext" id="w">Gettext</a>.</li></ul>
+<p>{{GNU}}</p>
+<p>
+
+</p>
+<p><a href="http://ca.wikipedia.org/wiki/GNU_Autoconf">ca:GNU Autoconf</a>
+<a href="http://de.wikipedia.org/wiki/Autoconf">de:Autoconf</a>
+<a href="http://fr.wikipedia.org/wiki/Autoconf">fr:Autoconf</a>
+<a href="http://ko.wikipedia.org/wiki/Autoconf">ko:Autoconf</a>
+<a href="http://ja.wikipedia.org/wiki/Autotools">ja:Autotools</a>
+<a href="http://pl.wikipedia.org/wiki/Autoconf">pl:Autoconf</a>
+<a href="http://pt.wikipedia.org/wiki/Autoconf">pt:Autoconf</a>
+<a href="http://ru.wikipedia.org/wiki/Autoconf">ru:Autoconf</a>
+<a href="http://sv.wikipedia.org/wiki/Autoconf">sv:Autoconf</a>
+</p>

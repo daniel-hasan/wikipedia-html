@@ -1,0 +1,171 @@
+{{Infobox championship
+| image=Mattbloom1.jpg
+| image_size=150px
+| caption=[[Matt Bloom|Giant Bernard]], current IWGP Tag Team Champion
+| championshipname = IWGP World Tag Team Championship
+| currentholder = [[Matthew Bloom|Giant Bernard]] & [[Travis Tomko]]
+| won = [[March 11]] [[2007]]
+| aired = 
+| promotion = [[New Japan Pro Wrestling]]
+| brand = 
+| created = [[December 12]] [[1985]]
+| mostreigns = (as team) [[Masahiro Chono]] & [[Hiroyoshi Tenzan]] (5 reigns)<br>(as individual) Hiroyoshi Tenzan (8 reigns)
+| firstchamp = [[Tatsumi Fujinami]] & [[Kengo Kimura]]
+| longestreign = Masahiro Chono & Hiroyoshi Tenzan (446 days)
+| shortestreign = [[Shiro Koshinaka]] & [[Keiji Muto]] (6 days)
+| oldest = 
+| youngest = 
+| heaviest = 
+| lightest = 
+| pastnames = 
+| titleretired = 
+| pastlookimages = 
+}}
+The '''International Wrestling Grand Prix (IWGP) World Tag Team Championship''' is a [[professional wrestling]] [[tag team]] [[Championship (professional wrestling)|title]] in [[Japan|Japanese]] [[Professional wrestling promotion|promotion]] [[New Japan Pro Wrestling]]. It was created in 1985 when [[Tatsumi Fujinami]] and [[Kengo Kimura]] defeated [[Antonio Inoki]] and [[Seiji Sakaguchi]] in a tournament final.<ref name="sssmain">{{cite web |url= http://puroresufan.com/njpw/history/tagtitle.php |title=IWGP World Tag Team Championship title history |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref> Though in the past it has been held by both heavyweights and [[Cruiserweight (professional wrestling)|junior heavyweights]], the creation of the [[IWGP Junior Heavyweight Tag Team Championship]] in 1998 has made it more of an exclusively heavyweight title. In addition to Japan, it has also been defended in the [[United States]] and [[Mexico]].<ref name="steinersusa">{{cite web |url= http://puroresufan.com/njpw/history/info/tag/steiners1.php |title=The Steiner Brothers' first reign |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref><ref name= "tananakamexico">{{cite web |url= http://puroresufan.com/njpw/history/info/tag/tanahashinakamura1.php |title=Shinsuke Nakamura & Hiroshi Tanahashi's first reign |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref> There have been a total of 44 recognized individual champions and 37 recognized teams, who have had a combined 50 official reigns.
+{| align="left"
+  | __TOC__
+  |}
+{{-}}
+==Title history==
+{| class="wikitable sortable" width=100%
+!style="background: #e3e3e3;" width=34%|Wrestlers:
+!style="background: #e3e3e3;" width=0% |Times:
+!style="background: #e3e3e3;" width=16%|Date:
+!style="background: #e3e3e3;" width=15%|Location:
+!style="background: #e3e3e3;" width=35% class="unsortable"|Notes:
+|-
+|[[Tatsumi Fujinami]] & [[Kengo Kimura]] || 1 || {{dts1|1985-12-12}} || [[Sendai|Sendai, Japan]] || Defeated [[Antonio Inoki]] & [[Seiji Sakaguchi]] in a tournament final.<ref name="sssmain"/>
+|-
+|[[Osamu Kido]] & [[Akira Maeda]] || 1 || {{dts1|1986-08-05}} || [[Tokyo|Tokyo, Japan]] || <ref name="iwgpofficial1">{{cite web |url=http://www.njpw.co.jp/histry/tag_main01.html |title=IWGP World Tag Team Championship official title history (page 1) |accessdate=2007-07-07 |publisher=NJPW.co.jp |language=Japanese }}</ref>
+|-
+|Tatsumi Fujinami & Kengo Kimura || 2 || {{dts1|1986-09-23}} || Tokyo, Japan || <ref name="iwgpofficial1"/>
+|-
+|Vacated || (n/a) || {{dts1|1987-02-05}} || (n/a) || Vacated when Fujinami & Kimura split up.<ref name="iwgpofficial1"/>
+|-
+|[[Shiro Koshinaka]] & [[Keiji Muto]] || 1 || {{dts1|1987-03-20}} || Tokyo, Japan || Defeated Akira Maeda & [[Nobuhiko Takada]] in a tournament final.<ref name="sssmain"/>
+|-
+|Akira Maeda {{small|(2)}} & [[Nobuhiko Takada]] || 1 || {{dts1|1987-03-26}} || [[Osaka|Osaka, Japan]] || <ref name="iwgpofficial1"/>
+|-
+|[[Yoshiaki Fujiwara]] & [[Kazuo Yamazaki]] || 1 || {{dts1|1987-09-01}} || [[Fukuoka, Fukuoka|Fukuoka, Japan]] || <ref name="iwgpofficial1"/>
+|-
+|Tatsumi Fujinami & Kengo Kimura || 3 || {{dts1|1988-01-18}} || Sendai, Japan || <ref name="iwgpofficial2">{{cite web |url=http://www.njpw.co.jp/histry/tag_main02.html |title=IWGP World Tag Team Championship official title history (page 2) |accessdate=2007-07-07 |publisher=NJPW.co.jp |language=Japanese }}</ref>
+|-
+|[[Riki Chōshū]] & [[Masa Saito]] || 1 || {{dts1|1988-06-10}} || [[Hiroshima|Hiroshima, Japan]] || <ref name="iwgpofficial2"/>
+|-
+|[[Junji Hirata|Super Strong Machine]] & [[George Takano]] || 1 || {{dts1|1989-03-16}} || [[Yokohama|Yokohama, Japan]] || <ref name="iwgpofficial2"/>
+|-
+|Riki Chōshū {{small|(2)}} & [[Takayuki Iizuka]] || 1 || {{dts1|1989-07-14}} || Tokyo, Japan || <ref name="iwgpofficial2"/>
+|-
+|[[Shinya Hashimoto]] & Masa Saito {{small|(2)}} || 1 || {{dts1|1989-09-20}} || Osaka, Japan || <ref name="iwgpofficial2"/>
+|-
+|[[Masahiro Chono]] & Keiji Muto {{small|(2)}} || 1 || {{dts1|1990-04-27}} || Tokyo, Japan || <ref name="iwgpofficial2"/>
+|-
+|[[Hiroshi Hase]] & [[Kensuke Sasaki]] || 1 || {{dts1|1990-11-01}} || Tokyo, Japan || <ref name="iwgpofficial3">{{cite web |url=http://www.njpw.co.jp/histry/tag_main03.html |title=IWGP World Tag Team Championship official title history |accessdate=2007-07-07 |publisher= NJPW.co.jp |language=Japanese}}</ref>
+|-
+|[[Hiro Saito]] & Super Strong Machine {{small|(2)}} || 1 || {{dts1|1990-12-26}} || [[Hamamatsu|Hamamatsu, Japan]] || <ref name="iwgpofficial3"/>
+|-
+|Hiroshi Hase & Kensuke Sasaki || 2 || {{dts1|1991-03-06}} || [[Nagasaki|Nagasaki, Japan]] || <ref name="iwgpofficial3"/>
+|-
+|[[Rick Steiner]] & [[Scott Steiner]] || 1 || {{dts1|1991-03-21}} || Tokyo, Japan || Won the title at ''Starrcade 1991 in Tokyo Dome''.<ref name="sss91">{{cite web |url= http://puroresufan.com/njpw/results91.php |title=NJPW results, 1991 |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Hiroshi Hase {{small|(3)}} & Keiji Muto {{small|(3)}} || 1 || {{dts1|1991-11-05}} || Tokyo, Japan || [[Scott Norton]] substituted for an injured Scott Steiner in this match.<ref name="sssmain"/>
+|-
+|[[Bam Bam Bigelow]] & [[Leon White|Big Van Vader]] || 1 || {{dts1|1992-03-01}} || Yokohama, Japan || Won the title at ''New Japan 20th Anniversary''.<ref name="sss92">{{cite web |url=http://puroresufan.com/njpw/results92.php |title=NJPW results, 1992 |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Rick Steiner & Scott Steiner || 2 || {{dts1|1992-06-26}} || Tokyo, Japan || <ref name="iwgpofficial4">{{cite web |url=http://www.njpw.co.jp/histry/tag_main04.html |title=NJPW World Tag Team Championship official title history (page 4) |accessdate=2007-07-07 |publisher=NJPW.co.jp |language=Japanese }}</ref>
+|-
+|[[Tony Halme]] & [[Scott Norton]] || 1 || {{dts1|1992-11-22}} || Tokyo, Japan || <ref name="iwgpofficial4"/>
+|-
+|[[Road Warriors|The Hell Raisers]]<br>{{small|([[Road Warrior Hawk|Hawk Warrior]] & Power Warrior (3))}}<br>{{small|(Power Warrior formerly Kensuke Sasaki)}} || 1 || {{dts1|1992-12-14}} || Osaka, Japan || <ref name="iwgpofficial4"/>
+|-
+|The Jurassic Powers<br>{{small|([[Ray Fernandez|Hercules Hernandez]] & Scott Norton (2))}} || 1 || {{dts1|1993-08-05}} || Tokyo, Japan || Won the title on the ''[[G1 Climax]]'' tour.<ref name="g193">{{cite web |url= http://puroresufan.com/njpw/results/g193.php |title=G1 Climax 1993 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit}}</ref>
+|-
+|The Hell Raisers<br>{{small|(Hawk Warrior & Power Warrior (4))}} || 2 || {{dts1|1994-01-04}} || Tokyo, Japan || Won the title at ''Battlefield''.<ref name="sss94">{{cite web |url= http://puroresufan.com/njpw/results94.php |title=NJPW results, 1994 |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Hiroshi Hase {{small|(4)}} & Keiji Muto {{small|(4)}} || 2 || {{dts1|1994-11-25}} || [[Morioka, Iwate|Morioka, Japan]] || Won the title on the ''Battle Final'' tour.<ref name="battlefinal94">{{cite web |url=http://puroresufan.com/njpw/results/battle94.php |title=NJPW Battle Final 1994 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Vacated || (n/a) ||{{dts1|1995-05-11}} || (n/a) || Vacated so Muto could focus on the [[IWGP World Heavyweight Championship]].<ref name="sssmain"/>
+|-
+|Masahiro Chono {{small|(2)}} & [[Hiroyoshi Tenzan]] || 1 || {{dts1|1995-06-12}} || Osaka, Japan || Defeated Shinya Hashimoto & Junji Hirata.<ref name="iwgpofficial5">{{cite web |url= http://www.njpw.co.jp/histry/tag_main05.html |title=IWGP World Tag Team Championship official title history |accessdate=2007-07-07 |publisher=NJPW.co.jp }}</ref>
+|-
+|Vacated || (n/a) || {{dts1|1995-07-07}} || (n/a) || Vacated when Chono missed a title defense due to his father's death.<ref name="sssmain"/>
+|-
+|Shinya Hashimoto {{small|(2)}} & Junji Hirata {{small|(3)}}<br>{{small|(Junji Hirata formerly Super Strong Machine)}} || 1 || {{dts1|1995-07-13}} || [[Sapporo|Sapporo, Japan]] || Defeated [[Mike Enos]] & Scott Norton.<ref name="iwgpofficial5"/>
+|-
+|Takashi Iizuka {{small|(2)}} & Kazuo Yamazaki {{small|(2)}}<br>{{small|(Takashi Iizuka formerly Takayuki Iizuka)}} || 1 || {{dts1|1996-06-12}} || Osaka, Japan || <ref name="iwgpofficial5"/>
+|-
+|Masahiro Chono {{small|(3)}} & Hiroyoshi Tenzan || 2 || {{dts1|1996-07-16}} || Sapporo, Japan || <ref name="iwgpofficial5"/>
+|-
+|Tatsumi Fujinami & Kengo Kimura || 4 || {{dts1|1997-01-04}} || Tokyo, Japan || Won the title at ''[[January 4 Dome Show#Wrestling World 1994|Wrestling World]]''.<ref name="sss97">{{cite web |url=http://puroresufan.com/njpw/results97.php |title=NJPW results, 1997 |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Riki Chōshū {{small|(3)}} & Kensuke Sasaki {{small|(5)}} || 1 || {{dts1|1997-04-12}} || Tokyo, Japan || Won the title at ''Battle Formation''.<ref name="sss97"/>
+|-
+|[[Satoshi Kojima]] & [[Manabu Nakanishi]] || 1 || {{dts1|1997-05-03}} || Osaka, Japan || Won the title at ''Strong Style Evolution''.<ref name="sss97"/>
+|-
+|Kensuke Sasaki {{small|(6)}} & Kazuo Yamazaki {{small|(3)}} || 1 || {{dts1|1997-08-10}} || [[Nagoya|Nagoya, Japan]] || Won the title at ''The Four Heaven in Nagoya Dome''.<ref name="sss97"/>
+|-
+|Masahiro Chono {{small|(4)}} & Keiji Muto {{small|(5)}} || 2 || {{dts1|1997-10-19}} || [[Kobe|Kobe, Japan]] || Won the title on the ''nWo Typhoon'' tour.<ref name="nwotyphoon">{{cite web |url=http://puroresufan.com/njpw/results/nwot97.php |title=nWo Typhoon tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Vacated || (n/a) || {{dts1|1998-05-07}} || (n/a) || Vacated due to Muto injuring his knee.<ref name="sssmain"/>
+|-
+|Masahiro Chono {{small|(5)}} & Hiroyoshi Tenzan || 3 || {{dts1|1998-06-05}} || Tokyo, Japan || Defeated Shiro Koshinaka & [[Genichiro Tenryu]] in a tournament final on the ''Best of the Super Juniors V'' tour.<ref name="bosjv">{{cite web |url=http://puroresufan.com/njpw/results/bosj98.php |title=NJPW Best of the Super Juniors V tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Shiro Koshinaka {{small|(2)}} & [[Genichiro Tenryu]] || 1 || {{dts1|1998-07-15}} || Sapporo, Japan || Won the title on the ''Summer Struggle'' tour.<ref name="summerstruggle98">{{cite web |url= http://puroresufan.com/njpw/results/struggle98.php |title=NJPW Summer Struggle 1998 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Satoshi Kojima {{small|(2)}} & Hiroyoshi Tenzan {{small|(4)}} || 1 || {{dts1|1999-01-04}} || Tokyo, Japan || Won the title at ''[[January 4 Dome Show#Wrestling World 1999|Wrestling World]]''.<ref name="sss99">{{cite web |url=http://puroresufan.com/njpw/results99.php |title=NJPW results, 1999 |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Shiro Koshinaka {{small|(3)}} & Kensuke Sasaki {{small|(7)}} || 1 || {{dts1|1999-03-22}} || [[Amagasaki, Hyōgo|Amagasaki, Japan]] || Won the title on the ''Hyper Battle'' tour.<ref name="hyperbattle99">{{cite web |url=http://puroresufan.com/njpw/results/hyper99.php |title=NJPW Hyper Battle 1999 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|[[Tatsutoshi Goto]] & [[Michiyoshi Ohara]] || 1 || {{dts1|1999-06-27}} || [[Shizuoka, Shizuoka|Shizuoka, Japan]] || Won the title on the ''Summer Struggle'' tour.<ref name="summerstruggle99">{{cite web |url=http://puroresufan.com/njpw/results/struggle99.php |title=NJPW Summer Struggle 1999 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|[[Yuji Nagata]] & Manabu Nakanishi {{small|(2)}} || 1 || {{dts1|1999-08-28}} || Tokyo, Japan || Won the title at ''Jingu Climax''.<ref name="sss99"/>
+|-
+|Satoshi Kojima {{small|(3)}} & Hiroyoshi Tenzan {{small|(5)}} || 2 || {{dts1|2000-07-20}} || Sapporo, Japan || Won the title on the ''Summer Struggle'' tour.<ref name="summerstruggle00">{{cite web |url=http://puroresufan.com/njpw/results/struggle00.php |title= NJPW Summer Struggle 2000 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref> 
+|-
+|Tatsumi Fujinami {{small|(5)}} & [[Osamu Nishimura]] || 1 || {{dts1|2001-09-23}} || Osaka, Japan || Won the title on the ''G1 World'' tour.<ref name="g1world">{{cite web |url= http://puroresufan.com/njpw/results/g1world01.php |title=NJPW G1 World tour results |accessdate= 2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|[[Taiyō Kea]] & Keiji Muto {{small|(6)}} || 1 || {{dts1|2001-10-28}} || Fukuoka, Japan || This match, at ''Fighting Destination in Fukuoka'', was also for Kea & Muto's [[AJPW Unified World Tag Team Championship]].<ref name="survival">{{cite web |url= http://puroresufan.com/njpw/results/survival01.php |title=NJPW Survival tour results |accessdate= 2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Vacated || (n/a) || {{dts1|2002-02-01}} || (n/a) || Vacated due to Muto leaving NJPW.<ref name="sssmain"/>
+|-
+|Masahiro Chono {{small|(6)}} & Hiroyoshi Tenzan {{small|(6)}} || 4 || {{dts1|2002-03-24}} || Amagasaki, Japan || Defeated Yuji Nagata & Manabu Nakanishi in a tournament final on the ''Hyper Battle'' tour.<ref name="hyperbattle02">{{cite web |url= http://puroresufan.com/njpw/results/hyper02.php |title=NJPW Hyper Battle 2002 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|[[Hiroshi Tanahashi]] & [[Yutaka Yoshie]] || 1 || {{dts1|2003-06-13}} || Tokyo, Japan || Won the title at ''The Crush''.<ref name="sss03">{{cite web |url= http://puroresufan.com/njpw/results03.php |title=NJPW results, 2003 |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Osamu Nishimura {{small|(2)}} & Hiroyoshi Tenzan {{small|(7)}} || 1 || {{dts1|2003-12-14}} || Nagoya, Japan || Won the title on the ''Battle Final'' tour.<ref name="battlefinal03">{{cite web |url=http://puroresufan.com/njpw/results/battle03.php |title=NJPW Battle Final 2003 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|[[Minoru Suzuki]] & [[Yoshihiro Takayama]] || 1 || {{dts1|2004-02-01}} || Sapporo, Japan || Won the title on the ''Fighting Spirit'' tour.<ref name="fightingspirit">{{cite web |url= http://puroresufan.com/njpw/results/fspirit04.php |title=NJPW Fighting Spirit tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Vacated || (n/a) || {{dts1|2004-11-21}} || (n/a) || Vacated due to lack of defenses brought on by a long-term injury to Takayama.<ref name="sssmain"/>
+|-
+|[[Shinsuke Nakamura]] & Hiroshi Tanahashi {{small|(2)}} || 1 || {{dts1|2004-12-11}} || Osaka, Japan || Defeated Kensuke Sasaki & Minoru Suzuki on the ''Battle Final'' tour.<ref name="battlefinal04">{{cite web |url=http://puroresufan.com/njpw/results/battle04.php |title=NJPW Battle Final 2004 tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Masahiro Chono {{small|(7)}} & Hiroyoshi Tenzan {{small|(8)}} || 5 || {{dts1|2005-10-30}} || Kobe, Japan || Won the title at ''Toukon Series 2005 in Kobe''.<ref name="toukonseries"> {{cite web |url=http://puroresufan.com/njpw/results/toukonseries05.php |title=NJPW Toukon Series tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref> A provisional tag team title is created on [[July 2]] [[2006]] when Chono & Tenzan show signs of inactivity; Shiro Koshinaka & [[Togi Makabe]] were the first champions.<ref name="provtagnews">{{cite web |url= http://puroresufan.com/script/show_archives.php?archive=1153643478&subaction=list-archive& |title=NJPW news, June 28 to July 19 2006 |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|-
+|Vacated || (n/a) || {{dts1|2006-09-24}} || (n/a) || Vacated due to inactivity.<ref name= "sssmain"/>
+|-
+|Manabu Nakanishi {{small|(3)}} & [[Takao Omori]] || 1 || {{dts1|2006-09-28}} || (n/a) || Recognized as champions after being provisional champions since [[July 17]] [[2006]].<ref name="sssmain"/>
+|-
+|[[Matt Bloom|Giant Bernard]] & [[Travis Tomko]] || 1 || {{dts1|2007-03-11}} || Nagoya, Japan || Won the title on the ''Circuit 2007 New Japan Evolution'' tour.<ref name="evolution">{{cite web |url=http://puroresufan.com/njpw/results/circuitevolution07.php |title=NJPW Circuit 2007 New Japan Evolution tour results |accessdate=2007-07-07 |publisher=Strong Style Spirit }}</ref>
+|}
+
+==See also==
+*[[New Japan Pro Wrestling]]
+*[[IWGP World Heavyweight Championship]]
+*[[IWGP Junior Heavyweight Championship]]
+*[[IWGP Junior Heavyweight Tag Team Championship]]
+*[[List of IWGP World Tag Team Championship reigns by length]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.wrestling-titles.com/japan/newjapan/iwgp-t.html Wrestling-Titles.com: IWGP Tag Team Title]
+*[http://puroresufan.com/njpw/history/tagtitle.php Strong Style Spirit title history]
+*[http://www.njpw.co.jp/histry/tag.html NJPW.co.jp official title history]
+
+[[Category:New Japan Pro Wrestling championships]]
+[[Category:Tag team wrestling championships]]
+
+[[ja:IWGPタッグ王座]]
+{{Featured list}}

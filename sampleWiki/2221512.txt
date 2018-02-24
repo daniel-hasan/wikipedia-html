@@ -1,0 +1,136 @@
+{{Taxobox
+| color = pink
+| name = Heath Fritillary
+| image = Ratamoverkkoperhonen.jpg
+| image_width = 240px
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| superfamilia = [[Papilionoidea]]
+| familia = [[Brush-footed butterfly|Nymphalidae]]
+| subfamilia = [[Melitaeinae]]
+| genus = ''[[Melitaea]]''
+| species = '''''M. athalia'''''
+| binomial = ''Melitaea athalia''
+| binomial_authority = ([[Rottemburg]], [[1775]])
+}}
+
+The '''Heath Fritillary''' (''Melitaea athalia'') is a [[butterfly]] of the [[Nymphalidae]] family. It is found throughout the [[Palaearctic]] from Western Europe to [[Japan]], in [[heathland]], grassland, and in [[coppice]]d woodland. It is considered a threatened species in the UK, but not globally.
+
+==Description==
+:''See [[Glossary of Lepidopteran terms|glossary]] for terms used''
+[[Image:Melitaea athalia03.jpg|thumb|Underside showing diagnostic pattern of spots]]
+Heath Fritillaries have a wing-span of 39–47 mm.<ref name=warrenemmet>{{harvnb|Warren|Emmet|1990}}</ref> The upperside is predominantly dark brown and orange-brown, with the orange-brown spots delineated by dark brown (along and across the wing-veins); there is a white fringe to the wings through which the dark brown extends. The upperside of the body is a similar dark brown to the colour on the wing, and the base of both wings is dark brown. The underside shows bands of red and (off-)white, again with each vein dark brown and each colour delineated by dark brown. The pattern of white spots at the base of the hindwing (visible at rest) is diagnostic for identification.
+
+==Range==
+[[Image:Melitaea athalia01.jpg|thumb]]
+The Heath Fritillary ranges throughout the [[Palaearctic]] region from [[Western Europe]] to [[Japan]].<ref name=warrenemmet/> In Europe, it is '''absent''' from Iceland, Ireland, Scotland, Wales, southern Portugal, southern Spain, the Mediterranean islands and southern Greece.<ref name=tolmanlewington>{{harvnb|Tolman|Lewington|1997}}</ref>
+
+In the UK, it is restricted to [[Cornwall]] and [[Devon]] grasslands (abandoned hay-meadows); [[Exmoor]] (heathland); and [[Kent]] and [[Essex]] ([[coppice]]d woodland on acid soils).<ref name=tomstill>{{harvnb|Tomlinson|Still|2002}}</ref> The populations in Essex are the result of [[reintroduction]]s,<ref name=warrenemmet/>  and further reintroductions are ongoing in various other parts of the UK.
+
+Its altitudinal range is is from sea-level to 2600 m.<ref name=tolmanlewington>
+
+==Status==
+Heath Fritillary is not listed on the [[IUCN Red List]],<ref>{{harvnb|IUCN|2006}}</ref> suggesting that globally it is not considered threatened.
+[[Image:Lepidoptera wing.jpg|thumb]]
+In the UK, however, the species was "considered to be the most endangered British butterfly" after a nationwide survey in 1980 found only 31 surviving colonies. Consequently, it was given protection under the [[Wildlife and Countryside Act 1981]].<ref name=warrenemmet/> Despite subsequent widespread efforts to conserve and manage the species' habitats, it has continued to decline: distribution has declined 25% since the 1970s, and abundance-wise it declined by 46% in the 10 years 1995–2004.<ref>{{harvnb|Butterfly Conservation|2007}}</ref> Woodland sites in Kent and Essex are actively managed (coppiced) for the conservation of this species. It has been a "high priority" species in the UK [[Biodiversity Action Plan]] (BAP) since 1995.<ref>{{harvnb|Barnett|Warren|1995}}</ref>
+
+==Habitat==
+[[Image:Melitaea.athalia.1.jpg|thumb]]
+Within [[Europe]], the Heath Fritillary occupies a diversity of grassy, flowery habitats—dry or damp, upland or lowland, with or without shrubs or trees, including woodland clearings and heathland.<ref name=tolmanlewington/><ref>{{harvnb|Whalley|1981}}</ref>
+
+More specifically, in [[England]], this species occupies three distinct habitats:<ref name=tomstill/><ref name=warrenemmet/>
+*Grassland rich in plantain (''Plantago'' spp.) – sometimes in the form of abandoned hay-meadows
+*Sheltered heathland with Common Cow-wheat
+*Coppiced woodland (especially in clearings) with Common Cow-wheat.
+
+In [[France]], this species is uses unimproved hay-meadows and pastures.<ref name=warrenemmet/>
+
+==Life cycle==
+===Egg===
+The female Heath Fritillary lays its eggs (or ova) in batches of (15–)80–150 mostly on the underside of a leaf of a plant adjacent to the larval foodplant; however, on heathland, they make a point of laying only on Common Cow-wheat (caterpillars may later move on to Foxglove).<ref name=warrenemmet/>
+
+Eggs are oval spheroids with flattened bases, about 0.5 mm high. They are ribbed (longitudinally, i.e. from top to bottom) and striated (transversely, i.e. around the egg). Pale cream when laid, eggs darken to pale yellow within 2 days, and then dark grey a few days before hatching. Eggs mature in 2–3 weeks.<ref name=warrenemmet/>
+
+===Caterpillar===
+Upon emergence, first-[[instar]] [[caterpillar]]s (or larvae) eat their eggshells. The caterpillars from a clutch initially stay together, feeding in a small, unobtrusive web. After shedding their first skin, second-instar caterpillars begin to disperse into smaller groups. Then the third instars tend to feed and rest solitarily; they rest beneath dead leaves at night and during bad weather. It is this (third) instar that [[hibernate]]s for the winter in a [[hibernaculum]], made from a curled dead leaf by spinning its edges together. Hibernacula are usually close to the ground. Although most caterpillars hibernate singly, they sometimes group in twos and threes, although 15–20 caterpillars have been found in single hibernaculum.<ref name=warrenemmet/>
+
+Caterpillars re-emerge in March or April, on the first warm and sunny days. When it is warm, they feed a little, but most of the time is spent basking in the sun. There are six instars in total. The full-grown sixth instar caterpillar is 22–25 mm long, and predominantly black; it has pale (yellow-orange) spines and (greyish-white) spots.<ref name=warrenemmet/><ref name=tomstill/>
+
+Major causes of caterpillar mortality are thought to be predation and fungal diseases, especially when the spring is damp and cold.
+
+===Pupa===
+The pupae are 12.4–12.8 cm long and last 15–25 days (early May to late June in the UK). They are white with black and orange-brown blotches. Pupae are usually found close to the ground in or beneath dead leaves.<ref name=warrenemmet/><ref name=tomstill/>
+
+A study in Cornwall (England) recorded mortality rates in the region of 50%, mostly from predation by small mammals, but including predation by beetles, and [[parasitism]].<ref name=warrenemmet/><!-- (Warren, 1985, cited in Warren and Emmet, 1990).-->
+
+===Imago===
+
+[[Image:Melitaea.athalia.2.jpg|thumb]]
+Imagines probably live for 5–10 days.<ref name=warrenemmet/> Males are active on warm sunny days. Females mate once shortly after emerging; they lay their eggs only during warm weather, spending most of the time either basking or hiding in vegetation.<ref name=warrenemmet/><ref name=tomstill/>
+
+====''Flight period''====
+Across its range (see "Subspecies and variation" below), subspecies ''athalia'' shows a protracted flight period from mid-May to mid-August. In favourable localities and/or favourable seasons, a partial second brood has been recorded from mid- or late August to September.<ref name=tolmanlewington/> In the UK, the flight period is from the end of May to the beginning of July (in the south-west) and early June to early August (in the south-east).<ref name=warrenemmet/>
+
+Fennoscandian subspecies ''norvegica'' flies in June–July, precise timing being affected by the season.<ref name=tolmanlewington/>
+
+In southern Europe, subspecies ''celadussa'' flys in a single brood at high altitude in June–July. Below the subalpine level, however, it is [[voltinism|bivoltine]], flying in May–June and late July–August—except for f. ''nevadensis'' in the [[Sierra Nevada (Spain)|Sierra Nevada]], which is univoltine.<ref name=tolmanlewington/>
+
+==Host-plants==
+In the UK, the following species are used:<ref name=warrenemmet/>
+*[[Melampyrum|Common Cow-wheat]] (''Melampyrum pratense'') — the only foodplant in woodland, and principal foodplant on heathland
+*[[Foxglove]] (''Digitalis purpurea'') — secondary foodplant on heathland
+*[[Ribwort Plantain]] (''Plantago lanceolata'') — major foodplant on grassland
+*[[Germander Speedwell]] (''Veronica chamaedryas'') — major foodplant on grassland
+*[[Greater Plantain]] (''P. major'') — secondary foodplant
+*[[Ivy-leaved Speedwell]] (''V. hederifolia'') — secondary foodplant
+*[[Veronica (plant)|Thyme-leaved Speedwell]] (''V. serpyllifolia'') — secondary foodplant
+*[[Yarrow]] (''Achillea millefolium'') — secondary foodplant
+
+Additional host-plants used elsewhere in Europe are:<ref name=tolmanlewington/>
+*''[[Plantago alpina]]''
+*''[[Veronica|Veronica montana]]''
+*''[[Veronica officinalis]]''
+*Small Cow-wheat (''[[Melampyrum|Melampyrum sylvaticum]]'')
+*''[[Digitalis ferruginea]]''
+*''[[Digitalis lutea]]''
+*''[[Linaria vulgaris]]''
+
+== Subspecies and variation ==
+Three [[subspecies]] are recognized in Europe:<ref name=tolmanlewington/>
+*''M. a. athalia'' – from the [[Atlantic]] coast to the [[Bosporus]] ([[Turkey]]) (altitude 0–2200m), excluding the ranges of the following subspecies
+*''M. a. norvegica'' [[Per Olof Christopher Aurivillius|Aurivillius]] 1888 – [[Fennoscandia]] (altitude 0–800 m)
+*''M. a. celadussa'' [[Hans Fruhstorfer|Frühstorfer]] 1910 – northern [[Iberia]] and the [[Sierra Nevada (Spain)|Sierra Nevada]], southern France, southern [[Switzerland]], [[Italy]] (including [[Sicily]]) (altitude 0–2600 m)
+:*The transitional zone between subspecies ''athalia'' and ''celadussa'' is broad—up to 150 km in places
+
+Many forms and subspecies of ''M. a. athalia'' have been described, but are best regarded as "ecological variants" and intermediates in clinal variation.<ref name=tolmanlewington/> [[Bulgaria]] has f. ''boris'' Frühstorfer, with heavier marginal borders, alongside the typical nominate form.<ref name=tolmanlewington/>
+
+In central [[Sweden]] and [[Finland]], ''M. a. norvegica'' f. ''lachares'' Frühstorfer has finer black markings; transitional forms between f. ''lachares'' and typical ''M. a. norvegica'' occur in southern Sweden.<ref name=tolmanlewington/>
+
+In [[Portugal]] and north-west [[Spain]], ''M. a. celadussa'' f. ''biedermanni'' Querci is larger than typical ''M. a. celadussa'', with finer black lines in the outer half of the wing, but a thicker discal line; transitional forms occur in central west Spain. In Sierra Nevada, f. ''nevadensis'' [[Ruggero Verity|Verity]] is golden-yellow with fine black markings (it is also [[voltinism|univoltine]], whereas typical ''M. a. celadussa'' is bivoltine at low altitude). In "southern" Europe, f. ''tenuicola'' Verity occurs in late broods—it is small and its black markings reduced.<ref name=tolmanlewington/>
+
+==Citations==
+{{reflist|2}}
+== References ==
+*{{citation|last1=Barnett|first1=L.K.|last2=Warren|first2=M.S.|year=1995|title=Species Action Plan: Heath Fritillary Mellicta athalia|publisher=Butterfly Conservation, East Lulworth, UK. 24p.}}
+*{{citation|last=Butterfly Conservation|year=2007|title=The State of Britain's Butterflies 2007|publisher=Butterfly Conservation, East Lulworth, UK. 12p.}}
+*{{citation|last=IUCN|year=2006|url=http://www.iucnredlist.org|title=IUCN Red List of Threatened Species. <www.iucnredlist.org>}} (Accessed on 15 June 2007)
+*{{citation|last1=Tolman|first1=T.|last2=Lewington|first2=R.|year=1997|title=Collins Field Guide: Butterflies of Britain & Europe|publisher=HarperCollins Publishers, London, UK. pp. 174–176.}}
+*{{citation|last1=Tomlinson|first1=D.|last2=Still|first2=R.|year=2002|title=Britain's Butterflies|publisher=WildGuides, Old Basing, UK. pp. 124–125.}}
+*{{citation|last1=Warren|first1=M.S.|last2=Emmet|first2=A.M.|year=1990|title=MELLICTA ATHALIA (Rottemburg). Pages 241–243 in Emmet, A.M., J. Heath et al. (Eds.) The Butterflies of Great Britain and Ireland. The Moths and Butterflies of Great Britain and Ireland Vol. 7 Part 1 (Hesperiidae to Nymphalidae)|publisher=Harley Books, Colechester, UK. 370p.}}
+*{{citation|last=Whalley|first=P.|year=1981|title=The Mitchell Beazley Pocket Guide to Butterflies|publisher=Mitchell Beazley, London. p. 77.}}
+
+==External links==
+*[http://www.ukbutterflies.co.uk/species.php?vernacular_name=Heath%20Fritillary UK Butterflies – Heath Fritillary entry, including images of life stages]
+
+[[Category:Melitaea]]
+
+[[da:Brun pletvinge]]
+[[de:Wachtelweizen-Scheckenfalter]]
+[[fy:Boskplakflinter]]
+[[lt:Paprastoji šaškytė]]
+[[nl:Bosparelmoervlinder]]
+[[no:Vanlig rutevinge]]
+[[fi:Ratamoverkkoperhonen]]
+[[sv:Skogsnätfjäril]]

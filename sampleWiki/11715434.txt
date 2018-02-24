@@ -1,0 +1,42 @@
+[[Image:VaticanRailway.jpg|thumb|right|The Vatican Railway Station]]
+'''Rail transport in Vatican City''' consists of two 300-[[metre]] sets of [[rail tracks]] within [[Vatican City]], the shortest national [[rail transport|railway system]] in the world.<ref name="korn">Korn, Frank J. 2000. ''A Catholic's Guide to Rome: Discovering the Soul of the Eternal City''. Paulist Press. ISBN 080913926X. p. 49.</ref> Access to [[Rail transport in Italy|Italian rail lines]] was guaranteed by the [[Lateran Treaty]] (1929), and tracks and station were constructed during the reign of [[Pope Pius XI]].
+
+Most railway traffic consists of freight good importation, although the railway has occasionally carried passengers, usually for symbolic or ceremonial reasons.<ref>Walsh, Michael J. 2005. ''Roman Catholicism: The Basics''. Routledge. ISBN 0415263808. p. 95.</ref><ref>Garwood, Duncan. 2006. ''Rome''. Lonely Planet. ISBN 1740597109. p. 141.</ref>
+
+==History==
+[[Pope Gregory XVI]] had prevented the construction of railways in the [[Papal States]], and was reputed to have said "''chemin de fer, chemin d'enfer''" ("the iron road is the road to hell").<ref>Pollard, John. 2005. ''Money and the Rise of the Modern Papacy''. ISBN 0521812046. p. 29.</ref> Gregory XVI's successor, [[Pope Pius IX]], began the construction of a rail line from [[Bologna]] to [[Ancona]] but the territory was seized by the armies of the [[Risorgimento]] in [[1861]] before it was completed.<ref name="prusak"/> That rail travel was a prerequisite for the mass [[pilgrimage]]s of the 19th century, beginning with those at [[Lourdes]] circa [[1858]], and was one factor that softened opposition to such technology within the [[Roman Curia]].<ref>Alberigo, Giuseppe, and Komonchak, Joseph A. 2003. ''History of Vatican II''. Peeters Publishers. ISBN 9068317245. p. 76.</ref>
+
+The construction of a railway station in Vatican City and its linkage to the [[Rail transport in Italy|Italian rail lines]] was guaranteed by the [[Lateran Treaty]] of [[February 11]] [[1929]]. The Directorate of New Railway Construction of the Ministry of Public Works of the Kingdom of Italy implemented this provision with construction beginning on [[April 3]] [[1929]] to establish [[earthwork]]s 38 m above [[sea level]] (the height of the "Roma - San Pietro" station) between [[Piazza Santa Marta]] and the [[Palazzo del Governatorato]].<ref name="HSPO"/> The construction of the viaduct leading to Vatican City was paid for by the Italian government; the station within the Vatican was financed out of the [[Italian lira|₤]]750 million indemnity agreed to in the Lateran Treaty's financial annex.<ref>Reese, Thomas J. 1996. ''Inside the Vatican: The Politics and Organization of the Catholic Church''. Harvard University Press. ISBN 0674932617. p. 203.</ref>
+
+The first [[locomotive]] entered the Vatican in March 1932. A Railway Convention was ratified between Italy and Vatican City on [[September 12]] [[1934]] and in October 1934 the Ministry of Public Works handed over the completed rail lines to Vatican City and [[Ferrovie dello Stato]], respectively.<ref name="HSPO"/>
+
+''Legge sulle fonti del diritto'' ([[June 7]] [[1929]]) made Italian railway legislation binding on Vatican-controlled railways.<ref name="HSPO"/>
+
+==Route==
+The Vatican City State Railway branches off from the Rome to Viterbo railway line at the "Roma - San Pietro" station and crosses Gelsomino valley via a 143.12 metre long masonry [[viaduct]] of eight 15.30 metre arches (bearing the [[Fasces]] and the [[:Image:CoA fam ITA savoia.svg|Savoy Coat of Arms]]), which crosses [[Viale Vaticano]] (which it interrupts) and [[Via Aurelia]]. The Via delle Cave and the Via del Gelsomino are also interrupted by the viaduct and thus merge with the Via Aurelia.<ref name="HSPO"/>
+
+Before passing through the Vatican City walls and terminating in the Vatican Railway Station, the line passes under an arch decorated with the Coat of Arms of [[Pope Pius XI]] with a sliding two-piece 35.5 ton iron gate which slides into the recesses of the Vatican walls.<ref name="HSPO"/><ref name="korn"/>
+
+The Vatican Railway Station (later split into a Goods Office and numismatic and philatelic museum) was built approximately 20 m from the Entrance Gateway by architect [[Giuseppe Momo]], opening in 1933.<ref name="HSPO"/> Its simple white, Italian [[marble]] design was described by writer H.G. Morton as "more like a branch of the [[Barclays plc|Barclay Bank]] in London."<ref name="korn"/>
+
+==Uses==
+The Vatican railway has been used primarily for importing goods (before automobile travel became more common and less expensive) into the Vatican and intermittently for ordinary passenger trains.
+
+The planned papal train of Pius XI was never constructed and the Vatican has never employed any railway men or registered any [[rolling stock]].<ref name="HSPO"/> The official train of Pope Pius IX remains on display at the [[Museum of Rome]] in the [[Palazzo Braschi]].<ref name="prusak"/>
+
+[[Pope John XXIII]] on [[October 4]] [[1962]] became the first pope to use the Vatican railway during his pilgrimate to [[Loreto]] and [[Assisi]] one week before the beginning of [[Second Vatican Council]] using the Italian presidential train; the trip was broadcast on the [[Eurovision Network]]. Because [[Pope Pius IX]] had been both the last pope to visit Loreto (as the head of the Papal States) and the last pope to travel by train, the journey was viewed as a symbolic break from the "burdens of the past."<ref name="prusak">Prusak, Bernard P. 2004. ''The Church Unfinished: Ecclesiology Through the Centuries''. Paulist Press. ISBN 0809142864. p. 271.</ref> John XXIII also arranged for the remains of [[Pope Pius X]] to be transferred to Venice using the Vatican railway.<ref name="HSPO"/>
+
+[[Pope John Paul II]] used the railway a handful of times for symbolic purposes, as early as [[November 8]] [[1979]], but did not use the railway to leave [[Rome]] until [[January 24]] [[2002]].<ref name="HSPO">Holy See Press Office. 28 January 2001. Trans. Glyn Williams. "[http://www.sinfin.net/railways/world/vatican/vaticanrail.html The Vatican City State Railway]."</ref>
+
+In late March 1944, at the height of the allied [[bombing of Rome in World War II]], the Vatican discovered a [[Nazi Germany|German]] munitions train stopped on the line by the Vatican railway station.<ref>Chadwick, Owen. 1988. ''Britain and the Vatican During the Second World War''. Cambridge University Press. ISBN 0521368251. p. 285.</ref>
+
+==References==
+{{reflist}}
+
+{{Europe in topic|Rail transport in}}
+
+[[Category:Rail transport by country|Vatican City]]
+[[Category:Vatican City]]
+[[Category:Viaducts]]
+
+[[he:רכבות בקריית הוותיקן]]

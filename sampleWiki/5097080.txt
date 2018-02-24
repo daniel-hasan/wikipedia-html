@@ -1,0 +1,67 @@
+Throughout its history, [[dc Comics]] has introduced many, many characters. Most of them have been minor characters. These characters range from supporting characters, heroes, and/or villains that appear infrequently to those that only take part in a single story.
+
+{{Alphanumeric TOC
+ | nobreak=
+ | align=center
+ | top=
+ | seealso=
+ | externallinks=
+<!--  | sec1=Related lists -->
+}}
+<!--
+==A==
+-->
+==B==
+<!--
+==C==
+
+==D==
+
+==E==
+
+==F==
+
+==G==
+
+==H==
+
+==I==
+
+==J==
+
+==K==
+
+==L==
+
+==M==
+
+==N==
+
+==O==
+
+==P==
+
+==Q==
+-->
+==R==
+<!--
+==S==
+
+==T==
+
+==U==
+
+==V==
+
+==W==
+
+==X==
+
+==Y==
+
+==Z==
+
+ -->
+==References==
+{{reflist|2}}
+[[Category:DC Comics characters]]

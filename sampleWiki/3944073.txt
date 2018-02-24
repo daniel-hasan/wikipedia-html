@@ -1,0 +1,145 @@
+{| class="infobox bordered" style="width: 30%; font-size: 95%;" cellpadding="2" border="1" align="right" cellpadding="2" cellspacing="0" width=250
+|-
+| colspan="2" align="center" | [[Image:Al-Salam-Boccaccio-98.jpg|250px]]
+|-
+!colspan="2" align="center" style="color: black; height: 30px; background:#FFDEAD;"|<span style="font-size: medium;">M/V ''al-Salam Boccaccio 98''
+|-
+| Shipbuilder:
+| [[Fincantieri|Italcantieri]] S.p.A., [[Monfalcone]], [[Italy]]
+|-
+| Ordered:
+| ?
+|-
+| Laid down:
+| [[22 August]] [[1968]][http://72.14.253.104/search?q=cache:rdbAqYfnUicJ:www.rina.org/UploadedFiles/boccaccio_update3.pdf+MV+al-Salam+Boccaccio+98&hl=en&ct=clnk&cd=5&gl=us]
+|-
+| Launched:
+| [[8 June]] [[1969]]
+|-
+| Delivered:
+| [[30 June]] [[1970]]
+|-
+| Fate:
+| (Capsized) Sunk on [[3 February]] [[2006]]
+|-
+! colspan="2" bgcolor="#FFDEAD" | '''General characteristics'''<br> after rebuild in 1991
+|-
+| Displacement:
+| 11799 Gross Register [[Tonnage]]<br> 5555 Net Register Tonnage<br> 2200 Deadweight Tonnage
+|-
+| Length:
+| 130.99&nbsp;[[Metre|m]]
+|-
+| Beam:
+| 23.6&nbsp;m
+|-
+| Draft:
+| 5.9&nbsp;m
+|-
+| Propulsion:
+| 2&times;9 cylinder GMT-[[Fiat]] [[diesel]]s<br> 16,560&nbsp;[[Watt|kW]] (22,207.32 [[Horsepower|hp]])
+|-
+| Speed:
+| 19&nbsp;[[Knot (speed)|knots]] (35.18&nbsp;[[Kilometre per hour|km/h]])
+|-
+| Complement:
+| 105 crew
+|-
+| Passengers:
+| 1,310
+|-
+| Car capacity:
+| 320
+|-
+|}
+The '''[[Ship prefix|M/V]] ''al-Salam Boccaccio 98''''' ([[Arabic Language|Arabic]]: [[Assalamu alaikum|Salam]] سلام  means "peace") was an [[Egypt]]ian [[Roll-on/roll-off | Ro/Ro Passenger]] [[ferry]], operated by [[El Salam Maritime Transport]], that sank on [[3 February]] [[2006]] in the [[Red Sea]] en route from [[Duba]], [[Saudi Arabia]], to [[Safaga]] in southern Egypt.  Its last known position was 100&nbsp;km (62&nbsp;miles) from Duba, when it lost contact with the shore at about 22:00 [[Eastern European Time|EET]] (20:00 [[Coordinated Universal Time|UTC]]).<ref> {{citenews|title=Ferry carrying 1,300 sinks in Red Sea|org=Reuters|date=[[2006-02-03]]|url= http://today.reuters.com/news/newsArticle.aspx?type=newsOne&storyID=2006-02-03T122229Z_01_L0317771_RTRUKOC_0_US-EGYPT-FERRY-AGENCY.xml}}</ref> 
+
+The ship was carrying 1,312 passengers and 96 crew members, according to Mamdouh Ismail, head of  al-Salaam Maritime Transport Company.<ref>[http://news.yahoo.com/s/ap/20060204/ap_on_re_mi_ea/egypt_ship_sinks;_ylt=AvQfU3zxAIPmmNEkbpyQYKhvaA8F;_ylu=X3oDMTA5aHJvMDdwBHNlYwN5bmNhdA--]</ref> Earlier an Egyptian [[embassy]] spokesman in [[London]] had mentioned 1,310 passengers and 105 crew (however, the Egyptian presidential spokesman mentioned 98 crew, while the Transport Minister said 104).<ref>[http://news.yahoo.com/s/ap/20060203/ap_on_re_mi_ea/egypt_ship_sinks]</ref><ref>[http://news.yahoo.com/s/afp/20060203/wl_mideast_afp/egyptsaudiaccidentsea_060203204832;_ylt=Agu2y7Ie3A94v8OQsTjTnWUUewgF;_ylu=X3oDMTA2ZGZwam4yBHNlYwNmYw--]</ref> The majority are thought to have been Egyptians working in Saudi Arabia, but they also included [[Hajj|pilgrim]]s returning from the [[Hajj]] in [[Mecca]]. The ship was also carrying about 220 vehicles.<ref>http://www.sanluisobispo.com/mld/sanluisobispo/news/world/13783093.htm</ref>
+
+No [[SOS]] had been heard from the ship and poor weather conditions hampered the [[search and rescue]] operation. It is believed that around 400 survivors have been rescued.<ref>[http://news.yahoo.com/s/nm/20060204/ts_nm/egypt_ferry_dc]</ref>
+
+==Ship history==
+The vessel was built by the Italian company [[Italcantieri]] in [[1970]] with [[International Maritime Organization|IMO]] number 6921282 and named the ''Boccaccio'' at [[Monfalcone]], [[Italy]] for [[Tirrenia di Navigazione]]. It was originally intended for Italian domestic service.<ref>Overview Press Ltd, ''Ferries 2004 Southern Europe''</ref> Its dimensions included 130.99&nbsp;[[metre|m]] length overall with 23.60&nbsp;m [[beam (nautical)|beam]] and 5.57&nbsp;m [[draft (hull)|draft]].  The main engines are rated at 16,560&nbsp;[[kilowatts|kW]] for a maximum speed of 19&nbsp;[[Knot (speed)|knots]].  The vessel had an original capacity of 200 automobiles and 1000 passengers.  Five sister ships were built.
+
+The vessel was rebuilt in [[1991]] by INMA at [[La Spezia]], maintaining the same outer dimensions albeit with a higher superstructure, changing the draught to 5.90&nbsp;m.  At the same time its automobile capacity was increased to 320 and the passenger capacity was increased to 1,300.  The most recent gross registered [[tonnage]] was 11,799.
+
+The ''Boccaccio'' was purchased in [[1999]] by [[El Salam Maritime Transport]], headquartered in [[Cairo]], the largest private shipping company in [[Egypt]] and the [[Middle East]], and renamed ''al-Salam Boccaccio 98''; the registered owner is Pacific Sunlight Marine Inc. of [[Panama]].  She is also referred to as ''Salam 98''.
+
+==The sinking==
+[[Image:al-Salam Boccaccio sinking in Red Sea.png|thumb|right|300px|The reported point where the ship was last observed by coastal [[radar]]]]
+
+First reports<ref>{{citenews|title=Reports of survivor statements|org=BBC| date=[[2006-02-04]]|url=http://news.bbc.co.uk/1/hi/world/middle_east/4679836.stm}} </ref> of statements by survivors indicated that smoke from the engine room was followed by a fire which continued for some time. There were also reports of the ship listing soon after leaving port and that after continuing for some hours the list became severe and the ship capsized within 10 minutes as the crew fought the fire. In a BBC radio news broadcast an Egyptian ministerial spokesman said that the fire had started in a storage area, was controlled, but then started again. The ship turned round and as it turned the capsize occurred. The significance of the fire was supported by statements attributed to crew members who were reported to claim that ''the firefighters essentially sank the ship when sea water they used to battle the fire collected in the hull because drainage pumps were not working''.<ref>{{citenews|title=Report of crew statements|org=Washington Post| date=[[2006-02-04]]|url=http://www.washingtonpost.com/wp-dyn/content/article/2006/02/04/AR2006020400473.html}} </ref>
+
+===Weather conditions===
+
+The Red Sea is known for its strong winds and tricky local currents.<ref>{{citenews|title=Egyptian passenger ship sinks in Red Sea; 20 confirmed dead; 100 survivors rescued|org=CJAD 800|date=[[2006-02-03]]|url= http://www3.cjad.com/content/cp_article.asp?id=/global_feeds/CanadianPress/WorldNews/w020339A.htm}}</ref> The region had been experiencing high winds and dust storms for several days at the time of the sinking. These winds may have contributed to the disaster and may have complicated rescue efforts. 
+
+The closest maritime weather report<ref>http://www.ndbc.noaa.gov/</ref> for [[3 February]] [[2006]] 00:00 UTC was from MV ''Glasgow Maersk'', [[call sign]] MZGK7. Reporting from 27.00°N  34.40°E, approximately 150&nbsp;km north-north-west of the sinking, the [[container ship]] shows winds of 24.1&nbsp;[[knots (speed)|kt]] (13&nbsp;ms<sup>-1</sup>) from 320 degrees, with a surface [[atmospheric pressure|pressure]] of 1005&nbsp;[[hectopascal|hPa]].  Sea temperature was 25°C and a significant wave height of only 45&nbsp;cm.  [[Visibility]] was good (10&nbsp;km), with 7/8 cloud cover. There was also an active [[weather front]] overlying the area,<ref>http://en.wikipedia.org/wiki/Image:Gfs10.prp.012.tropio.gif</ref> clearly visible in [[METEOSAT]] imagery.<ref>http://oiswww.eumetsat.org/~idds/images/out/SDDI-20060202-2100-BNW-08-IR_108-03-600.jpg</ref>
+
+===Possible causes===
+There have been several theories expressed about possible causes of the sinking.
+
+* Fire: Some survivors dragged from the water have reported that there was a large fire on board before the ship sank, and there have been eyewitness accounts of thick black smoke coming from the engine rooms.
+
+* Design flaws: The al-Salam Boccaccio 98 was a [[roll on-roll off]] (ro-ro) ferry. This is a design that allows vehicles to drive on one end and drive off the other.  This means that neither the ship nor any of the vehicles need to turn around at any point. It also means that the cargo hold is one long chamber going through the ship. To enable this to work, the vehicle bay doors must be very near the [[waterline]], so if these are sealed improperly, water may leak through. Even a small amount of water moving about inside can gain [[momentum]] and [[capsize]] a ship, in a way known as the [[Free Surface Effect]]. 
+
+* Modifications: In the 1980s the ship was reported to have had several modifications, including the addition of two passenger decks, and the widening of cargo decks. This would have made the ship less stable than it was designed to be, particularly as its draught was only 5.9m. Combined with high winds, the tall ship could have been toppled easily.
+
+* Vehicle movement: Another theory is that the rolling ship could have caused one or more of the 220 vehicles in its hold to break loose and theoretically be able to puncture a hole in the side of the ship.
+
+<!-- Unsourced image removed: [[Image:Al-SalamBoccaccio98pre1991.jpg|thumb| The Al-Salam Boccaccio 98 before the 1991 addition of its upper decks.]] -->
+
+===Search and rescue===
+At 23:58 UTC on [[2 February]] [[2006]] the air-sea rescue control room at RAF Kinloss in [[Scotland]] detected an automatic distress signal relayed by satellite from the ship's position. The alert was passed on via France to the Egyptian authorities.<ref>{{citenews|title= Egyptian Ship Sinks At Sea|org=Sky News|date=[[2006-02-03]]|url=http://www.sky.com/skynews/article/0,,30000-1211215,00.html}}</ref>
+
+As of [[3 February]] [[2006]] some [[lifeboat]]s and bodies were seen in the water. It is believed that there are still survivors. At least 314 survivors and around 185 dead bodies have been recovered. [[Reuters]] reported that "dozens" of bodies were floating in the Red Sea.<ref>{{citenews|title= Ship with 1,400 sinks in Red Sea|org=CNN|date=[[2006-02-03]]|url= http://www.cnn.com/2006/WORLD/meast/02/03/egypt.ship/index.html}}</ref>
+
+Rescue boats and helicopters are searching the area, including four Egyptian frigates. Britain diverted the [[warship]] ''[[HMS Bulwark (L15)|HMS Bulwark]]'' which would have arrived in a day-and-a-half, but reports conflict as to whether or not the ship has been recalled.<ref>{{citenews|title=Dozens of Bodies, Survivors in Red Sea.|org=New York Times/Associated Press|date= [[2006-02-03]]|url = http://www.nytimes.com/aponline/international/AP-Egypt-Ship-Sinks.html}}</ref><ref>{{citenews|title=Many Dead as Egyptian Ferry Sinks.|org=BBC|date= [[2006-02-03]]|url = http://news.bbc.co.uk/1/hi/world/middle_east/4678368.stm}}</ref>  [[Israel]]i sources report that an offer of search and rescue assistance from the [[Israeli Sea Corps|Israeli Navy]] was declined.<ref>{{citenews|title=Egyptian cruise ship sinks in Red Sea|org=Jerusalem Post|date=[[2006-02-03]]|url= http://www.jpost.com/servlet/Satellite?cid=1138622540255&pagename=JPost%2FJPArticle%2FShowFull}}</ref> Egyptian authorities have, however, accepted a [[United States]] offer of a [[P-3 Orion]] maritime naval patrol aircraft after initially having said that the help was not needed.<ref>{{citenews|title=Dozens of Bodies, Survivors in Red Sea.|org=New York Times/Associated Press|date=[[2006-02-03]]|url = http://www.nytimes.com/aponline/international/AP-Egypt-Ship-Sinks.html}}</ref>
+
+Many survivors reported seeing the captain of the vessel being the first one to leave the ship in a life boat [AP 2-04-06].
+
+===Similar incidents===
+*The sinking of ''al-Salam Boccaccio 98'' is being compared to that of the [[1987]] [[M/S Herald of Free Enterprise|M/S ''Herald of Free Enterprise'']] disaster, which killed 193 passengers, and also to other incidents.
+
+*In [[1991]] another Egyptian ferry, the ''[[Salem Express]]'', sunk off the coast of Egypt after hitting a small [[habili]] [[coral reef|reef]]. 464 Egyptians lost their lives. The ship is now a landmark shipwreck for [[Scuba diving|SCUBA]] divers along with the ''[[SS Thistlegorm]]''.
+
+*In [[1994]], the [[M/S Estonia|M/S ''Estonia'']] sank, claiming 852 lives.
+
+*On [[26 September]] [[2002]] the [[MV Joola|M/S ''Joola'']], a [[Senegalese]] government-owned ferry, capsized off the coast of [[Gambia]] resulting in the deaths of at least 1,863 people.
+
+{{Disputed-section}}
+
+*On [[17 October]] [[2005]], the ''[[Pride of al Salam 95]]'', a sister ship of the ''al-Salam Boccaccio 98'', also sank in the Red Sea, after being struck by the [[Cyprus|Cypriot]]-registered cargo ship ''Jebal Ali''. In that accident, two people were killed and another 40 injured, some perhaps during a stampede to leave the sinking ship. After evacuating all the ferry passengers and crew, the ''Jebal Ali'' went astern and the ''Pride of al Salam 95'' sank in about 3½ minutes.
+
+==References==
+<references/>
+
+==External links==
+*{{sv icon}}[http://www.faktaomfartyg.se/boccaccio_1970.htm ''Boccaccio'' (1971) vessel information]
+*"[http://news.bbc.co.uk/1/hi/world/middle_east/4676916.stm Egyptian ferry sinks in Red Sea ]" at [[BBC News]]
+*"[http://www.timesonline.co.uk/article/0,,251-2023480,00.html Hunt for survivors as crowded Egyptian ferry sinks]" at [[The Times|Times Online]]
+*"[http://www.cnn.com/2006/WORLD/meast/02/03/egypt.ship/index.html Passenger ferry sinks in Red Sea]" at [[CNN]]
+*[http://www.elsalammaritime.com/pvessels.html al-Salam homepage]
+*[http://www.simplonpc.co.uk/FE6.html#anchor74048 Simplon Postcards] contains photos of sister ship that sank in 2005
+
+{{DEFAULTSORT:Al-Salam Boccaccio}}
+[[Category:Shipwrecks in the Red Sea]]
+[[Category:Maritime incidents in 2006]]
+[[Category:Ships of Egypt]]
+[[Category:Disasters in Egypt]]
+[[Category:Ferries]]
+
+
+[[ar:عبارة السلام 98]]
+[[da:Al-Salam Boccaccio 98]]
+[[de:Al-Salam Boccaccio 98]]
+[[es:Al-Salam Boccaccio 98]]
+[[fr:Al-Salam Boccaccio 98]]
+[[it:Boccaccio (traghetto)]]
+[[he:אל-סלאם בוקאצ'ו 98]]
+[[nl:Salaam Boccaccio '98]]
+[[no:Al-Salam Boccaccio 98]]
+[[pl:MF al-Salam Boccaccio 98]]
+[[sh:Al-Salam Boccaccio 98]]
+[[fi:M/S al-Salam Boccaccio 98]]
+[[sv:Al-Salam Boccaccio 98]]

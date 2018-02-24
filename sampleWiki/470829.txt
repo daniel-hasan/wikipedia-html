@@ -1,0 +1,95 @@
+{| border=1 cellpadding="2" cellspacing="0" align="right" width=300 style=margin-left:10px
+|-
+!colspan=2 align=center bgcolor="#ff9999"|Borough of Tunbridge Wells
+|-
+|colspan=2 align=center|[[Image:KentTunbridgeWells.svg|150px|Tunbridge Wells]]<br>''Shown within [[Kent]]''
+|-
+!colspan=2 bgcolor="#ff9999"|Geography
+|-
+|width="45%"|Status:||Borough
+|-
+|[[Regions of England|Region]]:||[[South East England]]
+|-
+|Admin. County:||[[Kent]]
+|-
+|[[Surface area|Area]]:<br>- Total||[[List of English districts by area|Ranked 148th]]<br>[[1 E8 m²|331.33]] [[square kilometre|km²]]
+|-
+|Admin. HQ:||Tunbridge Wells
+|-
+|[[ONS coding system|ONS code]]:||29UQ
+|-
+!colspan=2 bgcolor="#ff9999"|Demographics
+|-
+|[[Population]]:<br>- Total ({{English statistics year}})<br>- [[Density]]||[[List of English districts by population|Ranked {{English district rank|ONS=29UQ}}]]<br>{{English district population|ONS=29UQ}}<br>{{English district density|ONS=29UQ}} / km²
+|-
+|Ethnicity:||97.5% White
+|-
+!colspan=2 bgcolor="#ff9999"|Politics
+|-
+|colspan=2 align=center|Tunbridge Wells Borough Council<br>http://www.tunbridgewells.gov.uk/
+|-
+|[[Local government in England#Councils and councillors|Leadership]]:||Leader & Cabinet
+|-
+|Executive:||{{EnglishDistrictControl|ONS=29UQ}}
+|-
+|[[MPs elected in the UK general election, 2005|MPs]]:||[[Greg Clark]] (Conservative)
+|}
+'''Tunbridge Wells''' is a [[Non-metropolitan district|local government district]] and [[borough]] in [[Kent]], [[England]]. It takes its name from its main town, [[Royal Tunbridge Wells]].
+
+The district was formed on [[April 1]], [[1974]], by the merger of the [[municipal borough]] of Royal Tunbridge Wells along with [[Southborough, Kent|Southborough]] [[urban district]], [[Cranbrook Rural District]] and most of [[Tonbridge Rural District]].
+
+==Description of borough==
+===Location===
+The borough of Tunbridge Wells lies along the south eastern border of Kent, partly on the northern edge of the [[Weald]], the remainder on the Weald [[Clay]] [[plain]] in the upper reaches of the rivers [[River Teise|Teise and]] [[River Beult|Beult]].
+
+===The North Weald area===
+The restricted area immediately to the north and west of Tunbridge Wells lies within the Weald. The presence of sandstone outcrops here, and the [[chalybeate]] springs, together with old workings, point to ancient [[Wealden iron industry|iron manufacturing]].
+
+===Weald Clay plain===
+This plain is part of the so-called ''Garden of England'', named for its extensive orchards and former [[hop (plant)|hop]] farms, sheep and cattle. A string of villages lies across this plain, from Brenchley and Horsmonden to Benenden and Headcorn.
+
+===Communications===
+* ''Roads'' The main roads through the borough are the A21 London to Hastings road and in the east, the A229, which runs from the A21 at Hurst Green through [[Cranbrook, Kent|Cranbrook]] to [[Maidstone]].
+* ''Railways'' The line of the former [[South Eastern Railway (UK)|South Eastern Railway]] (SER) main line crosses the clay plain in an almost unbroken straight line between [[Redhill, Surrey|Redhill]] and [[Ashford, Kent]]. The SER line to [[Hastings]] passes through Tunbridge Wells; here there was once a further branch connection south-eastwards to [[Groombridge]], and at Paddock Wood is the southern terminus of the [[Medway Valley Line]] to [[Maidstone]].
+
+==Borough organisation==
+Tunbridge Wells Borough Council is composed of 48 councillors repesenting 20 [[ward (politics)|ward]]s across the borough. Eight wards are within Royal Tunbridge Wells itself including Broadwater, Culverden; [[Pantiles]] & St Marks; [[Park (Tunbridge Wells)|Park]]; [[Rusthall]]; Sherwood & St John's and St. James. The remainder are [[rural]] wards covering the other main towns and villages.
+
+Each of the latter also have their own form of local government in the form of a [[civil parish]]. They are as follows, paired where two villages are served by one councillor:
+*[[Benenden]] & [[Cranbrook, Kent|Cranbrook]]
+*[[Brenchley]] & [[Horsmonden]]
+*[[Capel, Kent|Capel]]
+*[[Frittenden]], [[Bidborough]]  & [[Sissinghurst]]
+*[[Goudhurst]] & [[Lamberhurst]]
+*[[Hawkhurst]] & [[Sandhurst, Kent|Sandhurst]]
+*[[Paddock Wood]]: two wards, East and West
+*[[Pembury]]
+*[[Southborough, Kent|Southborough]]: two wards, Southborough & High Brooms; and Southborough North
+*[[Speldhurst]] & [[Bidborough]]
+
+===Politics===
+Tunbridge Wells is and has almost always been from inception, a [[Conservative Party (UK)|Conservative]] Westminster constituency. However, some of the council wards are strongly [[Liberal Democrats|Liberal Democrat]]. The present political composition of the Council is:
+
+* Conservatives 41 
+* Liberal Democrats 7
+
+==Places of interest==
+Apart from Tunbridge Wells itself, places of interest in the Borough include:
+* [[Bewl Water]] reservoir near Lamberhurst for leisure water pursuits and outdoor conferences
+* [[Sissinghurst Castle]] gardens: the home of [[Vita Sackville-West]]
+
+- and there are facilities for rock-climbing at the 'High Rocks', 2 miles west of Tunbridge Wells
+
+==External links==
+*[http://www.tunbridgewells.gov.uk The Borough website]
+*[http://www.disgusted.tw Disgusted of Tunbridge Wells]
+
+{{Tunbridge Wells}}
+{{SE_England}}
+
+[[Category:Local government in Kent]]
+[[Category:Shire districts]]
+
+[[de:Tunbridge Wells (Borough)]]
+[[nl:Tunbridge Wells (district)]]
+[[no:Tunbridge Wells (distrikt)]]

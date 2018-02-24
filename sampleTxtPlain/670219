@@ -1,0 +1,575 @@
+Portuguese grammar, the morphology and syntax of the Portuguese language, is similar to the grammar of most other Romance languages—especially Galician and the other languages of Iberian Peninsula. It is a synthetic, fusional language. 
+
+Nouns, adjectives, pronouns and articles are moderately inflected: there are two genders (masculine and feminine), two numbers (singular and plural), diminutive and augmentative inflections, and a superlative inflection for adjectives. The case system of Latin has been lost, but personal pronouns are still declined (with three main types of forms, subject, object of verb, and object of preposition). Adjectives usually follow the noun.
+
+Verbs are highly inflected: there are three tenses (past, present, future), three moods (indicative, subjunctive, imperative), three aspects (perfective, imperfective, and progressive), two voices (active and passive), and an inflected infinitive. Most perfect and imperfect tenses are synthetic, totaling 11 conjugational paradigms, while all progressive tenses and passive constructions are periphrastic. As in other Romance languages, there is also an impersonal passive construction, with the agent replaced by an indefinite pronoun. Portuguese is basically an SVO language, although SOV syntax may occur with a few object pronouns, and word order is generally not as rigid as in English. It is a null subject language, with a tendency to pro-drop language|drop object pronouns as well, in colloquial varieties. It has two copular verbs.
+
+It has a number of grammatical features that distinguish it from most other Romance languages, such as a synthetic pluperfect, a future subjunctive tense, the inflected infinitive, and a present perfect with an iterative sense. A unique feature of Portuguese is mesoclisis, the infixing of clitic pronouns in some verbal forms.
+
+Sentence structure
+=Word classes=
+Like most Indo-European languages, including English, Portuguese classifies most of its lexicon into four word classes: verbs, nouns, adjectives, and adverbs. These are &quot;open&quot; classes, in the sense that they readily accept new members, by coinage, borrowing, or compounding. Interjections form a smaller open class.
+
+There are also several small closed classes, such as pronouns, prepositions, articles, demonstratives, numerals, conjunctions, and a few grammatically peculiar words such as ''eis'' (&quot;here is&quot;; cf. Latin ''ecce'' and French ''voilà''), ''cadê'' (&quot;where is&quot;), ''tomara'' (&quot;let's hope&quot;), and ''oxalá'' (&quot;let's hope that&quot;).
+
+Within the four main classes there are many semi-regular mechanisms that can be used to derive new words from existing words, sometimes with change of class; for example, ''veloz'' (&quot;fast&quot;) → ''velocíssimo'' (&quot;very fast&quot;), ''medir'' (&quot;to measure&quot;) → ''medição'' (&quot;measurement&quot;), ''piloto'' (&quot;pilot&quot;) → ''pilotar'' (&quot;to pilot&quot;). Finally, there are several phrase embedding mechanisms that allow arbitrarily complex phrases to behave like nouns, adjectives, or adverbs.
+
+=Subject, object and complement=
+Following the general Indo-European pattern, the essential and central element of any Portuguese clause is a verb, which may directly connect to one, two, or (rarely) three nouns (or noun-like phrases), called subject, the object and complement.
+Contrary to English, Object can be market by the accusative preposition &quot;a&quot; or by the correct pleonasm object, like &quot;A Maria(O) a (her) (pO mark) ama (V) O Paulo (S)&quot; = &quot;Paulo loves Maria&quot;. (OVS) There is also the orden OSV or VSO(without be sign of interrogative) without necessity of mark &quot;A Maria (O) o Paulo(S) ama (V)&quot; ,Ama (V) o Paulo (S) a Maria (O).(affirmative) =Paulo loves Maria .There is also indirect order by logic: &quot;A casa (O) construiu (V) o pedreiro (S)&quot; : &quot;The mason has constructed the house&quot; or by concordance of the verb with the singular or plural subject :&quot;As rosas ama o Paulo&quot; :&quot;Paul loves the roses&quot; ou by personal ends of verb: &quot;rosas adoro&quot;: &quot;I adore roses&quot;. The most common order in Portuguese is Subject Verb Object Complement (SVOC). For example,
+:''{ele};S; {nomeou};V; {Pedro};O; {ministro};C;'', &quot;he appointed Peter (as) minister&quot;
+:''{ela};S; {achou};V; {o livro};O; {uma chatice};C;'', &quot;she found the book a bore&quot;
+Any of the three noun parts may be omitted (elided) if it can be inferred from the context or from other syntactic clues; but many grammatical rules will still apply as if the omitted part was there.
+
+A clause will often contain a number of adverbs (or adverbial phrases) that modify the meaning of the verb; they may be inserted between those components. Additional nouns can be connected to the verb by means of certain prepositions, which turn them into adverbs:
+:''ele carregou {sem demora} a mala {para ela} {do carro} {até a porta}''
+:&quot;he carried {without delay} the bag {for her} {from the car} {to the door}&quot;
+
+=Null subject language=
+Portuguese is a null subject language, ''i.e.'', a language whose grammar permits and sometimes mandates the omission of an explicit subject.
+
+In Portuguese, the grammatical person of the subject is generally reflected by the inflection of the verb. Sometimes, though an explicit subject is not necessary to form a grammatically correct sentence, one may be stated in order to emphasize its importance. Some sentences, however, do not allow a subject and in some other cases an explicit subject would sound awkward or unnatural:
+*&quot;I'm going home&quot; can be translated either as ''Vou para casa'' or as ''Eu vou para casa'', where ''eu'' means &quot;I&quot;.
+*&quot;It's raining&quot; can be translated as ''Está a chover'' but ''not'' as ''Ele está a chover'', where ''ele'' would correspond to English ''it''. It is also translated as ''Está chovendo''.
+*&quot;I'm going home. I'm going to watch TV.&quot; only in exceptional circumstances would be translated as ''Eu vou para casa. Eu vou ver televisão.'' At least the second ''eu'' (&quot;I&quot;) should be omitted.
+
+As in other null subject SVO languages, the subject is often postponed, mostly in existential sentences, answers to partial questions and contrast structures:
+*''Existem aqui muitos ratos!'' (&quot;There are many mice here&quot;)
+*''Quem é que foi?'' ''Fui eu.'' (&quot;Who did it? I did.&quot;)
+*''Ela não comeu o bolo, mas comi eu.'' (&quot;She didn't eat the cake, but I did.&quot;)
+
+Types of sentences
+Portuguese declarative sentences, as in many languages, are the less marked.
+
+Imperative sentences use the imperative mood for the second person. For other grammatical persons and for every negative imperative sentence, the subjunctive is used.
+
+Yes/no questions have the same structure as declarative sentences, and are marked only by a different tonal pattern (mostly a raised tone near the end of the sentence), represented by a question mark («?») in writing. Wh-questions often start with ''quem'' (&quot;who&quot;), ''o que'' (&quot;what&quot;), ''qual'' (&quot;which&quot;), ''onde'' (&quot;where&quot;), ''aonde'' (&quot;where... to&quot;), ''quando'' (&quot;when&quot;), ''por que'' (&quot;why&quot;), etc. ''Quem'', ''o que'' and ''qual'' can be preceded by any preposition, but in this case ''o que'' will most times be replaced by ''que''. In oral language, but often also in writing, these words are followed by the interrogative device ''é que'' (literally, &quot;is [it] that&quot;; compare French ''est-ce que''). When ''é que'' is omitted, the verb may come before the subject.
+;Wh-questions sometimes occur without wh-movement, that is, wh-words remain ''in situ''. In this case, ''o que'' and ''por que'' are to be replaced by their stressed counterparts ''o quê'' and ''por quê / porquê'' (Brazilian spelling / European spelling). For example:
+:''O que é que ela fez?''
+::&quot;What did she do?&quot;
+:''Ela fez o quê?''
+::&quot;What did she do?&quot; or, if emphatic, &quot;She did ''what''?&quot;
+:''Por quê?'' / ''Porquê?''
+::&quot;Why?&quot;
+:''Em que dia é que isso aconteceu?''
+::&quot;On what day did that happen?&quot;
+:''Isso aconteceu em que dia?''
+::&quot;On what day did that happen?&quot;
+In Brazilian Portuguese, the phrase ''é que'' is more often omitted.
+
+=Replying=
+''Não'' (&quot;no&quot;) is the natural negative answer to yes/no questions. As in Latin, positive answers are usually made with the inflected verb of the question in the appropriate person and number. Portuguese is one of the few Romance languages keeping this Latin peculiarity. The adverbs ''já'' (&quot;already&quot;), ''ainda'' (&quot;yet&quot;), and ''também'' (&quot;too&quot;, &quot;also&quot;) are used when one of them appears in the question.
+
+:Q: ''Gostaste do filme?'' A: ''Gostei.'' / ''Não.''
+::Q: &quot;Did you like the movie?&quot; A: &quot;Yes.&quot;, literally, &quot;I liked.&quot; / &quot;No.&quot;
+:Q: ''Eu não tinha aqui deixado uma chave?'' A: ''Tinhas!''
+::Q: &quot;Didn't I leave here a key?&quot; A: &quot;Yes, you did!&quot;
+:Q: ''Já leste este livro?'' A: ''Já.'' / ''Ainda não.''
+::Q: &quot;Have you already read this book?&quot; A: &quot;Yes&quot;, literally, &quot;Already.&quot; / &quot;Not yet.&quot;
+
+The word ''sim'' (&quot;yes&quot;) may be used for a positive answer, but, if used alone, it may in certain cases sound unnatural or impolite. In Brazilian Portuguese, ''sim'' can be used ''after'' the verb for emphasis. In European Portuguese, emphasis in answers is added with the duplication of the verb. In both versions of Portuguese, emphasis can also result from syntactical processes that are not restricted to answers, such as the addition of adverbs like ''muito'' (&quot;much&quot;) or ''muitíssimo'' (&quot;very much&quot;).
+
+It is also acceptable, though sometimes formal, to use ''yes'' before the verb of the question, separated by a pause or, in writing, a comma. The use of ''sim'' before the verb does ''not'' add emphasis, and may on the contrary be less assertive.
+
+:Q: ''Você gostou do filme?'' A: ''Gostei, sim!''
+::Q: &quot;Did you like the movie?&quot; A:&quot;Yes, I did!&quot; (Brazilian Portuguese)
+:Q: ''Gostaste do filme?'' A: ''Gostei, gostei!''
+::Q: &quot;Did you like the movie?&quot; A:&quot;Yes, I did!&quot;; literally, &quot;I Liked, I liked!&quot; (European Portuguese)
+:Q: ''Há comboios a esta hora?'' A: ''Há, há!''
+::Q: &quot;Are there any trains at this time?&quot; A:&quot;Yes, there are!&quot; (European Portuguese)
+:Q: ''Ele gostou do filme?'' A: ''Sim, gostou...''
+::Q:&quot;Did he like the movie?&quot; A:&quot;Yes...&quot; (Both Brazilian and European Portuguese)
+
+Articles
+Portuguese has a definite article and an indefinite one, with different forms according to the gender and number of the noun to which they refer:
+
+:{| class=&quot;wikitable&quot;
+|rowspan=2|
+|colspan=2 align=center| singular
+|colspan=2 align=center| plural
+|rowspan=2 align=center| meaning
+|-
+|masculine
+|feminine
+|masculine
+|feminine
+|-
+|definite article
+|o
+|a
+|os
+|as
+|''the''
+|-
+|indefinite article
+|um
+|uma
+|uns
+|umas
+|''a, an; some''
+|}
+
+Unlike some other Romance languages or English, the written form of the Portuguese articles is the same, independently of the next word. The noun after the indefinite article may be elided, in which case the article is equivalent to English &quot;one&quot; (if singular) or &quot;a few ones&quot; (if plural): ''quero um também'' (&quot;I want one too&quot;), ''quero uns maduros'' (&quot;I want a few ripe ones&quot;).
+
+The definite article may appear before a noun in certain contexts where it is not used in English, for example before certain proper nouns, such as country, and organization names:
+:''Ele visitou o Brasil, a China e a Itália'', &quot;He visited Brazil, China, and Italy&quot;
+:''Ele visitou o Rio'', &quot;He visited Rio de Janeiro&quot;.
+:''A IBM patrocinou o MoMA'', &quot;IBM sponsored MoMA&quot;
+:''Ele foi para o São Paulo'', &quot;He went to the São Paulo (soccer team)&quot;.
+However:
+:''Ele visitou Portugal e Moçambique'', &quot;He visited Portugal and Mozambique&quot;
+:''Ele foi para São Paulo'', &quot;He went to São Paulo (city or state)&quot;.
+The article is never used with ''Portugal'', ''Angola'', ''Cabo Verde'', ''Moçambique'' and ''Timor''. In general, article usage for proper nouns is largely determined by tradition, and it may vary with dialect.
+
+=Personal names=
+In many varieties of the language, including all European varieties, personal names are normally preceded by a definite article, a trait which Portuguese shares with Catalan. This is a relatively recent development, which some Brazilian dialects (e.g. those of the Northeast) have not adopted yet. In those dialects of Portuguese that do regularly use definite articles before proper nouns, the article may be omitted for extra formality, or to show distance in a literary narrative.
+
+:''A Maria saiu'', &quot;Maria left&quot; (informal)
+:''A Sr.ª Maria saiu'', &quot;Ms. Maria left&quot; (formal)
+However:
+:''Maria Teixeira saiu'', &quot;Maria Teixeira left&quot; (formal and mostly written)
+
+Nouns
+Like all western Romance languages, Portuguese does not inflect nouns to indicate their grammatical function, relying instead on more use of prepositions (included an accusative preposition)with the criation of more prepositions or phrasal prepositions for substitute the used in Portuguese to indicate their gramatical function , pleonastic object
+,by the context or by word orden(mostlySVO, often with omitted subject) and on the extensive use of prepositions. It has fairly regular noun inflection rules to indicate number (singular or plural), and many semi-regular ones to express biological sex or social gender, size, endearment, deprecation, etc. Nouns are classified into two grammatical genders, and adjectives, articles and demonstratives must be inflected to agree with the noun in gender and number. 
+
+There are two genders, masculine and feminine, and two numbers, singular and plural. Articles and adjectives are usually inflected to agree in gender and number with the nouns or pronouns they refer to. There are no cases; only personal pronouns are still declined. Diminutive and augmentative forms exist for nouns. 
+
+=Gender and number=
+Most adjectives and demonstratives, and all articles must be inflected according to the gender and number of the noun they reference:
+
+:''esta linda casa branca'' (&quot;this nice white house&quot;)
+:''este lindo carro branco'' (&quot;this nice white car&quot;)
+:''estas lindas aves brancas'' (&quot;these nice white birds&quot;)
+:''estes lindos gatos brancos'' (&quot;these nice white cats&quot;)
+
+The agreement rules apply also to adjectives used with copulas, e.g. ''o carro é branco'' (&quot;the car is white&quot;) vs. ''a casa é branca'' (&quot;the house is white&quot;).
+
+Gender determination
+As in all Romance languages, the grammatical gender of inanimate entities is quite arbitrary, and often different from that used in sister languages: thus, for example, Portuguese ''árvore'' (&quot;tree&quot;) and ''flor'' (&quot;flower&quot;) are feminine, while Spanish ''árbol'' and Italian ''fiore'' are masculine; Portuguese ''mar'' (&quot;sea&quot;) and ''mapa'' (&quot;map&quot;) are masculine, while French ''mer'' and ''mappe'' are feminine; and so on.
+
+The gender and number of many nouns can be deduced from its ending: the basic pattern is &quot;''-o''&quot;/&quot;''-os''&quot; for masculine singular and plural, &quot;''-a''&quot;/&quot;''-as''&quot; for feminine. And, indeed, ''casa'' (&quot;house&quot;), ''mala'' (&quot;suitcase&quot;), ''pedra'' (&quot;stone&quot;), and ''inteligência'' (&quot;intelligence&quot;) are all feminine, while ''carro'' (&quot;car&quot;), ''saco'' (&quot;bag&quot;), ''tijolo'' (&quot;brick&quot;), and ''aborrecimento'' (&quot;annoyance&quot;) are all masculine. However, the complete rules are quite complex: for instance, nouns ending in ''-ção'' are usually feminine, except for augmentatives like ''bração'' (&quot;big arm&quot;). And there are many irregular exceptions. For words ending in other letters, there are few rules: ''flor'' (&quot;flower&quot;), ''gente'' (&quot;folk&quot;), ''nau'' (&quot;ship&quot;), ''maré'' (&quot;tide&quot;) are feminine, ''amor'' (&quot;love&quot;), ''pente'' (&quot;comb&quot;), ''pau'' (&quot;stick&quot;), ''café'' (&quot;coffee&quot;) are masculine.
+
+The gender of animate beings often matches the biological sex, but there are many exceptions: ''autoridade'' (&quot;authority&quot;), ''testemunha'' (&quot;witness&quot;), and ''girafa'' (&quot;giraffe&quot;), for example, are always feminine regardless of their sex, and so are all respectful treatmens such as ''Vossa Excelência'' (&quot;Your Excellency&quot;); whereas ''peixe fêmea'' (&quot;female fish&quot;) is strictly masculine.
+
+On the other hand, the gender of some nouns, as well as of 1st and 2nd person pronouns, is determined semantically by the biological sex of the referent: ''aquela estudante é nova, mas aquele estudante é velho'' (&quot;this student(female=feminine) is new, but that student(male=masculine) is old&quot;;
+or ''eu sou brasileiro'' (&quot;I am Brazilian&quot;, said by a man) and ''eu sou brasileira'' (the same, said by a woman).
+
+Also, many animate masculine nouns have specific feminine derivative forms to indicate female biological sex: ''lobo'' (&quot;wolf&quot; or &quot;male wolf&quot;, masculine gender) → ''loba'' (&quot;she-wolf&quot;, feminine), ''conde'' (&quot;count&quot;, m.) → ''condessa'' (&quot;countess&quot;, f.), ''doutor'' (&quot;doctor&quot; or &quot;male doctor&quot;, m.) → ''doutora'' (&quot;female doctor&quot;, f.), ''ator'' (&quot;actor&quot;, m.) → ''atriz'' (&quot;actress&quot;, f.), etc.. The feminine noun derivations should not be confused with the adjectival gender inflections, which use different (and more regular) rules.
+
+=Diminutives and augmentatives=
+Portuguese language is prodigal in the use of diminutives, which convey the senses of small size, endearment or insignificance. Diminutives are very, very commonly used in informal language.On the other side, most uses of diminutives are avoided in written and otherwise formal language.
+
+The most common diminutive endings are -inho and -inha, replacing -o and -a, respectively. Words with the stress in the last syllable generally have -zinho or -zinha added, such as café and cafezinho. In writing, a &quot;c&quot; (but not a &quot;ç&quot;) becomes a &quot;qu&quot; in some words, like &quot;pouco&quot; (few or a few) and &quot;pouquinho&quot; (very few), in order to preserve the /k/ pronunciation. Popular diminutives may have different forms: ''e.g.'', &quot;poucochinho&quot; (very few, a very small portion).
+
+Possible endings other than -inho(a) are -ito(a) (e.g. &quot;copo/copito&quot; - glass), -ico(a) (e.g. &quot;burro/burrico&quot; - donkey), -(z)ete (e.g. &quot;palácio/palacete&quot; - palace), -ote (e.g. &quot;saia/saiote&quot; - skirt), -oto (e.g. &quot;lebre/lebroto&quot; - &quot;hare/leveret&quot;), -ejo (e.g. &quot;lugar/lugarejo&quot; - place), -acho (e.g. &quot;rio/riacho&quot; - river), -ola (e.g. &quot;aldeia/aldeola&quot; - village), -el (e.g. &quot;corda/cordel&quot; - rope). It is also possible to form a diminutive of a diminutive, e.g. &quot;burriquito&quot; (burro + -ico + -ito)
+
+Portuguese is somewhat peculiar in that the diminutive endings are often used not only with nouns but also with adjectives (''e.g.'', ''tonto''/''tontinho'', meaning silly or, perhaps, &quot;a bit silly&quot;, or ''verde''/''verdinho'', meaning &quot;green&quot; and &quot;nicely green&quot;) and occasionally with adverbs (''e.g.'', ''depressa''/''depressinha'', &quot;quickly&quot;) and some other word classes, as, ''e.g.'', ''obrigadinho'', which is a diminutive for the interjection ''obrigado'' (&quot;thanks&quot;). Even the numeral ''um'' (&quot;one&quot;) can informally become ''unzinho''. The same happens with ''pouco'' (&quot;few&quot; or &quot;a few&quot;), as in the first paragraph in this section.
+
+The most common augmentatives are the masculine -ão and the feminine -ona, although there are others, like -aço(a) (e.g. &quot;mulher/mulheraça&quot; - woman) or -eirão (e.g. &quot;voz/vozeirão&quot; - voice) less frequently used. Sometimes, the masculine augmentative can be applied to a feminine noun, which then becomes grammatically masculine, but with a feminine meaning (e.g. a mulher &quot;the woman&quot;, o mulherão &quot;the big woman&quot;).
+
+Adjectives
+Adjectives normally follow the nouns which they modify. Thus &quot;white house&quot; is ''casa branca'' but the reverse order ''branca casa'' is possible. Some adjectives like ''bom'' (&quot;good&quot;), ''belo'' (&quot;nice&quot;), and ''grande'' (&quot;great&quot;, &quot;big&quot;) are often prefixed. Indeed, some of these have rather different meanings depending on position: ''um grande homem'' means &quot;a great man&quot;, ''um homem grande'' means &quot;a big man&quot;.
+
+They are inflected for gender and number, and have also a superlative inflection (&quot;lindo&quot;, beautiful; &quot;lindíssimo&quot;, very beautiful). Other types of comparison are made analytically, with the help of conjunctions.
+
+The rules for inflecting adjectives for gender and number are the same as those for nouns. There are a few basic patterns, including:
+:''branco''/''branca''/''brancos''/''brancas'' (&quot;white&quot;)
+:''francês''/''francesa''/''franceses''/''francesas'' (&quot;French&quot;)
+:''verde''/''verde''/''verdes''/''verdes'' (&quot;green&quot;)
+:''feliz''/''feliz''/''felizes''/''felizes'' (&quot;happy&quot;)
+:''marrom''/''marrom''/''marrons''/''marrons'' (&quot;brown&quot;)
+:''superior''/''superior''/''superiores''/''superiores'' (&quot;superior&quot;)
+:''motor''/''motriz''/''motores''/''motrizes'' (&quot;driving&quot;)
+:''azul''/''azul''/''azuis''/''azuis'' (&quot;blue&quot;)
+:''grandão''/''grandona''/''grandões''/''grandonas'' (&quot;rather big&quot;)
+However, there are a few exceptions, such as:
+:''bom''/''boa''/''bons''/''boas'' (&quot;good&quot;)
+:''lilás''/''lilás''/''lilás''/''lilás'' (&quot;lilac&quot;)
+
+Prepositions
+Portuguese prepositions are somewhat similar to those of neighboring Romance languages; but there are some conspicuous differences.
+
+There is no simple correspondence between English and Portuguese prepositions; the following table is a rough approximation:
+:''a'' = used before indirect object, it can also mean &quot;to&quot;, &quot;at&quot;, &quot;in&quot;, &quot;on&quot;, etc, or used before direct object (accusative preposition) for topicalization.
+:''até'' = &quot;until&quot;
+:''com'' = &quot;with&quot;
+:''de'' = &quot;of&quot;, &quot;from&quot;, &quot;about&quot;, etc.
+:''debaixo de'' = &quot;under&quot;, &quot;below&quot;
+:''desde'' = &quot;from&quot;, &quot;since&quot;
+:''em'' = &quot;in&quot;, &quot;on&quot;, &quot;at&quot;
+:''entre'' = &quot;between&quot;, &quot;among&quot;
+:''por'' = &quot;by&quot;, &quot;for&quot;, &quot;through&quot;
+:''para'' = &quot;for&quot;, &quot;to&quot;, &quot;in order to&quot;
+:''sem'' = &quot;without&quot;
+:''sobre'' = &quot;on&quot;, &quot;above&quot;, &quot;on top of&quot;, &quot;about&quot;
+:''sob'' = &quot;under&quot; (mostly literary)
+:''em cima de'' = &quot;above&quot;, &quot;on&quot;
+:''em baixo de'' = &quot;under&quot;
+
+The English possessive case has no systematic counterpart in Portuguese (or, for that matter, in any other Romance language except Romanian and Latin). Portuguese generally uses ''de'' (&quot;of&quot;) to indicate possession or, indeed, any relation (which must be recovered from the context).
+
+Several prepositions contract with the definite article.
+
+:{| class=&quot;wikitable&quot;
+|rowspan=2 align=center| preposition
+|colspan=4 align=center| article
+|-
+| ''o''
+|''a''
+| ''os''
+|''as''
+|-
+|''de''
+| do
+| da
+| dos
+|das
+|-
+| ''em''
+| no
+| na
+| nos
+|nas
+|-
+| ''por''
+| pelo
+| pela
+| pelos
+|pelas
+|-
+| ''a''
+| ao
+| à
+| aos
+|às
+|-
+| ''para''
+| prò;1;
+| prà;1;
+| pròs;1;
+|pràs;1;
+|}
+;;1; colloquial;
+
+The contractions in the first four rows (with ''de'', ''em'', ''por'', ''a'') are mandatory in all registers. The grave accent in ''à''/''às'' has phonetic value in Portugal and African countries, but not in Brazil (see Portuguese phonology). In Brazil, the grave accent serves only to indicate the crasis in written text. The contractions in the last row are common in speech, but not used in formal writing. They may, however, appear when transcribing colloquial speech, for example in comic books. In the latter case, the grave accent is often omitted in Brazil, and it is also often mistakenly replaced with an acute accent elsewhere. 
+
+The prepositions ''de'' and ''em'' may also contract with the indefinite article, and with some pronouns that begin with a vowel:
+
+:''em'' + ''um''/''uma''/''uns''/''umas'' = ''num''/''numa''/''nuns''/''numas'' (&quot;in a&quot;, &quot;on a&quot;, &quot;at a&quot;)
+:''de'' + ''um''/''uma''/''uns''/''umas'' = ''dum''/''duma''/''duns''/''dumas'' (&quot;of a&quot;, &quot;from a&quot;)
+The contractions above are very common in the spoken language, formal or informal, and are also acceptable in formal writing in Portugal. In Brazil, they are avoided in writing, especially those of the preposition ''de'' with the indefinite article. 
+
+Across clause boundaries, contractions may occur in colloquial speech, but they are not done in writing, for clarity sake:
+:''Fui, apesar da loja estar fechada.'' (informal only)
+:''Fui, apesar de a loja estar fechada.'' (formal)
+:&quot;I went, even though the shop was closed.&quot;
+
+The English concept of phrasal verb (like &quot;set up&quot;, &quot;get by&quot;, &quot;pick out&quot;, etc.) does not exist in Portuguese: as a rule, prepositions are attached to the noun more strongly than to the verb.
+
+For a list of contracted prepositions in Portuguese, see :pt:Contração gramatical|Wikipedia in Portuguese: Contração gramatical.
+
+Personal pronouns and possessives
+
+Pronouns are often inflected for gender and number, although many have irregular inflections.
+
+Personal pronouns are inflected according to their syntactic role. They have three main types of forms: for the subject, for the object of a verb, and for the object of a preposition. In the third person, a distinction is also made between simple direct objects, simple indirect objects, and reflexive objects. 
+
+Possessive pronouns are identical to possessive adjectives. As in other Romance languages, they are inflected to agree with the gender of the possessed being.
+
+Deictics
+=Place adverbs=
+Adverbs of place show a three-way distinction between close to the speaker, close to the listener, and far from both:
+
+:''aqui'', ''cá'' = &quot;here&quot;
+:''aí'' = &quot;there&quot; (near you)
+:''ali'', ''lá'' (also ''acolá'' and ''além'') = &quot;over there&quot; (far from both of us)
+
+There seem to be differences in usage between ''aqui'' and ''cá'', with the latter being used more often after prepositions: e.g. ''estamos aqui'' (&quot;we are here&quot;) and ''vem para cá'' (lit., &quot;come to here&quot;). Differences also happen in the meaning of ''ali'', ''lá'' and ''acolá'' (especially, ''lá'' seems to be farther than ''ali''), but they are not quite distinct degrees of separation.
+
+=Demonstratives=
+Demonstratives have the same three-way distinction as place adverbs:
+
+:''este lápis'' - &quot;this pencil&quot; (near me)
+:''esse lápis'' - &quot;that pencil&quot; (near you)
+:''aquele lápis'' - &quot;that pencil&quot; (over there, away from both of us)
+
+In colloquial Brazilian Portuguese, ''esse'' is often used interchangeably with ''este'' when there is no need to make a distinction. This distinction is usually done only in formal writing or by people of a higher culture.
+
+The noun after a demonstrative can be elided: ''quero esse também'' (&quot;I want that one too&quot;), ''vendi todos ontem'' (&quot;I sold all of them yesterday&quot;).
+
+Demonstratives which start with a vowel contract with some prepositions, like the articles: ''de'' + ''ele'' = ''dele'' (&quot;of him&quot;), ''de'' + ''esse'' = ''desse'' (&quot;of that&quot;), ''em'' + ''aquilo'' = ''naquilo'' (&quot;in that thing&quot;), ''a'' + ''aquela'' = ''àquela'' (&quot;to that&quot;).
+
+Demonstrative adjectives are identical to demonstrative pronouns: cf. ''Aquele carro'' &quot;That car&quot; with ''Aquele'' &quot;That one.&quot;
+
+Indefinite pronouns
+The indefinite pronouns ''todo''/''toda''/''todos''/''todas'' are followed by the definite article in European Portuguese, and also elsewhere when they mean &quot;whole&quot;. Otherwise, articles and indefinite pronouns are mutually exclusive.
+
+In the demonstratives and in some indefinite pronouns, there is a trace of the Grammatical gender#Indo-European_languages|neuter gender of Latin. For example, ''todo'' and ''esse'' are used with masculine referents, ''toda'' and ''essa'' are used with feminine referents, and ''tudo'' and ''isso'' are used when there is no definite referent e.g. ''todo livro'' or ''todo o livro'', &quot;every book&quot;; ''toda salada'' or ''toda a salada'', &quot;every salad&quot;; ''tudo'' &quot;everything&quot;, and so on:
+:''este''/''esta''/''estes''/''estas'' (&quot;this&quot;, &quot;these&quot;); ''isto'' (&quot;this thing&quot;)
+:''esse''/''essa''/''esses''/''essas'' (&quot;that&quot;, &quot;those&quot;); ''isso'' (&quot;that thing&quot;)
+:''aquele''/''aquela''/''aqueles''/''aquelas'' (&quot;that&quot;, &quot;those&quot;); ''aquilo'' (&quot;that thing&quot;)
+:''algum''/''alguma''/''alguns''/''algumas'' (&quot;some&quot;); ''algo'' (&quot;something&quot;)
+:''nenhum''/''nenhuma''/''nenhuns''/''nenhumas'' (&quot;no&quot;); ''nada'' (&quot;nothing&quot;)
+:''todo''/''toda''/''todos''/''todas'' (&quot;every&quot;, &quot;all&quot;); ''tudo'' (&quot;everything&quot;)
+
+In terms of agreement, however, these &quot;neuter&quot; words function as masculine: both ''todo'' and ''tudo'' take masculine adjectives.
+
+Verbs
+As in most Romance languages, the Portuguese verb is usually inflected to agree with the subject's grammatical person (with three values, 1=I/we, 2=you, 3=he/she/it/they) and grammatical number (singular or plural), and to express various attributes of the action, such as time (past, present, future); completed, frustrated, or continuing; subordination and conditionality; command; and more. As a consequence, a regular Portuguese verb stem can take over 50 distinct suffixes. (For comparison, regular French and Italian verbs have about 40 distinct forms.)
+
+Copulae
+:''Related article: Romance copula''
+Two verbs are used as main copulae, as in some other Romance languages, the verbs ''ser'' and ''estar'' (&quot;to be&quot;). They developed from Latin ;SUM; and ;STO;, although the infinitive form ''ser'' actually comes from ;SEDERE;. Most forms of ''ser'' come from ;SUM; (infinitive ;ESSE;), the only exceptions being the indicative future, the subjunctive present and the imperative. ''Ficar'' is also used as secondary copula, sometimes being translatable as &quot;to become (to be)&quot; or &quot;to get (to be)&quot; (''e.g.'', ''Fiquei rico.'' = &quot;I got rich&quot;), some other times as &quot;to stay&quot; (''e.g.'', ''Fica aí!'' = &quot;Stay there!&quot;), some other times even as &quot;to be&quot; (''e.g.'', ''Coimbra fica na Beira'' = &quot;Coimbra is in Beira&quot; and ''Fica quieto!'' = &quot;Be still!&quot;).
+
+The distinction between ''ser'' and ''estar'' is perhaps a little more of a concept of permanent versus temporary, rather than essence versus state. This makes Portuguese closer to Catalan than to Spanish.
+*''A cadeira é [feita] de madeira'' = &quot;The chair is made of wood&quot;
+The word meaning &quot;made&quot; is in square brackets here, as it is usually omitted.
+*''Sou casado.'' = &quot;I'm married.&quot;
+*''Estou casado.'' = &quot;I'm married now.&quot;
+
+The same applies in sentences such as the following, which use ''ser'' for the passive voice, with no special exceptions for prohibitions and the like:
+* ''É proibido fumar neste vôo'' = &quot;No smoking on this flight&quot; (lit. &quot;it is forbidden to...&quot;)
+
+Portuguese counts location either as fundamental or not, and accordingly uses ''ser'' and ''ficar'' or ''estar'':
+*''Lisboa é/fica em Portugal'' = &quot;Lisbon is [located] in Portugual&quot;
+*''Onde é/fica a casa dela?'' = &quot;Where is her house?&quot;
+*''Onde está o carro dela?'' = &quot;Where is her car?&quot;
+
+Note: Questions often include the interrogative structure ''é que'' (literally &quot;is that&quot;). The two last examples would probably be uttered as ''Onde é que é/está/fica...''
+
+=Nuance=
+*''Estou tonta'' = &quot;I'm dizzy&quot;
+*''Sou tonta'' = &quot;I'm silly&quot;
+*''É sujo'' = &quot;It's dirty&quot; (i.e. &quot;It's a dirty place&quot; &amp;mdash; characteristic)
+*''Está sujo'' = &quot;It's dirty&quot; (i.e. &quot;(right now) The place is dirty&quot; &amp;mdash; state)
+*''É aberta'' = &quot;She's open&quot; (i.e. &quot;She's an open sort of person&quot; &amp;mdash; characteristic)
+*''Está aberta'' = &quot;It's open&quot; (probably referring to a door or window &amp;mdash; state)
+*''Ele é triste'' = &quot;He is sad&quot; (i.e. gloomy &amp;mdash; characteristic)
+*''(Ele) Está triste'' = &quot;He is sad&quot; (i.e. feeling down &amp;mdash; state)
+*''Como és?'' = &quot;What are you like?&quot; (i.e. &quot;describe yourself&quot; &amp;mdash; characteristics)
+*''Como estás?'' = &quot;How are you?&quot; (i.e. &quot;how are you doing?&quot; &amp;mdash; state)
+
+With adjectives referring to beauty and the like, ''ser'' means &quot;to be&quot;, and ''estar'' means &quot;to look&quot;.
+*''Que linda ela é!'' = &quot;Wow, she's so beautiful&quot; (characteristic)
+*''Que linda ela está!'' = &quot;Wow, she's looking so beautiful&quot; (state)
+
+As in Spanish, the differentiation between &quot;nature&quot; and &quot;state&quot; makes sense when talking about the states of life and death: ''Está vivo'' (He is alive). ''Está morto'' (He is dead).
+
+''Ser'' is used with adjectives of fundamental belief (''Não sou católico'', &quot;I'm not Catholic&quot;), nationality (''És português'', &quot;You are Portuguese&quot;), sex (''É homem'', &quot;He's a man&quot;), intelligence (''Somos espertos'', &quot;We are smart&quot;), etc. 
+
+Due to Catholicism being the main religion in most Lusophone countries the use of ''católico'' (&quot;Catholic&quot;) with ''estar'' has a figurative meaning:
+*''Eu não estou muito católico'' = &quot;I'm not feeling very dependable/trustworthy.&quot; (possibly ill or drunk)
+*''O tempo hoje não está muito católico'' = &quot;The weather's not very nice today.&quot;
+
+With this exception, ''estar'' is not used for fundamental belief, nationality, sex, or intelligence. One can nevertheless say ''Estou abrasileirado.'' (&quot;I'm Brazilian-influenced.&quot; &amp;mdash; state) or ''Estás americanizado.'' (You are Americanised &amp;mdash; state).
+
+Infinitive form
+The infinitive is used, as in English, to make subordinate noun clauses that express an action at an indefinite time, and possibly with an indefinite subject, e.g. ''queremos cantar'' (&quot;we would like to sing&quot;), ''cantar é gostoso'' (lit. &quot;to sing is pleasant&quot;). Many of its uses would be translated into English by the &quot;-ing&quot; nominal form, e.g. ''mesa para cortar'' (&quot;cutting table&quot;), ''cantar é bom'' (&quot;singing is good&quot;), ''trabalhe sem parar'' (&quot;work without pausing&quot;) 
+
+A distinctive trait of Portuguese grammar (shared with Galician and Sardinian) is the existence of infinitive verb forms inflected according to the person and number of the subject:
+:''É melhor voltar'', &quot;It is better to go back&quot; (impersonal)
+:''É melhor voltares'', &quot;It is better that you go back&quot;
+:''É melhor voltarmos'', &quot;It is better that we go back&quot;
+Depending on the context and intended sense, the personal infinitive may be forbidden, required, or optional.
+;Personal infinitive sentences may often be used interchangeably with finite subordinate clauses. In these cases, finite clauses are usually associated with the more formal registers of the language.
+
+Conjugation classes
+Verbs are divided into three main conjugation classes according to the ending of their infinitive form, which may be either ''-ar'', ''-er'', or ''-ir''. There is also the irregular verb ''pôr'' (&quot;to put&quot;) and its prefixed derivatives, which for historical reasons many grammarians still place in the ''-er'' conjugation class (it used to be ''poer''). Most stems belong to the ''-ar'' conjugation class, which is the only one open to neologisms such as ''clicar'' (&quot;to click&quot; with a mouse). 
+
+Each conjugation class has its own distinctive set of 50 or so inflection suffixes: ''cant|ar'' → ''cant|ou'' (&quot;he sang&quot;), ''vend|er'' → ''vend|eu'' (&quot;he sold&quot;), ''part|ir'' → ''part|iu'' (&quot;he left&quot;), ''rep|or'' → ''rep|ôs'' (&quot;he put back&quot;) . Some suffixes undergo various regular adjustments depending on the final consonant of the stem, either in pronunciation, in the spelling, or in both. Some verbal inflections also entail a shift in syllable stress: '' 'canto'' (&quot;I sing&quot;), ''can'tamos'' (&quot;we sing&quot;), ''canta'rei'' (&quot;I will sing&quot;). See Portuguese verb conjugation.
+
+There are a couple hundred verbs with some irregular inflections, and about a dozen or so that are very irregular, including the auxiliaries ''ser'' (&quot;to be&quot;), ''haver'' (&quot;there to be&quot; or &quot;to have&quot;), ''ter'' (&quot;to possess&quot;, &quot;to have&quot;, &quot;there to be&quot; - in Brazilian Portuguese), ''ir'' (&quot;to go&quot;), and a few others.
+
+Gerund and participle forms
+The gerund form of a verb always ends with ''-ndo''. It is used to make compound tenses expressing continuing action, e.g. ''ele está cantando'' (&quot;he is singing&quot;), ''ele estava cantando'' (&quot;he was singing&quot;); or as an adverb, e.g. ''ele trabalha cantando'' (&quot;he works while singing&quot;). It is never inflected for person or number.
+
+The participle of regular verbs is used in compound verb tenses, as in ''ele tinha cantado'' (&quot;he had sung&quot;). It can also be used as an adjective:, and in this case it is inflected to agree with the noun's gender and number: ''um hino cantado'' (&quot;a sung anthem&quot;, masculine singular), ''três árias cantadas'' (&quot;three sung arias&quot;, feminine plural). Some verbs have two distinct forms (one regular, one irregular), for these two uses. Additionally, a few verbs have two different verbal participles, a regular one for the active voice, and an irregular one for the passive voice. An example is the verb ''matar'' (to kill): ''Bruto tinha matado César'' (&quot;Brutus had killed Cesar&quot;), ''César foi morto por Bruto'' (&quot;Cesar was killed by Brutus&quot;).
+
+Synthetic moods and tenses
+Grammarians usually classify the verbal inflections (i.e. the synthetic verb forms) into the following moods, tenses, and non-finite verb|non-finite forms:;
+*indicative mood, used in the main clauses of declarative sentences:
+**present tense: ''cantas'', &quot;you sing&quot;
+**past tenses:
+***perfect past tense: ''cantaste'', &quot;you sang&quot;
+***imperfect past tense: ''cantavas'', &quot;you were singing&quot;
+***pluperfect past tense: ''cantaras'', &quot;you had sung&quot;
+**future tense: ''cantarás'', &quot;you will sing&quot;
+**conditional tense: ''cantarias'', &quot;you would sing&quot;
+*subjunctive mood used in certain subordinate clauses:
+**subjunctive present tense: ''que cantes'', &quot;that you sing&quot;
+**subjunctive past tense: ''se cantasses'', &quot;if you sang/would sing&quot;
+**subjunctive future tense: ''se cantares'', &quot;if you sing/should sing&quot;
+*imperative mood: used to express a command, advice, encouragement, etc:
+**affirmative: ''canta!'' (&quot;sing!&quot;)
+**negative: ''não cantes!&quot; (&quot;don't sing!&quot;)
+*infinitive form:
+**impersonal: ''cantar'', &quot;to sing&quot;
+**personal: ''cantares'', &quot;you to sing&quot;, &quot;that you sing&quot; or &quot;your singing&quot;
+*gerund form: ''cantando'', &quot;singing&quot;
+*past (or passive) participle form: ''cantado'', &quot;sung&quot;
+
+The conditional tense is usually called &quot;future of the past&quot; in Brazilian grammars, whereas in Portugal it is usually classified as a separate &quot;conditional mood&quot;. Portuguese grammarians call subjunctive &quot;conjuntivo&quot;; Brazilians call it &quot;subjuntivo&quot;. 
+
+In regular verbs, the personal infinitive is identical to the subjunctive future tense; but they are different in irregular verbs: ''quando formos'' (&quot;when we go&quot;, subjunctive) versus ''é melhor irmos'' (&quot;it is better that we go&quot;).
+
+There are also are many compound tenses expressed with inflected forms of the auxiliary verbs ''ser'' and ''estar'' (variants of &quot;to be&quot;), ''haver'' and ''ter'' (variants of &quot;to have&quot;).
+
+Compound forms
+Like all Romance languages, Portuguese has many compound verb tenses, consisting of an auxiliary verb (inflected in any of the above forms) combined with the gerund, participle or infinitive of the principal verb.
+
+The basic auxiliary verbs of Portuguese are ''ter'' (originally &quot;to hold&quot;, from Latin ''tenere'', but nowadays meaning &quot;to have&quot;), ''haver'' (&quot;to have&quot;, from Latin ''habere''; tends to be replaced with ''ter'' in most constructions), ''ser'' (&quot;to be&quot;, from Latin ''esse''), ''estar'' (&quot;to be&quot;, from Latin ''stare'' &quot;to stand&quot;), and ''ir'' (&quot;to go&quot;, Latin ''ire''), which have analogues in most other Romance languages. Thus, for example, &quot;he had spoken&quot; can be translated as ''ele havia falado'' or ''ele tinha falado''. Other auxiliary verbs are ''ser'' (also &quot;to be&quot;, from Latin ''essere''), ''ficar'' (&quot;to remain&quot;, &quot;to become&quot;), and ''ir'' (&quot;to go&quot;).
+
+=Compound perfect tenses=
+In other Romance languages, compound perfect tenses are constructed with a verb derived from Latin ''habere''. This used to be the case in Portuguese, too, but in recent centuries the verb ''ter'', from Latin ''tenere'', has been steadily overtaking ''haver'', although the latter is still used with some frequency in writing and in formal spoken registers. While ''ter'' is used as auxiliary by other Iberian languages, it is much more pervasive in Portuguese. In fact, there has been a general shift from ''haver'', which in Old Portuguese literally meant &quot;to have&quot;, towards ''ter'', which used to mean &quot;to hold&quot;, but has now taken the meaning of &quot;to have&quot;. In colloquial European Portuguese, ''haver'' is only used impersonally, with the sense of &quot;there to be&quot;, and in spoken Brazilian Portuguese it is replaced with ''ter'' even in this case, as in ''Tem muito peixe no mar'' &quot;There are plenty of fish in the sea&quot; (although the latter use is not endorsed by official grammar).
+
+Tenses with ''ter''/''haver'' + past participle (composed tenses):
+* Indicative preterit perfect - ''temos falado'' (&quot;we have spoken&quot; as in &quot;we have spoken quite a lot lately&quot; - there is an iterative notion. ''Haver'' is not used nowadays. This tense may also be equivalent to the simple preterit for some fixed expressions, such as ''Tenho dito/concluído'')
+* Indicative pluperfect - ''tínhamos/havíamos falado''(&quot;we had spoken&quot;)
+* Indicative anterior pluperfect - ''tivéramos/houvéramos falado'' (&quot;we had spoken&quot;, literary use only)
+* Indicative future perfect ''teremos/haveremos falado'' (&quot;we will have spoken&quot;)
+* Conditional perfect - ''teríamos/haveríamos falado'' (&quot;we would have spoken&quot;)
+* Subjunctive preterit perfect - ''desde que tenhamos/hajamos falado'' (&quot;provided that we have spoken&quot;)
+* Subjunctive pluperfect - ''se/que tivéssemos/houvéssemos falado'' (&quot;if/that we had spoken&quot;)
+* Subjunctive future perfect - ''se/quando tivermos/houvermos falado'' (&quot;if/when we have spoken&quot;)
+* Personal infinitive perfect - ''termos/havermos falado'' (&quot;to have spoken&quot;)
+With no inflexion:
+* Impersonal infinitive perfect - ''ter/haver falado'' (&quot;to have spoken&quot;)
+* Gerund perfect - ''tendo/havendo falado'' (&quot;having spoken&quot;)
+
+=Compound vs. simple pluperfect=
+In addition to the compound forms for completed past actions, Portuguese also retains a synthetic pluperfect tense: so ''ele tinha falado'' and ''ele havia falado'' (&quot;he had spoken&quot;) can also be expressed as ''ele falara''. However, the pluperfect tense is losing ground to the compound forms. While pluperfect forms like ''falara'' are generally understood, they are generally limited to regional use (in some regions of Portugal) or written speech. In BP, its use is even less frequent.
+
+=Preterite vs. present perfect=
+The simple past (or ''pretérito perfeito simples'' in Portuguese) is widely used, sometimes corresponding to the present perfect of English (this happens in many dialects of American Spanish, too).
+
+A present perfect also exists (normally called ''pretérito perfeito composto''), but it has a very restricted use, denoting an action or a series of actions which began in the past and are expected to continue into the future. For instance, the meaning of &quot;''Tenho tentado falar com ela''&quot; may be closer to &quot;I have been trying to talk to her&quot; than to &quot;I have tried to talk to her&quot;, in some contexts. This iterative sense of the present perfect is quite exceptional among Romance languages.It seems to be a recent construction, since it only allows the verb ''ter'' as auxiliary, never ''haver'', and is absent from Galician.
+
+=Progressive tenses=
+Portuguese originally constructed progressive tenses with a conjugated form of the verb &quot;to be&quot;, followed by the gerund of the main verb, like English: e.g. ''Eu estou trabalhando'' &quot;I am working&quot;. However, in European Portuguese an alternative construction has appeared, formed with the preposition ''a'' followed by the infinitive of the main verb: e.g. ''Eu estou a trabalhar''. This has replaced the ancient syntax in central and northern Portugal. The gerund may also be replaced with ''a'' followed by the infinitive in less common verb phrases, such as ''Ele ficou lá, trabalhando'' / ''Ele ficou lá, a trabalhar'' &quot;He stayed there, working&quot;. However, the construction with the gerund is still found in southern and insular Portugal and in Portuguese literature, and it is the rule in Brazil.
+:''estou falando'' or ''estou a falar'' (&quot;I am speaking&quot;)
+:''estava falando/ a falar'' (imperfective: &quot;I was speaking&quot; [at the moment])
+:''estive falando/ a falar'' (perfective: &quot;I was speaking [for a while]&quot; / &quot;I have been speaking&quot; [for a while])
+:''estivera falando/ a falar'' (&quot;I had been speaking&quot;)
+:''estarei falando/ a falar'' (&quot;I will be speaking&quot;)
+:''esteja falando/ a falar'' (&quot;be speaking&quot;; or &quot;am&quot; or &quot;is speaking&quot;)
+:''se estivesse falando/ a falar'' (&quot;if I were speaking&quot;)
+:''quando estiver falando/ a falar'' (&quot;when you are speaking&quot; [in the future]) 
+:''estar falando/ a falar'' (&quot;to be speaking&quot;)
+
+=Periphrastic construction with haver=
+Like in most romance languages, the simple future of the indicative and the conditional are formed by appending the present and the preterit imperfect of the verb ''haver'' to the infinitive, respectively. In Portuguese, it can also be used before the verb, together with the proposition ''de''. This is usually limited to oral speech.
+
+Examples:
+* ''Eu disse quehavia de voltar'' for ''Eu disse que voltaria'' (&quot;I said I should return&quot;)
+* ''Vós haveis de (or &quot;heis-de&quot;) vencer'' for ''Vós vencereis'' (&quot;You shall win&quot;)
+
+Sometimes, other tenses of ''haver'' are used, though it is infrequent. Example: ''Quem houver de ficar com a casa, há-de vir para aqui''.
+
+The only other tenses commonly used are the conditional/future and their meaning is approximately the same of the present/preterit imperfect described herein.
+
+In EP, a hyphen is put between the monosyllabic forms of ''haver'' and ''de'' (hei, hás, há, heis and hão).
+
+There are, however, differences of meaning between this construction and thefuture of the indicative/conditional. The former usually conveys a sense of obligation/necessity (be it logic, circumstantial, of convenience, natural or moral law, ...), duty, certainty or resolution, rather than simple futurity, although that would depend on the context. This is somewhat comparable to the use of ''shall'' outside the first person.
+
+Examples:
+*''Hei-de lá ir amanhã'' (promise, &quot;I will go there tomorrow&quot;) versus ''Irei lá amanhã'' (less emphatic, almost an expectation, &quot;I shall go there tomorrow&quot;)
+*''Havemos de cá voltar'' (promise, but in an uncertain future, &quot;We will return here&quot;) versus ''Voltaremos cá'' (prediction or statement of an arrangement). Depending on the context, it can also be an invitation: ''Gostei de te ter aqui, hás-de cá voltar'' (&quot;I've enjoyed having you here, you should return&quot;).
+*''Havias de ter visto a reacção dela'' (&quot;You should have seen her reaction&quot;) versus ''Terias visto a reacção dela'' (&quot;You would have seen her reaction&quot;). The meaning is here quite different.
+*''Que havia eu de fazer?'' (&quot;What should I (was I to) do?&quot;) versus ''Que faria eu?'' (&quot;What would I do?&quot;). The latter is merely an hypothetical question, the former could be asking for an advice or opinion about what ought to have been done.
+
+It has also acquired other meanings - for instance, ''O que está cá dentro? Dinheiro! O que havia de ser?!'' could be translated into ''What is in here? Money! What else?!''.
+
+=Other compound tenses=
+Tenses with ''ir'' + infinitive 
+:''vamos falar'' (&quot;we will speak&quot;, &quot;we are going to speak&quot;)
+:''íamos falar'' (&quot;we were going to speak&quot;)
+:''iríamos falar'' (&quot;we would speak&quot;, &quot;we would be going to speak&quot;)
+
+Tenses with multiple auxiliaries:
+:''teríamos estado falando'' (&quot;we would have been speaking&quot;)
+:''tenho estado falando'' (&quot;I have been speaking (until now)&quot;)
+
+Passive voice
+It is possible to construct passive variants of clauses with transitive verb and object. The rules for it are basically as in English; namely, the original object becomes the subject; the original subject becomes an adverbial complement with preposition ''por'' (&quot;by&quot;); and the verb is replaced by its past participle, preceded by the copular verb ''ser'' (&quot;to be&quot;) inflected in the original mood and tense:
+:''O rato comeu o queijo'' (&quot;The mouse ate the cheese&quot;)
+:''O queijo foi comido pelo rato'' (&quot;The cheese was eaten by the mouse&quot;)
+
+:''Aquela senhora cantará a ária'' (&quot;That lady will sing the aria&quot;)
+:''A ária será cantada por aquela senhora'' (&quot;The aria will be sung by that lady&quot;)
+
+:''Se você cantasse a aria, ele ficaria'' (&quot;If you were to sing the aria, he would stay&quot;)
+:''Se a ária fosse cantada por você, ele ficaria'' (&quot;If the aria were to be sung by you, he would stay&quot;)
+
+As in Spanish, there is also a synthetic passive voice, in which the agent is replaced with the pronoun ''se'', when its identity is not relevant:
+
+:''Fizeram-se planos e criaram-se esperanças.'' (&quot;Plans were made and hopes were created.&quot;)
+
+The same construction extends to some intransitive verbs, in which case the pronoun ''se'' denotes the subject (impersonal passive voice):
+
+:''Comeu-se, bebeu-se e bailou-se.'' (&quot;There was eating, drinking, and dancing.&quot;)
+
+Subjunctive mood
+:''Related article: Subjunctive''.
+
+Portuguese subjunctive mood is used mainly in certain kinds of subordinate clauses. There are three synthetic subjunctive inflections, conventionally called &quot;present&quot;, &quot;past&quot; and &quot;future&quot;. The rules of usage are rather complex, but on a first approximation:
+* The present subjunctive tense is used in clauses, often introduced with ''que'' (&quot;that&quot;), which express wishes, orders, possibilities, etc.:;
+::''quero que cante'', &quot;I want her/him to sing&quot;
+::''supondo que cante'', &quot;assuming that he/she will sing&quot;
+::''ele será pago, cante ou não'', &quot;he will be paid, whether he sings or not&quot;
+*The past subjunctive tense is used for adverbial subordinate clauses, introduced with ''se'' (&quot;if&quot;) or equivalent, that are conditions for main cause in the conditional tense. It is also used for nominal clauses, introduced with ''que'', that were the object of frustrated past wishes or commands:;
+::''se cantasse, seria famoso'' (&quot;if he would sing, he would be famous&quot;)
+::''se cantasse, teríamos aplaudido'' (&quot;if she had sung, we would have applauded&quot;)
+::''esperávamos que cantasse'' (&quot;we had hoped that he would sing&quot;)
+::''não esperávamos que cantasse'' (&quot;we didn't think that he would sing&quot;)
+*The future subjunctive tense is an uncommon feature among Indo-European languages. It is used in adverbial subordinate clauses, usually introduced by ''se'' (&quot;if&quot;) or ''quando'' (&quot;when&quot;), or in adjectival subordinate clauses, that express a neutral or expected condition for a present- or future-tense main clause:;
+::''se cantarmos, seremos pagos'' (&quot;If we (should) sing, we will be paid&quot;)
+::''se cantarmos, ele fica'' (&quot;If we (should) sing, he stays&quot;)
+::''quando cantarmos, ele escutará'' (&quot;When we (should) sing, he will listen&quot;)
+*Often, the option between indicative and subjunctive depends on whether the speaker does or does not endorse the proposition expressed by the subordinate clause:
+
+::''Admito que ele ''roubou'' a bicicleta.'' (&quot;I admit that he ''stole'' the bicycle.&quot;)
+::''Admito que ele ''tenha roubado'' a bicicleta.'' (&quot;I admit that he ''may have stolen'' the bicycle.&quot;)
+*In relative sentences, the option between indicative and subjunctive depends on whether the speaker does or does not identify a single object with the property expressed by the subordinate clause:
+
+::''Ando à procura de um cão que fala!'' (&quot;I'm looking for a certain dog which can speak!&quot;)
+::''Ando à procura de um cão que fale!'' (&quot;I'm looking for any dog that speaks!&quot;)
+
+More on the subjunctive mood in Portuguese can be found at [http://en.wikibooks.org/wiki/Portuguese:Variation_of_the_Portuguese_VerbsWikibooks: Variation of the Portuguese Verbs].
+
+Verbal derivatives
+Portuguese has also has many adjectives which consist of a verbal stem plus an ending in ''-nte'', which are applied to nouns that perform that action; e.g. ''dançar'' (&quot;to dance&quot;) ~ ''areia dançante'' (&quot;dancing sand&quot;), ''ferver'' (&quot;to boil&quot;) ~ ''água fervente'' (&quot;boiling water&quot;), and many others.
+
+However, those adjectives were not always derived from the corresponding Portuguese verbs. Most of them were directly derived from the accusatives of the present participles of Latin verbs, a form which was not retained by Portuguese. Thus, for example, Portuguese ''mutante'' (&quot;changing&quot;, &quot;varying&quot;) does not derive from the Portuguese verb ''mudar'' (&quot;to change&quot;), but directly from the Latin accusative present participle ''mutantem'' (&quot;changing&quot;). On the other hand, those pairs of words were eventually generalized by Portuguese speakers into a derivation rule, that is somewhat irregular and defective but still productive. So, for example, within the last 500 years we had the derivation ''pï'poka'' (Tupi for &quot;to pop the skin&quot;) → ''pipoca'' (Portuguese for &quot;popcorn&quot;) → ''pipocar'' (&quot;to pop up all over&quot;) → ''pipocante'' (&quot;popping up all over&quot;).
+
+Similar processes resulted in many other semi-regular derivation rules that turn verbs into words of other classes. For example,
+:''clicar'' (&quot;to click&quot;) → ''clicável'' (&quot;clickable&quot;)
+:''vender'' (&quot;to sell&quot;) → ''vendedor'' (&quot;seller&quot;)
+:''encantar'' (&quot;to enchant&quot;) → ''encantamento'' (&quot;enchantment&quot;)
+:''destilar'' (&quot;to distill&quot;) → ''destilação'' (&quot;distillation&quot;)
+The latter rule is quite productive, to the point that the pervasive ''-ção'' ending (derived from Latin ''-tione'') is the most visually striking feature of written Portuguese.
+
+See also
+*Portuguese personal pronouns and possessives
+*Portuguese verb conjugation
+*Subjunctive mood
+*Differences between Spanish and Portuguese
+*:pt:Contrações na Língua Portuguesa|Wikipedia in Portuguese: List of contracted prepositions
+*[http://en.wikibooks.org/wiki/Portuguese:Variation_of_the_Portuguese_VerbsWikibooks: Variation of the Portuguese Verbs]
+
+References
+* Mario Squartini (1998) ''Verbal Periphrases in Romance -- Aspect, Actionality, and Grammaticalization'' ISBN 3-11-016160-5
+
+External links
+* [http://www.orbilat.com/Languages/Portuguese/Grammar/ Descriptive grammar of Portuguese at Orbis Latinus]
+* [http://www.geocities.com/wanderingleopard/portuguese.html Portuguese Grammar Primer]
+* [http://learnportuguese.elanguageschool.net/course/view.php?id=3 Portuguese Grammar Lessons]
+* [http://www.sonia-portuguese.com/text/grammar.htm A brief introduction to Portuguese grammar]
+* [http://geocities.yahoo.com.br/helcio_domingues Brazilian Portuguese Grammar for English speakers]
+
+Category:Grammars of specific languages
+Category:Portuguese language
+
+no:Portugisisk grammatikk
+pt:Gramática portuguesa
+zh:葡萄牙语语法

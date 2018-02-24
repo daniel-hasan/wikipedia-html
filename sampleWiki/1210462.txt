@@ -1,0 +1,168 @@
+{{Taxobox
+| color = pink
+| name = ''Bitis gabonica''
+| image = GaboonViper.jpg
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| subphylum = [[Vertebrate|Vertebrata]]
+| classis = [[Reptilia]]
+| ordo = [[Squamata]]
+| subordo = [[Snake|Serpentes]]
+| familia = [[Viperidae]]
+| subfamilia = [[Viperinae]]
+| genus = ''[[Bitis]]''
+| species = '''''B. gabonica'''''
+| binomial = ''Bitis gabonica''
+| binomial_authority = ([[André Marie Constant Duméril|Duméril]], [[Gabriel Bibron|Bibron]] & [[Auguste Duméril|Duméril]], [[1854]])
+| synonyms = * ''Echidna Gabonica'' - Duméril, Bibron & Duméril, 1854
+* ''Bitis gabonica'' - Boulenger, 1896
+* ''Cobra gabonica'' - Mertens, 1937
+* ''Bitis gabonica gabonica'' - Mertens, 1951
+* ''Bi''[''tis'']. ''javonica'' - Suzuki & Iwanga, 1970
+* ''Bitis gabonica'' - Golay ''et al.'', 1993<ref name="McD99">McDiarmid RW, Campbell JA, Touré T. 1999. Snake Species of the World: A Taxonomic and Geographic Reference, vol. 1. Herpetologists' League. 511 pp. ISBN 1-893777-00-6 (series). ISBN 1-893777-01-4 (volume).</ref>
+}}
+:'''''Common names''': Gaboon viper, butterfly adder, forest puff adder, swampjack,<ref name="Mal03">Mallow D, Ludwig D, Nilson G. 2003. True Vipers: Natural History and Toxinology of Old World Vipers. Krieger Publishing Company, Malabar, Florida. 359 pp. ISBN 0-89464-877-2.</ref> ([[#Common names|more]]).''
+'''''Bitis gabonica''''' is a [[venomous snake|venomous]] [[Viperinae|viper]] [[species]] found in the rainforests and savannas of [[Sub-Saharan Africa]].<ref name="McD99"/> This is not only the largest member of the genus ''[[Bitis]]'',<ref name="SB95">Spawls S, Branch B. 1995. The Dangerous Snakes of Africa. Ralph Curtis Books. Dubai: Oriental Press. 192 pp. ISBN 0-88359-029-8.</ref> but also the world's heaviest [[Viperidae|viperid]]<ref name="Mal03"/> and it has the longest fangs and the highest venom yield of any venomous snake.<ref name="Mal03"/> Two subspecies are currently recognized, including the nominate race described here.<ref name="ITIS">{{ITIS|ID=634953|taxon=''Bitis gabonica''|year=2006|date=6 August}}</ref>
+
+==Description==
+Adults average 122–152 cm in length with a maximum of 205 cm for a specimen collected in [[Sierra Leone]]. The sexes may be distinguished by the length of the tail in relation to the total length of the body: approximately 12% for males and 6% for females. Adults, especially females, are very heavy and stout. One female had the following dimensions:<ref name="Mal03"/>
+<br>
+{|cellspacing=0 cellpadding=2 align="center" border=1 style="border-collapse: collapse;"
+|-
+|style="width:30%"|Total length
+|style="width:30%" align="center"|174 cm
+|-
+|Head width
+|align="center"|12 cm
+|-
+|[[Girth]]
+|align="center"|37 cm
+|-
+|Weight (empty stomach)
+|align="center"|8.5 kg
+|-
+|}
+<br>
+[[Image:GaboonViper2.jpg|left|thumb|250px|''B. g. gabonica''. Note the tiny horns between the nostrils and the two stripes below the eye.]] In their description of ''B. gabonica'', Spawls ''et al''. (2004) give an average length of 80–130 cm, with a maximum size of 175 cm, saying the species may possibly grow larger still. They acknowledge reports of specimens "over 6 feet", or even over 2 m in length, but claim there is no evidence to support this.<ref name="Spa04">Spawls S, Howell K, Drewes R, Ashe J. 2004. A Field Guide To The Reptiles Of East Africa. London: A & C Black Publishers Ltd. 543 pp. ISBN 0-7136-6817-2.</ref>
+
+The head is large and triangular, while the neck is greatly narrowed: almost one-third the width of the head.<ref name="Mal03"/> A pair of horns is present between the raised nostrils — tiny in ''B. g. gabonica'', but much larger in ''[[Bitis gabonica rhinoceros|B. g. rhinoceros]]''.<ref name="Spa04"/> The eyes are large and moveable,<ref name="Mal03"/> set well forward,<ref name="Spa04"/> and surrounded by 15–21 [[circumorbital scales]].<ref name="Mal03"/> There are 12–16 [[interocular scales]] across the top of the head. 4–5 scale rows separate the [[suboculars]] and the [[supralabials]]. There are 13–18 supralabials and 16–22 [[sublabials]].<ref name="Mal03"/> The fangs may reach a length of 55 mm:<ref name="SB95"/> the longest of any venomous snake.<ref name="Mal03"/>
+
+Midbody, there are 28–46 [[dorsal scale]] rows, all of which are strongly keeled except for the outer rows on each side. The lateral scales are slightly oblique. The [[ventral scales]] number 124–140: rarely more than 132 in males, rarely less than 132 in females. There are 17–33 paired [[subcaudal scales]]: males have no fewer than 25, females no more than 23. The [[anal scale]] is single.<ref name="Mal03"/>
+
+The color pattern consists of a series of pale, sub-rectangular blotches running down the center of the back, interspaced with dark, yellow-edged hourglass markings. The flanks have a series of fawn of brown rhomboidal shapes, with light vertical central bars. The venter is pale with irregular brown or black blotches. The head is white or cream with a fine, dark central line, black spots on the rear corners, and a dark blue-black triangle behind and below each eye.<ref name="Spa04"/> The iris color is cream, yellow-white, orange<ref name="Spa04"/> or silvery.<ref name="Meh87">Mehrtens JM. 1987. Living Snakes of the World in Color. New York: Sterling Publishers. 480 pp. ISBN 0-8069-6460-X.</ref>
+
+==Common names==
+Gaboon viper, butterfly adder, forest puff adder, swampjack,<ref name="Mal03"/> Gaboon adder,<ref name="SB95"/> Gabon viper.<ref name="Got">Gotch AF. 1986. Reptiles -- Their Latin Names Explained. Poole, UK: Blandford Press. 176 pp. ISBN 0-7137-1704-1.</ref>
+
+Originally a name given by the [[Portugal|Portuguese]], ''Gaboon'' (Gabão) refers to the estuary on which the town of [[Libreville]] was built, in [[Gabon]], and to a narrow strip of territory on either bank of this arm of the sea. Currently, Gaboon refers the northern portion of French Congo, south of the Equator and lying between the [[Atlantic ocean]] and 12° East longitude.<ref name="">[http://www.newadvent.org/cathen/06328c.htm Gaboon] at [http://www.newadvent.org/ New Advent Catholic Encyclopedia]. Accessed [[8 July]] [[2007]].</ref>
+
+==Geographic range==
+[[Image:Bitis-gabonica-range-map.png|right|thumb|240px|Distribution of ''B. gabonica'' (in black)<ref name="SB95"/>]]This species can be found in [[Guinea]], [[Ghana]], [[Togo]], [[Nigeria]], [[Cameroon]], [[Democratic Republic of the Congo|DR Congo]], [[Central African Republic]], southern [[Sudan]], [[Uganda]], [[Kenya]], eastern [[Tanzania]], [[Zambia]], [[Malawi]], eastern [[Zimbabwe]], [[Mozambique]], northeast [[KwaZulu-Natal|KwaZulu-Natal Province]] in [[South Africa]]. The [[Type locality (biology)|type locality]] given as is "[[Gabon]]" (Africa).<ref name="McD99"/>
+
+Mallow ''et al''. (2003) also list [[Sierra Leone]] and [[Liberia]] in [[West Africa]].<ref name="Mal03"/>
+
+==Habitat==
+Usually found in rainforests and nearby woodlands, mainly at low altitudes,<ref name="Meh87"/> but sometimes as high as 1500&nbsp;m.<ref name="Mal03"/> Spawls ''et al.'' (2004) mention a maximum altitude of 2100 m.<ref name="Spa04"/>
+
+In [[Tanzania]], this species is found in secondary thickets, cashew plantations, and in agricultural land under bushes and in thickets. In [[Uganda]], they are found in forests and nearby grasslands. They also do well in reclaimed forest areas: [[cacao]] plantations in [[West Africa]] and coffee plantations in [[East Africa]]. They have been found in evergreen forests in [[Zambia]]. In [[Zimbabwe]], they only occur in areas of high rainfall along the forested escarpment in the east of the country. In general they may also be found in swamps, as well as in still and moving waters. They are commonly found in agricultural areas near forests and on roads at night.<ref name="Mal03"/>
+
+==Behavior==
+Primarily nocturnal, they have a reputation for being slow-moving and placid. They usually hunt by ambush, often spending long periods motionless, waiting for suitable prey to happen by. On the other hand, they have been known to hunt actively, mostly during the first six hours of the night. In Kumasi, [[Ghana]], they were regularly killed around some stables in an open area with the forest some 500 m away — a sign that they were hunting rats in the grassland. They are usually very tolerant snakes, even when handled, and rarely bite or hiss. However, bad-tempered individuals do occur.<ref name="Spa04"/>
+
+Locomotion is mostly rectilinear, in a sluggish "walking" motion of the ventral scales. They may writhe from side to side when alarmed, but only for short distances.<ref name="Mal03"/> [[Raymond Ditmars|Ditmars]] (1933) even described them as being capable of sidewinding.<ref name="Dit33">Ditmars RL. 1933. Reptiles of the World. The MacMillan Company. Revised Edition. 329 pp. 89 plates.</ref>
+
+If threatened, they may hiss loudly as a warning, doing so in a deep and steady rhythm, slightly flattening the head at the expiration of each breath.<ref name="Dit33"/><ref name="Mal03"/><ref name="Spa04"/> They are unlikely to strike unless severely provoked.<ref name="Mal03"/>
+
+There have been numerous descriptions of their generally non-aggressive nature. Sweeney (1961) wrote that they are so docile that they "can be handled as freely as any non-venomous species", although this is absolutely not  recommended. In Lane (1963), Ionides explained that he would capture specimens by first touching them lightly on the top of the head with a pair of tongs. Anger was rarely displayed, so that the tongs were usually set aside and the snake firmly grasped by the neck with one hand and the body supported with the other. He said the snakes hardly ever struggled.<ref name="Mal03"/>
+
+Parry (1975) describes how this species has a wider range of eye movement than other snakes. Along a horizontal plane, eye movement can be maintained even if the head is rotated up or down to an angle of up to 45°. If the head is rotated 360°, one eye will tilt up and the other down, depending on the direction of rotation. Also, if one eye looks forwards the other looks back, as if both are connected to a fixed position on an axis between them. In general, the eyes often flick back and forth in a rapid and jerky manner. When asleep, there is no eye movement and the pupils are strongly contracted. The pupils dialate suddenly and eye movement resumes when the animal wakes up.<ref name="Mal03"/>
+
+==Feeding==
+Generally, these snakes are sedentary opportunistic ambush predators, but they will hunt actively, usually starting at dusk. Following a strike, they tend to hold on to their prey until it is dead. Prey is also lifted off of the ground to prevent it getting hold of anything. Anything large enough to pose more of a threat is released and searched for after a few minutes.<ref name="Mal03"/>
+
+These snakes feed on a variety of birds and mammals, such as doves, many different species of rodents, hares and mongooses. There are also reports of more unlikely prey items, such as monkeys, the [[Atherurus africanus|brush-tailed porcupine]] (''Atherurus'') and even the small [[Royal Antelope|royal antelope]] (''Neotragus'').<ref name="Mal03"/>
+
+==Reproduction==
+During peak sexual activity, males engage in combat. This starts with one male rubbing its chin along the back of the other. The second male will then raise its head as high as possible. As they both do the same, the necks intertwine. When the heads are level, they turn towards each other and push. Their bodies intertwine as they switch positions. They become oblivious to everything else, continuing even after they fall off of a surface or into water. Sometimes they intertwine and squeeze so tightly that their scales stand out from the pressure. They have also been observed to strike at each other with mouths closed. Occasionsally, the combatants will tire and break off the fight by "mutual consent", resting for a while before resuming once more. The event is settled when one of the two succeeds in pushing the other's head to the ground and raising its own by 20–30 cm. In captivity, combat may occur 4–5 times a week until courtship and copulation ends.<ref name="Mal03"/> 
+
+Gestation takes about a year, which suggests a breeding cycle of 2–3 years. A 5-year breeding cycle may also be possible. Usually, they give birth in late summer. ''B. g. gabonica'' produces 8–43 live young. ''[[Bitis gabonica rhinoceros|B. g. rhinoceros]]'' may produce as many as 60. However, the actual number of offspring rarely exceeds 24.<ref name="Mal03"/> Neonates are 25–32 cm in length and weigh 25–45 g.<ref name="SB95"/>
+
+==Venom==
+Bites are relatively rare, due to their docile nature and the fact that their range is mainly limited to rainforest areas. Nevertheless, when it does occur it should always be considered a serious [[medical emergency]]. Even an average bite from an average sized specimen is potentially fatal.<ref name="SB95"/>
+
+The venom itself is not considered particularly [[Toxicity|toxic]]. In mice, the [[LD50|LD<font size="-1"><sub>50</sub></font>]] is 0.8–5.0 mg/kg [[Intravenous therapy|IV]], 2.0 mg/kg [[Peritoneum#Intraperitoneal|IP]] and 5.0–6.0 mg/kg [[Subcutis|SC]].<ref name="Bro73">Brown JH. 1973. Toxicology and Pharmacology of Venoms from Poisonous Snakes. Springfield, Illinois: Charles C. Thomas. 184 pp. LCCCN 73-229. ISBN 0-398-02808-7.</ref> However, the venom glands are enormous and produce the largest quantities of any [[venomous snake]]. Yield is apparently related to body weight, as opposed to milking interval.<ref name="Mal03"/> Brown (1973) gives a venom yield range of 200–1000 mg (of dried venom),<ref name="Bro73"/> A range of 200–600 mg for specimens 125–155 cm in length has also been reported.<ref name="Mal03"/> Spawls and Branch (1995) state that from 5–7 ml (450–600 mg) of venom may be injected in a single bite.<ref name="SB95"/>
+
+A study by Marsh and Whaler (1984) reported a maximum yield of 9.7 ml of wet venom, which translated to 2400 mg of dried venom. They attached [[Crocodile clip|"alligator" clip electrodes]] to the angle of the open jaw of [[Anesthesia|anesthetized]] specimens (length 133–136 cm, girth 23–25 cm, weight 1.3–3.4 kg), yielding 1.3–7.6 ml (mean 4.4 ml) of venom. Two to three electrical bursts of five seconds each were enough to empty the glands. The snakes used for the study were milked 7–11 times over a 12-month period, during which they remained in good health and the potency of their venom remained the same.<ref name="Mal03"/>
+
+Based on how sensitive [[monkey]]s were to the venom, Whaler (1971) estimated that 14 mg of venom would be enough to kill a human being: equivalent to 0.06 ml of venom, or 1/50–1/1000 of what can be obtained in a single milking. Branch (1992) suggested that 90–100 mg would be fatal in humans. Marsh and Whaler (1984) wrote that 35 mg would be enough to kill a man of 70 kg (1/30 of the average venom yield).<ref name="Mal03"/>
+
+In humans, a bite causes rapid and conspicuous [[Swelling (medical)|swelling]], intense [[Pain and nociception|pain]], severe [[Shock (medical)|shock]] and local [[blister]]ing. Other symptoms may include uncoordinated movements, [[defecation]], [[urination]], swelling of the tongue and eyelids, [[Seizure|convulsions]] and [[unconsciousness]].<ref name="Mal03"/> Blistering, [[Bruise|bruising]] and [[necrosis]] may be extensive. There may be sudden [[hypotension]], heart damage and [[Dyspnea|dyspnoea]].<ref name="Spa04"/> The blood may become incoagulable with internal bleeding that may lead to [[haematuria]] and [[haematemesis]].<ref name="Spa04"/><ref name="SB95"/> Local tissue damage may require surgical [[excision]] and possibly [[amputation]].<ref name="SB95"/> Healing may be slow and fatalities are not uncommon.<ref name="Spa04"/>
+
+==Subspecies==
+{|cellspacing=0 cellpadding=2 border=1 style="border-collapse: collapse;"
+!bgcolor="#f0f0f0"|Subspecies<ref name="ITIS"/>
+!bgcolor="#f0f0f0"|Authority<ref name="ITIS"/>
+!bgcolor="#f0f0f0"|Common name<ref name="Mal03"/>
+!bgcolor="#f0f0f0"|Geographic range<ref name="SB95"/>
+|-
+|''B. g. gabonica''
+|([[André Marie Constant Duméril|Duméril]], [[Gabriel Bibron|Bibron]] & [[Auguste Duméril|Duméril]], [[1854]])
+|East African Gaboon viper
+|style="width:40%"|Central, eastern and southern Africa.
+|-
+|''[[Bitis gabonica rhinoceros|B. g. rhinoceros]]''
+|([[Hermann Schlegel|Schlegel]], [[1855]])
+|West African Gaboon viper
+|West Africa.
+|-
+|}
+
+==Taxonomy==
+Lenk ''et al.'' (1999) discovered considerable differences between the two conventionally recognized subspecies of ''B. gabonica'' described above. According to their research, these two subspecies are as different from each other as they are from ''[[Bitis nasicornis|B. nasicornis]]''. Consequently, Lenk ''et al.'' (1999) regard the western form as a separate species, ''B. rhinoceros''.<ref name="WWH">[http://sbsweb.bangor.ac.uk/~bss166/Updates/Viperinae1999.htm Venomous Snake Systematics Alert - 1999 Publications] at [http://biology.bangor.ac.uk/~bss166/ Homepage of Dr. Wolfgang Wüster] of the University of Wales, Bangor. Accessed [[3 September]], [[2006]].</ref>
+
+==See also==
+* [[List of viperine species and subspecies]]
+* {{c|Viperinae by common name}}
+* {{c|Viperinae by taxonomic synonyms}}
+* [[Snakebite]]
+
+==References==
+{{reflist}}
+
+==Further reading==
+<div class="references-small">
+* Bowler JK. 1975. Longevity of reptiles and amphibians in N. American collections as of 1 November, 1975. Society for the Study of Amphibians and Reptiles, Miscellaneous Publications, Herpetological Circular 6:1–32.
+* Brown JH. 1973. Toxicology and Pharmacology of Venoms from Poisonous Snakes. Published by Charles C. Thomas.
+* Forbes CD, Turpie AGG, Ferguson JC, McNicol GP, Douglas AS. 1969. Effect of gaboon viper (Bitis gabonica) venom on blood coagulation, platelets, and the fibrinolytic enzyme system. Journal of Clinical Pathology 22:312–316.
+* Lane, M. 1963. Life with Ionides. London: Hamish-Hamilton. 157 pp.
+* Lenk P, Herrmann H-W, Joger U, Wink M. 1999. Phylogeny and taxonomic subdivision of Bitis (Reptilia: Viperidae) based on molecular evidence. Kaupia, 8:31–38.
+* Marsh NE, Whaler BC. 1984. The Gaboon viper (''Bitis gabonica'') its biology, venom components and toxinology. Toxicon 22(5):669–94.
+* Sweeney RCH. 1961. Snakes of Nyasaland. Zomba, Nyasaland: The Nyasaland Society and Nyasaland Government. 74 pp.
+</div>
+
+==External links==
+{{Commons|Bitis gabonica}}
+* {{NRDB species|genus=Bitis|species=gabonica|date=2 August|year=2007}}
+* [http://www.venomousreptiles.org/articles/93 Keeping Gaboon Vipers] at [http://www.venomousreptiles.org/ VenomousReptiles.org]. Accessed [[2 August]] [[2007]].
+* {{YouTube|cpE8upWeUGc|Video of ''B. g. gabonica'' and ''B. arietans''}}. Accessed [[9 December]] [[2006]].
+* {{YouTube|LfhVbm1YYbU|Video of ''B. g. gabonica'' feeding}}. Accessed [[8 August]] [[2007]].
+* [http://www.gherp.com/gallery/new/East%20African%20gaboon%20viper.jpg ''B. g. gabonica'' image] at [http://www.gherp.com/ Glades Herp]. Accessed [[9 August]] [[2007]].
+
+[[Category:Viperinae]]
+[[Category:Reptiles of Africa]]
+[[Category:Fauna of Gabon]]
+[[Category:Fauna of Nigeria]]
+[[Category:Fauna of Cameroon]]
+
+{{Link FA|de}}
+
+[[de:Gabunviper]]
+[[es:Bitis gabonica]]
+[[fr:Vipère du Gabon]]
+[[it:Bitis gabonica]]
+[[hu:Gaboni vipera]]
+[[nl:Gabonadder]]
+[[ja:ガブーンバイパー]]
+[[no:Gaboon-viper]]
+[[pl:Żmija gabońska]]
+[[fi:Gaboninkyy]]

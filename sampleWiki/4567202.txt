@@ -1,0 +1,53 @@
+{{Infobox Weapon
+|         name=LVTP-5
+|        image=[[Image:LVTP-5-training.jpg|300px]]
+|      caption=LVTP-5s during training exercise
+|origin=
+|type=
+|is_vehicle=yes
+|         crew=3+34 passengers
+|       length=9.04 m
+|        width=3.57 m
+|       height=2.92 m
+|       weight=37.4 t
+|       armour=6-16 mm
+|      primary_armament=.30 caliber MG
+|    secondary_armament=
+|       engine=Continental LV-1790-1 V-12 [[gasoline engine|gasoline]]
+| engine_power=704 hp
+|   suspension=Torsilastic
+|   speed=48 km/h, in water 11 km/h
+|     pw_ratio=19 hp/tonne
+|        vehicle_range=306 km (road), 92 km (water)
+}}
+
+The '''LVT-5''' ('''Landing Vehicle, Tracked''') was a family of [[amphibious vehicle|amphibious]] armoured fighting vehicles used by the [[United States Marine Corps]]. It was first accepted into service in 1956, and saw action in the [[Vietnam War]]. 1,124 units were produced.
+
+It was an evolution of the [[Landing Vehicle Tracked]] series, and was replaced in service by the [[Amphibious Assault Vehicle|LVT-7]] family.
+
+The most common was the '''LVTP-5''', an armoured personnel carrier, with mine-sweeper, command, recovery and fire support variants, the latter mounting a 105 mm howitzer. An anti-aircraft version was prototyped, but never saw service.
+
+==Variants==
+* LVTP-5 (Landing Vehicle Tracked, Personnel) - armoured personnel carrier.
+* LVTC-5 (Landing Vehicle, Tracked, Command) - command vehicle.
+* LVTH-6 (Landing Vehicle, Tracked, Howitzer) - fire support variant armed with 105 mm howitzer. 210 units built.
+* LVTR-1 (Landing Vehicle, Tracked, Recovery) - recovery vehicle. 65 units built.
+* LVTE-1 (Landing Vehicle, Tracked, Engineer) - mine-sweeper. 41 units built.
+* LVTAA-X1 (Landing Vehicle, Tracked, Anti Air) - anti-aircraft variant, to be fitted with the turret of the [[M42 Duster]]. Only prototype built.
+
+==External links==
+{{Commons|LVT-5}}
+*[http://fas.org/man/dod-101/sys/land/lvtp5.htm Federation of American Scientists]
+*[http://www.guntruck.com/LVTP5A1Museum.html LVTP5 Museum page]
+*[http://afvdb.50megs.com/usa/lvtp5.html American Fighting Vehicle database]
+
+[[Category:Amphibious vehicles]]
+[[Category:United States Marine Corps equipment]]
+[[Category:Military equipment of the Philippines]]
+
+
+{{USMC-stub}}
+
+[[de:LVT-5]]
+[[no:LVT-5]]
+[[ru:LVT-5]]

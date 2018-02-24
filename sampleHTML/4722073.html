@@ -1,0 +1,270 @@
+
+<p><b>Customer Configuration Updating</b> (CCU) is a production method developed by researchers of the <a href="/wiki/Utrecht_University" id="w">Utrecht University</a>. This method should help product software developers in structuring the process of providing <a href="/wiki/Customer" id="w">customers</a> with new <a href="/wiki/Version" id="w">versions</a> of products and updates. This article is about the delivery phase of the CCU method. Delivery concerns the process which starts at the moment a product is finished until the actual shipping of the product to the <a href="/wiki/Customer" id="w">customer</a>. </p>
+<p>This entry has been constructed as an element of the Method Engineering Encyclopedia of the Utrecht University.</p>
+<a id="Introduction_to_the_delivery_process" name="Introduction_to_the_delivery_process"></a><h2> Introduction to the delivery process </h2>
+<p><div style="wigth:300px"><a class="internal" href="/wiki/Image:300px-CCU_Model_delivery.jpg" title="Figure 1: CCU model, delivery phase."><img src="http://en.wikipedia.org/wiki/300px-CCU_Model_delivery.jpg" alt="Figure 1: CCU model, delivery phase." title="Figure 1: CCU model, delivery phase." class="location-left type-thumb" width="300px" />
+</a>
+<div class="thumbcaption">Figure 1: CCU model, delivery phase.</div></div>
+
+As described in the general entry of CCU, the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> phase is the second phase of the CCU method. In figure one the CCU method is depicted. The phases of CCU that are not covered in this article are concealed by a transparent grey rectangle.</p>
+<p>As can be seen in figure one, the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> phase is in between the release phase and the <a href="/wiki/Software_deployment" id="w">deployment</a> phase. A software vendor develops and releases a software product and afterwards it has to be transported to the <a href="/wiki/Customer" id="w">customer</a>. This phase is the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> process. This process is highly complex because the vendor often has to deal with a product which has multiple <a href="/wiki/Version" id="w">versions</a>, variable features, dependency on external products, and different kinds of <a href="/wiki/Distribution_(business)" id="w">distribution</a> options. The CCU method helps the software vendor in structuring this process.</p>
+<p>In figure 2, the process-data diagram of the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> phase within CCU is depicted. This way of modeling was invented by Saeki (2003). On the left side you can see the meta-process model and on the right side the meta-data model. The two models are linked to each other by the relationships visualized as doted lines. The meta-data model (right side) shows the concepts involved in the process and how the concepts are related to each other. For instance it is visible that a <a href="/wiki/Packaging_and_labelling" id="w">package</a> consists of multiple parts, being the: <a href="/wiki/Software_package" id="w">software package</a>, system description, <a href="/wiki/User_guide" id="w">manual</a>, and <a href="/wiki/License" id="w">license</a> and management information. The numbers between the relations indicate in what quantity the concepts are related. For example the “1..1” between <a href="/wiki/Packaging_and_labelling" id="w">package</a> and <a href="/wiki/Software_package" id="w">software package</a> means that a <a href="/wiki/Packaging_and_labelling" id="w">package</a> has to contain at least 1 <a href="/wiki/Software_package" id="w">software package</a> and at the most 1 <a href="/wiki/Software_package" id="w">software package</a>. So in this case a <a href="/wiki/Packaging_and_labelling" id="w">package</a> just has to contain 1 <a href="/wiki/Software_package" id="w">software package</a>. On the left side of the picture the process-data model is depicted. This consists of all the activities within the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> process. This article is based on this process-data model. The meta-process model (left side of the process-data diagram) is divided into several parts which are presented along with the corresponding paragraphs throughout the article to make it easier to understand.</p>
+<p>The tables that describe the concepts of the meta-data model and the activities of the process-data model are presented beneath figure 2.</p>
+<p><div style="wigth:500px"><a class="internal" href="/wiki/Image:500px-CCU_delivery_process_data_model.jpg" title="Figure 2: CCU model, delivery phase."><img src="http://en.wikipedia.org/wiki/500px-CCU_delivery_process_data_model.jpg" alt="Figure 2: CCU model, delivery phase." title="Figure 2: CCU model, delivery phase." class="location-center type-thumb" width="500px" />
+</a>
+<div class="thumbcaption">Figure 2: CCU model, delivery phase.</div></div>
+</p>
+<a id="Table_of_concepts" name="Table_of_concepts"></a><h3> Table of concepts </h3>
+<p>The table of concepts contains all concepts used in the meta-data model with their explanations along with the source from which the explanations are derived.</p>
+<p><i>Table 1: Table of concepts</i>
+</p>
+<div style="page-break-inside:	avoid;">
+<table align="center" class="wikitable" width="70%">
+<tr bgcolor="c0c0c0">
+<td><b>Concept</b></td>
+<td><b>Definition (Source)</b></td></tr>
+<tr>
+<td>REPOSITORY</td>
+<td>Also called a vault. A repository contains only one complete <a href="/wiki/Version" id="w">version</a> of a configuration item (CI). Differences between <a href="/wiki/Version" id="w">versions</a> are usually stored using a delta algorithm.
+
+Collection of records describing resources (Crnkovic, Asklund &#38; Persson-Dahlqvist, 2003 and W3C 2006)</td></tr>
+<tr>
+<td><a href="/wiki/Packaging_and_labelling" id="w">PACKAGE</a></td>
+<td>A collection of different related items combined for transferring purposes to the <a href="/wiki/Customer" id="w">customer</a>.  (Carzaniga <i>et al.</i>, 1998)</td></tr>
+<tr>
+<td><a href="/wiki/Software_package" id="w">SOFTWARE PACKAGE</a></td>
+<td>A collection of different related <a href="/wiki/Software_components" id="w">software components</a> combined for transferring purposes to the <a href="/wiki/Customer" id="w">customer</a>. (Carzaniga <i>et al.</i>, 1998)</td></tr>
+<tr>
+<td><a href="/wiki/Software_components" id="w">SOFTWARE COMPONENTS</a></td>
+<td>The different components of which software consists related through dependencies.  (Carzaniga <i>et al.</i>, 1998)</td></tr>
+<tr>
+<td><a href="/wiki/Version" id="w">VERSION</a></td>
+<td>A <a href="/wiki/Version" id="w">version</a> is a state of an object or concept that varies from its previous state or condition.  (Wikipedia, 2006)</td></tr>
+<tr>
+<td>SYSTEM DESCRIPTION</td>
+<td>Description of the system including its requirements and the dependencies on other external components. (Carzaniga <i>et al.</i>, 1998)</td></tr>
+<tr>
+<td><a href="/wiki/User_guide" id="w">MANUAL</a></td>
+<td>A technical communication document intended to give assistance to people using a particular system. (Wikipedia, 2006)</td></tr>
+<tr>
+<td><a href="/wiki/License" id="w">LICENSE</a></td>
+<td>Type of proprietary or gratuitous <a href="/wiki/License" id="w">license</a> as well as a memorandum of contract between a producer and a user of computer software that specifies the perimeters of the permission granted by the owner to the user. (Wikipedia, 2006)</td></tr>
+<tr>
+<td>MANAGEMENT INFORMATION</td>
+<td>All the information that is relevant for the management of the system at the <a href="/wiki/Customer" id="w">customer</a> site. (Carzaniga <i>et al.</i>, 1998)</td></tr>
+<tr>
+<td><a href="/wiki/Customer_relationship_management" id="w">CUSTOMER RELATIONSHIP MANAGEMENT SYSTEM</a></td>
+<td>A system which maintains all information about the <a href="/wiki/Customer" id="w">customers</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td><a href="/wiki/Customer" id="w">CUSTOMER</a></td>
+<td>A company or person that bought some product or made use of one of your companies services before. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>LICENSE TYPE</td>
+<td>In this case it can either be a long term <a href="/wiki/License" id="w">license</a>, an expired <a href="/wiki/License" id="w">license</a> or a temporary <a href="/wiki/License" id="w">license</a>.  </td></tr>
+<tr>
+<td>CUSTOMER DATA</td>
+<td>All known information about the <a href="/wiki/Customer" id="w">customers</a> in the <a href="/wiki/Customer_relationship_management" id="w">customer relationship management system</a>. </td></tr>
+<tr>
+<td><a href="/wiki/Configuration_management" id="w">CONFIGURATION MANAGEMENT SYSTEM</a></td>
+<td>A system maintaining information about the software configurations at the <a href="/wiki/Customer" id="w">customer’s</a> sites. (Prince2 CCTA, 2002)</td></tr>
+<tr>
+<td>PRODUCT</td>
+<td>An element of software or a document placed under <a href="/wiki/Version" id="w">version</a> control. (Crnkovic <i>et al.</i>, 2003)</td></tr>
+<tr>
+<td><a href="/wiki/Patch_(computing)" id="w">UPDATES</a></td>
+<td>An <a href="/wiki/Patch_(computing)" id="w">update</a> also called a patch is a small piece of software designed to update or fix problems with a computer program. (Wikipedia, 2006)</td></tr>
+<tr>
+<td><a href="/wiki/Computer_configuration" id="w">CONFIGURATION</a></td>
+<td>A <a href="/wiki/Computer_configuration" id="w">configuration</a> is an arrangement of functional units according to their nature, number, and chief characteristics. (Wikipedia, 2006)</td></tr>
+<tr>
+<td><a href="/wiki/Modification" id="w">MODIFICATION</a></td>
+<td><a href="/wiki/Modification" id="w">Modification</a> is the act of applying change to an original. (Wikipedia, 2006)</td></tr>
+<tr>
+<td><a href="/wiki/Feedback" id="w">FEEDBACK</a></td>
+<td><a href="/wiki/Feedback" id="w">Feedback</a> allows a vendor to gather large amounts
+of data about its <a href="/wiki/Customer" id="w">customers</a> and its product as it acts in the field. (Jansen, S. &#38; Ballintijn, G. &#38; Brinkkemper, S., 2005)</td></tr>
+<tr>
+<td>BUG REPORT</td>
+<td>A report of the problems users encountered using the product. This can mean a problem with a certain function or dead links within the system. This information is collected manually. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>PRODUCT USAGE DATA</td>
+<td>This data contains information about the actual product usage. This reflects on options that are most used within the program. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>ERROR REPORT</td>
+<td>When the software product gets an error it will automatically send an error report to the vendor.  (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>USAGE QUESTIONS</td>
+<td>Questions users have about handling the product etc. (Jansen <i>et al.</i>, 2005)</td></tr></table></div>
+
+<a id="Activity_table" name="Activity_table"></a><h3> Activity table </h3>
+<p>The activity table contains the explanations of the activities along with the source from which the explanations are derived. Because the method is quite innovative a lot of the activity’s are designed especially for this model and therefore the explanations do not have a source.</p>
+<p><i>Table 2: Activity Table</i></p>
+
+<div style="page-break-inside:	avoid;">
+<table align="center" class="wikitable" width="70%">
+<tr bgcolor="c0c0c0">
+<td><b>Activity</b></td>
+<td><b>Sub-Activity</b></td>
+<td><b>Description (Source)</b></td></tr>
+<tr>
+<td colspan="2"><a href="/wiki/Packaging_and_labelling" id="w">Package</a></td>
+<td>Packaging the system so that it can be transferred to the <a href="/wiki/Customer" id="w">customers’</a> site. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td rowspan="6" />
+<td><a href="/wiki/Packaging_and_labelling" id="w">Package</a> software</td>
+<td>Combining different <a href="/wiki/Software_components" id="w">software components</a> into one <a href="/wiki/Packaging_and_labelling" id="w">package</a> that can be delivered to the <a href="/wiki/Customer" id="w">customer</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td><a href="/wiki/Packaging_and_labelling" id="w">Package</a> system description</td>
+<td>Add a system description to the <a href="/wiki/Packaging_and_labelling" id="w">package</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td><a href="/wiki/Packaging_and_labelling" id="w">Package</a> <a href="/wiki/User_guide" id="w">manual</a></td>
+<td>Add a <a href="/wiki/User_guide" id="w">manual</a> to the <a href="/wiki/Packaging_and_labelling" id="w">package</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td><a href="/wiki/Packaging_and_labelling" id="w">Package</a> <a href="/wiki/License" id="w">license</a></td>
+<td>Add a <a href="/wiki/License" id="w">license</a> to the <a href="/wiki/Packaging_and_labelling" id="w">package</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td><a href="/wiki/Packaging_and_labelling" id="w">Package</a> management information</td>
+<td>Add a management information document to the <a href="/wiki/Packaging_and_labelling" id="w">package</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>Check <a href="/wiki/Packaging_and_labelling" id="w">package</a></td>
+<td>Make sure that the <a href="/wiki/Packaging_and_labelling" id="w">package</a> is complete and ready for <a href="/wiki/Software_deployment" id="w">deployment</a> at the <a href="/wiki/Customer" id="w">customer’s</a> site. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td colspan="2">Advertise <a href="/wiki/Patch_(computing)" id="w">update</a></td>
+<td>When a vendor wishes to provide <a href="/wiki/Patch_(computing)" id="w">updates</a> to its <a href="/wiki/Customer" id="w">customers</a>, the <a href="/wiki/Customer" id="w">customers</a> first need to be informed through the available communication channels. (Jansen <i>et al.</i>, 2003)</td></tr>
+<tr>
+<td colspan="2">Prepare  <a href="/wiki/Distribution_(business)" id="w">distribution</a></td>
+<td>Prepare measures be able to get the software to the <a href="/wiki/Customer" id="w">customer</a>.</td></tr>
+<tr>
+<td rowspan="2" />
+<td>Set <a href="/wiki/Packaging_and_labelling" id="w">package</a> in <a href="/wiki/Repository" id="w">repository</a></td>
+<td>A finished <a href="/wiki/Software_components" id="w">software component</a> will be made available in some release <a href="/wiki/Repository" id="w">repository</a>. (Jansen <i>et al.</i>, 2003)</td></tr>
+<tr>
+<td>Create transfer channels</td>
+<td>The vendor needs to create channels through which the software can be transferred to the <a href="/wiki/Customer" id="w">customer</a>.</td></tr>
+<tr>
+<td colspan="2"><a href="/wiki/Distribution_(business)" id="w">Distribute</a></td>
+<td>Getting the software to the different <a href="/wiki/Customer" id="w">customers</a>. (Crnkovic, Asklund &#38; Persson-Dahlqvist, 2003)</td></tr>
+<tr>
+<td rowspan="5" />
+<td><a href="/wiki/Customer" id="w">Customer</a> request</td>
+<td>A <a href="/wiki/Customer" id="w">customer</a> makes the vendor aware of his interest for a certain product or update. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>Determine configuration needs</td>
+<td>It is determined which <a href="/wiki/Software_components" id="w">software components</a> are needed for a successful configuration update. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>Determine configuration constraints</td>
+<td>It is determined to which constraints the infrastructure of the <a href="/wiki/Customer" id="w">customer</a> has to suffice in order to run the new product or <a href="/wiki/Patch_(computing)" id="w">update</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>Check <a href="/wiki/Customer" id="w">customers</a> <a href="/wiki/License" id="w">license</a></td>
+<td>It is checked if the <a href="/wiki/Customer" id="w">customer</a> is in possession of the right <a href="/wiki/License" id="w">license</a> for the new configuration <a href="/wiki/Patch_(computing)" id="w">update</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>Deliver <a href="/wiki/Patch_(computing)" id="w">update</a></td>
+<td>Getting the <a href="/wiki/Software_components" id="w">software components</a> at the <a href="/wiki/Customer" id="w">customer’s</a> site. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td colspan="2">Inform <a href="/wiki/Customer" id="w">customer</a></td>
+<td>Providing the <a href="/wiki/Customer" id="w">customer</a> with information about in this case the status of its request. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td colspan="2">Update CRM</td>
+<td>Add information to the CRM system so that it contains the most current information available. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td colspan="2">Receive <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> and <a href="/wiki/Software_deployment" id="w">deployment</a> report</td>
+<td>Getting a report (automatically or manually) about the success of the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> and <a href="/wiki/Software_deployment" id="w">deployment</a> from the <a href="/wiki/Customer" id="w">customer</a>. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td colspan="2">Update <a href="/wiki/License" id="w">license</a> type</td>
+<td>Add information about the <a href="/wiki/License" id="w">license</a> obtained by the <a href="/wiki/Customer" id="w">customer</a> so that the system contains the most current information available. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td colspan="2">Update <a href="/wiki/Configuration_management" id="w">configuration management</a></td>
+<td>Add recent information in the <a href="/wiki/Configuration_management" id="w">configuration management</a> system, so that the <a href="/wiki/Customer" id="w">customer’s</a> most recent configuration is stored. (Jansen <i>et al.</i>, 2005)</td></tr>
+<tr>
+<td>Update product properties</td>
+<td>Renew the information about the products in use by the <a href="/wiki/Customer" id="w">customer</a> so that the system contains the most current information available. (Jansen <i>et al.</i>, 2005)</td></tr></table></div>
+
+<a id="Package_software" name="Package_software"></a><h2> Package software </h2>
+
+<p><a class="internal" href="/wiki/Image:CCU_delivery_package.jpg" title="Figure 3: CCU, package."><img src="http://en.wikipedia.org/wiki/CCU_delivery_package.jpg" alt="Figure 3: CCU, package." title="Figure 3: CCU, package." class="location-center type-frame" />
+</a>
+<div class="framecaption">Figure 3: CCU, package.</div></p>
+<p>In order to deliver the developed product to the <a href="/wiki/Customer" id="w">customer</a>, the vendor needs to <a href="/wiki/Packaging_and_labelling" id="w">package</a> the different components of its product into a <a href="/wiki/Packaging_and_labelling" id="w">package</a>. By doing this, the <a href="/wiki/Customer" id="w">customer</a> will receive all the information and <a href="/wiki/Software_components" id="w">software components</a> at once fulfilling al its needs. After combining all elements into one <a href="/wiki/Packaging_and_labelling" id="w">package</a> the software vendor will carefully have to check if the <a href="/wiki/Packaging_and_labelling" id="w">package</a> is complete. The <a href="/wiki/Packaging_and_labelling" id="w">package</a> will have to provide the <a href="/wiki/Customer" id="w">customer</a> with all the tools and information to use the product. When this is not the case the software vendor will get a lot of questions from its <a href="/wiki/Customer" id="w">customers</a> which will consume a lot of time. It is therefore very important that the <a href="/wiki/Packaging_and_labelling" id="w">package</a> is checked carefully before it is shipped. The <a href="/wiki/Packaging_and_labelling" id="w">package</a> can be a physical combination of different elements packed into for example a box, but it can also be a digital combination of files which contain all the elements. Within the CCU process it is stated that a <a href="/wiki/Packaging_and_labelling" id="w">package</a> will consist of five elements, being: <a href="/wiki/Software_package" id="w">software package</a>, system description, <a href="/wiki/User_guide" id="w">manual</a>, and <a href="/wiki/License" id="w">license</a> and management information. In the following paragraphs is explained how these elements fit into the CCU <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> phase.</p>
+<a id="Software_package" name="Software_package"></a><h3> Software package </h3>
+
+<p>One of the elements of the <a href="/wiki/Packaging_and_labelling" id="w">package</a> will be the <a href="/wiki/Software_package" id="w">software package</a>. The <a href="/wiki/Software_package" id="w">software package</a> is a <a href="/wiki/Packaging_and_labelling" id="w">package</a> in itself, because it consists of the different <a href="/wiki/Software_components" id="w">software components</a> that together form the product. In contrast with the overall <a href="/wiki/Packaging_and_labelling" id="w">package</a>, the <a href="/wiki/Software_package" id="w">software package</a> is always a technical <a href="/wiki/Packaging_and_labelling" id="w">package</a> in which all the files needed are combined in order to run the software product. Examples of tools which can perform this packaging are: <a class="externallink" href="http://www.lokigames.com/" rel="nofollow" title="http://www.lokigames.com/">Loki-Update</a>, <a class="externallink" href="http://www.kleemann.org/rpm-update/oldindex.html/" rel="nofollow" title="http://www.kleemann.org/rpm-update/oldindex.html/">RPM-update</a>, <a class="externallink" href="http://swup.trustix.org/" rel="nofollow" title="http://swup.trustix.org/">SWUP</a> and <a class="externallink" href="http://www.gentoo.org/doc/en/portage-manual.xml/" rel="nofollow" title="http://www.gentoo.org/doc/en/portage-manual.xml/">Portage</a>. Another concept of the <a href="/wiki/Software_package" id="w">software package</a> is the <a href="/wiki/Version" id="w">version</a>. This keeps track of the <a href="/wiki/Modification" id="w">modifications</a> made to the software product. By relating it to the <a href="/wiki/Software_package" id="w">software package</a> the vendor and the <a href="/wiki/Customer" id="w">customer</a> are able to keep track of the functionality and properties of the product the <a href="/wiki/Customer" id="w">customer</a> is using.</p>
+<a id="System_description" name="System_description"></a><h3> System description </h3>
+
+<p>It is a general description of what the product and its functionalities. In addition it will also describe of what components, the product consists and how these are related to other product software already in place. In case of a software <a href="/wiki/Patch_(computing)" id="w">update</a> it will for example describe how the previous <a href="/wiki/Version" id="w">version</a> of the software is modified by this product. Besides this, it will also describe the requirements needed to run the software product properly. For example what other products and configurations need to be in place in order to let this product run properly.</p>
+<a id="Manual" name="Manual"></a><h3> Manual </h3>
+
+<p>The <a href="/wiki/User_guide" id="w">manual</a> is the document that will provide the <a href="/wiki/Customer" id="w">customer</a> with guidance in deploying and using the product.</p>
+<a id="License" name="License"></a><h3> License </h3>
+
+<p>The <a href="/wiki/License" id="w">license</a> is in this case a <a href="/wiki/Software_license" id="w">Software license</a> agreement in which is stated how the <a href="/wiki/Customer" id="w">customer</a> is permitted to use the product. For example it can state how many users are permitted to use the software product. In this situation the <a href="/wiki/License" id="w">license</a> agreement is a contract or a certificate which is the <a href="/wiki/Customer" id="w">customers</a> prove of its using permits. The software vendor has its own part of the agreement which in most cases is stored in a system. An elaboration of this part can be found at the receive <a href="/wiki/Feedback" id="w">feedback</a> section of this article. The <a href="/wiki/License" id="w">license</a> agreement shipped to the <a href="/wiki/Customer" id="w">customer</a> can be a digital document as well as a physical document.</p>
+<a id="Management_information" name="Management_information"></a><h3> Management information </h3>
+
+<p>This piece of information should contain the information that is relevant for managing the system at the <a href="/wiki/Customer" id="w">customer’s</a> site. In many cases this information is already part of the <a href="/wiki/User_guide" id="w">manual</a>. However in particular situations this information is meant only for the management of the system and not for the users of the system and is therefore supplied as a separate document.</p>
+<a id="Distribution" name="Distribution"></a><h2> Distribution </h2>
+
+<p>After the <a href="/wiki/Packaging_and_labelling" id="w">package</a> is assembled it needs to be <a href="/wiki/Distribution_(business)" id="w">distributed</a> to the <a href="/wiki/Customer" id="w">customers</a>. This section within the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> process is about the actual <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> of the <a href="/wiki/Packaging_and_labelling" id="w">package</a> to the <a href="/wiki/Customer" id="w">customers</a>.</p>
+<a id="Offline_vs_Online" name="Offline_vs_Online"></a><h3> Offline vs Online </h3>
+<p>The <a href="/wiki/Software_distribution" id="w">software distribution</a> of a product can be done offline as well as online. In an offline situation the <a href="/wiki/Packaging_and_labelling" id="w">package</a> is a physical <a href="/wiki/Packaging_and_labelling" id="w">package</a> which contains all the elements. The software is stored on a data carrier such as a CD or a DVD, and the documents might also be stored in a digital form on this data carrier, or they might be in physical form such as a booklet. The <a href="/wiki/Packaging_and_labelling" id="w">package</a> as a whole is a physical product. In an online situation the entire <a href="/wiki/Packaging_and_labelling" id="w">package</a> needs to be in a digital form. The consequences on the <a href="/wiki/Distribution_(business)" id="w">distribution</a> process are described in the following paragraphs. CCU is designed to fit both situations but as bandwidth is growing it is making more sense to distribute especially updates and new <a href="/wiki/Version" id="w">versions</a> to existing <a href="/wiki/Customer" id="w">customers</a> online. In this article both ways are discussed. In the process-data model it is assumed that the software vendor conducts both <a href="/wiki/Distribution_(business)" id="w">distribution</a> channels. As a practical example: HISComp, a provider of medical information systems distributes its software straightforward via CDs. However they use their website to distribute patches for the software products.</p>
+<a id="Preparation_of_distribution" name="Preparation_of_distribution"></a><h3> Preparation of distribution </h3>
+
+<p><a class="internal" href="/wiki/Image:CCU_delivery_prepare_distribution.jpg" title="Figure 4: CCU, Preparation of distribution."><img src="http://en.wikipedia.org/wiki/CCU_delivery_prepare_distribution.jpg" alt="Figure 4: CCU, Preparation of distribution." title="Figure 4: CCU, Preparation of distribution." class="location-center type-frame" />
+</a>
+<div class="framecaption">Figure 4: CCU, Preparation of distribution.</div></p>
+<p>After a new <a href="/wiki/Packaging_and_labelling" id="w">package</a> is assembled, the <a href="/wiki/Customer" id="w">customer</a> needs to be made aware of the new release. In the process-data model this is being depicted as a loop which states advertising the update until the <a href="/wiki/Customer" id="w">customers</a> are being properly informed. Besides this, the <a href="/wiki/Packaging_and_labelling" id="w">package</a> ready for delivery, needs to be stored in a repository for the online <a href="/wiki/Distribution_(business)" id="w">distribution</a>. In addition the vendor needs to create transfer channels. For the online <a href="/wiki/Distribution_(business)" id="w">distribution</a> this means that the vendor needs to create online channels to its repository. In most cases this means that a link to the product on the website of the vendor is created. In case of updates it is largely applicable that the current <a href="/wiki/Version" id="w">version</a> of the software product at the <a href="/wiki/Customer" id="w">customer’s</a> site automatically checks the <a href="/wiki/Repository" id="w">repository</a> for new updates of the product. In case of offline <a href="/wiki/Distribution_(business)" id="w">distribution</a>, the vendor needs to create physical transfer channels. This can be shops or just a contract with a courier company.</p>
+<a id="The_actual_distribution" name="The_actual_distribution"></a><h3> The actual distribution </h3>
+
+<p><a class="internal" href="/wiki/Image:CCU_delivery_actual_distribution.jpg" title="Figure 5: CCU, The actual distribution."><img src="http://en.wikipedia.org/wiki/CCU_delivery_actual_distribution.jpg" alt="Figure 5: CCU, The actual distribution." title="Figure 5: CCU, The actual distribution." class="location-center type-frame" />
+</a>
+<div class="framecaption">Figure 5: CCU, The actual distribution.</div></p>
+<p>The <a href="/wiki/Distribution_(business)" id="w">distribution</a> begins with the request for a product by the <a href="/wiki/Customer" id="w">customer</a>. This can be done automatically when the current product of the <a href="/wiki/Customer" id="w">customer</a> searches for an update at the online repository. The <a href="/wiki/Customer" id="w">customer</a> can also manually do a request for a product via the website of the vendor. A third option is that the <a href="/wiki/Customer" id="w">customer</a> does the request via telephone or e-mail.</p>
+<p>When the vendor is aware of the <a href="/wiki/Customer" id="w">customer’s</a> request it will determine the <a href="/wiki/Customer" id="w">customer’s</a> needs. By checking what the <a href="/wiki/Customer" id="w">customer’s</a> current configuration is and what the <a href="/wiki/Customer" id="w">customer</a> desires. This process can also take place automatically by checking the <a href="/wiki/Customer" id="w">customer’s</a> configuration in the <a href="/wiki/Configuration_management" id="w">configuration management</a> system. More information on this system is provided in the next chapter. When it is clear what product the <a href="/wiki/Customer" id="w">customer</a> needs and the possible <a href="/wiki/Modification" id="w">modifications</a> to this product it is necessary to determine if the <a href="/wiki/Customer" id="w">customer’s</a> current configuration suits the new product. The current configuration is compared to the constraints of the new product. This can also be done automatically by the <a href="/wiki/Configuration_management" id="w">configuration management</a> system. When the configuration of the <a href="/wiki/Customer" id="w">customer</a> appears to be insufficient the customer is informed about this. For example the vendor can make clear to the <a href="/wiki/Customer" id="w">customer</a> that it will need an external product for this new product to run properly. Besides this the <a href="/wiki/Customer_Relationship_Management" id="w">Customer Relationship Management</a> (CRM) system of the vendor is updated. There is more information about this in the chapter about CRM.</p>
+<p>When the <a href="/wiki/Customer" id="w">customer’s</a> configuration is sufficient the vendor will check the current <a href="/wiki/License" id="w">license</a> of the <a href="/wiki/Customer" id="w">customer</a>. If the <a href="/wiki/Customer" id="w">customer</a> does not have a proper <a href="/wiki/License" id="w">license</a> for the requested product the <a href="/wiki/License" id="w">license</a> needs to be obtained. The <a href="/wiki/Customer" id="w">customer</a> will be informed about this and the CRM system will be updated again. If the <a href="/wiki/Customer" id="w">customer</a> has the proper <a href="/wiki/License" id="w">license</a> or wants to buy the proper <a href="/wiki/License" id="w">license</a> along with the product, the product is delivered to the <a href="/wiki/Customer" id="w">customer</a>.</p>
+<a id="Software_configuration_management" name="Software_configuration_management"></a><h2> Software configuration management </h2>
+
+<p>The <a href="/wiki/Software_Configuration_Management" id="w">Software Configuration Management</a> system, is a system at the vendor’s site which keeps track of the configurations at the <a href="/wiki/Customer" id="w">customer’s</a> site. By storing this in a system the vendor will be able to give the <a href="/wiki/Customer" id="w">customer</a> particular service when it needs a new product. In the software <a href="/wiki/Configuration_management" id="w">configuration management</a> system information about the products used by the <a href="/wiki/Customer" id="w">customer</a>, the <a href="/wiki/Version" id="w">version</a> of these products, as well as which updates are already being done, is stored. In some cases it is possible that the vendor did some <a href="/wiki/Modification" id="w">modifications</a> to the product particularly for this <a href="/wiki/Customer" id="w">customer</a>. This will also have to be stored in the system. Also there needs to be <a href="/wiki/Computer_configuration" id="w">configuration data</a>, some generic information about the configuration the <a href="/wiki/Customer" id="w">customer</a> is using. For example what operating platform the <a href="/wiki/Customer" id="w">customer</a> uses for its software. What also should be stored in this system is information about the <a href="/wiki/Feedback" id="w">feedback</a> that the vendor gets from the <a href="/wiki/Customer" id="w">customer</a>. This includes bug reports, product usage data, error reports and usage questions. More information about this <a href="/wiki/Feedback" id="w">feedback</a> can be found in the CCU phase activation and usage.</p>
+<p>By storing all this information the vendor can determine the <a href="/wiki/Customer" id="w">customer’s</a> needs very precisely whenever a <a href="/wiki/Customer" id="w">customer</a> requests a product or an update. As already stated the vendor can also easily inform the <a href="/wiki/Customer" id="w">customer</a> about some adaptations the <a href="/wiki/Customer" id="w">customer</a> needs to make to its configuration in order to let the product function properly. Another advantage of storing this information in a system is that it will ease the process of online <a href="/wiki/Delivery_(commerce)" id="w">delivery</a>. The checking of the configuration needs and constraints can all be done automatically when a <a href="/wiki/Customer" id="w">customer</a> does a request.</p>
+<a id="CRM_system" name="CRM_system"></a><h2> CRM system </h2>
+
+<p>The <a href="/wiki/Customer_relationship_management" id="w">customer relationship management</a> system contains all kinds of data about the <a href="/wiki/Customer" id="w">customers</a> of a company. In this article we will discuss the function of this <a href="/wiki/Customer" id="w">customer</a> data in the CCU <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> process. Information about the <a href="/wiki/License" id="w">license</a> agreement between the <a href="/wiki/Customer" id="w">customer</a> and the software vendor is stored in the CRM system. In the meta-data model this is called the <a href="/wiki/License" id="w">license</a> type. This information is being consulted by the vendor when a <a href="/wiki/Customer" id="w">customer</a> does a request for a product. When the <a href="/wiki/Repository" id="w">repository</a> and online <a href="/wiki/Distribution_(business)" id="w">distribution</a> is linked to the CRM system this can again be done automatically. The system will check if the <a href="/wiki/License" id="w">license</a> of a <a href="/wiki/Customer" id="w">customer</a> is sufficient to obtain a certain product or update.</p>
+<a id="Receiving_feedback_and_updating_the_systems" name="Receiving_feedback_and_updating_the_systems"></a><h2> Receiving feedback and updating the systems </h2>
+
+<p><a class="internal" href="/wiki/Image:CCU_delivery_feedback.jpg" title="Figure 6: CCU, Feedback and updating."><img src="http://en.wikipedia.org/wiki/CCU_delivery_feedback.jpg" alt="Figure 6: CCU, Feedback and updating." title="Figure 6: CCU, Feedback and updating." class="location-center type-frame" />
+</a>
+<div class="framecaption">Figure 6: CCU, Feedback and updating.</div></p>
+<p>In order to keep all the described systems up-to-date at the vendor site it is important that the vendor receives a lot of <a href="/wiki/Feedback" id="w">feedback</a> from the <a href="/wiki/Customer" id="w">customer</a>. As already mentioned in the previous chapters there will have to be <a href="/wiki/Feedback" id="w">feedback</a> when a <a href="/wiki/Customer" id="w">customer</a> tries to obtain a product but the current <a href="/wiki/License" id="w">license</a> appears to be insufficient. By updating the CRM system the vendor will store the <a href="/wiki/Customer" id="w">customer’s</a> request for a certain product or update. In this way the vendor will be aware of the interests of a <a href="/wiki/Customer" id="w">customer</a> in a certain product and could use this in the future for example in doing an offer. The same accounts when the <a href="/wiki/Customer" id="w">customer’s</a> configuration does not meet the constraints of a requested product. The vendor could use the information in the future to inform the <a href="/wiki/Customer" id="w">customer</a> for example about an update which overcomes the constraints to which the <a href="/wiki/Customer" id="w">customer</a> couldn’t suffice. Besides this it is also important that the vendor receives a <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> report after <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> and <a href="/wiki/Software_deployment" id="w">deployment</a>. This report could be automatically generated and sent by the installed software product. In this way the vendor can (automatically) update the product properties in its <a href="/wiki/Customer" id="w">customer</a> <a href="/wiki/Configuration_management" id="w">configuration management</a> system so that it has information about the products running at the <a href="/wiki/Customer" id="w">customer’s</a> site. Besides this, the information can be used as input for development improvement. Microsoft and Exact are already using these kinds of <a href="/wiki/Feedback" id="w">feedback</a> techniques in their products. </p>
+<p>As already stated in the chapter about the <a href="/wiki/Configuration_management" id="w">configuration management</a> system it is also important that the vendor receives information about the usage of the product. More information about this <a href="/wiki/Feedback" id="w">feedback</a> can be found in the CCU phase activation and usage.</p>
+<a id="Example" name="Example"></a><h2> Example </h2>
+
+<p>An example of a successful application of the CCU method can be found at Exact Software (ES). ES is a manufacturer of accounting and <a href="/wiki/Enterprise_resource_planning" id="w">enterprise resource planning</a> software based in the Netherlands. ES has combined <a href="/wiki/Product_%0AData_Management" id="w">Product 
+Data Management</a> (PDM), <a href="/wiki/Customer_Relationship_Management" id="w">Customer Relationship Management</a> (CRM) and <a href="/wiki/Software_Configuration_Management" id="w">Software Configuration Management</a> (SCM) in order to maintain the configuration at the <a href="/wiki/Customer" id="w">customer’s</a> site in a better and less complex way. ES has a module in its CRM software that contains all contracts of each <a href="/wiki/Customer" id="w">customer</a>. This is linked to their PDM system. Every contract corresponds to files that can be downloaded for a new <a href="/wiki/Version" id="w">version</a> or update of a previous <a href="/wiki/Version" id="w">version</a>. In the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> phase this means that the <a href="/wiki/Customer" id="w">customers</a> are able to obtain all the products through an online connection. So ES sells contracts (licenses) and stores them into their CRM system, the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> of the actual products can be done by the <a href="/wiki/Customer" id="w">customers</a> themselves completely automated requiring little effort. The PDM system is on its turn linked to the SCM system which keeps track of the configurations the <a href="/wiki/Customer" id="w">customers</a> are using. In the <a href="/wiki/Delivery_(commerce)" id="w">delivery</a> phase this means that ES is able to automatically determine the <a href="/wiki/Customer" id="w">customer&#39;s</a> needs whenever a <a href="/wiki/Customer" id="w">customer</a> does a request.</p>
+<a id="See_also" name="See_also"></a><h2> See also </h2>
+
+
+<ol>
+<li><a href="/wiki/Method_Engineering_Encyclopedia" id="w">Method Engineering Encyclopedia</a></li>
+<li><a href="/wiki/Customer_Configuration_Updating" id="w">Customer Configuration Updating</a></li>
+<li><a href="/wiki/Customer_Configuration_Updating:Activation_and_usage" id="w">Customer Configuration Updating:Activation and usage</a></li>
+<li><a href="/wiki/Release_Management" id="w">Release Management</a></li></ol>
+<a id="External_links" name="External_links"></a><h2> External links </h2>
+
+
+<ol>
+<li><a class="externallink" href="http://www.productsoftware.nl/" rel="nofollow" title="http://www.productsoftware.nl/">Product software</a></li>
+<li><a class="externallink" href="http://www.lokigames.com/" rel="nofollow" title="http://www.lokigames.com/">Loki-Update</a></li>
+<li><a class="externallink" href="http://www.kleemann.org/rpm-update/oldindex.html/" rel="nofollow" title="http://www.kleemann.org/rpm-update/oldindex.html/">RPM-update</a></li>
+<li><a class="externallink" href="http://swup.trustix.org/" rel="nofollow" title="http://swup.trustix.org/">SWUP</a></li>
+<li><a class="externallink" href="http://www.gentoo.org/doc/en/portage-manual.xml/" rel="nofollow" title="http://www.gentoo.org/doc/en/portage-manual.xml/">Portage</a></li>
+<li><a class="externallink" href="http://www.exactsoftware.com/" rel="nofollow" title="http://www.exactsoftware.com/">Exact Software</a></li></ol>
+<a id="References" name="References"></a><h2> References </h2>
+
+
+<ol>
+<li>Krishnan M. S., (1994). Software release management: a business perspective, Proceedings of the 1994 conference of the Centre for Advanced Studies on Collaborative research, p.36, October 31-November 03, 1994, Toronto, Ontario, Canada </li>
+<li>Jansen, S. &#38; Ballintijn, G. &#38; Brinkkemper, S., (2003). A process model and typology for software product updaters. Conference on Software Maintenance and Reuse. IEEE, 2005.</li>
+<li>Jansen, S. &#38; Ballintijn, G. &#38; Brinkkemper, S., (2005). Integrated SCM/PDM/CRM and delivery of software products to 160.000 customers. CWI. Software Engineering [SEN] 2004.</li>
+<li>Jansen, S. &#38; Ballintijn, G. &#38; Brinkkemper, S., (2005). Definition and validation of the key process areas of release, delivery and deployment for product software vendors: turning the gly duckling into a swan. In Technical Report CWI, 2005.</li>
+<li>Jansen, S., Ballintijn, G., &#38; Brinkkemper, S. (2004). Software Release and Deployment At Exact: A Case Study Report. Retrieved February 8, 2006 from Computer science University Utrecht database.</li>
+<li>Carzaniga, A. &#38; Fugetta, A. &#38; Hall, R. &#38; van der Hoek, A. &#38; Heimbigner, D. &#38; Wolf, A. (1998) A characterization framework for software deployment technologies. </li>
+<li>Saeki M. (2003). Embedding Metrics into Information Systems Development Methods: An Application of Method Engineering Technique. CAiSE 2003, 374-389.</li></ol>
+<p>
+</p>

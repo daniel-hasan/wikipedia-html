@@ -1,0 +1,25 @@
+{{Song infobox
+| Name = Crumbling Land
+| Cover = ZabriskiePointSoundtrackCover.jpg |
+| Artist = [[Pink Floyd]]
+| Album = [[Zabriskie Point (album)|Zabriskie Point]]
+| Released = January 1970
+| track_no = 4
+| Recorded = 1969
+| Genre = [[Progressive rock]]<br>[[Country rock]]
+| Length = 4:16
+| Writer = [[David Gilmour]]<br>[[Richard Wright (musician)|Rick Wright]]<br>[[Nick Mason]]<br>[[Roger Waters]]
+| Label = [[Music Corporation of America|MCA]]
+| Producer =
+| Chart position =
+| prev = "[[Dark Star (song)|Dark Star (excerpt)]]"
+| prev_no = 3
+| next = "[[the Tennessee Waltz|Tennessee Waltz]]"
+| next_no = 5
+}}
+
+"'''Crumbling Land'''" is a song by [[Pink Floyd]] from the [[Zabriskie Point (album)|soundtrack album]] of the film ''[[Zabriskie Point (film)|Zabriskie Point]]''. It is an up-tempo, country-styled song. In the booklet of Zabriskie Point soundtrack's reissue, there is a note about what David Gilmour said about the song in an interview; he described that the song's "a kind of country & western number which he [Antonioni] could have gotten done better by any number of American bands. But he chose us — very strange."
+
+
+{{Pink Floyd}}
+[[Category:Pink Floyd songs]]

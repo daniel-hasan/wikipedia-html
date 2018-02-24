@@ -1,0 +1,317 @@
+{{Infobox Film
+| name           = Jurassic Park film series
+| image          = Jurassic Park Adventure Pack.jpg
+| image_size     = 
+| caption        = Jurassic Park Adventure Pack
+| director       = [[Steven Spielberg]] (<small>'''''Jurassic Park''''' & '''''The Lost World: Jurassic Park'''''</small>)<br>[[Joe Johnston]](<small>'''''Jurassic Park III'''''</small>)
+| producer       = 
+| writer         = [[Malia Scotch Marmo]](<small>'''''Jurassic Park'''''</small>)<br>[[David Koepp]](<small>'''''Jurassic Park''''' & '''''The Lost World'''''</small>)<br>[[Michael Crichton]](<small>'''''Jurassic Park''''' & '''''The Lost World'''''</small>)<br>[[Alexander Payne]](<small>'''''Jurassic Park III'''''</small>)<br>Peter Buchman(<small>'''''Jurassic Park III'''''</small>)<br>[[Jim Taylor (writer)|Jim Taylor]](<small>'''''Jurassic Park III'''''</small>)
+| starring       = 
+| music          = [[John Williams]] (<small>'''''Jurassic Park''''' & '''''The Lost World'''''</small>)<br>[[Don Davis (composer)|Don Davis]] (<small>'''''Jurassic Park III'''''</small>)
+| cinematography = 
+| editing        = 
+| distributor    = [[Universal Pictures]]
+| released       = [[1993 in film|1993]] - [[2001 in film|2001]]
+| country        = {{USA}}
+| language       = [[English language|English]]
+| budget         = 
+| gross          = [[United States dollar|$]]1,902,110,926
+}}
+The '''''Jurassic Park''''' '''franchise''' is a series of [[books]], [[films]] and [[video games]] centering on a disastrous attempt to create a [[theme park]] of [[Cloning|cloned]] [[dinosaurs]]. It began in [[1990]] when [[Universal Studios]] bought the rights to the [[Jurassic Park|novel]] by [[Michael Crichton]] before it was even published. 
+
+The book was very successful, as was the [[Jurassic Park (film)|1993 film adaptation]] which led to two sequels, although the last was not based on a novel as was the previous films. The software developers [[Ocean Software]], [[BlueSky Software]] and [[Sega of America]] have had the rights to developing video games since the 1993 film, and numerous games have been produced. 
+
+Currently a [[#Future|fourth feature film]] is in the works, but it has been lingering in [[development hell]] since a year after the [[Jurassic Park III|third film]]. Many rumors have surrounded the project since it was first reported, many surrounding plot and script ideas, and new logos. 
+
+== Development ==
+
+[[Michael Crichton]] originally conceived a screenplay around a pterodactyl being cloned from fossil DNA. After wrestling with this idea for a while, he came up with ''[[Jurassic Park]]''.<ref>{{cite video | people = Michael Crichton | title = Michael Crichton on the Jurassic Park Phenomenon | medium = DVD | publisher = Universal | date = 2001}}</ref> [[Steven Spielberg]] learned of the novel in October 1989 while he and Crichton were discussing a screenplay that would become the TV series ''[[ER (TV series)|ER]]''. Before the book was published, Crichton put up a non-negotiable fee for $1.5 million as well as a substantial percentage of the gross. [[Warner Bros.]] and [[Tim Burton]], [[Columbia Tristar]] and [[Richard Donner]], and [[20th Century Fox]] and [[Joe Dante]] bid for the rights,<ref name="Production notes">DVD Production Notes</ref> Universal further paid Crichton $500,000 to adapt his own novel,<ref>{{cite news | title = Leaping Lizards | publisher = [[Entertainment Weekly]] | date = [[1990-12-07]] | url = http://www.ew.com/ew/article/0,,318785,00.html | accessdate=2007-02-17}}</ref> but Universal eventually acquired them in May 1990 for Spielberg.<ref name="Production notes">DVD Production Notes</ref> Universal desperately needed money to keep their company alive, and partially succeeded with ''Jurassic Park'', as it became a critical<ref>http://www.rottentomatoes.com/m/jurassic_park</ref> and commercial<ref>http://www.boxofficemojo.com/movies/?page=main&id=jurassicpark.htm</ref> success. 
+
+After Jurassic Park was released to home video, Chrichton was pressured from many sources for a sequel novel. Chrichton declined all offers until Spielberg himself told him that he would direct the sequel, if one would ever occour. Production then began almost immediately. After the novel was published in 1995, ''[[The Lost World: Jurassic Park]]'' began production in [[September]] [[1996]].<ref>{{cite web | title = The LOST WORLD JURASSIC PARK | publisher = British Film Institute| url = http://ftvdb.bfi.org.uk/sift/title/546128| accessdate = 2007-07-07}}</ref>
+
+Before the production of the second film, [[Joe Johnston]] approached [[Steven Spielberg]] about directing the project. While Spielberg wanted to direct the first sequel, he agreed that if there was ever a third film, Johnston could direct.<ref>{{cite video|title=The Making of Jurassic Park III|format=DVD|publisher=[[Universal Pictures]]|year=2005}}</ref> Production began on [[August 30]] [[2000]],<ref>{{cite web | title = Jurassic Park III | publisher = British Film Institute| url = http://ftvdb.bfi.org.uk/sift/title/674339| accessdate = 2007-07-09}}</ref>
+
+==Books==
+{{main|Jurassic Park|The Lost World (novel)}}
+
+Michael Crichton began an idea for a techno-thriller novel in [[1983]], with the premise centering around a pterodactyl being cloned from fossil DNA.<ref>http://www.michaelcrichton.com/books-jurassicpark.html</ref> After working on this premise of many years, his idea evolved into a creation of a theme park of cloned dinosaurs, with the dinosaurs escaping, all from a young boy's point of view.<ref>http://www.michaelcrichton.com/books-jurassicpark.html</ref> After submitting ideas to a few of his colleagues, he kept receiving the same negative response. After reworking the novel into an adult level from many points of view, Crichton received positive response. The novel was first published in 1990, later becoming a bestseller and Michael Crichton's signature novel. A [[#Jurassic Park|film]] entered production before the novel was even published, and was also a box-office success.
+
+A sequel novel began production after readers and Steven Spielberg himself pressured Michael Crichton for a sequel novel. Michael Crichton confirmed that his novel had elements taken from Sir Arthur Conan Doyle's [[The Lost World (Arthur Conan Doyle)|novel of the same name]].<ref>http://www.michaelcrichton.com/books-lostworld-history.html</ref> The book was also an outstanding success, both with professional and mediocre critics. A film adaptation was released in 1997.
+
+== Current films ==
+===Jurassic Park===
+{{main|Jurassic Park (film)}}
+'''''Jurassic Park''''' is a [[1993 in film|1993]] [[science fiction film]] directed by [[Steven Spielberg]], based on the [[Jurassic Park|novel of the same name]] by [[Michael Crichton]]. The film centers on the island of [[Isla Nublar]], where scientists have created an [[amusement park]] of [[cloned]] [[dinosaurs]]. John Hammond ([[Richard Attenborough]]) invites a group of scientists, played by [[Sam Neill]], [[Jeff Goldblum]] and [[Laura Dern]], to visit the park. Sabotage sets the dinosaurs on the loose, and technicians and visitors attempt to escape the island.
+
+Development of the film began before the novel was even published, and Crichton was hired to contribute to a script that cut much of its story. Spielberg hired [[Stan Winston|Stan Winston Studios]]' puppets and worked with [[Industrial Light and Magic]] to develop cutting-edge [[Computer-generated imagery|CGI]] to portray the dinosaurs. ''Jurassic Park'' was well received by critics, although they criticized the characterization. During its release, the film grossed $914 million, becoming the most successful film yet released, and it is currently the [[List of highest-grossing films|ninth-highest grossing feature film]], significantly inspiring a new breed of films that primarily used CGI for special effects. The film was followed by ''[[The Lost World: Jurassic Park]]'' in [[1997 in film|1997]] and by ''[[Jurassic Park III]]'' in [[2001 in film|2001]], with ''[[#Future|Jurassic Park IV]]'' in development.
+
+===The Lost World: Jurassic Park===
+{{main|The Lost World: Jurassic Park}}
+'''''The Lost World: Jurassic Park''''' is a [[1997 in film|1997]] [[science fiction film]] and [[sequel]] to ''[[Jurassic Park (film)|Jurassic Park]]'' directed by [[Steven Spielberg]], based on the [[The Lost World (Michael Crichton)|novel of the same name]] by [[Michael Crichton]]. After the success of the first film, fans and critics alike pressured Michael Crichton for a sequel novel. Having never done one before, Crichton originally declined, but when [[Steven Spielberg]] finally started pressuring Crichton, a sequel novel was announced. As soon as the novel was published, a film was in pre-production, with a target release date of mid-[[1997]]. The film was a commercial success, breaking many box-office records when released. The film had mixed reviews, similar to its predecessor in terms of characterization.
+
+The film centers on the island of [[Isla Sorna]], an auxiliary site for the main Jurassic Park island, where dinosaurs have taken over and live in the wild. [[Ian Malcolm (Jurassic Park)|Ian Malcolm]] leads a team to document the dinosaurs in their native habitat, while an InGen team attempts to capture them for a second Jurassic Park in San Diego.
+
+===Jurassic Park III===
+{{main|Jurassic Park III}}
+'''''Jurassic Park III''''' is a [[2001 in film|2001]] [[science fiction]] [[film]] and sequel to ''[[The Lost World: Jurassic Park]]''. It is the first in the series not to be based on a book by [[Michael Crichton]] or directed by [[Steven Spielberg]]. Originally, a third Jurassic Park film was produced under the title ''Jurassic Park: Extinction''<ref>''2001 DVD release, poster section under special features''</ref>, with the script involving a killer disease that threatened to wipe out the dinosaurs on both islands. After numerous script changes, Universal decided to drop the idea in favor of the current plot, with the title ''Jurassic Park III''. Although the idea was dropped, it was to be reused for ''[[#Future|Jurassic Park IV]]'', but it instead involved a killer disease the dinosaurs created that threatened to wipe out humans.<ref>http://www.movieweb.com/news/91/691.php</ref> Another idea was proposed under the title ''Jurassic Park: Breakout''. It was never revealed what the plot was supposed to involve.
+
+[[Joe Johnston]] had been interested in directing the sequel to ''[[Jurassic Park]]'' and approached friend [[Steven Spielberg]] about the project. While Spielberg wanted to direct the first sequel, he agreed that if there was ever a third film, Johnston could direct.<ref>{{cite video|title=The Making of Jurassic Park III|format=DVD|publisher=[[Universal Pictures]]|year=2005}}</ref> Production began on [[August 30]] [[2000]]<ref>{{cite web | title = Jurassic Park III | publisher = British Film Institute| url = http://ftvdb.bfi.org.uk/sift/title/674339| accessdate = 2007-07-09}}</ref> with filming in [[California]], [[Oahu]], and [[Molokai]].<ref>{{cite web | title = Jurassic Park III | publisher = Hollywood.com| url = http://www.hollywood.com/movie/Jurassic_Park_III/419715| accessdate = 2007-07-09}}</ref> 
+The film was a moderate success, and had mixed reviews from critics. Most were split on whether the third installment was better or worse than its predecessor. The film once again suffered reviews of little to no characterization. 
+
+The setting takes place on [[Isla Sorna]], the island from the second film, after a couple hires Dr. Alan Grant to help them find their son.
+
+== Future ==
+=== Jurassic Park IV ===
+{{future film}}
+
+In June 2002, director [[Steven Spielberg]] told ''[[Starlog]]'' magazine that he planned to produce ''Jurassic Park IV'', and director [[Joe Johnston]], who helmed ''[[Jurassic Park III]]'', would direct it.<ref>{{cite news | author= | url=http://www.scifi.com/scifiwire/art-main.html?2002-06/13/11.15.film | title=Spielberg Mulls ''Jurassic IV'' | publisher=[[Sci Fi Wire]] | date=[[2002-06-13]] | accessdate=2007-02-20 }}</ref> In November 2002, screenwriter [[William Monahan]] was hired to write,<ref>{{cite news | author=Brian Linder | url=http://movies.ign.com/articles/376/376630p1.html | title=''Jurassic Park IV'' Goes Ahead | publisher=[[IGN]] | date=[[2002-11-07]] | accessdate=2007-02-20 }}</ref> with the film's release slated for summer 2005.<ref>{{cite news | author=Dave McNary | coauthors=Carl Diorio | url=http://www.variety.com/article/VR1117877754.html?categoryid=1019&cs=1 | title=Early-bird specials | publisher=[[Variety (magazine)|Variety]] | date=[[2002-12-22]] | accessdate=2007-02-20 }}</ref> In July 2003, Monahan completed the first draft, with the story no longer set in the jungle.<ref>{{cite news | author= | url=http://www.scifi.com/scifiwire/art-main.html?2003-07/16/12.00.film | title=''Jurassic IV'' Draft Done | publisher=[[Sci Fi Wire]] | date=[[2003-07-13]] | accessdate=2007-02-20 }}</ref> Actor [[Sam Neill]] said he was returning as [[List of characters in Jurassic Park#Dr. Alan Grant|Dr. Alan Grant]], with filming expected to begin in 2004 in California and Hawaii.<ref>{{cite news | author=Paul Davidson | url=http://movies.ign.com/articles/428/428371p1.html | title=Sam Neill Confirms ''Jurassic Park IV'' | publisher=[[IGN]] | date=[[2003-07-11]] | accessdate=2007-02-20 }}</ref> In September 2004, screenwriter [[John Sayles]] was re-writing the script, with the film re-slated for a winter 2005 release.<ref>{{cite news | author=Paul Davidson | url=http://movies.ign.com/articles/549/549150p1.html | title=Rewriting ''Jurassic Park IV'' | publisher=[[IGN]] | date=[[2004-09-17]] | accessdate=2007-02-20 }}</ref> His second draft focused on the new character Nick Harris, who returns to [[Isla Nublar]], the location of the first film, and retrieves [[Dennis Nedry]]'s can of [[DNA]]. He is captured by the Grendel corporation, which now owns [[InGen]], and he is hired to train five genetically modified ''[[Deinonychus]]'' as mercenaries.<ref>{{cite news | title = AICN EXCLUSIVE!! Moriarty's Been To JURASSIC PARK 4 And Returns To Tell The Tale!! | publisher = [[Ain't It Cool News]] | date=[[2004-08-17]] | url = http://www.aintitcool.com/display.cgi?id=18166 | accessdate=2007-02-24}}</ref>
+
+In October 2004, paleontologist [[Jack Hornedfgdfgdfgr (paleontologist)|Jack Horner]] said he would return as technical adviser for the fourth film as he had done for previous ''Jurassic Park'' films.<ref>{{cite news | author=Bryan O'Connor | url=http://www.billingsgazette.com/newdex.php?display=rednews/2003/10/12/build/local/45-horner.inc | title=Scientist Horner challenges youths | publisher=[[Billings Gazette]] | date=[[2003-10-12]] | accessdate=2007-02-20 }}</ref> By April 2005, special effects artist [[Stan Winston]] explained that the delay in production was due to repeated revisions of the film's script, none of which satisfied Spielberg. According to Winston, "He felt neither of [the drafts] balanced the science and adventure elements effectively. It's a tough compromise to reach, as too much science will make the movie too talky, but too much adventure will make it seem hollow."<ref>*{{cite news | author=Paul Davidson | url=http://movies.ign.com/articles/603/603381p1.html | title=Status of ''Jurassic Park IV'' | publisher=[[IGN]] | date=[[2005-04-11]] | accessdate=2007-02-20 }}</ref> In February 2006, producer [[Frank Marshall (film producer)|Frank Marshall]] said filming would begin in 2007 for a 2008 release.<ref>{{cite news | author=Paul Davidson | url=http://movies.ign.com/articles/690/690254p1.html | title=''Jurassic Park IV'' Script Ready | publisher=[[IGN]] | date=[[2006-02-21]] | accessdate=2007-02-20 }}</ref> In March 2007, Sam Neill said he was not asked to reprise his role as Dr. Alan Grant,<ref>{{cite news|author=Marilyn Beck|coauthors=Stacy Jenel Smith|title=Sam Neill debunks web rumors about Jurassic Park IV|publisher=LA DailyNews|date=[[2007-03-07]]|url=http://www.dailynews.com/celebrities/ci_5379532|accessdate=2007-03-08}}</ref> while [[Laura Dern]] was asked to return for the new film, which Universal still wanted to release by 2008.<ref>{{cite news | author= | url=http://www.collider.com/entertainment/news/article.asp/aid/4039/tcid/1 | title=JURASSIC PARK IV News | publisher=Collider.com | date=[[2007-04-05]] | accessdate=2007-04-07 }}</ref>  Director Joe Johnston was also reported not to be directing the film.<ref>{{cite news | author=Shawn Adler | url=http://www.mtv.com/movies/news/articles/1556604/20070406/story.jhtml | title='Jurassic Park IV' To Hit Theaters In 2008 | publisher=[[MTV]] | date=[[2007-04-06]] | accessdate=2007-04-08 }}</ref> [[Richard Attenborough]] has been contacted about reprising the role of [[John Hammond (Jurassic Park character)|John Hammond]].<ref>{{cite news | author = John Millar | title = Movie Director In Tearful Scots Trip | publisher = [[The Sunday Mail]] | date = [[2007-12-09]] | url = http://www.sundaymail.co.uk/news/scottish-news/2007/12/09/movie-director-in-tearful-scots-trip-78057-20224385/ | accessdate=2007-12-10}}</ref> The film was delayed to 2009, because of the [[2007 Writers Guild of America strike]].<ref>{{cite news | author = Edward Douglas | title = Frank Marshall on Indy 4... and Bourne 4??? | publisher = Comingsoon.net | date = [[2007-12-05]] | url = http://www.comingsoon.net/news/movienews.php?id=40003 | accessdate=2007-12-06}}</ref>
+
+== Cast ==
+{{main|List of characters in Jurassic Park}}
+<blockquote class="toccolours" style="text-align:justify; width:95%; float:center; padding: 5px 5px 5px 5px; display:table;">
+<p style="text-align: center;">'''List indicator(s)'''</p>
+*A dark grey cell indicates the character was not in the film. 
+*Italics indicate a transition to a minor role, such as an extended flashback, after the initial appearance.
+</blockquote>
+{{-}}
+{| class="wikitable" style="text-align:center" width=99%
+! rowspan="2" width="15%" | Character
+! colspan="3" align="center" | Film
+|-
+! align="center" width="15%" | ''[[Jurassic Park (film)|Jurassic Park]]''
+! align="center" width="15%" | ''[[The Lost World: Jurassic Park]]'' 
+! align="center" width="15%" | ''[[Jurassic Park III]]''
+|-
+! [[Alan Grant (Jurassic Park character)|Dr. Alan Grant]]
+|  [[Sam Neill]] 
+| style="background-color:#D3D3D3;" | 
+| [[Sam Neill]]
+|-
+! [[List of characters in Jurassic Park#Dr. Ellie Sattler|Dr. Ellie Sattler]]
+|  [[Laura Dern]] 
+| style="background-color:#D3D3D3;" | 
+| ''Laura Dern''
+|-
+! [[Ian Malcolm (Jurassic Park)|Dr. Ian Malcolm]]
+| colspan="2" | [[Jeff Goldblum]]
+| colspan="1" style="background-color:#D3D3D3;" |
+|-
+! [[John Hammond (Jurassic Park character)|John Hammond]]
+| colspan="1" | [[Richard Attenborough]]
+| colspan="1" | ''Richard Attenborough''
+| style="background-color:#D3D3D3;" |
+|-
+! Alexis "Lex" Murphy
+| colspan="1" | [[Ariana Richards]]
+| colspan="1" | ''Ariana Richards''
+| style="background-color:#D3D3D3;" |
+|-
+! Tim Murphy
+| colspan="1" | [[Joseph Mazzello]]
+| colspan="1" | ''Joseph Mazzello''
+| style="background-color:#D3D3D3;" |
+|-
+! Dennis Nedry
+| [[Wayne Knight]]
+| colspan="2" style="background-color:#D3D3D3;" | 
+|-
+! Ray Arnold
+| [[Samuel L. Jackson]]
+| colspan="2" style="background-color:#D3D3D3;" | 
+|-
+! Robert Muldoon
+| [[Bob Peck]]
+| colspan="2" style="background-color:#D3D3D3;" | 
+|-
+! Donald Gennaro
+| [[Martin Ferrero]]
+| colspan="2" style="background-color:#D3D3D3;" | 
+|-
+! Dr. Sarah Harding
+| style="background-color:#D3D3D3;" | 
+| [[Julianne Moore]]
+| colspan="1" style="background-color:#D3D3D3;" |
+|-
+! Kelly Malcolm
+| style="background-color:#D3D3D3;" | 
+| [[Vanessa Lee Chester]]
+| colspan="1" style="background-color:#D3D3D3;" |
+|-
+! Roland Tembo
+| style="background-color:#D3D3D3;" | 
+| [[Pete Postlethwaite]]
+| colspan="1" style="background-color:#D3D3D3;" |
+|-
+! Nick Van Owen
+| style="background-color:#D3D3D3;" | 
+| [[Vince Vaughn]]
+| colspan="1" style="background-color:#D3D3D3;" |
+|-
+! Eddie Carr
+| style="background-color:#D3D3D3;" |
+| [[Richard Schiff]]
+| colspan="1" style="background-color:#D3D3D3;" |
+|}
+
+== Dinosaurs ==
+
+{{main|Biological issues in Jurassic Park}}
+{| class="wikitable" style="text-align:center" width=99%
+! colspan="3" align="center" | Film
+|-
+! align="center" width="20%" | ''[[Jurassic Park (film)|Jurassic Park]]''
+! align="center" width="20%" | ''[[The Lost World: Jurassic Park]]'' 
+! align="center" width="20%" | ''[[Jurassic Park III]]''
+|-
+| colspan="3" | ''[[Tyrannosaurus|Tyrannosaurus rex]]''  
+|-
+| colspan="3" | ''[[Velociraptor]]''
+|-
+| colspan="3" | ''[[Triceratops]]''
+|-
+| colspan="3" | ''[[Parasaurolophus]]''
+|-
+| colspan="3" | ''[[Gallimimus]]''
+|-
+| ''[[Brachiosaurus]]''
+| style="background-color:#D3D3D3;" | 
+| ''[[Brachiosaurus]]''
+|-
+| ''[[Dilophosaurus]]'' 
+| colspan="2" style="background-color:#D3D3D3;" | 
+|-
+| style="background-color:#D3D3D3;" | 
+| colspan="2" | ''[[Compsognathus]]''
+|-
+| style="background-color:#D3D3D3;" |
+| colspan="2" | ''[[Pteranodon]]''
+|-
+| style="background-color:#D3D3D3;" |
+| colspan="2" | ''[[Stegosaurus]]''  
+|-
+| style="background-color:#D3D3D3;" | 
+| ''[[Pachycephalosaurus]]''
+| style="background-color:#D3D3D3;" | 
+|-
+| style="background-color:#D3D3D3;" | 
+| ''[[Mamenchisaurus]]''
+| style="background-color:#D3D3D3;" | 
+|-
+| colspan="2" style="background-color:#D3D3D3;" | 
+| ''[[Spinosaurus]]''
+|-
+| colspan="2" style="background-color:#D3D3D3;" | 
+| ''[[Ankylosaurus]]''
+|-
+| colspan="2" style="background-color:#D3D3D3;" | 
+| ''[[Ceratosaurus]]''
+|-
+| colspan="2" style="background-color:#D3D3D3;" | 
+| ''[[Corythosaurus]]''
+|}
+
+==Reception==
+===Box office performance===
+{| class="wikitable" width=99% border="1"
+| rowspan="2" align="center" | '''Film''' 
+| rowspan="2" align="center" | '''Release date''' 
+| colspan="3" align="center" | '''Box office revenue'''
+| colspan="2" align="center" text="wrap" | '''Box office ranking''' 
+| rowspan="2" align="center" | '''Reference'''
+|- 
+| align="center" | '''United States'''
+| align="center" | '''Foreign'''
+| align="center" | '''Worldwide'''
+| align="center" | '''All time domestic'''
+| align="center" | '''All time worldwide'''
+|-
+| ''[[Jurassic Park (film)|Jurassic Park]]''
+| [[June 11]] [[1993]]
+| $357,067,947
+| $557,623,171
+| $914,691,118
+| align="center" | #12
+| align="center" | #10
+| align="center" | <ref>{{cite web | url=http://boxofficemojo.com/movies/?id=jurassicpark.htm | title=Jurassic Park (1993) | publisher=[[Box Office Mojo]] | accessdate=2007-06-26}}</ref>
+|-
+| ''[[The Lost World: Jurassic Park]]''
+| [[May 23]] [[1997]]
+| $229,086,679
+| $389,552,320
+| $618,638,999 
+| align="center" | #57
+| align="center" | #35
+| align="center" | <ref>{{cite web | url=http://boxofficemojo.com/movies/?id=jurassicpark2.htm | title=The Lost World: Jurassic Park (1997) | publisher=[[Box Office Mojo]] | accessdate=2007-06-26 }}</ref>
+|- 
+| ''[[Jurassic Park III]]''
+| [[July 18]] [[2001]]
+| $181,171,875  	    	 
+| $187,608,934  	   
+| $368,780,809  	   	  	     	   	 
+| align="center" | #101
+| align="center" | #107
+| align="center" | <ref>{{cite web | url=http://boxofficemojo.com/movies/?id=jurassicpark3.htm | title=Jurassic Park III (2001) | publisher=[[Box Office Mojo]] | accessdate=2007-06-26}}</ref>
+|-
+| ''Jurassic Park'' film series
+| 
+| '''$767,326,501'''
+| '''$1,134,784,425'''
+| '''$1,902,110,926'''
+| 
+| 
+| 
+|}
+
+===Critical reaction===
+{| class="wikitable" width=99% border="1"
+| rowspan="2" align="center" | '''Film''' 
+| colspan="2" align="center" | '''[[Rotten Tomatoes]]''' 
+| rowspan="2" align="center" | '''[[Metacritic]]''' 
+| rowspan="2" align="center" | '''[[Yahoo!|Yahoo! Movies]]'''
+|- 
+| align="center" | '''Overall'''
+| align="center" | '''Cream of the Crop'''
+|-
+| ''[[Jurassic Park (film)|Jurassic Park]]''
+| 85% (33 reviews)<ref>{{cite web | url=http://www.rottentomatoes.com/m/jurassic_park/ | title=Jurassic Park | publisher=[[Rotten Tomatoes]] | accessdate=2007-06-26}}</ref>
+| 89% (9 reviews)<ref>{{cite web | url=http://www.rottentomatoes.com/m/jurassic_park/?critic=creamcrop | title=Jurassic Park (Cream of the Crop) | publisher=[[Rotten Tomatoes]] | accessdate=2007-06-26}}</ref>
+| 68% (20 reviews)<ref>{{cite web | url=http://www.metacritic.com/video/titles/jurassicpark?q=Jurassic%20Park | title=Jurassic Park: Reviews | publisher=[[Metacritic]] | accessdate=2007-06-26 }}</ref>
+| B (7 reviews)<ref>{{cite web | url=http://movies.yahoo.com/movie/1800202853/info | title=Jurassic Park - Critics Reviews | publisher=[[Yahoo!|Yahoo! Movies]] | accessdate=2007-06-26 }}</ref>
+|-
+| ''[[The Lost World: Jurassic Park]]''
+| 51% (51 reviews)<ref>{{cite web | url=http://www.rottentomatoes.com/m/lost_world_jurassic_park/ | title=The Lost World: Jurassic Park | publisher=[[Rotten Tomatoes]] | accessdate=2007-06-26}}</ref>
+| 45% (11 reviews)<ref>{{cite web | url=http://www.rottentomatoes.com/m/lost_world_jurassic_park/?critic=creamcrop | title=The Lost World: Jurassic Park (Cream of the Crop) | publisher=[[Rotten Tomatoes]] | accessdate=2007-06-26 }}</ref>
+| 59% (18 reviews)<ref>{{cite web | url=http://www.metacritic.com/video/titles/lostworldjurassicpark?q=The Lost World: Jurassic Park | title=The Lost World: Jurassic Park: Reviews | publisher=[[Metacritic]] | accessdate=2007-06-26 }}</ref>
+| style="background-color:#D3D3D3;" | &nbsp;
+|- 
+| ''[[Jurassic Park III]]''
+| 48% (149 reviews)<ref>{{cite web | url=http://www.rottentomatoes.com/m/jurassic_park_iii/ | title=Jurassic Park III | publisher=[[Rotten Tomatoes]] | accessdate=2007-06-26}}</ref>
+| 33% (27 reviews)<ref>{{cite web | url=http://www.rottentomatoes.com/m/jurassic_park_iii/?critic=creamcrop | title=Jurassic Park III (Cream of the Crop) |  publisher=[[Rotten Tomatoes]] | accessdate=2007-06-26}}</ref>
+| 42% (30 reviews)<ref>{{cite web | url=http://www.metacritic.com/video/titles/jurassicpark3?q
+| title=Jurassic Park III: Reviews | publisher=[[Metacritic]] | accessdate=2007-05-15 }}</ref>
+| style="background-color:#D3D3D3;" | &nbsp;
+|}
+
+==Video games==
+{{main|Jurassic Park video games}}
+
+Ever since the announcement of the 1993 ''[[Jurassic Park (film)|Jurassic Park]]'' [[feature film]], developers [[Ocean Software]], [[BlueSky Software]] and [[Sega of America]] were licensed to produce games to be sold to coincide with the release of the film on the popular platforms of the time.
+
+Ocean Software released video games based on the 1993 film for [[NES]], [[Super NES]], [[Game Boy]], [[Personal computer|PC]]:[[DOS]], and [[Amiga]]. Sega of America released three games for Sega systems. Each game became substantial sellers, and spawned a second generation of video games for [[SNES]] and [[Game Boy]]. For the second film in the franchise, [[DreamWorks Interactive]] released 5 games for the most popular systems at the time. The third film had the biggest marketing push, spawning seven video games for [[Personal computer|PC]] and [[Game Boy Advance]]. A number of [[arcade games]] were also released for all three films.
+
+==References==
+{{Reflist|2}}
+
+==External links==
+*[http://www.jurassicpark.com/maingate_flash.html Official Site]
+*[http://www.jplegacy.org/ Jurassic Park Legacy]
+
+{{Jurassic Park}}
+
+[[Category:Jurassic Park]]
+[[Category:Action films by series]]
+[[Category:Science fiction films by series]]
+
+[[sv:Jurassic Park IV]]

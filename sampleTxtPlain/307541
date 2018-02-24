@@ -1,0 +1,168 @@
+
+;;''Silent Threat'';October 01, 1998;''Battle Pack'';January 01, 2003
+|genre = Space combat simulator
+|modes = Single player, multiplayer
+|ratings = ESRB: Everyone (6+);USK: 12+;ELSPA: 3+;OFLC: G8+
+|platforms = Windows, Amiga
+|media = 2 CD-ROMs
+|requirements = 133 MHz CPU, 32 MB RAM, 8X CD-ROM drive, DirectX 5.0, 240 MB available hard disk space, Windows 95;Amiga version;PowerPC or 68060 processor, 64 MB (min. 48 MB free) RAM, 8X CD-ROM drive, 3D Graphics processing unit#Graphics accelerators|accelerated graphics card (Warp3D supported)
+|input = Keyboard, mouse, (optional) joystick
+}}
+''Descent: FreeSpace &amp;mdash; The Great War'' is a 1998 space combat simulation IBM PC compatible computer game developed by Volition, Inc. when it was split off from Parallax Software. Published by Interplay Entertainment, it is also known as ''Conflict: FreeSpace &amp;mdash; The Great War'' in Europe. In 2001, it was ported to the Amiga platform as ''FreeSpace &amp;mdash; The Great War'' by Hyperion Entertainment.
+
+The story has the player taking up the role of a human pilot in the Galactic Terran Alliance as it engages in war with the alien Vasudan empire. Their feud is interrupted by the enigmatic Shivans who slaughter anyone in their sights. Putting aside their differences, the humans and Vasudans form an alliance, and the player is assigned to missions to stop the Shivan's genocidal advance. Featuring huge capital ships which explode spectacularly on destruction, the player pilots a starfighter and fights massive battles alongside competent wingmen amongst the stars to determine the fate of two races.
+
+''Descent: FreeSpace'' was well received as a single player space simulation which integrated all the desired features of its genre, but its multiplayer mode was plagued by lag and inaccurate statistic tracking. Its expansion, ''Silent Threat'' which comprised of additional missions was also released in 1998. The sequel ''FreeSpace 2'' was released a year later in 1999.
+
+Gameplay
+''Descent: FreeSpace &amp;mdash; The Great War'' (hereafter simply called ''FreeSpace'') puts the player in a starfighter flying out on missions to destroy or protect certain targets. It has been categorized more as a simulator for its many controls and commands than an arcade game.; Its flight model is however simple, akin to that of the game, ''Star Wars: TIE Fighter|TIE Fighter'' though it incorporates a bit of Newtonian physics such as precise collision physics.;; In the single player mode, the player flies through a series of missions in a wikt:campaign|campaign.
+
+The HUD-only interface of ''FreeSpace''Before flying a mission, the player goes through a briefing which details the background information and objectives. Ships and weapons can also be selected at this stage, which adds an element of strategy to the missions.; The main view when flying, is a First-person shooter|first-person-look from within the cockpit, but the only visible interface is that of the head-up display (HUD). The player can customize the HUD by changing its color, or toggling the information displays.;;
+
+Missions must be successfully completed for the campaign to advance.;A mission however can be considered successful if only a few of the primary objectives are completed.; Results of a mission can be persistent, an enemy capital ship allowed to flee may turn up in a later mission.; Completed missions can be replayed on the in-game mission simulator.; Training missions are mixed in with the regular missions (and can be skipped), gradually introducing players to advanced commands and techniques as more sophisticated missions come up next.;; The game has been said to be well playable with the keyboard alone, or together with a mouse or joystick.;;
+
+The game features multiplayer matches over local area network (LAN) or online. The modes offered are for players to band together to complete cooperative missions, or to split up into teams and eliminate the other team.; Voice chat is available, though advised to be only used on broadband or LAN.; Online gameplay was free over the services offered by Parallax Online, which also kept track of players' statistics and rankings.;
+
+Plot and setting
+''FreeSpace'' takes place in a fictional future where humans have discovered how to travel long distances by jumping into subspace, and have spread among the stars as the Galactic Terran Alliance (GTA).;
+; The player is thrust into the game during the fourteenth year of war between the GTA and the alien Parliamentary Vasudan Empire. The history behind this war is never explained to keep opportunities open for unrestricted development of the story in sequels and expansions.;
+; The plotline was described by Volition as multi-pathed, which would branch out depending on the player's mission performance.; This was intended to enhance the replayability value of the game.
+
+Clockwise from top left: Vasudans, Shivans, TerransPlayers are given the hint of the story from the start as the introduction movie serves as a Exposition (literary technique)#Prologue|prologue, establishing a Terran-Vasudan war, and giving a short glimpse of the fearsome alien Shivans. The player initially flies several combat missions against the Vasudans, before encountering the Shivan advance elements who indiscriminately attacks the two races. Unable to even target or damage the Shivans with the primary weapons, the player has to embark on several missions for the new Terran-Vasudan alliance to catch up with the Shivan's technological superiority,;
+; while fending off a Vasudan death cult, the Hammer of Light.;Hammer of Light: We are the Hammer of Light.The prophecy is your doom. 
+; The player becomes instrumental in capturing the Shivan cruiser SC Taranis.;Admiral Wolf: Congratulations, Alpha 1. You were instrumental in the first capture of a major Shivan vessel! 
+; The promise of rewards from capturing the Taranis turns out to be a MacGuffin. Its capture only serves as an introduction for the game's main boss, the Shivan superdestroyer SD Lucifer. The Lucifer makes its entrance by destroying the captured Taranis and many other allied ships, putting a stop to the encouraging mood which was being built up till then.;Admiral Shima: I wish your reassignments could have come under better circumstances. The loss of the Galatea is a great blow to all of us.We've lost many friends and loved ones.We also lost many great pilots. 
+;
+
+At certain points during the campaign, monologues by an extinct race, the Ancients, are told in Cut scene#Animated cut scenes|pre-rendered cutscenes.;
+; Evoking sadness, they detail the Ancients' encounters with the Shivans wikt:millennium|millennia ago, suggesting the long history of the Shivans' actions, and their effects on developing sentient species.;
+; They also foreshadow the destruction of a homeworld and key of all, reveal the method to destroy the Lucifer.;
+; The destruction of the Lucifer in the subspace between the Sol and Delta Serpentis jump nodes, however marks a twist in the ending; the subspace corridor is destroyed and Sol is cut off from the Terran survivors outside who have to face the possibility of meeting the Shivans again.;Protagonist: All the jump points from Earth have been destroyed. But the Shivans can rebuild them. I’m told we can expect them again. But not in my lifetime. Such is liberation. May you live to see your home. 
+; The expansion ''Silent Threat'' continues the story in a straight-forward manner. The player joins the Galactic Terran Intelligence (GTI) while the Terran-Vasudan alliance is in a fragile state, and is told to preserve the alliance by ruthlessly pacifying rebellious elements, and fending off remnants of the Shivan forces.;
+; However it all turns out to be a cover-up,;Admiral Scott: Therefore, we suspect the Loki-class fighters were engaged in a GTI cover up.The attack on your wing in the Beta Aquilae system may have been a botched attempt to cover up the Einstein's existence. 
+; as the GTI is plotting a Coup d'état|coup,;GTA Commander: The conspiracy is not confined to a rogue element within the GTI, but involves officers in the highest echelon of the intelligence directorate.Although their objectives remain unclear, command believes the conspirators intend to overthrow the GTA government and dissolve the GTA treaty. 
+; and has constructed a Terran-Shivan hybrid superdestroyer of their own, which the player must destroy.;GTA Commander: Reconnaissance also has evidence of a large-scale prototype construction involving Shivan technology, but no data regarding the configuration and capability of this vessel could be gathered. 
+;
+
+Development
+''FreeSpace'' was Volition's first project after Parallax Softwares split into them and Outrage Entertainment.;
+; It is not part of the ''Descent'' computer game series, and contained none of the ideas or the materials from them.;
+;;
+; It was only prefixed with ''Descent'' to avoid trademark issues with Mijenix Corporation's &quot;FreeSpace&quot;, a disk compression utility.;
+;;
+; Volition also used the term &quot;FreeSpace&quot; in the game to initially describe what became later known as subspace.; The game was conceived by Adam Pletcher to create the best space simulator ever, with all the features of space simulator games his team had found to be fun. Their primary inspirations, the games ''Star Wars: TIE Fighter|TIE Fighter'' and ''Wing Commander'' made their way into the game's flight model,; along with the influence of historical WWII dogfights. Themes from the fiction of Star Wars, Space: Above and Beyond, and Ender's Game form a part in shaping the background and story of the ''FreeSpace'' world. The chaotic battles between masses of ships commonly found in science-fiction anime became one of the features of ''FreeSpace''.;
+;
+
+Apogee Software announced on December 12, 1997 they would be exclusively publishing ''FreeSpace'' for the first three months before handing the publishing rights back to Interplay Entertainment.;
+; This was part of their agreement with Interplay for the latter's purchase of the rights to ''Descent'', and Apogee decided to release ''FreeSpace'' as shareware with them as the merchant of the registered version. Interplay however bought the full rights to ''FreeSpace'' from Apogee in late April, 1998, keeping the ownership of the game solely to themselves.;
+;
+
+Initially staffed with a crew of five, the project grew to encompass 17 people.; The game's code was built from scratch. Most of the software modules were interlinked with each other, increasing the job's complexity and difficulty. The code incorporated little portions of ''Descent''s code for specific functions.; Kulas, who had worked on several versions of ''Flight Simulator'' and ''Descent'', brought his experience into the game's artificial intelligence (AI). The game's difficulty levels are based on advancing the AI rather than simply increasing damage and &quot;hit points&quot; of enemies.;
+; Realism was incorporated into the game's physics such that an impact on one part of a starfighter's body will send it spinning, unlike the &quot;sphere-based collision nonsense&quot;. Due to time and budget constraints, many of the initially planned cutscenes and stories were cut from the final product.;
+; Examples of such cuts include a campaign path where the Terran-Vasudan alliance goes on a retreat, and scenes of racial tension within the alliance.;
+; Despite the promise of a deathmatch mode for multiplayer,; it was cut from the final product.; The expansion ''Silent Threat'' also suffered the same fate of cuts due to budgetary and time concerns.;
+
+Volition aimed for a quality release and promised to deliver a product without major bugs. Minor bugs would be fixed in a prompt manner.; The shipped game however had deficiencies admitted by the team, such as the multiplayer code, and a few design issues.; The game underwent four patches, which rid much of the bugs and improved the multiplayer performance.; Complaints about an online mission giving unfair scores led to Volition removing the mission from scoring play.;
+
+; Another patch allowed EAX capability to be enabled for Creative Sound Blaster sound cards.;
+; Interplay played its part in drumming up the community's interest by holding contests, and expanding material for the ''FreeSpace'' universe.;
+; While Volition created official star maps, and released Vasudan voice clips and story development notes. Interplay hired science-fiction writers such as Fred Saberhagen, Simon Hawke, and Jeff Grubb to write weekly ''FreeSpace'' stories for two months.;
+; Prepping the way for ''Silent Threat''s release, Interplay held a contest from July 28 to August 25, 1998, in which the submitted fan-designed missions could win their authors prizes such as free copies of ''Silent Threat'', ''FreeSpace'' apparel, and gaming hardware.;
+; Entries were judged by a panel from ''PC Gamer'', and qualified entries constituted half of the missions in ''Silent Threat''.;
+;;
+
+On December 14, 1999, Hyperion Entertainment announced their acquisition of the license to port ''FreeSpace'' to the Amiga system.;
+; The publisher was changed to Haage &amp; Partner Computer on October 18, 2001.;
+; Despite the game's official release being announced for December 2001,;
+; the approval to do so could only be gotten on January 07, 2002.;
+; The game was shipped without a printed manual,;
+; but had additional German and French language support.; Hyperion had stated they would port over ''Silent Threat'' if the ''FreeSpace'' port sold well. To date, ''Silent Threat'' has yet to be ported over to the Amiga platform.
+
+Reception
+;
+{| class=&quot;wikitable&quot;
+! colspan=&quot;2&quot; style=&quot;font-size:120%; text-align: center; background-color: #d1dbdf;&quot; | ''Descent: FreeSpace -;The Great War'' reviews
+|-
+! style=&quot;background-color: #e8f4f8;&quot; | Publication
+! style=&quot;background-color: #e8f4f8;&quot; | Score
+|-
+|;GameSpot
+|;8.9 / 10;
+;
+|-
+|;''GamePro''
+|;4.5 / 5;
+;
+|-
+|;Game Revolution
+|;A-;
+;
+|-
+|;''Computer and Video Games''
+|;8.9 / 10;
+;
+|-
+|;''Total Amiga''
+|;5 / 5;
+;
+|-
+! colspan=&quot;2&quot; style=&quot;font-size:120%; text-align: center; background-color: #d1dbdf;&quot; | Compilations of multiple reviews
+|-
+! style=&quot;background-color: #e8f4f8;&quot; | Compiler
+! style=&quot;background-color: #e8f4f8;&quot; | Score
+|-
+|;Game Rankings
+|align=&quot;center&quot; | 82.0%;
+;
+|}
+;
+''FreeSpace'', which was placed 20th in ''PC Gamer#PC Gamer UK|PC Gamer UK''s 1999 Top 100 Awards,;
+; was frequently compared against ''Wing Commander: Prophecy'' and ''Star Wars: X-Wing vs. TIE Fighter|X-Wing vs. TIE Fighter'' in its reviews, and stood up well against them. It has been said to be a combination of the two games, but possessing the better qualities of each; the player is just a pilot caught up in an wikt:overarching|overarching plot fighting amongst fleets of starships.;
+;;
+; As the game took inspiration from space simulation classics and offered comparatively little of its own innovation, it was called unoriginal by a few reviewers.;
+;;
+;
+
+Most of the reviewers glossed over the game's story but a few found it lacking the depth needed to captivate the player.;; There are suggestions that the game would have been much better if the player had a greater obvious role in controlling the outcome of the story. Without this impetus, the reviewers found themselves simply playing a &quot;very sweet looking arcade title&quot;,; and felt detached from their wingmen and environment.; This feeling was made worse in ''Silent Threat'' with its &quot;cold and inhuman&quot; briefings and non-player characters.;
+
+The explosions in the game have impressed a lot of reviewersReviewers called ''FreeSpace''s graphics beautiful, claiming asteroids are realistically rendered against softly glowing nebulae, while galaxies and stars of varying colors lay in the background.;;;; A few others begged to differ, stating the 3D effects were less spectacular than the software rendered version, the nebulae were unconvincing, and the ships' textures were blurry and lacking detail.;;
+;; However all reviewers were united in stating that the explosions in ''FreeSpace'' were the most spectacular they have ever seen. They were impressed with how a ship undergoing destruction would have electricity arcing over the hull, buckling under multiple small explosions before bursting in a large fireball with debris being flung out, leaving wreckage where the ship once stood. Sharky Extreme was dismayed by the game's inability to go beyond 640x480 screen size.; The game's AI garnered several praises from the reviewers.; The player's wingmen were competent on their own and could be trusted with orders, even to the extent of co-ordinating attacks on capital ships.;;;
+; Likewise, the same could be said of the enemies as they act in concert with each other to achieve their squadron's objectives.;
+;;;
+
+Despite one reviewer's glowing praise for the ''FreeSpace''s online multiplayer over cable modems,;
+; the majority at that time were on dial-up access and roundly condemned the online multiplayer mode. The chief complaint was lag.;
+; GameSpot's Desslock was amazed the game dared to advertise as being able to support 16 players online when it could not even support two players on 56k modems. Combatsim.com's Fitzgerald called the multiplayer &quot;bug ridden&quot; after enduring a lot of his shots not registering hits or kills on enemy ships after over 40 minutes of play; all of it due to lag.;
+; Other reviewers found their situations similar with their guns only firing, seconds after depressing the trigger, and ships warping all over the place.;
+;;
+;
+
+''Silent Threat'' was judged to be a decent but uninspiring add-on. The campaign missions were either standard escort or destroy missions, and offered no new equipment which were unable to compete against the older equipment.;
+;; The stand-alone missions were however toasted for the way they were conceived. The contest winning entries gave breadth to the game's variety of missions, and encouraged greater community participation. This was possible with the free editor, FreeSpace Editor (FRED), which has been called the best space simulation editor. Able to import personal audio and 3D animation files, the editor allows users the same capability as Volition to create their own missions.; The possibilities offered by the editor resulted in a call to the community to stop the flood of &quot;Battle of Endor&quot;-type missions, and to design missions following Volition's Jason Hoffoss' Zen philosophy of accomplishing more with less.;
+;
+
+References
+
+
+External links
+* [http://www.volition-inc.com/fs/ Official ''FreeSpace &amp;mdash; The Great War'' website]
+* [http://www.hyperion-entertainment.biz:8080/projects/freespace/index_html?arch=amiga&amp;id=freespace ''FreeSpace &amp;mdash; The Great War''] - Hyperion Entertainment's website for the Amiga port
+* 
+* 
+* 
+* 
+
+Category:1998 video games
+Category:Amiga games
+Category:Cooperative video games
+Category:FreeSpace series
+Category:Science fiction video games
+Category:Space combat simulators
+Category:Space operas
+Category:Windows games
+
+cs:Freespace
+de:Freespace
+fr:Descent: FreeSpace
+ru:Descent: FreeSpace
+sk:FreeSpace

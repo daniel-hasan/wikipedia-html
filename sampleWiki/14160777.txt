@@ -1,0 +1,670 @@
+{{Infobox hurricane season
+| Basin=Atl
+| Year=2007
+| Track=
+| First storm formed=[[May 9]], [[2007]]
+| Last storm dissipated=[[December 13]], [[2007]]
+| Strongest storm name=''[[Hurricane Dean (2007)|Dean]]''
+| Strongest storm pressure=906
+| Strongest storm winds=145
+| Total depressions=17
+| Total storms=15
+| Total hurricanes=6
+| Total intense=2
+| Damagespre=~
+| Damages=4600
+| Fatalities=≥417
+| five seasons=[[2005 Atlantic hurricane season|2005]], [[2006 Atlantic hurricane season|2006]], '''2007''', [[2008 Atlantic hurricane season|2008]], [[2009 Atlantic hurricane season|2009]]
+}}
+
+The '''2007 Atlantic hurricane season''' was an event in the annual cycle of [[tropical cyclone]] formation. It officially started [[June 1]], [[2007]], and ended [[November 30]], [[2007]], dates that conventionally delimit the period when most [[tropical cyclone]]s form in the [[Atlantic basin]] during the year. However, the formation of [[Subtropical Storm Andrea (2007)|Subtropical Storm Andrea]] on [[May 9]], [[2007]] marked an earlier beginning to the season, and the season extended past the official end of the season when [[Tropical Storm Olga (2007)|Tropical Storm Olga]] developed on [[December 11]].
+
+On [[August 20]], [[Hurricane Dean]] was upgraded to category 5 status and made landfall at that strength on the Mexican [[Yucatán Peninsula]]. When [[Hurricane Felix]] reached category 5 status, 2007 became one of four recorded Atlantic seasons that have had more than one category 5 storm &mdash; the others being [[1960 Atlantic hurricane season|1960]], [[1961 Atlantic hurricane season|1961]] and [[2005 Atlantic hurricane season|2005]] &mdash; and the only time two Atlantic hurricanes have ever made landfall at Category 5 strength in the same season. Hurricane Humberto also became the fastest developing storm on record to be so close to land. It strengthened from a 35 mph (55 km/h) tropical depression to a 90 mph (150 km/h) hurricane in 14 hours while {{convert|15|mi|km|0}} off the coast of Texas. <!--Also, it was the first season on record that an Atlantic hurricane and an eastern Pacific hurricane made landfall on the same day (Felix and Henriette). [[Hurricane Lorenzo (2007)|Hurricane Lorenzo]] made landfall in southeastern Mexico as a Category 1 hurricane, killing 5 people.-->  September had a record tying 8 storms, but the strengths and durations of the storms were low. [[Hurricane Humberto (2007)|Hurricane Humberto]]  became the first hurricane to make landfall in the U.S. since [[Hurricane Wilma]] in 2005. <ref name="2007 Yearly Tropical Cyclone Activity to Date">{{cite web|title=COAPS - Seasonal Tropical Cyclone Activity|url=http://www.coaps.fsu.edu/~maue/tropical/}}</ref>
+
+==Seasonal forecasts==
+[[Tropical cyclone seasonal forecasting|Forecasts of hurricane activity]] are issued before each hurricane season by noted hurricane experts [[Philip J. Klotzbach]], Dr. [[William M. Gray]], and their associates at [[Colorado State University]]; and separately by [[National Oceanic and Atmospheric Administration|NOAA]] forecasters.
+
+Klotzbach's team (formerly led by Dr. Gray) defined the average number of storms per season (1950 to 2000) as 9.6 tropical storms, 5.9 hurricanes, and 2.3 major hurricanes (storms exceeding Category 3 strength in the [[Saffir-Simpson Hurricane Scale]]). A normal season, as defined by NOAA, has 9 to 12 named storms, with 5 to 7 of those reaching hurricane strength, and 1 to 3 major hurricanes.<ref name="Gray Dec">{{cite web|author=Philip J. Klotzbach and William M. Gray|date=[[2006-12-08]]|title=Extended Range Forecast of Atlantic Seasonal Hurricane Activity and U.S. Landfall Strike Probability for 2007|publisher=Colorado State University|accessdate=2006-12-08|url=http://hurricane.atmos.colostate.edu/forecasts/2006/dec2006/ }}</ref><ref name="CPCAHOBI">{{cite web|author=Climate Prediction Center|title=BACKGROUND INFORMATION: THE NORTH ATLANTIC HURRICANE SEASON|publisher=National Oceanic and Atmospheric Administration| date=[[2006-08-08]]| accessdate=2006-12-08|url= http://www.cpc.noaa.gov/products/outlooks/background_information.shtml#NOAADEF}}</ref>
+{| class="toccolours" cellspacing=0 cellpadding=3 style="float:right; margin-left:1em; text-align:right; clear: right;"
+|+'''Predictions of tropical activity in the 2007 season'''
+|- style="background:#ccccff"
+|align="center"|'''Source'''
+|align="center"|'''Date'''
+|align="center"|'''<font style="font-size: 80%;">Named<br/>storms</font>'''
+|align="center"|'''<font style="font-size: 80%;">Hurricanes</font>'''
+|align="center"|'''<font style="font-size: 80%;">Major<br/>hurricanes</font>'''
+|-
+|align="left"|[[Colorado State University|CSU]]
+|align="left"|''Average <font style="font-size: 80%;">(1950–2000)</font>''<ref name="Gray Dec"/>
+|9.6
+|5.9
+|2.3
+|-
+|align="left"|[[National Oceanic and Atmospheric Administration|NOAA]]
+|align="left"|''Average <font style="font-size: 80%;">(1950–2005)</font>''<ref name="CPCAHOBI"/>
+|11.0
+|6.2
+|2.7
+|-
+|align="center" colspan="2"|''Record high activity''
+|[[2005 Atlantic hurricane season|28]]
+|[[2005 Atlantic hurricane season|15]]
+|[[1950 Atlantic hurricane season|8]]
+|-
+|align="center" colspan="2"|''Record low activity''
+|[[1983 Atlantic hurricane season|4]]
+|[[1982 Atlantic hurricane season|2]]
+|0
+|-
+|colspan="5" align="center"|––––––––––––––––––––––––––––––––––––––––––
+|-
+|align="left"|CSU
+|align="left"|[[December 8]], [[2006]]
+|14
+|7
+|3
+|-
+|align="left"|CSU
+|align="left"|[[April 3]], [[2007]]
+|17
+|9
+|5
+|-
+|align="left"|NOAA
+|align="left"|[[May 22]], [[2007]]
+|13–17
+|7–10
+|3–5
+|-
+|align="left"|CSU
+|align="left"|[[May 31]], [[2007]]
+|17
+|9
+|5
+|-
+|align="left"|[[Met Office|UKMO]]
+|align="left"|[[June 19]], [[2007]]
+|9–15
+|N/A
+|N/A
+|-
+|align="left"|CSU
+|align="left"|[[August 3]], [[2007]]
+|15
+|8
+|4
+|-
+|align="left"|NOAA
+|align="left"|[[August 9]], [[2007]]
+|13–16
+|7–9
+|3–5
+|-
+|align="left"|CSU
+|align="left"|[[September 4]], [[2007]]
+|15
+|7
+|4
+|-
+|align="left"|CSU
+|align="left"|[[October 2]], [[2007]]
+|17
+|7
+|3
+|-
+|colspan="5" align="center"|––––––––––––––––––––––––––––––––––––––––––
+|-
+|align="center" colspan="2"|'''Actual activity'''
+| 15
+| 6
+| 2
+|}
+
+===Pre-season forecasts===
+On [[December 8]], [[2006]], Klotzbach's team issued its first extended-range forecast for the 2007 season, predicting above-average activity (14 named storms, 7 hurricanes, 3 of Category 3 or higher).<ref name="Gray Dec"/> 
+
+The team predicted a high potential for at least one major hurricane to directly impact the [[United States]]: the forecast indicated a 64% chance of at least one major hurricane striking the U.S. mainland, which included a 40% chance of at least one major hurricane strike on the [[East Coast of the United States]] including the Florida peninsula, and a 40% chance of at least one major hurricane strike on the [[Gulf Coast of the United States]] from the [[Florida Panhandle]] westward. The potential for major hurricane activity in the [[Caribbean]] was forecast to be above average, and the team predicted [[El Niño-Southern Oscillation|El Niño]] to dissipate by the active portion of the season.<ref name="Gray Dec"/>
+
+On [[April 3]] a new forecast was issued, calling for a very active hurricane season of 17 named storms, 9 hurricanes and 5 intense hurricanes.<ref name="Klotzbach April newsrelease">{{cite news|url=http://newsinfo.colostate.edu/index.asp?url=news_item_display&news_item_id=718105263|title=Colorado State forecast team calls for very active 2007 hurricane season|publisher=[[Colorado State University]]|date=[[2007-04-03]]|accessdate=2007-04-03}}</ref> 
+
+The increase in the forecast was attributed to the rapid dissipation of [[El Niño]] conditions. The team also forecast a neutral or weak-to-moderate [[La Niña]] for the hurricane season, and noted that [[sea surface temperature]]s were much higher than long-term averages.<ref name="Gray April">{{cite web|author=Philip J. Klotzbach and William M. Gray|date=[[2007-04-03]]|title=Extended Range Forecast of Atlantic Seasonal Hurricane Activity and U.S. Landfall Strike Probability for 2007|publisher=Colorado State University|accessdate=2007-04-03|url=http://hurricane.atmos.colostate.edu/Forecasts/2007/april2007/ }}</ref> The potential for at least one major hurricane impacting the U.S. was increased to 74%, with the U.S. East Coast potential increased to 50% and from the Florida Panhandle westward to [[Brownsville, Texas|Brownsville]], [[Texas]] increased to 49%.<ref name="Gray April"/> However, Klotzbach noted that while they were calling for an active season, it was not forecast to be "as active as the 2004 and 2005 seasons".<ref name="Klotzbach April newsrelease"/>
+
+On [[May 22]], [[2007]], [[NOAA]] released their pre-season forecast for the 2007 season.  They predicted 13 to 17 named storms, with 7 to 10 becoming hurricanes, and 3 to 5 becoming major hurricanes.<ref name="NOAA May">{{cite web|author=[[National Oceanic and Atmospheric Administration|NOAA]]|date=[[2007-05-22]]| title=NOAA Predicts Above Normal 2007 Atlantic Hurricane Season| publisher=National Oceanic and Atmospheric Administration| accessdate=2007-05-22|url=http://www.noaanews.noaa.gov/stories2007/s2864.htm}}</ref>
+
+One day before the official start of the season, the CSU team issued their final set of pre-season forecasts, making no change to the numbers from their April forecast.<ref name="Gray June">{{cite web|author=Philip J. Klotzbach and William M. Gray|date=[[2007-05-31]]|title=Extended Range Forecast of Atlantic Seasonal Hurricane Activity and U.S. Landfall Strike Probability for 2007|publisher=Colorado State University|accessdate=2007-05-31|url=http://hurricane.atmos.colostate.edu/Forecasts/2007/june2007/ }}</ref>
+<div style="clear: both"></div>
+
+On [[June 19]], [[2007]], The [[United Kingdom]] [[Met Office]] released<ref name="UKMETOFFICE">{{cite web|author=UK Met Office|title=Met Office: Tropical cyclone forecast verification|publisher=UK Met Office| date=[[2007-06-19]]| accessdate=2007-06-24|url= http://www.metoffice.gov.uk/weather/tropicalcyclone/northatlantic.html}}</ref> predictions for the remainder of the season based on a new prediction model. The Met Office predicted 10 named storms, not including Andrea and Barry, with a 70% chance of 7–13 named storms. The forecast did not include specific predictions for the number of hurricanes or major hurricanes.<ref name="UKMETOFFICE"/>
+
+===Midseason outlooks===
+On [[August 3]], [[2007]], Klotzbach's team lowered their season estimate to 15 named storms, with eight becoming hurricanes and four becoming major hurricanes. They noted that conditions had become slightly less favorable for storms than they were earlier in the year. Sea surface temperature anomalies were cooler, and there were several incidences of [[Saharan Air Layer]] outbreaks. [[El Niño-Southern Oscillation|ENSO]] conditions were also noted to have been slightly cooler.<ref name="Gray Aug">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2007-08-03]]
+| title=Extended Range Forecast of Atlantic Seasonal Hurricane Activity and U.S. Landfall Strike Probability for 2007
+| publisher=Colorado State University 
+| accessdate=2007-08-03
+| url=http://typhoon.atmos.colostate.edu/Forecasts/2007/aug2007/aug2007.pdf
+| format=PDF
+}}</ref>
+
+On [[August 9]], [[2007]], the [[National Oceanic and Atmospheric Administration|NOAA]] revised their season estimate slightly downwards to 13–16 named storms, with 7–9 becoming hurricanes and 3–5 becoming major hurricanes. However, they reaffirmed their call for an above-average season. They attributed the increase in confidence of an above-average season to warmer-than-normal [[sea surface temperature]]s in parts of the [[Atlantic Ocean]] and [[Caribbean Sea]], as well as an updated forecast that [[El Niño-Southern Oscillation|La Niña]] conditions were likely during the peak of the season.<ref name="NOAA August">{{
+cite web
+| author=[[National Oceanic and Atmospheric Administration|NOAA]]
+| year=[[2007-08-09]]
+| title=NOAA updates Atlantic hurricane season outlook
+| publisher=National Oceanic and Atmospheric Administration
+| accessdate=2007-08-09
+| url=http://www.noaanews.noaa.gov/stories2007/s2905.htm}}</ref>
+
+On [[September 4]], [[2007]], Klotzbach's team lowered their season estimate to 15 named storms, with 7 becoming hurricanes and 4 becoming major hurricanes.<ref name="Gray Sep">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2007-09-04]]
+| title=FORECAST OF ATLANTIC HURRICANE ACTIVITY FOR SEPTEMBER AND OCTOBER 2007 AND SEASONAL UPDATE THROUGH AUGUST
+| publisher=Colorado State University 
+| accessdate=2007-09-04
+| url=http://hurricane.atmos.colostate.edu/Forecasts/2007/sep2007/sep2007.pdf
+| format=PDF
+}}</ref>
+
+On [[October 2]], [[2007]], Klotzbach's team adapted their season estimate to 17 named storms, with 7 becoming hurricanes and 3 becoming major hurricanes. The estimate of 7 hurricanes assumed that [[Hurricane Karen (2007)|Karen]] was a hurricane<ref name="Gray Oct">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2007-10-02]]
+| title=FORECAST OF ATLANTIC HURRICANE ACTIVITY FOR OCTOBER-NOVEMBER 2007 AND SEASONAL UPDATE THROUGH SEPTEMBER
+| publisher=Colorado State University 
+| accessdate=2007-10-02
+| url=http://hurricane.atmos.colostate.edu/Forecasts/2007/oct2007/oct2007.pdf
+| format=PDF
+}}</ref>
+
+==Storms==
+{{seealso|Timeline of the 2007 Atlantic hurricane season}}
+===Subtropical Storm Andrea===
+{{Infobox hurricane small
+|name=Subtropical Storm Andrea
+|category=storm
+|type=subtropical storm
+|image=Subtropical Storm Andrea 2007.jpg
+|track=Andrea 2007 track.png
+|formed=[[May 9]]
+|dissipated=[[May 11]]
+|highest winds=60&nbsp;[[miles per hour|mph]] (65&nbsp;[[kilometres per hour|km/h]])
+|lowest pressure=1001&nbsp;[[mbar]] ([[hPa]])
+}}
+{{hurricane main|Subtropical Storm Andrea (2007)}}
+A large [[extratropical cyclone]] that formed off the mid-Atlantic coast on [[May 6]] deepened steadily along a cold front that pushed through [[Florida]]. When the system lost most of its [[baroclinic]] support, development ceased until its low moved into warmer waters near the [[Bahamas]]. However, interaction between the low and a strong high-pressure system to the north generated hurricane-force winds in the system. Decreasing vertical wind shear allowed the storm to generate deeper convection much closer to the center.<ref name="andreatcr">{{cite web|url=http://www.nhc.noaa.gov/pdf/TCR-AL012007_Andrea.pdf|title=Tropical Cyclone Report for Subtropical Storm Andrea|accessdate=2007-11-29|author=|Jaime R. Rhome|coauthors=Jack Bevin; Mark Willis|date=2007-06-01|publisher=National Hurricane Center}}</ref> By [[May 9]] the previously [[extratropical cyclone]] had transformed into Subtropical Storm Andrea while located about 140 miles (225 km) southeast of [[Savannah, Georgia|Savannah]], [[Georgia (U.S. state)|Georgia]].<ref name="01LAdvisory1">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al01/al012007.public.001.shtml?|title=Subtropical Storm Andrea Advisory 1|accessdate=2007-11-30|author=Knabb|date=2007-05-09|publisher=National Hurricane Center}}</ref>
+
+Tropical storm watches were immediately issued for parts of coastal [[Georgia (U.S. state)|Georgia]] and [[Florida]], though all were later dropped.<ref name="andreatcr"/> Andrea was the first named storm to form in May since [[1981 Atlantic hurricane season#Tropical Storm Arlene|Arlene]] in the [[1981 Atlantic hurricane season|1981]], and the first pre-season storm since [[Tropical Storm Ana (2003)|Ana]] in April [[2003 Atlantic hurricane season|2003]].<ref name="offseasonsrc">
+{{cite web|url=http://www.hurricanecity.com/offseason.htm|title=Storms & Hurricanes in the off season|accessdate=2007-11-30|author=Unisys|publisher=Hurricane City}}</ref> Andrea began its subtropical phase as it was weakening, and continued this deterioration as it moved southward into an environment with higher wind shear. By [[May 11]] Andrea had lost all significant convection and degenerated into a remnant low. Though it produced intermittent bursts of convection, Andrea's chance of regeneration was extinguished when an advancing cold front pushed it northward and eventually absorbed the system.<ref name="andreatcr"/> 
+
+The storm produced rough surf and large waves along the coastline from [[Florida]] to [[North Carolina]], causing beach erosion and some damage.<ref name="may9stds">{{cite web|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Disturbance/2007050903.WONT41author=Brown|title=Special Tropical Disturbance Statement for May 9|publisher=National Hurricane Center|accessdate=2007-05-09|author=Brown|date=2007-05-08}}</ref> No deaths were directly attributable to Andrea, though six people died from the waves generated during its extratropical phase. The storm was also blamed for high winds that could have fueled  [[2007 Okefenokee wildfires|severe wildfires]] in northern [[Florida]] and southern [[Georgia (U.S. state|Georgia]].<ref name="lifetime">{{cite news|url=http://www.orlandosentinel.com/news/local/state/orl-fire1207may12,0,3010146.story?coll=orl-news-headlines-state|title='Fire of a lifetime' hits North Florida|accessdate=2007-05-13|author=Kevin Spear and Jim Stratton|date=2007-05-12|publisher=Orlando Sentinel}}</ref> However, because Andrea never made landfall, most of the resulting damage was associated with the of large waves, higher than normal tides, associated coastal flooding, and beach erosion caused by the storm.<ref name="andreatcr"/>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/ANDREA.shtml? advisory archive] on Subtropical Storm Andrea.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL012007_Andrea.pdf report] on Subtropical Storm Andrea.
+<div style="clear:both;"></div>
+
+===Tropical Storm Barry===
+{{Infobox hurricane small
+|name=Tropical Storm Barry
+|category=storm
+|type=tropical storm
+|image=Barry 01 jun 2007 1905Z.jpg
+|track=Barry 2007 track.png
+|formed=[[June 1]]
+|dissipated=[[June 2]]
+|highest winds=60 mph (95 km/h)
+|lowest pressure=997 [[mbar]]
+}}
+{{hurricane main|Tropical Storm Barry (2007)}}
+On [[May 30]], a broad low pressure area formed in the [[Gulf of Honduras]].  Moving northward, the system slowly deepened as it moved through the northwest Caribbean sea into the southeast [[Gulf of Mexico]].  On [[June 1]], the first day of the officially defined hurricane season, this cyclone organized into Tropical Storm Barry despite being located in an area of high shear, and warnings were immediately issued along the Western Florida coastline.  Barry provided much-needed precipitation to parts of Florida and Georgia which were experiencing drought conditions in the January to May months.<ref>[http://www.srh.noaa.gov/data/warn_archive/TAE/ESF/0524_094417.txt Drought Information Statement - National Weather Service Tallahassee, FL]</ref> Barry made landfall near [[Tampa Bay, Florida|Tampa Bay]], [[Florida]] on [[June 2]] as a minimal tropical storm. Soon thereafter Barry was downgraded to a tropical depression as it began its extratropical transition.  Barry became an extratropical cyclone late in the afternoon of [[June 2]].  On [[June 3]], the cyclone moved up the coast of the Carolinas bringing rains into the [[Mid-Atlantic states]] and [[New England]].  By [[June 5]] its center had moved northward into [[Atlantic Canada]].
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/BARRY.shtml? advisory archive] on Tropical Storm Barry.
+* See the HPC's [http://www.hpc.ncep.noaa.gov/tropical/BARRY/BARRY_archive.shtml advisory archive] on Tropical Storm Barry.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL022007_Barry.pdf report] on Tropical Storm Barry.
+
+<div style="clear: both"></div>
+
+===Tropical Storm Chantal===
+{{Infobox hurricane small
+|name=Tropical Storm Chantal
+|category=storm
+|type=tropical storm
+|image=Chantal 31 july 2007 1328Z.jpg
+|track=Chantal 2007 track.png
+|formed=[[July 31]]
+|dissipated=[[August 1]]
+|highest winds=50 mph (85 km/h)
+|lowest pressure=994 [[mbar]]
+}}
+{{hurricane main|Tropical Storm Chantal (2007)}}
+An area of [[low pressure]] developed near the [[Bahamas]] on [[July 28]], and slowly organized while moving to the north-northeast. Late on [[July 30]], it was upgraded to a tropical depression, the third of the season, after maintaining deep convection near the center for most of the day.
+
+On [[July 31]], the system strengthened into a tropical storm south of [[Nova Scotia]], the first in nearly two months. However, Chantal became extratropical later that day as it tracked towards [[Newfoundland (island)|Newfoundland]] over the cooler waters of the north Atlantic. 
+
+On [[August 1]], flooding was reported from [[Placentia, Newfoundland and Labrador|Placentia]] to the capital city of [[St. John's, Newfoundland and Labrador|St. John's]], where about 100 mm (4 inches) of rain caused the postponement of the annual [[Royal St. John's Regatta]]. Up to 150 mm (6 inches) of rain fell in the [[Whitbourne, Newfoundland and Labrador|Whitbourne]] area, according to [[Environment Canada]]. <ref>http://www.thestar.com/News/article/242061</ref> The most serious flooding was across the southern [[Avalon Peninsula]], where dozens of roads were washed out, houses were flooded above their basements and several communities were isolated.<ref>http://www.canada.com/cityguides/halifax/info/story.html?id=b3f93a19-1a81-4558-b1c8-3a585572d909&k=72967</ref> Ferry service between [[Argentia, Newfoundland and Labrador|Argentia]] and [[North Sydney, Nova Scotia|North Sydney]], [[Nova Scotia]], was suspended, and one ferry was diverted to [[Port aux Basques, Newfoundland and Labrador|Port aux Basques]].<ref>http://ca.news.yahoo.com/s/capress/070802/national/bc_tropical_weather_damage_1</ref>
+
+States of emergency were declared in at least five communities in the areas surrounding [[Placentia Bay]] and [[Conception Bay]], and the [[Newfoundland and Labrador]] Municipal Affairs Minister [[Jack Byrne]] has requested a federal [[disaster area]] declaration. Damage is estimated to be well into the millions of dollars, with at least $4 million in damage in the town of Placentia alone.<ref>http://ca.news.yahoo.com/s/capress/070802/national/bc_tropical_weather_damage_1</ref>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/CHANTAL.shtml? advisory archive] on Tropical Storm Chantal.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL032007_Chantal.pdf report] on Tropical Storm Chantal.
+<div style="clear: both"></div>
+
+===Hurricane Dean===
+{{Infobox hurricane small
+|name=Hurricane Dean
+|category=cat5
+|type=hurricane
+|image=Dean 20 aug 2007 1841Z.jpg
+|track=Dean 2007 track.png
+|formed=[[August 13]]
+|dissipated=[[August 23]]
+|highest winds=165 mph (270 km/h)
+|lowest pressure=906 [[mbar]]
+}}
+{{hurricane main|Hurricane Dean (2007)}}
+
+A vigorous tropical wave moved off the west coast of [[Africa]] in the second week of August. It quickly organized itself and formed into a low on [[August 12]]. Tropical Depression Four formed on [[August 13]] in the eastern Atlantic from a [[tropical wave]] to the south of [[Cape Verde]]. The depression was already exhibiting persistent deep convection, albeit confined to the western portion of its circulation due to easterly wind shear.<ref name="td4disc1">{{cite web|author=Knabb|year=2007|title=Tropical Depression Four Discussion One|publisher=National Hurricane Center|accessdate=2007-08-14|url=http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.001.shtml?}}</ref> The depression was expected to strengthen significantly over the following days<ref name="td4disc1"/> due to abating [[wind shear]] and warming [[sea surface temperature]]s which created conditions favorable for [[tropical cyclogenesis|tropical intensification]].<ref name="td4disc2">{{cite web|author=Knabb|year=2007|title=Tropical Depression Four Discussion Two|publisher=National Hurricane Center|accessdate=2007-08-14|url=http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.002.shtml?}}</ref> The depression moved briskly westward, south of a deep layered ridge,<ref name="td4disc3">{{cite web|author=Brown/Franklin|year=2007|title=Tropical Depression Four Discussion Three|publisher=National Hurricane Center|accessdate=2007-08-14|url=http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.003.shtml?}}</ref> quickly escaping the easterly shear.<ref name="td4disc4">{{cite web|author=Rhome|year=2007|title=Tropical Depression Four Discussion Four|publisher=National Hurricane Center|accessdate=2007-08-14|url=http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.004.shtml?}}</ref>
+
+Based on satellite images and microwave and [[QuikSCAT]] data, the depression was upgraded to Tropical Storm Dean on [[August 14]].<ref name="td4disc5">{{cite web|author=Avila|year=2007|title=Tropical Storm Dean Discussion Five|publisher=National Hurricane Center|accessdate=2007-08-14|url=http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.005.shtml?}}</ref> The storm continued to strengthen overnight as it gained organization,<ref name="td4disc8">{{cite web|author=Beven|year=2007|title=Tropical Storm Dean Discussion Eight|publisher=National Hurricane Center|accessdate=2007-08-15|url=http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.008.shtml?}}</ref> and on [[August 16]] it was upgraded to the first hurricane of the 2007 season.<ref name="td4disc12">{{cite web|author=Beven|year=2007|title=Tropical Storm Dean Discussion Twelve|publisher=National Hurricane Center|accessdate=2007-08-16|url=http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.012.shtml?}}</ref>
+
+On [[August 17]] the [[Eye (cyclone)|eye]] of the hurricane passed into the [[Caribbean]] between the islands of [[Martinique]] and [[Saint Lucia]] as a Category 2 hurricane.<ref name="td4disc17">{{cite web|author=Avila|year=2007|title=Hurricane Dean Discussion Seventeen|publisher=National Hurricane Center|accessdate=2007-08-17|url=http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.017.shtml?}}</ref> In the warm waters of the Caribbean Dean rapidly strengthened into a Category 4 hurricane.Dean then passed just south of Jamaica as a category 4 hurricane. <ref name="td4disc19a">
+{{cite web|author=Knabb|year=2007|title=Hurricane Dean Intermediate Advisory Nineteen 'A'|publisher=National Hurricane Center|accessdate=2007-08-17|url=
+http://www.nhc.noaa.gov/archive/2007/al04/al042007.public_a.019.shtml?}}</ref>
+
+The National Hurricane Center upgraded Dean to Category 5 status late on [[August 20]]<ref name="td4update08-20-835>{{cite web|author=Knabb|year=2007|title=Hurricane Dean Tropical Cyclone Update|publisher=National Hurricane Center|accessdate=2007-08-20|url=
+http://www.nhc.noaa.gov/archive/2007/al04/al042007.update.08210034.shtml?}}</ref>
+and at that strength it made landfall on the [[Yucatán Peninsula]] of [[Mexico]] near [[Costa Maya]] on [[August 21]].<ref name="td4discuss33>{{cite web|author=Pasch/Brown|year=2007|title=Hurricane Dean Tropical Cyclone Discussion Thirty-three|publisher=National Hurricane Center|accessdate=2007-08-21|url=
+http://www.nhc.noaa.gov/archive/2007/al04/al042007.discus.033.shtml?}}</ref> Dean weakened to a category one storm over land.
+
+At least 42 people have been killed by Hurricane Dean (see [[Hurricane Dean (2007)#Impact|Impact of Hurricane Dean]]). None of these deaths, however, have been attributed to its first landfall, as a Category 5 hurricane, likely due to the fact that the landfall brought the heaviest storm surges onto sparsely-populated lands north of [[Chetumal Bay]], including the Sian Ka'an Biosphere Reserve.
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/DEAN.shtml? advisory archive] on Hurricane Dean.
+<div style="clear: both"></div>
+
+===Tropical Storm Erin===
+{{Infobox hurricane small
+|name=Tropical Storm Erin
+|category=storm
+|type=tropical storm
+|image=Erin 15 aug 2007 1939Z.jpg
+|track=Erin 2007 track.png
+|formed=[[August 14]]
+|dissipated=[[August 19]]
+|highest winds=40 mph (65 km/h)
+|lowest pressure=1003 [[mbar]]
+}}
+{{hurricane main|Tropical Storm Erin (2007)}}
+On [[August 9]], an area of [[convection]] developed just south of [[Jamaica]] in association with a [[trough (meteorology)|trough]] of low pressure.<ref name="89two">{{cite web|author=Beven|year=2007|title=August 9 Tropical Weather Outlook|publisher=National Hurricane Center|accessdate=2007-08-14|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-A/2007081002.ABNT20}}</ref> The system tracked west-northwestward, and by [[August 10]] consisted of a broad surface trough with minimal shower activity.<ref name="810two">{{cite web|author=Beven|year=2007|title=August 10 Tropical Weather Outlook|publisher=National Hurricane Center|accessdate=2007-08-14|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-A/2007081102.ABNT20}}</ref> Convection increased on [[August 11]],<ref name="811two">{{cite web|author=Rhome|year=2007|title=August 11 Tropical Weather Outlook|publisher=National Hurricane Center|accessdate=2007-08-14|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-A/2007081121.ABNT20}}</ref> and by [[August 12]] the interaction between a [[tropical wave]] and an upper-level low in the area resulted in a large area of disorganized thunderstorms extending from the western [[Caribbean Sea]] into the central [[Bahamas]].<ref name="812two">{{cite web|author=Blake|year=2007|title=August 12 Tropical Weather Outlook|publisher=National Hurricane Center|accessdate=2007-08-14|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-A/2007081215.ABNT20}}</ref> Upper-level winds gradually became more beneficial for development, and on [[August 13]] a broad [[low pressure area]] formed about 90 miles (145 km) north-northeast of [[Cancún]], [[Quintana Roo]].<ref name="813two">{{cite web|author=Knabb/Blake|year=2007|title=August 13 Tropical Weather Outlook|publisher=National Hurricane Center|accessdate=2007-08-14|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-A/2007081315.ABNT20}}</ref> Late on [[August 14]], a [[Hurricane Hunters|reconnaissance]] flight into the system reported a small circulation center, but at the time was not well-defined enough to result in the initiation of tropical cyclone advisories. However, deep convection was maintained near the increasingly organizing center, and at 0300 [[UTC]] on [[August 15]] the [[National Hurricane Center]] classified it as Tropical Depression Five about 425 miles (685 km) southeast of [[Brownsville, Texas|Brownsville]], [[Texas]].<ref name="td05disc1">{{cite web|author=Franklin|year=2007|title=Tropical Depression Five Discussion One|publisher=National Hurricane Center|accessdate=2007-08-14|url=http://www.nhc.noaa.gov/archive/2007/al05/al052007.discus.001.shtml?}}</ref>
+
+Based on reconnaissance data received from an [[NOAA]] plane investigating the depression, it was upgraded to Tropical Storm Erin on [[August 15]].<ref name="td05update01">{{cite web|author=Avila|year=2007|title=Tropical Storm Erin Tropical Cyclone Update|publisher=National Hurricane Center|accessdate=2007-08-15|url=http://www.nhc.noaa.gov/archive/2007/al05/al052007.update.08151515.shtml?}}</ref>
+It weakened to a tropical depression as it made landfall near Lamar, Texas, on [[August 16]],<ref name="pa7a">{{cite web|author=Avila|year=2007|title=Tropical Storm Erin Intermediate Advisory 7a|publisher=National Hurricane Center|accessdate=2007-08-16|url=http://www.nhc.noaa.gov/archive/2007/al05/al052007.public_a.007.shtml?}}</ref> and the NHC issued its last advisory on the system shortly thereafter as it moved inland, and the HPC dropped the system as a tropical depression when it lost its surface wind circulation on the afternoon of [[August 19]].<ref name="pa8">{{cite web|author=Avila|year=2007|title=Tropical Storm Erin Advisory 8|publisher=National Hurricane Center|accessdate=2007-08-16|url=http://www.nhc.noaa.gov/archive/2007/al05/al052007.public.008.shtml?}}</ref>
+
+Two people were killed when a warehouse collapsed in Texas.<ref>[http://www.chron.com/disp/story.mpl/ap/nation/5065272.html Texans, dealing with rain and flooding, brace Hurricane Dean]</ref> In total, 18 people died as a result of Erin.
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/ERIN.shtml? advisory archive] on Tropical Storm Erin.
+* See the HPC's [http://www.hpc.ncep.noaa.gov/tropical/ERIN/ERIN_archive.shtml advisory archive] on Tropical Storm Erin.
+
+<div style="clear:both;"></div>
+
+===Hurricane Felix===
+{{Infobox hurricane small
+|name=Hurricane Felix
+|category=cat5
+|type=hurricane
+|image=Felix 02 sept 2007 1810Z.jpg
+|track=Felix_2007_track.png
+|formed=[[August 31]]
+|dissipated=[[September 5]]
+|highest winds=165 mph (270 km/h)
+|lowest pressure=929 [[mbar]]
+}}
+{{hurricane main|Hurricane Felix (2007)}}
+On [[August 31]], an area of disturbed weather east of the [[Windward Islands]] was named Tropical Depression Six after satellite imagery showed that a tropical low had formed.<ref name="TD6 Discussion 1">{{cite web|author=Blake/Avila|date=[[2007-08-31]]|title=Tropical Depression Six Public Advisory One|publisher=National Hurricane Center|accessdate=2007-08-31|url=http://www.nhc.noaa.gov/archive/2007/al06/al062007.public.001.shtml?}}</ref> Early on [[September 1]], it was upgraded to a tropical storm and named Felix. Later that day, Felix was upgraded to a hurricane.  On [[September 2]], Felix was upgraded to a major hurricane.  It rapidly intensified into a Category 5 storm by the end of the evening, and after briefly weakening to Category 4 status Felix again restrengthened and struck northeastern [[Nicaragua]] with winds of 160&nbsp;mph (260&nbsp;km/h) on [[September 4]]. (See [[Hurricane Felix (2007)#Impact|Impact of Hurricane Felix]]). It rapidly weakened over land and the last advisory was issued on [[September 5]]. At least 133 people were killed by Hurricane Felix.
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/FELIX.shtml? advisory archive] on Hurricane Felix.
+<div style="clear:both;"></div>
+
+===Tropical Storm Gabrielle ===
+{{Infobox hurricane small
+|name=Tropical Storm Gabrielle
+|category=storm
+|type=tropical storm
+|image=Gabrielle 09 sept 2007 1800Z.jpg
+|track=Gabrielle 2007 track.png
+|formed=[[September 8]]
+|dissipated=[[September 11]]
+|highest winds=60&nbsp;[[miles per hour|mph]] (95&nbsp;[[kilometres per hour|km/h]])
+|lowest pressure=1004&nbsp;[[mbar]] ([[hPa]])
+}}
+{{hurricane main|Tropical Storm Gabrielle (2007)}}
+A cold front that moved off the southeastern coast of the United States on [[September 1]] developed a weak low over the waters near [[Georgia (U.S. state)|Georgia]]. The low drifted eastward and weakened over the next few days until it joined with convection from an upper-level trough that had been moving over the western Atlantic.<ref name="gabrielletcr">{{cite web|url=http://www.nhc.noaa.gov/pdf/TCR-AL072007_Gabrielle.pdf|title=Tropical Cyclone Report for Tropical Storm Gabrielle|accessdate=2007-10-30|author=Daniel P. Brown|date=2007-10-29|publisher=National Hurricane Center}}</ref> An Air Force Reserve [[Hurricane Hunter]] investigating the low on [[September 7]] was unable to find a well-defined circulation, but did find evidence of tropical storm-force surface winds. Subsequent satellite imagery from that evening discovered a broad and elongated low, indicating that Subtropical Storm Gabrielle had formed about 360 nautical miles southeast of [[Cape Hatteras]].<ref name="7LDisc1">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al07/al072007.discus.001.shtml?|title=Subtropical Storm Gabrielle Discussion 1|accessdate=2007-10-30|author=Beven/Roberts|date=2007-09-07|publisher=National Hurricane Center}}</ref> 
+
+For the next twelve hours, the system's strongest winds and thunderstorms remained well to the north of the center. On [[September 8]] new convection eventually united with the center, leading the transition of Gabrielle into a tropical storm. Gabrielle gradually strengthened as it travelled northwest towards [[North Carolina]] and [[Virginia]]. The storm reached its peak intensity just before it arrived in [[Cape Lookout (North Carolina)|Cape Lookout]], though strong wind shear kept most of the convection and surface winds offshore.<ref name="gabrielletcr"/> Gabrielle weakened over land, and moved back into the Atlantic on [[September 10]]. The circulation deteriorated further, and the storm dissipated southwest of [[Nova Scotia]] the next day.<ref name="7LDisc16">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al07/al072007.discus.016.shtml?|title=Subtropical Storm Gabrielle Discussion 16|accessdate=2007-10-30|author=Brown|date=2007-09-11|publisher=National Hurricane Center}}</ref>  Damages in eastern North Carolina were very light, and there were no casualties associated with this system.
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/GABRIELLE.shtml? advisory archive] on Tropical Storm Gabrielle.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL072007_Gabrielle.pdf report] on Tropical Storm Gabrielle.
+<div style="clear: both"></div>
+
+===Tropical Storm Ingrid===
+<!-- Please do not put Humberto before Ingrid.  Ingrid formed from TD8, Humberto from TD9. -->
+{{Infobox hurricane small
+| name=Tropical Storm Ingrid
+| category=storm
+| type=tropical storm
+| formed=[[September 12]]
+| dissipated=[[September 17]]
+| image=Ingrid 14 sept 2007 1310Z.jpg
+| track=Ingrid 2007 track.png
+| highest winds=45&nbsp;[[miles per hour|mph]] (75&nbsp;[[kilometres per hour|km/h]])
+| lowest pressure=1002&nbsp;[[mbar]] ([[hPa]])
+}}
+{{hurricane main|Tropical Storm Ingrid (2007)}}
+A large, westward-moving tropical wave moved off the coast of Africa on [[September 6]]. Strong easterly shear inhibited its development until the 9th, when it developed a broad area of low pressure in the mid-tropical Atlantic.<ref name="ingridtcr">{{cite web|author=National Hurricane Center|year=2007|title=Tropical Cyclone Report for Tropical Storm Ingrid|accessdate=2007-10-18|url=http://www.nhc.noaa.gov/pdf/TCR-AL082007_Ingrid.pdf}}</ref> By the morning of [[September 12]], the shear had weakened, allowing the system to organize into Tropical Depression Eight about 980 [[nautical miles]] east of the [[Lesser Antilles]].
+
+The depression moved west-nortwestward for the next week, steering along the southern edge of a mid-tropospheric [[Ridge (meteorology)|ridge]]. Unfavorable conditions caused by moderate westerly shear inhibited the storm's initial development. Despite this, the cyclone slowly developed into a weak tropical storm on [[September 13]], and reached its maximum intensity the next day.<ref name="ingridtcr"/> The shearing winds from a tropical upper tropospheric trough persisted over the cyclone, returning Ingrid to a depression on [[September 15]]. The final advisory was issued on the 17th as the system degenerated into an open wave north of the Leeward Islands.<ref name="td8adv20">{{cite web|author=Franklin|year=2007|title=Tropical Storm Ingrid Advisory Twenty|publisher=National Hurricane Center|accessdate=2007-10-18|url=http://www.nhc.noaa.gov/archive/2007/al08/al082007.fstadv.020.shtml?}}</ref> There were no reports of damage or casualties associated with Ingrid because the storm never threatened land.
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/INGRID.shtml? advisory archive] on Tropical Storm Ingrid.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL082007_Ingrid.pdf report] on Tropical Storm Ingrid.
+<div style="clear: both"></div>
+
+===Hurricane Humberto===
+{{Infobox hurricane small
+|name=Hurricane Humberto
+|category=cat1
+|type=hurricane
+|image=Humberto 12 sept 2007 1946Z.jpg
+|track=Humberto 2007 track.png
+|formed=[[September 12]]
+|dissipated=[[September 14]]
+|highest winds=90 mph (150 km/h)
+|lowest pressure=985 [[mbar]]
+}}
+{{hurricane main|Hurricane Humberto (2007)}}
+
+On [[September 8]], weak surface [[trough (meteorology)|trough]] and an [[Earth's atmosphere|upper-level]] low produced disorganized showers and thunderstorms between western [[Cuba]] and the eastern [[Gulf of Mexico]].<ref>{{cite web|author=Beven|year=2007|title=September 8 Tropical Weather Outlook|publisher=National Hurricane Center|accessdate=2007-09-12|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-A/2007090821.ABNT20}}</ref> The area of thunderstorms continued to move west-northwestward across the Gulf of Mexico and on [[September 12]] thunderstorms organized enough to be classified as Tropical Depression Nine about 60 miles (100 km) southeast of [[Matagorda, Texas]].<ref>{{cite web|author=Rhome|year=2007|title=September 10 Tropical Weather Outlook|publisher=National Hurricane Center|accessdate=2007-09-12|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-A/2007091009.ABNT20}}</ref> <ref name="disc1">{{cite web|author=Franklin|year=2007|title=Tropical Depression Nine Discussion One|publisher=National Hurricane Center|accessdate=2007-09-12|url=http://www.nhc.noaa.gov/archive/2007/al09/al092007.discus.001.shtml?}}</ref>  The depression quickly intensified, and within three hours of forming, it became Tropical Storm Humberto.<ref>{{cite web|author=Franklin|year=2007|title=Tropical Storm Humberto Public Advisory One-A|publisher=National Hurricane Center|accessdate=2007-09-12|url=http://www.nhc.noaa.gov/archive/2007/al09/al092007.public_a.001.shtml}}</ref> Humberto turned to the [[north]] and eventually [[north-northeast]] and continued to rapidly intensify.  In the early morning hours of [[September 13]], [[Hurricane Hunter]] aircraft found that Humberto had strengthened into a [[hurricane]] while located about 15&nbsp;miles (20&nbsp;km) off the coast of [[Texas]].  <ref name="disc4">{{cite web|author=Mainelli & Avila|year=2007|title=Hurricane Humberto Special Discussion Four|publisher=National Hurricane Center|accessdate=2007-09-13|url=http://www.nhc.noaa.gov/archive/2007/al09/al092007.discus.004.shtml?}}</ref> Around 0700 [[Coordinated Universal Time|UTC]] (3 a.m. [[Central Daylight Time|CDT]]), Hurricane Humberto made [[landfall (meteorology)|landfall]] near [[High Island, Texas]] as a [[Saffir-Simpson Hurricane Scale#Category 1|category 1]] hurricane.<ref name="disc5">{{cite web|author=Mainelli & Avila|year=2007|title=Hurricane Humberto Discussion Five|publisher=National Hurricane Center|accessdate=2007-09-13|url=http://www.nhc.noaa.gov/archive/2007/al09/al092007.discus.005.shtml?}}</ref>  Humberto quickly weakened and entered Southwest [[Louisiana]] as a tropical storm during the afternoon of [[September 13]]. <ref name="disc6">{{cite web|author=Franklin|year=2007|title=Tropical Storm Humberto Discussion Six|publisher=National Hurricane Center|accessdate=2007-09-13|url=http://www.nhc.noaa.gov/archive/2007/al09/al092007.discus.006.shtml?}}</ref>
+
+Hurricane Humberto caused some structural damage on [[High Island, Texas|High Island]] and widespread tree and power line damage in the [[Beaumont, Texas|Beaumont]]-[[Port Arthur, Texas|Port Arthur]] area.<ref name='Enterprise - Hurricane Humberto hammers SE Texas'>{{cite news | first = Beth | last = Gallaspy | coauthors= | title = Hurricane Humberto hammers SE Texas, kills Bridge City man | date = [[2007-09-13]] | publisher = Beaumont Enterprise| url = http://www.beaumontenterprise.com/site/news.cfm?newsid=18812791&BRD=2287&PAG=461&dept_id=512588&rfi=6 | work = The Beaumont Enterprise | accessdate = 2007-09-13 | language = English}}</ref>  Power outages caused four [[oil refinery|oil refineries]] to halt production in [[Beaumont, Texas|Beaumont]].  One person was reported dead as a result of the storm, a [[Bridge City, Texas|Bridge City]] man killed when his carport crashed on him outside his house.<ref name="Enterprise - Hurricane Humberto hammers SE Texas"/>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/HUMBERTO.shtml? advisory archive] on Hurricane Humberto.
+* See the HPC's [http://www.hpc.ncep.noaa.gov/tropical/HUMBERTO/HUMBERTO_archive.shtml advisory archive] on Tropical Depression Humberto.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL092007_Humberto.pdf report] on Hurricane Humberto.
+<div style="clear: both"></div>
+
+===Tropical Depression Ten===
+{{Infobox hurricane small
+|name=Tropical Depression Ten
+|category=depression
+|type=tropical depression
+|image=TD Ten 21 sept 2007 1650Z.jpg
+|track=10-L 2007 track.png
+|formed=[[September 21]]
+|dissipated=[[September 22]]
+|highest winds=35 mph (55 km/h)
+|lowest pressure=1005 [[mbar]]
+}}
+{{hurricane main|Tropical Depression Ten (2007)}}
+An [[extratropical cyclone|extratropical low]] formed off the east coast of [[Florida]] on [[September 18]]. It slowly tracked westward, breaking itself away from a [[trough (meteorology)|trough]] over the Atlantic while crossing the Florida Peninsula on [[September 19]], emerging in the [[Gulf of Mexico]] on [[September 20]]. It slowly organized itself and was classified as a subtropical depression on the morning of [[September 21]] just south of the [[Florida Panhandle]]. Three hours later, it was reclassified as fully tropical. At 8 pm EDT (0000 UTC) later that day, Tropical Depression Ten began to move onshore, and never reached tropical storm strength.
+
+Damage from the precursor low was reported in [[Eustis, Florida]] from one or more [[tornado]]es that damaged or destroyed about 50 houses, but caused no serious injuries.<ref>http://www.orlandosentinel.com/news/local/lake/orl-bk-tornadowarning092007,0,1891646.story?track=rss</ref>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/TEN.shtml? advisory archive] on Tropical Depression Ten.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL102007_Ten.pdf report] on Tropical Depression Ten.
+<div style="clear: both"></div>
+
+===Tropical Storm Jerry===
+{{Infobox hurricane small
+|name=Tropical Storm Jerry
+|category=storm
+|type=tropical storm
+|image=Jerry 24 sept 2007 1259Z.jpg
+|track=Jerry 2007 track.png
+|formed=[[September 23]]
+|dissipated=[[September 24]]
+|highest winds=40&nbsp;[[miles per hour|mph]] (65&nbsp;[[kilometres per hour|km/h]])
+|lowest pressure=1003&nbsp;[[mbar]] ([[hPa]])
+}}
+{{hurricane main|Tropical Storm Jerry (2007)}}
+Jerry began as a non-tropical low that drifted around the central North Atlantic on [[September 21]]. Convection gradually developed and wrapped around the low. Given that the system was involved with an upper-level low, and that the convection and strongest winds were distant from the center, it was classified as a subtropical depression on [[September 23]] about 1060 miles (1710 kilometers) west of the [[Azores]].<ref name="jerrytcr">{{cite web|url=http://www.nhc.noaa.gov/pdf/TCR-AL112007_Jerry.pdf|title=Tropical Cyclone Report for Tropical Storm Jerry|accessdate=2007-10-24|author=Lixion A. Avila|date=2007-10-24|publisher=National Hurricane Center}}</ref><ref name="11LAdv1">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al11/al112007.public.001.shtml?|title=Subtropical Depression Eleven Advisory 1|accessdate=2007-10-24|author=Knabb|date=2007-09-23|publisher=National Hurricane Center}}</ref> The storm was poorly organized and lacked a well-defined inner core; but later that day, [[satellite]] intensity observations and [[QuikScat]] data estimated that it had intensified into a subtropical storm.<ref name="11LDisc2">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al11/al112007.discus.002.shtml?|title=Subtropical Storm Jerry Discussion 2|accessdate=2007-10-24|author=Pasch|date=2007-09-23|publisher=National Hurricane Center}}</ref>
+
+Jerry became fully tropical on [[September 24]] when deep convection developed near the center and the radius of maximum winds decreased.<ref name="jerrytcr"/> Thereafter, the storm tracked northeastward over cooler waters and began to weaken. Jerry accelerated ahead of a strong cold front, and the circulation opened up into a sharp [[trough]]. By [[September 25]] the storm had completely dissipated. Since Jerry remained far from land throughout its short life, there were no reports of casualties or damages associated with the system.<ref name="jerrytcr"/>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/JERRY.shtml? archive history] on Tropical Storm Jerry.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL112007_Jerry.pdf report] on Tropical Storm Jerry.
+<div style="clear:both;"></div>
+
+===Hurricane Karen===
+{{Infobox hurricane small
+|name=Hurricane Karen
+|category=cat1
+|type=hurricane
+|image=Karen 26 sept 2007 1220Z.jpg
+|track=Karen_2007_track.png
+|formed=[[September 25]]
+|dissipated=[[September 29]]
+|highest winds=75&nbsp;[[miles per hour|mph]] (120&nbsp;[[kilometres per hour|km/h]])
+|lowest pressure=988&nbsp;[[mbar]] ([[hPa]])
+}}
+{{hurricane main|Hurricane Karen (2007)}}
+A very large tropical wave accompanied by a large envelope of low pressure emerged from the coast of [[Africa]] on [[September 21]]. As it moved westward, deep convection gradually increased over the disturbance as its broad low-level circulation became better-defined. By [[September 24]], as the system traveled northwestward it organized enough to become a tropical depression.<ref name="karentcr">{{cite web|url=http://www.nhc.noaa.gov/pdf/TCR-AL152007_Fifteen.pdf|title=Tropical Cyclone Report for Hurricane Karen|accessdate=2007-11-27|author=Richard J. Pasch|date=2007-11-21|publisher=National Hurricane Center}}</ref> Six hours later the depression was upgraded to Tropical Storm Karen.<ref name="12LDisc2">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al12/al122007.discus.002.shtml?|title=Tropical Storm Karen Discussion 2|accessdate=2007-11-27|author=Bevin|date=2007-09-25|publisher=National Hurricane Center}}</ref>
+
+Karen's organization and intensity remained steady for the next day. Early on the 26th, however, the storm strengthened significantly. In post-operational analysis the cyclone was determined to have reached hurricane-strength for about twelve hours.<ref name="karentcr"/> The strengthening was short-lived because a sharp upper-level trough to the west of Karen increased the amount of vertical [[wind shear]] over the hurricane. By [[September 28]] these unfavorable conditions had weakened Karen to a marginal tropical storm and left its low-level circulation exposed.<ref name="12LDisc14">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al12/al122007.discus.014.shtml?|title=Tropical Storm Karen Discussion 14|accessdate=2007-11-27|author=Mainelli|date=2007-09-28|publisher=National Hurricane Center}}</ref> Meanwhile, the storm began heading northward and experiencing intermittent bursts of deep convection. However, the relentless wind shear exposed the system's circulation until it dissipated in the mid-Atlantic on [[September 29]]. Karen's remnants lingered near the [[Leeward Islands]] for the next few days, although the system never directly affected land. As a result, no reported damages or casualties were associated with Karen.<ref name="karentcr"/>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/KAREN.shtml? archive history] on Hurricane Karen.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL122007_Karen.pdf report] on Hurricane Karen.
+<div style="clear:both;"></div>
+
+===Hurricane Lorenzo===
+{{Infobox hurricane small
+|name=Hurricane Lorenzo
+|category=cat1
+|type=hurricane
+|image=Lorenzo 27 sept 2007 1920Z.jpg
+|track=Lorenzo 2007 track.png
+|formed=[[September 25]]
+|dissipated=[[September 28]]
+|highest winds=80&nbsp;[[miles per hour|mph]] (130&nbsp;[[kilometres per hour|km/h]])
+|lowest pressure=990&nbsp;[[mbar]] ([[hPa]])
+}}
+{{hurricane main|Hurricane Lorenzo (2007)}}
+A tropical wave moved off the western coast of Africa on [[September 11]],<ref name="lorenzotcr">{{cite web|author=National Hurricane Center|year=2007|title=Tropical Cyclone Report for Hurricane Lorenzo|accessdate=2007-10-19|url=http://www.nhc.noaa.gov/pdf/TCR-AL132007_Lorenzo.pdf}}</ref> 
+traversed the Caribbean and crossed the Yucatán on [[September 21]]. The disturbance developed a small surface [[Low pressure area|low]] on the 24th while moving erratically over the southwestern Gulf of Mexico.<ref name="lorenzotcr"/> Strong [[wind shear|upper-level winds]] initially prevented the system from developing convection; however, it relaxed on the following day and convection increased.<ref name="Sept 24 530pm TWO">{{cite web|author=Franklin and Brown|year=2007|title=September 24 5:30 p.m. Tropical Weather Outlook|publisher=National Hurricane Center|accessdate=2007-09-26|url=http://www.nhc.noaa.gov/archive/text/TWOAT/TWOAT.200709242124.txt}}</ref><ref name="lorenzotcr"/> On the [[evening]] of [[September 25]], a [[Hurricane Hunters|Hurricane Hunter]] aircraft found evidence that the low qualified as a tropical depression.<ref name="13L Disc 1">{{cite web|author=Franklin|year=2007|title=Tropical Depression Thirteen Discussion 1|publisher=National Hurricane Center|accessdate=2007-09-26|url=http://www.nhc.noaa.gov/archive/2007/al13/al132007.discus.001.shtml?}}</ref> 
+
+Under weak steering currents, the depression drifted south and southwest, executing a small cyclonic loop into the [[Bay of Campeche]]. Upper-level winds gave way to an anticyclone above the depression, and the system became a Tropical Storm Lorenzo on [[September 27]] about 130 nautical miles east of [[Tuxpan]].<ref name="lorenzotcr"/> Rapid intensification brought Lorenzo to hurricane status early that evening, less than twelve hours after becoming a tropical storm. Lorenzo reached its peak intensity on [[September 28]], then weakened slightly before making landfall near [[Tecolutla, Mexico]] as a minimal hurricane. The small circulation weakened rapidly after landfall, and the system dissipated the next day.<ref name="lorenzotcr"/>
+
+Six deaths in Mexico were attributable to Lorenzo; mostly attributable to flash floods and mudslides. The states of [[Puebla]] and [[Veracruz]] reported damage from rain and high winds. Two hundred people were forced to evacuate in [[Hidalgo]] when the [[San Lorenzo River]] overflowed its banks. Lorenzo made landfall in virtually the same location that Hurricane Dean had struck a month earlier.<ref name="lorenzotcr"/>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/LORENZO.shtml? advisory archive] on Hurricane Lorenzo.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL132007_Lorenzo.pdf report] on Hurricane Lorenzo.
+<div style="clear:both;"></div>
+
+===Tropical Storm Melissa===
+{{Infobox hurricane small
+|name=Tropical Storm Melissa
+|category=storm
+|type=tropical storm
+|image=Melissa 29 sept 2007 1245Z.jpg
+|track=Melissa_2007_track.png
+|formed=[[September 28]]
+|dissipated=[[September 30]]
+|highest winds=40&nbsp;[[miles per hour|mph]] (65&nbsp;[[kilometres per hour|km/h]])
+|lowest pressure=1005&nbsp;[[mbar]] ([[hPa]])
+}}
+{{hurricane main|Tropical Storm Melissa (2007)}}
+Melissa began as a tropical wave that exited the western coast of Africa on [[September 26]]. The next day an area of low pressure developed near the [[Cape Verde]] islands, and the system soon organized into Tropical Depression Fourteen on [[September 28]].<ref name="14LDisc1">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al14/al142007.discus.001.shtml?|title=Tropical Depression Fourteen Discussion 1|accessdate=2007-09-29|author=Avila|date=2007-09-28|publisher=National Hurricane Center}}</ref> The depression drifted westward between very weak steering currents. Ordinarily a system would be steered along the edge of a subtropical ridge, but a low pressure system over the northeastern Atlantic subdued its development.<ref name="melissatcr">{{cite web|url=http://www.nhc.noaa.gov/pdf/TCR-AL142007_Melissa.pdf|title=Tropical Cyclone Report for Tropical Storm Melissa|accessdate=2007-10-23|author=Richard D. Knabb|date=2007-10-13|publisher=National Hurricane Center}}</ref>
+
+While inching westward, the depression strengthened slightly and became Tropical Storm Melissa on [[September 29]], tying the record for most storms to form in a month.<ref name="sept07tws">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/tws/MIATWSAT_sep.shtml?|title=Tropical Weather Summary - September 2007|accessdate=2007-11-12|author=Mainelli et al|date=2007-10-01|publisher=National Hurricane Center}}</ref> The next day increasing westerly shear weakened Melissa back to a tropical depression. As it lost deep convection, the depression moved rapidly toward the west-northwest along the southern edge of a regenerating low-level ridge.<ref name="melissatcr"/> Thunderstorm activity sputtered, and the depression degenerated to a remnant low on the 30th about 475 nautical miles west of the Cape Verde Islands. The low tracked along the low-level ridge for the several days, and merged with a [[Weather fronts|frontal zone]] northeast of the [[Leeward Islands]] on [[October 5]]. Since Melissa did not affect land, there were no reports of damage or casualties associated with the storm.<ref name="melissatcr"/>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/MELISSA.shtml? archive history] on Tropical Storm Melissa.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL142007_Melissa.pdf report] on Tropical Storm Melissa.
+<div style="clear:both;"></div>
+
+===Tropical Depression Fifteen===
+{{Infobox hurricane small
+|name=Tropical Depression Fifteen
+|category=depression
+|type=tropical depression
+|image=TD 15 11 oct 2007 1321Z.jpg
+|track=15-L 2007 track.png
+|formed=[[October 11]]
+|dissipated=[[October 12]]
+|highest winds=35&nbsp;[[miles per hour|mph]] (55&nbsp;[[kilometres per hour|km/h]])
+|lowest pressure=1011&nbsp;[[mbar]] ([[hPa]])
+}}
+Tropical Depression Fifteen formed from a large and complex area of disturbed weather that extended from the Caribbean Sea into the western Atlantic. On [[October 8]] the eastern end of the system formed a surface low and gradually developed convection as it moved northeastward.<ref name="fifteentcr">{{cite web|url=http://www.nhc.noaa.gov/pdf/TCR-AL152007_Fifteen.pdf|title=Tropical Cyclone Report for Tropical Depression Fifteen|accessdate=2007-11-26|author=Jack Bevin|date=2007-11-22|publisher=National Hurricane Center}}</ref> While 645 nmi southeast of [[Bermuda]] the system was sufficiently organized to declare it a tropical depression on [[October 11]]. The depression maintained its intensity while an upper-level trough moved through the area. In its wake the cyclone was left with hostile conditions, including strong northerly wind shear.<ref name="15LDisc3">{{cite web|url=http://www.nhc.noaa.gov/archive/2007/al15/al152007.discus.003.shtml?|title=Tropical Depression Fifteen Discussion 1|accessdate=2007-11-26|author=Bevin|date=2007-10-12|publisher=National Hurricane Center}}</ref> The depression weakened to a remnant low on [[October 12]] and merged with a frontal zone two days later. The resulting extratropical low strengthened slightly until it was absorbed by a larger extratropical system north of the [[Azores]] on [[October 17]].<ref name="fifteentcr"/> Because the system remained far from land, no damages were reported.
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/FIFTEEN.shtml? advisory archive] on Tropical Depression Fifteen.
+* See NHC's end-of-season [http://www.nhc.noaa.gov/pdf/TCR-AL152007_Fifteen.pdf report] on Tropical Depression Fifteen.
+<div style="clear:both;"></div>
+
+===Hurricane Noel===
+{{Infobox hurricane small
+|name=Hurricane Noel
+|category=cat1
+|type=hurricane
+|image=Noel 28 oct 2007 1530Z sm.jpg
+|track=Noel 2007 track.png
+|formed=[[October 28]]
+|dissipated=[[November 2]]
+|highest winds=80 mph (130 km/h)
+|lowest pressure=980 [[mbar]]
+}}
+{{hurricane main|Hurricane Noel (2007)}}
+During the evening of [[October 27]], a low pressure system that had been slowly developing over the eastern Caribbean gained enough organization to be declared Tropical Depression Sixteen. It steadily intensified and became a tropical storm on the afternoon of [[October 28]]. It made landfall in [[Haiti]] on [[October 29]], and then meandered across the western [[Caribbean]] near [[Cuba]] for the next three days. Noel brought torrential rain to the region, killing at least 168 people. It then accelerated northeastward, passing through the Bahamas before strengthening to a hurricane on [[November 1]]. Noel began an extratropical transition on [[November 2]]. While sustained winds were still at category 1 strength, the NHC issued its final advisory that afternoon.  The [[Canadian Hurricane Centre]] issued ongoing advisories every three hours on Post-tropical Storm Noel as it approached Canada's [[Atlantic Canada|eastern provinces]] until it completed its transition to being fully extratropical on [[November 4]] while over [[Labrador]], shortly before it crossed back into the Atlantic, heading towards [[Kitaa|West Greenland]].
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/NOEL.shtml advisory archive] on Hurricane Noel.
+<div style="clear:both;"></div>
+
+===Tropical Storm Olga===
+{{Infobox hurricane small
+|name=Tropical Storm Olga
+|category=storm
+|type=tropical storm
+|image=Olga2007_60kt.png
+|track=Olga 2007 track.png
+|formed=[[December 11]]
+|dissipated=[[December 13]]
+|highest winds=60 mph (95 km/h)
+|lowest pressure=1003 [[mbar]]
+}}
+{{hurricane main|Tropical Storm Olga (2007)}}
+
+In the second week of [[December]], after the official end of the hurricane season, a low developed east of the northernmost [[Lesser Antilles]]. It slowly acquired subtropical characteristics, and late on [[December 10]], the NHC declared it Subtropical Storm Olga while just north of [[Puerto Rico]]. It is the first post-season storm since [[Tropical Storm Zeta (2005)|Tropical Storm Zeta]] in the [[2005 Atlantic hurricane season|2005 season]], making this season one of the few with activity both before and after the official bounds of the hurricane season.<!--others are 1887, 1953 and 2003?--> The storm made landfall on [[December 11]] on the eastern tip of the [[Dominican Republic]]. Later that evening, Olga transitioned into a tropical storm just after making landfall. Further weakening took place and the storm degenerated into a remnant low late on [[December 12]].
+
+Flooding and mudslides caused at least 40 deaths - one in Puerto Rico, two in [[Haiti]] and at least 37 in the Dominican Republic.<ref>http://www.news.com.au/story/0,23599,22928524-1702,00.html?from=public_rss</ref>
+
+* See the NHC's [http://www.nhc.noaa.gov/archive/2007/OLGA.shtml advisory archive] on Tropical Storm Olga.
+<div style="clear:both;"></div>
+
+==Accumulated Cyclone Energy==
+{|class="wikitable" align=right style="margin:0 0 0.5em 1em;"
+|-
+!colspan=14|ACE (10<sup><small>4</small></sup>kt²) ([[Talk:2007 Atlantic hurricane season/ACE calcs|Source]]) — Storm: 
+|-
+! 1
+| 33.8 || [[Hurricane Dean (2007)|Dean]]
+! 8
+| 1.10 || [[Tropical Storm Gabrielle (2007)|Gabrielle]] &nbsp; 
+|-
+! 2
+| 16.5 || [[Hurricane Felix (2007)|Felix]]
+! 9
+| 0.773 || [[Tropical Storm Barry (2007)|Barry]]
+|-
+! 3
+| &nbsp; 5.21 || [[Tropical Storm Noel (2007)|Noel]]
+! 10
+| 0.730 || [[Tropical Storm Chantal (2007)|Chantal]]
+|-
+! 4 
+| &nbsp; 3.62 || [[Hurricane Karen (2007)|Karen]]
+! 11
+| 0.575 || [[Tropical Storm Olga (2007)|Olga]] <!--0.5750 total-->
+|-
+! 5
+| &nbsp; 1.81 || [[Hurricane Humberto (2007)|Humberto]] &nbsp; 
+! 12
+| 0.490 || [[Tropical Storm Melissa (2007)|Melissa]]
+|-
+! 6 
+| &nbsp; 1.48 || [[Hurricane Lorenzo (2007)|Lorenzo]] 
+! 13
+| 0.368 || [[Tropical Storm Erin (2007)|Erin]]
+|-
+! 7
+| &nbsp; 1.30 || [[Tropical Storm Ingrid (2007)|Ingrid]]
+! 14
+| 0.368 || [[Tropical Storm Jerry (2007)|Jerry]]
+|-
+! colspan=6 | Total: 68.1 <!--68.124 total--> <!--Andrea is not to be included as it was subtropical and Tropical Depression Ten didn't reach at least Tropical Storm Status--><!-- Remember to update the total ace figure in the infobox at the top of the page! -->
+|}
+
+The table on the right shows the [[Accumulated Cyclone Energy]] (ACE) for each storm in the season. ACE is, broadly speaking, a measure of the power of the hurricane multiplied by the length of time it existed, so storms that last a long time, as well as particularly strong hurricanes, have high ACEs. ACE is only calculated for full advisories on tropical systems at or exceeding 34 knots (39 mph, 63 km/h) or tropical storm strength. While [[Subtropical Storm Andrea (2007)|Subtropical Storm Andrea]] was a named storm of the 2007 season, [[NOAA]] does not officially include subtropical storms' ACE ratings in season totals.<ref name="NoSubTropical">{{cite web |url=http://lwf.ncdc.noaa.gov/oa/climate/research/2007/2007-atlantic-trop-cyclones.html |title=2007 Atlantic Ocean Tropical Cyclones |publisher=[[NOAA]] |date=[[2007-06-01]] |accessdate=2007-06-03}}</ref>. Andrea's ACE would have been 0.895 10<sup><small>4</small></sup>kt² had it been tropical. Values accrued while Gabrielle, Jerry and Olga were subtropical are not included in their totals.
+
+==Storm names==
+The following names were used for named storms that formed in the [[Atlantic basin]] in 2007.<ref>http://www.nhc.noaa.gov/aboutnames.shtml</ref> Names to be retired, if any, will be announced by the [[World Meteorological Organization]] in the spring of 2008. The names not retired from this list will be used again in the 2013 season. Storms were named Andrea, Ingrid and Melissa for the first time in 2007. The list was the same as the [[2001 Atlantic hurricane season|2001]] list except for Andrea, Ingrid, and Melissa, which replaced [[Tropical Storm Allison|Allison]], [[Hurricane Iris|Iris]], and [[Hurricane Michelle|Michelle]], respectively. Names that were not assigned are marked in {{tcname unused}}.
+
+{| width="90%"
+|
+* [[Subtropical Storm Andrea (2007)|Andrea]]
+* [[Tropical Storm Barry (2007)|Barry]]
+* [[Tropical Storm Chantal (2007)|Chantal]]
+* [[Hurricane Dean|Dean]]
+* [[Tropical Storm Erin (2007)|Erin]]
+* [[Hurricane Felix (2007)|Felix]]
+* [[Tropical Storm Gabrielle (2007)|Gabrielle]]
+|
+* [[Hurricane Humberto (2007)|Humberto]]
+* [[Tropical Storm Ingrid (2007)|Ingrid]]
+* [[Tropical Storm Jerry (2007)|Jerry]]
+* [[Hurricane Karen (2007)|Karen]]
+* [[Hurricane Lorenzo (2007)|Lorenzo]]
+* [[Tropical Storm Melissa (2007)|Melissa]]
+* [[Hurricane Noel (2007)|Noel]]
+|
+* [[Tropical Storm Olga (2007)|Olga]]
+* {{tcname unused|Pablo}}
+* {{tcname unused|Rebekah}}
+* {{tcname unused|Sebastien}}
+* {{tcname unused|Tanya}}
+* {{tcname unused|Van}}
+* {{tcname unused|Wendy}}
+|}
+
+==See also==
+{{tcportal}}
+*[[List of notable Atlantic hurricanes]]
+*[[List of Atlantic hurricane seasons]]
+*[[2007 Pacific hurricane season]]
+*[[2007 Pacific typhoon season]]
+*[[2007 North Indian Ocean cyclone season]]
+*[[2006-07 South-West Indian Ocean cyclone season]]
+*[[2007-08 South-West Indian Ocean cyclone season]]
+*[[2006-07 Australian region cyclone season]]
+*[[2007-08 Australian region cyclone season]]
+*[[2006-07 South Pacific cyclone season]]
+*[[2007-08 South Pacific cyclone season]]
+
+==References==
+<div class="references-small">
+<references />
+</div>
+
+==External links==
+*[http://www.nhc.noaa.gov National Hurricane Center Website]
+
+{{2007 Atlantic hurricane season buttons}}
+{{2000-2009 Atlantic hurricane seasons}}
+
+[[Category:Atlantic hurricane seasons|2007]]
+[[Category:{{PAGENAME}}|*]]
+
+[[de:Atlantische Hurrikansaison 2007]]
+[[es:Temporada de huracanes en el Atlántico de 2007]]
+[[fr:Saison cyclonique 2007 (Atlantique nord)]]
+[[nl:Atlantisch orkaanseizoen 2007]]
+[[pt:Temporada de furacões no Atlântico de 2007]]
+[[simple:2007 Atlantic hurricane season]]
+[[sv:Atlantiska orkansäsongen 2007]]
+[[zh:2007年大西洋颶風季]]

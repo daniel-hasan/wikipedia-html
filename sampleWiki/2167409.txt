@@ -1,0 +1,56 @@
+:''This article is about the farming of freshwater prawns. For the farming of marine (saltwater) shrimps, see [[shrimp farm]]ing.''
+
+A '''freshwater prawn farm''' is an [[aquaculture]] business designed to raise and produce freshwater [[prawn]] or [[shrimp]]{{fn|1}} for human consumption. Freshwater prawn farming shares many characteristics with, and many of the same problems as,  marine [[shrimp farm]]ing. Unique problems are introduced by the developmental life cycle of the main species (the [[giant river prawn]], ''Macrobrachium rosenbergii'').<ref name="freshwater">New, M. B.: ''[http://library.enaca.org/Shrimp/Publications/FAO_Macrobrachium_manual_2003.pdf Farming Freshwater Prawns]''; FAO Fisheries Technical Paper 428, 2002. ISSN 0429-9345.</ref>
+
+The global annual production of freshwater prawns (excluding [[crayfish]] and [[crab]]s) in [[2003]] was about 280,000 tons, of which China produced some 180,000 tons, followed by India and Thailand with some 35,000 tons each. Additionally, China produced about 370,000 tons of [[Chinese river crab]] (''Eriocheir sinensis'').<ref name="figis_fresh">Data extracted from the [http://www.fao.org/figis/servlet/static?dom=collection&xml=global-aquaculture-production.xml FAO Fisheries Global Aquaculture Production Database] for freshwater crustaceans. The most recent data sets are for [[2003]] and sometimes contain estimates. Accessed June 28, 2005.</ref>
+
+== Species ==
+
+All farmed freshwater prawns today belong to the [[genus]] ''[[Macrobrachium]]''. Until [[2000]], the only species farmed was the [[Giant river prawn]] (''Macrobrachium rosenbergii'', also known as the [[Malaysian prawn]]). Since then, [[China]] has begun farming the [[Oriental river prawn]] (''M. nipponense'') in large quantities, and [[India]] farms a small amount of [[monsoon river prawn]] (''M. malcolmsonii''). In [[2003]], these three species accounted for all farmed freshwater prawns, about two thirds ''M. rosenbergii'' and one third ''M. nipponense''.
+
+There are about 200 species in the genus ''Macrobrachium''. They occur throughout the tropics and subtropics on  all continents except Europe.
+
+== Biology of ''Macrobrachium rosenbergii'' ==
+
+Giant river prawns live in turbid [[freshwater]], but their larval stages require [[brackish water]] to survive.
+Males can reach a body size of 32&nbsp;cm;females grow to 25&nbsp;cm. In mating, the male deposits [[spermatophore]]s on the underside of the female's thorax, between the walking legs. The female then extrudes eggs, which pass through the spermatophores. The female carries the fertilized eggs with her until they hatch; the time may vary, but is generally less than three weeks. A large female may lay up to 100,000 eggs.
+
+From these eggs hatch [[zoea]]e, the first larval stage of [[crustacean]]s. They go through several larval stages before metamorphosing into postlarvae, at which stage they are about 8&nbsp;mm long and have all the characteristics of adults. This metamorphosis usually takes place about 32 to 35 days after hatching. These postlarvae then migrate back into freshwater.
+
+There are three different [[morphotype]]s of males. The first stage is called "small male" (SM); this smallest stage has short, nearly translucent claws. If conditions allow, small males grow and metamorphose into "orange claws" (OC), which have large orange claws on their second [[cheliped]]s, which may have a length of 0.8 to 1.4 their body size. OC males later may transform into the third and final stage, the "blue claw" (BC) males. These have blue claws, and their second chelipeds may become twice as long as their body.<ref name="wynne">Wynne, F.: ''[http://aquanic.org/publicat/state/ky/prawn_ext.htm Grow-out Culture of Freshwater Prawns in Kentucky]'', 2000. Last accessed July 4, 2005.</ref>
+
+Male ''M. rosenbergii'' have a strict hierarchy: the territorial BC males dominate the OCs, which in turn dominate the SMs. The presence of BC males inhibts the growth of SMs and delays the metamorphosis of OCs into BCs; an OC will keep growing until it is larger than the largest BC male in its neighbourhood before transforming. All three male stages are sexually active though, and females who have undergone their pre-mating molt will cooperate with any male to reproduce. BC males protect the female until their shell has hardened, OCs and SMs show no such behavior. 
+
+== Technology ==
+
+Giant River Prawns have been farmed using traditional methods in south-east Asia for a long time. First experiments with artificial breeding cultures of ''M. rosenbergii'' were done in the early [[1960]]s in [[Malaysia]], where it was discovered that the larvae needed brackish water for survival. Industrial-scale rearing processes were perfected in the early [[1970s]] in [[Hawaii]], and spread then first to [[Taiwan]] and [[Thailand]] and then to other countries.
+
+The technologies used in freshwater prawn farming are basically the same as in marine [[shrimp farm]]ing. hatcheries produce postlarvae, which then are grown and acclimated in nurseries before being transferred into growout ponds, where the prawns are then fed and grown until they reach marketable size. Harvesting is done by either draining the pond and collecting the animals ("batch" harvesting) or by fishing the prawns out of the pond using nets (continuous operation).
+
+Due to the aggressive nature of ''M. rosenbergii'' and the hierarchy between males, stocking densities are much lower than in [[penaeid]] [[shrimp]] farms. Intensive farming is not possible due to the increased level of cannibalism, so all farms are either stocked semi-intensively (4 to 20 postlarvae per square metre) or, in extensive farms, at even lower densities (1 to 4/m&sup2;). The management of the growout ponds must take into account the growth characteristics of ''M. rosenbergii'': the presence of blue-claw males inhibits the growth of small males, and delays the metamorphosis of OC males into blue-claws. Some farms fish off the largest prawns from the pond using [[seine (fishing)|seine]]s to ensure a healthy composition of the pond's population, designed to optimize the yield, even if they employ batch harvesting. The heterogeneous individual growth of ''M. rosenbergii'' makes growth control necessary even if a pond is stocked newly, starting from scratch: some animals will grow faster than others and become dominant BCs, shunting the growth of other individuals.
+
+The [[FAO]] considers the ecological impact of freshwater prawn farming to be less severe than in [[shrimp farm]]ing. The prawns are cultured at much lower densities, meaning less concentrated waste products and a lesser danger of the ponds becoming breeding places for diseases. The growout ponds do not salinate agricultural land, as do those of inland marine shrimp farms. Freshwater prawn farms do not endanger [[mangrove]]s, and are better amenable to small-scale businesses run by a family.<ref name="fao">[[FAO]]: [http://www.fao.org/figis/servlet/static?dom=culturespecies&xml=Macrobrachium_rosembergii.xml Cultured Species Fact Sheet ''M. rosenbergii'']; accessed June 30, 2005. Has images.</ref> However, like marine [[farmed shrimp]], ''M. rosenbergii'' is also susceptible to a variety of [[virus|viral]] or [[bacterium|bacterial]] diseases,<ref name="ton">Tonguthai, K.: [http://www.fisheries.go.th/aahri/Health_new/AAHRI/AAHRI/Topics/Newsletter/art6.htm ''Diseases of the Freshwater Prawn,'' Macrobrachium rosenbergii], AAHRI Newsletter '''4'''(2), Aquatic Animal Health Research Institute, Bangkok University; December 1997.</ref> including the [[White Tail Disease]]<ref name="wtd">Sahul Hameed, A. S.: [http://library.enaca.org/Health/DiseaseLibrary/DiseaseCard-WTD.pdf ''White tail disease of ''Macrobrachium rosenbergii], NACA, 2003.</ref>, also called "White Muscle Disease".<ref name="wmd">Sahul Hameed, A. S.: ''[http://library.enaca.org/Health/DiseaseLibrary/White_tail_disease.pdf White Tail Disease - Disease Card]'', NACA, 2005.</ref>
+
+== Economics ==
+
+The global annual production of freshwater prawns in [[2003]] was about 280,000 tonnes, of which China produced some 180,000 tonnes, followed by India and Thailand with some 35,000 tonnes each. Other major producer countries are [[Taiwan]], [[Bangladesh]], and [[Vietnam]]. In the [[United States]], there are only a few hundred small farms for ''M. rosenbergii'' with an overall production of just about 50 tonnes in 2003.<ref name="figis_fresh" /> The U.S. is, though, the largest producer of farmed [[crayfish]]. In [[2003]], U.S. farms produced 33,500 tonnes of [[Procambarus clarkii|red swamp crawfish]] (''Procambarus clarkii''), a crayfish species native to [[North America]].
+
+== See also ==
+
+*The technologies used in freshwater prawn farming, but also the ecological problems associated with this industry, are basically the same as for marine [[shrimp farm]]ing and are discussed in that article.
+
+== Footnotes ==
+
+{{fnb|1}} The terminology is sometimes confusing as the distinction between "[[shrimp]]" and "[[prawn]]" is sometimes blurred. Recent aquaculture literature increasingly uses the term "prawn" only for the freshwater forms of [[palaemonid]]s and "shrimp" for the marine [[penaeid]]s.<ref name="iaa">Indian Aquaculture Authority: ''[http://aquaculture.tn.nic.in/pdf/farming.pdf Shrimp Aquaculture and the Environment - An Environment Impact Assessment Report]'', ch. 2; IAA report, April 2001.</ref>
+
+== References ==
+
+The main reference for this article was a comprehensive farming manual of the [[FAO]].<ref name="freshwater" />
+
+<references />
+
+[[Category:Dendrobranchiata]]
+[[Category:Fisheries science]]
+[[Category:Commercial fishing]]
+
+[[fr:Élevage des crevettes d’eau douce]]

@@ -1,0 +1,20 @@
+{{MedalTop}}
+{{MedalSport | Men’s [[Short track speed skating at the Winter Olympics|Short track speed skating]]}}
+{{MedalGold| [[2006 Winter Olympics|2006 Turin]] | [[Short track speed skating at the 2006 Winter Olympics#Men's 5000 m relay|5000m relay]]}}
+{{MedalBottom}}
+
+'''Seo Ho-Jin''' (born [[June 11]], [[1983]]) is a South Korean [[Short track speed skating|short track speed skater]] who won gold in the 5000m relay at the [[2006 Winter Olympics]] in Turin.
+
+[[Category:1983 births]]
+[[Category:Living people]]
+[[Category:South Korean speed skaters]]
+[[Category:Olympic short track speed skaters of South Korea]]
+[[Category:Short track speed skaters at the 2006 Winter Olympics]]
+[[Category:Olympic gold medalists for South Korea]]
+
+{{Korea-sport-bio-stub}}
+{{Speed-skating-bio-stub}}
+{{Winter-Olympic-medalist-stub}}
+
+[[fr:Ho-Jin Seo]]
+[[ko:서호진]]

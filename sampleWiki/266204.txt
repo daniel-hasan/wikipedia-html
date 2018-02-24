@@ -1,0 +1,70 @@
+{{Intellectual property}}
+A '''genericized trademark''', ''generic trade mark'', ''generic descriptor'', or ''proprietary eponym'', is a [[trademark]] or [[brand name]] that has become the [[colloquialism|colloquial]] or generic description for or synonymous with a particular class of [[Good (economics and accounting)|product]] or [[Service (economics)|service]]. Classic examples include [[Scotch Tape]], [[Frisbee]], [[JumboTron]], [[Sellotape]] (U.K) [[Jell-O]] (U.S., Can.), [[Xerox]] (photocopying- U.K., U.S., Can.), [[Band-Aid]] (adhesive bandages- U.S., Can., Aus.), [[The Hoover Company|Hoover]] (vacuum cleaner-U.K.), [[Kleenex]] (facial tissues-U.K., U.S., Can.), [[Q-tips]] ([[cotton swabs]]-U.S., Can.), [[Popsicle]] (ice pops-U.S., Can.), [[Rolodex]] and [[Asprin]] ([[Bayer]]) (for other examples see [[List of generic and genericized trademarks]] and [[List of non-English generic and genericized trademarks]]).  The term is legally significant in that unless a company works sufficiently to prevent such broad use of its trademark, its [[intellectual property]] rights in the trademark may be lost.
+
+A [[trademark]] typically becomes "genericized" when the products or services with which it is associated have acquired substantial [[market dominance strategies|market dominance]] or [[mind share]]. However, a trademark may still become genericized in the absence of significant [[market share]] through mechanisms such as [[viral marketing]]{{fact|date=August 2007}}.
+
+==Legal concepts==
+
+Whether or not a mark is popularly identified as genericized, the owner of the mark may still be able to enforce the [[proprietary]] rights which attach to the use or registration of the mark, so long as the mark continues to exclusively identify the owner as the commercial origin of the applicable products or services. If the mark does not perform this essential function and it is no longer possible to legally enforce rights in relation to the mark, the mark may have become generic. In many legal systems (e.g. in the [[USA]] but not in [[Germany]]) a generic mark forms part of the [[public domain]] and can be commercially exploited by anyone. Nevertheless, there exists the possibility of a trade mark to become a revocable generic term in German (and European) trademark law.
+
+The process by which trademark rights are diminished or lost as a result of common use in the marketplace is sometimes known as '''genericide'''. This process typically occurs over a period of time where a mark is not used as a trademark (i.e. where it is not used to exclusively identify the products or services of a particular business); where a mark falls into disuse entirely; or where the trademark owner does not enforce its rights through [[lawsuit|actions]] for [[passing off (legal term)|passing off]] or [[trademark infringement]].
+
+For example, one risk factor which may lead to genericide is the use of a trademark as a [[verb]], [[noun]], [[plural]] or [[possessive]], unless the mark itself is possessive or plural (e.g. "Friendly's" restaurants).[http://www.3com.com/corpinfo/en_US/legal/trademark/prop_usage_tmb.html#1]
+
+===Avoiding genericide===
+Trademark owners will naturally seek to maximize the popularity of their marks, and may believe that a certain level of genericity demonstrates how well-known and successful a mark has become. However, generic use of a trademark presents an inherent risk to the effective enforcement of trademark rights and may ultimately lead to genericide.
+
+Trademark owners may take various steps to reduce the risk of genericide, including educating businesses and consumers on appropriate trademark use, avoiding use of their marks in a generic manner, and systematically and effectively enforcing their trademark rights. If a trademark is associated with a new [[invention]], the trademark owner may also consider developing a generic term for the product to be used in descriptive contexts, in order to avoid inappropriate use of the "house" mark.
+
+Where a trademark is used generically, a trademark owner may need to take special proactive measures in order to retain [[exclusive right]]s to the trademark. [[Xerox]] provides one successful example of a company which was able to prevent the genericide of its core trademark through an extensive public relations campaign advising consumers to "[[photocopy]]" instead of "Xeroxing" documents (the brand did become generic in [[Russian language|Russian]], [[Bulgarian language|Bulgarian]], [[Portuguese language|Portuguese]] and [[Romanian language|Romanian]], though. See [[list of generic and genericized trademarks]]). Another common practice amongst trademark owners is to follow their trademark with the word "brand" to help define the word as a trademark. [[Johnson & Johnson]] changed the lyrics of their [[Band-Aid]] television commercial jingle from, "''I am stuck on Band-Aids, 'cause Band-Aid's stuck on me''" to "''I am stuck on Band-Aid '''brand''', 'cause Band-Aid's stuck on me.''" [[Google]] has gone to lengths to prevent this process, discouraging publications from using the term 'googling' in reference to web-searches. This led [[New Scientist|New Scientist's]] Feedback section to coin the [[neologism]] FWSEing - in reference to the Famous Web Search Engine<ref>{{cite news|url=http://www.newscientist.com/article/mg19125672.700-feedback.html|title=Feedback|publisher=[[New Scientist]]|date=[[2006-09-02]]|accessdate=2007-01-25}}</ref>. In 2006, "[[Google (verb)|google]]" has been defined in the ''[[Merriam Webster|Merriam Webster Collegiate Dictionary]]'' and the ''[[Oxford English Dictionary]]'' as a verb meaning "to use the Google search engine to obtain information on the Internet."<ref>Harris, Scott D. "[http://www.mercurynews.com/mld/mercurynews/business/14985574.htm Dictionary adds verb: to google]." ''[[San Jose Mercury News]].'' [[July 7]], [[2006]]. Retrieved on [[July 7]], [[2006]].</ref><ref>Bylund, Anders. "[http://msnbc.msn.com/id/13720643/ To Google or Not to Google]." ''[[The Motley Fool]] via [[MSNBC]].'' [[July 5]], [[2006]]. Retrieved on [[July 7]], [[2006]].</ref>
+
+One example of an active effort to prevent the genericization of a trademark was that of the Lego company, who printed in manuals in the 1970s and 1980s a request to customers that they call the company's interlocking plastic building blocks "'Lego blocks' or 'toys' and not 'Legos'."  While this went largely unheeded, and many children and adults referred to the pieces as "Legos," use of the deprecated term remained largely confined to the Lego company's own products (and not, for example, to Tyco's competing and interchangeable product) so genericization of the Lego trademark did not occur.
+
+=== Terminology ===
+The terms "genericide" and "genericized trademark" are not [[technical terminology|terms of art]]; legally, "genericide" is a [[malapropism]]. Alternative terms have been suggested by various commentators, such as the judge in ''Plasticolor Molded Products v. Ford Motor Company'', who suggested "genericization" or "trademarkicide" [http://print.google.com/print?id=e67o2-S_riMC&lpg=73&dq=genericide&prev=http://print.google.com/print%3Fie%3DUTF-8%26q%3Dgenericide%26btnG%3DSearch&pg=74&sig=TfNmUH7tJvkVUz-VCyjqJcIOw4Q], a member of [[Cecil Adams]]'s contributing board who suggested "brand eponym" in [[The Straight Dope]] Mailbag [http://www.straightdope.com/mailbag/meponym.html], and others who have suggested "proprietary eponym". These latter terms and the term "genericized trademark" have not yet been used in legal literature whereas "genericide" has[http://books.google.com/books?ie=UTF-8&vid=ISBN1570183139&id=e67o2-S_riMC&pg=PA74&lpg=PA74&vq=genericide&sig=Nt1hU0m9fYo4fGcdKmHweT5wQPA].
+
+== Opposite effect in other legislation ==
+
+The section above describes the situation in countries such as the United States, where a genericization causes a trademark to lose its protection, a consequence the trademark owner might wish to avoid. In other countries (several European ones, e.g.), a trademark stays protected even after genericization. In this case, the outcome is very positive for the owner: The customer might not even know the proper non-trademarked term for the product, or consider this term as very artificial sounding and/or inconvenient, and hence associates only the trademark owner's product with the whole range of products, possibly even being ignorant about alternatives. 
+
+The classic example is [[Bayer]]'s trademark for the drug [[Aspirin]]. A customer at a pharmacy is obviously more likely to ask for "Aspirin" than for "acetylsalicylic acid tablets", which is the name all manufacturers of generic versions of the drug are forced to use in order not to infringe the trademark. Hence, having one's trademark become generic is, quite contrary to the case discussed above, often considered the ultimate marketing success.  However, in the United States, Bayer lost the trademark to the word "aspirin" after World War I.  In 1921, a landmark ruling by [[Billings Learned Hand]] established "aspirin" as a genericized trademark.<ref>''[http://cyber.law.harvard.edu/metaschool/fisher/domain/tmcases/bayer.htm Bayer Co. v. United Drug Co.]'', 272 F. 505 ([[United States District Court for the Southern District of New York|S.D.N.Y.]] 1921). Free full text at [[Harvard Law School]]'s Berkman Center for Internet & Society. Retrieved on [[2007-09-07]].</ref>
+
+== Protected designation of origin ==
+Since [[2003]] the [[European Union]] has actively sought to restrict the use of [[geographical indication]]s by third parties outside the EU by enforcing laws regarding what is known as "[[Protected designation of origin]]". Although a geographical indication for specialty food or drink may be generic, a geographical indication is not a trademark because it does not serve to exclusively identify a specific commercial enterprise, and therefore cannot constitute a genericized trademark.
+
+The extension of protection for geographical indications is somewhat controversial because a geographical indication may have been registered as a trademark elsewhere. For example, if ''Parma Ham'' were part of a trademark registered in [[Canada]] by a Canadian manufacturer, ham manufacturers actually located in [[Parma]], [[Italy]] might be unable to use this name in Canada.
+
+Other affected products include ''[[Champagne (wine)|Champagne]]'', ''[[Port wine|Port]]'', ''[[Bordeaux wine|Bordeaux]]'' and many other wine names, ''[[Roquefort cheese|Roquefort]]'', ''[[Parmesan]]'' and ''[[Feta cheese|Feta]]'' cheese, and ''[[Scotch whisky|Scotch]]'' whisky. In the [[1990s]] the Parma consortium successfully sued the [[ASDA]] [[supermarket]] chain to prevent it using the description ''Parma ham'' on [[prosciutto]] produced in Parma but sliced outside the region.
+
+== See also ==
+* [[List of generic and genericized trademarks]]
+* [[List of non-English generic and genericized trademarks]]
+* [[Brand]]
+* [[Brand management]]
+* [[Eponym]]
+* [[Trademark dilution]]
+* [[Trademark]]
+* [[Proper adjective]]
+
+== External links ==
+* [http://www.prairienet.org/~rkrause/brands.html American Proprietary Eponyms, a project by R. Krause, December 1997]
+* [http://www.pinsentmasons.com/media/300313619.pdf Article on generic brands]
+* [http://www.visiobrand.com/index.jsp Visiobrand brand directory]
+
+== References ==
+<div class="references-small"><references/></div>
+
+[[Category:Branding]]
+[[Category:Intellectual property law]]
+[[Category:Genericized trademark|*]]
+[[Category:Trademark law]]
+[[Category:Marketing]]
+[[Category:Product management]]
+
+[[bg:Генерична марка]]
+[[de:Begriffsmonopol]]
+[[fr:Nom de marque générique]]
+[[hu:Fajtanévvé vált védjegy]]
+[[ja:商標の普通名称化]]
+[[sv:Varumärkesord]]
+[[zh:通用商標]]

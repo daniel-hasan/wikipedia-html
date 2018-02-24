@@ -1,0 +1,214 @@
+{{otheruse|use1=Shishigami|page1=Mononoke Hime}}{{Infobox animanga/Header|
+ title_name    =Nightwalker: The Midnight Detective
+ |image = 
+ |caption      =Shido, Riho and Guni
+ |ja_name      =Night Walker – 真夜中の探偵-
+ |ja_name_trans=Naito Uōkā – Mayonaka no Tantei-
+ |genre        =[[horror fiction|Horror]], [[Mystery]], [[Comedy]], [[Romantic love|Romance]]
+}}
+{{Infobox animanga/Game
+| title        = Mayonaka no Tantei Night Walker
+| developer    = TomBoy<br>Arieroof
+| publisher    =
+| genre        =[[horror fiction|Horror]]<br>[[Mystery]]<br>[[adventure game|Adventure]]<br>[[Hentai]]
+| ratings      = 
+| platforms    = [[IBM PC compatible|PC]] ([[PC-9801]])<br>[[Windows 2000]]
+| release_date = 1993, 2001/05/25
+}}
+{{Infobox animanga/Anime|
+ title_name    =
+ |director     =Yutaka Kagawa
+ |studio       ={{flagicon|Japan}} [[Anime International Company|AIC]]<br>{{flagicon|Japan}} BeStack<BR>{{flagicon|Japan}} [[Bandai Visual]]<ref>[http://anidb.info/perl-bin/animedb.pl?show=anime&aid=737 ''Nightwalker'' on AniDB]</ref><br>{{flagicon|Japan}}Mishubishi
+ |licensor     ={{flagicon|USA}}[[Central Park Media|U.S. Manga Corp]]
+ |network      ={{flagicon|Japan}} [[TV Tokyo]]
+ |first_aired  =[[8 July]] [[1998]]
+ |last_aired   =[[23 September]] [[1998]]
+ |num_episodes =12<ref>[http://anidb.info/perl-bin/animedb.pl?show=anime&aid=737 ''Nightwalker'' at AniDB]</ref>
+}}
+{{Infobox animanga/Footer}}
+
+{{Nihongo|'''''Nightwalker: The Midnight Detective'''''|真夜中の探偵|Naito Uōkā Mayonaka no Tantei}} is an [[anime]] created by [[Ayana Itsuki]] that combines elements of the [[horror fiction|horror]], [[detective fiction|detective story]] and [[vampire fiction|vampire]] genres. The anime is based on a [[IBM PC compatible|PC]] game titled  '''{{Nihongo|Mayonaka no Tantei Night Walker|真夜中の探偵 Night Walker}}''', developed by '''TomBoy'''. The main character is '''Shido''', a [[vampire]] who has promised to protect humans. A private investigator by day and a demon hunter by night, Shido solves [[murder]] cases caused by nightbreeds (low-class monsters) with his friends Riho Yamizaki, Yayoi Matsunaga and Guni.
+
+==Story==
+In the world of ''Nightwalker'', attacks by the '''{{nihongo|nightbreed|ナイトブリード}}''', minor demons that possess humans and feed on their souls, are relatively common. As a group, nightbreeds (often referred to by the abbreviation 'breed') are usually self-serving and of low intelligence, and they drive a human host to commit crimes. Because these breed-inspired crimes are often difficult to identify, a special agency known as the N.O.S. has been organized to investigate and solve breed-related cases.
+
+'''Shido''', the main character of the series, is a [[vampire]] who decided to defend humans against his demonic brethren as atonement for the sins he committed early in his vampiric life. He knows little of his life prior to becoming a vampire, and even his name is a [[pseudonym]] he took when he arrived in Japan. Upon settling down in Japan, Shido established a one-man (plus one-secretary) private investigator office, which he uses as a means to hunt breeds while keeping his true nature secret. Shido even keeps his identity secret from '''Riho''', a teenage girl he decided to employ as a secretary after her parents were killed in a breed attack.
+
+All is not business as usual at Shido's office, however, as Shido is soon forced to reveal to Riho that he is the same sort of creature that killed her parents. Furthermore, Shido's powerful and obsessive sire, '''Cain''', has plans in motion to reclaim Shido, as well as to initiate the 'Golden Dawn', a secret with far-reaching implications for all creatures of the night.
+
+==Characters==
+===Major characters===
+*'''{{Nihongo|Tatsuhiko Shido|紫藤龍彦|Shidō Tatsuhiko}}'''
+[[Image:Shido2.png|right]]
+:The main character, Shido is the owner of a detective office in the city of [[Yokohama]] in [[Kanagawa Prefecture]]. He is also a vampire, and his powers include tremendous strength and agility, flying, creating an illusion of himself, and the ability to manipulate his own blood to form weapons (often a sword or a whip) or projectiles. Shido has an outwardly mercurial personality, but he is actually very serious and dedicated – so much so that he is likely to blame himself when something goes wrong. He is flirtatious, particularly in the first few episodes, but despite his suggestive banter, he is too scrupulous to take advantage of women.
+:Several hundred years ago, Shido was turned into a vampire by Cain. As a result, most of his mortal memories have been erased. He turned his young sister/step-daughter-to-be into a vampire, but she didn't want to live forever. She committed suicide by throwing herself through a window, burning with the sunlight (a memory from earlier in the series suggests that she died by hitting the rock below the building she jumped from). That is possibly the turning point in his life, when he decided to stop taking blood from unwilling humans.
+*'''{{Nihongo|Yayoi Matsunaga|松永弥生|Matsunaga Yayoi}}'''
+[[Image:Yayoi.png|right]]
+:An N.O.S. agent, Yayoi Matsunaga often retains Shido's help on nightbreed cases. In return, she pays Shido with her blood in exchange for his expertise in investigating nightbreeds. Since Yayoi's relationship with Shido goes beyond being strictly professional, she gladly feeds him whenever he needs it.
+:Originally, Yayoi was horribly disfigured in a fire when she was five years old, while her twin sister Kasumi was unharmed. It turned out that Kasumi's good fortune was due to a nightbreed which had possessed her. Kasumi died while trying to exorcise the breed, but not before using the last of the breed's power to give her soul – and her face – to Yayoi.
+*'''{{Nihongo|Riho Yamazaki|山崎理保|Yamazaki Riho}}'''
+[[Image:Riho.png|right]]
+:An orphaned girl whose parents were killed by nightbreeds. Shido "adopted" her. She worked as Shido's secretary, hoping to somehow win his affection, and unaware of his secret… until she tried to help Shido out in a case which involved the nightbreed Gimel. Even though she found out that Shido was a vampire she stayed on, even putting up with Guni's insults.  
+:Later, during the "Golden Dawn" case, Cain cuts Riho severely and leaves her to bleed to death. Riho asks Shido to drink her blood, knowing that she will be turned into a vampire, partially because she doesn't want to die, but also because she secretly wishes to live with him forever. Reluctantly, Shido does as she requested, and as a result, she becomes a vampire. As a vampire Riho is not nearly as strong as Shido, but even still she struggles to reconcile her humanity and her new powers. Yayoi feeds her as well.
+*'''{{Nihongo|Guni|グニ}}'''
+[[Image:Guni.png|right]]
+:A small, green, self-styled "urban fairy" who hangs around with Shido, usually behind his mane of hair. Her relationship with Shido is like that of a [[familiar]] spirit, but she only assists him if she feels like it. She often irritates the others, especially Riho, with biting remarks.  However, she also offers worthy advice and is often concerned whenever the team goes out on cases.
+:Guni does have powers.  She can project electric bolt from her hands.  However, these bolts are usually a nuisance to enemies because of her small size.  She also claims to have the ability to change shape, but this power hasn't been shown.
+*'''{{Nihongo|Cain|カイン}}'''
+[[Image:Cain.png|right]]
+:Cain is a powerful vampire and the main antagonist of the anime series. He turned Shido into a vampire long before the anime's current events. He and Shido once lived a pleasant life together in Transylvania, where they fed on countless innocent people. Cain's cruelty, hedonistic lifestyle and control issues eventually drove Shido to leave him, though Cain absolutely refuses to let him go. Cain is much stronger than Shido, due to the fact that Cain has been a vampire for a longer period of time. His powers include telepathy, telekinesis, teleportation, the ability to grow his nails into long claws, and the power to cast a person into a nightmare that he controls.
+:Overall, Cain is a character who enjoys having a tenacious grip on everything around him. He frequently claims to love Shido, and many of his actions throughout the series are dedicated to inducing Shido to return to him. At the end of the series, Cain's last line before he leaves is a truthful, "I love you, Shido."
+*'''{{Nihongo|Shunichi|俊一}}'''
+:Appears in episode 5. Shunichi is one of Riho's old friends from high school. He, Riho, and their mutual friend Mikako were all members of their school's film club before Riho became a vampire. He's very sweet, but has fallen into a depression worring over Riho's sudden personality changes and absence from school. Suspecting Riho's behavior is related to drug use, he attempts to find out exactly what brought about this change. When he discovers she is a vampire, he vainly attempts to hold Riho to a film dealing, but she refuses, asking Shunichi to forget about her.
+*'''Asami Akeba'''
+:Appears in episode 8. Originally a kindergarten teacher, Asami Akeba left her job after a scandal involving the father of one of her students. The father's wife won a very hefty settlement in the divorce, so much so that Asami reluctantly agreed to a plan with her mother Miharu and brother Koichi in murdering her wealthy grandfather, Shuzo Akeba, who has a weak heart.  Shizo had an estate worth over ¥1,000,000,000 and Miharu and Koichi wanted it to keep their respective businesses afloat. 
+:Although successful, the plan goes awry when Shuzo's body is possessed by a nightbreed. Asami, feeling guilty about her part in the plan, hires Shido after running into him when she saw her grandfather's body walking in the Ginza district. Although reluctant about the case, Shido agrees when he found it was a nightbreed inhabiting Shuzo's body. However, Miharu and Koichi find out and try to stop them, thinking Asami is trying to plead for mercy to her grandfather.
+*'''Koichi Akeba'''
+:Koichi Akeba is Asami Akeba's older brother and also appears in episode 8.  He owns his own theatrical company, but recently it has been running in the red, mostly because of Koichi's extravagant tastes.  His grandfather, Shuzo Akeba, refused to give him the money to keep his company afloat, not to mention making disparaging remarks about his mother Miharu.  So he, along with Miharu and the reluctant help of Asami, plot to kill Shuzo by scaring him into a fatal heart attack.  While the plan worked, it was undone when a nightbreed took possession of Shuzo's body and left the car where his body sat.
+*'''{{Nihongo|Kasumi Matsunaga|松永香寿美|Matsunaga Kasumi}}'''
+:Appears in episode 9. The older twin sister of Yayoi Matsunaga, Kasumi was possessed by a nightbreed when she was five years old, after her parents were killed in the same fire that disfigured Yayoi. In exchange for saving Yayoi, the nightbreed forced Kasumi to kill women by ripping off their faces and displaying them in a hidden room beneath the inn the two sisters own.
+*'''Dark Riho'''
+:Appears in episode 12. This version of Riho is a dream manifestation created by Cain to torment Shido.  In the dream, Shido kills Riho's parents, who had been resurrected as nightbreeds, against Riho's protests. Disillusioned with Shido's callousness, Riho abandons Shido and his ideals, becoming a murderous vampire who preys on humans. The dream ends with this evil Riho killing Guni and Yayoi before Shido destroys her.
+:When Shido woke up, Cain (who Shido thought he killed during the "Golden Dawn" caper) revealed himself, and told him that the dream was to show Shido how he felt when Shido abandoned him.  He then approches a terrified Riho, saying he was glad he left her to Shido, saying that one day maybe he would finally grow up.  When Shido blocks him, Cain tells him he will be back, kisses Shido, then leaves, telling Shido he loved him.
+:However, Cain's plan to get Shido back backfires.  Shido instead sees Riho with new eyes… and the two become lovers.
+
+===Nightbreeds===
+Nightbreeds are demons that prey on humans. They possess a human hosts, although this is only possible if said host is dead, comatose, or willing. In the case of willing victims, the nightbreed and the host make a bargain: the nightbreed will fulfill its host's desires (such as talent, youth, luck, etc) if the host does the same for the nightbreed (such as by killing and eating other humans or animals, etc); a living host can survive having the nightbreed forced out of their body if no major damage is done to them in the process. Nightbreeds can also make bargains with humans without actually possessing them, and feed directly on their lifeforce instead. It is possible for a nightbreed to have relatively benign intentions, although such intentions are often hideously perverted.
+*'''{{Nihongo|Gimel|ギメル}}'''
+:A nightbreed that appears in episode 1, "A Visitor in the Night".  Seeking a human host, it goes on a rampage on the Bay Bridge. It possesses people by force, which leads to a series of violent traffic accidents.
+*'''{{Nihongo|Mariel|マリエル}}'''
+:Appears in episode 2, "the Terms of Stardom". This nightbreed considers herself a 'patron of the arts'; in return for human flesh, she grants aspiring actors the talent they desire to be great.
+*'''{{Nihongo|Bait|ベイト}}'''
+:Appears in episode 6, "The Bottom of a Well". This nightbreed took over the body of Koji Ozaki, a [[salaryman]], soon before Shido started pursuing it. It takes a little girl hostage, whom Shido attempts to protect by throwing himself, along with the girl and the breed, into a well. Neither Shido nor Bait have the strength to escape the well, and Bait tries to persuade Shido to give up his ideals and drink the girl's blood. Despite being injured, Shido is able to rescue the girl from the well, while Bait is destroyed by Yayoi. However, in the end the girl reveals that she is a vampire. It was discovered that she has a missing persons report — from thirty years prior.
+*'''Shinji'''
+:Appears in episode 7, "A Mother and her Child". This is in fact the name of a boy possessed by a low-class nightbreed. The boy died and the breed took over his body; his mother, however, believes Shinji recovered, and is very protective of him.
+:As a lower class nightbreed, "Shinji" is limited to consuming the flesh of animals.  The breed also isn't as powerful as higher class breeds, but are still very nasty.  Lower class breeds also make up for their lack of power by exploiting human weaknesses… like love and loyalty. 
+*{{Nihongo|''''Angel''''|天使|Tenshi}}
+:A nightbreed who appears in episode 10, "Tears of an Angel". Although he initially looks like a handsome young man, his true form is extremely hideous. When it was revealed to his current human, a girl named Yuki, he expressed a desire to continue being with Yuki, attacking her when she resented him because of his form. He usually preys on individuals lacking in self-esteem (this is somewhat ironic, as Angel himself didn't wish for Yuki to forsake him, hiding behind his angel form).
+*'''Witch'''
+:Appears in episode 11, "A Witch in the Forest". One hundred years prior to the episode, this woman bade her love, a man named Shuberk, goodbye as he left to go to war. Over the intervening years the woman faithfully waited for Shuberk, but her beauty was fading and she worried that he would not love her when he returned. Then a nightbreed offered her a bargain: restored her youth and beauty in exchange for human flesh. Upon accepting the bargain, the woman became blind.
+:In the events of the episode, Cain uses the woman as an example of human folly and frailty in hopes of convincing Shido to rejoin him. Shido meets the woman in the ruins of her village and suspects nothing, but Cain appears to tell him that she is not what she seems. Eager to prove Cain wrong, Shido returns to the village and is attacked by the woman in her breed form, when Cain intercedes.
+:Shido refuses Cain's requests to rejoin him, and in response Cain tells Shido the location of the breed's lair. Shido is horrified to discover the frozen bodies of the villagers in the nightbreed's lair, including Shuberk, whom she did not recognize in her blindness. Shido confronts the breed with her crimes, and not wanting to listen, the breed attacks him, only to let Shido deal her a fatal blow. Strangely, she thanks Shido for setting her free and casts herself over a cliff.
+
+==Voices==
+===Major characters===
+Tatsuhiko Shido – '''[[Takumi Yamazaki]]''' (Japanese), '''[[Richard Cansino]]''', (credited as '''Vincent Hatcher''') (English)
+
+Yayoi Matsunaga – '''[[Emi Shinohara]]''' (Japanese), '''[[Mari Devon]]''', (credited as '''Jane Alan''') (English)
+
+Riho Yamazaki – '''[[Maaya Sakamoto]]''' (Japanese), '''[[Dorothy Elias-Fahn]]''', (credited as '''Dorothy Melendrez''') (English)
+
+Guni – '''[[Ikue Otani]]''' (Japanese), '''[[Sandy Fox]]''' (English)
+
+Cain – '''[[Hideyuki Tanaka]]''' (Japanese), '''[[Lex Lang]]''' (English)
+
+===Minor characters===
+Yukie Tsukimura – '''[[Yuko Kobayashi]]''' (Japanese), '''[[Melodee M. Spevack]]''' English
+
+Yoko Asahina – '''[[Takako Kikuchi]]''' (Japanese), '''[[Wendee Lee]]''' English
+
+Megumi Otsuka – '''[[Maya Okamoto]]''' (Japanese), '''[[Bridget Hoffman]]''' English
+
+Shunichi – '''[[Akira Ishida]]''' (Japanese), '''[[Lex Lang]]''' English
+
+Bait – '''[[Toshihiko Seki]]''' (Japanese), '''[[David Mallow]]''' English
+
+Shinji – '''[[Satomi Koorogi]]''' (Japanese), '''[[Mari Devon]]''', credited as '''Jane Alan''' (English)
+
+Kasumi Matsunaga – '''[[Emi Shinohara]]''' (Japanese), '''[[Mari Devon]]''', credited as '''Jane Alan''' (English)
+
+Witch – '''[[Matsuko Katsuki]]''' (Japanese), '''[[Mary Elizabeth McGlynn]]''' (English)
+
+Asami Akiba – '''[[Melissa Fahn]]''' (English)
+
+Koichi Akiba – '''[[Derek Stephen Prince]]''' (English)
+
+Miharu Akiba – '''[[Melora Harte]]''' (English)
+
+Angel – '''[[Steve Staley]]''' (English) 
+
+Chief Inspector Furano – '''[[Naoki Bandou]]''' (Japanese), '''[[Bob Pappenbrook]]''' (English)
+
+==Theme Songs==
+'''Opening Theme'''
+:'''{{Nihongo|Gessekai|月世界|}}''' by [[BUCK-TICK]]
+:Unlike most anime opening themes, ''Gessekai'' was not written for use in ''Nightwalker'', but was selected from BUCK-TICK's existing body of work.
+
+'''Ending Theme'''
+:'''{{Nihongo|Mirai Kōro|未来航路}}''' by [[La'cryma Christi]]
+
+==Episodes==
+Nightwalker has 12 episodes, all of them divided as "nights":
+:1.  '''{{Nihongo|A Visitor in the Night|闇を来る者}}'''
+:2.  '''{{Nihongo|The Terms of Stardom|女優の条件}}'''
+:3.  '''{{Nihongo|A Man on the Run|逃げる男}}''' 
+:4.  '''{{Nihongo|The Golden Dawn|黄金の夜明け}}'''
+:5.  '''{{Nihongo|Medicine for the Dead|死者の薬}}'''
+:6.  '''{{Nihongo|The Bottom of a Well|井戸の底}}'''
+:7.  '''{{Nihongo|A Mother and her Child|母と息子}}'''
+:8.  '''{{Nihongo|A Lost Soul in the Night|夜歩く者}}'''
+:9.  '''{{Nihongo|Someone Else's Face|他人の顔}}'''
+:10. '''{{Nihongo|Tears of an Angel|天使の涙}}'''
+:11. '''{{Nihongo|A Witch in the Forest|森の魔女}}'''
+:12. '''{{Nihongo|Eternal Darkness|永遠の闇}}'''
+
+==Original PC game==
+[[Image:NightwalkerPC98.gif|thumb|250px|right|The game's title screen.]]
+The source material for the anime came from '''{{Nihongo|Mayonaka no Tantei Night Walker|真夜中の探偵 Night Walker}}''', a 16-color PC [[eroge]] (erotic game) released in 1993, which may be a bit too explicit to qualify as [[softcore]]. Night Walker is an [[adventure game]], focused mostly on character interaction and problem solving. While the main characters of this game have the same names and similar appearances to their anime equivalents, their personalities are generally more easy-going and their backgrounds are less tragic (they all have living relatives). Overall, the game takes itself less seriously than the anime does, and Shidō (with help from Guni) is the source of most of the humor.
+
+In 2001 the developer Arieroof remade this game for [[Windows 2000]] under the title '''''Night Walker'''''. This version uses the same source drawings as the original game, except with 256-color displays, and plays similarly. The characters are recolored, and match the anime more closely. (Shidō's hair is purple, Guni's body is green. Inexplicably, Yayoi's hair is bubblegum pink.)
+
+===Characters===
+*'''Tatsuhiko Shidō'''
+:A quarter-vampire (one of his grandfathers was a full-blood vampire, and the rest of his family line is of Japanese descent), Shidō has inherited guardianship of the passage between the mortal world and the demon world, but otherwise he lives as a human. His 'day job' is private investigator, and he works closely with the Kanagawa police. Through this connection, he learns that a girl he was unable to save from nightbreeds was a student at St. Michael Girls Academy, and goes to the school to investigate. He is quite pleased about this because he is something of a pervert, and takes plenty of time out to ogle the teenage girls.
+:Shidō's vampiric powers are limited to superhuman strength and agility, and the ability to extend his fingernails into blades. This is due in part to his weakened bloodline, but mostly because he has never consumed human blood. Upon drinking blood, his powers rival those of a pure-blood vampire. The design sheets for the scrapped sequel game suggest that he would've gained the blood sword ability seen in the anime.
+*'''Riho Yamazaki'''
+:A high school student at St. Michael Academy, she shared a dorm room with Miyako, the girl murdered by nightbreeds. (Incidently, Riho is not a possible sexual partner for Shidō.) Normally cheerful and energetic, Riho is shocked and depressed by her friend's murder. When Shidō comes to her for help, she vows to avenge her friend and helps Shidō unravel the conspiracy based out of the school. Shidō drinks Riho's blood in the finalé of the game, and while she does not become a vampire, she is no longer fully human.
+:Originally, Night Walker was planned to have Rihoko Ayukawa, a character from a previous TomBoy game called ''Bishōjo Audition'', in the role of heroine. As the project evolved, Rihoko became Riho.
+*'''Yayoi Matsunaga'''
+:She is a detective with the Kanagawa Police (the N.O.S. does not exist in the game). Hot-headed and frustrated both with her career and her love-life, she tends to be short tempered. Yayoi comes from a  police family, and her father, the chief of the Yokohama police, worked closely with Shidō's vampiric relatives. As much as Yayoi resents it, she seems to be destined for the same role. She and Shidō dated prior to the game, but the relationship fell apart. Now they spend most of their time together bickering, and Shidō loves to tease her. Yet, there's still a bit of a spark between them…
+:The character designer for the game, [[Ryuichi Makino]], insists that Yayoi's hair should be red.
+*'''Guni'''
+:Shidō's [[familiar]], an earth-spirit who inhabits Shidō's ear. (Guni seems to pop out of Shidō's ear in the anime as well, though it is not formally discussed.) Though Guni appears female (and is referred to as a 'she',) she is actually sexless. Guni ignores Shidō's commands more often than not, but she does really care about him. She styles herself a know-it-all, but usually mispronounces whatever she's trying to explain.
+:Guni's design is very similar to the anime, but her coloring is different.
+
+==Trivia==
+{{Trivia|date=June 2007}}
+* In the anime, vampires can go out during sunrise and sunset, but must protect their body with a hat or umbrella and dark clothes.
+* The Golden Dawn, which is mentioned in the first "season" of the show (Episodes 1–4), is a forgotten plot point in the second season.  It is speculated that the Golden Dawn was supposed to be children who were half-breed and half-human, as Cain's remarks hinted at.
+* Several real-life Yokohama locations appear in Nightwalker. The [[Yokohama Bay Bridge]], which figures in ep. 1, is a real bridge that spans [[Yokohama Harbor]]. Yokohama's [[Yokohama Chinatown|Chinatown]] (the largest in Japan<ref>[http://gojapan.about.com/cs/kantoregion1/a/yokohama_china.htm Yokohama China Town Article]</ref>), appears in both the game and the anime.
+* The Nightwalker anime has two character designers. Episodes 1–4 use character designs by Akira Isono, who also did character designs for the game/OAV [[Akane Maniax]]. The character designs for episodes 5–12 are by Miho Shimokasa, also known for later 3 seasons of [[Sailormoon]] and [[Cutey Honey#Cutey Honey Flash (1997-98)|Cutey Honey F]]. That is why Cain's hair color and hair style change.
+* There has been some disagreement in the fandom as to whether the little girl in Shido's flashback was his little sister or his soon to be stepdaughter. There is evidence pointing to the latter, though.  In Japanese, Shido refers to the woman in the flashback as the girl's mother, not as their mother.
+* Shido's memories seem to change from one episode to the next. It is first shown that Cain forcibly turned Shido into a vampire.  However, in a second set of flashbacks, it appears that either Shido willingly let Cain bite him and turn him into a vampire or, more likely, he was under a trance by Cain.
+* Although Shido says that he doesn't have a driver's license, he can drive a car quite well.
+* Even though none of the vampires in the anime have the ability to turn into bats, both opening sequences feature one or more bats, and the DVD covers show Shido with (unattached) bat wings behind him.
+
+==Notes and references==
+{{reflist|2}}
+
+==External links==
+*[http://www.anime-int.com/works/nightwalker/tv/ Nightwalker Official AIC Website {{flagicon|Japan}}]
+*[http://www.freewebs.com/midnight-detective/ Nightwalker Midnight Detective Official Website (fan mirror of the original)]
+{{anime-links|ann=52|imdb=0282312|annfo=518,jfurbh,nightwalker}}
+*[http://www.absoluteanime.com/nightwalker/index.htm Absolute Anime.com – Nightwalker listing]
+*[http://www.geocities.com/mistress_nightwalker/ Nightwalker Midnight Detective (fan site)]
+*[http://www.flavor-red.com/nw/ Flavor-Red (fan site)]
+*[http://www.dragoneye.domynoes.net/shido/ Memories Lost (fan listing)]
+*[http://www.animetric.com/nop/nightwalker.html Animetric – Nightwalker (review)]
+*[http://fan.lunar-legend.net/cain/ Golden Dawn (fan listing)]
+*[http://www.strangehorizons.com/2001/20010326/nightwalker.shtml The Kinder Side of Vampirism (synopsis)]
+*[http://www.getchu.com/soft.phtml?id=5420 Nightwalker Game at Getchu.com]
+
+[[Category:1993 video games]]
+[[Category:Action anime and manga]]
+[[Category:Adventure anime and manga]]
+[[Category:Animated series based on video games]]
+[[Category:Anime series]]
+[[Category:Horror anime and manga]]
+[[Category:Romance anime and manga]]
+[[Category:Vampires in film and television]]
+[[Category:Anime of the 1990s]]
+[[Category:Vampire detective shows]]
+
+[[es:Nightwalker]]
+[[ja:Night Walker -真夜中の探偵-]]

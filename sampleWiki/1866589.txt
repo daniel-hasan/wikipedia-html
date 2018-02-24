@@ -1,0 +1,80 @@
+{{Legislation of the European Union}}
+
+The '''legislative procedures''' of the [[European Union]] are the ways in which the European Union [[enact]]s [[legislation]]. The procedure used for any given legislative proposal depends on the policy area in question. The rules governing which procedure applies to which policy area are laid down in the [[Treaties of the European Union]].
+
+Whenever the Council is involved in legislating it either votes by unanimity or by [[qualified majority]] which like the choice of procedure depends on the policy areas in question.
+
+==Main legislative procedures==
+There are three main decision-making procedures currently in use. These are ''codecision'', ''assent'' and ''consultation''.<ref>[http://europa.eu/institutions/decision-making/index_en.htm EU website on decision-making]</ref>
+
+===Codecision procedure===
+: ''Main article: [[Codecision procedure]]''
+The Codecision procedure (also known as the Article 251<ref name="art">Articles cited refer to the [[Treaty establishing the European Community]] (otherwise known as the [[Treaty of Rome]]) unless otherwise indicated.</ref> procedure) is the main legislative procedure by which directives and regulations are adopted.<ref>Craig and de Búrca, p 145.</ref> The [[Council of the European Union]] and the [[European Parliament]] jointly adopt legislation based on a proposal by the [[European Commission]]. Both Parliament and Council — the latter acting by a [[qualified majority]]<ref>Article 251(2)</ref> — are required to agree on an identical text before a proposal can be adopted, however Parliament is deemed to have adopted a proposed law if it fails to either reject or propose amendments to it, by an absolute majority, within three months of its adoption by the Council.<ref>Article 251(2)</ref>
+
+The procedure was introduced with the [[Maastricht Treaty]]<ref>Craig and de Búrca, p 144.</ref> and was initially intended to replace the Cooperation procedure (see below). The codecision procedure was amended by the [[Treaty of Amsterdam]]<ref>Article 2(44) of that treaty.</ref> and the number of legal bases where the procedure applies was greatly increased by both the latter treaty and the [[Treaty of Nice]].
+
+The [[Treaty of Lisbon]] replaces all references to the "procedure referred to in Article 251" with references to the "ordinary legislative procedure".<ref>[http://www.consilium.europa.eu/uedocs/cmsUpload/cg00001re01en.pdf Text of the Draft Treaty amending the Treaty on European Union and the Treaty establishing the European Community]</ref>
+
+===Assent procedure===
+: ''Main article: [[Assent procedure]]''
+Under this procedure, the Council can adopt legislation based on a proposal by the European Commission after obtaining the consent of Parliament. Thus Parliament has the legal power to accept or reject any proposal but no legal mechanism exists for proposing amendments. Parliament has however provided for conciliation committee and a procedure for giving interim reports where it can address its concerns to the Council and threaten to withhold its consent unless its concerns are met.<ref>Craig and de Búrca, p 148.</ref>
+
+The procedure is used for issues concerning Union membership (Article 49 of the [[Treaty on European Union]]), economic and social cohesion (Article 161) and amendments to the Statute of the European Central Bank (Article 107(5)).
+
+===Consultation procedure===
+: ''Main article: [[Consultation procedure]]''
+Before the Single European Act the Consultation procedure was the most widely used legislative procedure in the then [[European Community]]. Under this procedure the Council, acting either unanimously or by a qualified majority depending on the policy area concerned, can adopt legislation based on a proposal by the European Commission after consulting the European Parliament. While being required to consult Parliament on legislative proposals, the Council is not bound by Parliament's position. In practice the Council would frequently ignore whatever Parliament might suggest and even sometimes reach an agreement before receiving Parliament's opinion. <ref>See for example, ''Roquette Frères v. Council'' <nowiki>[1980]</nowiki> ECR 3333, where Council legislation was struck down by the [[European Court of Justice]] when it was adopted before Parliament adopted its formal opinion.</ref> In order to obtain some [[leverage]] against proposals it disliked, Parliament would [[filibuster]] by delaying giving its formal opinion, [[wikt:thereby|thereby]] [[wikt:stalling|stalling]] the legislative process.
+
+Consultation is still used for legislation concerning:
+
+*the harmonisation of indirect taxation affecting the establishment and the functioning of the internal market (Article 93<ref name="art"/>)
+*the approximation of laws which relate directly to the establishment and functioning of the common market (Article 94)
+*objectives of the Union which relate to the common market but which lack an explicit legal basis in the treaties (Article 308)
+*competition law (Article 83)
+*fiscal measures relating to the environment (Article 175)
+*certain decisions related to visas, immigration and asylum policy<ref>Legal bases listed in Title IV of the Treaty of Rome, but not subject to codecision under Council Decision (2004/927/EC) of 22 December 2004 providing for certain areas covered by Title IV of Part Three of the Treaty establishing the European Community to be governed by the procedure laid down in Article 251 of that Treaty.</ref>
+*discrimination (Article 13)
+*liberalising specific services (Article 52)
+
+The procedure is also used in relation to the Union's advisory bodies such as the [[Committee of the Regions]] and the [[Economic and Social Committee]] that are required to be consulted under a range of areas under the treaties affecting their area of expertise. Such a procedure takes place in addition to consultation with the European Parliament or the other legislative procedures.
+
+==Cooperation procedure==
+: ''Main article: [[Cooperation procedure]]''
+The Cooperation procedure (also known as the Article 252<ref name="art"/> procedure) used to be a very important procedure which covered a wide variety of legislation, notably in relation to the creation of the Single Market.<ref>See: Craig and de Búrca, p 143.</ref> It marked the first step toward real power by the European Parliament. Under the procedure the Council can,  with the support of Parliament and acting on a proposal by the Commission, adopt a legislative proposal by a [[qualified majority]], but the Council can also overrule a rejection of the particular proposed law by the Parliament by adopting a proposal unanimously.<ref>Article 252(c) paragraph 2.</ref>
+
+The procedure was introduced by the [[Single European Act]]<ref>Craig and de Búrca, p 143.</ref>. It was amended by the Treaty of Amsterdam when its replacement with the Codecision procedure failed to be agreed. It was previously used on a large range of topics, but changes to the treaties brought about by the Maastricht, Amsterdam and Nice treaties have limited it to certain aspects of economic and [[monetary union]].<ref>Currently there are only three legal bases for the adoption of legilslation under Artielc 252: Articles 99(5), 103(2) and 106(2). Article 102(2) relates only to legislation adopted before 1994 and is therefore spent.</ref>
+
+==Commission and Council acting alone==
+Under this procedure the Council can adopt laws proposed by the Commission without requiring the opinion of Parliament. The procedure can be used for particular parts of the freedom of movement of capital (Article 57) and the [[Common Commercial Policy]] (Title IX).
+
+==Commission acting alone==
+Contrary to popular belief, the vast majority of EU laws are not dictates from the Commission.  However the Commission does have the ability to adopt legislation without consulting or obtaining the consent of anyone. The Commission can adopt laws on its own initiative concerning monopolies and concessions granted to companies by Member States (Article 86(3)) and concerning the right of workers to remain in a Member State after having been employed there (Article 39(3)(d)). Two directives have been adopted using this procedure: one on transparency between Member States and companies<ref>Dir. 80/723 [1980] OJ L195/35</ref> and another on competition in the telecommunications sector. <ref>Dir. 88/301 [1988] OJ L131/73</ref>
+
+==Note==
+{{reflist}}
+
+==References==
+*{{cite book
+ | author = Craig, P., de Búrca, G.
+ | year = 2003
+ | title = EU Law: Text, Cases and Materials
+ | edition = 3rd Edition
+ | publisher = Oxford University Press
+ | location = Oxford, New York
+ | id = ISBN 0-19-925608-X
+}}
+
+==External links==
+* [http://europa.eu/institutions/decision-making/index_en.htm EU website about decision-making]
+* [http://www.europedia.moussis.eu Europedia: Guide to European policies and legislation]
+* [http://www.europarl.europa.eu/parliament/expert/staticDisplay.do?language=EN&id=55 European Parliament: Procedures]
+
+{{European Union-related topics}}
+
+[[Category:European Union legislative procedure| ]]
+[[Category:Statutory law]]
+
+[[de:Rechtsetzung der EG]]
+[[it:Procedura legislativa della Comunità europea]]
+[[nl:Wetgevingsprocedures van de Europese Unie]]
+[[ja:欧州連合の立法手続き]]

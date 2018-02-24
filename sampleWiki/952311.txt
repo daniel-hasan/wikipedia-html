@@ -1,0 +1,460 @@
+[[Image:canadianethnicities2.png|thumb|300px|Map of the dominant self-identified ethnic origins of ancestors per [[census division]].  Actual physical origins of ancestors may be different]]
+
+This is a list of [[Canada|Canadian]] residents ([[citizens]], [[landed immigrant]]s, and non-citizen temporary residents) by the ethnic origin(s) they chose to list on their [[2001]] census form. The relevant census question asked for either the ethnicity or nationality of the respondent's ancestors and not the respondents themselves.
+
+The labels do not necessarily describe the respondent themself (as they may identify themselves slightly differently than their ancestor).  Also, many respondents acknowledged multiple ancestries (origins). These people were counted one extra time for each origin listed (but are counted only once within a single origin's count).  As well, some respondents interpreted the question differently, so two people with similar ethnic origin, may answer differently.  This is especially true, when using "Canadian" as an ethnic origin. The data may also reflect an equating of the terms "English" with British or [[anglophone]] and therefore, along with the large number of single responses for "Canadian", these data may not give the most accurate data on ethnicity/ethnic origin for several groups. This is particularly the case for those of [[British Isles]] and [[French-Canadian|French]] origins.
+__FORCETOC__
+
+==Larger ethnic origins==
+[[Image:COB data Canada.PNG|right|thumb|400px]]
+{| class="wikitable sortable" style="text-align:right" border="1" |
+!|Ethnicity
+!|Combined<br>responses
+!|As single<br>response
+!|One of multiple<br>responses<br>per respondent
+|-
+||"[[Canadian]]"||11,682,680||6,748,135||4,934,545
+|-
+||[[English-Canadian|English]]||5,978,875||1,479,525||4,499,355
+|-
+||[[French Canadian|French]]||4,668,410||1,060,760||3,607,655
+|-
+||[[Scottish-Canadian|Scottish]]||4,157,210||607,235||3,549,975
+|-
+||[[Irish Canadian|Irish]]||3,822,660||496,865||3,325,795
+|-
+||[[German-Canadian|German]]||2,742,765||705,600||2,037,170
+|-
+||[[Italian-Canadian|Italian]]||1,270,370||726,275||544,090
+|-
+||[[Chinese Canadian|Chinese]]||1,694,700||936,210||158,490
+|-
+||[[Ukrainian Canadian|Ukrainian]]||1,071,060||326,195||744,860
+|-
+||[[First Nations]]||1,000,890||455,805||545,085
+|-
+||[[Dutch Canadians|Dutch (Netherlands)]]||923,310||316,220||607,090
+|-
+||[[Polish Canadians|Polish]]||817,085||260,415||556,665
+|-
+||[[Indo-Canadian|East Indian]]||713,330||581,665||131,665
+|-
+||[[Norwegian-Canadian|Norwegian]]||363,760||47,230||316,530
+|-
+||[[Portuguese Canadians|Portuguese]]||357,690||252,835||104,855
+|-
+||[[Welsh Canadian|Welsh]]||350,365||28,445||321,920
+|-
+||[[Jews in Canada|Jewish]]||348,605||186,475||162,130
+|-
+||[[Russian Canadians|Russian]]||337,960||70,895||267,070
+|-
+||[[Filipino Canadians|Filipino]]||327,550||266,140||61,405
+|-
+||[[Métis people (Canada)|Métis]]||307,845||72,210||235,635                                           
+|-
+||[[Swedish-Canadian|Swedish]]||282,760||30,440||252,325
+|-
+||[[Hungarian Canadians|Hungarian (Magyar)]]||267,255||91,800||175,455
+|-
+||[[American Canadians|American (USA)]]||250,005||25,205||224,805
+|-
+||[[Greek Canadians|Greek]]||215,105||143,785||71,325
+|-
+||[[Spanish-Canadian|Spanish]]||213,105||66,545||146,555
+|-
+||[[Jamaican Canadian|Jamaican]]||211,720||138,180||73,545
+|-
+||[[Danish-Canadian|Danish]]||170,780||33,795||136,985
+|-
+||[[Vietnamese Canadians|Vietnamese]]
+||151,410
+||119,120
+||32,290
+|}
+
+==Smaller ethnic origins==
+{| class="wikitable sortable" border="1" |
+!|Ethnicity
+!|Combined<br>responses
+!|As single<br>response
+!|One of multiple<br>responses<br>per respondent
+|-
+||[[Austrian-Canadian|Austrian]]||147,585||25,320||122,265
+|-
+||[[Lebanese-Canadian|Lebanese]]||143,635||93,895||49,740
+|-
+||[[Romanian-Canadians|Romanian]]||131,830||53,320||78,505
+|-
+||[[Dutch-Canadian|Dutch (Belgium)]]||129,780||30,195||99,585
+|-
+||[[Finnish-Canadian|Finnish]]||114,690||31,985||82,705
+|-
+||[[Swiss-Canadian|Swiss]]||110,795||24,595||86,200
+|-
+||[[Korean-Canadian|Korean]]||101,715||95,200||6,510
+|-
+||[[Québécois]]||98,670||65,480||33,190
+|-
+||Trinidadian/Tobagonian||70,590||65,440||50,150
+|-
+||[[Black Canadian|African (Black), n.i.e.]]<sup>[[#References|(*)]]</sup>||97,185||37,380||59,810
+|-
+||[[Croatian-Canadian|Croatian]]||97,050||58,170||38,880
+|-
+||[[Iranian-Canadian|Iranian]]||88,220||73,450||14,770
+|-
+||[[Japanese Canadian|Japanese]]||85,230||53,175||32,050
+|-
+||[[Haitian Canadians|Haitian]]||82,405||70,755||11,650
+|-
+||[[Czech-Canadian|Czech]]||79,910||24,945||54,965
+|-
+||[[Icelandic-Canadian|Icelandic]]||75,090||10,850||64,240
+|-
+||[[Pakistani-Canadian|Pakistani]]||74,015||54,565||19,450
+|-
+||[[Arab-Canadian|Arab, n.i.e.]]||71,705||47,600||24,100
+|-
+||[[Acadian]]||71,590||21,945||49,645
+|-
+||Yugoslav, n.i.e.||65,505||26,880||38,625
+|-
+||[[Sri Lankan-Canadian|Sri Lankan]]||61,315||45,485||15,825
+|-
+||[[West Indian-Canadian|West Indian]]||59,705||33,295||26,410
+|-
+||[[Inuit]]||56,330||37,030||19,300
+|-
+||[[Serbian-Canadian|Serbian]]||55,540||39,205||16,330
+|-
+||[[Black-Canadian|Black]]||53,090||38,345||14,745
+|-
+||[[Guyanese-Canadian|Guyanese]]||51,570||26,290||25,280
+|-
+||[[Slovak-Canadian|Slovak]]||50,860||19,865||30,990
+|-
+||South Asian, n.i.e.||49,205||41,950||7,255
+|-
+||Oceania origins||48,595||10,760||37,835
+|-
+||Maghrebi origins||48,165||32,175||15,990
+|-
+||[[Punjabi-Canadian|Punjabi]]||47,155||28,980||18,180
+|-
+||Latin/Central/South<br>American, n.i.e.||41,620||30,380||11,240
+|-
+||[[Egyptian-Canadian|Egyptian]]||41,310||26,150||15,160
+|-
+||[[Armenian Canadians|Armenian]]||40,505||27,175||13,330
+|-
+||[[Tamil-Canadian|Tamil]]||39,075||26,935||12,135
+|-
+||[[Mexican-Canadian|Mexican]]||36,575||15,815||20,755
+|-
+||[[Lithuanian-Canadian|Lithuanian]]||36,485||11,320||25,165
+|-
+||[[Chilean-Canadian|Chilean]]||34,115||21,820||12,290
+|-
+||[[Somali-Canadian|Somali]]||33,725||30,830||2,895
+|-
+||[[Czechoslovakian-Canadian|Czechoslovakian]]||33,540||7,205||26,340
+|-
+||[[Maltese-Canadian|Maltese]]||33,000||14,115||18,880
+|-
+||Scandinavian, n.i.e.||32,730||6,690||26,040
+|-
+||[[Macedonian-Canadian|Macedonian]]||31,265||16,790||14,475
+|-
+||[[Slovenian-Canadian|Slovenian]]||28,910||15,285||13,635
+|-
+||[[Salvadorean-Canadian|Salvadorean]]||26,735||20,795||5,940
+|-
+||[[Australian-Canadian|Australian]]||25,415||3,805||21,615
+|-
+||[[Canadians of Afghanistani descent|Afghanistani]]||25,230||22,320||2,910
+|-
+||[[Turk-Canadian|Turk]]||24,910||15,065||9,845
+|-
+||[[Barbadian-Canadian|Barbadian]]||23,725||10,600||13,125
+|-
+||[[Latvian-Canadian|Latvian]]||22,615||8,885||13,730
+|-
+||[[Estonian-Canadian|Estonian]]||22,085||9,645||12,435
+|-
+||[[Syrian-Canadian|Syrian]]||22,065||10,425||11,640
+|-
+||[[Moroccan-Canadian|Moroccan]]||21,355||13,035||8,315
+|-
+||European, n.i.e.||20,450||9,715||10,735
+|-
+||[[Cambodian-Canadian|Cambodian]]||20,430||14,840||5,595
+|-
+||[[Iraqi Canadian|Iraqi]]||19,245||14,105||5,140
+|-
+||[[South African-Canadian|South African]]||18,925||4,980||13,945
+|-
+||[[Taiwanese-Canadian|Taiwanese]]||18,080||13,335||4,745
+|-
+||[[Peruvian-Canadian|Peruvian]]||17,945||10,935||7,010
+|-
+||[[Laotian-Canadian|Laotian]]||16,950||12,345||4,605
+|-
+||[[Ghanaian-Canadian|Ghanaian]]||16,935||14,170||2,765
+|-
+||[[Colombian-Canadian|Colombian]]||15,865||10,445||5,415
+|-
+||[[Ethiopian-Canadian|Ethiopian]]||15,725||13,100||2,625
+|-
+||[[Bosnian-Canadian|Bosnian]]||15,720||12,185||3,540
+|-
+||[[Algerian-Canadian|Algerian]]||15,500||11,235||4,260
+|-
+||[[Bulgarian-Canadian|Bulgarian]]||15,195||8,465||6,730
+|-
+||[[Albanian-Canadian|Albanian]]||14,935||12,310||2,625
+|-
+||[[Palestinian-Canadian|Palestinian]]||14,675||9,215||5,465
+|-
+|[[List of people of Newfoundland and Labrador|Newfoundlander]] || 13,715 || 4,155 || 9,555
+|-
+||[[Bangladeshi-Canadian|Bangladeshi]]||13,080||11,295||1,790
+|-
+||[[Flemish-Canadian|Flemish]]||11,665||2,325||9,345
+|-
+||Caribbean, n.i.e.||10,990||4,295||6,695
+|-
+||[[Fijian-Canadian|Fijian]]||10,035||5,115||4,920
+|-
+||[[Brazilian-Canadian|Brazilian]]||9,710||3,185||6,525
+|-
+||[[Indonesian-Canadian|Indonesian]]||9,700||2,080||7,620
+|-
+||[[Guatemalan-Canadian|Guatemalan]]||9,550||6,435||3,120
+|-
+||[[Nigerian-Canadian|Nigerian]]||9,530||6,570||2,960
+|-
+||[[Argentinian-Canadian|Argentinian]]||9,095||2,970||6,125
+|-
+||Central/South<br>American Indian||8,965||1,865||7,100
+|-
+||West Asian, n.i.e.||8,805||7,245||1,565
+|-
+||East/Southeast<br>Asian, n.i.e.||8,795||8,465||330
+|-
+||[[Ecuadorian-Canadian|Ecuadorian]]||8,785||5,960||2,830
+|-
+||[[New Zealander-Canadian|New Zealander]]||8,600||1,160||7,435
+|-
+||[[Grenadian-Canadian|Grenadian]]||7,995||4,315||3,680
+|-
+||[[Hispanic-Canadian|Hispanic]]||7,850||5,460||2,390
+|-
+||Vincentian/Grenadinian||7,450||3,875||3,575
+|-
+||[[Eritrean-Canadian|Eritrean]]||7,165||6,265||900
+|-
+||[[Bengali-Canadian|Bengali]]||7,020||5,465||1,560
+|-
+||[[Assyrian-Canadian|Assyrian]]||6,980||4,570||2,410
+|-
+||[[Thai-Canadian|Thai]]||6,965||2,810||4,160
+|-
+||[[Dominican, n.o.s.-Canadian|Dominican, n.o.s.]]||6,865||3,255||3,610
+|-
+||[[Slav (European)-Canadian|Slav (European)]]||6,810||2,790||4,020
+|-
+||[[Sudanese-Canadian|Sudanese]]||6,525||4,495||2,030
+|-
+||Congolese, n.o.s.||6,235||5,005||1,230
+|-
+||[[Cuban-Canadian|Cuban]]||6,200||2,195||4,005
+|-
+||[[Nicaraguan-Canadian|Nicaraguan]]||6,190||4,340||1,850
+|-
+||[[Malaysian-Canadian|Malaysian]]||6,095||1,570||4,520
+|-
+||[[Israeli-Canadian|Israeli]]||6,060||1,395||4,665
+|-
+||[[Venezuelan-Canadian|Venezuelan]]||5,925||2,320||3,600
+|-
+||[[Kurd-Canadian|Kurd]]||5,680||4,135||1,555
+|-
+||[[Berber-Canadian|Berber]]||5,570||3,350||2,220
+|-
+||[[Tunisian-Canadian|Tunisian]]||5,325||3,425||1,890
+|-
+||[[Byelorussian-Canadian|Byelorussian]]||5,115||1,490||3,620
+|-
+||[[Goan-Canadian|Goan]]||3,865||1,630||2,235
+|-
+||[[Uruguayan-Canadian|Uruguayan]]||3,800||1,695||2,105
+|-
+||[[Jordanian-Canadian|Jordanian]]||3,760||2,320||1,435
+|-
+||[[Sinhalese-Canadian|Sinhalese]]||3,560||2,195||1,370
+|-
+||[[Frisian-Canadian|Frisian]]||3,175||670||2,500
+|-
+||[[Rwandan-Canadian|Rwandan]]||3,060||2,430||630
+|-
+||[[Honduran-Canadian|Honduran]]||3,025||1,955||1,070
+|-
+||[[Kenyan-Canadian|Kenyan]]||2,990||1,540||1,455
+|-
+||[[Maya-Canadian|Maya]]||2,875||685||2,190
+|-
+||[[Burmese-Canadian|Burmese]]||2,840||1,070||1,770
+|-
+||[[Gujarati-Canadian|Gujarati]]||2,805||1,180||1,620
+|-
+||St. Lucian||2,765||1,420||1,345
+|-
+||[[Mauritian-Canadian|Mauritian]]||2,720||1,145||1,575
+|-
+||[[Basque-Canadian|Basque]]||2,715||395||2,320
+|-
+||Gypsy (Roma)||2,590||390||2,205
+|-
+||[[Sicilian-Canadian|Sicilian]]||2,465||420||2,045
+|-
+||[[Antiguan-Canadian|Antiguan]]||2,435||1,025||1,405
+|-
+||[[Luxembourger-Canadian|Luxembourger]]||2,390||450||1,945
+|-
+||[[East African-Canadian|East African]]||2,270||1,000||1,270
+|-
+||Maghrebi, n.i.e.||2,270||1,125||1,145
+|-
+||[[Ugandan-Canadian|Ugandan]]||2,125||1,115||1,005
+|-
+||[[Panamanian-Canadian|Panamanian]]||2,075||1,055||1,020
+|-
+||[[Cameroonian-Canadian|Cameroonian]]||2,070||1,615||455
+|-
+||[[Cypriot-Canadian|Cypriot]]||2,060||590||1,470
+|-
+||Asian, n.o.s.||2,010||960||1,045
+|-
+||[[Hawaiian-Canadian|Hawaiian]]||1,955||110||1,840
+|-
+||[[Burundian-Canadian|Burundian]]||1,900||1,535||360
+|-
+||[[Zairian-Canadian|Zairian]]||1,885||1,390||495
+|-
+||[[Yoruba-Canadian|Yoruba]]||1,875||1,340||535
+|-
+||[[Tanzanian-Canadian|Tanzanian]]||1,865||830||1,030
+|-
+||[[Ashanti-Canadian|Ashanti]]||1,860||1,325||540
+|-
+||[[Bermudan-Canadian|Bermudan]]||1,845||205||1,640
+|-
+||[[Bolivian-Canadian|Bolivian]]||1,795||865||935
+|-
+||[[Polynesian-Canadian|Polynesian]]||1,745||310||1,435
+|-
+||Kittitian/Nevisian||1,730||730||1,000
+|-
+||[[Mongolian-Canadian|Mongolian]]||1,675||545||1,130
+|-
+||[[Senegalese-Canadian|Senegalese]]||1,675||1,045||630
+|-
+||[[Costa Rican-Canadian|Costa Rican]]||1,615||770||845
+|-
+||[[Bahamian-Canadian|Bahamian]]||1,585||360||1,225
+|-
+||[[Azerbaijani-Canadian|Azerbaijani]]||1,445||470||975
+|-
+||[[Yemeni-Canadian|Yemeni]]||1,445||685||760
+|-
+||[[Tibetan-Canadian|Tibetan]]||1,425||1,225||200
+|-
+||[[Carib-Canadian|Carib]]||1,330||70||1,255
+|-
+||[[Maori-Canadian|Maori]]||1,305||135||1,170
+|-
+||[[Afrikaner-Canadian|Afrikaner]]||1,250||310||935
+|-
+||[[Zimbabwean-Canadian|Zimbabwean]]||1,250||585||660
+|-
+||[[Ibo-Canadian|Ibo]]||1,200||850||355
+|-
+||[[Kosovar-Canadian|Kosovar]]||1,200||960||245
+|-
+||[[Libyan-Canadian|Libyan]]||1,180||795||390
+|-
+||[[Nepali-Canadian|Nepali]]||1,170||770||405
+|-
+||[[Ivoirean-Canadian|Ivoirean]]||1,120||655||465
+|-
+||Guinean, n.o.s.||1,120||710||415
+|-
+||[[Angolan-Canadian|Angolan]]||1,110||615||490
+|-
+||[[Saudi Arabian-Canadian|Saudi Arabian]]||1,080||660||420
+|-
+||[[Montenegrin-Canadian|Montenegrin]]||1,055||230||820
+|-
+||[[Puerto Rican-Canadian|Puerto Rican]]||1,045||130||915
+|-
+||[[Pashtun-Canadian|Pashtun]]||1,040||540||500
+|-
+||[[Oromo-Canadian|Oromo]]||1,030||710||320
+|-
+||[[Khmer-Canadian|Khmer]]||10,000||710||295
+|-
+||[[Seychellois-Canadian|Seychellois]]||980||605||370
+|-
+||[[Georgian-Canadian|Georgian]]||970||385||580
+|-
+||[[Tartar-Canadian|Tartar]]||875||370||505
+|-
+||[[Kuwaiti-Canadian|Kuwaiti]]||855||585||275
+|-
+||[[Malian-Canadian|Malian]]||815||480||340
+|-
+||[[Malagasy-Canadian|Malagasy]]||780||415||365
+|-
+||[[Paraguayan-Canadian|Paraguayan]]||760||125||640
+|-
+||[[Togolese-Canadian|Togolese]]||755||480||275
+|-
+||[[Akan-Canadian|Akan]]||750||505||240
+|-
+||[[Belizean-Canadian|Belizean]]||725||225||500
+|-
+||[[Martinique-Canadian|Martinique]]||605||140||460
+|-
+||[[Hmong-Canadian|Hmong]]||595||455||140
+|-
+||[[Sierra Leonean-Canadian|Sierra Leonean]]||565||350||220
+|-
+||[[Kashmiri-Canadian|Kashmiri]]||480||210||275
+|-
+||Pacific Islander, n.i.e.||390||125||265
+|}
+
+==See also==
+* [[Immigration to Canada]]
+
+==References==
+* *) n.i.e. = not included elsewhere
+
+Source [[Statistics Canada]], [[Canada 2001 Census]]. [http://www.statcan.ca/english/Pgdb/demo26a.htm]
+[http://www12.statcan.ca/english/census01/products/standard/themes/RetrieveProductTable.cfm?Temporal=2001&PID=62911&APATH=3&GID=431515&METH=1&PTYPE=55440&THEME=44&FOCUS=0&AID=0&PLACENAME=0&PROVINCE=0&SEARCH=0&GC=0&GK=0&VID=0&FL=0&RL=0&FREE=0]
+
+The following question was asked on the 2001 census long-form, given to 1 in 5 persons (or their parents) known to legally reside in Canada:
+
+::''While most people in Canada view themselves as Canadians, information on their ancestral origins has been collected since the 1901 Census to capture the changing composition of Canada’s diverse population. Therefore, this question refers to the '''origins of the person’s ancestors'''.''
+
+::To which ethnic or cultural group(s) did this person’s '''ancestors''' belong?
+
+::''For example, Canadian, French, English, Chinese, Italian, German, Scottish, Irish, Cree, Micmac, Métis, Inuit (Eskimo), East Indian, Ukrainian, Dutch, Polish, Portuguese, Filipino, Jewish, Greek, Jamaican, Vietnamese, Lebanese, Chilean, Somali, etc.''
+
+:Source: Statistics Canada, ''2001 Census Handbook (Reference)'', Catalogue No. 92-379-XIE, February 20003, ISBN 0-662-31156-6, page 47.
+
+[[Category:Lists of Canadian people]]
+[[Category:Demographics of Canada]]
+[[Category:Ethnic groups in Canada| ]]
+[[Category:Immigration to Canada]]

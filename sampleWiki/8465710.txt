@@ -1,0 +1,4 @@
+'''Respiratory center''' (RC) is located in the [[medulla oblongata]] which is the lowermost part of the [[brain stem]]. RC receives controlling signals of neural, chemical and hormonal natures and controls the rate and depth of respiratory movements of the diaphragm and other respiratory muscles. injury to this center may lead to [[central respiratory failure]] which necessitates mechanical ventilation but usually the prognosis is grave.
+
+
+{{neuroanatomy-stub}}

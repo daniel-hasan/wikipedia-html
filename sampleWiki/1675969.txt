@@ -1,0 +1,55 @@
+{{Chess diagram|=
+| tright
+|
+|=
+
+ 8 |rd|nd|bd|qd|kd|bd|nd|rd|=
+ 7 |pd|pd|pd|pd|pd|  |pd|pd|=
+ 6 |  |  |  |  |  |  |  |  |=
+ 5 |  |  |  |  |  |  |  |  |=
+ 4 |  |  |  |  |  |  |  |  |=
+ 3 |  |  |  |  |  |  |  |  |=
+ 2 |pl|pl|pl|pl|pl|pl|pl|pl|=
+ 1 |rl|nl|bl|ql|kl|bl|nl|rl|=
+    a  b  c  d  e  f  g  h
+
+|'''Handicap'''. Blacks gives odds of ''pawn and move'' here.}}
+A '''handicap''' in [[chess]] is a way to equal the chances for players of differing strengths.<ref>{{cite book | author=[[David Pritchard (chess writer)|Pritchard, D.]] | title=The Encyclopedia of Chess Variants
+|publisher=Games & Puzzles Publications | year=1994 | id=ISBN 0-9524-1420-1}}</ref> There are many kinds of such handicaps:  Material handicaps, move handicaps, time handicaps, etc. Handicaps were quite popular in 18th and 19th centuries, when chess was often played for money stakes; a weaker player wouldn't agree to a match without a handicap.  However, in modern times playing with handicaps is much less common.
+
+== Standard handicap system ==
+
+The following system was used by chess players in 18th and 19th centuries when playing for money stakes (in increasing handicap level; the stronger player gets white unless otherwise indicated):
+
+* '''Move''':  Weaker player gets white.
+* '''Two moves''':  Weaker player gets white and starts the game by making two moves.
+* '''Pawn and move''':  Weaker player gets white and the black [[pawn (chess)|pawn]] on f7 is removed from the board.
+* '''Knight odds''':  Stronger player plays without a [[knight (chess)|knight]]. Usually this is the queen's knight on b1.
+* '''Rook odds''':  Stronger player plays without a [[rook (chess)|rook]]. Usually this is the queen's rook on a1, with the white pawn on a2 being moved to a3.
+* '''Queen odds''':  Stronger player plays without the [[queen (chess)|queen]].
+
+In modern times, [[Bobby Fischer]] once claimed that he could give knight odds to any woman player in the world and still win <ref>[http://www.bobby-fischer.net/bobby_fischer_quotes_96.htm Bobby Fischer quotes]</ref>, but never demonstrated this. In 2001, London businessman Terence Chapman played a match against former world champion [[Garry Kasparov]] with Kasparov giving odds of two pawns in each game (the pawns to be removed being different each time); Kasparov won the match by two games to one, with one drawn.
+
+== Time handicap ==
+
+Time handicaps are most often practiced in [[blitz chess|blitz]] games.  The stronger player gets less time.  For example, the stronger player might get 2 minutes per game with the weaker player getting 5 minutes.
+
+== Other forms of handicap ==
+In 16th-19th centuries sometimes '''pion coiffé''' (or ''capped pawn'') handicap was used, usually for players of significantly different playing strength. The stronger player has to make the mating move with a particular pawn, which is usually marked at the start of play. It is required that the pawn is not promoted. [[Pietro Carrera]] proved that in the [[endgame]] king, queen and pawn versus king (pion coiffé), a win can be forced unless the pawn lies on a central file. Carrera considered pion coiffé to be about equivalent of giving odds of a queen.
+
+There are other forms of handicap, which however are very rarely used:
+* '''Draw odds''': a draw is considered as a win for the weaker player.
+* The stronger player plays the start of the game, for example the first 10-20 moves, [[Blindfold chess|blindfold]] (without sight of the board).  More commonly, the stronger player plays the whole game this way.
+* The weaker player can take back any sequence of 3 moves in the course of game, but can only do so two times.
+* Handicap combinations are used as well.
+
+== References ==
+{{reflist}}
+
+== External links ==
+* [http://www.chessvariants.org/other.dir/oddschess.html Odds chess] by Roger Cooper.
+
+[[Category:Chess variants]]
+
+[[de:Vorgabepartie]]
+[[it:Svantaggio (scacchi)]]

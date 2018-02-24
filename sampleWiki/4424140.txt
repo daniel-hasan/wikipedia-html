@@ -1,0 +1,81 @@
+'''Voivodes of the Polish-Lithuanian Commonwealth''' were one of the highest ranking [[Offices in the Polish-Lithuanian Commonwealth|officials]] who could sit in the [[Senate of Poland]]. They were the officials in charge of the [[voivodeship]]s (provinces/palatinates) of the [[Polish-Lithuanian Commonwealth]]. The office first appears as ''Palatine'' (''Palatinus'') who was the first person after the King. As Poland broke into separate principalities each Prince had his court and his own Palatine. When the Kingdom was (partially) reunited the Palatines became heads of the former Principalities now turned into Palatinates. As such they were members of the King's council (''comites palatini''). The title got merged with the Polish ''Wojewoda'' (the institutional equivalent of the Latin ''Dux Exercituum'' and the German ''Herzog'' all meaning "leader of the army"). The difference between Wojewoda and Herzog is that Herzog, after being a rank appointed by the Monarch became a hereditary title of honour, while Wojewoda remained appointed for life and continued as a real-power position before it also lost meaning to the Starostas. Polish historians still use ''Palatyn'' and ''Wojewoda'' as synonyms.
+
+== Competences ==
+The competences of voivodes varied, as they were influenced by historical precedents related to their voivodeships. The smallest were those of the voivodes in [[Halych]] [[Ruthenia]] (Ruś Halicka), the largest those in the [[Royal Prussia]] (Prusy Królewskie). Those competences changed in time as well. <!-- translation query: What's a competence? -->
+
+The office was created in the [[Kingdom of Poland (1025–1138)|Kingdom of Poland under Piasts]], and from the [[Crown of the Polish Kingdom]] spread to [[Grand Duchy of Lithuania]] after 1569 as an overseer of voivodeship and its administration, but the effectiveness and real powers of this office decreased, so that in the [[Kingdom of Poland (1385–1569)|Kingdom of Poland under Jagiellons]] it was a much less significant post. In the realm of the military, voivodeship retained just the role of the leader of [[pospolite ruszenie]]. Administrative competences were limited to the role of [[Marszałek sejmu|Marshal]] of the [[sejmik]], but even that disappeared by the time of the Commonwealth. His control over the cities was mostly a honorary function, as formally it was the competence of the [[starost]]. One of the few competences that voivodes retained throughout history was the power to set and enforce prices (although in fact this competence was delegated to the sub-voivode (podwojewoda)).
+
+Voivodes of Cracow, Poznań, Wilno, Troki, Sandomierz and Kalisz (as well as the Castellan of Cracow) had the keys to the Crown Treasury (skarbiec koronny) on [[Wawel]].
+
+Voivodes were appointed by the king until 1775, when the competence to appoint them was passed to [[Permanent Council]] (Rada Nieustająca). The exceptions to this rule were the voivodes of Połock and Wilno, who were elected by the [[szlachta]] (nobility) from those lands (although they still had to be approved by the King). As all officials in the Commonwealth, only members of szlachta were eglible to be hold an official post. 
+
+From 1565, the principle of "incompatibilitas" ("incompatibility") forbade voivodes and castellans to hold a second title as a minister, except for the post of hetman, as well as another voivode of [[starosta]] grodowy in his own voivodeship.
+
+In the Commonwealth, where the nobility forbade the use of foreign honorary hereditary [[titles of nobility|titles]], lifetime titles connected with offices were still considered legal to use. Also the wives and children of a ''dignitary'' enjoyed their own forms of his title. Therefore even through the powers of the voivode were relatively small, it was a prestigious position much coveted by the nobles. The ''palatinal families'' (''rodziny wojewodzinskie'') are one of the highest rank among today's Polish aristocracy, just next below Princes of dynastic origin.
+
+Although many individual voivodes had significant power in the Commonwealth, it was not because of their title, but because of their wealth and influence that eventually secured them the prestigious title of the voivode. So it's not the title that secured the title.
+
+== List ==
+Even when a voivodeship ceased to exist due to shifting borders, the office remained intact and the voivode preserved his privileges like the right to sit and vote in the Senate. Thus the number of voivodes increased in time, from 32 after the [[Union of Lublin|creation of the Commonwealth]] in [[1569]] to 37 by the time of [[Partitions of Poland|its end]] in [[1795]].
+
+This is a list of voivodes as they were seated in the Senate of Poland. They sat after the [[bishop]]s, as the first secular officials, although in practice their power was lesser than that of [[Ministers of the Polish-Lithuanian Commonwealth]] (who however sat last in the Senate).
+
+Note that among them were seated three distinguished castellans (wyróznieni kasztelanowie): [[Castellan of Kraków]] (who had seniority over all voivodes), [[Castellan of Wilno]] (who sat after the Voivode of Sandomierz) and [[Castellan of Troki]] (who sat after the Voivode of Sieradz). There was also one [[starost]] ([[Starost of Żmudź]]) who sat after the [[Voivode of Łęczyca]].
+
+For the chronological list of specific office holders, see the specific articles below.
+
+:In 1569, after [[Union of Lublin]]:
+#[[Kraków Voivodeship|Voivode of Kraków]] (wojewoda krakowski). Seat: [[Kraków]].
+#[[Poznań Voivodeship|Voivode of Poznań]] (wojewoda poznański). Seat: [[Poznań]].
+#[[Wilno Voivodeship|Voivode of Wilno]] (Vilnius) (wojewoda wileński). Seat: [[Wilno]].
+#[[Sandomierz Voivodeship|Voivode of Sandomierz]] (wojewoda sandomierski). Seat: [[Sandomierz]].
+#[[Kalisz Voivodeship|Voivode of Kalisz]] (wojewoda kaliski). Seat: [[Kalisz]].
+#[[Trakai Voivodeship|Voivode of Troki]] (wojewoda trocki). Seat: [[Troki]].
+#[[Sieradz Voivodeship|Voivode of Sieradz]] (wojewoda sieradzki). Seat: [[Sieradz]].
+#[[Łęczyca Voivodeship|Voivode of Łęczyca]] (wojewoda łęczycki). Seat: [[Łęczyca]].
+#[[Brześć Kujawski Voivodeship|Voivode of Brześć Kujawski]] (wojewoda brzeski kujawawski). Seat: [[Brześć Kujawski]].
+#[[Kijów Voivodeship|Voivode of Kijów]] (Kiev) (wojewoda kijowski). Seat: [[Kijów]].
+#[[Inowrocław Voivodeship|Voivode of Inowrocław]] (wojewoda inowrocławski). Seat: [[Inowrocław]].
+#[[Ruthenian Voivodeship|Voivode of Ruś]] (Ruthenia) (wojewoda ruski). Seat: [[Lwów]] (Lviv).
+#[[Wołyń Voivodeship (1569–1795)|Voivode of Wołyń]] (wojewoda wołyński). Seat: [[Łuck]].
+#[[Podole Voivodeship|Voivode of Podole]] (wojewoda podolski). Seat: [[Kamieniec Podolski]].
+#[[Smoleńsk Voivodeship|Voivode of Smoleńsk]] (wojewoda smoleński). Seat: [[Smoleńsk]]. Notes: province lost in 1650s, titular office only afterwards.
+#[[Lublin Voivodeship|Voivode of Lublin]] (wojewoda lubelski). Seat: [[Lublin]].
+#[[Połock Voivodeship|Voivode of Połock]] (wojewoda połocki). Seat: [[Połock]].
+#[[Bełz Voivodeship|Voivode of Bełsk]] (Bełz) (wojewoda bełski). Seat: [[Bełsk]] (Bełz).
+#[[Nowogródek Voivodeship (1507-1795)|Voivode of Nowogródek]] (wojewoda nowogrodzki). Seat: [[Nowogródek]].
+#[[Płock Voivodeship|Voivode of Płock]] (wojewoda płocki). Seat: [[Płock]].
+#[[Witebsk Voivodeship|Voivode of Witebsk]] (wojewoda witebski). Seat: [[Witebsk]].
+#[[Masovian Voivodeship|Voivode of Masovia]] (wojewoda mazowiecki). Seat: [[Warsaw]] (Warszawa).
+#[[Podlachian Voivodeship|Voivode of Podlachia]] (wojewoda podlaski). Seat: [[Drohiczyn]].
+#[[Rawa Voivodeship|Voivode of Rawa]] (wojewoda rawski). Seat: [[Rawa Mazowiecka]].
+#[[Brześć Litewski Voivodeship|Voivode of Brześć Litewski]] (wojewoda brzeski litewski).
+#[[Chełmno Voivodeship|Voivode of Chełmno]] (wojewoda chełminski). Seat: [[Chełmno]].
+#[[Mścisław Voivodeship|Voivode of Mścisław]] (wojewoda mścisławski). Seat: [[Mścisław]].
+#[[Malbork Voivodeship|Voivode of Malbork]] (wojewoda malborski). Seat: [[Malbork]].
+#[[Bracław Voivodeship|Voivode of Bracław]] (wojewoda bracławski). Seat: [[Bracław]].
+#[[Pomeranian Voivodeship|Voivode of Pomerania]] (wojewoda pomorski). Seat: [[Gdańsk]] (Danzig).
+#[[Mińsk Voivodeship|Voivode of Mińsk]] (wojewoda miński). Seat: [[Mińsk]].
+#[[Livonian Voivodeship|Voivode of Inflanty]] (Livonia) (wojewoda inflandzki). Seat: [[Dyneburg]].
+
+:Created around 1598 and lost in the 1620s:
+#[[Wenden Voivodeship|Voivode of Wenden]] (wojewoda wendenski). Seat: [[Cēsis|Wenden]] (Cēsis).
+#[[Parnawa Voivodeship|Voivode of Parnawa]] (wojewoda parnawski). Seat: [[Parnawa]].
+#[[Dorpat Voivodeship|Voivode of Dorpat]] (wojewoda dorpacki or wojewoda derpski). Seat: [[Dorpat]].
+
+:Created in 1635:
+#[[Czernihów Voivodeship|Voivode of Czernihów]] (wojewoda czernihowski). Seat: [[Czernihów]].
+
+:Created in 1768:
+#[[Gniezno Voivodeship|Voivode of Gniezno]] (wojewoda gnieźnieński). Seat: [[Gniezno]]. Notes: Created in 1768 from the remains of Kalisz Voivodeship after the First Partition. See [[Gniezno Voivodeship]]
+
+== See also ==
+* [[Administrative division of the Polish-Lithuanian Commonwealth]]
+
+== References ==
+* [http://www.bezuprzedzen.pl/urzedy/poczatki.html Urzedy Staropolskie], [[Przemysław Bielewicz]], Polish
+* [http://www.nonpossumus.pl/biblioteka/feliks_koneczny/adm/III_2.php Urzędy główne i sejmowanie do połowy XVIII w. "Dzieje administracji w Polsce w zarysie"], [[Feliks Koneczny]], Polish
+
+[[Category:History of Poland (1569–1795)]]
+[[Category:Lithuanian titles]]
+[[Category:Former voivodeships of Lithuania]]

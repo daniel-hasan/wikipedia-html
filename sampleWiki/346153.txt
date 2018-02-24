@@ -1,0 +1,60 @@
+[[Image:SauvieIsland.png|right|thumb|1937 sketch including '''Columbia River Highway''' (now [[U.S. Highway 30]]) as it passes west of [[Sauvie Island]], northwest of [[Portland, Oregon|Portland]].]]
+[[Image:Corps-engineers-archives bonneville dam looking east.jpg|thumb|The Columbia River Highway (right) near [[Bonneville Dam]].]]
+[[Image:CRH Shepperd's Dell 2007.03.17.png|right|thumb|Overcrossing at [[Shepperd's Dell]].]]
+[[Image:Crown Point Oregon.jpg|right|thumb|[[Columbia River Gorge]] and [[Crown Point, Oregon|Crown Point]], seen from the Portland Women's Forum State Scenic Viewpoint ([[Chanticleer Point]]) along the Historic Columbia River Highway.]]
+
+The '''Columbia River Highway''' is a [[highway]] built in the [[U.S. state]] of [[Oregon]] along the [[Columbia River]] between 1913 and 1922. When the [[Multnomah County, Oregon|Multnomah County]] portion was first paved in 1916, it was the first major paved [[highway]] in the [[Pacific Northwest]]. Once completed, it ran from [[Astoria, Oregon|Astoria]] to [[The Dalles, Oregon|The Dalles]], a total of 196 miles. It is an [[All-American Road]].
+
+The original highway was promoted by lawyer and entrepreneur [[Samuel Hill|Sam Hill]] and engineer [[Samuel Lancaster]], to be modeled after the great scenic roads of [[Europe]]. From the very beginning, the roadway was envisioned not just as means of traveling by the then popular [[Model T]], but designed with an elegance that took full advantage of all the natural beauty along the route.
+
+When the [[United States highway]] system was officially established in 1926, the highway became the first and then westernmost segment of what became [[U.S. Route 30]]. Since then, modern [[Interstate 84 (west)|Interstate 84]] has been built parallel to the highway between [[Portland, Oregon|Portland]] and The Dalles, replacing it as the main travel route and resulting in the loss of some of the original sections of road.
+
+Today, the modern Columbia River Highway ('''Highway 2''') uses I-84 from Portland to east of [[Boardman, Oregon|Boardman]], and then [[U.S. Route 730]] northeast to the [[Washington]] state line. There is also a '''Lower Columbia River Highway''' ('''Highway 2W''', sometimes '''Highway 92'''), using U.S. 30 from [[Astoria, Oregon|Astoria]] to Portland. Between [[Troutdale, Oregon|Troutdale]] and [[The Dalles, Oregon|The Dalles]], much of the original highway is part of the '''Historic Columbia River Highway''' ('''Highway 100'''.)
+
+==Present-day "Historic Columbia River Highway"==
+Modern highways, including I-84, and other developments have resulted in the abandonment of major sections of the historic original highway. In the interest of [[tourism]] and historical preservation, seventy-four miles of the original road—from Troutdale to The Dalles—have been established as the '''Historic Columbia River Highway''' (HCRH). Forty miles of the route are open to motor vehicles:
+*The 24 westernmost miles starting in [[Troutdale, Oregon|Troutdale]] (at the eastern edge of urban [[Portland, Oregon|Portland]]) provide access to dozens of hiking trails, [[Crown Point, Oregon|Crown Point]] Vista House, and numerous [[waterfall]]s such as [[Multnomah Falls]]. This section forms a loop with the [[Mount Hood Scenic Byway]].
+*The 16 easternmost miles ending in The Dalles.
+
+The remaining portions of the HCRH designated for non-motorized use are now known as the Historic Columbia River Highway State Trail. These are being developed as money becomes available. Roughly seven miles between [[Hood River, Oregon|Hood River]] and [[Mosier, Oregon|Mosier]] have been open to non-motorized traffic since 2000, passing through the historic Mosier Tunnels.<ref>{{cite news
+|title=Reopening Mosier Tunnels eyed for foot, bicycle traffic
+|work=The Oregonian
+|date=August 21, 1989
+|first=Web
+|last=Ruble
+|url=http://0-docs.newsbank.com.catalog.multcolib.org/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:NewsBank:ORGB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=0EB085A23109B664&svc_dat=InfoWeb:aggregated4&req_dat=0D10F2CADB4B24C0
+}}</ref><ref>{{cite news
+|title=The Historic Columbia River Highway roadside renovation
+|first=Ted
+|last=Mahar
+|work=The Oregonian
+|date=July 20, 2000
+|url=http://0-docs.newsbank.com.catalog.multcolib.org/openurl?ctx_ver=z39.88-2004&rft_id=info:sid/iw.newsbank.com:NewsBank:ORGB&rft_val_format=info:ofi/fmt:kev:mtx:ctx&rft_dat=0EB08C7489E9BB51&svc_dat=InfoWeb:aggregated4&req_dat=0D10F2CADB4B24C0
+}}</ref>
+
+Once restoration is complete, the highway will serve as a scenic and alternative bicycle route for I-84 and US-30 between The Dalles and Portland. Currently, cyclists wishing to travel between these two towns must ride on the shoulders of I-84 for much of the distance, or the much more dangerous and narrow [[State Route 14 (Washington)|State Route 14]] on the Washington side of the river.
+
+The Columbia River Highway is the nation's oldest scenic highway. In 1984 it was recognized as a [[List of historic civil engineering landmarks#United States landmarks|National Historic Civil Engineering Landmark]] by the [[American Society of Civil Engineers]]. In 2000 it was designated a [[National Historic Landmark]] by the [[National Park Service]] as "an outstanding example of modern highway development".
+
+==See also==
+*[[Columbia River Gorge]]
+
+== References ==
+{{reflist}}
+
+==Sources==
+* [http://arcweb.sos.state.or.us/50th/columbia/coulumiabackground.html 50th Anniversary Exhibit] of the [http://arcweb.sos.state.or.us/ Oregon State Archives]
+* [http://www2.cr.nps.gov/hli/currents/columbia/ Heritage Preservation Services] of the National Park Service
+* [http://tps.cr.nps.gov/nhl/detail.cfm?ResourceId=419295320&ResourceType=District National Historic Landmark data sheet]
+
+{{Protected Areas of Oregon}} <!-- If [[Columbia River Highway State Trail]] is created (currently a redirect to here), this tag should be moved there instead. -->
+
+[[Category:Historic trails and roads in Oregon]]
+[[Category:Landmarks in Oregon]]
+[[Category:All-American Roads]]
+[[Category:Columbia River Gorge]]
+[[Category:U.S. Route 30]]
+[[Category:National Historic Landmarks of the United States]]
+[[Category:Registered Historic Places in Oregon]]
+[[Category:Named state highways in Oregon]]
+[[Category:Interstate 84 (west)]]

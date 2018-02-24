@@ -1,0 +1,213 @@
+
+<p><div style="wigth:250px"><a class="internal" href="/wiki/Image:250px-ASPNETlogo.gif" title="ASP.NET logo"><img src="http://en.wikipedia.org/wiki/250px-ASPNETlogo.gif" alt="ASP.NET logo" title="ASP.NET logo" class="location-right type-thumb" width="250px" />
+</a>
+<div class="thumbcaption">ASP.NET logo</div></div>
+
+<b>ASP.NET</b> is a <a href="/wiki/Web_application_framework" id="w">web application framework</a> marketed by <a href="/wiki/Microsoft" id="w">Microsoft</a> that <a href="/wiki/Programmer" id="w">programmers</a> can use to build dynamic <a href="/wiki/Web_site" id="w">web sites</a>, <a href="/wiki/Web_application" id="w">web applications</a> and <a href="/wiki/XML" id="w">XML</a> <a href="/wiki/Web_service" id="w">web services</a>. It is part of Microsoft&#39;s <a href="/wiki/Microsoft_.NET" id="w">.NET platform</a> and is the successor to Microsoft&#39;s <a href="/wiki/Active_Server_Pages" id="w">Active Server Pages</a> (ASP) technology. ASP.NET is built on the <a href="/wiki/Common_Language_Runtime" id="w">Common Language Runtime</a>, allowing programmers to write ASP.NET code using any <a href="/wiki/.NET_Languages" id="w">Microsoft .NET language</a>.</p>
+<a id="Characteristics" name="Characteristics"></a><h2>Characteristics</h2>
+<a id="ASPX_file_format" name="ASPX_file_format"></a><h3>ASPX file format</h3>
+<p><b>ASPX</b> is a text file format used to create <a href="/wiki/Form_(web)" id="w">Webform</a> pages;  in programming jargon, the ASPX file typically contains static <a href="/wiki/HTML" id="w">HTML</a> or <a href="/wiki/XHTML" id="w">XHTML</a> markup, as well as markup defining <a href="/wiki/ASP.NET_Web_Controls" id="w">Web Controls</a> and <a href="/wiki/ASP.NET_Web_User_Controls" id="w">Web User Controls</a> where the developers place all the required static and dynamic content for the web page.  Additionally, dynamic code which runs on the server can be placed in a page within a block <b><code>&#60;% -- dynamic code -- %&#62;</code></b> which is similar to other web development technologies such as <a href="/wiki/PHP" id="w">PHP</a>, <a href="/wiki/JavaServer_Pages" id="w">JSP</a>, and <a href="/wiki/Active_Server_Pages" id="w">ASP</a>, but this practice is generally frowned upon by Microsoft except for the purposes of <a href="/wiki/Binding_(computer_science)" id="w">data binding</a> since it requires more calls when rendering the page.</p>
+<p>It is recommended by Microsoft for dealing with dynamic program code to use the <a href="/wiki/Code-behind" id="w">code-behind</a> model, which places this code in a separate file or in a specially designated script tag.  Code-behind files are typically named something to the effect of <i>MyPage.aspx.cs</i> or <i>MyPage.aspx.vb</i> based on the ASPX file name (this practice is automatic in <a href="/wiki/Microsoft_Visual_Studio" id="w">Microsoft Visual Studio</a> and other <a href="/wiki/Integrated_development_environment" id="w">IDEs</a>).  When using this style of programming, the developer writes code to respond to different events, like the page being loaded, or a control being clicked, rather than a procedural walk through the document.</p>
+<a id="Rendering_technique" name="Rendering_technique"></a><h3>Rendering technique</h3>
+<p><b><i>&#39;ASP.NET</i></b>&#39; uses a <i>visited composites</i> rendering technique. During compilation the template (.aspx) file is compiled into initialization code which will build a control tree (the composite) representing the original (static) template. Literal text goes into instances of the Literal control class, server controls are represented by instances of a specific control class. The initialization code is combined with user-written code (usually by the assembly of multiple partial classes) and results in a class specific for the page. The page doubles as the root of the <b>control tree.</b></p>
+<p>Actual requests for the page are processed through a number of steps. First, during the initialization steps, an instance of the page class is created and the initialization code is executed. This produces the initial control tree which is now typically manipulated by the methods of the page in the following steps. As each node in the tree is a control represented as an instance of a class, the code may change the tree structure as well as manipulate the properties/methods of the individual nodes. Finally, during the rendering step a visitor is used to visit every node in the tree, asking each node to render itself using the methods of the visitor. The resulting HTML code is sent to the client.</p>
+<p>After the request has been processed, the instance of the page class is discarded and with it the entire control tree.</p>
+<a id="Other_files" name="Other_files"></a><h3>Other files</h3>
+<p>Other file extensions associated with different versions of ASP.NET include:</p>
+<dl><dt>asax</dt><dd><a href="/wiki/Global.asax" id="w">Global.asax</a>, used for application-level logic <sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup></dd></dl><dl><dt>ascx</dt><dd>Web UserControls:  custom <a href="/wiki/Widget_(computing)" id="w">controls</a> to be placed onto web pages.</dd></dl><dl><dt>ashx</dt><dd>custom <a href="/wiki/HTTP" id="w">HTTP</a> handlers.</dd></dl><dl><dt>asmx</dt><dd><a href="/wiki/Web_service" id="w">web service</a> pages.</dd></dl><dl><dt>axd</dt><dd>when enabled in <a href="/wiki/Web.config" id="w">web.config</a> requesting trace.axd outputs application-level tracing. Also used for the special webresource axd handler which allows control/component developers to package a component/control complete with images, script, css etc. for deployment in a single file (an &#39;assembly&#39;)</dd></dl><dl><dt>browser</dt><dd>browser capabilities files stored in <a href="/wiki/XML" id="w">XML</a> format; introduced in version 3.0. ASP.NET 2 includes many of these by default, to support common web browsers. These specify which browsers have which capabilities, so that ASP.NET 2 can automatically customize and optimize its output accordingly. Special .browser files are available for free download to handle, for instance, the W3C Validator, so that it properly shows standards-compliant pages as being standards-compliant. Replaces the harder-to-use BrowserCaps section that was in <a href="/wiki/Machine.config" id="w">machine.config</a> and could be overridden in <a href="/wiki/Web.config" id="w">web.config</a> in ASP.NET 1.x.</dd></dl><dl><dt>config</dt><dd><a href="/wiki/Web.config" id="w">web.config</a> is the only file in a specific Web application to use this extension by default (<a href="/wiki/Machine.config" id="w">machine.config</a> similarly affects the entire Web server and all applications on it), however ASP.NET provides facilities to create and consume other config files.  These are stored in <a href="/wiki/XML" id="w">XML</a> format, so as to allow configuration changes to be made with simplicity.</dd></dl><dl><dt>cs/vb</dt><dd>In ASP.NET 2 any cs/vb files placed inside the App_Code folder are dynamically compiled and available to the whole application.</dd></dl><dl><dt>master</dt><dd><a href="/wiki/ASP_master_pages" id="w">Master Pages</a>;  introduced in version 2.0</dd></dl><dl><dt>sitemap</dt><dd>sitemap configuration files</dd></dl><dl><dt>skin</dt><dd>theme skin files.</dd></dl><dl><dt>resx</dt><dd>resource files for <a href="/wiki/Internationalization" id="w">internationalization</a> and <a href="/wiki/Localization" id="w">localization</a>. Resource files can be global (e.g. messages) or &#34;local&#34; which means specific for a single <b>aspx</b> or <b>ascx</b> or file.</dd></dl><dl><dt>dbml</dt><dd>(version 3.5) <a href="/wiki/LINQ" id="w">LINQ</a> to <a href="/wiki/SQL" id="w">SQL</a> data classes file</dd></dl>
+<a id="Directory_structure" name="Directory_structure"></a><h3>Directory structure</h3>
+<p>In general, the ASP.NET directory structure can be determined by the developer&#39;s preferences. Apart from a few reserved directory names, the site can span any number of directories. The structure is typically reflected directly in the urls. Although ASP.NET provides means for intercepting the request at any point during processing, the developer is not forced to funnel requests through a central application or front controller.</p>
+<p>The special directory names are:
+</p><dl><dt>App_Browsers</dt><dd>holds site-specific browser definition files.</dd></dl><dl><dt>App_Code</dt><dd>This is the &#34;raw code&#34; directory. The ASP.NET server will automatically compile files (and subdirectories) in this folder into an assembly which is accessible in the code of every page of the site. App_Code will typically be used for data access abstraction code, model code and business code. Also any site-specific http handlers and modules and web service implementation go in this directory. As an alternative to using App_Code the developer may opt to provide a separate assembly with precompiled code.</dd></dl><dl><dt>App_Data</dt><dd>default directory for <a href="/wiki/Database" id="w">databases</a>, such as Access mdb files and SQL Server mdf files. This directory is usually the only one with write access for the application.</dd></dl><dl><dt>App_LocalResources</dt><dd>Contains localized resource files for individual pages of the site. E.g. a file called CheckOut.aspx.fr-FR.resx holds localized resources for the french version of the CheckOut.aspx page. When the UI culture is set to french, ASP.NET will automatically find and use this file for localization.</dd></dl><dl><dt>App_GlobalResources</dt><dd>Holds <b>resx</b> files with localized resources available to every page of the site. This is where the ASP.NET developer will typically store localized messages etc. which are used on more than one page.</dd></dl><dl><dt>App_Themes</dt><dd>holds alternative themes of the site.</dd></dl><dl><dt>App_WebReferences</dt><dd>holds discovery files and <a href="/wiki/WSDL" id="w">WSDL</a> files for references to <a href="/wiki/Web_service" id="w">web services</a> to be consumed in the site.</dd></dl>
+<a id="Performance" name="Performance"></a><h2>Performance</h2>
+<p>ASP.NET aims for performance benefits over other script-based technologies (including ASP Classic) by compiling the server-side code to one or more <a href="/wiki/Dynamic_link_library" id="w">DLL</a> <a href="/wiki/Computer_file" id="w">files</a> on the <a href="/wiki/Web_server" id="w">web server</a>. This compilation happens automatically the first time a page is requested (which means the developer need not perform a separate compilation step for pages). This feature provides the ease of development offered by scripting languages with the performance benefits of a compiled binary.  However, the compilation might cause a noticeable delay to the web user when the newly-edited page is first requested from the web server. </p>
+<p>The ASPX and other resource files are placed in a virtual host on an <a href="/wiki/Internet_Information_Services" id="w">Internet Information Services</a> (or other compatible ASP.NET servers;  see Other Implementations, below).  The first time a client requests a page, the .NET framework parses and compiles the file(s) into a .NET assembly and sends the response;  subsequent requests are served from the DLL files. By default ASP.NET will compile the entire site in batches of 1000 files upon first request. If the compilation delay is causing problems, the batch size or the compilation strategy may be tweaked.</p>
+<p>Developers can also choose to pre-compile their code before deployment, eliminating the need for just-in-time compilation in a production environment.</p>
+<a id="Extension" name="Extension"></a><h2>Extension</h2>
+<p>Microsoft has released some extension frameworks that plug into <a href="/wiki/ASP.NET" id="w">ASP.NET</a> and extend its functionality. Some of them are:
+</p><dl><dt><a href="/wiki/ASP.NET_AJAX" id="w">ASP.NET AJAX</a></dt><dd>An extension with both client-side as well as server-side components for writing ASP.NET pages that incorporate <a href="/wiki/AJAX_(programming)" id="w">AJAX</a> functionality.</dd></dl><dl><dt><a href="/wiki/ASP.NET_MVC_Framework" id="w">ASP.NET MVC Framework</a></dt><dd>An extension to author ASP.NET pages using the <a href="/wiki/Model_View_Controller" id="w">MVC</a> architecture.</dd></dl>
+<a id="ASP.NET_compared_to_ASP_classic" name="ASP.NET_compared_to_ASP_classic"></a><h2>ASP.NET compared to ASP classic</h2>
+<p>ASP.NET attempts to simplify developers&#39; transition from <a href="/wiki/Microsoft_Windows" id="w">Windows</a> application development to web development by offering the ability to build pages composed of <i><a href="/wiki/Widget_(computing)" id="w">controls</a></i> similar to a Windows <a href="/wiki/User_interface" id="w">user interface</a>. A web control, such as a <i>button</i> or <i>label</i>, functions in very much the same way as its Windows counterpart: code can assign its properties and respond to its events. Controls know how to render themselves: whereas Windows controls draw themselves to the screen, web controls produce segments of <a href="/wiki/HTML" id="w">HTML</a> and <a href="/wiki/JavaScript" id="w">JavaScript</a> which form part of the resulting page sent to the end-user&#39;s browser.</p>
+<p>ASP.NET encourages the programmer to develop applications using an <a href="/wiki/Event-driven_programming" id="w">event-driven</a> <a href="/wiki/Graphical_user_interface" id="w">GUI</a> paradigm (<a href="/wiki/Event-driven_programming" id="w">event-driven</a> <a href="/wiki/Graphical_user_interface" id="w">GUI</a> model), rather than in conventional web-<a href="/wiki/Scripting_programming_language" id="w">scripting</a> environments like ASP and <a href="/wiki/PHP" id="w">PHP</a>. The framework attempts to combine existing technologies such as JavaScript with internal components like &#34;<a href="/wiki/ViewState" id="w">ViewState</a>&#34; to bring persistent (inter-request) state to the inherently <a href="/wiki/Stateless_server" id="w">stateless</a> web environment.</p>
+<p>Other differences compared to ASP classic are:
+</p>
+<ul>
+<li>Compiled code means applications run faster with more design-time errors trapped at the development stage.</li>
+<li>Significantly improved run-time error handling, making use of <a href="/wiki/Exception_handling" id="w">exception handling</a> using try-catch blocks.</li>
+<li>Similar metaphors to <a href="/wiki/Microsoft_Windows" id="w">Windows</a> applications such as controls and events, which make development of rich user interfaces, previously only found on the desktop, possible.</li>
+<li>An extensive set of controls and class libraries allows the rapid building of applications, plus user-defined controls allow commonly used <a href="/wiki/Web_template" id="w">templates</a>, such as menus. Layout of these controls on a page is easier because most of it can be done visually in most editors.</li>
+<li>ASP.NET leverages the multi-language capabilities of the .NET CLR, allowing web pages to be coded in VB.NET, C#, J#, etc.</li>
+<li>Ability to cache the whole page or just parts of it to improve performance.</li>
+<li>Ability to use the <a href="/wiki/Code-behind" id="w">code-behind</a> development model to separate business logic from presentation.</li>
+<li>If an ASP.NET application <a href="/wiki/Memory_leak" id="w">leaks memory</a>, the ASP.NET runtime unloads the AppDomain hosting the erring application and reloads the application in a new AppDomain. </li>
+<li><a href="/wiki/Session_state" id="w">Session state</a> in ASP.NET can be saved in a <a href="/wiki/Microsoft_SQL_Server" id="w">SQL Server</a> database or in a separate process running on the same machine as the web server or on a different machine. That way session values are not lost when the web server is reset or the ASP.NET worker process is recycled.</li>
+<li>Previous versions of ASP.NET (1.0 and 1.1) were criticized for their lack of standards compliance. The generated <a href="/wiki/HTML" id="w">HTML</a> and <a href="/wiki/JavaScript" id="w">JavaScript</a> sent to the client browser would not always validate against <a href="/wiki/W3C" id="w">W3C</a>/ECMA standards. In addition, the framework&#39;s browser detection feature sometimes incorrectly identified web browsers other than Microsoft&#39;s own <a href="/wiki/Internet_Explorer" id="w">Internet Explorer</a> as &#34;downlevel&#34; and returned HTML/JavaScript to these clients with some of the features removed, or sometimes crippled or broken. However, in version 2.0, all controls generate valid <a href="/wiki/HTML" id="w">HTML</a> 4.0, <a href="/wiki/XHTML" id="w">XHTML</a> 1.0 (the default) or <a href="/wiki/XHTML" id="w">XHTML</a> 1.1 output, depending on the site configuration. Detection of standards-compliant web browsers is more robust and support for <a href="/wiki/Cascading_Style_Sheets" id="w">Cascading Style Sheets</a> is more extensive.</li>
+<li>Web Server Controls: these are controls introduced by ASP.net for providing the UI for the web form. These controls are state managed controls and are WYSIWYG (What You See Is What You Get) controls.</li></ul>
+<a id="Criticisms_of_ASP.NET" name="Criticisms_of_ASP.NET"></a><h2>Criticisms of ASP.NET</h2>
+<p><a href="/wiki/Active_Server_Pages" id="w">Active Server Pages</a> Classic (ASP) and ASP.NET can be run side-by-side in the same web application. This approach allows developers to migrate applications slowly instead of all at once.  On <a href="/wiki/Internet_Information_Services" id="w">IIS</a> 6.0 and lower, pages written using different versions of the ASP framework can&#39;t share <a href="/wiki/Session_State" id="w">Session State</a> without the use of third-party libraries. This criticism does not apply to ASP.NET and ASP applications running side by side on <a href="/wiki/Internet_Information_Services" id="w">IIS</a> 7. With <a href="/wiki/Internet_Information_Services" id="w">IIS</a> 7, modules may be run in an integrated pipeline that allows modules written in any language to be executed for any request.<sup id="_ref-2" class="reference"><a href="#_note-2" title="">[2]</a></sup></p>
+<p>In some cases ASP.NET runtime will recycle the worker process (e.g. if it becomes unresponsive or if an application runs amok and causes the worker process to use more than 60% of available RAM). It can also be configured to recycle the process proactively after a certain number of requests, time period etc. In these cases users may lose session state if the application is configured to use in-process sessions. If the application relies on session state to store authentication information (bad practice since cookie based authentication and membership is built into the framework) and the application is configured to use in-process sessions, the user may be logged out if the process is recycled.</p>
+<p>ASP.NET 2.0 produces markup that passes W3C validation, but it is debatable as to whether this increases <a href="/wiki/Web_accessibility" id="w">accessibility</a>, one of the benefits of a semantic <a href="/wiki/XHTML" id="w">XHTML</a> page + <a href="/wiki/CSS" id="w">CSS</a> representation.  Several controls, such as the <i><a href="/wiki/Login" id="w">Login</a></i> controls and the <i>Wizard</i> control, use <a href="/wiki/HTML" id="w">HTML</a> <a href="/wiki/Table_(HTML)" id="w">tables</a> for layout by default. <a href="/wiki/Microsoft" id="w">Microsoft</a> has now gone some way to solve this problem by releasing the <a class="externallink" href="http://www.asp.net/cssadapters/" rel="nofollow" title="http://www.asp.net/cssadapters/">ASP.NET 2.0 CSS Control Adapters</a>, a free add-on that produces compliant accessible <a href="/wiki/XHTML" id="w">XHTML</a>+<a href="/wiki/CSS" id="w">CSS</a> markup. However, some controls still rely on <a href="/wiki/JavaScript" id="w">JavaScript</a>.</p>
+<a id="Development_tools" name="Development_tools"></a><h2>Development tools</h2>
+<p>Several available software packages exist for developing ASP.NET applications:</p>
+
+<ul>
+<li><a href="/wiki/Microsoft_Expression_Web" id="w">Microsoft Expression Web</a>, part of the <a href="/wiki/Microsoft_Expression_Studio" id="w">Microsoft Expression Studio</a> application suite.</li>
+<li><a href="/wiki/Visual_Studio_.NET" id="w">Visual Studio .NET</a> (for ASP.NET 1.x)</li>
+<li><a href="/wiki/ASP.NET_Web_Matrix" id="w">ASP.NET Web Matrix</a> (for ASP.NET 1.x; now no longer supported: replaced by the free <a href="/wiki/Visual_Web_Developer_2005_Express_Edition" id="w">Visual Web Developer 2005 Express Edition</a>)</li>
+<li><a href="/wiki/Visual_Web_Developer_2005_Express_Edition" id="w">Visual Web Developer 2005 Express Edition</a> or <a href="/wiki/Visual_Studio_2005" id="w">Visual Studio 2005</a> (for ASP.NET 2.0)</li>
+<li><a href="/wiki/Visual_Studio_2008" id="w">Visual Studio 2008</a> or <a href="/wiki/Visual_Web_Developer_2008_Express_Edition" id="w">Visual Web Developer 2008 Express Edition</a> (for ASP.NET 3.5)</li>
+<li><a href="/wiki/Macromedia_Dreamweaver_MX" id="w">Macromedia Dreamweaver MX</a>, <a href="/wiki/Macromedia_Dreamweaver_MX_2004" id="w">Macromedia Dreamweaver MX 2004</a>, or <a href="/wiki/Macromedia_Dreamweaver_8" id="w">Macromedia Dreamweaver 8</a> (doesn&#39;t support ASP.NET 2.0 features, and produces very inefficient code for ASP.NET 1.x: also, code generation and ASP.NET features support through version 8.0.1 was little if any changed from version MX: version 8.0.2 does add changes to improve security against SQL injection attacks)</li>
+<li><a href="/wiki/Macromedia_HomeSite" id="w">Macromedia HomeSite</a> 5.5 (For ASP Tags)</li>
+<li><a href="/wiki/Microsoft_FrontPage" id="w">Microsoft SharePoint Designer 12</a></li>
+<li><a href="/wiki/Delphi_programming_language" id="w">Delphi 2006</a></li>
+<li><a href="/wiki/MonoDevelop" id="w">MonoDevelop</a> (Free/<a href="/wiki/Open_Source" id="w">Open Source</a>)</li>
+<li><a href="/wiki/SharpDevelop" id="w">SharpDevelop</a> (Free/<a href="/wiki/Open_Source" id="w">Open Source</a>)</li></ul>
+<a id="Frameworks" name="Frameworks"></a><h2>Frameworks</h2>
+<p>It is not essential to use the standard webforms development model when developing with ASP.NET.  Noteworthy frameworks designed for the platform include:
+</p>
+<ul>
+<li><a href="/wiki/Monorail_(.Net)" id="w">Castle Monorail</a>, an open-source MVC framework with an execution model similar to <a href="/wiki/Ruby_on_Rails" id="w">Ruby on Rails</a>. The framework is commonly used with <a href="/wiki/Castle_ActiveRecord" id="w">Castle ActiveRecord</a>, an ORM layer built on <a href="/wiki/NHibernate" id="w">NHibernate</a>.</li>
+<li><a href="/wiki/Spring.NET" id="w">Spring.NET</a>, a port of the Spring framework for Java.</li></ul>
+<a id="History" name="History"></a><h2>History</h2>
+
+<div style="page-break-inside:	avoid;">
+<table class="wikitable">
+<tr>
+<th>Date</th>
+<th>Version</th>
+<th>Remarks</th>
+<th>New features</th></tr>
+<tr>
+<td><a href="/wiki/January_16" id="w">January 16</a>, <a href="/wiki/2002" id="w">2002</a> </td>
+<td>1.0 </td>
+<td>First version<br/>
+released together with <a href="/wiki/Visual_Studio_.NET" id="w">Visual Studio .NET</a></td>
+<td>
+
+<ul>
+<li><a href="/wiki/Object_oriented" id="w">Object oriented</a> web application development supporting <a href="/wiki/Inheritance_(computer_science)" id="w">Inheritance</a>, <a href="/wiki/Polymorphism_in_object-oriented_programming" id="w">Polymorphism</a> and other standard OOP features
+<ul>
+<li>Developers are no longer forced to use Server.CreateObject(...), so early-binding and type safety are possible.</li></ul></li>
+<li>Based on <a href="/wiki/Windows" id="w">Windows</a> programming;  the developer can make use of DLL class libraries and other features of the web server to build more robust applications that do more than simply rendering HTML ( i.e. <a href="/wiki/Exception_handling" id="w">exception handling</a> )</li></ul></td></tr>
+<tr>
+<td><a href="/wiki/April_24" id="w">April 24</a>, <a href="/wiki/2003" id="w">2003</a> </td>
+<td>1.1 </td>
+<td>released together with <a href="/wiki/Windows_Server_2003" id="w">Windows Server 2003</a><br/>
+released together with <a href="/wiki/Visual_Studio_.NET_2003" id="w">Visual Studio .NET 2003</a></td>
+<td>
+
+<ul>
+<li>Mobile controls</li>
+<li>Automatic input validation</li></ul></td></tr>
+<tr>
+<td><a href="/wiki/November_7" id="w">November 7</a>, <a href="/wiki/2005" id="w">2005</a> </td>
+<td>2.0 </td>
+<td>
+codename <a href="/wiki/Whidbey" id="w">Whidbey</a><br/>
+released together with <a href="/wiki/Visual_Studio_2005" id="w">Visual Studio 2005</a> and <a href="/wiki/Microsoft_Visual_Studio_Express" id="w">Visual Web Developer Express</a><br/>
+and <a href="/wiki/Microsoft_SQL_Server" id="w">SQL Server 2005</a></td>
+<td>
+
+<ul>
+<li>New data controls (GridView, FormView, DetailsView)</li>
+<li>New technique for declarative data access (SqlDataSource, ObjectDataSource, XmlDataSource controls)</li>
+<li>Navigation controls</li>
+<li><a href="/wiki/ASP_master_pages" id="w">Master pages</a></li>
+<li>Login controls</li>
+<li>Themes</li>
+<li>Skins</li>
+<li>Web parts</li>
+<li>Personalization services</li>
+<li>Full pre-compilation</li>
+<li>New localization technique</li>
+<li>Support for 64-bit processors</li>
+<li>Provider class model</li></ul></td></tr>
+<tr>
+<td><a href="/wiki/November_19" id="w">November 19</a> <a href="/wiki/2007" id="w">2007</a></td>
+<td>3.5 </td>
+<td>
+
+released together with <a href="/wiki/Visual_Studio_Orcas" id="w">Visual Studio 2008</a></td>
+<td>
+
+<ul>
+<li>New data controls (ListView, DataPager)</li>
+<li>Integrated <a href="/wiki/AJAX" id="w">AJAX</a> support</li>
+<li>Improved support for nested master pages</li>
+<li>Support for <a href="/wiki/Language_Integrated_Query" id="w">LINQ</a></li></ul></td></tr></table></div>
+
+<a id="See_also" name="See_also"></a><h2>See also</h2>
+<p>{{col-begin}}
+{{col-2}}
+</p>
+<ul>
+<li><a href="/wiki/ASP.NET_state_management" id="w">ASP.NET state management</a></li>
+<li><a href="/wiki/Active_Server_Pages" id="w">Active Server Pages</a> (ASP) &#8211; ASP.NET&#39;s predecessor</li>
+<li><a href="/wiki/ASP.NET_master_pages" id="w">ASP.NET master pages</a></li>
+<li><a href="/wiki/Yellow_Screen_of_Death" id="w">Yellow Screen of Death</a> &#8211; ASP.NET&#39;s Exception page</li>
+<li><a href="/wiki/Java_Server_Faces" id="w">Java Server Faces</a> (JSF) &#8211;  web application technology with a similar component based approach for the <a href="/wiki/Java_(programming_language)" id="w">Java</a> platform</li></ul>
+<p>{{col-2}}
+</p><dl><dt>ASP.NET Extensions</dt></dl>
+<ul>
+<li><a href="/wiki/ASP.NET_AJAX" id="w">ASP.NET AJAX</a> - Extension for <a href="/wiki/AJAX_(programming)" id="w">AJAX</a> enabled ASP.NET pages.</li>
+<li><a href="/wiki/ASP.NET_MVC_Framework" id="w">ASP.NET MVC Framework</a> - Extension for building web applications using <a href="/wiki/Model_View_Controller" id="w">MVC</a> architecture</li></ul>
+<p>{{col-end}}</p>
+<dl><dt>Alternatives to .NET and IIS</dt></dl>
+<ul>
+<li><a href="/wiki/Mono_(software)" id="w">Mono</a> - An open source, cross platform implementation of <a href="/wiki/Common_Language_Runtime" id="w">CLR</a>, including an alternative implementation of ASP.NET.</li>
+<li><a href="/wiki/UltiDev_Cassini_Web_Server" id="w">UltiDev Cassini Web Server</a>  - A free web server that can be redistributed with ASP.NET 1.1 and 2.0 applications.</li></ul>
+<a id="References" name="References"></a><h2>References</h2>
+<p>{{reflist}}</p>
+<a id="External_links" name="External_links"></a><h2>External links</h2>
+<p>{{Wikibooks}}
+</p><dl><dt>ASP.NET Resources</dt></dl>
+<ul>
+<li><a class="externallink" href="http://www.asp.net/" rel="nofollow" title="http://www.asp.net/">Microsoft&#39;s Official ASP.NET 3.5 website</a> </li>
+<li><a class="externallink" href="http://msdn.microsoft.com/asp.net/" rel="nofollow" title="http://msdn.microsoft.com/asp.net/">ASP.NET on MSDN</a></li>
+<li><a class="externallink" href="http://www.dotnetspace.com" rel="nofollow" title="http://www.dotnetspace.com">ASP.NET 2.0 tutorials and code examples</a></li>
+<li><a class="externallink" href="http://www.maxiasp.com/" rel="nofollow" title="http://www.maxiasp.com/">MaxiASP : Türkçe ASP Merkezi</a> </li>
+<li><a class="externallink" href="http://www.maxiasp.net/" rel="nofollow" title="http://www.maxiasp.net/">MaxiASP.net : Gelecek çok .net</a> </li>
+<li><a class="externallink" href="http://www.visualbuilder.com/aspnet/tutorial/" rel="nofollow" title="http://www.visualbuilder.com/aspnet/tutorial/">ASP.NET tutorial with source code</a></li></ul>
+<dl><dt>ASP.NET Team Member blogs</dt></dl>
+<ul>
+<li><a href="/wiki/Scott_Guthrie" id="w">Scott Guthrie</a>, General Manager - <a class="externallink" href="http://weblogs.asp.net/scottgu" rel="nofollow" title="http://weblogs.asp.net/scottgu">ScottGu&#39;s blog</a>   </li>
+<li><a href="/wiki/Nikhil_Kothari" id="w">Nikhil Kothari</a>, Architect - <a class="externallink" href="http://www.nikhilk.net" rel="nofollow" title="http://www.nikhilk.net">nikhilk.net</a>   </li>
+<li>Brian Goldfarb, Product Manager - <a class="externallink" href="http://blogs.msdn.com/bgold" rel="nofollow" title="http://blogs.msdn.com/bgold">Brian Goldfarb&#39;s Blog</a>   </li>
+<li>Shanku Niyogi, Product Unit Manager - <a class="externallink" href="http://www.shankun.com" rel="nofollow" title="http://www.shankun.com">shankun.com</a>   </li>
+<li>Bertrand Le Roy, Developer - <a class="externallink" href="http://weblogs.asp.net/bleroy" rel="nofollow" title="http://weblogs.asp.net/bleroy">Tales from the Evil Empire</a>   </li>
+<li>Harish Ranganathan, Developer Evangelist - <a class="externallink" href="http://geekswithblogs.net/ranganh" rel="nofollow" title="http://geekswithblogs.net/ranganh">Harish Ranganathan</a> </li></ul>
+
+<p>{{DotNET}}
+{{Microsoft APIs}}</p>
+<p>
+
+
+
+
+
+</p>
+<p><a href="http://ar.wikipedia.org/wiki/ا%D9%8A%D9%87_%D8%A7%D8%B3_%D8%A8%D9%8A_%D8%AF%D9%88%D8%AA_%D9%86%D8%AA">ar:ايه اس بي دوت نت</a>
+<a href="http://zh-min-nan.wikipedia.org/wiki/ASP.NET">zh-min-nan:ASP.NET</a>
+<a href="http://ca.wikipedia.org/wiki/ASP.NET">ca:ASP.NET</a>
+<a href="http://cs.wikipedia.org/wiki/ASP.NET">cs:ASP.NET</a>
+<a href="http://da.wikipedia.org/wiki/ASP.NET">da:ASP.NET</a>
+<a href="http://de.wikipedia.org/wiki/ASP.NET">de:ASP.NET</a>
+<a href="http://es.wikipedia.org/wiki/ASP.NET">es:ASP.NET</a>
+<a href="http://fr.wikipedia.org/wiki/ASP.NET">fr:ASP.NET</a>
+<a href="http://id.wikipedia.org/wiki/ASP.NET">id:ASP.NET</a>
+<a href="http://it.wikipedia.org/wiki/ASP.NET">it:ASP.NET</a>
+<a href="http://he.wikipedia.org/wiki/ASP.NET">he:ASP.NET</a>
+<a href="http://ms.wikipedia.org/wiki/ASP.NET">ms:ASP.NET</a>
+<a href="http://nl.wikipedia.org/wiki/ASP.NET">nl:ASP.NET</a>
+<a href="http://ja.wikipedia.org/wiki/ASP.NET">ja:ASP.NET</a>
+<a href="http://no.wikipedia.org/wiki/ASP.NET">no:ASP.NET</a>
+<a href="http://pl.wikipedia.org/wiki/ASP.NET">pl:ASP.NET</a>
+<a href="http://pt.wikipedia.org/wiki/ASP.NET">pt:ASP.NET</a>
+<a href="http://ro.wikipedia.org/wiki/ASP.NET">ro:ASP.NET</a>
+<a href="http://ru.wikipedia.org/wiki/ASP.NET">ru:ASP.NET</a>
+<a href="http://sq.wikipedia.org/wiki/ASP.NET">sq:ASP.NET</a>
+<a href="http://sv.wikipedia.org/wiki/ASP.NET">sv:ASP.NET</a>
+<a href="http://th.wikipedia.org/wiki/เ%E0%B8%AD%E0%B9%80%E0%B8%AD%E0%B8%AA%E0%B8%9E%E0%B8%B5%E0%B8%94%E0%B8%AD%E0%B8%95%E0%B9%80%E0%B8%99%E0%B9%87%E0%B8%95">th:เอเอสพีดอตเน็ต</a>
+<a href="http://tr.wikipedia.org/wiki/ASP.NET">tr:ASP.NET</a>
+<a href="http://zh.wikipedia.org/wiki/ASP.NET">zh:ASP.NET</a>
+</p>

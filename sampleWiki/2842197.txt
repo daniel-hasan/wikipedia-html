@@ -1,0 +1,76 @@
+{{Infobox Hurricane
+| Name=Hurricane Vince
+| Type=hurricane
+| Year=2005
+| Basin=Atl
+| Image location=Hurricane Vince eye 2005.jpg
+| Image name=Hurricane Vince on [[October 9]] 14:23 UTC
+| Formed=[[October 8]], [[2005]]
+| Dissipated=[[October 11]], [[2005]]
+| 1-min winds=65
+| Pressure=988
+| Damages=
+| Inflated=
+| Fatalities=None reported
+| Areas=[[Madeira Islands]], southern [[Portugal]], southwestern [[Spain]]
+| Hurricane season=[[2005 Atlantic hurricane season]]
+}}
+
+'''Hurricane Vince''' was one of the most unusual [[hurricane]]s ever to develop in the [[Atlantic basin]], forming in October during the [[2005 Atlantic hurricane season]]. Vince was the 20th named tropical cyclone and twelfth hurricane of the extremely active season.
+
+Vince developed from a non-tropical system on [[October 8]], becoming a [[subtropical storm]] southeast of the [[Azores]]. The [[National Hurricane Center]] did not officially name the storm until the next day, shortly before Vince briefly became a hurricane. Vince then made an unprecedented landfall on the [[Iberian Peninsula]] on [[October 11]] as a tropical depression, dissipating over [[Spain]]. 
+
+==Storm history==
+{{storm path|Vince 2005 track.png}}
+On [[October 5]], an operationally [[2005 Azores subtropical storm|unnamed subtropical storm]] that had gone unnoticed was absorbed by a non-tropical frontal low, which was moving to the southeast over the [[Azores]]. It began to gain a more concentrated circulation and lose its frontal structure after absorbing the Subtropical Storm. The increasingly organized system became a [[subtropical storm]] itself early on [[October 8]], 580 miles (930 km) southeast of the Azores.<ref name="VinceTCR">{{cite web|author=National Hurricane Center|title=Tropical Cyclone Report: Hurricane Vince|publisher=NOAA|accessdate=May 4|accessyear=2006|format=PDF|url=http://www.nhc.noaa.gov/pdf/TCR-AL242005_Vince.pdf}}</ref> However, the [[National Hurricane Center]] decided not to name the system Vince at the time, because the [[Sea surface temperature|water temperature]] was too low for a tropical cyclone to normally develop. Vince gradually gained more tropical characteristics and became a tropical storm the next day, over water cooler than 24[[Celsius|°C]] (75[[Fahrenheit|°F]]), which defies general thought that sea surface temperatures of at least 26.5°C (80°F) are required for a tropical storm to form and intensify.<ref name="VinceTCR"/>
+
+[[Image:Vince Portugal Radar.jpg|left|thumb|140px|Radar image of Vince]]
+Soon after it had become a tropical storm on [[October 9]], the NHC officially named Tropical Storm Vince when it was near [[Madeira]] and began to issue advisories. There was still some uncertainty as to whether Vince was tropical or subtropical at this time and the forecasters of the NHC conceded that Vince may have already been a subtropical storm before it was named.<ref name="NHC-disc1">{{cite web|author=National Hurricane Center|title=Discussion for Hurricane Vince, 11 a.m. EDT, October 9 2005|publisher=NOAA|accessdate=May 4|accessyear=2006|url=http://www.nhc.noaa.gov/archive/2005/dis/al232005.discus.001.shtml}}</ref> Vince reached its peak as a hurricane with 75 mph (120 km/h) winds later that day, the [[National Hurricane Center]] deciding that "if it looks like a hurricane — it probably is — despite its environment and unusual location".<ref name="NHC-disc2">{{cite web|author=National Hurricane Center|title=Discussion for Hurricane Vince, 5 p.m. EDT, October 9 2005|publisher=NOAA|accessdate=May 4|accessyear=2006|url=http://www.nhc.noaa.gov/archive/2005/dis/al232005.discus.002.shtml}}</ref>
+
+Hurricane Vince immediately began to weaken in response to increasing westerly shear and soon became a tropical storm again. Vince continued to weaken as it approached the [[Iberian Peninsula]] and became a tropical depression shortly before it made landfall near [[Huelva]], [[Spain]] on [[October 11]]. The fast-moving tropical depression soon dissipated over land.<ref name="VinceTCR"/>
+
+==Impact==
+No damages or fatalities were reported from Hurricane Vince. The highest winds reported on land were 77&nbsp;km/h (48&nbsp;mph) at [[Jerez]], Spain, though some ships recorded stronger winds.<ref name="INM Spain">http://www.inm.es/web/sup/ciencia/divulga/pdf/estudio_vince.pdf</ref> Vince was comparable to normal rain events from non-tropical systems, with only 1 to 2 inches (25 to 50 mm) of rain falling. Through a play on words of a song in [[My Fair Lady]], National Hurricane Center forecaster James Franklin in the Tropical Cyclone Report for Vince wrote, ''"the rain in Spain was mainly less than 2 inches, although 3.30 inches (84 mm) fell in the plain at Cordoba."''<ref name="VinceTCR"/>
+
+==Records and naming==
+[[Image:2005 10 09 1200 rgb 12-12-0.jpg|right|thumb|Hurricane Vince on [[October 9]], [[2005]] northwest of the [[Madeira Islands]]. For comparison, the main island of the Madeiras (the largest island in the picture) is approximately 30 miles (57 km) long. <small>(© 2005 [[EUMETSAT]])</small>]]
+Although Hurricane Vince was a very small and short-lived storm, it is notable for developing in the northeastern Atlantic off the [[Morocco|Moroccan]] coast, well away from where tropical cyclones are usually found. It is the farthest northeast a tropical cyclone had ever developed in the Atlantic (32.9°N 20.6°W); previously the record was held by Ivan of the [[1980 Atlantic hurricane season|1980 season]], at 35.6°N and 24.6°W. Vince is neither the most northerly-forming nor the most easterly-forming Atlantic tropical storm; these records are held by [[Tropical Storm Alberto (1988)|Alberto]] of the [[1988 Atlantic hurricane season|1988 season]] at 41.5°N, and Ginger of the [[1967 Atlantic hurricane season|1967 season]] at 18.1°W, respectively.<!-- See tables in the talk page -->
+
+Hurricane Vince developed into a ''hurricane'' further east than any known storm at 18.9°W. Vince is the first tropical cyclone on record to have made landfall on the [[Iberian Peninsula]], after coming ashore near [[Huelva]], [[Spain]].<ref name="VinceTCR"/>
+
+When Subtropical Storm Vince formed on [[October 8]], it was the earliest ever in the season that the twenty-first tropical or subtropical storm had developed, 38 days ahead of the previous record held by Tropical Storm 21 of the [[1933 Atlantic hurricane season|1933 season]]. Hurricane Vince was also the first named "V" storm in the Atlantic since naming began in [[1950]]. Due to the lack of any significant effects from Hurricane Vince, the name was not retired by the [[World Meteorological Organization]] and will be on the list of names for the 2011 season.
+
+== See also ==
+{{tcportal}}
+* [[List of notable Atlantic hurricanes]]
+* [[List of 2005 Atlantic hurricane season storms]]
+* [[Hurricane Faith]] - [[1966]] [[Atlantic Ocean]] storm which reached unprecedented latitude
+* [[Unnamed Hurricane (1975)|Hurricane 12]] - [[1975]] Eastern [[Pacific Ocean]] hurricane at record north latitude
+
+== References ==
+{{reflist}}
+
+== External links ==
+{{Commonscat}}
+{{Wikinewshas|related news|
+* [[n:Hurricane Vince on track for Europe|Hurricane Vince on track for Europe]]}}
+
+* The [http://www.nhc.noaa.gov/archive/2005/refresh/VINCE+shtml/024021.shtml? NHC's archive on Hurricane Vince].
+* The [http://www.nhc.noaa.gov/pdf/TCR-AL242005_Vince.pdf NHC's Tropical Cyclone Report on Hurricane Vince].
+*[http://foro.meteored.com/index.php?PHPSESSID=50af4d8efc62490617a65bd10da84b3b&topic=30896.0 Especial -> HURACÁN VINCE: seguimiento, fotos, datos, opiniones sobre origen].  (''in Spanish'')   
+<div style="clear: both"></div>
+
+{{2005 Atlantic hurricane season buttons}}
+
+[[Category:Atlantic hurricanes|Vince (2005)]]
+[[Category:2005 Atlantic hurricane season|Vince]]
+[[Category:2005 meteorology]]
+[[Category:Category 1 tropical cyclones|Vince (2005)]]
+[[Category:Hurricanes in Europe|Vince (2005)]]
+
+{{Link FA|simple}}
+[[de:Hurrikan Vince]]
+[[es:Huracán Vince]]
+[[fr:Ouragan Vince]]
+[[simple:Hurricane Vince (2005)]]
+[[zh:飓风文斯]]

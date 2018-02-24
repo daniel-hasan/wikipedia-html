@@ -1,0 +1,458 @@
+This is a listing of all albums, singles and music videos and the relevant certifications by Australian band [[Silverchair]]. Any releases or works by specific members of the band or their side-projects are listed on the artist's own articles.
+
+==Albums==
+{| class="wikitable" 
+!rowspan="2" style="background:lightsteelblue;"|Year
+!width="210" rowspan="2" style="background:lightsteelblue;"| Title
+!colspan="4" style="background:lightsteelblue;"|Chart positions
+!width="200" rowspan="2" style="background:lightsteelblue;"|Sales and certifications 
+|-
+!width="40" style="background:lightsteelblue;"|<small>[[ARIA Charts|AUS]]</small>
+!width="40" style="background:lightsteelblue;"|<small>[[Recording Industry Association of New Zealand|NZ]]</small>
+!width="40" style="background:lightsteelblue;"|<small>[[Billboard 200|US]]</small>
+!width="40" style="background:lightsteelblue;"|<small>[[UK Albums Chart|UK]]</small>
+|-----
+|1995
+|''[[Frogstomp]]''
+*First studio album
+*Released: [[March 27]], [[1995]]
+*Label: [[Murmur (record label)|Murmur]]
+|align="center"| 1
+|align="center"| 2
+|align="center"| 9
+|align="center"| 59
+|<sup>[[ARIA Charts|ARIA]]: 4x platinum (280,000+)<br>[[Recording Industry Association of America|RIAA]]: 3x platinum (3,000,000+)
+|-
+|1997
+|''[[Freak Show (album)|Freak Show]]''
+*Second studio album
+*Released: [[February 4]], [[1997]]
+*Label: Murmur
+|align="center"| 1
+|align="center"| 8
+|align="center"| 12
+|align="center"| 38
+|<sup>ARIA: 3x platinum (210,000+)<br>RIAA: Gold (750,000)
+|-
+|1999
+|''[[Neon Ballroom]]
+*Third studio album
+*Released: [[March 16]], [[1999]]
+*Label: Murmur
+|align="center"| 1
+|align="center"| 8
+|align="center"| 50
+|align="center"| 29
+|<sup>ARIA: 3x Platinum (210,000+)<br>RIAA: Gold (850,000)
+|-
+|valign="center" rowspan="2"| 2000
+|''[[The Best of Vol.1]]''
+*Hits compilation
+*Released: [[December 12]], [[2000]]
+*Label: Murmur
+|align="center"| 15
+|align="center"| 29
+|align="center"| &mdash;
+|align="center"| &mdash;
+|<sup>ARIA: Gold (35,000+)
+|-
+|''[[Rarities 1994 - 1999]]''
+*Rarities compilation
+*Released: [[December 12]], [[2000]]
+*Label: Murmur
+|<center>&mdash;
+|<center>&mdash;
+|<center>&mdash;
+|<center>&mdash;
+|<sup> 
+|-
+|2002
+| ''[[Diorama (album)|Diorama]]
+*Fourth studio album
+*Released: [[March 31]], [[2002]]
+*Label: [[Eleven: A Music Company|Eleven]]
+|align="center"| 1
+|align="center"| 7
+|align="center"| 91
+|align="center"| &mdash;
+|<sup>ARIA: 3x platinum (210,000+)<br>RIAA: Not certified (150,000)
+|-
+|2003
+|''[[Live from Faraway Stables]]''
+*Live album
+*Released: [[November 10]], [[2003]]
+*Label: Eleven
+|align="center"| 10
+|align="center"| &mdash;
+|align="center" | &mdash;
+|align="center"| &mdash;
+|<sup>ARIA: Gold (35,000+)
+|-
+|2007
+|''[[Young Modern]]
+*Fifth studio album
+*Released: [[March 31]], [[2007]]
+*Label: Eleven
+|align="center"| 1
+|align="center"| 8
+|align="center"| 70
+|align="center"| &mdash;
+|<sup>ARIA: 3x platinum (210,000+)<br>RIAA: Not certified (20,000)
+|-
+|}
+
+===Box sets===
+*''Freak Box'' (1997) - [[Murmur (record label)|Murmur]]
+*''[[The Diorama Box]]'' (2002) - [[Eleven: A Music Company|Eleven]]
+
+==Singles==
+{| class="wikitable"
+! style="background:khaki;"|Year
+! style="background:khaki;"|Song
+!width="60" style="background:khaki;"| <small>[[ARIA Charts|ARIA Singles Chart]]</small>
+!width="60" style="background:khaki;"| <small>[[ARIA Charts|ARIA Digital Chart]]</small>
+!width="60" style="background:khaki;"| <small>[[Recording Industry Association of New Zealand|NZ Singles Chart]]</small>
+!width="60" style="background:khaki;"| <small>[[UK Singles Chart]]</small>
+!width="60" style="background:khaki;"| <small>[[Mainstream Rock Tracks|U.S. Mainstream Rock]]</small>
+!width="60" style="background:khaki;"| <small>[[Modern Rock Tracks|U.S. Modern Rock]]</small>
+! style="background:khaki;"|Album
+|-
+|align="center"| [[1994 in music|1994]]
+| "[[Tomorrow (Silverchair song)|Tomorrow]]"
+|align="center"| 1 <small>(6 weeks)</small>
+|align="center"| -
+|align="center"| 1 <small>(3 weeks)</small>
+|align="center"| 59
+|align="center"| 1 <small>(3 weeks)</small>
+|align="center"| 1 <small>(3 weeks)</small>
+| rowspan=5| ''[[Frogstomp]]''
+|-
+|align="center" rowspan="4"| [[1995 in music|1995]]
+| "[[Pure Massacre]]"
+|align="center"| 2
+|align="center"| -
+|align="center"| -
+|align="center"| 71
+|align="center"| 12
+|align="center"| 17
+|-
+| "[[Israel's Son]]"
+|align="center"| 11
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| 39
+|align="center"| -
+|-
+| "[[Shade (Silverchair song)|Shade]]"
+|align="center"| 28
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+| "[[Findaway]]" <sup>1</sup>
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+|align="center" rowspan="4"| [[1997 in music|1997]]
+| "[[Freak (Silverchair song)|Freak]]"
+|align="center"| 1 <small>(2 weeks)</small>
+|align="center"| -
+|align="center"| -
+|align="center"| 34
+|align="center"| 25
+|align="center"| 29
+| rowspan=4|''[[Freak Show (album)|Freak Show]]''
+|-
+| "[[Abuse Me]]"
+|align="center"| 9
+|align="center"| -
+|align="center"| -
+|align="center"| 40
+|align="center"| 4
+|align="center"| 4
+|-
+| "[[Cemetery (song)|Cemetery]]"
+|align="center"| 5
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+| "[[The Door (song)|The Door]]"
+|align="center"| 25
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+|align="center" rowspan="3"| [[1999 in music|1999]]
+| "[[Anthem for the Year 2000]]"
+|align="center"| 3
+|align="center"| -
+|align="center"| 8
+|align="center"| 92
+|align="center"| 15
+|align="center"| 12
+| rowspan=4|''[[Neon Ballroom]]''
+|-
+| "[[Ana's Song (Open Fire)]]"
+|align="center"| 14
+|align="center"| -
+|align="center"| 34
+|align="center"| 45
+|align="center"| 28
+|align="center"| 12
+|-
+| "[[Miss You Love]]"
+|align="center"| 17
+|align="center"| -
+|align="center"| 43
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+|align="center"| [[2000]]
+| "[[Paint Pastel Princess]]" <sup>1</sup>
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+|align="center" rowspan="3"| [[2002 in music|2002]]
+| "[[The Greatest View]]"
+|align="center"| 3
+|align="center"| -
+|align="center"| 4
+|align="center"| 85
+|align="center"| -
+|align="center"| -
+| rowspan=5|''[[Diorama (album)|Diorama]]''
+|-
+| "[[Without You (Silverchair song)|Without You]]"
+|align="center"| 8
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+| "[[Luv Your Life]]"
+|align="center"| 20
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+|align="center" rowspan="2"| [[2003 in music|2003]]
+| "[[Across the Night]]"
+|align="center"| 24
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+| "[[After All These Years]]" <sup>1</sup>
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+|align="center" rowspan="4"| [[2007 in music|2007]]
+| "[[Straight Lines (song)|Straight Lines]]" <sup>2</sup>
+|align="center"| 1 <small>(4 weeks)</small>
+|align="center"| 1 <small>(7 weeks)</small>
+|align="center"| 11
+|align="center"| -
+|align="center"| -
+|align="center"| 12
+| rowspan=3|''[[Young Modern]]''
+|-
+| "[[Reflections of a Sound]]" <sup>1</sup>
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+| "[[If You Keep Losing Sleep]]" <sup>2</sup>
+|align="center"| 16
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|-
+| "[[The Greatest View ]] EP" 
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| -
+|align="center"| 49
+|
+|-
+
+|}
+
+<sup>1</sup> Promotional singles.<br>
+<sup>2</sup> Currently active on the charts. These are the highest positions to date.
+
+==DVD's==
+<br>THE BEST OF VOLUME 1 (2000)
+<br>Across The Night: The Creation Of Diorama (2002)
+<br>[[Live From Faraway Stables]] (2003)
+<br>Great Australian Albums: Diorama (2007)
+<br>[[Across The Great Divide DVD|Across The Great Divide]] (2007)
+
+==Music videos==
+{| class="wikitable"
+!valign="top" style="background:#99CCFF;"| Year
+!valign="top" style="background:#99CCFF;"| Title
+!valign="top" style="background:#99CCFF;"| Director
+!valign="top" style="background:#99CCFF;"| Album
+!valign="top" style="background:#99CCFF;"| Notes
+|-
+| [[1994]]
+| "[[Tomorrow (Silverchair song)|Tomorrow]]"<br>(Nomad version)
+|
+| ''[[Frogstomp]]''
+| produced by [[Nomad]], a music video show on [[Special Broadcasting Service|SBS]] 
+|-
+| [[1995]]
+| "[[Pure Massacre]]"<br>(live version)
+|
+| ''Frogstomp''
+| filmed live at the Phoenician Club in [[Sydney]] on 12 December 1994
+|-
+| 1995
+| "[[Shade (Silverchair song)|Shade]]"
+| 
+| ''Frogstomp''
+| filmed at NSN Studios, [[Newcastle, New South Wales|Newcastle]] on 24 May 1995
+|-
+| 1995
+| "[[Tomorrow (Silverchair song)|Tomorrow]]"<br>(US version)
+| [[Mark Pellington]]
+| ''[[Frogstomp]]''
+| filmed at the [[Raymond Terrace, New South Wales|Raymond Terrace]] BHP quarries on 27 and 28 May 1995
+|-
+| 1995
+| "[[Pure Massacre]]"<br>(US version)
+| [[Peter Christopherson]]
+| ''Frogstomp''
+| filmed on 13 October 1995
+|-
+| [[1996]]
+| "[[Israel's Son]]"<br>
+| [[Nigel Dick]]
+| ''Frogstomp''
+| filmed at Rancho Maria, [[Canyon Country, Santa Clarita, California|Canyon Country]] on 19 and 20 December 1995<br>two versions exist: the censored version omits the whole story line, hence consists only of performance footage
+|-
+| [[1997]]
+| "[[Abuse Me]]"
+| Nick Egan
+| ''Freak Show''
+|
+|-
+| 1997
+| "[[Freak (Silverchair song)|Freak]]"
+| [[Gerald Casale]]
+| ''[[Freak Show (album)|Freak Show]]''
+| filmed in [[Los Angeles]] in December 1996
+|-
+| 1997
+| "[[Cemetery (song)|Cemetery]]"
+| [[Gerald Casale]]
+| ''Freak Show''
+|
+|-
+| [[1999]]
+| "[[Anthem for the Year 2000]]"
+| Gavin Bowden
+| ''[[Neon Ballroom]]''
+| filmed on 23 January 1999 at [[Martin Place, Sydney|Martin Place Amphitheatre]], Sydney
+|-
+| 1999
+| "[[Ana's Song (Open Fire)]]"
+| Cate Anderson
+| ''Neon Ballroom''
+|
+|-
+| 1999
+| "[[Miss You Love]]"
+| Cate Anderson
+| ''Neon Ballroom''
+| possibly a second version by a certain Doc Grover
+|-
+| [[2000]]
+| "Emotion Sickness"
+| Cate Anderson
+| ''Neon Ballroom''
+| six minute short film
+|-
+| [[2002]]
+| "[[The Greatest View]]"
+| Sean Gilligan<br>Sarah-Jane Woulahan
+| ''[[Diorama (album)|Diorama]]''
+|
+|-
+| 2002
+| "[[Without You (Silverchair song)|Without You]]"
+| Sean Gilligan<br>Sarah-Jane Woulahan
+| ''Diorama''
+|
+|-
+| 2002
+| "[[Luv Your Life]]"
+| Steve Scott <br>and (?)<br> James Littlemore
+| ''Diorama''
+|
+|-
+| [[2003]]
+| "[[Across the Night]]"
+| Sean Gilligan<br>Sarah-Jane Woulahan
+| ''Diorama''
+| with [[Guy Pearce]]
+|-
+| 2003
+| "[[After All These Years]]"
+| Robert Hambling
+| ''Diorama''
+|
+|-
+| 2007
+| "[[Straight Lines (song)|Straight Lines]]"
+| Paul Goldman<br>Alice Bell 
+| ''[[Young Modern]]''
+| filmed at Olympic Park railway station in central Sydney.
+|-
+| 2007
+| "[[Reflections of a Sound]]"
+| Damon Escott<br>Stephen Lance 
+| ''Young Modern''
+| 
+|-
+| 2007
+| "[[If You Keep Losing Sleep]]"
+| Damon Escott<br>Stephen Lance
+| ''Young Modern''
+| 
+|}
+
+[[Category:Silverchair|Discography]][[Category:Discographies|Silverchair]]

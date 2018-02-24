@@ -1,0 +1,133 @@
+{{Infobox VG| title = Dragon Warrior III
+| image = [[Image:Dragon Warrior III.jpg|256px]]
+| developer = [[Chunsoft]]
+| publisher = [[Enix]] 
+| designer = [[Yuuji Horii]] (Scenario and game design)<br />[[Akira Toriyama]] (Character and monster design)<br />[[Koichi Sugiyama]] (Music composer)
+| engine =
+| released = <small><sup>'''[[Japan|JPN]]'''</sup></small> [[February 10]], [[1988]] ([[Nintendo Entertainment System|NES]]) <br /><small><sup>'''[[North America|NA]]'''</sup></small> [[June 12]], [[1991]] ([[Nintendo Entertainment System|NES]]) <br /><small><sup>'''[[Japan|JPN]]'''</sup></small> [[December 6]], [[1996]] ([[Super Nintendo Entertainment System|SFC]]) <br /><small><sup>'''[[Japan|JPN]]'''</sup></small> [[December 8]], [[2000]] ([[Game Boy Color|GBC]]) <br /><small><sup>'''[[North America|NA]]'''</sup></small> [[July 7]], [[2001]] ([[Game Boy Color|GBC]]) 
+| genre = [[Console role-playing game|Role-playing game]]
+| modes = [[Single player]]
+| ratings = [[Entertainment Software Rating Board|ESRB]]: T (Teen) ([[Game Boy Color|GBC]])
+| platforms = [[Nintendo Entertainment System]], Famicom, [[Super Nintendo Entertainment System|Super Famicom]], [[Game Boy Color]]
+| media = 4-[[megabit]] NES [[Cartridge (electronics)|cartridge]]<br />16-[[megabit]] SFC [[Cartridge (electronics)|cartridge]]<br />32-[[megabit]] GBC [[Cartridge (electronics)|cartridge]]
+| requirements =
+| input =
+| series = ''[[Dragon Quest]]'' series
+}}
+'''''Dragon Warrior III''''', known in Japan as {{nihongo|'''''Dragon Quest III Soshite Densetsu e…'''''|ドラゴンクエストIII そして伝説へ…|Doragon Kuesuto Surī Soshite Densetsu e…|lit. "Dragon Quest III: And into the Legend…"}}, is a [[console role-playing game]] developed by [[Chunsoft]] and published by [[Enix]] (now [[Square Enix]]). It is the third installment in the ''[[Dragon Quest]]'' series (then known as ''Dragon Warrior'' in North America), first released for the [[Nintendo Entertainment System|Famicom]] in Japan, and then the [[Nintendo Entertainment System|NES]] in [[North America]]. The game later was ported as an [[Video game remake|enhanced remake]] on the [[Super Nintendo Entertainment System|Super Famicom]] in late [[1996 in video gaming|1996]] and then on the [[Game Boy Color]].<ref name="data">{{cite web | author= | year=2002 | title=Dragon Quest III data | url=http://www.planetnintendo.com/alefgard/dw3/ | work= | accessdate=August 15 | accessyear=2007}}</ref> This is the final game in the [[Dragon_Quest#Loto|Loto]] trilogy. This game was never released in Europe.
+
+''Dragon Warrior III'' introduces a Class system, which is later seen in ''[[Dragon Quest VI: Maboroshi no Daichi|Dragon Quest VI]]'' and ''[[Dragon Warrior VII]]'', which allows the player to customize his or her party. This game remains close to the previous games in the series, keeping battles turn-based and in  first-person.
+
+The story follows the traditional ''Dragon Quest'' "Hero", who is on an adventure to save the world from evil. Putting together a party of assorted classes, the Hero must travel the world, stopping at various towns and other locations, eventually making his or her way to the Demon Lord Baramos's lair.
+
+==Gameplay==
+''Dragon Warrior III'' is noted for greatly expanding upon the original ''[[Dragon Warrior]]'' and ''[[Dragon Warrior II]]''. The game uses basic [[console role-playing game]] conventions, such as leveling up by gaining [[experience point]]s and equipping items.<ref>{{cite book |editor=Enix|title=Dragon Warrior III (GBC) North American instruction manual|year=2001|publisher=Enix|language=English|pages=5}}</ref> Battle is [[turn-based strategy|turn-based]], like the other games in the series.
+
+''Dragon Warrior III'' adds a class system, in which each character has a certain class. While the hero always keeps the Hero class, the other characters can choose among the following: Soldier (Warrior), Fighter, Pilgrim (Cleric in the Game Boy Color version), Wizard (Mage), Merchant (Dealer), Goof-Off (Jester), and Sage (not initially selectable). The choice of class greatly affects the character's stats and spells he or she can learn. Furthermore, upon reaching level 20, a character may change classes at the temple of Dhama.<ref name="pgclasses" />
+
+Another innovation is an arena where the player can place bets on the outcome of monster battles.<ref name="pgminigames" /> ''Dragon Warrior III'' features a much larger world than its predecessors, as well as a much larger array of items, equipment, magic, and enemies.
+
+===Classes===
+In the game, the player starts out as a single hero, male or female. When the quest begins, the player can eventually build up a team of diversified heroes through the local tavern in Aliahan. This team can be made up of Wizards, Pilgrims, Thieves, Goof-offs, Fighters, Soldiers, and Dealers in either male or female form. After selecting a character in the remake, the player can change the person's starting abilities with five magical seeds, given by the tavern listrar of heroes. 
+[[Image:Dragon warrior 3 battle screen.gif|thumb|Battle scene from the original game.]]
+'''Hero''': The Hero is the most well-balanced of the characters and is restricted to the main character.<ref name="pgclasses">{{cite book |editor=Prima Games |title=Dragon Warrior III Official Strategy Guide |year=2001 |publisher=Prima Publishing |isbn=0-7615-3638-8 |pages=8-13}}</ref> He or she can be equipped with either heavy or light armor, and can use a variety of weapons. The Hero also is given such magical abilities as Blaze and Heal for defensive and offensive purposes. Some of the most powerful healing, defensive, and offensive spells in the game are exclusive to the Hero class, including Ironize, which makes the party completely invulnerable for a short time, HealUsAll, which completely restores the group's HP, and the lightning spells Zap and Thordian. The Hero can use a variety of outside abilities as well, such as Recall (which allows the player to record conversations) and Return (which allows the player to travel to cities already visited).
+
+'''Wizard''': (Mage in the Game Boy Color version)<ref name="pgclasses" /> Wizards specialize in destructive magical spells such as Blaze and Boom. Wizards also have the abilities to use spells in the outside world. Such spells as Outside and X-Ray will help the player advance in caves and while adventuring. The Wizard is given excessively strong magical abilities when leveled fully, including BeDragon and Explodet. The Wizard also has the Chance spell introduced in ''[[Dragon Warrior II]]'', which has a large menu of possible random effects: some very good, some very bad. Though Wizards have high Intelligence, they are physically frail and cannot equip heavy weapons such as swords, axes, spears, or heavy armor. 
+
+'''Pilgrim''': (Cleric in the Game Boy Color version)<ref name="pgclasses" /> Pilgrims are on the other side of the magical spectrum from Wizards, as they specialize in healing and fortifying spells rather than attack magic. Introductory spells such as Heal and SpeedUp are useful in the early stages of the game, but as the player advances, the spells become more versatile. Like Wizards, Pilgrims cannot equip heavy armor, but they can use weapons much like a Hero or a Soldier can. Pilgrims do have initially more strength, agility and vitality than Wizards. 
+[[Image:Dragon warrior III battle scene snes.gif|thumb|Battle from the enhanced Super Famicom version.]]
+'''Thief''': The Thief was a new class added to the Game Boy Color version of ''Dragon Warrior III''. Thieves have high speed and agility  but average attack power and defense. They have the ability to steal items at the end of a fight. In addition, they are decent combatants that can use whips and chains to attack multiple enemies at once. In the outside world abilities such as Eagle Eye allow the player to locate villages and nearby towns.
+
+'''Goof-off''': (Jester in the Game Boy Color version)<ref name="pgclasses" /> Goof-offs, although pretty much useless on the battle field, have a great amount of luck. This allows them to deal critical amounts of damage more often than other characters. The trade-off for this is the fact that Goof-offs have minds of their own, and the player cannot always control their actions. Goof-offs are the wild cards of the game, as they sometimes do damage to themselves instead of attacking enemy characters. Goof-off is the only class that can turn into a Sage at Dhama Temple without a Book of Satori.
+
+'''Fighter''': Fighters have a great amount of speed, agility, and strength. They can deal devastating amounts of damage from a single strike, and can be equipped with a variety of weapons. However, if equipped with a sword or other bladed weapon, a Fighter's abilities will actually decrease, as his or her attack power will lower considerably.  This is because Fighters prefer to attack with their bare hands, and so only claw type weapons will make their attack power rise. 
+[[Image:Dragon warrior 3 battle scene gbc.gif|thumb|Battle scene from the GBC version.]]
+'''Soldier''': (Warrior in the Game Boy Color version)<ref name="pgclasses" /> This class, which focuses on strength and defense, allows you to recruit basically another hero, but without the inherited magical abilities. Their physical abilities are higher than other classes, but they suffer from relatively low agility.   
+
+'''Merchant''': (Dealer in the Game Boy Color version)<ref name="pgclasses" /> Merchants have two unique outside abilities: Excavate (which allows the player to dig underfoot for treasure) and YellHelp, which summons a shopkeeper in the field. They also have the ability to pick up money from after a battle and can appraise items free of charge. 
+
+'''Sage''': The magical abilities of a Sage are comprised of the skills belonging to both Pilgrims and Wizards. This class is not initially available, but a player can transform a leveled up Goof-off into one at the Dhama Temple. If the player has a rare item called the Book of Satori (or the Zen Book in the remakes), any character holding it can also become a Sage.<ref name="pgclasses" />
+
+==Story==
+===Characters===
+The game starts with just the Hero, who then must recruit a party of three at the local tavern. Unlike most ''Dragon Quest'' parties, aside from the Hero, the party is not made up of characters involved in the story. Although only four people can be in the party at a time, members of the party can be kept at the tavern, allowing room for new recruits.<ref>{{cite book |editor=Enix|title=Dragon Warrior III (GBC) North American instruction manual|year=2001|publisher=Enix|language=English|pages=14-15}}</ref>
+
+===Plot===
+''Dragon Warrior III'' is set many years before the original ''Dragon Warrior'' in a world separate from the first two games.<ref name="brad">{{cite web | author=Brad Shoemaker | year=2001 | title=Dragon Warrior III preview | url=http://www.gamespot.com/gbc/rpg/dragonwarrior3/review.html | work= | accessdate=August 28 | accessyear=2007}}</ref> A wicked fiend, Baramos, threatens to destroy the world.<ref>'''King of Alianhan''': Thy enemy shall be the Archfiend Baramos. {{cite video game|title=Dragon Warrior III |developer=Enix |publisher=Enix |date=2007-08-27 |platform=NES |language=English}}</ref> The Hero, son or daughter (the player can choose to be either male or female; the only gameplay effects of gender on a character is that a few items, like the feathered cap, can only be used by female characters and some dialogue changes with the gender) of the legendary and recently deceased Ortega,<ref>'''King of Alianhan''': It is said thy father Ortega met when he fell into a volcano's crater at the end of a battle. {{cite video game|title=Dragon Warrior III |developer=Enix |publisher=Enix |date=2007-08-27 |platform=NES |language=English}}</ref> recruits up to three travelling companions and sets out to defeat Baramos, only to find later that Baramos is merely a disciple of Zoma, the fiend who rules the Dark World below. The Hero then travels to the Dark World, which is known as Alefgard in subsequent installments of the series, and restores light. For his bravery, the Hero receives the title of [[Dragon Quest#Erdrick|Erdrick]] (or in later versions, Loto).
+[[Image:Dragon warrior III town scene.gif|thumb|The Hero speaks to the townspeople.]]
+The Hero travels from his/her home country of Aliahan to explore the world and acquire two of the three keys needed to open doors throughout the game. After saving two people of the town of Baharata from the rogue Kandar, the Hero receives Black Pepper, which he/she then trades for a sailing ship at Portoga.<ref name="story">{{cite book |editor=Prima Games |title=Dragon Warrior III Official Strategy Guide |year=2001 |publisher=Prima Publishing |isbn=0-7615-3638-8 |pages=18-22}}</ref> With the ship, the Hero acquires the Final Key and the six mystical orbs which are used to revive the legendary bird Ramia (in later versions, Lamia). Ramia takes the Hero and his party to Baramos's castle. After a ferocious battle, the Hero's celebration is cut off as Zoma attacks and opens the pit to the Dark World. In the Dark World, the Hero acquires most of the artifacts that need to be collected in the original ''[[Dragon Warrior]]'', including the Sun Stone and the Rain Staff.<ref name="story" /> These items, as in the original game, create the Rainbow Bridge, which leads the Hero to Zoma's castle for the final confrontation.
+
+===Setting===
+The game starts in the castle town of Aliahan. Like the rest of the ''Dragon Quest'' world, this castle is set in a medieval time period, complete with knights and magicians. Unlike games like ''[[Final Fantasy (video game)|Final Fantasy]]'', ''Dragon Quest III's''' world has no modern technology, using horses for travel and torches for light. 
+
+The party explores several caves, ruins, and castles during the adventure. The geography of Dragon Warrior III largely corresponds to the actual geography of the world, with the exception of Aliahan as a continent located in the South Pacific Ocean. In addition, many towns correspond to their real-world cultures, including "Roma" for Rome, "Assaram" near present-day Iraq (perhaps derived from "Assyria"), and even a "New Town" in eastern North America that experiences a revolution against an overbearing ruler.
+
+The quest takes the characters from Aliahan to an [[Egypt]]ian themed area, complete with a pyramid, to the northern tip of the world, where the land is frozen and snow covered. Once the party gains a boat, they can travel to far away islands not on the starting continent, and once they can ride Ramia, they can travel over tall mountains, opening up even more territory.
+
+==Development==
+===Production===
+As with the other main games in the ''Dragon Quest'' series, ''Dragon Warrior III's'' scenario was designed by [[Yuuji Horii]],<ref>{{cite web | author= | year=2007 | title=Dragon Warrior III at IMBD | url=http://www.imdb.com/title/tt0302510/ | work= | accessdate=August 24 | accessyear=2007}}</ref> whereas the artwork was done by [[Akira Toriyama]], of [[Dragon Ball]] fame.<ref>{{cite web | author= | year=2007 | title=Akira Toriyama at IMDB | url=http://www.imdb.com/name/nm0868066/ | work= | accessdate=August 24 | accessyear=2007}}</ref>
+[[Koichi Sugiyama]] composed all the music for ''Dragon Warrior III''.<ref>{{cite web | author= | year=2007 | title=Koichi Sugiyama at IMDB | url=http://www.imdb.com/name/nm0837543/ | work= | accessdate=August 26 | accessyear=2007}}</ref>
+
+===Remakes===
+[[Image:Dragon warrior 3 gba cover.jpg|thumb|150 px|North American GBC cover]]
+The [[Super Nintendo Entertainment System|Super Famicom]] version, released in late 1996, the last days of the SNES in North America, was never brought to North America, due to [[Enix America Corporation]]'s closure in 1993. By the time Enix of America returned, the SNES left the North American market.  However, the next remake, for the [[Game Boy Color]], was released in both.<ref name="data" />  The Game Boy Color version is based on the Super Famicom version.  Thus the walkthroughs written for the Game Boy Color version may also be used for the Super Famicom version.  For the North American release of the ''Dragon Warrior III'' Game Boy Color remake, Enix decided to give the packaging an [[anime]] feel, due to fan demand on Enix's message boards.<ref>{{cite web | author= | year=2001 | title=Interview with Enix | url=http://www.rpgfan.com/features/e32k1-enix/index2.html | work= | accessdate=August 30 | accessyear=2007}}</ref> Both remake versions of ''Dragon Quest III'' offer many new features and changes.  No version of ''Dragon Quest III'' was released in Europe.  As of now, Square Enix has no plans for a future version of the game.
+
+Many of the names of the classes were changed in the English localization of the Game Boy Color version, such as Soldier to Warrior, and a new class, the Thief, was added to the roster. Also, in the new versions was the ability to change into the Jester class at Dhama, which was not allowed in the original.
+
+New mini-games were added to the remakes, including Pachisi (called Suguroku in Japan), which is a giant [[board game]] style adventure from which the player can win items.<ref name="pgminigames" /> This game is based on Horii's series [[Itadaki Street]].<ref name="ign">{{cite web | author=Craig Harris | year=2001 | title=IGN Dragon Warrior III Preview | url=http://gameboy.ign.com/articles/136/136206p1.html | work= | accessdate=August 28 | accessyear=2007}}</ref> The Tiny Medal system, which lets players collect hidden medals, seen in later ''Dragon Quest'' games, was added.<ref name="pgminigames">{{cite book |editor=Prima Games |title=Dragon Warrior III Official Strategy Guide |year=2001 |publisher=Prima Publishing |isbn=0-7615-3638-8 |pages=90-95}}</ref> This system was also included in the remakes of the previous ''Dragon Quest'' games as well. Another medal system, Monster Medals, lets players collect medals from fallen enemies, was also added. In the Game Boy Color version, two players could trade Monster Medals via a [[Game Link Cable]].<ref>{{cite book |editor=Enix|title=Dragon Warrior III (GBC) North American instruction manual|year=2001|publisher=Enix|language=English|pages=35}}</ref> Two bonus dungeons become available after the main quest is over.
+
+The remakes feature updated graphics.<ref name="ign" /> An overhauled introduction for the game was made, similar to the one in the original ''Dragon Warrior III'', which included Ortega's battle with a dragon. Monster and attack animation in battles were added,<ref name="brad" /> a feature first introduced in ''[[Dragon Quest VI]]''.<ref>(1995) in [[Nintendo Power]]: Volume 81. [[Nintendo of America]], pages 64-67. Retrieved [[2007]]-[[April 6|4-6]]</ref>
+
+The personality system was put into the remakes of the third ''Dragon Quest''. A pre-game sequence in which the player answers to moral dilemmas similar to that in ''[[Ultima IV]]'' determines the Hero's personality. For the other members of the party, the personality is determined by the seeds that the player gives them upon creation. Personalities determine which stats increase when a character levels up.<ref>{{cite book |editor=Enix|title=Dragon Warrior III (GBC) North American instruction manual|year=2001|publisher=Enix|language=English|pages=10-15}}</ref>
+
+==Reception==
+''Dragon Quest III'' sold over 3.8 million copies in Japan.<ref>{{cite web | author= | year=2002 | title=Dragon Quest History | url=http://www.planetnintendo.com/alefgard/dqhistory.asp | work= | accessdate=August 15 | accessyear=2007}}</ref> It is often mistakenly known as being the game that caused in [[1988]] the [[Government of Japan|Japanese government]] to outlaw further releases of Dragon Quest games on school days, a law still in effect today. In truth, Enix themselves also decided to hold off the release of future Dragon Quest games until weekends.<ref>{{cite web |title=Student Arrested In Dragon Quest Death Threat | url=http://www.gamasutra.com/php-bin/news_index.php?story=5000 | accessdate=August 15 | accessyear=2007}}</ref> A survey conducted by the magazine [[Famitsu]] in early  [[2006]] among its readers placed ''Dragon Quest III'' as the third best game of all time, being preceded by only ''[[Final Fantasy X]]'' and ''[[Final Fantasy VII]]''.<ref>{{cite web | author=Collin Campbell | year=2006 | title=Japan Votes On All Time Top 100 | url=http://www.next-gen.biz/index.php?option=com_content&task=view&id=2401&Itemid=2 | work= | accessdate=August 15 | accessyear=2007}}</ref> In Japan, the Super Famicom remake only sold 1.4 million, much less than the original.<ref>{{cite web | author= | year=2007 | title=Japan Platinum Game Chart | url=http://www.the-magicbox.com/topten2.htm | work= | accessdate=August 27 | accessyear=2007}}</ref>  The Gameboy Color version sold less than the Super Famicom version in Japan and North America combined. However, together, with the sales of the remakes, ''Dragon Quest III'' is the most successful title in the series and one of the best selling role-playing games in Japan.<ref>{{cite web | author= | year=2000 | title=RPGFan News | url=http://www.rpgfan.com/news/2000/1600.html | work= | accessdate=August 30 | accessyear=2007}}</ref>
+
+As is the case with other North American releases of the series, ''Dragon Warrior III'' did not come close to meeting the success of its Japanese counterpart, although the Game Boy Color remake received very good reviews from critics. [[GameSpot]] gave the Game Boy Color version a "good" 7.6/10, saying that "DWIII is a worthy port of its old NES ancestor, but its firm grounding in the RPG old-school means that only the hard-core need apply."<ref name="brad" /> [[Nintendo Power]] gave the remake a respectable 4/5, while [[IGN]] gave the game a perfect 10/10.<ref>{{cite web | author= | year=2004 | title=Dragon Warrior III Reviews | url=http://www.gamespot.com/gbc/rpg/dragonwarrior3/review.html?mode=web | work= | accessdate=August 28 | accessyear=2007}}</ref>
+
+==Soundtracks==
+As with every Dragon Quest, [[Koichi Sugiyama]] composed the music and directed all the associated spinoffs. ''Dragon Warrior III's'' music is featured on ''Dragon Quest Game Music Super Collection Vol. 1'', ''Dragon Quest Game Music Super Collection Vol. 2'', and ''Dragon Quest Game Music Super Collection Vol. 3'', each album a compilation of music from the first six ''Dragon Quest'' games.<ref>{{cite web | author=Damian Thomas | year=2006 | title=Dragon Quest Game Music Vol. 1 | url=http://www.rpgfan.com/soundtracks/dqmusic1/index.html | work= | accessdate=August 30 | accessyear=2007}}</ref><ref>{{cite web | author=Damian Thomas | year=2006 | title=Dragon Quest Game Music Vol. 2 | url=http://www.rpgfan.com/soundtracks/dqmusic2/index.html | work= | accessdate=August 30 | accessyear=2007}}</ref><ref>{{cite web | author=Damian Thomas | year=2006 | title=Dragon Quest Game Music Vol. 3 | url=http://www.rpgfan.com/soundtracks/dqmusic3/index.html | work= | accessdate=August 30 | accessyear=2007}}</ref> This games music has also been featured on other ''Dragon Quest'' compilation albums, such as ''Dragon Quest on Piano Vol. II'', which was released in 1990,<ref>{{cite web | author=Patrick Gann | year=2006 | title=Dragon Quest on Piano Vol. III | url=http://www.rpgfan.com/soundtracks/dq-piano2/index.html| work= | accessdate=August 30 | accessyear=2007}}</ref> and ''Dragon Quest Best Songs Selection ~Loula~'', released in 1993.<ref>{{cite web | author=Patrick Gann | year=2006 | title=Dragon Quest Best Songs | url=http://www.rpgfan.com/soundtracks/dq-songs/index.html| work= | accessdate=August 30 | accessyear=2007}}</ref>
+
+A compilation of ''Dragon Warrior III's'' music was put on ''Dragon Quest III ~And Into the Legend...~ Remix Symphonic Suite''. The album was published by [[Sony Records]] in 1996.<ref>{{cite web | author=Damian Thomas | year=2006 | title=Dragon Quest III soundtrack | url=http://www.rpgfan.com/soundtracks/dq3-ss/index.html | work= | accessdate=August 21 | accessyear=2007}}</ref> Here is the tracklisting of the Symphonic Suite:
+[[Image:Dragon quest 3 album cover.jpg|thumb|Cover of the Symphonic Suite]]
+# Roto (1:41)
+# Prologue (3:58)
+# Rondo (2:59)
+# Around the World (Around the World ~ Town ~ Jipang ~ Pyramid ~ Village) (6:48)
+# Adventure (3:09) 
+# Dungeon ~ Tower ~ The Phantom Ship (5:34)
+# Distant Memories (2:52)
+# Requiem ~ Small Shrine (3:11)
+# Sailing (2:53)
+# Heavenly Flight (2:44)
+# Grueling Fight (4:05)
+# Zoma's Castle (3:30)
+# Fighting Spirits (Battle Theme ~ In Alefgard ~ Hero's Challenge) (5:41)
+# Into the Legend (3:01)
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://na.square-enix.com/games/dragon-warrior3/ Official ''Dragon Warrior III'' GBC Website]
+*{{RPGC shrine|id=/nes/dw3|name=Dragon Warrior III}}
+*{{Moby game|id=/dragon-warrior-iii}}
+*{{GameFAQs|type=/console/nes|num=587249|name=''Dragon Warrior III''}} 
+*{{GameFAQs|type=/portable/gbcolor|num=450388|name=''Dragon Warrior III''}} (GBC)
+*[http://01nintendo.com/dq3/ ''Dragon Warrior III''] at Dragon quest III capture
+
+{{Dragon Quest series}}
+
+{{DEFAULTSORT:Dragon Quest 03}}
+[[Category:1988 video games]]
+[[Category:1991 video games]]
+[[Category:Dragon Quest games]]
+[[Category:Game Boy Color games]]
+[[Category:Nintendo Entertainment System games]]
+[[Category:Super NES games]]
+[[Category:Video game prequels]]
+
+[[fr:Dragon Quest III]]
+[[ja:ドラゴンクエストIII そして伝説へ…]]
+[[pl:Dragon Quest III]]

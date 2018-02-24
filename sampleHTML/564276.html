@@ -1,0 +1,215 @@
+
+<p><div style="wigth:200px"><a class="internal" href="/wiki/Image:200px-csv_delimited000.svg.png" title="A stylistic depiction of a fragment from a [[Comma-separated values|CSV]]-formatted text file. The commas (shown in red) are used as field delimiters."><img src="http://en.wikipedia.org/wiki/200px-csv_delimited000.svg.png" alt="A stylistic depiction of a fragment from a [[Comma-separated values|CSV]]-formatted text file. The commas (shown in red) are used as field delimiters." title="A stylistic depiction of a fragment from a [[Comma-separated values|CSV]]-formatted text file. The commas (shown in red) are used as field delimiters." class="location-right type-thumb" width="200px" />
+</a>
+<div class="thumbcaption">A stylistic depiction of a fragment from a <a href="/wiki/Comma-separated_values" id="w">CSV</a>-formatted text file. The commas (shown in red) are used as field delimiters.</div></div>
+</p>
+<p>A <b>delimiter</b> is a sequence of one or more <a href="/wiki/Character_(computing)" id="w">characters</a> used to specify the boundary between separate, independent regions in <a href="/wiki/Plain_text" id="w">plain text</a> or other data stream.<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup> An example of a delimiter is the comma character, which acts as a <i>field delimiter</i> in a sequence of <a href="/wiki/Comma-separated_values" id="w">comma-separated values</a>.</p>
+<p>An alternative to the use of field delimiters is <a href="/wiki/String_literal#Declarative notation" id="w">declarative notation</a>, which uses a length field at the start of a region to specify the boundary. For word delimiters used in the written form of human languages, see <a href="/wiki/Interword_separation" id="w">interword separation</a>.</p>
+<a id="Overview" name="Overview"></a><h2> Overview </h2>
+<p>Delimiters can be broken down into:</p>
+
+<ul>
+<li>Field and Record delimiters; and</li>
+<li>Bracket delimiters.</li></ul>
+<a id="Field_and_record_delimiters" name="Field_and_record_delimiters"></a><h2>Field and record delimiters</h2>
+<p>Field delimiters  separate data fields. Record delimiters separate groups of fields.<sup id="_ref-FldDelm_a" class="reference"><a href="#_note-FldDelm" title="">[2]</a></sup></p>
+<p>For example, the (CSV) file format uses a <a href="/wiki/Comma" id="w">comma</a> as the delimiter between <a href="/wiki/Field_(computer_science)" id="w">fields</a>, and a <a href="/wiki/End-of-line" id="w">end-of-line</a> indicator as the delimiter between <a href="/wiki/Row_(database)" id="w">records</a>.  For instance:
+</p>
+<p>specifies a simple <a href="/wiki/Flat_file_database" id="w">flat file database</a> <a href="/wiki/Table_(information)" id="w">table</a> using the (CSV) file format.</p>
+<a id="Conventions" name="Conventions"></a><h2>Conventions</h2>
+
+<p>Computing platforms historically use certain delimiters by convention.<sup id="_ref-3" class="reference"><a href="#_note-3" title="">[3]</a></sup> The following tables depict just a few examples for comparison.</p>
+<p><b>Programming languages</b>
+(<i>See also</i>, <a href="/wiki/Comparison_of_programming_languages_(syntax)" id="w">Comparison of programming languages (syntax)</a>).
+</p>
+<div style="page-break-inside:	avoid;">
+<table class="wikitable">
+<tr>
+<th>String Literal </th>
+<th>End of Statement
+<pre>   |-
+   ! Pascal
+   | singlequote </pre></th>
+<td>semicolon
+<pre>   |-
+   ! C
+   | doublequote, singlequote </pre></td>
+<td>semicolon
+<pre>   |-</pre></td></tr></table></div>
+
+<p><b>Field and Record delimiters</b> (<i>See also</i>, <a href="/wiki/ASCII" id="w">ASCII</a>, <a href="/wiki/Control_character" id="w">Control character</a>).</p>
+
+<div style="page-break-inside:	avoid;">
+<table class="wikitable">
+<tr>
+<th>End of Field </th>
+<th>End of Record </th>
+<th>End of File
+<pre>   |-
+   ! Unix (and Mac OS X)
+   | <a href="/wiki/Tab_key" id="w">Tab</a> </pre></th>
+<td><a href="/wiki/Line_feed" id="w">LF</a> </td>
+<td>none
+<pre>   |-
+   ! Windows
+   | <a href="/wiki/Tab_key" id="w">Tab</a> </pre></td>
+<td><a href="/wiki/CRLF" id="w">CRLF</a> </td>
+<td>none
+<pre>   |-
+   ! Classic Mac OS
+   | <a href="/wiki/Tab_key" id="w">Tab</a> </pre></td>
+<td><a href="/wiki/Carriage_return" id="w">CR</a> </td>
+<td>none
+<pre>   |-
+   ! Unicode
+   | UNIT SEPARATOR<br/>Position 31 (U+001F) </pre></td>
+<td>RECORD SEPARATOR<br/>Position 30 (U+001E) </td>
+<td>FILE SEPARATOR<br/>Position 28 (U+001C)</td></tr></table></div>
+
+<a id="Bracket_delimiters" name="Bracket_delimiters"></a><h2>Bracket delimiters</h2>
+
+<p>Bracket delimiters (also block delimiters, region delimiters, balanced delimiters)  mark both the start and end of a region of text.<sup id="_ref-BalaDelm_a" class="reference"><a href="#_note-BalaDelm" title="">[4]</a></sup> They are used in almost all programming languages, including <a href="/wiki/Wikicode" id="w">Wikicode</a>.<sup id="_ref-Scott000_a" class="reference"><a href="#_note-Scott000" title="">[5]</a></sup></p>
+<p>Common examples of <i>bracket</i> delimiters include:<sup id="_ref-programmingperl_a" class="reference"><a href="#_note-programmingperl" title="">[6]</a></sup></p>
+<p />
+<table class="wikitable">
+
+<tr>
+<td><b>Delimiters</b></td>
+<td><b>Description</b></td></tr>    
+    
+
+<tr>
+<td><code>(</code> and <code>)</code></td>
+<td><a href="/wiki/Bracket#Parentheses .28 .29" id="w">Parenthesis</a>. The <a href="/wiki/Lisp" id="w">Lisp</a> programming language syntax is cited as recognizable primarily from its use of parenthesis.<sup id="_ref-Kaufmann000_a" class="reference"><a href="#_note-Kaufmann000" title="">[7]</a></sup></td></tr>
+
+<tr>
+<td><code>{</code> and <code>}</code></td>
+<td><a href="/wiki/Bracket#Curly brackets or braces .7B .7D" id="w">Curly brackets</a>.<sup id="_ref-8" class="reference"><a href="#_note-8" title="">[8]</a></sup></td></tr>
+
+
+<tr>
+<td><code>[</code> and <code>]</code></td>
+<td><a href="/wiki/Bracket#Box brackets or square brackets .5B .5D" id="w">Square brackets</a>.<sup id="_ref-9" class="reference"><a href="#_note-9" title="">[9]</a></sup></td></tr>
+
+
+<tr>
+<td><code>&#60;</code> and <code>&#62;</code></td>
+<td><a href="/wiki/Bracket#Angle brackets or chevrons .3C .3E" id="w">Angle brackets</a>.<sup id="_ref-10" class="reference"><a href="#_note-10" title="">[10]</a></sup></td></tr>
+
+
+<tr>
+<td><code>&#34;</code> and <code>&#34;</code></td>
+<td>commonly used to denote <a href="/wiki/String_literal" id="w">string literals</a>.</td></tr>
+
+<tr>
+<td><code>&#39;</code> and <code>&#39;</code></td>
+<td>commonly used to denote string literals.</td></tr>
+
+<tr>
+<td><code>&#60;?</code> and <code>?&#62;</code></td>
+<td>used to indicate <a href="/wiki/XML" id="w">XML</a> processing instructions.</td></tr>
+
+<tr>
+<td><code>/*</code> and <code>*/</code></td>
+<td>used to denote <a href="/wiki/Comment_(computer_programming)" id="w">comments</a> in some programming languages.</td></tr>
+
+<tr>
+<td><code>{|</code> and <code>|}</code></td>
+<td>used to indicate a table in <a href="/wiki/Wikicode" id="w">Wikicode</a>.</td></tr>
+
+<tr>
+<td><code>&#60;%</code> and <code>%&#62;</code></td>
+<td>used in some <a href="/wiki/Web_template" id="w">web templates</a> to specify language boundaries. These are also called <i>template delimiters</i>.<sup id="_ref-Smarty000_a" class="reference"><a href="#_note-Smarty000" title="">[11]</a></sup>
+<p /></td></tr>
+</table>
+
+<a id="Delimiter_collision" name="Delimiter_collision"></a><h2>Delimiter collision</h2>
+<p><b>Delimiter collision</b> is a problem that occurs when an author or programmer introduces delimiters into text without actually intending them to be interpreted as boundaries between separate regions.<sup id="_ref-FldDelm_b" class="reference"><a href="#_note-FldDelm" title="">[2]</a></sup> In the case of <a href="/wiki/Comma-separated_values" id="w">Comma-separated values</a> files, for example, this can occur whenever an author attempts to include a comma as part of a field value (e.g., salary = &#34;$30,000&#34;). In the case of <a href="/wiki/XML" id="w">XML</a>, for example, this can occur whenever an author attempts to specify an <a href="/wiki/Angle_bracket" id="w">angle bracket</a> character.</p>
+<a id="Solutions" name="Solutions"></a><h3>Solutions</h3>
+
+<p>Because delimiter collision is a very common problem, various methods for avoiding it have been invented.</p>
+<a id="Escape_character" name="Escape_character"></a><h4>Escape character</h4>
+<p>One method for avoiding delimiter collision is to use <a href="/wiki/Escape_character" id="w">escape characters</a>. From a language design standpoint, these are adequate, but they have drawbacks:</p>
+
+<ul>
+<li>text can be rendered unreadable when littered with numerous escape characters;</li>
+<li>they require a mechanism to &#39;escape the escapes&#39; when not intended as escape characters; and</li>
+<li>although easy to type, they can be cryptic to someone unfamiliar with the language.<sup id="_ref-Kahrel000_a" class="reference"><a href="#_note-Kahrel000" title="">[12]</a></sup></li></ul>
+<a id="Escape_sequence" name="Escape_sequence"></a><h4>Escape sequence</h4>
+<p>Escape sequences are similar to escape characters, except they usually consist of some kind of mnemonic instead of just a single character.  One use is in <a href="/wiki/String_literal" id="w">string literals</a> that include a doublequote (&#34;) character. For example in <a href="/wiki/Perl" id="w">Perl</a>, the code:
+   print &#34;Nancy said \x34Hello World!\x34 to the crowd.&#34;;  ### use \x34</p>
+<p>produces the same output as:     
+   print &#34;Nancy said \&#34;Hello World!\&#34; to the crowd.&#34;;      ### use escape char</p>
+<p>One drawback of escape sequences, when used by people, is the need to memorize the codes that represent individual characters (see also: <a href="/wiki/Character_entity_reference" id="w">character entity reference</a>, <a href="/wiki/Numeric_character_reference" id="w">numeric character reference</a>).    </p>
+<a id="Dual_quoting_delimiters" name="Dual_quoting_delimiters"></a><h4>Dual quoting delimiters</h4>
+<p>In contrast to escape sequences and escape characters, dual delimiters
+provide yet another way to avoid delimiter collision. Some languages, for example, allow the use of either a singlequote (&#39;) or a doublequote (&#34;) to specify a string literal. For example in <a href="/wiki/Perl" id="w">Perl</a>:</p>
+<pre>   print &#39;Nancy said &#34;Hello World!&#34; to the crowd.&#39;;
+    </pre>
+<p>produces the desired output without requiring escapes. This approach, however, only works when the string does not contain <i>both</i> types of quotation marks.</p>
+<a id="Multiple_quoting_delimiters" name="Multiple_quoting_delimiters"></a><h4>Multiple quoting delimiters</h4>
+<p>In contrast to dual delimiters, multiple delimiters are even more flexible for avoiding delimiter collision.<sup id="_ref-ProgPerl001_a" class="reference"><a href="#_note-ProgPerl001" title="">[13]</a></sup> </p>
+<p>For example in <a href="/wiki/Perl" id="w">Perl</a>:
+   print qq^Nancy doesn&#39;t want to say &#34;Hello World!&#34; anymore.^;</p>
+<pre>   print qq@Nancy doesn&#39;t want to say &#34;Hello World!&#34; anymore.@;
+
+   print qq§Nancy doesn&#39;t want to say &#34;Hello World!&#34; anymore.§;        
+</pre>
+<p>all produce the desired output through use of the <b>quotelike operator</b>, which allows characters to act as delimiters. Although this method is more flexible, few languages support it. <a href="/wiki/Perl" id="w">Perl</a> and <a href="/wiki/Ruby_(programming_language)" id="w">Ruby</a> are two that do.<sup id="_ref-Ruby000_a" class="reference"><a href="#_note-Ruby000" title="">[14]</a></sup><sup id="_ref-ProgPerl002_a" class="reference"><a href="#_note-ProgPerl002" title="">[15]</a></sup></p>
+<a id="Content_boundary" name="Content_boundary"></a><h4>Content boundary </h4>
+<p>A <b>content boundary</b> is a special type of delimiter that is specifically designed to resist delimiter collision. It works by allowing the author to specify a long sequence of characters that is guaranteed to always indicate a boundary between parts in a multi-part message, with no other possible interpretation.<sup id="_ref-Mime000_a" class="reference"><a href="#_note-Mime000" title="">[16]</a></sup></p>
+<p>This is usually done by specifying a random sequence of characters followed by an identifying mark such as a <a href="/wiki/UUID" id="w">UUID</a>, a <a href="/wiki/Timestamp" id="w">timestamp</a>, or some other distinguishing mark. (<i>See e.g.</i>, <a href="/wiki/MIME#Multipart Messages" id="w">MIME</a>, <a href="/wiki/Here_document" id="w">Here documents</a>).</p>
+<a id="Whitespace_or_indentation" name="Whitespace_or_indentation"></a><h4>Whitespace or indentation</h4>
+<p>Some programming and computer languages allow the use of <a href="/wiki/String_literal#Whitespace_delimiters" id="w">whitespace delimiters</a> or <a href="/wiki/Indentation" id="w">indentation</a><sup id="_ref-17" class="reference"><a href="#_note-17" title="">[17]</a></sup> as a means of specifying boundaries between independent regions in text. <a href="/wiki/Python_(programming_language)" id="w">Python</a> and <a href="/wiki/YAML" id="w">YAML</a> are prominent examples.</p>
+<a id="Regular_expression_syntax" name="Regular_expression_syntax"></a><h4> Regular expression syntax </h4>
+<dl><dd>{{seealso}}</dd></dl>
+<p>In specifying a <a href="/wiki/Regular_expression" id="w">regular expression</a>, alternate delimiters may also be used to simplify the syntax for <b>match</b> and <b>substitution</b> operations in <a href="/wiki/Perl" id="w">Perl</a>.<sup id="_ref-Friedl000_a" class="reference"><a href="#_note-Friedl000" title="">[18]</a></sup></p>
+<p>For example, a simple match operation may be specified in perl with the following syntax: </p>
+<pre>   $string1 = &#39;Nancy said &#34;Hello World!&#34; to the crowd.&#39;;    # specify a target string
+   print $string1 =~ m/[aeiou]+/;                           # match one or more vowels
+</pre>
+<p>The syntax is flexible enough to specify match operations with alternate delimiters, making it easy to avoid delimiter collision:</p>
+<pre>   $string1 = &#39;Nancy said &#34;httq://Hello/World.htm&#34; is not a valid address.&#39;; # target string
+    
+   print $string1 =~ m@httq://@;       # match using alternate regular expression delimiter
+   print $string1 =~ m{httq://};       # same as previous, but different delimiter
+   print $string1 =~ m!httq://!;       # same as previous, but different delimiter
+
+</pre><a id="ASCII_armor" name="ASCII_armor"></a><h2>ASCII armor</h2>
+<p>Although principally used as a mechanism for text encoding of binary data,
+&#34;<a href="/wiki/ASCII_armor" id="w">ASCII armoring</a>&#34; is a programming and systems administration technique 
+that also helps to avoid delimiter collision in some circumstances.<sup id="_ref-Rhee000_a" class="reference"><a href="#_note-Rhee000" title="">[19]</a></sup><sup id="_ref-Gross000_a" class="reference"><a href="#_note-Gross000" title="">[20]</a></sup> This technique is contrasted from the other approaches described above because it is more complicated, and therefore not suitable for small applications and simple data storage formats. The technique employs a special encoding scheme or <a href="/wiki/Hash_function" id="w">hash function</a>, such as <a href="/wiki/Base64" id="w">base64</a>, to ensure that delimiter characters do not appear in transmitted data.</p>
+<p>This technique is used, for example, in <a href="/wiki/Microsoft" id="w">Microsoft</a>&#39;s <a href="/wiki/ASP.NET" id="w">ASP.NET</a> web development technology, and is closely associated with the &#34;VIEWSTATE&#34; component of that system.<sup id="_ref-Kalani000_a" class="reference"><a href="#_note-Kalani000" title="">[21]</a></sup></p>
+<a id="Example" name="Example"></a><h3> Example </h3>
+<p>The following is a simplified example demonstrating how this technique works in practice. </p>
+<p>The first code fragment shows a simple HTML tag in which the VIEWSTATE value contains characters that are incompatible with the delimiters of the HTML tag itself:
+</p><pre class="code">
+    <b><font color="#7F0055">&#60;input</font></b> type=<font color="#2A00FF">&#34;hidden&#34;</font> __VIEWSTATE=<font color="#2A00FF">&#34;BookTitle:Nancy doesn&#39;t say &#34;</font>Hello World!<font color="#2A00FF">&#34; anymore - how to live 
+with a recovering sex addict.&#34;</font> <font color="#7F0055">/&#62;</font>
+</pre>
+
+<p>This first code fragment is not <a href="/wiki/Well-formed_element" id="w">well-formed</a>, and would therefore not work properly in a &#34;real world&#34; deployed system.</p>
+<p>In contrast, the second code fragment shows a similar HTML tag, except this time incompatible characters in the VIEWSTATE value are removed through the application of base64 encoding:
+</p><pre class="code">
+    <b><font color="#7F0055">&#60;input</font></b> type=<font color="#2A00FF">&#34;hidden&#34;</font> __VIEWSTATE=<font color="#2A00FF">&#34;TmFtZTpMYXJyeSAiQnVkIiBNZWxtYW47&#34;</font> <font color="#7F0055">/&#62;</font>
+</pre>
+<p>This prevents delimiter collision and ensures that incompatible characters will not appear inside the HTML code, regardless of what characters appear in the original (decoded) text.<sup id="_ref-Kalani000_b" class="reference"><a href="#_note-Kalani000" title="">[21]</a></sup></p>
+<a id="Notes_and_references" name="Notes_and_references"></a><h2>Notes and references</h2>
+<p>{{reflist}}</p>
+<a id="See_also" name="See_also"></a><h2>See also</h2>
+
+<ul>
+<li><a href="/wiki/Delimiter-separated_values" id="w">Delimiter-separated values</a></li>
+<li><a href="/wiki/String_literal" id="w">String literal</a></li>
+<li><a href="/wiki/CamelCase" id="w">CamelCase</a> (used in <a href="/wiki/WikiWikiWeb" id="w">WikiWikiWeb</a> as an alternate method of link creation that does not require delimiters to indicate links)</li>
+<li><a href="/wiki/Federal_Standard_1037C" id="w">Federal Standard 1037C</a> (contains a simple definition for &#34;delimiter&#34;)</li>
+<li><a href="/wiki/Naming_collision" id="w">Naming collision</a></li>
+<li><a href="/wiki/Sigil_(computer_programming)" id="w">Sigil</a></li></ul>
+<p>
+
+</p>
+<p><a href="http://de.wikipedia.org/wiki/Delimiter">de:Delimiter</a>
+<a href="http://fr.wikipedia.org/wiki/S%C3%A9parateur_(informatique)">fr:Séparateur (informatique)</a>
+<a href="http://pl.wikipedia.org/wiki/Delimiter">pl:Delimiter</a>
+<a href="http://uk.wikipedia.org/wiki/Р%D0%BE%D0%B7%D0%B4%D1%96%D0%BB%D1%8F%D1%8E%D1%87%D0%B8%D0%B9_%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB">uk:Розділяючий символ</a>
+</p>

@@ -1,0 +1,164 @@
+In chemistry, Henry's law is one of the gas laws, formulated by William Henry.It states that:
+
+:''At a constant temperature, the amount of a given gas dissolved in a given type and volume of liquid is directly proportional to the partial pressure of that gas in equilibrium with that liquid.''
+
+Formula and Henry constant
+A formula for Henry's Law is:
+
+:; e^{p\,} = e^{kc\,} \,;
+
+where:
+:;e\,; is approximately 2.7182818, the base of the natural logarithm (also called Euler's number)
+:;p\,; is the partial pressure of the solute above the solution
+:;c\,; is the concentration of the solute in the solution (in one of its many units)
+:;k\,; is the Henry's Law constant, which has units such as L·atm/mol, atm/(mol fraction) or Pa·m;3;/mol.
+
+Taking the natural logarithm of the formula, gives us the more commonly used formula:;[http://www.udel.edu/pchem/C443/Lectures/Lecture33.pdf University of Delaware physical chemistry lecture];
+
+:; p = kc \,;
+
+Some values for ''k'' include: 
+
+:oxygen (O;2;) : 769.2 L·atm/mol &amp;nbsp; &amp;nbsp; &amp;nbsp;
+:carbon dioxide (CO;2;) : 29.4 L·atm/mol &amp;nbsp; &amp;nbsp; &amp;nbsp;
+:hydrogen (H;2;) : 1282.1 L·atm/mol &amp;nbsp; &amp;nbsp; 
+
+when these gases are dissolved in water at 298 kelvins. 
+
+Note that in the above, the unit of concentration was chosen to be molarity. Hence the dimensional units: ''L'' is liters of solution, ''atm'' is the partial pressure of the gaseous soluteabove the solution (in atmospheres of absolute pressure), and ''mol'' is the moles of the gaseous solute in the solution. Also note that the Henry's Law constant, ''k'',varies with the solvent and the temperature.
+
+As discussed in the next section, there are other forms of Henry's Law each of which defines the constant ''k'' differently and requires different dimensional units.;; The form of the equation presented above is consistent with the given example numerical values for oxygen, carbon dioxide and hydrogen and with their corresponding dimensional units.
+
+=Other forms of Henry's law=
+
+There are various other forms Henry's Law which are discussed in the technical literature.;[http://www.chem.arizona.edu/~salzmanr/103a004/nts004/l41/l41.html University of Arizona chemistry class notes];;[http://www.henrys-law.org An extensive list of Henry's law constants, and a conversion tool];;
+
+{| class=&quot;wikitable&quot;
+|+ Table 1: Some forms of Henry's law and constants (gases in water at 298 K), derived from ;
+! equation: || ; k_{H,pc} = \frac{p_{gas}}{c_{aq}}; || ; k_{H,cp} = \frac{c_{aq}}{p_{gas}} ; || ; k_{H,px} = \frac{p_{gas}}{x_{aq}} ; || ; k_{H,cc} = \frac{c_{aq}}{c_{gas}} ;
+|-
+! dimension: || ;\left[\frac{\mathrm{L}_{soln} \cdot \mathrm{atm}}{\mathrm{mol}_{gas}}\right]; || ; \left[\frac{\mathrm{mol}_{gas}}{\mathrm{L}_{soln} \cdot \mathrm{atm}}\right] ; || ;\left[\frac{\mathrm{atm} \cdot (\mathrm{mol}_{water}+ 
+\mathrm{mol}_{gas})}{\mathrm{mol}_{gas}}\right]; || ;\left[ \text{dimensionless} \right];
+|-
+|align=center| O;2; ||align=center| 769.23||align=center| 1.3 E-3 ||align=center| 4.259 E4 ||align=center| 3.180 E-2
+|-
+|align=center| H;2; ||align=center| 1282.05 ||align=center| 7.8 E-4 ||align=center| 7.099 E4 ||align=center| 1.907 E-2
+|-
+|align=center| CO;2; ||align=center| 29.41 ||align=center| 3.4 E-2 ||align=center| 0.163 E4 ||align=center| 0.8317
+|-
+|align=center| N;2; ||align=center| 1639.34||align=center| 6.1 E-4 ||align=center| 9.077 E4 ||align=center| 1.492 E-2
+|-
+|align=center| He ||align=center| 2702.7 ||align=center| 3.7 E-4||align=center| 14.97 E4 ||align=center| 9.051 E-3
+|-
+|align=center| Ne ||align=center| 2222.22 ||align=center| 4.5 E-4 ||align=center| 12.30 E4 ||align=center| 1.101 E-2
+|-
+|align=center| Ar ||align=center| 714.28 ||align=center| 1.4 E-3 ||align=center| 3.955 E4 ||align=center| 3.425 E-2
+|-
+|align=center| CO ||align=center| 1052.63||align=center| 9.5 E-4 ||align=center| 5.828 E4 ||align=center| 2.324 E-2
+|}
+
+where:
+
+:;c_{aq}\,; = moles of gas per liter of solution
+:;\mathrm{L}_{soln}\,; = liters of solution
+:;p_{gas}\,; = partial pressure of gas above the solution, in atmospheres of absolute pressure
+:;x_{aq}\,; = mole fraction of gas in solution = moles of gas per total moles ≈ moles of gas per mole of water
+:;\mathrm{atm}\,; = atmospheres of absolute pressure
+
+As can be seen by comparing the equations in the above table, the Henry's Law constant ;k_{H,pc}; is simply the inverse of the constant ;k_{H,cp};. Since all ;k_{H}; may be referred to as the Henry's Law constant, readers of the technical literature must be quite careful to note which version of the Henry's Law equation is being used.;
+
+It should also be noted the Henry's Law is a limiting law that only applies for ''dilute enough'' solutions. The range of concentrations in which it applies becomes narrower the more the system diverges from non-ideal behavior. Roughly speaking, that is the more chemically ''different'' the solute is from the solvent. 
+
+It also only applies for solutions where the solvent does not react chemically with the gas being dissolved.A common example of a gas that does react with the solvent is carbon dioxide, which rapidly forms hydrated carbon dioxideand then carbonic acid (H;2;CO;3;) with water.
+
+=Temperature dependence of the Henry constant=
+
+When the temperature of a system changes, the Henry constant will also change.; This is why some people prefer to name it Henry coefficient. There are multiple equations assessing the effect of temperature on the constant. A simple example is ;, which is a form of the van 't Hoff equation: 
+
+:; k(T) = k(T_\Theta) \cdot e^{ \left[ -C \cdot \left( \frac{1}{T}-\frac{1}{T_\Theta}\right)\right]}\, ;
+
+where
+:''k'' for a given temperature is the Henry's Law constant (as defined in the first section of this article), identical with ''k;H,pc;'' defined in Table 1,
+:''T'' is in kelvins,
+:the index ;\Theta; (theta) refers to the standard temperature (298 K).
+
+The above equation is an approximation only and should be used only when no better experimentally derived formula for a given gas exists.
+
+The following table lists some values for constant ''C'' (dimension of kelvins) in the equation above: 
+{|class=&quot;wikitable&quot;
+|+ Table 2: Values of ''C''
+|Gas || align=center| O;2; || align=center| H;2; ||align=center| CO;2; || align=center| N;2; || align=center| He || align=center| Ne || align=center| Ar || align=center| CO
+|-
+| ''C'' || align=center| 1700||align=center| 500 || align=center| 2400 || align=center| 1300|| align=center| 230 || align=center| 490|| align=center|1300 || align=center| 1300
+|}
+Because solubility of gases is decreasing with increasing temperature, the partial pressure a given gas concentration has in liquid must increase. While heating water (saturated with nitrogen) from 25 °C to 95 °C the solubility will decrease to about 43% of its initial value. This can be verified when heating water in a pot. Small bubbles evolve and rise, long before the water reaches boiling temperature. Similarly, carbon dioxide from a carbonated drink escapes much faster when the drink is not cooled because of the increased partial pressure of CO;2; in higher temperatures. Partial pressure of CO;2; in seawater doubles with every 16 K increase in temperature.;Takahashi, T; Sutherland, SC; Sweeney, C; Poisson, A; Metzl, N; Tilbrook, B; Bates, N; Wanninkhof, R; Feely, RA; Sabine, C; Olafsson, J; Nojiri, Y&quot;;Global sea-air CO;2; flux based on climatological surface ocean pCO;2; and seasonal biological and temperature effects;&quot;Deep-Sea Research (Part II, Topical Studies in Oceanography) [Deep-Sea Research (II Top. Stud. Oceanogr.)] ;49;, 9-10, pp. 1601-1622, 2002;
+
+The constant ''C'' may be regarded as:
+
+:; C = \frac{\Delta_{solv}H}{R} = \frac{-d \ln\left(k(T)\right)}{d(1/T)};
+
+where
+:; \Delta_{solv}H \,; is theenthalpy of solution
+:;R; is thegas constant.
+
+Henry's law in geophysics
+
+In geophysics a version of Henry's law applies to the solubility of a noble gas in contact with silicate melt.One equation used is
+:;\rho_m/\rho_g=e^{-\beta(\mu_{{\rm ex},m}-\mu_{{\rm ex},g})}\,;
+
+where:
+:subscript m = melt 
+:subscript g = gas phase 
+:;\rho; = the number densities of the solute gas in the melt and gas phase
+:;\beta=1/k_BT; an inverse temperature scale 
+:;k_B; = the Boltzmann constant
+:;\mu_{{\rm ex},m}; and ;\mu_{{\rm ex},g}; = the excess chemical potential of the solute in the two phases.
+
+Henry's law versus Raoult's law
+
+Both Henry's law and Raoult's law state that the vapor pressure of a component, ''p'', is proportional to its concentration.
+
+:Henry's law:; p = k \,x;
+:Raoult's law: ; p = p^\star\,x;
+
+where:
+:;\,x; is the mole fraction of the component;
+:;\,k; is the Henry constant;(Note that the numerical value and dimensions of this constant change when mole fractions are used rather than molarity, as seen in Table 1.)
+:;p^\star; is the equilibrium vapor pressure of the pure component.
+
+If the solution is ''ideal'', both components follow Raoult's law over the entire composition range, but Henry noticed that at ''low concentrations of non-ideal solutions'', the constant of proportionality is not ''p*''.Therefore Henry's law uses an empirically-derived constant, ''k'', based on an infinitely-dilute solution, i.e. ''x'' = 0, that is specific to the components in the mixture and the temperature.
+
+In most systems, the laws can only be applied over very limited concentrations at the extreme ends of the mole-fraction range.Raoult's law, which uses the vapor pressure of the ''pure'' component, is best used for the major component (solvent) and in mixtures of similar components.Henry's law applies to the minor component (solute) in dilute solutions.
+
+In ''ideal-dilute solutions'', the minor component follows Henry's law, while the solvent obeys Raoult's law.This is proved by the Gibbs-Duhem equation.
+
+See also
+*Raoult's law
+*Dalton's law
+*Partial pressure
+
+References
+;;;
+
+External links
+* [http://www.henrys-law.org www.henrys-law.org] - Large compilation of Henry's law constants
+* [http://www.isracast.com/tech_news/310505_tech.htm New 'no air tanks' diving system, based on Henry's law] - An article with flash presentation
+
+Category:Physical chemistry
+Category:Thermodynamics
+Category:Chemical engineering
+Category:Gas laws
+
+cs:Henryho zákon
+de:Henry-Gesetz
+es:Ley de Henry
+fr:Loi de Henry
+it:Legge di Henry
+nl:Wet van Henry
+ja:ヘンリーの法則
+mk:Хенриев закон
+pl:Prawo Henry'ego
+ru:Закон Генри
+fi:Henryn laki
+uk:Закон Генрі
+zh:亨利定律

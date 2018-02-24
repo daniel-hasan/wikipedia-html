@@ -1,0 +1,132 @@
+
+| EINECS = 
+| PubChem = 
+| SMILES = 
+| InChI = 
+| RTECS = LJ9100000
+| MeSHName =
+| ChEBI =
+| KEGG = 
+| ATCCode_prefix = 
+| ATCCode_suffix = 
+| ATC_Supplemental =}}
+| Section2 = 
+| Section5 = 
+| Section7 = , 
+| SPhrases = , 
+| RSPhrases =
+| FlashPt = 
+| Autoignition = 
+| ExploLimits = 
+| PEL = }}
+| Section15 = 
+}}
+Iron(III) chloride, generically called ferric chloride, is an industrial scale commodity chemical compound, with the formula FeCl;3;. The colour of iron(III) chloride crystals depends on the viewing angle: by reflected light the crystals appear dark green, but by transmitted light they appear purple-red. Anhydrous iron(III) chloride is deliquescent, forming hydrated hydrogen chloride mists in moist air. 
+
+When dissolved in water, iron(III) chloride undergoes hydrolysis and gives off heat in an exothermic reaction. The resulting brown, acidic, and corrosive solution is used as a coagulant in sewage treatment and drinking water production, and as an etchant for copper-based metals in printed circuit boards. Anhydrous iron(III) chloride is a fairly strong Lewis acid, and it is used as a catalyst in organic synthesis.
+
+Chemical and physical properties
+Iron(III) chloride has a relatively low melting point and boils at around 315&amp;nbsp;°C. The vapour consists of the dimer Fe;2;Cl;6; (compare aluminium chloride) which increasingly dissociates into the monomeric FeCl;3; (D;3h; point group molecular symmetry) at higher temperature, in competition with its reversible decomposition to give iron(II) chloride and chlorine gas.;;
+
+=Reactions=
+Iron(III) chloride is a moderately strong Lewis acid, forming adducts with Lewis bases such as triphenylphosphine oxide, e.g. FeCl;3;(OPPh;3;);2; where Ph = phenyl. 
+
+Iron(III) chloride reacts with other chloride salts to give the yellow tetrahedral FeCl;4;;−; ion.Salts of FeCl;4;;−; in hydrochloric acid can be extracted into diethyl ether.
+
+When heated with iron(III) oxide at 350&amp;nbsp;°C, iron(III) chloride gives iron oxychloride, a layered solid and intercalation host. 
+:FeCl;3; + Fe;2;O;3; → 3&amp;nbsp;FeOCl
+
+In the presence of base, alkali metal alkoxides react to give the dimeric complexes:
+:2 FeCl;3; + 6 C;2;H;5;OH + 6 NH;3;→ (Fe(OC;2;H;5;);3;);2; + 6 NH;4;Cl
+
+Oxalates react rapidly with aqueous iron(III) chloride to give [Fe(C;2;O;4;);3;];3−;. Other carboxylate salts form complexes, e.g. citrate and tartrate.
+
+Iron(III) chloride is a mild oxidising agent, for example capable of oxidising copper(I) chloride to copper(II) chloride. Reducing agents such as hydrazine convert iron(III) chloride to complexes of iron(II).
+
+=Structure=
+Iron(III) chloride adopts the BiI;3; structure, which features octahedral Fe(III) centres interconnected by two-coordinate chloride ligands.
+
+Preparation and production
+Anhydrous iron(III) chloride may be prepared by union of the elements:;;
+
+:2&amp;nbsp;Fe(s) + 3&amp;nbsp;Cl;2;(g) → 2&amp;nbsp;FeCl;3;(s)
+
+Solutions of iron(III) chloride are produced industrially both from iron and from ore, in a closed-loop process.
+
+#Dissolving pure iron in a solution of iron(III) chloride;Fe(s) + 2&amp;nbsp;FeCl;3;(aq) → 3&amp;nbsp;FeCl;2;(aq)
+#Dissolving iron ore in hydrochloric acid;Fe;3;O;4;(s) + 8&amp;nbsp;HCl(aq) → FeCl;2;(aq) + 2&amp;nbsp;FeCl;3;(aq) + 4&amp;nbsp;H;2;O
+#Upgrading the iron(II) chloride with chlorine;2&amp;nbsp;FeCl;2;(aq) + Cl;2;(g) → 2&amp;nbsp;FeCl;3;(aq)
+
+Alternatively, iron(II) chloride can be oxidised with sulfur dioxide:
+:32&amp;nbsp;FeCl;2; + 8&amp;nbsp;SO;2; + 32&amp;nbsp;HCl → 32&amp;nbsp;FeCl;3; + S;8; + 16&amp;nbsp;H;2;O
+
+Like many other hydrated metal chlorides, hydrated iron(III) chloride can be converted to the anhydrous salt by refluxing with thionyl chloride.;; The hydrate cannot be converted to anhydrous iron(III) chloride by only heat, as instead HCl is evolved and iron oxychloride forms.
+
+Uses
+=Industrial=
+In industrial application, iron(III) chloride is used in sewage treatment and drinking water production.;; In this application, FeCl;3; in slightly basic water reacts with the hydroxide ion to form a floc of iron(III) hydroxide, or more precisely formulated as FeO(OH);-;, that can remove suspended materials.
+:Fe;3+; + 4 OH;−; → Fe(OH);4;;−; → FeO(OH);2;;−;·H;2;O
+
+Another important application of iron(III) chloride is etching copper in two-step redox reaction to copper(I) chloride and then to copper(II) chloride in the production of printed circuit boards.;;
+:FeCl;3; + Cu → FeCl;2; + CuCl
+:FeCl;3; + CuCl → FeCl;2; + CuCl;2;
+
+Iron(III) chloride is used as catalyst for the reaction of ethylene with chlorine, forming ethylene dichloride (1,2-dichloroethane), an important commodity chemical, which is mainly used for the industrial production of vinyl chloride, the monomer for making PVC.
+:H;2;C=CH;2; + Cl;2; → ClCH;2;CH;2;Cl
+
+=Laboratory use=
+In the laboratory iron(III) chloride is commonly employed as a Lewis acid for catalysing reactions such as chlorination of aromatic compounds and Friedel-Crafts reaction of aromatics.It is less powerful than aluminium chloride, but in some cases this mildness leads to higher yields, for example in the alkylation of benzene:
+
+Image:FeCl3_Friedel-Crafts.gif|400px|Iron(III) chloride as a catalyst
+
+The &quot;ferric chloride test&quot; is a traditional colorimetric test for phenols, which uses a 1% iron(III) chloride solution that has been neutralised with sodium hydroxide until a slight precipitate of FeO(OH) is formed.;; The mixture is filtered before use. The organic substance is dissolved in water, methanol or ethanol, then the neutralised iron(III) chloride solution is added—a transient or permanent coloration (usually purple, green or blue) indicates the presence of a phenol or enol.
+
+=Other uses=
+
+Anhydrous Iron(III) chloride is sometimes used as a drying reagent in certain reactions.
+
+Iron(III) chloride is sometimes used by American coin collectors to identify the dates of Buffalo nickels that are so badly worn that the date is no longer visible.
+
+Iron(III) chloride is commonly used by knife craftsmen and sword smiths to stain blades, as to give a contrasting effect to the metal, and to view metal layering or imperfections.
+
+Iron(III) chloride is necessary for the etching of photogravure plates for printing photographic and fine art images in intaglio and for etching rotogravure cylinders used in the printing industry.
+
+Iron(III) chloride is also used in veterinary practice to treat overcropping of an animal's claws, particularlywhen the overcropping results in bleeding.
+
+Precautions
+Iron(III) chloride is toxic, highly corrosive and acidic. The anhydrous material is a powerful dehydrating agent. In secondary/high schools all around the world, where Design and technology is a subject taught, Ferric Chloride used for PCB etching is usually diluted with water.Despite this, hands and other surfaces that have contacted it should still be washed immediately after one finishes with it.
+
+See also
+* iron(II) sulfate
+* aluminium chloride
+
+References
+
+
+Further reading
+# ''Handbook of Chemistry and Physics'', 71st edition, CRC Press, Ann Arbor, Michigan, 1990.
+# ''The Merck Index'', 7th edition, Merck &amp; Co, Rahway, New Jersey, USA, 1960.
+# D. Nicholls, ''Complexes and First-Row Transition Elements'', Macmillan Press, London, 1973.
+# A.F. Wells, Structural Inorganic Chemistry'', 5th ed., Oxford University Press, Oxford, UK, 1984. 
+# J. March, ''Advanced Organic Chemistry'', 4th ed., p. 723, Wiley, New York, 1992.
+# ''Handbook of Reagents for Organic Synthesis: Acidic and Basic Reagents'', (H. J. Reich, J. H. Rigby, eds.), Wiley, New York, 1999.
+
+Category:Chlorides
+Category:Iron compounds
+Category:Metal halides
+Category:Coordination compounds
+Category:Deliquescent substances
+
+ar:كلوريد حديد ثلاثي
+cs:Chlorid železitý
+de:Eisen(III)-chlorid
+es:Cloruro férrico
+fr:Chlorure de fer (III)
+id:Besi(III) klorida
+ja:塩化鉄
+pl:Chlorek żelaza(III)
+pt:Percloreto de ferro
+ru:Хлорид железа(III)
+fi:Ferrikloridi
+sv:Järnklorid
+zh:三氯化铁

@@ -1,0 +1,245 @@
+{{Infobox Politician
+| name = Sir Boyle Roche, 1st Baronet
+| birth_date = October [[1736]]
+| birth_place = [[County Galway]]
+| death_date = {{death date|1807|6|5|df=y}}
+| death_place = [[Dublin]]
+| office = Member, [[Irish House of Commons]]
+| term_start = [[1775]]
+| term_end = [[1801]]
+| predecessor = [[James Agar, 1st Viscount Clifden|James Agar]]
+| religion = [[Anglican]]
+| residence = [[Dublin]]
+| constituency = [[Tralee]]<br>[[Gowran]]<br>[[Portarlington]]<br>[[Old Leighlin]]
+| spouse = Mary Frankland}}
+
+'''Sir Boyle Roche, 1st Baronet,''' [[Member of Parliament (pre-Union Ireland)|MP]] (October [[1736]]<ref name="dob">{{cite book
+ | first = E. M.
+ | last = Johnston-Liik
+ | title = History of the Irish Parliament, 1692–1800
+ | year = 2002
+}}, as cited in 
+{{cite book
+ | publisher = Oxford University Press
+ | year = 2004
+ | editor = H. C. G. Matthew and Brian Harrison 
+ | title = The Dictionary of National Biography
+ | chapter = Roche, Sir Boyle
+ | location = Oxford
+ | id = ISBN 0-19-861411-X
+}} Some sources, including earlier versions of the ''Dictionary of National Biography'', give the date as 1743. However, since the later date would make Roche rather young to have served with such distinction &mdash; he would have been 15 at the Battle on Snowshoes (and already a lieutenant!),  16 at the Siege of Quebec and 19 at the capture of El Morro &mdash; the earlier date seems more reasonable.</ref> – [[5 June]] [[1807]]) was a member of the [[Irish House of Commons]]. He is better remembered for the language of his speeches than his politics&mdash;they were riddled with [[mixed metaphor]]s ("Mr Speaker, I smell a rat; I see him forming in the air and darkening the sky; but I'll nip him in the bud"), [[malapropism]]s and other unfortunate turns of phrase ("Why we should put ourselves out of our way to do anything for posterity, for what has posterity ever done for us?"<ref name="geo">{{cite book
+|last=Geoghegan
+|first=Patrick M.
+|title=The Irish Act of Union
+|year=1999
+|publisher=St. Martin's Press
+|location=New York
+|chapter=The union passes
+|pages=110
+}}</ref>). Roche may have been [[Richard Brinsley Sheridan]]'s model for [[malapropism|Mrs Malaprop]].<ref name="maye">{{cite news
+|first=Bryan
+|last=Maye
+|work=[[The Irish Times]]
+|title=An Irishman's Diary
+|date=2000-02-14
+|accessdate=2006-06-19
+|page=17
+}}</ref>
+While arguing for a bill, Roche once said, "It would surely be better, Mr. Speaker, to give up not only a ''part'', but, if necessary, even the ''whole'', of our constitution, to preserve the ''remainder''!"
+
+==Life==
+===Early life, family background and military service===
+
+Boyle Roche was born, the youngest of three sons, to Jordan Roche and Ellen White in [[County Galway]] in [[1736]]<ref name="dob"/>. His was an old and respectable family, said to be a junior branch of the ancient baronial house of Roche, viscount [[Fermoy]] from which the late [[Diana, Princess of Wales]], descended. The family were also no strangers to politics: Roche's great-grandfather had been elected [[mayor]] of [[Limerick]] four times. Roche's older brother was [[Tiger Roche]], a celebrated duellist and adventurer<ref name="dyes">{{cite book
+ | publisher = Nomad Books
+ | year = 1994
+ | lastname = Moore
+ | firstname = Desmond
+ | title = Dublin's Yesterdays
+ | location = Ireland
+ | chapter = Sir Boyle Roche
+ | id = ASIN B0006DI8KA
+}}</ref>.
+
+Boyle Roche entered the army at an early age, and served in the so-called [[French and Indian War|American war]] (that is, the American portion of the [[Seven Years' War]]). There are reports of a Lieutenant Boyle Roche in [[Rogers' Rangers]] who was captured by the French during the The Battle on Snowshoes (near what is now [[Lake George (New York)|Lake George]], [[New York]] in March [[1758]]) and later returned to his regiment<ref name="rogers">{{cite web
+| url = http://www.electricscotland.com/History/scotreg/mcculloch/story7.htm
+| title = Ticonderoga Portraits
+| accessmonthday = September 16
+| accessyear = 2006
+| author = Ian McCulloch
+}}</ref>. It is possible that Roche served with [[James Wolfe|Wolfe]] at the [[Battle of the Plains of Abraham#Prelude: Siege of Quebec|siege]] of [[Quebec]] in [[1759]]; it is a certainty that he distinguished himself in [[1762]] during the capture of [[Morro Castle (fortress)|El Morro]] in [[Havana]]. By [[1770]] he had become a [[major]] in the [[28th Regiment of Foot|28th Foot]]. He was knighted for his bravery at El Morro in [[1776]]<ref name="dnb">{{cite book
+ | publisher = Oxford University Press
+ | year = 2004
+ | editor = H. C. G. Matthew and Brian Harrison 
+ | title = The Dictionary of National Biography
+ | location = Oxford
+ | chapter = Roche, Sir Boyle
+ | id = ISBN 0-19-861411-X
+}}</ref>.
+
+Retiring from the army, he obtained an office in the Irish revenue department in [[1775]]<ref name="cdnb">{{cite book
+ | publisher = Oxford University Press
+ | year = 1925
+ | title = The Concise Dictionary of National Biography
+ | location = Oxford
+}}</ref>. Soon after this, Boyle Roche entered the [[Irish House of Commons]] as 
+[[Member of Parliament (pre-Union Ireland)|MP]] for [[Tralee (Parliament of Ireland constituency)|Tralee]], in the place of [[James Agar, 1st Viscount Clifden|James Agar]], created [[Viscount Clifden]].
+
+Although he was one of the first volunteers to fight the [[American Revolution|rebellious colonials]] in [[1776]], his contribution to that conflict was mainly in the area of recruitment—he successfully enlisted 500 volunteers in one weekend in [[Limerick]] alone, a feat which so gratified [[Sir Thomas Browne, 6th Baronet|Lord Kenmare]] that he paid Roche an additional bounty of half a [[Guinea (British coin)|guinea]] per man. Roche's flamboyant recruiting methods were described by the ''Edinburgh Advertiser'' as follows:
+<blockquote>
+Yesterday Major BOYLE Roche, representative in parliament for Tralee (who is raising a body of men for his Majesty's service) began recruiting here, and met with great success, which is not surprising, if we consider his connexions, and the uncommon support he has received from the noblemen and gentlemen of this province. His method of enlisting was as uncommon as it was pleasing to those who viewed the procession, which was as follows: Major Roche, bearing a large purse of gold. Captain Cowley. A great number of likely recruits. An elegant band of music, consisting of French horns, hautboys [oboes], clarionets, and bassoons, playing God Save the King. A large brewer's dray, with five-barrels of beer, the horse richly caparisoned and ornamented with ribbands. Two draymen with cockades to serve the beer, The recruiting serjeant. Drums [and] fifes. Another division of recruits. The returning soldiers. Prodigious concourse of [spectators?]. The following speech was made by Major Roche to the populace: Being appointed, through the favour of [our] most excellent governor, to raise a body of men for the service of his Majesty, I think it [a] most happy circumstance of my life to be the instrument of leading you to honour and renown. The laurels fought for and obtained in all parts [of] the globe [through] war, have procured us a fame so glorious as not to be equalled by people in any fame not to be sullied by the assaults of prejudice, nor the effects of time: not an action in which we were not victorious, not a siege in which we were not honoured. Will you, my dear countrymen, permit those laurels to fade, or those actions to be forgotten? No, forbid it, heaven! Let us now that we have it in our power convey to later posterity a renewal of our fidelity, and a confirmation of our loyalty. A more critical period never presented itself, nor had we ever a fairer opportunity of shewing our attachment to the illustrious house of Hanover, than the present, as his Majesty's deluded subjects in America are in open rebellion, and like unnatural children, wound their ever indulgent parent, forgetting the torrents of blood spilt, and heap of treasure expended for their preservation. His Sacred Majesty now calls and our fidelity obliges us, and I hope your instinct prompts you, to obey the dictates of so [grand] a master. Let us then, my brave and loyal countrymen, join hearts and hands and cheerfully step forth in the glorious cause of our Creator, our King and our Country.<ref>{{cite journal
+ | date = September 1, 1775
+ | title = Ireland, Cork
+ | journal = The Edinburgh Advertiser
+ | quotes = no
+}}</ref></blockquote>
+
+===Member of Parliament===
+Roche continued on in the [[Henry Grattan|Grattan]] Parliament, representing [[Gowran]] from [[1777]] to [[1783]], [[Portarlington]] from [[1783]] to [[1790]], [[Tralee (Parliament of Ireland constituency)|Tralee]] (again) from [[1790]] to [[1797]] and [[Old Leighlin]] from [[1798]] until the union with England in [[1801]]<ref name="cdnb"/>. From the beginning of his parliamentary career Roche ranged himself on the side of the government, and for his services he was granted a pension, appointed chamberlain to the [[viceroy|viceregal court]], and on [[30 November]], [[1782]] was created a [[baronet]]. For the office of chamberlain he was thought to be "eminently qualified by his handsome figure, graceful address and ready wit, qualities which were set off by a frank, open and manly disposition."<ref name="wills">{{cite book
+|last=Wills
+|first=J.
+|coauthors=F. Wills
+|title=The Irish nation: its history and biography
+|year=1875
+|location=London}}</ref>
+
+Apparently, members of the cabinet wrote speeches for Sir Boyle which he somewhat imperfectly committed to memory, in general mastering the substance but frequently producing, through his love of language and ornament, travesties on the original words.<ref name="wills"/> Through this he gained his lasting reputation as an inveterate perpetrator of [[Irish bull]]s.
+
+Boyle's memory was indeed excellent. On one occasion he illustrated both the accuracy of his memory and the audacity of his character at the expense of a brother member. Serjeant Stanley, anxious to produce an effect in an important debate, had been at pains to reduce his speech to writing. Unluckily, Stanley happened to drop his manuscript in the coffee-room, and walked back into the House unconscious of his loss. Sir Boyle, finding the document, speedily mastered its contents, and, rising at the first opportunity, delivered the speech almost verbatim in the hearing of its dismayed and astonished author. His apology afterward only added insult to injury:
+
+<blockquote>
+Here, my dear Stanley, is your speech again, and I thank you kindly for the loan of it. I never was so much at a loss for a speech in the whole course of my life, and sure it is not a pin the worse for the wear.
+<ref name="percy">{{cite book
+|last=Byerly
+|coauthors=Robertson
+|title=The Percy Anecdotes
+|year=1823
+|location=London}}</ref>
+</blockquote>
+
+On another occasion, he amused and relieved the House, irritated by the prospect of being obliged to listen to the reading of a mass of documents as a preliminary to a resolution, by suggesting that a dozen or so clerks be called in who might read the documents simultaneously and thus dispose of the business in a few minutes.<ref name="percy" />
+
+Beyond these efforts, he was also the author of a bill to enact, among other things, that "Every [[quart]] bottle should contain a quart."<ref name="falkiner">{{cite book
+|last=Falkiner
+|first=C. Litton
+|title=Studies in Irish history and biography, Mainly of the Eighteenth Century
+|publisher=Longmans, Green, and Co.
+|location=New York
+|chapter=Sir Boyle Roche
+|pages=pp.228-240
+|year=1902}}</ref><ref>This is sometimes quoted as "every ''pint'' bottle should contain a quart." However, older and more detailed sources (such as Falkiner) give "quart" instead of "pint". The substitution of "pint" appears to be an emendation of later authors determined to show Roche to be a fool, and possibly a drink-loving fool at that.</ref>
+
+===The Volunteer Convention===
+
+The chief service Boyle Roche rendered his government was in connection with the [[Irish Volunteers (18th century)|Volunteer]] Convention of November [[1783]], in which he "acted a part only less remarkable than his immunity from the opprobrium which might have been expected to attach to it." <ref name="falkiner"/>
+The question of admitting the [[Roman Catholics]] to the [[suffrage|franchise]] was at the time being agitated, and found many warm supporters in the convention. The proposal was extremely obnoxious to the Irish government, and on the second day of the meeting the secretary of state, [[George Ogle]], announced that the Roman Catholics, in the person of Lord Kenmare, had relinquished the idea of making any claim further than the religious liberty they then enjoyed, and gave as his authority for this extraordinary statement Sir Boyle Roche, by whom it was confirmed!
+
+Ten days later Lord Kenmare (who had not been in [[Dublin]] at the time) denied that he had given the least authority to any person to make any such statement in his name. However, his disavowal came too late: the anti-Catholic party in the convention had found time to organize themselves, and when the intended Reform Bill took shape it was known that the admission of Roman Catholics to the franchise was not to form part of the scheme.
+
+Several months later (on [[Valentine's Day]]), Sir Boyle explained himself in a public letter, starting with a description of his alarm upon hearing that the bishop of [[Derry]] (then [[Frederick Hervey, 4th Earl of Bristol|Frederick Hervey]]) and his associates were bent on extending the legislative privilege:
+
+<blockquote>
+I thought a crisis was arrived in which Lord Kenmare and the heads of that body should step forth to disavow those wilde projects, and to profess their attachment to the lawful powers. Unfortunately, his lordship was at a great distance, and most of my other friends were out of the way. I therefore resolved on a bold stroke, and authorized only by the sentiments of the persons in question, [took action].
+</blockquote>
+
+He added that while he regretted that his message had been disowned by Lord Kenmare, that was of less consequence, since his manoeuvre had succeeded to admiration. Some believe that Sir Boyle, who was related to Lord Kenmare and often represented his views in Commons, was also stating Lord Kenmare's true views on this occasion and doing so with his full knowledge, but in a way that provided Kenmare plausible deniability.<ref name="dnbk">{{cite book
+ | publisher = Oxford University Press
+ | year = 2004
+ | editor = H. C. G. Matthew and Brian Harrison 
+ | title = The Dictionary of National Biography
+ | location = Oxford
+ | chapter = "Browne, Thomas, fourth Viscount Kenmare"
+ | id = ISBN 0-19-861411-X
+}}</ref>
+
+Sir Boyle fought hard for the Union:
+
+<blockquote>
+Gentlemen may tither, and tither, and tither, and may think it a bad measure; but their heads at present are hot, and will so remain till they grow cool again, and so they can't decide right now, but when the day of judgement comes then honourable gentlemen will be satisfied with this most excellent union.<ref name="jb">{{cite book
+ | last = Barrington
+ | first = Jonah
+ | title = Personal sketches and recollections of his own times
+ |chapter=Chapter XVII
+}}</ref>
+</blockquote>
+
+For himself, he declared that his love for England and Ireland was so great that he "would have the two sisters embrace like one brother."<ref name="boylan">{{cite book
+ | last = Boylan
+ | first = Henry 
+ | year = 1988
+ | title = A Dictionary of Irish Biography
+ | location = New York
+}}</ref>
+
+===His life in politics===
+Those who placidly accept the judgement that Boyle Roche was "the Fool of the Grattan Parliament" should reflect on the fact that for almost 25 years he served as Gentleman Usher and Master of Ceremonies to the Irish Court, "an office for which a dignified and decorous demeanor is among the chief essentials."<ref name="falkiner"/>
+
+Roche was also capable of humor which was both subtle and unquestionably intentional. Once, upon hearing his opponent [[John Philpot Curran]] expostulate that he could be "the guardian of his own honor," Sir Boyle offered his "congratulations to the honourable member on his possession of a [[sinecure]]."<ref name="falkiner"/> On another occasion, when the [[Opposition (politics)|Opposition]] tried to cough him down in a debate, Sir Boyle met the interruption by producing some bullets, with the observation "I have here some excellent pills to cure a cough." His personal courage being beyond dispute, this jest was quite sufficient in those duelling days to procure attention for the remainder of his speech.<ref name="falkiner"/>
+
+===Marriage, retirement and death===
+
+On [[20 October]] [[1778]]<ref name="odnb">{{cite book | editor=Robert Dunlop, rev. E. M. Johnston-Liik | chapter=Roche, Sir Boyle, first baronet (1736–1807) | title=Oxford Dictionary of National Biography | publisher=Oxford University Press | year=2004 | url=http://www.oxforddnb.com/view/article/23908 | accessdate=2006-09-16}}</ref>, Boyle Roche married Mary Frankland of Great Thirkleby Hall ([[Spofforth, North Yorkshire|Spofforth]], [[Yorkshire]]), daughter of [[Sir Thomas Frankland, 5th Baronet|Admiral Sir Thomas Frankland, Bt]], whose family name goes back to the time of [[William the Conqueror]]. Although childless, Boyle and Lady Mary appeared to have lived a life of uninterrupted happiness<ref name="dnb" />.
+
+After the Union and the dissolution of the Irish Parliament, Boyle received a £400 pension, and an addition £300 annually in his capacity as "Surveyor of Kenmare River," a post which had been invented as a reward and required no work. Thus provided for, he was able to spend the rest of his days in comfort<ref name="dyes"/>.
+
+Boyle Roche died at his house in 63 Eccles Street, Dublin, on [[5 June]] [[1807]], and was buried in [[St. Mary's Church, Dublin]], on [[9 June]]. Mary lived on until [[1831]].<ref name="dnb"/>
+
+==Boyle Roche's bird==
+Roche is perhaps best known for once excusing an absence in Parliament<ref>{{cite book
+ | last = O'Flanagan
+ | first = J. Roderick
+ | year = 1895
+ | title = Annals, Anecdotes, Traits and Traditions of the Irish Parliaments, 1171 to 1800
+ | publisher =  M. H. Gill and Son
+ | location = Dublin
+}}</ref> thusly: "Mr. Speaker, it is impossible I could have been in two places at once, unless I were a bird."<ref>{{cite book
+ | last = Brewer
+ | first = E. Cobham
+ | year = 1898
+ | title = Dictionary of Phrase and Fable
+}}</ref> This quotation was referenced by [[Ambrose Bierce]] in ''[[The Devil's Dictionary]]'' in his definition of ''ubiquity'':
+<blockquote>
+In recent times ubiquity has not always been understood &mdash; not even by Sir Boyle Roche, for example, who held that a man cannot be in two places at once unless he is a bird.<ref>{{cite book
+ | last = Bierce
+ | first = Ambrose
+ | year = 1911
+ | title = The Devil's Dictionary
+}}</ref>
+</blockquote>
+But Roche was not uttering a malapropism here, he was quoting, and quoting correctly. The line appears in [[Thomas Jevon|Jevon’s]] play, ''The Devil of a Wife'', as follows:
+
+:'''Wife:''' I cannot be in two places at once.
+
+:'''Husband (Rowland):''' Surely no, unless thou wert a bird.<ref>{{cite book
+ | last = Jevon
+ | first = Thomas
+ | title = The Devil of a Wife; or, a Comical Transformation
+ | year = 1686
+}}</ref>
+
+So, far from committing a [[solecism]], Roche was making a witty reply that demonstrated at once his quickness, his literacy and his excellent memory.
+
+==Footnotes==
+{{reflist}}
+
+==External links==
+{{wikiquote|Boyle Roche}}
+* [http://www.mspong.org/percy/senate.htm#SirBoyleRoche Section on Sir Boyle Roche from ''The Percy Anecdotes'']
+* [http://www.eiretek.org/chapters/books/jbarrington/jonah17.htm Chapter containing recollections of (and gossip about) Sir Boyle Roche from Barrington's memoirs]
+* [http://www.rootsweb.com/~irlker/roche.html Full text of Maye's article on Roche (cited above)]
+
+{{start box}}
+{{s-reg|ie-bt}}
+{{s-new}}
+{{s-ttl | title=[[Roche Baronets|Baronet]]<br/>'''(of Fermoy) | years='''1782–1807}}
+{{s-non | reason=Extinct}}
+{{end box}}
+
+{{DEFAULTSORT:Roche, Boyle, 1st Baronet}}
+[[Category:Baronets in the Baronetage of Ireland]]
+[[Category:British colonial army officers]]
+[[Category:Gloucestershire Regiment officers]]
+[[Category:British military personnel of the French and Indian War]]
+[[Category:Members of the pre-1801 Parliament of Ireland]]
+[[Category:1743 births]]
+[[Category:1807 deaths]]

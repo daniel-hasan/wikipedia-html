@@ -1,0 +1,156 @@
+
+
+; &amp;mdash; ''Note:'' some results were queried via the &quot;Display all measurements&quot; function on the web page.;
+| dec=;
+| appmag_v=6.078;
+| constell=Pegasus }}
+;/DA;
+| b-v=0.24;/&amp;ndash;
+| u-b=0.03;/&amp;ndash;
+| variable=Delta Scuti; }}
+ }}
+;/1.15;;
+| radius=1.6;/0.006;;
+| luminosity=8.0/0.12
+| temperature=7,700;;/35,500;
+| metal=117;;/&amp;ndash; % Sun
+| rotation=;/&amp;ndash;&amp;nbsp;km/s
+| gravity=4.25;/8.95;
+| age=5&amp;ndash;60&amp;nbsp;×&amp;nbsp;10;7;; }}
+; }}
+
+
+IK Pegasi (or HR 8210) is a binary star system in the constellation Pegasus. A distance of about 150&amp;nbsp;light years from the Solar System, it is just luminous enough to be seen with the unaided eye.
+
+The primary (IK Pegasi A) is a main sequence, A-class star that displays minor pulsations in luminosity. It is categorized as a Delta Scuti variable star and it has a periodic cycle of luminosity variation that repeats itself about 22.9 times per day.; Its companion (IK Pegasi B) is a massive white dwarf—a star that has evolved past the main sequence and is no longer generating energy through nuclear fusion. They orbit each other every 21.7 days with an average separation of about 31&amp;nbsp;million kilometres, or 0.21&amp;nbsp;astronomical units (AU). This is smaller than the orbit of Mercury around the Sun.
+
+IK Pegasi B is the nearest known supernova progenitor candidate. When the primary begins to evolve into a red giant, it is expected to grow to a radius where the white dwarf can accrete matter from the expanded gaseous envelope. When the white dwarf approaches the Chandrasekhar limit of 1.44&amp;nbsp;solar masses, it may explode as a Type Ia supernova.;;
+
+Observation
+This star system was catalogued in the 1862 ''Bonn Durchmusterung'' (&quot;Bonn astrometric Survey&quot;) as BD&amp;nbsp;+18°4794B. It later appeared in Pickering's 1908 ''Harvard Revised Photometry Catalogue'' as HR 8210.;; The designation &quot;IK Pegasi&quot; follows the expanded form of the variable star nomenclature introduced by Friedrich W. Argelander.
+
+Examination of the spectrographic features of this star showed the characteristic absorption line shift of a binary star system. This shift is created when their orbit carries the member stars toward and then away from the observer, producing a doppler shift in the wavelength of the line features. The measurement of this shift allows astronomers to determine the relative orbital velocity of at least one of the stars even though they are unable to resolve the individual components.;;
+
+In 1927, the Canadian astronomer William E. Harper used this technique to measure the period of this single-line spectroscopic binary and determined it to be 21.724&amp;nbsp;days. He also initially estimated the orbital eccentricity as 0.027. (Later estimates gave an eccentricity of essentially zero, which is the value for a circular orbit.); The velocity amplitude was measured as 41.5&amp;nbsp;km/s, which is the maximum velocity of the primary component along the line of sight to the Solar System.;; 
+
+The distance to the IK Pegasi system can be measured directly by observing the tiny parallax shifts of this system (against the more distant stellar background) as the Earth orbits around the Sun. This shift was measured to high precision by the Hipparcos spacecraft, yielding a distance estimate of 150&amp;nbsp;light years (with an accuracy of &amp;plusmn;5&amp;nbsp;light years).;; The same spacecraft also measured the proper motion of this system. This is the small angular motion of IK Pegasi across the sky because of its motion through space.
+
+The combination of the distance and proper motion of this system can be used to compute the transverse velocity of IK Pegasi as 16.9&amp;nbsp;km/s. The third component, the heliocentric radial velocity, can be measured by the average red-shift (or blue-shift) of the stellar spectrum. The ''General Catalogue of Stellar Radial Velocities'' lists a radial velocity of -11.4&amp;nbsp;km/s for this system.;; The combination of these two motions gives a space velocity of 20.4&amp;nbsp;km/s relative to the Sun.
+
+An attempt was made to photograph the individual components of this binary using the Hubble Space Telescope, but the stars proved too close to resolve.;; Recent measurements with the Extreme Ultraviolet Explorer space telescope gave a more accurate orbital period of 21.72168&amp;nbsp;±&amp;nbsp;0.00009&amp;nbsp;days.;; The inclination of this system's orbital plane is believed to be nearly edge-on (90&amp;deg;) as seen from the Earth. If so it may be possible to observe an eclipse.;
+
+Component A
+The Hertzsprung-Russell diagram (HR diagram) is a plot of luminosity versus a color index for a set of stars. IK Pegasi A is currently a main sequence star&amp;mdash;a term is used to describe a nearly linear grouping of core hydrogen-fusing stars based on their position on the HR diagram. However, IK Pegasi A lies in a narrow, nearly vertical band of the HR diagram that is known as the instability strip. Stars in this band oscillate in a coherent manner, resulting in periodic pulsations in the star's luminosity.;;
+
+The pulsations result from a process called the ''κ''-mechanism. A part of the star's outer atmosphere becomes optically thick due to partial ionization of certain elements. When these atoms lose an electron, the likelihood that they will absorb energy increases. This results in an increase in temperature that causes the atmosphere to expand. The inflated atmosphere becomes less ionized and loses energy, causing it to cool and shrink back down again. The result of this cycle is a periodic pulsation of the atmosphere and a matching variation of the luminosity.;
+
+The relative dimensions of IK Pegasi A (left), B (lower center) and the Sun (right).;For an explanation of the star colors, see: ;
+Stars within the portion of the instability strip that crosses the main sequence are called Delta Scuti variables. These are named after the prototypical star for such variables: Delta Scuti. Delta Scuti variables typically range from spectral class A2 to F8, and a stellar luminosity class of III (subgiants) to V (main sequence stars). They are short-period variables that have a regular pulsation rate between 0.025 and 0.25&amp;nbsp;days. Delta Scuti stars have an abundance of elements similar to the Sun's (see Population I stars) and between 1.5 and 2.5&amp;nbsp;solar masses.;; The pulsation rate of IK Pegasi A has been measured at 22.9 cycles per day, or once every 0.044 days.;
+
+Astronomers define the metallicity of a star as the abundance of chemical elements that have a higher atomic number than helium. This is measured by a spectroscopic analysis of the atmosphere, followed by a comparison with the results expected from computed stellar models. In the case of IK Pegasus A, the estimated metal abundance is [M/H]&amp;nbsp;=&amp;nbsp;+0.07&amp;nbsp;&amp;plusmn;&amp;nbsp;0.20. This notation gives the logarithm of the ratio of metal elements (M) to hydrogen (H), minus the logarithm of the Sun's metal ratio. (Thus if the star matches the metal abundance of the Sun, this value will be zero.) A logarithmic value of 0.07 is equivalent to an actual metallicity ratio of 1.17, so the star is about 17% richer in metallic elements than the Sun.; However the margin of error for this result is relatively large.
+
+The spectrum of A-class stars such as IK Pegasi A show strong Balmer lines of hydrogen along with absorption lines of ionized metals, including the K&amp;nbsp;line of ionized calcium (Ca&amp;nbsp;II) at a wavelength of 393.3&amp;nbsp;nm.;; The spectrum of IK Pegasi A is classified as marginal Am (or &quot;Am:&quot;), which means it displays the characteristics of a spectral class A but is marginally metallic-lined. That is, this star's atmosphere displays slightly (but anomalously) higher than normal absorption line strengths for metallic isotopes.; Stars of spectral type Am are often members of close binaries with a companion of about the same mass, as is the case for IK Pegasi.;;
+
+Spectral class-A stars are hotter and more massive than the Sun. But, in consequence, their life span on the main sequence is correspondingly brief. For a star with a mass similar to IK Pegasi A (1.65 solar), the expected lifetime on the main sequence is 2&amp;ndash;3&amp;nbsp;×&amp;nbsp;10;9;&amp;nbsp;years, which is about half the current age of the Sun.;;
+
+In terms of mass, the relatively young Altair is the nearest star to the Sun that is a stellar analogue of component A&amp;mdash;it has an estimated 1.7 times the solar mass. The binary system as a whole has some similarities to the nearby system of Sirius, which has a class-A primary and a white dwarf companion. However, Sirius A is more massive than IK Pegasi A and the orbit of its companion is larger, with a semimajor axis of 20&amp;nbsp;A.U.
+
+Component B
+The companion star is a dense white dwarf star. This category of stellar object has reached the end of its evolutionary life span and is no longer generating energy through nuclear fusion. Instead, under normal circumstances, a white dwarf will steadily radiate away its remaining energy, growing cooler and dimmer over the course of many billions of years.;;
+
+=Evolution=
+Nearly all small and intermediate-mass stars (below about nine solar masses) will end up as a white dwarf once they have exhausted their supply of thermonuclear fuel.;; Such stars spend most of their energy-producing life span as a main sequence star. The amount of time that a star spends on the main sequence depends primarily on its mass, with the lifespan decreasing with increasing mass.;; Thus, for IK Pegasi B to have become a white dwarf before component A, it must once have been more massive than component A. In fact, the progenitor of IK Pegasi B is thought to have had a mass between 5 and 8&amp;nbsp;solar masses.;
+
+As the hydrogen fuel at the core of the progenitor of IK Pegasi B was consumed, it evolved into a red giant. The inner core contracted until hydrogen burning commenced in a shell surrounding the helium core. To compensate for the temperature increase, the outer envelope expanded to many times the radius it possessed as a main sequence star. When the core reached a temperature and density where helium could start to undergo fusion this star contracted and became what is termed a horizontal branch star. That is, it belonged to a group of stars that fall upon a roughly horizontal line on the H-R diagram. The fusion of helium formed an inert core of carbon and oxygen. When helium was exhausted in the core a helium-burning shell formed in addition to the hydrogen-burning one and the star moved to what astronomers term the asymptotic giant branch, or AGB. (This is a track leading to the upper-right corner of the H-R diagram.)If the star had sufficient mass, in time carbon fusion could begin in thecore, producing oxygen, neon and magnesium.;;;;;;
+
+The outer envelope of a red giant or AGB star can expand to several hundred times the radius of the Sun, occupying a radius of about 5&amp;nbsp;×&amp;nbsp;10;8;&amp;nbsp;km (3 A.U.) in the case of the pulsating AGB star Mira.;; This is well beyond the current average separation between the two stars in IK Pegasi, so during this time period the two stars shared a common envelope. As a result, the outer atmosphere of IK Pegasi A may have received an isotope enhancement.;
+
+Image:NGC7293 (2004).jpg|right|thumb|The Helix Nebula is being created by a star evolving into a white dwarf. ''NASA &amp; ESA image.''
+Some time after an inert oxygen-carbon (or oxygen-magnesium-neon) core formed, thermonuclear fusion began to occur along two shells concentric with the core region; hydrogen was burned along the outermost shell, while helium fusion took place around the inert core. However, this double-shell phase is unstable, so it produced thermal pulses that caused large-scale mass ejections from the star's outer envelope.;; This ejected material formed an immense cloud of material called a planetary nebula.All but a small fraction of the hydrogen envelope was driven away from the star, leaving behind a white dwarf remnant composed primarily of the inert core.;;
+
+=Composition and structure=
+The interior of IK Pegasi B may be composed wholly of carbon and oxygen; alternatively, if its progenitor underwent carbon burning, it may have a core of oxygen and neon, surrounded by a mantle enriched with carbon and oxygen.;;;;In either case, the exterior of IK Pegasi B is covered by an atmosphere of almost pure hydrogen, which gives this star its stellar classification of DA.Due to higher atomic mass, any helium in the envelope will have sunk beneath the hydrogen layer.; The entire mass of the star is supported by electron degeneracy pressure&amp;mdash;a quantum mechanical effect that limits the amount of matter that can be squeezed into a given volume.
+
+This graph shows the theoretical radius of a white dwarf, given its mass. The red curve is for a relativistic electron gas model.
+At an estimated 1.15&amp;nbsp;solar masses, IK Pegasi B is considered to be a high-mass white dwarf.Although its radius has not been observed directly, it can be estimated from known theoretical relationships between the mass and radius of white dwarfs,;; giving a value of about 0.60% of the Sun's radius.; (A different source gives a value of 0.72%, so there remains some uncertainty in this result.); Thus this star packs a mass greater than the Sun into a volume roughly the size of the Earth, giving an indication of this object's extreme density.
+
+The massive, compact nature of a white dwarf produces a strong surface gravity. Astronomers denote this value by the decimal logarithm of the gravitational force in cgs units, or log ''g''. For IK Pegasi B, log ''g'' is 8.95.;By comparison, log ''g'' for the Earth is 2.99. Thus the surface gravity on IK Pegasi is over 900,000 times the gravitational force on the Earth.
+
+The effective surface temperature of IK Pegasi B is estimated to be about 35,500&amp;nbsp;&amp;plusmn;&amp;nbsp;1,500&amp;nbsp;K,; making it a strong source of ultraviolet radiation.; Under normal conditions this white dwarf would continue to cool for more than a billion years, while its radius would remain essentially unchanged.;;
+
+Future evolution
+In a 1993 paper, David Wonnacott,Barry J. Kellett and David J. Stickland identified this system as a candidate to evolve into a Type Ia supernova or a cataclysmic variable.; At a distance of 150&amp;nbsp;light years, this makes it the nearest known candidate supernova progenitor to the Earth. However in the time it will take for the system to evolve to a state where a supernova could occur, it will have moved a considerable distance from Earth and will pose no threat. A supernova would need to be within about 26&amp;nbsp;light years of the Earth to effectively destroy the Earth's ozone layer, which would severely impact the planet's biosphere.;; 
+
+This Hubble Space Telescope image shows the pulsating AGB (Asymptotic giant branch)star Mira. ''NASA image.''
+At some point in the future, IK Pegasi A will consume the hydrogen fuel at its core and start to evolve away from the main sequence to form a red giant. The envelope of a red giant can grow to significant dimensions, extending up to a hundred times its previous radius (or larger). Once IK Pegasi A expands to the point where its outer envelope overflows the Roche lobe of its companion, a gaseous accretion disk will form around the white dwarf. This gas, composed primarily of hydrogen and helium, will then accrete onto the surface of the companion. This mass transfer between the stars will also cause their mutual orbit to shrink.;;
+
+On the surface of the white dwarf, the accreted gas will become compressed and heated. At some point the accumulated gas can reach the conditions necessary for hydrogen fusion to occur, producing a runaway reaction that will drive a portion of the gas from the surface. This would result in a (recurrent) nova explosion &amp;mdash;a cataclysmic variable star&amp;mdash;and the luminosity of the white dwarf rapidly would increase by several magnitudes for a period of several days or months.;; An example of such a star system is RS Ophiuchi; a binary system consisting of a red giant and a white dwarf companion. RS Ophiuchi has flared into a (recurrent) nova on at least six occasions, each time accreting the critical mass of hydrogen needed to produce a runaway explosion.;;;;
+
+It is possible that IK Pegasi B will follow a similar pattern.; In order to accumulate mass, however, only a portion of the accreted gas can be ejected, so that with each cycle the white dwarf would steadily increase in mass. Thus, even should it behave as a recurring nova, IK Pegasus B could continue to accumulate a growing envelope.;;
+
+An alternate model that allows the white dwarf to steadily accumulate mass without erupting as a nova is called the close-binary supersoft x-ray source (CBSS). In this scenario, the mass transfer rate to the close white dwarf binary is such that a steady fusion burn can be maintained on the surface as the arriving hydrogen is consumed in thermonuclear fusion to produce helium. This category of super-soft sources consist of high-mass white dwarfs with very high surface temperatures (0.5&amp;nbsp;&amp;times;&amp;nbsp;10;6; to 1&amp;nbsp;&amp;times;&amp;nbsp;10;6;&amp;nbsp;K;;).;;
+
+Should the white dwarf's mass approach the Chandrasekhar limit of 1.44&amp;nbsp;solar masses it will no longer be supported by electron degeneracy pressure and it will undergo a collapse. For a core primarily composed of oxygen, neon and magnesium, the collapsing white dwarf is likely to form a neutron star. In this case, only a fraction of star's mass will be ejected as a result.;; If the core is instead made of carbon-oxygen, however, the collapse will cause a substantial fraction of the star to undergo nuclear fusion within a short time. This will be sufficient to unbind the star in a cataclysmic, Type Ia supernova explosion.;;
+
+Such a supernova event is not likely to pose a threat to life on the Earth, however. It is thought that the primary star, IK Pegasi A, is unlikely to evolve into a red giant in the immediate future. As shown previously, the space velocity of this star relative to the Sun is 20.4&amp;nbsp;km/s. This is equivalent to moving a distance of one light year every 14,700&amp;nbsp;years. After 5&amp;nbsp;million years, for example, this star will be separated from the Sun by more than 500&amp;nbsp;light years. This is outside the radius where a Type Ia supernova is thought to be hazardous.;
+
+Following a supernova explosion, the remnant of the donor star (IK Pegasus A) would continue with the final velocity it possessed when it was a member of a close orbiting binary system. The resulting relative velocity could be as high as 100&amp;ndash;200 km/s, which would place it among the high-velocity members of the galaxy. The companion will also have lost some mass during the explosion, and its presence may create a gap in the expanding debris. From that point forward it will evolve into a single white dwarf star.;;;; The supernova explosion will create a remnant of expanding material that will eventually merge with the surrounding interstellar medium.;;
+
+Notes
+;
+;
+; The absolute magnitude ''M;v;''
+is given by:
+:;\begin{smallmatrix} M_v = V + 5(\log_{10} \pi + 1) = 2.762 \end{smallmatrix};
+where ''V'' is the visual magnitude and ''&amp;pi;'' is the parallax.;
+
+; Based upon:
+:;\begin{smallmatrix} \frac{L}{L_{sun}} = \left ( \frac{R}{R_{sun}} \right )^2 \left ( \frac{T_{eff}}{T_{sun}} \right )^4 \end{smallmatrix};
+where ''L'' is luminosity, ''R'' is radius and ''T;eff;'' is the effective temperature.;;;
+
+; The net proper motion is given by:
+:;\begin{smallmatrix} \mu = \sqrt{ {\mu_\delta}^2 + {\mu_\alpha}^2 \cdot \cos^2 \delta } = 77.63\, \end{smallmatrix};&amp;nbsp;mas/y.
+where ;\mu_\alpha; and ;\mu_\delta; are the components of proper motion in the RA and Dec., respectively. The resulting transverse velocity is:
+:;\begin{smallmatrix} V_t = \mu \cdot 4.74 d\,(\operatorname{pc}) = 16.9\, \end{smallmatrix};&amp;nbsp;km.
+where ''d''(pc) is the distance in parsecs.;;;
+
+; By the Pythagorean theorem, the net velocity is given by:
+:;\begin{smallmatrix} V = \sqrt{{V_r}^2 + {V_t}^2} = \sqrt{11.4^2 + 16.9^2} = 20.4\, \end{smallmatrix};&amp;nbsp;km/s.
+where ;V_r; is the radial velocity and ;V_t; is the transverse velocity, respectively.;
+
+; The white-dwarf population is narrowly distributed around the mean mass of 0.58 solar masses, and only 2%;; of all white dwarfs have at least one solar mass.;
+
+; ;\begin{smallmatrix} R_{\star} = 0.006 \cdot (6.96 \times 10^8)\,\mbox{m}\;\approx 4,200\, \end{smallmatrix};&amp;nbsp;km.;
+
+; The surface gravity of the Earth is 9.780 m/s;2;, or 978.0 cm/s;2; in cgs units. Thus:
+:;\begin{smallmatrix} \log\ \operatorname{g}=\log\ 978.0=2.99 \end{smallmatrix};
+The log of the gravitational force ratios is 8.95 - 2.99 = 5.96. So:
+:;\begin{smallmatrix} 10^{5.96} \approx 912,000 \end{smallmatrix};;
+
+; From Wien's displacement law, the peak emission of a black body at this temperature would be at a wavelength of:
+:;\begin{smallmatrix} \lambda_b = (2.898 \times 10^6 \operatorname{nm\ K})/(35,500\ \operatorname{K}) \approx 82\, \end{smallmatrix};&amp;nbsp;nm
+which lies in the far ultraviolet part of the electromagnetic spectrum.;
+
+;
+;
+
+References
+
+
+External links
+* 
+* 
+* 
+*
+
+Category:Pegasus constellation
+Category:Spectroscopic binaries
+Category:White main sequence stars
+Category:White dwarfs
+Category:Supernovae
+
+
+
+
+es:IK Pegasi
+fr:IK Pegasi

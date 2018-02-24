@@ -1,0 +1,91 @@
+'''Karplus-Strong string synthesis''' is a method of [[physical modelling synthesis]] that loops a short waveform through a filtered delay line to simulate the sound of a hammered or plucked [[string instrument|string]] or some types of [[Percussion_instrument|percussion]].
+Although it is useful to view this as a [[subtractive synthesis]] technique based on a [[feedback loop]] similar to that of a [[comb filter]] for [[z-transform]] analysis, it is better viewed as the simplest of a class of [[wavetable]]-modification algorithms now known as [[digital waveguide synthesis]], as the delay line acts to store one period of the signal.
+
+Alexander Strong invented the algorithm, and Kevin Karplus did the first analysis of how it worked.  Together they developed software and hardware implementations of the algorithm, including a custom VLSI chip. They named the algorithm "Digitar" synthesis, as an abbreviation for "digital guitar".
+
+== How it works ==
+
+<table align="center"><tr><td align="center">
+[[image:Karplus-strong-schematic.png]]
+</td></tr>
+<tr><td>
+# A short excitation waveform (of length L samples) is generated. In the original algorithm, this was a burst of [[white noise]], but it can also include any [[wideband]] signal, such as a rapid [[sine wave]] [[frequency sweep]] or a single cycle of a [[sawtooth wave]] or [[square wave]].
+# This excitation is output and simultaneously fed back into a [[delay line]] L samples long.
+# The output of the delay line is fed through a [[audio filter|filter]].  The [[gain]] of the filter must be less than 1 at all frequencies, and the filter is usually a first-order lowpass filter (as pictured).  In the original algorithm, the filter consisted of averaging two adjacent samples, a particularly cheap filter that can be done without a multiplier (just shift and add operations).
+# The filtered output is simultaneously mixed back into the output and fed back into the delay line.
+</td></tr></table>
+
+== Tuning the string ==
+
+The [[oscillation|period]] of the resulting signal is the period of the delay line plus the average [[group delay]] of the filter; the [[fundamental frequency]], as usual, is the [[Reciprocal (mathematics)|reciprocal]] of the period.  The required delay ''D'' for a given fundamental frequency ''F''<sub>1</sub> is therefore calculated according to ''D'' = ''F''<sub>''s''</sub>/''F''<sub>1</sub> where ''F''<sub>''s''</sub> is the sampling frequency.  
+
+The length of any digital delay line is a whole-number multiple of the sampling period.  In order to obtain a [[fractional delay]], [[interpolation|interpolating filters]] are used with parameters selected to obtain an appropriate group delay at the fundamental frequency.  Either [[Infinite impulse response|IIR]] or [[Finite Impulse Response|FIR]] filters may be used, however FIR have the advantage that transients are suppressed if the fractional delay is changed over time. The most elementary fractional delay is the [[linear interpolation]] between two samples (e.g., ''s''(4.2) = 0.8''s''(4) + 0.2''s''(5)).  If the group delay varies too much with frequency, [[harmonic]]s may be sharpened or flattened relative to the fundamental frequency.  The original algorithm used equal weighting on two adjacent samples, as this can be achieved without multiplication hardware, allowing extremely cheap implementations.
+
+[[Z-transform]] analysis can be used to get the pitches and decay times of the harmonics more precisely, as explained in the 1983 paper that introduced the algorithm.
+
+A demonstration of the Karplus-Strong algorithm can be heard in the following [[Vorbis]] file.  The algorithm used a loop gain of 0.98 with increasingly attenuating first order lowpass filters.  The pitch of the note was A2, or 220 Hz. 
+
+{{listen
+ | filename = Karplus-strong-A2.ogg
+ | title = Karplus-Strong #1
+ | description = ''F''<sub>1</sub> = 220Hz
+}}
+
+Holding the period (= length of the delay line) constant produces vibrations similar to those of a string or bell.  Increasing the period sharply after the transient input produces drum-like sounds.
+
+== Refinements to the algorithm ==
+Alex Strong and Kevin Karplus realized that the Karplus-Strong algorithm was physically analogous to a sampling of the transversal wave on a string instrument, with the filter in the feedback loop representing the total string losses over one period. [[Julius O. Smith III]] [http://ccrma.stanford.edu/~jos/] and others 
+generalized the algorithm to [[digital waveguide synthesis]], which could also be used to model acoustic waves in tubes and on drum membranes.
+
+Alex Strong developed a superior wavetable-modification method for plucked-string synthesis, but only published it as a patent.
+
+== References ==
+
+* {{cite journal
+ | author = Kevin Karplus, Alex Strong
+ | year = 1983
+ | title = Digital Synthesis of Plucked String and Drum Timbres
+ | journal = Computer Music Journal
+ | volume = 7
+ | issue = 2
+ | pages = 43-55
+ | publisher = MIT Press
+ }}
+
+* {{cite journal
+ | author = David A. Jaffe, Julius O. Smith
+ | year = 1983
+ | title = Extensions of the Karplus-Strong Plucked String Algorithm
+ | journal = Computer Music Journal
+ | volume = 7
+ | issue = 2
+ | pages = 56-69
+ | publisher = MIT Press
+}}
+
+* {{US patent reference|
+number=4649783|
+y=1987|m=03|d=17|
+inventor=Alexander R. Strong, Kevin J. Karplus|
+title=Wavetable Modification Instrument and Method for Generating Musical Sound}}
+<!-- filed May 24, 1984, now expired -->
+
+* {{US patent reference|
+number=4622877|
+y=1986|m=11|d=18|
+inventor=Alexander R. Strong|
+title=Independently controlled wavetable-modification instrument and method for generating musical sound}}
+
+* Moore, F. Richard. ''Elements of Computer Music''. Upper Saddle River: Prentice-Hall, 1990. ISBN 0-13-252552-6.
+
+== External links ==
+
+* [http://ccrma.stanford.edu/~jos/pasp/Karplus_Strong_Algorithm.html The Karplus-Strong Algorithm]
+* [http://ccrma.stanford.edu/~jos/Mohonk05/Karplus_Strong_Algorithm.html Sound Examples]
+
+{{Sound synthesis types}}
+[[Category:Sound technology]]
+[[Category:Sound synthesis types]]
+[[Category:Sound_production_technology]]
+
+[[it:Algoritmo di Karplus-Strong]]

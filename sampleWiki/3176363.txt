@@ -1,0 +1,85 @@
+{{Infobox Album <!-- See Wikipedia:WikiProject_Albums -->
+| Name        = Posłuchaj to do Ciebie
+| Type        = [[Album]]
+| Artist      = [[Kult (band)|Kult]]
+| Cover       = Kult - Posłuchaj to do ciebie.jpg
+| Released    = October 1987
+| Recorded    = January 1987
+| Genre       = [[Punk rock|Punk Rock]]
+| Length      = 
+| Label       = Klub Płytowy "Razem"
+| Producer    = 
+| Reviews     = 
+| Last album  = ''[[Kult (album)|Kult]]''<br />(1987)
+| This album  = '''''Posłuchaj to do Ciebie'''''<br />(1987)
+| Next album  = ''[[Spokojnie]]''<br />(1988)
+}}
+
+'''''Posłuchaj to do Ciebie''''' is the second [[album]] by [[Poland|Polish]] [[Punk rock|Punk Rock]] band [[Kult (band)|Kult]].
+
+==Track listing==
+===1987 Release===
+# "Na całym świecie źle się dzieje koledzy"
+# "Hej, czy nie wiecie"
+# "Post"
+# "Kult"
+# "Totalna stabilizacja"
+# "Narodzeni na nowo"
+# "Umarł mój wróg"
+# "Elektryczne nożyce"
+# "Spokojnie"
+# "Rozmyślania wychowanka"
+# "(Gdziekolwiek idę) z tobą chcę iść"
+
+First song is better known as "Wódka" ([[English language|English]]: [[Vodka]]). It was renamed due to [[censorship]] office request.
+
+===1992 Release===
+# "Piosenka młodych wioślarzy" (The Song Of Young Oarsmans)
+# "Piloci" (Pilots)
+# "Do Ani" (To Ania)
+# "Polska" (Poland)
+# "Babilon"
+# "Taniec wielki" (Great Dance)
+# "Wódka" (Vodka)
+# "Hej, czy nie wiecie" (Hey, do you don't know)
+# "Post" (Fast)
+# "Kult" 
+# "Totalna stabilizacja" 
+# "Narodzeni na nowo"
+# "Umarł mój wróg" 
+# "Elektryczne nożyce"
+# "Spokojnie" 
+# "Rozmyślania wychowanka"
+# "(Gdziekolwiek idę) z tobą chcę iść" (Everywhere I Go, I Wanna Go With You)
+# "Wódka II"
+
+==Credits==
+All songs of 1987 release and songs 4–18 of 1992 release were recorded by:
+* [[Kazik Staszewski]] – [[Singer|lead vocalist]], [[alto saxophone]], [[drum machine]] programming
+* [[Janusz Grudziński]] – [[lead guitar]], [[Keyboard instrument|keyboards]], [[cello]]
+* [[Ireneusz Wereński]] – [[bass guitar]]
+* [[Paweł Szanajca]] – [[saxophone]]
+* [[Tadeusz Kisieliński]] – [[Drum kit|drumset]]
+* [[Kostek Joriadis]] – [[trumpet]], [[conga]]s, keyboards
+* [[Jacek Kufirski]] – drum machine programming
+* [[Włodzimierz Kowalczyk]] – [[Audio engineering|sound engineer]]
+* [[Tadeusz Czechak]] – sound engineer
+
+Songs 1–3 of 1992 release were recorded by:
+* Kazik Staszewski – lead vocalist, saxophone
+* [[Piotr Wieteska]] – bass guitar
+* Janusz Grudziński – lead guitar
+* [[Jacek Szymoniak]] – keyboards
+* Tadeusz Kisieliński – drumset
+
+==References==
+* {{cite book|author=Gnoiński, Leszek|title=Kult Kazika|publisher=Włodzimierz Wieczorek|year=2000|id=ISBN 83-86365-39-0}}
+* {{cite web | title=Kazik Staszewski - kazikstaszewski.art.pl | work=Dyskografia | url=http://www.staszewski.art.pl/dyskografia/index.php?id=posluchaj | accessdate=16 November | accessyear=2005 }}
+* {{cite web | title=Kult w Internecie | work=Kult Kultu | url=http://www.kult.art.pl/pl/informacje/artykuly/129.html | accessdate=17 November | accessyear=2005 }}
+
+{{Kult}}
+
+[[Category:1987 albums]]
+[[Category:Kult albums]]
+
+[[pl:Posłuchaj to do Ciebie]]

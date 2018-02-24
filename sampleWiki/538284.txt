@@ -1,0 +1,243 @@
+{{otheruses4|the US mortgage type|an international perspective|Variable rate mortgage}}
+
+An '''adjustable rate mortgage''' (ARM) is a [[mortgage loan]] where the [[interest rate]] on the [[mortgage note|note]] is periodically adjusted based on a variety of indexes.<ref name="Wiedemer">Wiedemer, John P, ''Real Estate Finance, 8th Edition'', p 99-105</ref>. Among the most common indexes are the rates on 1-year constant-maturity Treasury (CMT) securities, the Cost of Funds Index (COFI), and the London Interbank Offered Rate (LIBOR). A few lenders use their own cost of funds as an index, rather than using other indexes.  This is done to ensure a steady margin for the lender, whose own cost of funding will usually be related to the index.  Consequently, payments made by the borrower may change over time with the changing interest rate (alternatively, the term of the loan may change).  This is not to be confused with the [[Graduated payment mortgage loan|graduated payment mortage]], which offers changing payment amounts but a fixed interest rate.  Other forms of mortgage loan include [[interest only mortgage]], [[fixed rate mortgage]], [[negative amortization|negative amortization mortgage]], and [[balloon payment mortgage]].  Adjustable rates transfer part of the interest rate risk from the [[lender]] to the borrower.  They can be used where unpredictable interest rates make fixed rate loans difficult to obtain.  The borrower benefits if the interest rate falls and loses out if interest rates rise.
+
+Adjustable rate mortgages are characterized by their index and limitations on charges (caps). In many countries, adjustable rate mortgages are the norm, and in such places, may simply be referred to as mortgages.
+
+== Characteristics ==
+=== Index ===
+
+All adjustable rate mortgages have an adjusting interest rate tied to an index.<ref name="Wiedemer"/> 
+
+In Western Europe, the index may be the TIBOR or [[Euribor | Euro Interbank Offered Rate]] (EURIBOR).
+
+Six common indices in the [[United States]] are:
+
+* 11th District [[Cost of Funds Index]] (COFI)
+* [[Libor|London Interbank Offered Rate]] (LIBOR)
+* 12-month Treasury Average Index (MTA)
+* Constant Maturity Treasury (CMT)
+* National Average Contract Mortgage Rate 
+* Bank Bill Swap Rate (BBSW)
+
+
+
+In some countries, banks may publish a [[prime lending rate]] which is used as the index. The index may be applied in one of three ways: directly, on a rate plus margin basis, or based on index movement.
+
+A directly applied index means that the interest rate changes exactly with the index.  In other words, the interest rate on the note exactly equals the index.  Of the above indices, only the contract rate index is applied directly.<ref name="Wiedemer"/>
+
+To apply an index on a rate plus margin basis means that the interest rate will equal the underlying index plus a margin.  The margin is specified in the note and remains fixed over the life of the loan.<ref name="Wiedemer"/>  For example, a mortgage interest rate may be specified in the note as being LIBOR plus 2%, 2% being the margin and LIBOR being the index.
+
+The final way to apply an index is on a movement basis.  In this scheme, the mortgage is originated at an agreed upon rate, then adjusted based on the movement of the index.<ref name="Wiedemer"/>  Unlike direct or index plus margin, the initial rate is not explicitly tied to any index; the ''adjustments'' are tied to an index.
+
+=== Limitations on charges (caps) ===
+
+Any mortgage where payments made by the borrower may increase over time brings with it the risk of financial hardship to the borrower.  To limit this risk, limitations on charges—known as ''caps'' in the industry—are a common feature of adjustable rate mortgages.<ref name="Wiedemer"/>   Caps typically apply to three characteristics of the mortgage:
+
+* frequency of the interest rate change
+* periodic change in interest rate
+* total change in interest rate over the life of the loan, sometimes called life cap
+
+For example, a given ARM might have the following types of caps:
+
+Interest rate adjustment caps:
+
+* interest adjustments made every 6 months, typically 1% per adjustment, 2% total per year
+* interest adjustments made only once a year, typically 2% maximum
+* interest rate may adjust no more than 1% in a year
+
+Mortgage payment adjustment caps:
+
+* maximum mortgage payment adjustments of 5% a year, which is common with pay-option / negative amortization loans
+
+Life of loan interest rate adjustment caps:
+
+* total interest rate adjustment limited to 5% of the life of the loan. Most common is 6% lifetime caps.
+
+Caps on the periodic change in interest rate may be broken up into one limit on the first periodic change and a separate limit on subsequent periodic change, for example 5% on the initial adjustment and 2% on subsequent adjustments.
+
+Another common cap is a limitation on the maximum monthly payment expressed in absolute rather than relative terms, for example $1000 a month.
+
+ARMs which allow [[negative amortization]] may have a payment adjustment frequency which differs from the interest rate adjustment frequency.  For example, the interest rate may be adjusted every six months, but the payment amount only once every 12 months.
+
+Cap structure is sometimes expressed as ''initial adjustment cap'' / ''subsequent adjustment cap'' / ''life cap'', for example 2/2/5 for a loan with a 2% cap on the inital adjustment, a 2% cap on subsequent adjustments, and a 5% cap on total interest rate adjustments.  When only two values are given, this indicates that the initial change cap and periodic cap are the same.  For example, a 2/2/5 cap structure may sometimes be written simply 2/5.
+
+==Reasons for ARMs==
+{{Unreferencedsection|date=July 2007}}
+ARMs generally permit borrowers to lower their payments if they are willing to assume the risk of interest rate changes. In many countries, banks or similar financial institutions are the primary originators of mortgages. For banks that are funded from customer [[Deposit (bank)|deposit]]s, the customer deposits will typically have much shorter terms than residential mortgages. If a bank were to offer large volumes of mortgages at fixed rates but to derive most of its funding from deposits (or other short-term sources of funds), the bank would have an [[asset-liability mismatch]]: in this case, it would be running the risk that the interest income from its mortgage portfolio would be less than it needed to pay its depositors. In the United States, some argue that the [[savings and loan crisis]] was in part caused by this problem, that the savings and loans companies had short-term deposits and long-term, fixed rate mortgages, and were caught when [[Paul Volcker]] raised interest rates in the early 1980s.
+
+To avoid this risk, many mortgage originators will sell or [[securitize]] their mortgages. Banking regulators pay close attention to asset-liability mismatches to avoid such problems, and place tight restrictions on the amount of long-term fixed-rate mortgages that banks may hold (in relation to their other assets).
+
+In this perspective, banks and other financial institutions offer adjustable rate mortgages because it reduces risk and matches their sources of funding.
+
+For the borrower, adjustable rate mortgages may be less expensive, but at the price of higher risk borne by the borrower. In most situations, when looking at a single period (e.g. a year) short-term borrowing appears less expensive than long-term borrowing, due to the slope of the [[yield curve]]. Yet, this difference is likely founded on the expectations of increases in the short term interest rate, hence the risk over many periods.
+
+== ARM Variants ==
+===Hybrid ARMs===
+
+A hybrid adjustable-rate mortgage (ARM) is one where the interest rate on the note is fixed for a period of time, then floats thereafter.  The "hybrid" refers to the blend of fixed rate and adjustable rate characteristics found in hybrid ARMs.  Hybrid ARMs are referred to by their initial fixed period and adjustment periods, for example 3/1 for an ARM with a 3-year fixed period and subsequent 1-year rate adjustment periods.  The date that a hybrid ARM shifts from a fixed-rate payment schedule to an adjusting payment schedule is known as the reset date.  After the reset date, a hybrid ARM floats at a margin over a specified index just like any ordinary ARM.<ref name="Fabozzi">Fabozzi, Frank J. (ed), ''Handbook of Mortgage-Backed Securities, 6th Edition'', p 259-260</ref>
+
+The popularity of hybrid ARMs has significantly increased in recent years.  In 1998, the percentage of hybrids relative to 30-year fixed rate mortgages was less than 2%; within 6 years, this increased to 27.5%.<ref name="Fabozzi"/>
+
+Like other adjustable-rate products, hybrid ARMs transfer some interest rate risk from the lender to the borrower, thus allowing the lender to offer a lower note rate.
+
+===Option ARMs===
+An "option ARM" is a loan where the borrower has the option of making either a specified minimum payment, an interest-only payment, or a 15-year or 30-year fixed rate payment in a given month.<ref>
+{{cite news 
+  | last = Simon
+  | first = Ruth
+  | coauthors = 
+  | title = Option ARMs Remain Popular Despite Risks and Higher Rates
+  | work = RealEstateJournal.com
+  | pages = 
+  | language = 
+  | publisher = The [[Wall Street Journal]]
+  | date = August 21, 2006
+  | url = http://www.realestatejournal.com/buysell/mortgages/20060821-simon.html
+  | accessdate = 2001-09-01  }}
+</ref> 
+
+This type of loan is also known and advertised as the "pick a payment" or "pay-option" loan.
+
+When a borrower makes a payment that is less than the interest payment, there is negative amortization, where the unpaid interest is added back onto the principal balance. Which is usually the difference between the interest-only payment and the minimum payment. If the minimum payment is $1,000 and the interest only payment is $1,500 then $500 will be added on to the back of the borrower's loan. 
+
+Option ARMs are popular because they are usually offered with a very low initial interest rate (a so-called "teaser rate") and a low minimum payment, which permits borrowers to qualify for a much larger loan than would otherwise be possible.  When pricing an Option ARM, never focus on the Start Rate of 1% or 2%, consider only the Fully Indexed Rate (FIR) which is the Margin and the current Index being used (12-MTA, LIBOR, etc.).
+
+Option ARMs are best suited to people in fields with sporadic income, such as some self-employed people or those in a highly seasonal business. For example, someone who makes the majority of their income around the winter holiday season, but who earns minimal income during the following few months may wish to pay the full payment during their busy season, but drop back to the interest-only payment or the minimum during a period of reduced earnings. This gives greater flexibility to how the mortgage is paid. With a fixed-payment loan, if the borrower was unable to meet the fixed payment, they would risk late fees or [[foreclosure]]. 
+
+The main risk of an Option ARM is "payment shock", when the negative amortization reaches a stated maximum, at which point the minimum payment will be raised to a level that amortizes the loan balance.<ref>
+{{cite news 
+  | last = 
+  | first = 
+  | coauthors = 
+  | title = Payment Shock Is The Latest Worry In Mortgage Markets
+  | work = MortgageNewsDaily.com
+  | pages = 
+  | language = 
+  | publisher = 
+  | date = August 24, 2006
+  | url = http://www.mortgagenewsdaily.com/8242006_Rate_Shock.asp
+  | accessdate = 2006-09-01  }}
+</ref> 
+
+The function of the loan that can cause this payment shock is called the "Recast" cap. The recast will happen when the original loan balance reaches 110% to 125% of the original loan balance due to negative amortization of making the minimum payment. 
+
+For example: a $200,000 with a 110% recast cap will adjust to a fully indexed, fully amortized payment based on the remaining term of the loan when the negative amortization add to the loan balance reaches $220,000. For a 125% recast, this will happen when loan balance reaches $250,000.
+
+Obviously the higher the recast cap the longer it will take for the recast to take place and the more negative amortization can be added to the loan balance.
+
+Another risk, as with any loan with potential negative amortization, is that the increased loan balance will reduce or eliminate the borrower's equity in the financed property, or if the value of the property declines, increase the chance that he won't be able to sell the property for an amount that will repay the loan.
+
+Historically, option ARM mortgages have been used effectively to minimize income taxes and maximize mortgage interest deductions by high net worth homeowners whose earnings are primarily derived from passive or investment income.  By making minimum payments over the course of a year, these borrowers are able to defer the majority of the income required to service their mortgage debt to the end of the year, allowing income brought in as a long term capital gain, and taxable at a favorable rate, to be used in making lump sum interest payments.  High net worth individuals and real estate investors also have a long history of utilizing the negative amortization characteristics of these mortgages to their advantage to avoid taxation entirely on gains in real estate, by refinancing regularly to "take profits" from illiquid residential and commercial real estate equity.{{Fact|date=March 2007}}
+
+Option ARM mortgages are increasingly available in Hybrid, or temporarily Fixed Rate varieties, from 3 to 10 years, mitigating certain negative amortization characteristics of the popular Adjustable Rate variety.  Largely as a result of yield curve inversion, a handful of banks have introduced 30 year fixed rate mortgages with option ARM style minimum payments.<ref>
+{{cite news 
+  | last = Hunt
+  | first = Tristan
+  | coauthors = 
+  | title = Fixed Rate Option ARM Mortgages
+  | work = RefinanceOne.net
+  | pages = 
+  | language = 
+  | publisher = 
+  | date = October 1, 2006
+  | url = http://refinanceone.net/wordpress/2006/10/01/revolutionary-fixed-rate-option-arm-mortgages/
+  | accessdate = 2007-03-28  }}
+</ref>
+
+==Terminology==
+{{refimprovesect|date=July 2007}}
+* X/Y - Hybrid ARMs are often referred to in this format, where X is the number of years during which the initial interest rate applies prior to first adjustment (common terms are 3, 5, 7, and 10 years), and Y is the interval between adjustments (common terms are 1 for one year and 6 for six months).  As an example, a 5/1 ARM means that the initial interest rate applies for five years (or 60 months, in terms of payments), after which the interest rate is adjusted annually.  (Adjustments for escrow accounts, however, do not follow the 5/1 schedule; these are done annually.)
+
+* Fully Indexed Rate - The price of the ARM as calculated by adding Index + Margin = Fully Indexed Rate.  This is the interest rate your loan would be at without a Start Rate (the introductory special rate for the initial fixed period).  This means the loan would be higher if adjusting, typically, 1-3% higher than the fixed rate.  Calculating this is important for ARM buyers, since it helps predict the future interest rate of the loan.
+
+* Margin - For ARMs where the index is applied to the interest rate of the note on an "index plus margin" basis, the margin is the difference between the note rate and the index on which the note rate is based expressed in percentage terms.<ref name="Wiedemer"/>  This is not to be confused with [[profit margin]]. The lower the margin the better the loan is as the maximum rate will increase less at each adjustment. Margins will vary between 2%-7%.
+
+* Index - A published financial index such as [[LIBOR]] used to periodically adjust the interest rate of the ARM.  
+
+* Start Rate - The introductory rate provided to purchasers of ARM loans for the initial fixed interest period.  
+
+* Period - The length of time between interest rate adjustments.  In times of falling interest rates, a shorter period benefits the borrower.  On the other hand, in times of rising interest rates, a longer period benefits the lender.
+
+* Floor - A clause that sets the minimum rate for the interest rate of an ARM loan.  Loans may come with a Start Rate = Floor feature, but this is primarily for Non-Conforming (aka Sub-Prime or Program Lending) loan products.  This prevents an ARM loan from ever adjusting lower than the Start Rate.  An "A Paper" loan typically has either no Floor or 2% below start.  
+
+* Payment Shock - Industry term to describe the severe (unexpected or planned for by borrower) upward movement of mortgage loan interest rates and its effect on borrowers. This is the major risk of an ARM, as this can lead to severe financial hardship for the borrower.
+
+* Cap - Any clause that sets a limitation on the amount or frequency of rate changes.
+
+==Loan Caps==
+
+Loan caps provide payment protection against payment shock, and allow a measure of interest rate certainty to those who gamble with initial fixed rates on ARM loans.  There are three types of Caps on a typical [[first lien|First Lien]] Adjustable Rate Mortgage or First Lien Hybrid Adjustable Rate Mortgage.
+
+'''Initial Adjustment Rate Cap:''' The majority of loans have a higher cap for initial adjustments that's indexed to the initial fixed period.  In other words, the longer the initial fixed term, the more the bank would like to potentially adjust your loan.  Typically, this cap is 2-3% above the Start Rate on a loan with an initial fixed rate term of 3 years or lower and 5-6% above the Start Rate on a loan with an initial fixed rate term of 5 years or greater. 
+
+'''Rate Adjustment Cap:''' This is the maximum amount by which an Adjustable Rate Mortgage may increase on each successive adjustment.  Similar to the initial cap, this cap is usually 1% above the Start Rate for loans with an initial fixed term of 3 years or greater and usually 2% above the Start Rate for loans that have an initial fixed term of 5 years or greater
+
+'''Lifetime Cap:'''  Most First Mortgage loans have a 5% or 6% Life Cap above the Start Rate (this ultimately varies by the lender and credit grade).  
+
+* Industry Shorthand for ARM Caps
+
+Inside the business caps are expressed most often by simply the 3 numbers involved that signify each cap.  For example, a 5/1 Hybrid ARM may have a cap structure of 5/2/5 (5% initial cap, 2% adjustment cap and 5% lifetime cap) and insiders would call this a 5-2-5 cap.  Alternately a 1 year arm might have a 1/1/6 cap (1% initial cap, 1% adjustment cap and 6% lifetime cap) known as a 1-1-6, or alternately expressed as a 1/6 cap (leaving out one digit signifies that the initial and adjustment caps are identical).
+
+* [[Negative amortization]] ARM caps 
+
+See the complete article for the type of ARM that [[Negative amortization]] loans are by nature.    Higher risk products, such as First Lien Monthly Adjustable loans with [[Negative amortization]] and Home Equity Lines of Credit aka [[HELOC]] have different ways of structuring the Cap than a typical First Lien Mortgage.  The typical First Lien Monthly Adjustable loans with [[Negative amortization]] loan has a life cap for the underlying rate (aka "Fully Indexed Rate") between 9.95% and 12% (maximum assessed interest rate).  Some of these loans can have much higher rate ceilings.  The fully indexed rate is always listed on the statement, but borrowers are shielded from the full effect of rate increases by the minimum payment, until the loan is recast, which is when principal and interest payments are due that will fully amortize the loan at the fully indexed rate.
+
+* Home Equity Lines of Credit [[HELOC]] 
+
+Since HELOCs are intended by banks to primarily sit in second lien position, they normally are only capped by the maximum interest rate allowed by law in the state wherein they are issued.  For example, Florida currently has an 18% cap on interest rate charges.  These loans are risky in the sense that to lenders, they are practically a credit card issued to the borrower, with minimal security in the event of default.  They are risky to the borrower in the sense that they are mostly indexed to the Wall Street Journal Prime Rate, which is considered a Spot Index, or a financial indicator that is subject to immediate change (as are the loans based upon the Prime Rate).  The risk to borrower being that a financial situation causing the [[Federal Reserve]] to raise rates dramatically (see [[1980]], [[2006]]) would effect an immediate rise in obligation to the borrower, up to the capped rate.
+
+== Popularity ==
+Variable rate mortgages are the most common form of loan for house purchase in the [[United Kingdom]] and [[Canada]] but are unpopular in some other countries. Variable rate mortgages are very common in [[Australia]] and [[New Zealand]]. In some countries, true fixed-rate mortgages are not available except for shorter-term loans; in Canada, the longest term for which a mortgage rate can be fixed is typically no more than ten years, while mortgage maturities are commonly 25 years.
+
+In many countries, it is not feasible for banks to borrow at fixed rates for very long terms; in these cases, the only feasible type of mortgage for banks to offer may be adjustable rate mortgages (barring some form of government intervention).
+
+For those who plan to move within a relatively short period of time (three to seven years), they are attractive because they often include a lower, fixed rate of interest for the first three, five, or seven years of the loan, after which the interest rate fluctuates.
+
+== Pricing ==
+Adjustable rate mortgages are typically, but not always, less expensive than fixed-rate mortgages. Due to the inherent [[interest rate risk]], long-term fixed rates will tend to be higher than short-term rates (which are the basis for variable-rate loans and mortgages). The difference in interest rates between short and long-term loans is known as the [[yield curve]], which generally slopes upward (longer terms are more expensive). The opposite circumstance is known as an [[inverted yield curve]] and is relatively infrequent.
+
+The fact that an adjustable rate mortgage has a lower starting interest rate does not indicate what the future cost of borrowing will be (when rates change). If rates rise, the cost will be higher; if rates go down, the rate will be lower. In effect, the borrower has agreed to take the [[interest rate risk]]. Some studies<ref>[http://www.ifid.ca/pdf_workingpapers/WP2001A.pdf www.ifid.ca]</ref> have shown that ''on average'', the majority of borrowers with adjustable rate mortgages save money in the long term; but they have also demonstrated that some borrowers pay more. The price of potentially saving money, in other words, is balanced by the risk of potentially higher costs.
+
+== Prepayment ==
+Adjustable rate mortgages, like other types of mortgage, may offer the ability to prepay principal (or capital) early without penalty.  Early payments of part of the principal will reduce the total cost of the loan (total interest paid), and will shorten the amount of time needed to pay off the loan.  Early payoff of the entire loan amount through refinancing is sometimes done when interest rates drop significantly.
+
+== Criticism ==
+Adjustable rate mortgages are sometimes sold to unsophisticated consumers who are unlikely to be able to repay the loan should interest rates rise.<ref>
+{{cite news 
+  | last = 
+  | first = 
+  | coauthors = 
+  | title = Option ARMs At The Center of Rate Shock Fears
+  | work = MortgageNewsDaily.com
+  | pages = 
+  | language = 
+  | publisher = 
+  | date = September 11, 2006
+  | url = http://www.mortgagenewsdaily.com/9112006_Option_ARM_Mortgage.asp
+  | accessdate = 2006-09-15  }}
+</ref> In the [[United States]], extreme cases are characterized by the [[Consumer Federation of America]] as [[predatory lending|predatory loan]]s.  Protections against interest rate rises include (a) a possible initial period with a fixed rate (which gives the borrower a chance to increase his/her annual earnings before payments rise); (b) a maximum (cap) that interest rates can rise in any year (if there is a cap, it must be specified in the loan document); and (c) a maximum (cap) that interest rates can rise over the life of the mortgage (this also must be specified in the loan document).
+
+==History==
+TITLE VIII, ALTERNATIVE MORTGAGE TRANSACTIONS, [[Garn-St Germain Depository Institutions Act]] of 1982 allowed Adjustable rate mortgages <ref> http://www.phil.frb.org/src/Garn.html </ref>
+
+== References ==
+<references/>
+
+== See also ==
+* [[VA loan]]
+* [[US mortgage terminology]]
+
+== External links ==
+*[http://www.federalreserve.gov/pubs/arms/arms_english.htm U.S. Federal Reserve Consumer Handbook on Adjustable Rate Mortgages]
+*[http://www.hsh.com/idxhst.html US historical ARM index rates]
+*[http://www.hsh.com/mtghst.html US historical mortgage rates, 1982 - present]
+*[http://www.mortgage-x.com/general/indexes/default.asp U.S. Adjustable Rate Mortgage (ARM) Indices]
+*[http://www.mortgage-info.com/mortgage-calculators/adjustableratemortgagecalculator.aspx Adjustable Rate Mortgage Calculator estimates payment / cap adjustments]
+*[http://www.mortgage-info.com/mortgage-calculators/payoptionarmcalculator.aspx Pay Option ARM Mortgage Calculator - calculates payment options, negative amortization and recast]
+
+[[Category:US mortgage industry]]
+[[Category:Banking]]
+[[Category:Finance]]
+[[Category:Real estate]]
+[[Category:Personal finance]]

@@ -1,0 +1,76 @@
+{{Infobox_Company 
+|company_name   = Astro All Asia Networks plc 
+|company_logo   = 
+|company_type   = [[Public company|Public]] 
+|company_slogan = 
+|foundation     = 1996 
+|location       = [[Technology Park Malaysia]], [[Kuala Lumpur]]. <br>{{flagicon|Malaysia}}  Malaysia 
+|key_people     = 
+|num_employees  = 
+|industry       = Media
+|area_served	= {{flagicon|Malaysia}} Malaysia <br> {{flagicon|Brunei}} Brunei <br> {{flagicon|Indonesia}} Indonesia
+|products       = Pay TV services<br>Programming<br>Content 
+|revenue        = RM 2,013 million [[Malaysian ringgit|MYR]] ({{profit}}17% [[Fiscal year|FY]] 2005)
+|homepage       = http://www.astroplc.com/
+}}
+
+'''Astro All Asia Networks plc''' ({{myx|5076}}) is a [[Malaysia]]-based investment holding [[Media conglomerate|media]] [[list of conglomerates|conglomerate company]] which provides management services to its subsidiaries. Its chairman and non-executive director is [[Badri Masri]].
+
+Astro All Asia Networks is a [[public company]] listed on the [[Kuala Lumpur Stock Exchange]]. The company is dedicated and engaged in content creation, aggregation and distribution activities, including the provision of direct-to-home subscription television, radio broadcasting services, library licensing, multimedia interactive services, [[magazine]] publishing, Malaysian [[film production]], talent management, creation of [[computer animation]], interactive content and television content distribution.
+
+Astro All Asia Networks' headquarters is located at the state-of-the-art digital All Asia Broadcast Centre at [[Bukit Jalil]], [[Kuala Lumpur]].
+
+== History ==
+
+In [[1996]], a state-of-the-art digital All Asia Broadcast Centre was constructed at [[Bukit Jalil]]. After that, its new [[pay television|pay-television service]] named Astro launched and started broadcasting with 22 [[television channel]]s and 8 music channels.
+
+In [[1997]], it achieves [[Multimedia Super Corridor]] status.
+
+In [[2003]], Astro acquired [[Celestial Pictures]] and Philippine-based animation studio.
+
+In April 2005, the company acquired [[Time Highway Radio|Thr.fm]] radio network, which is Malaysia's private Indian radio station. Astro launched Malaysia's first subscription IPTV channels based on content licenced from Goal TV (English Premier League Soccer club TV for Liverpool, Chelsea and others) and Akademi Fantasia, a localised version of an Endemol's Fame Academy.
+
+In June 2005, Astro acquired Yes Television (Hong Kong) Limited and Goal TV Asia Limited to distribute broadband and broadcast content in the region.
+
+In 2006, Rohana Rozhan CFO of AAAN plc was appointed as CEO of the Astro Malaysia and Brunei-based pay TV businesses.
+
+== Holdings ==
+
+=== Television ===
+
+==== Subscription television ====
+
+* [[Astro (satellite TV)|Astro]]
+* [[Kristal-Astro]]
+* [[Astro Nusantara]]
+
+=== Radio ===
+
+* [[Airtime Management and Programming]]
+* [[Airtime Marketing and Sales India]]
+
+=== Publications ===
+
+* [[MEASAT Publications]]
+
+=== Studios ===
+
+* [[Tayangan Unggul]]
+* [[Astro Shaw]]
+
+== References ==
+
+{{reflist}}
+
+== External links ==
+
+* [http://www.astroplc.com/ Astro All Asia Networks plc Corporate Website]
+* [http://www.astro.com.my Astro Malaysia Website]
+* [http://www.astro-nusantara.com Astro Nusantara Website]
+
+{{Astro All Asia Networks plc}}
+
+[[Category:Companies of Malaysia]]
+[[Category:Companies established in 1996]]
+
+[[ms:Astro All Asia Networks plc]]

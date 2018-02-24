@@ -1,0 +1,194 @@
+[[Image:Water-3D-vdW.png|120px|thumb|[[Space-filling model]] of the [[water molecule|H<sub>2</sub>O]] molecule.]]
+In [[chemistry]], the '''history of the [[molecule]]''' traces the origins of the concept or idea of the existence of [[Covalent bond|strong chemical bonds]] between two or more [[atom]]s. 
+
+The modern concept of molecules can be traced back towards pre-scientific Greek philosophers such as [[Leucippus]] who argued that all the universe is composed of [[atomic theory|atoms and voids]]. Circa 450 BC [[Empedocles]] imagined [[essential element theories|fundamental elements]] ([[Fire (classical element)|fire]] ([[Image:Alchemy fire symbol.svg|20px]]), [[Earth (classical element)|earth]] ([[Image:Alchemy earth symbol.svg|20px]]), [[Air (classical element)|air]] ([[Image:Alchemy air symbol.svg|20px]]), and [[Water (classical element)|water]] ([[Image:Alchemy water symbol.svg|20px]])) and "forces" of attraction and repulsion allowing the elements to interact. A modern conceptualization of molecules began to develop in the 1800s along with experimental evidence for pure [[chemical elements]] and how individual atoms of different chemical substances such as hydrogen and oxygen can combine to form chemically stable molecules such as water molecules.
+
+==17th century==
+The earliest views on the shapes and connectivity of atoms was that proposed by [[Leucippus]], [[Democritus]], and [[Epicurus]] who reasoned that the solidness of the material corresponded to the shape of the atoms involved.  Thus, iron atoms are solid and strong with hooks that lock them into a solid; water atoms are smooth and slippery; salt atoms, because of their taste, are sharp and pointed; and air atoms are light and whirling, pervading all other materials.<ref>{{cite book | last = Pfeffer | first = Jeremy, I.  | coauthors = Nir, Shlomo | title = Modern Physics: An Introduction Text | publisher = World Scientific Publishing Company | pages = 183 | year = 2001 | id = ISBN 1860942504}}</ref>  It was Democritus that was the main proponent of this view.  Using analogies from our sense experiences, he gave a picture or an image of an atom in which atoms were distinguished from each other by their shape, their size, and the arrangement of their parts.  Moreover, connections were explained by material links in which single atoms were supplied with attachments: some with hooks and eyes others with balls and sockets.<ref>See ''testimonia'' DK 68 A 80, DK 68 A 37 and DK 68 A 43. See also {{cite book | last = Cassirer | first = Ernst  | title = An Essay on Man: an Introduction to the Philosophy of Human Culture |  pages = 214 | publisher = Doubleday & Co. | year = 1953 | id = ASIN B0007EK5MM}}</ref>
+
+The atomic theory, curiously, was abandoned for nearly two millennia in favor of the various four element theories and later alchemical theories.  The 17th century, however, saw a resurgence in the atomic theory primarily through the works of Descartes, [[Pierre Gassendi|Gassendi]], and [[Newton]].  Using earlier Greek atomic theories to explain how the tiniest particles of matter bonded together, Descartes visualized that atoms were held together by microscopic hooks and barbs.<ref>{{cite book | last = Waller | first = John | title = Leaps in the Dark: the Making of Scientific Reputations | pages = 43 | publisher = Oxford University Press | year = 2004 | id = ISBN 0192804847}}</ref>  Subsequently, one of the earliest molecular theories was that put forward by the famous French naturalist [[René Descartes]] who believed that some atoms were furnished with hook-like projections, and others, with eye-like ones. He held that two atoms combined when the hook of one got caught in the eye of the other, such as shown below:
+
+[[Image:Hook-and-eye-model.jpg|300px|thumb|center|Mock-up of [[René Descartes]]' "Hook-and-Eye" bonding Model (c.1625).<ref>'''Disclaimer:''' this picture is just for illustration, at the time of Gassendi and Descartes, the composition of water was not known.</ref>]]
+
+By the mid 1770s, it was generally viewed that any theory involving particles endowed with physical hooks was considered “Cartesian chemistry”.<ref>Comments made by French chemist [[Guyton de Morveau]] in about 1772; as found in Kim’s 2003 ''Affinity That Elusive Dream – A Genealogy of the Chemical Revolution''.</ref>   Similar to Descartes, Gassendi, who had recently written a book on the life of Epicurus, reasoned that to account for the size and shape of atoms moving in a void could account for the properties of matter.  Heat was due to small, round atoms; cold, to pyramidal atoms with sharp points, which accounted for the pricking sensation of severe cold; and solids were held together by interlacing hooks. <ref>{{cite book | last = Leicester | first = Henry, M. | title = The Historical Background of Chemistry | pages = 112 | publisher = John Wiley & Sons | year = 1956 | id = ISBN 0486610535}}</ref>  
+
+Newton, though he acknowledged the various atom attachment theories in vogue at the time, i.e. “hooked atoms”, “glued atoms” (bodies at rest), and the “stick together by conspiring motions” theory, rather believed, as famously stated in "Query 31" of his 1704 ''[[Opticks]]'', that particles attract one another by some force, which “in immediate contact is extremely strong, at small distances performs the chemical operations, and reaches not far from particles with any sensible effect.” <ref>(a) [[Isaac Newton]], (1704). [[Opticks]]. (pg. 389). New York: Dover.<br>(b) {{cite book | last = Bernard | first = Pullman | coauthors = Reisinger, Axel, R. | title = The Atom in the History of Human Thought | pages = 139 | publisher = Oxford University Press | year = 2001 | id = ISBN 0195150406}}</ref>   
+
+In a more concrete manner, however, the concept of aggregates or units of bonded atoms, i.e. "molecules", traces its origins to [[Robert Boyle]]'s 1661 hypothesis, in his famous treatise ''The Sceptical Chymist'', that matter is composed of ''clusters of particles'' and that chemical change results from the rearrangement of the clusters.  Boyle argued that matter's basic elements consisted of various sorts and sizes of particles, called "[[corpuscle]]s", which were capable of arranging themselves into groups.
+
+In 1680, using the [[corpuscular theory]] as a basis, French chemist [[Nicolas Lemery]] stipulated that the [[acidity]] of any substance consisted in its pointed particles, while [[alkalis]] were endowed with pores of various sizes.<ref>Lemery, Nicolas. (1680). An Appendix to a Course of Chymistry. London, pgs 14-15.</ref>  A molecule, according to this view, consisted of corpuscles united through a geometric locking of points and pores.
+
+==18th century==
+[[Image:Affinity-table.jpg|250px|right|thumb|[[Étienne François Geoffroy]]’s 1718 ''Affinity Table'': at the head of the column is a substance with which all the substances below can combine.]]
+An early precursor to the idea of bonded "combinations of atoms", was the theory of "combination via [[chemical affinity]]".  For example, in 1718, building on Boyle’s conception of combinations of clusters, the French chemist [[Étienne François Geoffroy]] developed theories of [[chemical affinity]] to explain combinations of particles, reasoning that a certain alchemical “force” draws certain alchemical components together.  Geoffroy's name is best known in connection with his tables of "[[chemical affinity|affinities]]" (''tables des rapports''), which he presented to the [[French Academy]] in 1718 and 1720. 
+
+These were lists, prepared by collating observations on the actions of substances one upon another, showing the varying degrees of affinity exhibited by analogous bodies for different [[reagent]]s.  These tables retained their vogue for the rest of the century, until displaced by the profounder conceptions introduced by [[Claude Louis Berthollet|CL Berthollet]].  
+
+In 1738, Swiss physicist and mathematician [[Daniel Bernoulli]] published ''Hydrodynamica'', which laid the basis for the [[kinetic theory]] of gases.  In this work, Bernoulli positioned the argument, still used to this day, that [[gas]]es consist of great numbers of molecules moving in all directions, that their impact on a surface causes the gas [[pressure]] that we feel, and that what we experience as [[heat]] is simply the kinetic energy of their motion. The theory was not immediately accepted, in part because [[conservation of energy]] had not yet been established, and it was not obvious to physicists how the collisions between molecules could be perfectly elastic.
+
+In 1789, [[William Higgins (chemist)|William Higgins]] published views on what he called combinations of "ultimate" particles, which foreshadowed the concept of [[valency bonds]].  If, for example, according to Higgins, the force between the ultimate particle of oxygen and the ultimate particle of nitrogen were 6, then the strength of the force would be divided accordingly, and similarly for the other combinations of ultimate particles:
+
+[[Image:Higgins-particles.jpg|250px|center|thumb|[[William Higgins (chemist)|William Higgins]]' combinations of ultimate particles (1789)]]
+
+==19th century==
+[[Image:Daltons-particles.jpg|150px|thumb|[[John Dalton]]'s union of atoms combined in ratios (1808)]]
+Similar to these views, in 1803 [[John Dalton]] took the atomic weight of hydrogen, the lightest element, as unity, and determined, for example, that the ratio for nitrous anhydride was 2 to 3 which gives the formula N<sub>2</sub>O<sub>3</sub>.  Interestingly, Dalton incorrectly imagined that atoms “hooked” together to form molecules. Later, in 1808, Dalton published his famous diagram of combined "atoms":
+
+In [[Amedeo Avogadro]]'s famous 1811 paper "Essay on Determining the Relative Masses of the Elementary Molecules of Bodies", he essentially states, i.e. according to [[J. R. Partington|Partington]]'s ''A Short History of Chemistry'', that:<ref>Avogadro, Amedeo (1811). "[http://web.lemoyne.edu/~giunta/AVOGADRO.HTML Masses of the Elementary Molecules of Bodies]", ''Journal de Physique'', 73, 58-76</ref>
+
+<div style="font-size:125%">
+{{cquote|The smallest particles of gases are not necessarily simple atoms, but are made up of a certain number of these atoms united by attraction to form a single '''molecule'''.}}</div>
+
+It must be noted here that this quote is a literal translation.  Avogadro uses the name "molecule" for both atoms and molecules.  Specifically, he uses the name "elementary molecule" when referring to atoms and to complicate the matter also speaks of "compound molecules" and "composite molecules".
+
+During his stay in Vercelli, Avogadro wrote a concise note (''memoria'') in which he declared the hypothesis of what we now call [[Avogadro's law]]: ''equal volumes of gases, at the same temperature and pressure, contain the same number of molecules''.  This law implies that the relationship occurring between the weights of same volumes of different gases, at the same temperature and pressure, corresponds to the relationship between respective [[molecular weight]]s. Hence, relative molecular masses could now be calculated from the masses of gas samples. 
+
+Avogadro developed this hypothesis in order to reconcile [[Joseph Louis Gay-Lussac]]'s 1808 [[Law of Charles and Gay-Lussac|law on volumes and combining gases]] with Dalton's 1803 [[atomic theory]]. The greatest difficulty Avogadro had to resolve was the huge confusion at that time regarding atoms and molecules &ndash; one of the most important contributions of Avogadro's work was clearly distinguishing one from the other, admitting that simple particles too could be composed of molecules, and that these are composed of atoms. Dalton, by contrast, did not consider this possibility.  Curiously, Avogadro considers only molecules containing even numbers of atoms; he does not say why odd numbers are left out.
+
+In 1826, building on the work of Avogadro, the French chemist [[Jean-Baptiste Dumas]] states:
+  
+<div style="font-size:125%">
+{{cquote|Gases in similar circumstances are composed of '''molecules''' or atoms placed at the same distance, which is the same as saying that they contain the same number in the same volume.}}</div>
+
+In coordination with these concepts, in 1833 the French chemist [[Marc Antoine Auguste Gaudin]] presented a clear account of Avogadro's hypothesis,<ref>{{cite journal
+| title =  The Atomic Structural Theories of Ampère and Gaudin: Molecular Speculation and Avogadro's Hypothesis
+| author = Seymour H. Mauskopf 
+| journal = Isis
+| year = 1969
+| volume = 60
+| issue =  1
+| pages = 61-74
+| url = http://links.jstor.org/sici?sici=0021-1753%28196921%2960%3A1%3C61%3ATASTOA%3E2.0.CO%3B2-F }}</ref> regarding atomic weights, by making use of “volume diagrams”, which clearly show both semi-correct molecular geometries, such as a linear water molecule, and correct molecular formulas, such as H<sub>2</sub>O:
+
+[[Image:Gaudins-volume-diagrams.jpg|350px|center|thumb|[[Marc Antoine Auguste Gaudin]]'s volume diagrams of molecules in the gas phase (1833)]]
+
+In two papers outlining his "theory of atomicity of the elements" (1857-58), [[Friedrich August Kekulé]] was the first to offer a theory of how every atom in an organic molecule was bonded to every other atom.  He proposed that carbon atoms were tetravalent, and could bond to themselves to form the carbon skeletons of organic molecules.
+
+In 1856, Scottish chemist [[Archibald Couper]] began research on the bromination of benzene at the laboratory of [[Charles Wurtz]] in Paris.<ref>[http://www.okstate.edu/jgelder/bondpage37.html Chemical Bonding Concepts] – Oklahoma State University</ref>  One month after Kekulé's second paper appeared, Couper's independent and largely identical theory of molecular structure was published.  He offered a very concrete idea of molecular structure, proposing that atoms joined to each other like modern-day [[Tinkertoys]] in specific three-dimensional structures. Couper was the first to use lines between atoms, in conjunction with the older method of using brackets, to represent bonds, and also postulated straight chains of atoms as the structures of some molecules, ring-shaped molecules of others, such as in [[tartaric acid]] and [[cyanuric acid]] <ref>[http://www.chemheritage.org/classroom/chemach/pop/06chemsynth/couper2.html Couper’s bond line drawings] (1858) – Chemical Achievers</ref>  In later publications, Couper’s bonds were represented using straight dotted lines (although it is not known if this is the typesetter’s preference) such as with [[alcohol]] and [[oxalic acid]] below:
+
+[[Image:Coupers-molecule.jpg|200px|center|thumb|[[Archibald Couper]]'s molecular structures, for [[alcohol]] and [[oxalic acid]], using elemental symbols for atoms and lines for bonds (1858)]]
+
+In 1861, an unknown Vienna high-school teacher named [[Joseph Loschmidt]] published, at his own expense, a booklet entitled ''Chemische Studien I'', containing pioneering molecular images which showed both "ringed" structures as well as double-bonded structures, such as:<ref>Bader, A. & Parker, L. (2001). "[http://www.physicstoday.org/pt/vol-54/iss-3/captions/p45cap4.html Joseph Loschmidt]", ''Physics Today'', Mar.</ref>
+
+[[Image:Loschmidts-molecules.jpg|200px|center|thumb|[[Joseph Loschmidt]]'s molecule drawings of [[ethylene]] H<sub>2</sub>C=CH<sub>2</sub> and [[acetylene]] HC≡CH (1861)]] 
+
+Loschmidt also suggested a possible formula for benzene, but left the issue open.  The first proposal of the modern structure for benzene was due to Kekulé, in 1865.  The cyclic nature of benzene was finally confirmed by the eminent crystallographer [[Kathleen Lonsdale]]. Benzene presents a special problem in that, to account for all the bonds, there must be alternating [[double bond|double]] carbon bonds:
+
+[[Image:benz1.png|200px|center|thumb|[[Benzene]] molecule with alternating [[double bonds]]]]
+
+In 1865, German chemist [[August Wilhelm von Hofmann]] was the first to make stick-and-ball molecular models, which he used in lecture at the [[Royal Institution of Great Britain]], such as methane shown below:
+
+[[Image:molmod.jpg|150px|thumb|center|[[August Wilhelm von Hofmann|Hofmann]]'s 1865 [[stick-and-ball model]] of [[methane]] ''CH<sub>4</sub>''.]]
+
+The basis of this model followed the earlier 1855 suggestion by his colleague [[William Odling]] that [[carbon]] is [[tetravalent]]. Hofmann's color scheme, to note, is still used to this day: [[nitrogen]] = blue, [[oxygen]] = red, [[chlorine]] = green,  [[sulfur]] = yellow, [[hydrogen]] = white.<ref>W. D. Ollis,  "Models and molecules", ''Proceedings of the Royal Institution of Great Britain'',  (1972),  '''45''',  1-31).</ref>  The deficiencies in Hofmann's model were essentially geometric: [[carbon]] was [[planar]], rather than tetravalent, and the atoms were out of proportion, e.g. carbon was smaller in size than the hydrogen. 
+
+In 1864, Scottish organic chemist [[Alexander Crum Brown]] began to draw pictures of molecules, in which he enclosed the symbols for atoms in circles, and used broken lines to connect the atoms together in a way that satisfied each atom's valence.
+
+The year 1873, by many accounts, was a seminal point in the history of the development of the concept of the "molecule".  In this year, the renowned Scottish physicist [[James Clerk Maxwell]] published his famous thirteen page article 'Molecules' in the September issue of ''Nature''.<ref>Maxwell, James Clerk, "[http://www.thecore.nus.edu.sg/landow/victorian/science/science_texts/molecules.html Molecules]". ''Nature'', September, 1873.</ref>  In the opening section to this article, Maxwell clearly states:
+
+<div style="font-size:125%">
+{{cquote|An atom is a body which cannot be cut in two; a '''molecule''' is the smallest possible portion of a particular substance.}}</div>
+
+After speaking about the [[atomic theory]] of [[Democritus]], Maxwell goes on to tell us that the word 'molecule' is a modern word.  He states, "it does not occur in ''[[Johnson's Dictionary]]''.  The ideas it embodies are those belonging to modern chemistry."  We are told that an 'atom' is a material point, invested and surrounded by 'potential forces' and that when 'flying molecules' strike against a solid body in constant succession it causes what is called [[pressure]] of air and other gases.  At this point, however, Maxwell notes that no one has ever seen or handled a molecule.  
+
+In 1874, [[Jacobus Henricus van 't Hoff]] and [[Joseph Achille Le Bel]] independently proposed that the phenomenon of [[optical activity]] could be explained by assuming that the chemical bonds between carbon atoms and their neighbors were directed towards the corners of a regular tetrahedron. This led to a better understanding of the three-dimensional nature of molecules.
+
+[[Emil Fischer]] developed the [[Fisher projection]] technique for viewing 3-D molecules on a 2-D sheet of paper:
+
+[[Image:Fischer Projection2.png|thumb|center|200 px]]
+
+In 1898, [[Ludwig Boltzmann]], in his ''Lectures on Gas Theory'', used the theory of [[valence]] to explain the phenomenon of gas phase molecular dissociation, and in doing so drew one of the first rudimentary yet detailed atomic orbital overlap drawings.  Noting first the known fact that molecular [[iodine]] vapor dissociates into atoms at higher temperatures, Boltzmann states that we must explain the existence of molecules composed of two atoms, the “double atom” as Boltzmann calls it, by an attractive force acting between the two atoms.  Boltzmann states that this chemical attraction, owing to certain facts of chemical valence, must be associated with a relatively small region on the surface of the atom called the ''sensitive region''.  
+
+Boltzmann states that this "sensitive region" will lie on the surface of the atom, or may partially lie inside the atom, and will firmly be connected to it.  Specifically, he states “only when two atoms are situated so that their sensitive regions are in contact, or partly overlap, will there be a chemical attraction between them.  We then say that they are chemically bound to each other.”  This picture is detailed below, showing the ''α-sensitive region'' of atom-A overlapping with the ''β-sensitive region'' of atom-B: <ref>{{cite book | last = Boltzmann | first = Ludwig  | title = Lectures on Gas Theory | publisher = Dover (reprint) | year = 1898 | id = ISBN 0486684555}}</ref>
+
+[[Image:Boltzmann's-molecule.jpg|200px|thumb|center|[[Ludwig Boltzmann|Boltzmann]]’s 1898 I<sub>2</sub> molecule diagram showing atomic “sensitive region” (α, β) overlap.]]
+
+==20th century==
+In the early 1900s, the American chemist [[Gilbert N. Lewis]] began to use dots in lecture, while teaching undergraduates at [[Harvard]], to represent the electrons around atoms.  His students favored these drawings, which stimulated him in this direction.  From these lectures, Lewis noted that elements with a certain number of electrons seemed to have a special stability.  This phenomenon was pointed out by the German chemist [[Richard Abegg]] in 1904, to which Lewis referred to as "Abegg's law of valence" (now generally known as [[Abegg's rule]]).  To Lewis it appeared that once a core of eight electrons has formed around a nucleus, the layer is filled, and a new layer is started.  Lewis also noted that various [[ion]]s with eight electrons also seemed to have a special stability. On these views, he proposed the rule of eight or [[octet rule]]: ''Ions or atoms with a filled layer of eight electrons have a special stability''.<ref>{{cite book | last = Cobb | first = Cathy | title = Creations of Fire - Chemistry's Lively History From Alchemy to the Atomic Age | publisher = Perseus Publishing | year = 1995 | id = ISBN 0-7382-0594-X}}</ref>  
+
+Moreover, noting that a cube has eight corners Lewis envisioned an atom as having eight sides available for electrons, like the corner of a cube.  Subsequently, in 1902 he devised a conception in which [[cubic atoms]] can bond on their sides to form cubic-structured molecules.
+
+In other words, electron-pair bonds are formed when two atoms share an edge, as in structure '''C''' below. This results in the sharing of two electrons.  Similarly, charged ionic-bonds are formed by the transfer of an electron from one cube to another, without sharing an edge '''A'''. An intermediate state '''B''' where only one corner is shared was also postulated by Lewis.
+
+[[Image:cubical atom 2.png|350px|center|thumb|Lewis cubic-atoms bonding to form '''cubic-molecules''']]
+
+Hence, [[double bond]]s are formed by sharing a face between two cubic atoms. This results in the sharing of four electrons.
+
+In 1913, while working as the chair of the department of chemistry at the [[University of California, Berkeley]], Lewis read a preliminary outline of paper by an English graduate student, [[Alfred Lauck Parson]], who was visiting Berkeley for a year.  In this paper, Parson suggested that the [[electron]] is not merely an electric charge but is also a small magnet (or "[[Toroidal Ring Model|magneton]]" as he called it) and furthermore that a [[chemical bond]] results from two electrons being shared between two atoms.<ref>Parson, A.L. (1915). "A Magneton Theory of the Structure of the Atom". ''Smithsonian Publication'' 2371, Washington.</ref>  This, according to Lewis, meant that bonding occurred when two electrons formed a shared edge between two complete cubes.
+
+On these views, in his famous 1916 article ''[http://dbhs.wvusd.k12.ca.us/webdocs/Chem-History/Lewis-1916/Lewis-1916.html The Atom and the Molecule]'', Lewis introduced the “Lewis structure” to represent atoms and molecules, where dots represent [[electron]]s and lines represent [[covalent bond]]s.  In this article, he developed the concept of the [[Covalent bond|electron-pair bond]], in which two atoms may share one to six electrons, thus forming the [[single electron bond]], a [[single bond]], a [[double bond]], or a [[triple bond]].
+
+[[Image:Lewis-bond.jpg|thumb|250px|center|]] 
+
+In Lewis' own words:
+<div style="font-size:115%">
+{{cquote|An electron may form a part of the shell of two different atoms and cannot be said to belong to either one exclusively.}}</div>
+
+Moreover, he proposed that an atom tended to form an ion by gaining or losing the number of electrons needed to complete a cube.  Thus, Lewis structures show each atom in the structure of the molecule using its chemical symbol. Lines are drawn between atoms that are bonded to one another; occasionally, pairs of dots are used instead of lines.  Excess electrons that form lone pairs are represented as pair of dots, and are placed next to the atoms on which they reside:
+
+[[Image:Nitrite-ion-lewis-canonical.png|300px|thumb|center|Lewis dot structures of the Nitrite-ion]]
+
+To summarize his views on his new bonding model, Lewis states: <ref>"Valence and The Structure of Atoms and Molecules", G. N. Lewis, American Chemical Society Monograph Series, page 79 and 81.</ref>
+
+<div style="font-size:115%">
+{{cquote|Two atoms may conform to the rule of eight, or the octet rule, not only by the transfer of electrons from one atom to another, but also by sharing one or more pairs of electrons...Two electrons thus coupled together, when lying between two atomic centers, and held jointly in the shells of the two atoms, I have considered to be the chemical bond. We thus have a concrete picture of that physical entity, that "hook and eye" which is part of the creed of the organic chemist.}}</div>
+
+The following year, in 1917, an unknown American undergraduate chemical engineer named [[Linus Pauling]] was learning the Dalton hook-and-eye bonding method at the [[Oregon Agricultural College]], which was the vogue description of bonds between atoms at the time. Each atom had a certain number of hooks that allowed it to attach to other atoms, and a certain number of eyes that allowed other atoms to attach to it. A chemical bond resulted when a hook and eye connected.  Pauling, however, wasn't satisfied with this archaic method and looked to the newly-emerging field of [[quantum physics]] for a new method.  
+
+In 1927, [[Fritz London]] and [[Walter Heitler]] applied the new quantum mechanics to the deal with the saturable, nondynamic forces of attraction and repulsion, i.e., exchange forces, of the hydrogen molecule.  Their valence bond treatment of this problem, in their joint paper,<ref> Walter Heitler and Fritz London ''Wechselwirkung neutraler Atome und homöopolare Bindung nach der Quantenmechanik'', ''Zeitschrift für Physik'' '''44''' (1927) 455-472.</ref> was a landmark in that it brought chemistry under quantum mechanics.  Their work was an influence on Pauling, who had just received his doctorate and visited Heitler and London in Zürich on a [[Guggenheim Fellowship]] .
+
+Subsequently, in 1931, building on the work of Heitler and London and on theories found in Lewis' famous article, Pauling published his ground-breaking article "The Nature of the Chemical Bond"<ref>Linus Pauling. The nature of the chemical bond. Application of results obtained from the quantum mechanics and from a theory of paramagnetic susceptibility to the structure of molecules. ''J. Am. Chem. Soc.'' '''1931''', ''53'' 1367-1400.</ref> (see: [http://osulibrary.oregonstate.edu/specialcollections/coll/pauling/bond/narrative/page24.html manuscript]) in which he used [[quantum mechanics]] to calculate properties and structures of molecules, such as angles between bonds and rotation about bonds.  On these concepts, Lewis developed [[hybridization theory]] to account for bonds in molecules such as CH<sub>4</sub>, in which four sp³ hybridised orbitals are overlapped by [[hydrogen]]'s ''1s'' orbital, yielding four [[sigma bond|sigma (σ) bonds]]. The four bonds are of the same length and strength, which yields a molecular structure as shown below:
+
+[[Image:Ch4 hybridization.svg|thumb|center|200px|A schematic presentation of hybrid orbitals overlapping hydrogens' s orbitals]] 
+
+Owing to these exceptional theories, Pauling won the 1954 [[Nobel Prize in Chemistry]]. Notably he has been the only person to ever win two unshared [[Nobel prize]]s, winning the [[Nobel Peace Prize]] in 1963.
+
+In 1926, French chemist [[Jean Perrin]] received the Nobel Prize in physics for proving, conclusively, the existence of molecules.  He did this by calculating [[Avogadro's number]] using three different methods, all involving liquid phase systems.  First, he used a [[gamboge]] soap-like emulsion, second by doing experimental work on [[Brownian motion]], and third by confirming Einstein’s theory of particle rotation in the liquid phase.<ref>Perrin, Jean, B. (1926). [http://nobelprize.org/cgi-bin/print?from=/nobel_prizes/physics/laureates/1926/perrin-lecture.html Discontinuous Structure of Matter], Nobel Lecture, December 11.</ref>
+
+In 1937, chemist [[K.L. Wolf]] introduced the concept of [[supermolecules]] (''Übermoleküle'') to describe [[hydrogen bonding]] in [[acetic acid]] [[dimer]]s.  This would eventually lead to the area of [[supermolecular chemistry]], which is the study of non-covalent bonding.  
+
+In 1951, [[Erwin Müller]] invents the [[field ion microscope]] and is the first to see [[atom]]s, e.g. bonded atomic arrangements at the tip of a metal point.
+
+In [[1999]], researchers from the [[University]] of [[Vienna]] reported results from experiments on [[wave-particle duality]] for C<sub>60</sub> molecules.<ref>{{cite journal| title=Wave-particle duality of C60 molecules| first=M.| last=Arndt| coauthors=O. Nairz, [[Julian Voss-Andreae|J. Voss-Andreae]], C. Keller, G. van der Zouw, [[Anton Zeilinger|A. Zeilinger]]| journal=Nature| volume=401| pages=680-682| month=14 October| year=1999|doi=10.1038/44348}}</ref>  The data published by Zeilinger et al were consistent with [[Louis de Broglie|de Broglie]] wave interference for C60 molecules. This experiment was noted for extending the applicability of wave–particle duality by about one order of magnitude in the macroscopic direction.<ref>{{cite journal| title=Quantum physics: Waves, particles and fullerenes| first=A. I. M.| last=Rae| journal=Nature| volume=401| pages=651-653| month=14 October| year=1999|doi=10.1038/44294}}</ref>
+
+==See also==
+*[[History of chemistry]]
+*[[History of quantum mechanics]]
+*[[History of thermodynamics]]
+*[[History of molecular biology]]
+*[[Kinetic theory]]
+*[[Atomic theory]]
+
+==References==
+{{Reflist}}
+
+==Further reading==
+{{refbegin}}
+*{{cite book | last = Partington | first = J.R. | title = A Short History of Chemistry | publisher = Dover Publications, Inc | year = 1989 | id = ISBN 0-486-65977-1}}  
+*{{cite book | last = Pert | first = Candace | title = Molecules of Emotion | publisher = Touchstone Books | year = 1997 | id = ISBN 0-684-84634-9}}
+*{{cite book | last = Atkins | first = Peter | title = Atkins' Molecules, 2nd Ed | publisher = Cambridge University Press | year = 2003 | id = ISBN 0-521-53536-0}}
+*{{cite book | last = Sargent | first = Ted | title = The Dance of Molecules - How Nanotechnology is Changing our Lives | publisher = Thunder's Mouth Press | year = 2006 | id = ISBN 1-56025-809-8}}
+{{refend}}
+
+==External links==
+*[http://cat.middlebury.edu/~chem/chemistry/class/general/ch103/chapter9/Test.html#fn0 Geometric Structures of Molecules] - Middlebury College
+*[http://www.chemistry.mcmaster.ca/bader/aim/ Atoms and Molecules] - McMaster University
+*[http://www.wiles.family.btinternet.co.uk/molecules/ 3D Molecule Viewer] - The Wileys Family
+*[http://www.chm.bris.ac.uk/motm/motm.htm Molecule of the Month] - School of Chemistry, University of Bristol
+
+===Types===
+*[http://www.accessexcellence.org/RC/VL/GG/antiBD_mol.html Antibody Molecule] - The National Health Museum
+*[http://www.chemsoc.org/cgi-shell/empower.exe 15 Types of Molecules] - IUPAC Definitions
+
+===Definitions===
+*[http://antoine.frostburg.edu/chem/senese/101/glossary/m.shtml#molecule Molecule Definition] - Frostburg State University (Department of Chemistry)
+*[http://www.iupac.org/goldbook/M04002.pdf Definition of Molecule] - IUPAC
+
+===Articles===
+*[http://www.trnmag.com/Stories/2004/110304/Molecules_form_nano_containers_Brief_110304.html Molecules Used to Make Nano-sized Containers] - TRN Newswire
+*[http://www.hpl.hp.com/news/molecules_that_compute.html Molecular Computer Processors] - HP Labs
+
+[[Category:History of chemistry]]
+[[Category:Molecules]]
+
+[[fr:Historique du concept de molécule]]

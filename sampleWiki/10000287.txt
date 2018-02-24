@@ -1,0 +1,39 @@
+{{Infobox Station
+ | name=Stanley
+ | image=
+ | image_size=
+ | image_caption=
+ | address=Main Street & Railroad Avenue<br />Stanley, ND 58784
+ | line={{rail color box|system=Amtrak|line=Empire Builder}}
+ | other=
+ | platform=
+ | parking=Yes; free
+ | bicycle=
+ | passengers=3,018
+ | pass_year=2006
+ | pass_percent=12.0
+ | opened=
+ | rebuilt=
+ | ADA=Yes
+ | code=STN
+ | owned=
+ | zone=
+ | services=
+ | baggage_check=No
+}}
+The '''Stanley Amtrak station''' is a train station in [[Stanley, North Dakota]] served by [[Amtrak]], the national railroad passenger system.
+
+==External links==
+{{Amtrak web|STN|Stanley, ND|NORTHDAKOTA}}
+*[http://www.trainweb.org/usarail/stanley.htm Stanley Amtrak Station (USA Rail Guide -- Train Web)]
+
+
+{{s-start}}
+{{s-rail|title=Amtrak}}
+{{s-line|system=Amtrak|line=Empire Builder|previous=Williston|next=Minot}}
+{{end}}
+
+[[Category:Amtrak stations in North Dakota]]
+
+{{NorthDakota-stub}}
+{{US-depot-stub}}

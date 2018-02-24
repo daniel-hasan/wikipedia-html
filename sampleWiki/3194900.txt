@@ -1,0 +1,50 @@
+{{Mergefrom|Perinatal Group B Streptococcal Disease|date=February 2007}}
+{{Cleanup|date=February 2007}}
+
+{{DiseaseDisorder infobox |
+  Name        = Streptococcus, group B, as the cause of diseases classified to other chapters |
+  ICD10       = {{ICD10|B|95|1|b|95}} |
+  ICD9        = |
+}}
+
+Infection with '''Group B Streptococcus''' (GBS), also known as '''[[Streptococcus agalactiae]]''', can cause serious illness and sometimes [[death]], especially in newborn infants and the elderly. Group B streptococci are also important [[pathogen]]s in veterinary [[medicine]], because they can cause bovine [[mastitis]] ([[inflammation]] of the [[udder]]) in dairy cows. The species name "agalactiae" meaning "no milk", alludes to this.
+
+[[Streptococcus]] is a [[genus]] of [[spherical]], [[Gram-positive]] bacteria of the [[phylum]] [[Firmicutes]]. [[Streptococcus agalactiae]] is a [[gram-positive]] streptococcus characterized by the presence of Group B [[Rebecca Lancefield|Lancefield antigen]], and so takes the name Group B Streptococcus. 
+
+==Perinatal disease==
+
+GBS is a member of the normal [[gut flora|flora of the gut]] and female [[urogenital]] tract, so many women are [[asymptomatic carrier|carrier]]s of this bacterium without knowing it. GBS [[colonization]] can be [[chronic (medicine)|chronic]] or intermittent.
+
+GBS bacteria can be passed from a [[pregnant]] women to her baby during [[childbirth|labor]], if she is a [[asymptomatic carrier|carrier]] of the bacteria. 
+
+===[[Perinatal Group B Streptococcal Disease]]=== 
+One out of every four women are colonized with GBS in the vagina or rectum.<ref name="cdcwebsite">
+{{cite web
+  | title = Preventing Group B Strep: Are You Pregnant? Protect your baby from group B strep!
+  | publisher = Center for Disease Control and Prevention
+  | date = 2004-02-09
+  | url = http://www.cdc.gov/groupbstrep/
+  | format = pdf
+  | accessdate = 2007-10-18 }}</ref> Since the bacteria can come and go, testing for GBS is needed every  pregnancy. Toward the end of a pregnancy at an [[antenatal]] appointment, the [[vagina]] and [[rectum]] are swabbed and cultures grown . Treatment of [[Group B Streptococcus|GBS]] positive women with intravenous penicillin at the onset of labour reduces early neonatal infection.<ref>{{cite journal | title = Cochrane 2000: CD000115}}</ref>. After birth the baby is given a course of antibiotics immediatly. Evidence based research studies show that using this test can reduce infant [[infection]]s. In many centers if a woman presents late in her [[prenatal]] period then there may be no time to grow cultures prior to labour. In this situation some clinicians advocate [[empirical]] antibiotic cover of mother and baby.
+
+===Perinatal GBS disease prevention===
+Through collaborative efforts clinicians, researchers, professional organizations, parent [[advocacy groups]], and the [[public health]] community developed recommendations for intrapartum [[prophylaxis]] to prevent Perinatal GBS disease. Many organizations have developed [[Perinatal Group B Streptococcal Disease|Perinatal GBS disease]] [[prevention]] and education programs to reduce the [[incidence (epidemiology)|incidence]] of the disease. Information about the recommendations and the prevention programs can be found in [[medical journal]]s and on the [[internet]].
+
+==References==
+*Brooks, Geo F., Janet Butel, and Stephen Morse.  <u>Jawetz, Melnick, and Adelberg's Medical Microbiology, 22nd edition</u>. 2001.
+*Gillespie, Stephen and Kathleen Bamford. <u>Medical Microbiology at a Glance</u>. 2000.
+<references/>
+
+==See also==
+*[[Perinatal Group B Streptococcal Disease]]
+
+==External links==
+*[http://www.cdc.gov/mmwr/preview/mmwrhtml/rr5111a1.htm Prevention of Perinatal Group B Streptococcal Disease] August 16, 2002  MMWR 2000;49:228-232.
+*[http://www.strepb.ca/home.htm The Canadian Strep B Foundation]
+
+
+{{Bacterial diseases}}
+[[Category:Streptococcaceae]]
+[[Category:Pregnancy]]
+
+[[fr:Streptocoque B]]

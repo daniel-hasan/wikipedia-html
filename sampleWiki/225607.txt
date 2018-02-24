@@ -1,0 +1,106 @@
+{{Taxobox
+| name = Widow spiders
+| image = Black Widow 11-06.jpg
+| image_width = 211px
+| image_caption = [[Black Widow spider]]
+| regnum = [[Animal]]ia
+| phylum = [[Arthropoda]]
+| classis = [[Arachnida]]
+| ordo = [[Araneae]]
+| familia = [[Theridiidae]]
+| genus = '''''Latrodectus'''''
+| genus_authority = [[Charles Athanase Walckenaer|Walckenaer]], 1805
+| subdivision_ranks = [[Species (biology)|Species]]
+| subdivision = 
+Approx. 31, see article
+}}
+
+The '''widow spiders''' are members of the genus ''Latrodectus'', in the family  [[Theridiidae]]. ''Latrodectus'' includes approximately 31 recognized venomous [[species]], with the [[black widow spider]] (''Latrodectus mactans'') being the best known member of the group. The female black widow's venom is particularly harmful to humans (males almost never bite humans).
+Spiders of the genus [[Steatoda]] (also of the Theridiidae family) are often mistaken for widow spiders, and are known as ''[[false widow spider]]s''.  The false widow spiders are significantly less harmful to humans. (For comparisons with other particularly venomous spiders, see [[Spiders having medically significant venom]].)
+
+Along with the ''[[Latrodectus mactans]]'', with the famed red hourglass, the ''gray'' or ''brown widow spiders'' (''[[Latrodectus geometricus]]''), the ''red widow spiders'' (''[[Latrodectus bishopi]]''), the ''northern widows'' (''[[Latrodectus variolus]]''), and the ''western widows'' (''[[Latrodectus hesperus]]'') (Preston-Malfham, 1998) are also found in the United States. But there are widow spiders on every continent of the world except for Antarctica. In some areas in Africa this genus receives the generic name [[button spider]]s.
+
+In common with other members of the ''Theridiidae'' family, the widow spiders construct a cobweb, i.e., an irregular tangle of sticky silken fibers. The black widow spider very frequently hangs upside down near the center of its web and waits there for insects to blunder in and get stuck. Then, before the insect can extricate itself, the spider rushes over to bite it and swathe it in a silken shroud. If the spider feels threatened it will normally let itself down to the ground on a safety line of silk just as fast as it can. As with other web-weavers, these spiders have very poor eyesight and depend mostly on vibrations reaching them through their webs to orient themselves to prey or warn them of larger animals that could injure or kill them. They are not aggressive, and most injuries to humans are due to defensive bites delivered when a spider gets unintentionally squeezed or pinched somehow. It is possible that some bites may result when a spider mistakes a finger thrust into its web for its normal prey, but ordinarily intrusion by any large creature will cause these spiders to flee. 
+
+==Species==
+[[Image:Latrodectus map.gif|thumb|400px|right|Range of ''Latrodectus'' species worldwide]] The silk of the Latrodectus genus is larger in diameter than the silk of other spiders, and, as with all spider silk, it is stronger than an equal-sized filament of steel. Because of these excellent characteristics it was in great demand to use in the construction of [[reticle]]s for rifle sights at least as late as World War I.
+
+The [[black widow spider]], ''Latrodectus mactans'', has a prominent red hourglass figure on the underside of its abdomen. Many of the other widow spiders have red patterns on a glossy black or dark background, which serve as a warning.   Spiders which are found in multiple geographies are listed in their predominant native habitat.
+
+=== North American widow spiders ===
+[[Image:Blackwidow eggsac silk.jpg|thumb|120px|left|''Latrodectus hesperus'' with egg sac]]
+The following widow spiders are indigenous to [[North America]]: <br /><br />
+
+*''[[Latrodectus bishopi]]'',  the red widow, [[Florida]], USA
+*''[[Latrodectus hesperus]]'',  the Western [[black widow spider|black widow]], western [[Canada]], [[United States]], and [[Mexico]].  Also found in [[Israel]].
+*''[[Latrodectus mactans]]'', the [[black widow spider]] (sometimes called the Southern black widow), warm regions of the USA.
+*''[[Latrodectus variolus]]'',  the Northern [[black widow spider|black widow]], from the extreme southeastern part of Canada and south to northern Florida, with frequency higher in the northern part of this range. 
+
+=== Widows of Central and South America ===
+
+The following are indigenous to central and south America.
+
+*''[[Latrodectus antheratus]]'', [[Paraguay]], [[Argentina]]
+*''[[Latrodectus apicalis]]'', [[Galapagos Islands]]
+*''[[Latrodectus corallinus]]'',  [[Argentina]]
+*''[[Latrodectus curacaviensis]]'',  [[Lesser Antilles]], [[South America]]
+*''[[Latrodectus diaguita]]'',  [[Argentina]]
+*''[[Latrodectus mirabilis]]'',  [[Argentina]]
+*''[[Latrodectus quartus]]'',  [[Argentina]]
+*''[[Latrodectus variegatus]]'', [[Chile]] and [[Argentina]]
+
+=== Widows of Europe, North Africa, the Middle East, and western Asia ===
+[[Image:Latrodectus tredecimguttatus female.jpg|200px|thumb|''L. tredecimguttatus'' female]]
+The following widows indigenous to the Mediterranean region, as well as in western Asia.  
+
+*''[[Latrodectus dahli]]'',  Middle East to central Asia.
+*''[[Latrodectus hystrix]]'', [[Yemen]], [[Socotra]]
+*''[[Latrodectus lilianae]]'',  [[Iberian Peninsula]]
+*''[[Latrodectus pallidus]]'', the ''white widow'' or ''white steppe spider'', North [[Africa]], the [[Middle East]], [[Russia]], [[Iran]], [[Cape Verde]].
+*''[[Latrodectus revivensis]]'', [[Israel]].
+*''[[Latrodectus tredecimguttatus]]'',  the Mediterranean Black Widow (or European Black Widow), Mediterranean area, central [[Asia]], [[Kazakhstan]].  Also reported in [[China]].  Some specimens are reported as ''L. lugubris''.
+
+=== Widows of sub-Saharan Africa and Madagascar ===
+
+*''[[Latrodectus cinctus]]'', one of the [[black button spider]]s, southern [[Africa]].  Also found in [[Cape Verde]] and [[Kuwait]].
+*''[[Latrodectus indistinctus]]'', one of the [[black button spider]]s,  [[South Africa]] and [[Namibia]]
+*''[[Latrodectus karooensis]]'', another of the [[black button spider]]s, S. Africa
+*''[[Latrodectus menavodi]]'', [[Madagascar]]
+*''[[Latrodectus obscurior]]'', [[Cape Verde]], [[Madagascar]]
+*''[[Latrodectus renivulvatus]]'', one of the [[black button spider]]s, Africa.  Also in [[Saudi Arabia]] and [[Yemen]].
+*''[[Latrodectus rhodesiensis]]'', one of the [[brown button spider]]s, [[Zimbabwe]].
+
+=== Widows of South, East, and Southeast Asia ===
+
+*''[[Latrodectus elegans]]'', [[China]], [[Myanmar]], [[Japan]]
+*''[[Latrodectus erythromelas]]'', [[Sri Lanka]]
+
+=== Widows of Australia and Oceania ===
+
+*''[[Latrodectus atritus]]'', the [[black katipo]], found in [[New Zealand]]
+*''[[Latrodectus hasselti]]'',  the [[red-back spider]], native to [[Australia]].  Also found in [[Southeast Asia]] and [[New Zealand]], imported into both regions.
+*''[[Latrodectus katipo]]'', the [[katipo|red katipo]], found in [[New Zealand]]
+
+=== Widows found worldwide ===
+
+*''[[Latrodectus geometricus]]'',  the [[brown widow spider|brown widow]], grey widow, or [[brown button spider]], Africa, USA, S. America, Australia.  It is unclear where this spider originated; however it has been discovered in many warm, [[cosmopolitan distribution|cosmopolitan]] locales.
+
+==References==
+*Discovery Books; 2000; Insects and Spiders; St. Remy Media Inc.; New York; 35
+*Freeman, Scott; 2003; Biological Science; Prentice-Hall
+*Hillyard, Paul; 1994; the Book of Spiders; Random House, Inc.; New York; 47-50
+*Hillyard, Paul; 1994b; The Book of the Spider; Avon Books; New York; 22-25
+*Martin, Louise; 1988; Black Widow Spiders; Rourke Enterprises, Inc.; 18-20
+*Preston-Malfham, Ken; 1998; Spiders; Chartwell Books; Edison; New Jersey; 40. 
+*"Arthropod," Microsoft® Encarta® Online Encyclopedia 2004
+* Abalos, J.W. (1962). The Egg-sac in the Identification of Species of ''Latrodectus'' (Black-Widow Spiders). ''[[Psyche (entomological journal)|Psyche]]'' 69:268-270. [http://psyche2.entclub.org/articles/69/69-268.pdf PDF]
+* Levi, H.W. & McCrone, J.D. (1964). North American Widow Spiders of the ''Latrodectus curacaviensis'' Group (Araneae, Theridiidae. ''[[Psyche (entomological journal)|Psyche]]'' 71:12-27).[http://psyche2.entclub.org/articles/71/71-012.pdf PDF]
+
+==External links==
+{{commons|Latrodectus}}
+*[http://www.cirrusimage.com/spider_black_widow.htm Black Widow Spider: Large format photographs and information]
+
+[[Category:Latrodectus|*]]
+
+[[de:Latrodectus]]
+[[fr:Latrodectus]]

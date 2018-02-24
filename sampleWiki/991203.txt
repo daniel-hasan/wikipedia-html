@@ -1,0 +1,105 @@
+{{Drugbox|
+|IUPAC_name = sodium [4-amino-1-hydroxy-1-(hydroxy-oxido-phosphoryl)- butyl]phosphonic acid trihydrate
+| image=Alendronate.png
+| CAS_number=121268-17-5
+| ATC_prefix=M05
+| ATC_suffix=BA04
+| ATC_supplemental=
+| PubChem=2088
+| DrugBank=APRD00561
+| chemical_formula = 
+| C=4 | H=18 | N=1 | Na=1 | O=10 | P=2
+| molecular_weight = 325.124
+| bioavailability= 0.6%
+| metabolism = excreted unchanged
+| elimination_half-life= 126 months
+| excretion = renal
+| pregnancy_category = C
+| legal_status = POM (UK)
+| routes_of_administration= oral tablets
+}}
+'''Alendronate''' ('''Fosamax''', [[Merck & Co.|Merck]]) is a [[bisphosphonate]] [[medication|drug]] used for [[osteoporosis]] and several other bone diseases. It is marketed alone as well as in combination with [[vitamin D]] (2,800 U and 5600 U, under the name '''Fosamax+D''').  Merck's [[United States|U.S.]] patent on alendronate is set to expire in 2008 and Merck has lost a series of appeals to block a generic version of the drug from being certified by the U.S. [[Food and Drug Administration]].
+
+==Pharmacokinetics==
+As with all potent bisphosphonates, the systemic bioavailability after oral dosing is low, averaging only 0.6 - 0.7 % in women and in men under fasting conditions. Intake together with meals and beverages other than water further reduces the bioavailability. The absorbed drug rapidly partitions, with approximately 50% binding to the exposed bone surface; the remainder is excreted unchanged by the kidneys. Unlike most drugs, the strong negative charge on the two phosphate moieties limits oral bioavailability, and in turn, the exposure to tissues other than bone is very low. After absorption in the bone, alendronate has an estimated terminal half-life of 10 years.{{Fact|date=April 2007}}
+
+==Pharmacology==
+Alendronate inhibits osteoclast-mediated bone-resorption.  Like all bisphosphonates it is chemically related to inorganic pyrophosphate, the endogenous regulator of bone turnover.  Whereas pyrophosphate and the first bisphosphonate, etidronate, are capable of inhibiting both osteoclastic bone resorption as well as the mineralization of the bone newly formed by osteoblasts, alendronate and the other potent ''[[nitrogen|N]]''-containing bisphosphonates such as risedronate and [[ibandronate]] and [[zoledronate]] specifically inhibit bone resorption without any effect on mineralization at pharmacalogically achievable doses.  Its inhibition of bone-resorption is dose-dependent and approximately 1,000 times stronger than the equimolar effect of etidronate.   Under therapy normal bone tissue develops, and alendronate is deposited in the bone-matrix in pharmacologically inactive form. For optimal action enough calcium and vitamin D are needed in the body in order to promote normal bone development. [[Hypocalcemia]] should therefore be corrected before starting therapy.
+
+==Clinical Data==
+Treatment of post-menopausal women with Fosamax has demonstrated normalization of the rate of bone turnover, significant increase in BMD (bone mineral density) of the spine, hip, wrist and total body, and significant reductions in the risk of vertebral (spine) fractures, wrist fractures, hip fractures, and all non-vertebral fractures.  In the women with the highest risk of fracture (by virtue of pre-existing vertebral fractures) in the Fracture Intervention Trial, treatment with Fosamax 5 mg/day for two years followed by 10 mg/day for the third year (plus calcium and vitamin D) resulted in approximately 50% reductions in fractures of the spine, hip and wrist compared to the control group taking placebos plus calcium and vitamin D.
+
+==Uses==
+* Prophylaxis and treatment of female [[osteoporosis]]
+* Treatment of male osteoporosis
+* Prevention and treatment of corticosteroid-associated osteoporosis together with supplements of calcium and vitamin D
+* [[Paget's disease]]
+
+==Contraindications and precautions==
+* Acute inflammations of the gastrointestinal tract (esophagitis, gastritis, ulcerations)
+* Clinically manifest [[osteomalacia]]
+* Certain malformations and malfunctions of the esophagus (strictures, achalasia)
+* Inability to stand, walk, or sit for 30 minutes after oral administration
+* Renal impairment with a creatinine clearance below 30ml/min
+* Hypersensitivity to alendronate or another ingredient
+* Hypocalcemia
+* Pregnancy and breastfeeding
+* Patients below 18 yrs. of age, because no clinical data exists
+
+==Side-effects==
+* GI tract: A severe side effect is an ulceration of the esophagus caused by alendronate, which may require hospitalization and intensive treatment. Gastric and duodenal ulceration.
+* General: infrequent cases of skin rash, rarely manifesting as [[Stevens-Johnson syndrome]] and [[toxic epidermal necrolysis]], eye problems ([[uveitis]], [[scleritis]]) and generalized muscle, joint, and bone pain (rarely severe) have been seen. In laboratory tests decreased calcium and phosphate values may be obtained but reflect action of the drug and are harmless.
+* Cases of [[osteonecrosis of the jaw]] have been reported in the medical literature, but relationship to alendronate is unknown. 
+* Osteonecrosis of the Jaw- Deterioration of the TM Joint can also  result while on this drug if dental work of any kind 'needs' to be done.  Although not common, this may result when patients of on the intravenous alendronate and most cases have been reported in cancer patients.
+* Rare instances of auditory hallucinations and visual disturbances have been associated with alendronate and other bisphosphonates.[http://www.medscape.com/viewarticle/481375_1]
+
+==Interactions==   
+* Milk, diet and drugs containing high amounts of calcium, magnesium or aluminium (antacids): the resorption of alendronate is decreased. At least half an hour should pass after intake of alendronate before taking the supplement or drug.
+* Highly active vitamin D analogues or fluorides: no data is available. Concomitant treatment should be avoided.
+* The additional beneficial effect of [[hormone replacement therapy|HRT]] (hormone replacement therapy) with [[estrogens]]/[[progestins]] or [[raloxifene]] in postmenopausal women remains to be elucidated, but no interactions have been seen. The combination is therefore possible.
+* Intravenous [[ranitidine]] increases the oral bioavailability of alendronate. No clinical consequences are known.
+* The combination of [[Non-steroidal anti-inflammatory drug|NSAID]]s and alendroate may increase the risk of gastric ulcers. Both these drugs have the potential to irritate the upper gastro-intestinal mucosa.
+
+==Dosage==
+* Prophylaxis of osteoporosis in women: 5-10mg daily or 35-70mg weekly.
+* Therapy of osteoporosis in women and men : 10mg daily or 70mg weekly.
+* Osteoporosis under corticosteroids: 5-10mg daily or 35-70 mg weekly in men and premenopausal women or those receiving concomitant HRT. In postmenopausal women not receiving HRT the recommended dose is 10mg daily or 70mg weekly.
+* Paget's Disease: 40mg daily for 6 months.
+The drug is to be taken only upon rising for the day with three swallows of water, not to exceed 6-8 oz. Stand, walk or sit and remain fasting for 30-45 minutes afterwards, then eat breakfast.  Lying down or reclining prior to eating breakfast may cause gastroesophageal reflux and esophageal irritation. At least 30 minutes should be waited before meals or other beverages than water are taken in.
+
+==Dosage forms==
+* Fosamax® solution 70mg/75ml
+* Fosamax® tablets 5mg, 10mg, 35mg, 40mg, and 70mg
+
+
+==Litigation==
+By 2000 the FDA had received 139 spontaneous reports through the MedWatch system of [[osteonecrosis of the jaw]] (ONJ) in cancer patients treated with intravenous (IV) bisphopshonates, either IV pamidronate (Aredia) or IV zolendronate (Zometa).  Spontaneous reports cannot prove causality, as patients with cancer (and some without cancer) develop spontaneous ONJ, and hundreds of thousands of cancer patients had been treated with these IV bisphosphonates.  Despite the fact that many millions of patients had been treated with oral bisphosphonates such as Fosamax and Actonel, not one of the 139 MedWatch reports involved a patient treated only with an oral bisphosphonate.  In order to dtermine if the IV bisphosphonates were causally related to ONJ, the FDA asked Novartis, the manufacturer of both drugs, to screen their completed Phase 3 program databases with a collection of MEDdra terms designed to catch all possible cases of ONJ (most of the terms were not specific for ONJ, but coded for "jaw pain", "jaw infection", etc.).  Novartis returned to the ODAC (Oncology Drugs Advisory Committee) meeting in 2004, and presented data demonstrating a number of "hits" to any of these terms as well as 6 cases of actual ONJ; all 6 of the ONJ cases occurred in patients treated with pamidronate (Aredia) or zolendronate (Zometa) vs no cases in the placebo group.  This proves causality, and FDA required both drugs to include a warning in their label that use of the drugs increases the risk of ONJ.
+
+At the 2004 ODAC meeting the number of spontaneous reports had increased since 2000, and although almost all of the reports remained in cancer patients treated with one of the IV bisphosphonates 13 of the reports were in patients taking oral alendronate or risedronate, most of which were reported on [[September 24]], [[2004]] in the Journal of Oral and Maxillofacial Surgury.  Although this small number of reports (several of which do not appear to represent true ONJ) do not remotely indicate causality, given the millions of patients who have been treated with alendronate and risedronate, in order to be cautious the Food and Drug Administration ([[FDA]]) asked the manufacturer of the oral bisphosphonates (Merck for Fosamax, Procter & Gamble and Aventis for Actonel, and Roche and GSK for Boniva) to issue a warning to health care professionals of the potential that alendronate, risedronate and ibandronate and their brand name equivalents, Fosamax, Actonel and Boniva might increase the risk of ONJ. When the alendronate Fracture Intervention Trial database (containing almost 25,000 patient-years, larger than the pamidronate and zolendronate databases) was screeened with the same MEDdra terms, not a single case of ONJ was identified.  A total of only 10 patients had a "hit" to any of the terms (none of which were ONJ), of whom 4 were in the Fosamax group and six were in the placebo group.  Three of the 10 patients had adverse events that involved the jaw, none of which were ONJ, and all three patients were in the placebo group. 
+
+Despite the fact that no data links the oral bisphosphonates (which are used at much lower doses than the IV bisphosphonates) causally to ONJ, product liability attorneys immediately filed suit maintaining this condition is far more widespread than initially indicated, and maintaining that their claimants' ONJ is a direct result of the use of alendronate. Merck has stated the "underlying cause" of osteonecrosis of the jaw is "uncertain", though it might be triggered by a [[traumatic event (physical)|traumatic event]] like tooth extraction or oral surgery. As of [[May 13]], [[2007]], hundreds of cases had been filed against Merck alleging Fosamax-induced ONJ.  Most of the cases are consolidated for pretrial purposes in the United States District Court for the Southern District of New York (MDL 1789).  The first case is set to be tried in late 2008 before the Honorable John F. Keenan, District Judge for the Southern District of New York.
+
+==Bis-phossy Jaw==
+The term given by scientists to the link between bisphosphonates and jaw necrosis is 'bis-phossy jaw.'  This is derived from the 19th-century term [[phossy jaw]], given its name after workers in match factories working with white phosphorus developed osteonecrosis of the jaw.  
+
+==External links==
+* [http://www.fosamax-information.com Fosamax Information, Side Effects, ONJ etc...]
+* [http://www.fosamax.com Fosamax information from Merck]
+* [http://rxlist.com/cgi/generic/alendron.htm RxList page]
+* [http://www.nlm.nih.gov/medlineplus/druginfo/medmaster/a601011.html MedlinePlus listing]
+* [http://gotbones.healthdiaries.com/fosamax-side-effects.html Fosamax Side Effects]
+* [http://www.medscape.com/viewarticle/481375_1 Pharmacotherapy 24(6):799-802, 2004]
+* [http://www.accessdata.fda.gov/scripts/cder/drugsatfda/index.cfm?fuseaction=Search.Overview&DrugName=FOSAMAX Fosamax Overview @ FDA ]
+
+{{Merck&Co}}
+{{Bisphosphonates}}
+
+[[Category:Bisphosphonates]]
+[[Category:Merck]]
+
+[[de:Alendronsäure]]
+[[he:אלנדרונט]]
+[[hu:Alendronsav]]
+[[pt:Alendronato sódico]]
+[[sv:Fosamax]]
+[[zh:阿仑膦酸钠]]

@@ -1,0 +1,40 @@
+{{Infobox Station
+ | name=Clifton Forge
+ | image=
+ | image_size=
+ | image_caption=
+ | address=400 Ridgeway Street<br>Clifton Forge, VA
+ | line={{rail color box|system=Amtrak|line=Cardinal}}
+ | other=
+ | platform=
+ | parking=
+ | bicycle=
+ | passengers=3,498
+ | pass_year=2006
+ | pass_percent=-4
+ | opened=
+ | rebuilt=
+ | ADA=
+ | code=CLF
+ | owned=
+ | zone=
+ | service=
+}}
+The '''Clifton Forge (Amtrak station)''' is located at 400 Ridgeway Street in [[Clifton Forge, Virginia]].
+
+== Routes ==
+* ''[[Cardinal (passenger train)|Cardinal]]''
+
+== External links ==
+{{Amtrak web|CLF|Clifton Forge, VA|VIRGINIA}}
+
+{{s-start}}
+{{s-rail|title=Amtrak}}
+{{s-line|system=Amtrak|line=Cardinal|previous=White Sulphur Springs|next=Staunton}}
+{{end}}
+
+
+[[Category:Alleghany County, Virginia]]
+[[Category:Amtrak stations in Virginia]]
+
+{{Virginia-railstation-stub}}

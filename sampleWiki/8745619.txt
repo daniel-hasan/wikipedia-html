@@ -1,0 +1,43 @@
+{{Infobox Military Conflict
+|conflict=2001 Battle of Vedeno
+|image=
+|caption=
+|partof=[[Second Chechen War]]
+|place=In and near [[Vedeno]], [[Chechnya]]
+|date=August 2001
+|result=Unknown
+|combatant1=[[Image:Flag of Russia.svg|22px]] [[Russia]]
+|combatant2=[[Image:Flag of Chechen Republic of Ichkeria.svg|22px]] [[Chechen Republic of Ichkeria|Ichkeria]]
+|commander1=N/A
+|commander2=[[Shamil Basayev]]
+|strength1=
+|strength2=
+|casualties1=
+|casualties2=
+|campaign=
+}}{{Campaignbox Second Chechen War (guerilla phase)}}
+
+The '''2001 battle for Vedeno''' was a struggle between [[Russian Federation|Russian federal]] and [[Chechen Republic of Ichkeria|Chechen separatist]] forces for the control of [[Vedensky District]] in the [[Chechnya]]'s mountains. The details of the battle are unknown due to the scarce independent sources.
+
+The battle started on [[August 13]] [[2001]] as the rebels seized the village of [[Benoi-Yurt]] in south-east Chechnya, attacked the local military commandant's office, and placed [[checkpoint]]s on a strategic road that leads further south to the town of Vedeno. Pro-[[Moscow]] administrators were reported killed. 
+
+On [[August 14]] fierce fighting, described as heaviest attack of the Chechen fighters in the past seventeen months, which had been going on in southern Chechnya in and near the town of Vedeno, continued. Russian sources denied the reports by independent agencies claiming that the situation is under their control, however, reinforcement troops have been sent to the area. [[Russian president]]ial spokesman, [[Sergei Yastrzhembsky]] called the latest developments "an imitation of activity by the gangs."  
+
+On [[August 15]] the Russian army fired [[SCUD]] missiles at Vedeno district. Rebels hit a military [[helicopter]] with a [[grenade launcher]] near [[Tsa Vedeno]], crashing it and killing both pilots.<ref>[http://english.people.com.cn/english/200108/17/eng20010817_77524.html Russian Military Helicopter Crash in Chechnya Kills 2 Pilots]</ref>
+
+On [[August 17]] Chechen fighters shot down a third helicopter in five days in the southern part of Chechnya, said former minister of information [[Movladi Udugov]]. The information was partly denied by Russian officials who only admitted to two helicopters having been shot down.
+
+On [[August 22]] Russia said the army had wounded [[Shamil Basayev]], the country’s most wanted man and killed more than 35 other rebels in Chechnya, while a separatist website insisted more than 40 Russians had died in fierce fighting, including 14 in a two separate ambushes.<ref>[http://www.tribuneindia.com/2001/20010823/world.htm#6 Top Chechen rebel hurt, 35 dead]</ref>
+
+Over the weekend of [[August 25]]-[[August 26|26]], the rebels reportedly managed to seize control of the town of Vedeno. At the same time, Russian media, citing military sources, have been reporting an upsurge in the number of attacks on federal forces in Chechnya's northern districts, which were previously regarded as having been pacified.
+
+{{battle-stub}}
+
+==References==
+{{reflist|2}}
+
+*[http://www.watchdog.cz/index.php?show=000000-000005-000001-000182-000001-000008&lang=1 Prague Watchdog monthly news]
+*[http://www.jamestown.org/publications_details.php?volume_id=24&issue_id=2087&article_id=18666 REBEL FORCES CLAIM THEY SEIZED VEDENO] [[Jamestown Foundation]]
+
+[[Category:2001 in Russia|Vedeno]]
+[[Category:Battles of the Second Chechen War|Vedeno]]

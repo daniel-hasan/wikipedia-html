@@ -1,0 +1,87 @@
+{{Mlbretired
+|bgcolor1=#003581
+|bgcolor2=#ff5731
+|textcolor1=white
+|textcolor2=white
+|name=Stan Jefferson
+|image=
+|position=[[Outfielder|Outfield]]
+|bats=Both
+|throws=Right
+|birthdate={{birth date and age|1962|12|4}}
+|debutdate=[[September 7]]
+|debutyear=[[1986]]
+|debutteam=[[New York Mets]]
+|finaldate=[[October 1]]
+|finalyear=[[1991]]
+|finalteam=[[Cincinnati Reds]]
+|stat1label=[[Games played]]
+|stat1value=296 
+|stat2label=[[Batting average]]
+|stat2value=.216  
+|stat3label=[[Home runs]]
+|stat3value=16|teams=<nowiki></nowiki><!--This forces MediaWiki to recognize the first bullet. Kind of a workaround to a bug.-->
+*[[New York Mets]] ([[1986 in baseball|1986]])
+*[[San Diego Padres]] ([[1987 in baseball|1987]] - [[1988 in baseball|1988]])
+*[[New York Yankees]] ([[1989 in baseball|1989]])
+*[[Baltimore Orioles]] ([[1989 in baseball|1989]] - [[1990 in baseball|1990]])
+*[[Cleveland Indians]] ([[1990 in baseball|1990]] - [[1991 in baseball|1991]])
+*[[Cincinnati Reds]] ([[1991 in baseball|1991]])   
+||highlights=<nowiki></nowiki>
+*'''June 6, 1983:''' Drafted by the New York Mets in the 1st round (20th pick) of the 1983 amateur draft.
+*'''December 11, 1986:''' Traded by the New York Mets with Kevin Armstrong (minors), Kevin Brown (minors), Shawn Abner, and Kevin Mitchell to the San Diego Padres for Kevin McReynolds, Gene Walter, and Adam Ging (minors). 
+*'''October 24, 1988:''' Traded by the San Diego Padres with Jimmy Jones and Lance McCullers to the New York Yankees for Jack Clark and Pat Clements. 
+*'''July 20, 1989:''' Traded by the New York Yankees to the Baltimore Orioles for John Habyan. 
+*'''May 7, 1990:''' Selected off waivers by the Cleveland Indians from the Baltimore Orioles. 
+*'''July 5, 1991:''' Released by the Cleveland Indians.
+*'''July 18, 1991:''' Signed as a Free Agent with the Cincinnati Reds.
+*'''October 15, 1991:''' Granted Free Agency. 
+}}
+ 
+'''Stanley "Stan" Jefferson''' (born on [[December 4]],[[1962]] in [[New York, New York]]) is a former [[Major League Baseball]] player who played for the [[New York Mets]], the [[San Diego Padres]], the [[New York Yankees]], the [[Baltimore Orioles]], the [[Cleveland Indians]], and the [[Cincinnati Reds]] from [[1986]] to [[1991]]. <ref name=BaseballLibrary> [http://www.baseballlibrary.com/baseballlibrary/ballplayers/J/Jefferson_Stan.stm Stan Jefferson - BaseballLibrary.com] </ref> 
+
+==Childhood and education==
+Jefferson, who grew up in [[Co-op City, Bronx|Co-Op City]] in [[the Bronx]] and played many years in the [[Little League Baseball|Co-Op City Little League]], graduated from [[Harry S. Truman High School (New York City)|Harry S. Truman High School]] in 1980, and attended [[Bethune-Cookman College]] in [[Daytona Beach, Florida]] from 1981 to 1983. He later obtained his [[Bachelor's degree]] at [[Mercy College (New York)|Mercy College]] in [[Dobbs Ferry, New York]]. <ref name=DailyNews>Coffey, Wayne. [http://www.nydailynews.com/sports/2007/03/05/2007-03-05_forgotten_hero.html Former Met Stanley Jefferson struggles to cope with horror of life as 9/11 cop"], ''[[New York Daily News]]'', [[March 9]], [[2007]]. Accessed [[June 18]], [[2007]].</ref> 
+
+==Baseball career==
+He was selected by the New York Mets organization in first round (20th pick overall) of the [[Major League Baseball Draft|free agent draft]] on [[June 6]], [[1983]]. <ref>[http://www.ultimatemets.com/profile.php?PlayerCode=0384 Stan Jefferson - Ultimate Met Database]</ref>
+
+After toiling in the [[Minor League Baseball|minors]] for three years, Jefferson played in 14 games for the Mets during the last month of the [[1986 in baseball|1986 season]] before he was sent to the San Diego Padres in the nine-player [[Kevin McReynolds]]-[[Kevin Mitchell (baseball player)|Kevin Mitchell]] deal at the end of the year. Though he became a regular in the Padres outfield in 1987, he clashed with manager [[Larry Bowa]] in May and spent much of the first half on the [[disabled list]]. Jefferson stole 33 bases but batted just .230 that year, severely hindering his shot at remaining San Diego's full-time outfielder. 
+
+In 1988 Jefferson performed horribly, batting .144 over 111 at-bats. At the end of the season he was traded with [[Jimmy Jones (baseball player)|Jimmy Jones]] and [[Lance McCullers]] to the New York Yankees for [[Jack Clark (baseball player)|Jack Clark]] and [[Pat Clements]]. He logged just 12 at-bats with the Yankees before being shipped to the Baltimore Orioles for [[John Habyan]] in July 1989. For the next year and a half, he played intermittently for the Baltimore Orioles, the Cleveland Indians, and the Cincinnati Reds. After just 19 games with the Reds in 1991, Jefferson was released for good. 
+
+Jefferson later became a coach for the [[Pioneer League]] [[Butte Copper Kings]]. When the player's strike threatened the [[1995 in baseball|1995 season]], Jefferson became a much-maligned [[1994 Major League Baseball strike#Replacement players|replacement player]] for his original team, sharing the outfield with fellow ex-Met [[Herm Winningham]]. <ref name=BaseballLibrary> [http://www.baseballlibrary.com/baseballlibrary/ballplayers/J/Jefferson_Stan.stm Stan Jefferson - BaseballLibrary.com]</ref>
+
+==NYPD career==
+In 1997, with his baseball career over, Jefferson joined the [[New York City Police Department]]. He was on duty during the [[September 11, 2001 terrorist attacks]], and worked at [[Ground zero#World Trade Center|Ground Zero]] after the collapse of the [[World Trade Center]]. He suffered health problems as a result of his time at Ground Zero, and retired from the NYPD in 2004. <ref name=DailyNews>Coffey, Wayne. [http://www.nydailynews.com/sports/2007/03/05/2007-03-05_forgotten_hero.html Former Met Stanley Jefferson struggles to cope with horror of life as 9/11 cop"], ''[[New York Daily News]]'', [[March 9]], [[2007]]. Accessed [[June 18]], [[2007]].</ref>
+
+==Stanley Jefferson today==
+Jefferson currently lives in Co-Op City with his wife Christie. He has grown two daughters who live in [[Virginia]]. <ref name=DailyNews>Coffey, Wayne. [http://www.nydailynews.com/sports/2007/03/05/2007-03-05_forgotten_hero.html Former Met Stanley Jefferson struggles to cope with horror of life as 9/11 cop"], ''[[New York Daily News]]'', [[March 9]], [[2007]]. Accessed [[June 18]], [[2007]].</ref> 
+
+==References==
+{{Reflist}}
+
+==External links==
+* {{baseball-reference|id=j/jeffest01}}
+*[http://www.thebaseballcube.com/players/j/stan-jefferson.shtml Stan Jefferson at ''The Baseball Cube'']
+*[http://www.fangraphs.com/graphs.aspx?playerid=1006382&position=OF&page=0&type=full Stan Jefferson at ''Fangraphs''] 
+*[http://www.baseball-almanac.com/players/player.php?p=jeffest01 Stan Jefferson at ''Baseball Almanac'']
+
+{{DEFAULTSORT:Jefferson, Stanley}}
+[[Category:1962 births]]
+[[Category:Living people]]
+[[Category:People from the Bronx]]
+[[Category:New York Mets players]]
+[[Category:San Diego Padres players]]
+[[Category:New York Yankees players]]
+[[Category:Baltimore Orioles players]]
+[[Category:Cleveland Indians players]]
+[[Category:Cincinnati Reds players]]
+[[Category:Baseball players]]
+[[Category:American baseball players]]
+[[Category:Major league outfielders]]
+[[Category:Major league players from New York]]
+[[Category:New York Mets first round draft picks]]
+[[Category:Major league baseball replacement players]]
+[[Category:African American sportspeople]]
+[[Category:Nashville Sounds players]]

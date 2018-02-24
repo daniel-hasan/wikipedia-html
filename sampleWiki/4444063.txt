@@ -1,0 +1,118 @@
+{{Refimprove|date=September 2007}}
+
+{{Infobox VG
+| title = Two Worlds
+| image = [[Image:Two Worlds.jpg|256px]]
+| caption = Two Worlds Xbox 360 Cover
+| developer = [[Reality Pump]]
+| publisher = [[SouthPeak Interactive]]
+| designer =
+| engine =
+| released = '''[[Personal Computer|PC]]'''<br />{{flagicon|Germany}}[[May 9]], [[2007]]<ref name="twoworlds">{{cite web|url=http://www.2-worlds.com/|title=Official Two Worlds website|accessdate=2007-07-07}}</ref><br />
+'''[[Personal Computer|PC]]''' & '''[[Xbox 360]]'''
+<br />{{flagicon|USA}}[[August 24]], [[2007]]<ref name="preorder">[http://www.2-worlds.com/ Official Two Worlds website] (Official News Article)</ref>
+<br />{{flagicon|CAN}} [[August 27]], [[2007]]
+<br />{{flagicon|EU}} [[August 29]], [[2007]]<ref name="preorder"/>
+<br />{{flagicon|AUS}} [[September 7]], [[2007]]
+<br />{{flagicon|UK}} [[September 7]], [[2007]] 
+| genre = [[Computer role-playing game|RPG]]
+| modes = [[Single player]] - [[Offline]]<br />[[Multiplayer]] - [[Online]] (8 Maximum)<ref name="southpeakpage">{{cite web|url=http://www.southpeakgames.com/TwoWorlds/TwoWorlds.html|title=Publisher's information page|accessdate=2007-07-07}}</ref>
+| ratings = [[Entertainment Software Ratings Board|ESRB]]: Mature (17+)
+| platforms = [[Xbox 360]], PC ([[Microsoft Windows|Windows]])
+| media = [[DVD-DL]]
+| requirements = 2.0&nbsp;GHz [[Central processing unit|processor]]; 512 MB [[Random Access Memory|RAM]]; Graphics card with Shader 2.0 or higher; [[Physx|PhysX]] physics accelerator
+| input =
+| version = 1.6<ref>{{cite web|url=http://www.2-worlds.com/_load_txt.php?act=new&a=show&p=119&l=en|title=Update Announcement|accessdate=2007-07-07}}</ref>
+}}
+
+'''''Two Worlds''''' is a [[computer role-playing game]] developed by [[Reality Pump]] and published by [[SouthPeak Interactive]] for the [[Xbox 360]] and [[Personal computer|PC]].
+
+==Gameplay ==
+
+[[Image:TwoWorlds_outpost_%28PC_1.3%29.jpg|thumb|left|Game screenshot (PC version)]]
+
+''Two Worlds'' gameplay takes place in a real-time three-dimensional fantasy landscape. As such it has drawn comparison with ''[[The Elder Scrolls IV: Oblivion]]''<ref>http://www.gamespot.com/pc/rpg/twoworlds/review.html?sid=6178016,</ref>, although in actual gameplay and design it is similar to ''[[Gothic 3]]''{{Fact|date=December 2007}}. 
+
+Much like in Oblivion and Gothic 3, the gameplay is non-linear. The player is free to explore the game world, accepting side quests at will, and in no particular order. There is however, a core quest, centering around rescuing the protagonist's sister, who is being held for ransom by mysterious forces who are scheming to open the tomb of Aziraal (the god of the orcs).
+
+The game does not utilize the fixed character classes, familiar from traditional role playing games, such as a Warrior, Magician, or Thief. As the character gains experiences and levels, it is possible to invest these gained Attribute Points into any attribute leading to a variety of game play styles and approaches. Also, by achieving certain objectives, the player will gain a number of Skill Points which can be used to further personalize his/her character. 
+
+The "world" you travel through is called Antaloor.  While traveling through the game the player will encounter new teleports, caves, villages, and other locations, and these travels are recorded by the in-game mini-map.  Teleports allow rapid travel between explored regions. Horses are available for the player to ride as well as other animals/creatures; though a number of commentators have lamented the clumsy controls when mounted, and many players choose to avoid this option.   
+
+Death in the game leads to resurrection at a nearby shrine; these shrines are distributed across the game world, and also replenish health when the player comes in sufficient proximity. 
+
+There is an abundance of different animals (especially wild animals) in ''Two Worlds''.  Among others, the player will encounter [[wolves]], [[bears]], [[rabbits]], small [[dinosaur]]-like animals, [[ghosts]], and massive [[dragons]]. In both the single-player and multi-player game modes enemies will not respawn, although most areas are densely populated.<ref>{{cite web | url=http://xbox360.ign.com/articles/783/783189p1.html | title=IGN: Two Worlds Preview | publisher=[[IGN]] | date=2007-04-24}}</ref>  
+
+In the PC version, character movement uses [[WASD]], while camera/crosshair movement is done with the mouse.  The basic attack (to hit with a melee weapon or to draw an arrow with a bow) is done with left-click while right-click is used for spells and abilities.  A hotbar in the bottom left-hand corner decides which skill or ability is attributed to right-click and can be cycled through using the X key.
+
+Beyond the main quest there is no set storyline to follow, the player is free to choose to complete the quests of his liking, and explore at will.  The player may choose to act as a righteous hero and be honoured amongst the population, or devilishly evil and feared, through reputation gained by completing certain quests.  However, the path chosen will have consequences on the outcome of the game.
+
+
+=== Alchemy ===
+Two Worlds has an Alchemy system that allows the player to combine ingredients to make potions, weapon enhancements, traps, and bombs.  Spending Skill Points on the Alchemy Skill, or sometimes simply using more ingredients, will result in improved potion results such as power or duration of effects. Ingredients can be found as plants in the wild, the body parts of animals and monsters that have been slain, and minerals and gems taken as loot or collected off the ground. Some potions can have permanent effects such as a boost to strength or health. Also, the more complex the potion is, the more money the player could make if he/she wished to sell them.
+
+=== Factions ===
+There are seven factions within the game for which the player can complete quests to gain reputation.<ref name=igninterview>{{cite web | url=http://xbox360.ign.com/articles/786/786610p1.html | title=IGN: Building Two Worlds | last=Goldstein | First=Hilary | publisher=[[IGN]] | date=2007-05-09}}</ref>  These are the Brotherhood, the Society, the Merchants Guild, the Giriza, the Necromancers, the House Skelden, and the Karga Clan.
+
+The Brotherhood is a mercenary society, similar to Oblivion's Fighters' Guild.  In the main cities of the game their location can be identified by their signature red banners. Brotherhood locations in cities will usually have a trainer that offers to teach the various combat skills for a small fee, and Brotherhood shops will have the largest selections of weapons and armor.  
+
+The Society is Two Worlds' answer to the Guild of Mages seen in most RPG's.  In the main cities their location can be identified by blue banners.  The Society locations will usually have a trainer that offers to teach the various schools of magic for a small fee.  Society shops will have robes, staves, and spells for sale.
+
+The Merchants Guild is a guild of traders and merchants.  In the main cities their location can be identified by banners emblazoned with scales.  The Merchant Guild shops offer a general assortment of goods.
+
+The Giriza is the equivalent of the Thieves' Guild. The members wear distinctive red hoods and the Giriza shops are a good source for lock picks and other thievery-related goods.  Giriza trainers offer knowledge in the stealthy arts.
+
+The Necromancers are the only source that will teach the ability to use the Necromancy School of Magic, but are generally shunned by polite society.  The Society makes a point of stopping Necromancers from completing their goals.
+
+The House Skelden and the Karga Clan are two competing factions in the northern reaches of the human half of the world.  The Karga Clan are the former ruling house that was supplanted by the King and Council with the House Skelden.  
+
+The player can choose to work with either faction to achieve specific goals in the main quest.  As is typical for the genre, players generally earn reputation with a faction by completing appropriate quests.
+
+===Regression===
+
+Should a player decide that they are unhappy with their ability and skill point distribution, there are NPCs in some of the larger cities that offer a "regression", which allows redistribution of some skill points for a certain price, depending on the character's level and amount of experience. This feature can allow the player to totally gain control over their outcome, and change their major class easily.
+
+==Add-Ons==
+
+<b>The Temptation:</b> <i>Reality Pump</i> has announced a new [[add-on]] entitled "Two Worlds: The Temptation" which will feature new content, and extended gameplay. They promise to patch up many of the [[plot holes]] left within the game following the events of Two Worlds.
+
+New features include: New [[territories]] and extended combat, such as the ability to block attacks. There will be new means of transportation (unknown as of yet) and improved reaction from NPCs.
+
+The planned release is Q1 of 2008.<ref>{{cite web | url=http://www.2-worlds.com/ | title= "Official 2 Worlds Website" | publisher=Official 2 Worlds Website | date=2007-12-17}}</ref>
+
+==Multiplayer==
+
+A multiplayer element is included, though it is not of the [[MMO]] type.  Activities include horse racing, combat and quests.  Single-player and multi-player characters are kept separate and not shared between modes.
+
+While the Xbox 360 version is limited to eight players, the PC version allows a significantly greater number.  However, they must be grouped into parties of no more than eight.
+
+== Reception ==
+In the US, reception to the PC version was mixed with an average critic score of 67% at [[Game Rankings]] (based on 16 reviews).  The Xbox 360 version received more negative reviews with a score of 49% (41 reviews).<ref>{{cite web | url=http://www.gamerankings.com/htmlpages2/932336.asp | title=Two Worlds at Game Rankings | publisher=[[Game Rankings]] | date=2007-09-15}}</ref> Gamespot gave Two Worlds a 7.5 for the PC version, and a 7 for the Xbox 360 version. IGN gave the PC version 7.3, and the Xbox 360 version 6.8.<ref>{{cite web | url=http://search.ign.com/products?query=two+worlds | title=IGN: Two Worlds on IGN | publisher=[[IGN]] | date=2007-09-14}}</ref> In Germany however, where Two Worlds was first released, reception was much more positive.<ref>{{cite web | url=http://www.2-worlds.com/ | title=Two Worlds | publisher=Two Worlds official website; click on Reviews at the right-hand side. | date=2007-09-14}}</ref> In OXM, Two Worlds was given a score of 6.0. Phrases in the review included "the framerate is woefully close to one frame per second" and "We don't know how this game passed Microsoft's certification process." They did praise its Oblivion-esque gameplay.
+
+== References ==
+{{reflist}}
+
+== External links ==
+'''Community Sites'''
+*[http://twoworldscraft.com/ TwoWorldsCraft.com - The Premiere North American Modification & Clan Community]
+'''Developers'''
+*[http://www.zuxxez.com/ ZUXXEZ Website]
+'''Game Previews'''
+*[http://previews.teamxbox.com/xbox-360/1300/Two-Worlds/p1/ Team Xbox Preview]
+*[http://www.gwn.com/previews/gamepreview.php/id/194/title/Two_Worlds.html GameWorld Network Preview]
+'''Game Reviews'''
+*[http://www.videogametalk.com/review.php?ID=692 Video Game Talk Xbox 360 Review]
+*[http://gamersguide.us/game-reviews/pc/two-worlds-review/ Gamer's Guide Two Worlds Review]
+'''Developer Interviews'''
+*[http://www.gamingtarget.com/article.php?artid=6186 Gaming Target Interview with Reality Pump]
+*[http://www.xboxexclusive.com/news.php?id=1774 XboxExclusive.com Interview with developer]
+
+[[Category:2007 video games]]
+[[Category:Xbox 360 games]]
+[[Category:Windows games]]
+[[Category:Role-playing video games]]
+
+[[de:Two Worlds]]
+[[es:Two Worlds]]
+[[fr:Two Worlds]]
+[[pl:Two Worlds]]

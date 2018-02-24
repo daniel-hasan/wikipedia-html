@@ -1,0 +1,152 @@
+{| class="wikitable"
+| bgcolor="#C0C0C0" width="17%"| '''Country'''
+| bgcolor="#C0C0C0"| '''Name'''
+| bgcolor="#C0C0C0"| '''Death'''
+|-
+|{{ALG}}
+|Saci Ben Hocine Mahdi<ref name="DDDAfr">[http://dersdesders.free.fr/tirailleurs.html Ders Des Ders Report (French)]</ref>
+|[[1998]]
+|-
+|{{AUS}}
+|[[John Campbell Ross]]<ref name="JCR">[http://abc.net.au/news/items/200703/1868936.htm?victoria John Ross' 108th birthday]</ref>
+|
+|-
+|{{AUT}}
+|August Bischof<ref name="DDDAus">[http://dersdesders.free.fr/autriche.html Ders Des Ders Report - Austria (French)]</ref>
+|[[4 March]] [[2006]] 
+|-
+|{{BAR}}
+|George Blackman<ref name="Blackman">[http://www.aftermathww1.com/georgeblackman.asp Last Caribbean veteran of first world war dies at 105]</ref>
+|[[March 2003]]
+|-
+|{{BEL}}
+|Cyrillus-Camillus Barbary<ref name="DDDBel">[http://dersdesders.free.fr/belgique.html Ders Des Ders Report - Belgium (French)]</ref>
+|[[16 September]] [[2004]] 
+|-
+|{{CAN}}
+|[[John Babcock]]<ref name="Babcock">[http://kxly.com/news/?sect_ranks=26&section_id.=560&story_id=10901 Spokane man last surviving Canadian World War I veteran]</ref>
+|
+|-
+|{{CSK}}
+|Alois Vocasek<ref name="DDDCze">[http://dersdesders.free.fr/tcheque.html Ders Des Ders Report - Czechoslovakia (French)]</ref>
+|[[9 August]] [[2003]]
+|-
+|{{ENG}}
+|[[Surviving veterans of World War I#Living in England - 3 veterans #Living in Australia - 2 veterans #Living in Canada - 1 veteran|6 remaining]]<ref name="Genarians">[http://www.genarians.com/WWI%20Veterans.html Surviving World War I Veterans]</ref>
+|
+|-
+|{{FRA}}
+|[[Surviving veterans of World War I#Living in France - 3 veterans|3 remaining]]<ref name="Genarians"/>
+|
+|-
+|{{GER}}
+|[[Erich Kästner (WWI veteran)|Erich Kästner]]<ref name="Genarians"/>
+|
+|-
+|{{GUY}}
+|Gershom Browne<ref name="Browne">[http://www.guyanachronicle.com/ARCHIVES/archive%20%2016-05-04.html Report that mentions Browne as the longest surviving Guyanese veteran]</ref>
+|[[6 December]] [[2000]]
+|-
+|{{HUN}}
+|[[Franz Künstler]]<ref name="Genarians"/>
+|
+|-
+|{{ITA}}
+|[[Surviving veterans of World War I#Living in Italy - 2 veterans #Living in France - 1 veteran|3 remaining]]<ref name="Genarians"/>
+|
+|-
+|{{JAM}}
+|Eugent Clark<ref name="Parades">[http://www.aftermathww1.com/noparades.asp There were no parades for us]</ref>
+|[[2002]]
+|-
+|{{NED}}
+|Bert van Sloten<ref name="Sloten">[http://www.guardian.co.uk/otherlives/story/0,,1574057,00.html Obituary for Bert van Sloten]</ref>
+|[[7 August]] [[2005]]
+|-
+|{{flag|Newfoundland}}
+|Wallace Pike<ref name="Pike">[http://www.cbc.ca/news/story/1999/04/19/nf_pike990419.html Obituary for Wallace Pike]</ref>
+|[[11 April]] [[1999]]
+|-
+|{{NZ}}
+|Bright Williams<ref name="Williams1">[http://www.rsa.org.nz/about/nws2003feb/media_release.html Obituary for Bright Williams]</ref><ref name="Williams2">[http://freepages.genealogy.rootsweb.com/~sooty/bwilliams.html Press release for the death of Bright Williams]</ref>
+|[[13 February]] [[2003]]
+|-
+|{{flag|Northern Ireland}}
+|Thomas Shaw<ref name="Shaw">[http://news.bbc.co.uk/1/hi/northern_ireland/1856403.stm Obituary for Thomas Shaw]</ref>
+|[[2 March]] [[2002]]
+|-
+|{{flag|Ottoman Empire}}
+|[[Yakup Satar]]<ref>http://dersdesders.free.fr/bio_veterans/satar.html</ref>
+|
+|-
+|{{POL}}
+|[[Stanisław Wycech]]<ref name="Genarians"/>
+|
+|-
+|{{POR}}
+|José Ladeira{{Fact|date=August 2007}}
+|[[5 May]] [[2003]]
+|-
+|{{PUR}}
+|[[Emiliano Mercado del Toro]]<ref name="DDDUSA">[http://dersdesders.free.fr/usa.html Ders Des Ders Report - USA (French)]</ref>
+|[[24 January]] [[2007]]
+|-
+|{{flag|Republic of Ireland}}
+|Robert Ruttledge{{Fact|date=August 2007}}
+|[[12 January]] [[2002]]
+|-
+|{{ROM}}
+|[[Gheorghe Pănculescu]]<ref name="DDDRom">[http://dersdesders.free.fr/roumanie.html Ders Des Ders Report - Romania (French)]</ref>
+|[[9 January]] [[2007]]
+|-
+|{{RUS}}
+|Boris Klovsky<ref name="DDDRus">[http://dersdesders.free.fr/russie.html Ders Des Ders Report - Russia (French]</ref>
+|[[1 June]] [[2004]]
+|-
+|{{SEN}}
+|Abdoulaye N'Diaye<ref name="DDDAfr"/>
+|[[10 November]] [[1998]]
+|-
+|{{SRB}}
+|Aleksa Radovanovic<ref name="Serbia">[http://www.kurir-info.co.yu/Arhiva/2004/jun/26-27/V-09-26062004.shtml Obituary for Aleksa Radovanovic (Serbo Croatian)]</ref>
+|[[22 June]] [[2004]]
+|-
+|{{SCO}}
+|[[William Young (veteran)|William Young]]<ref name="Scotland">[http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2007/07/26/nveteran126.xml Obituary for William Young]</ref>
+|[[25 July]] [[2007]]
+|-
+|{{SLO}}
+|Ivan Kovacic<ref name="DDDSlo">[http://dersdesders.free.fr/pays.html Ders Des Ders Report - Other Countries (French)]</ref>
+|[[13 February]] [[2001]]<ref name="Soška fronta">http://www.drustvo-soskafronta.si/dsf/index.php?show=prva</ref>
+|-
+|{{RSA}}
+|Norman Kark{{Fact|date=August 2007}}
+|[[March 2000]]
+|-
+|{{THA}}
+|Yod Sangrungruang<ref name="Yod">[http://www.taipeitimes.com/News/world/archives/2003/10/11/2003071220 Obituary for Yod Sangrungruang]</ref>
+|[[9 October]] [[2003]]
+|-
+|{{UKR}}
+|Tony Skabar{{Fact|date=August 2007}}
+|[[17 December]] [[2005]]
+|-
+|{{USA}}
+|[[Surviving veterans of World War I#Living in the USA - 3 veterans|2 remaining]]<ref name="Genarians"/>
+|-
+|{{WAL}}
+|Walter Humphrys{{Fact|date=August 2007}}
+|[[16 April]] [[2003]]
+|}
+
+==References==
+{{reflist}}
+
+{{longevity}}
+
+[[Category:Centenarians]]
+[[Category:Lists of military personnel]]
+[[Category:Military personnel of World War I]]
+[[Category:People of World War I]]
+[[Category:World War I by country]]
+[[Category:World War I veterans]]

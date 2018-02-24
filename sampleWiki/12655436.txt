@@ -1,0 +1,42 @@
+{{Infobox Military Person
+|name=Harold W. Gehman Jr.
+|lived=born {{Birth date and age|1942|10|15|}}
+|image=[[Image:Crouch and Gehman.jpg|250px]]
+|caption=Retired Admiral Harold W. Gehman (left) and retired Army General William W. Crouch brief reporters on the report of the USS Cole 
+|nickname=Hal
+|placeofbirth=Norfolk, Virginia
+|placeofdeath=
+|branch=U.S. Navy
+|serviceyears=1965-2000
+|rank=Admiral
+|unit=
+|commands=United States Joint Forces Command
+|battles=Vietnam War
+|awards=
+|relations=
+|laterwork=Chairman,Columbia Accident Investigation Board<br>Co-chair, Cole Commission<br>BRAC committee
+}}
+Admiral '''Harold W. Gehman, Jr.''' is a retired [[United States Navy]] [[four star admiral]] who served as [[NATO]]'s [[Supreme Allied Commander Atlantic|Supreme Allied Commander, Atlantic (SACLANT)]], [[Commander-in-Chief]] of the [[United States Joint Forces Command]], one of the United States' [[Unified Combatant Command]]s, and [[Vice Chief of Naval Operations]].
+
+== Military career ==
+
+Gehman was born in [[Norfolk, Virginia]] on [[October 15]], [[1942]] and graduated from [[Pennsylvania State University]] in [[1965]] with a Bachelor of Science in [[Industrial Engineering]] and a commission in the Navy from the [[Naval Reserve Officer Training Corps]]. A Surface Warfare Officer, he served at all levels of leadership and command in [[guided missile destroyer]]s and [[cruiser]]s. During the course of his career, Gehman had five sea commands in ranks from [[Lieutenant]] to [[Rear Admiral]]. Gehman served in [[Vietnam]] as [[Officer in Charge]] of a [[Fast Patrol Craft|Swift patrol boat]] and later in [[Chu Lai]] as Officer in Charge of a detachment of six swift boats. His staff assignments were both afloat on a [[Carrier Battle Group]] staff and ashore on a fleet commander's staff, a Unified Commander's staff and in [[Washington, D.C.]] on the staff of the [[Chief of Naval Operations]] (four tours). Promoted to four star Admiral in [[1996]], he became the 29th Vice Chief of Naval Operations in [[1996#September|September, 1996]]. As Vice Chief of Naval Operations he was a member of the [[Joint Chiefs of Staff]], formulated the Navy's $70 billion budget and developed and implemented policies governing the 375,000 people in the Navy. Assigned in [[1997#September|September, 1997]] as Supreme Allied Commander, Atlantic and Commander-in-Chief, [[United States Atlantic Command]] (later changed to Joint Forces Command), he became one of NATO's two military commanders and assumed command of all forces of all four services in the continental United States and became responsible for the provision of ready forces to the other Unified Commanders in Chief and for the development of new joint doctrine, training and requirements. He retired from the Navy in [[2000#October|October 2000]].
+
+== Post military ==
+In retirement, Gehman has served as chairman of the [[Columbia Accident Investigation Board]], co-chair, with retired general [[William W. Crouch]], of the [[Department of Defense]]'s [[USS Cole bombing|Cole Commission]], on the [[Base Realignment and Closure]] (BRAC) committee, and is a Senior Fellow of the [[National Defense University]]'s Capstone Program.{{Fact|date=August 2007}}
+
+== Personal ==
+Gehman is married to the former Janet F. Johnson and they have two adult children, Katherine and Christopher. 
+ 
+== References ==
+{{USGovernment|sourceURL=[http://www.ndu.edu/capstone/bios/Gehman-Bio.doc National Defense University bio]}}
+
+{{DEFAULTSORT:Gehman, Harold W.}}
+[[Category:United States Navy admirals]]
+[[Category:Vice Chiefs of Naval Operations]]
+[[Category:American military personnel of the Vietnam War]]
+[[Category:Penn State University alumni]]
+[[Category:People from Norfolk, Virginia]]
+[[Category:1942 births]]
+
+{{USN-bio-stub}}

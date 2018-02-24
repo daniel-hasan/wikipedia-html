@@ -1,0 +1,99 @@
+{|{{Infobox Ship Begin}}
+{{Infobox Ship Image
+|Ship image=[[Image:WasaQueen.jpg|300px]]
+|Ship caption=M/S ''Wasa Queen'' in Helsinki in the late 1990s in Silja Line colours.
+}}
+{{Infobox Ship Career
+|Hide header=
+|Ship country=
+|Ship flag=
+|Ship name=1975-1980: ''Bore Star''<br>1980-1986: ''Silja Star''<br>1986: ''Orient Express''<br>1986-1987: ''Club Sea''<br>1987-1989: ''Orient Express''<br>1989-1990: ''Eurosun''<br>1990: ''Orient Express''<br>1990-1991: ''Eurosun''<br>1991-1992: ''Orient Sun''<br>1992-present: ''Wasa Queen''
+|Ship owner=1975-1980: [[Steamship Company Bore]]<br>1980-1986: [[Effoa]]<br>1986-1989: [[Sea Containers Ltd]]<br>1989-2001: [[EffJohn]]<br>2001-present: [[Star Cruises]]
+|Ship operator=1975-1976: [[Finnlines]]<br>1976: Steamship Company Bore<br>1976-1977: Finnlines<br>1977-1980: Steamship Company Bore<br>1980-1986: Effoa<br>1986: Sea Containers<br>1986-1987: [[Club Sea Inc]]<br>1987-1989: Sea Containers<br>1989-1990: [[Europe Cruise Line]]<br>1990: Sea Containers<br>1990-1991: Europe Cruise Line<br>1991-1992: [[Orient Line Pte Ltd]]<br>1992-1993: [[Wasa Line]]<br>1993-2000: [[Silja Line]]<br>2001-present: [[Cruise Ferries]]
+|Ship ordered=June 1973
+|Ship builder=[[Dubegion-Normandie S.A.]], [[Nantes]], [[France]]
+|Ship yard number=143
+|Ship laid down=16. 9. 1974
+|Ship launched=30. 1. 1975
+|Ship completed=
+|Ship christened=
+|Ship acquired=2. 12. 1975
+|Ship in service=11. 12. 1975
+|Ship out of service=
+|Ship homeport=1975-1980: [[Turku]], {{flag|Finland}}<br>1980-1986: [[Helsinki]], {{flag|Finland}}<br>1986-1991: [[Hamilton]], {{flag|Bermuda}}<br>1991-1992: [[Singapore]], {{flag|Singapore}}<br>1992-1993: [[Vaasa]], {{flag|Finland}}<br>1993-2001: [[Mariehamn]], {{flag|Finland}}<br>2001-present: [[Panama City]], {{flag|Panama}}
+|Ship fate=
+|Ship status=In service
+|Ship notes=
+}}
+{{Infobox Ship Characteristics
+|Hide header=
+|Header caption=(as built)
+|Ship class=
+|Ship tonnage=12343 GRT
+|Ship displacement=1800 DWT
+|Ship length={{convert|153.00|m|ft|2|abbr=on}}
+|Ship beam={{convert|22.04|m|ft|2|abbr=on}}
+|Ship height=
+|Ship draught={{convert|5.84|m|ft|2|abbr=on}}
+|Ship depth=
+|Ship ice class=1 A
+|Ship power=
+|Ship propulsion=4 &times; Semt-Pielstick 12 PC2-2V-400 [[diesel]]s<br>combined 17600&nbsp;[[Watt|kW]]
+|Ship speed=21 [[knot (speed)|knots]]
+|Ship capacity=1200 passengers<br>799 berths<br>240 cars
+|Ship crew=
+|Ship notes=
+}}
+{{Infobox Ship Characteristics
+|Hide header=
+|Header caption=(currently)
+|Ship class=
+|Ship tonnage=16546 GRT
+|Ship displacement=1995 DWT
+|Ship capacity=1599 passengers<br>762 berths<br>210 cars
+|Ship crew=
+|Ship notes=
+}}
+|}
+'''[[ship prefix|M/S]] ''Wasa Queen''''' is a [[cruiseferry]], currently used a a casino [[cruiseship]] by [[Cruise Ferries]], a daughter company of [[Star Cruises]]. She was built in [[1975]] by [[Dubegion-Normandie S.A.]], [[Nantes]], [[France]] for [[Steamship Company Bore]], [[Finland]] as '''M/S ''Bore Star'''''. She has also served under the names '''M/S ''Silja Star''''', '''M/S ''orient Express''''', '''M/S ''Club Sea''''', '''M/S ''Eurosun''''' and '''M/S ''Orient Sun'''''.
+
+==History==
+===1975-1986===
+
+In [[1972]] the Finnish-[[Sweden|Swedish]] ferry consortium [[Silja Line]] started around-the-year car/passenger ferry traffic between [[Helsinki]] and [[Stockholm]], the capitals of Finland and Sweden respectively. The route proved highly profitable and after just one year of traffic Silja Line's owners ([[Finland Steamship Company]], [[Rederi AB Svea]] and Steamship Company Bore) decided that each company would order a ship of identical design from the same shipyard that had build the 1972 ships.<ref name="Silja 3">[http://www.simplonpc.co.uk/Silja3.html Simplon Postcards: Silja Line Page 3 - Second Generation Car Ferries 1971-80], retrieved 5. 11. 2007</ref>
+
+M/S ''Bore Star'' was the last of the new ships to be delivered, in December [[1975]].<ref name="FoF">{{sv icon}} [http://www.faktaomfartyg.se/bore_star_1975.htm Fakta om Fartyg: M/S Bore Star (1975)], retieved 5. 11. 2007</ref><ref name="Vasabåtarna">{{sv icon}} [http://www.vasabatarna.se/wasaqueen/wasa_queen.htm Vasabåtarna.se: Wasa Queen], retieved 5. 11. 2007</ref> However it turned out that there weren't actually enough passengers for three ships in year-round traffic on the Helsin—Stockholm service. As a result ''Bore Star'' was chartered to [[Finnlines]] immediately  after delivery. Until May 1976 she cruised around the [[Canary Islands]] and West Coast of [[Africa]] under the trade name ''Finnpartner'' (her official name remained unchanged).<ref name="FoF" /><ref name="Vasabåtarna" /><ref name="Simplon">[http://www.simplonpc.co.uk/Bore_Star_1975.html Simplon postcards: Bore Star - Finnpartner (3) - Silja Star - Orient Express - Club Sea - Eurosun - Orient Sun - Wasa Queen], retrieved 5. 11. 2007</ref> In June 1976 Bore Star was finally set on the traffic she was built for, and sailed as a third ship on the Helsinki—Stockholm service alongside her sisters [[M/S Svea Corona|M/S ''Svea Corona'']]<ref>{{sv icon}} [http://www.faktaomfartyg.se/svea_corona_1975.htm Fakta om Fartyg: M/S Svea Corona (1975)], retrieved 5. 11. 2007</ref> and [[M/S Wellamo (1975)|M/S ''Wellamo'']]<ref>{{sv icon}} [http://www.faktaomfartyg.se/wellamo_1975.htm Fakta om Fartyg: M/S Wellamo (1975)], retrieved 5. 11. 2007</ref> until the end of October 1976<ref name="FoF" /><ref name="Vasabåtarna" /> (she also briefly served on the [[Turku]]—Stockholm route in May and September{{Fact|date=November 2007}}). Between October 1976 and May [[1977]] Bore Star was again chartered to Finnlines for cruising in the [[Atlantic]].<ref name="FoF" /><ref name="Vasabåtarna" /><ref name="Simplon" />
+
+From June 1977 onwards ''Bore Star'' served on the Helsinki—Stockholm route.<ref name="FoF" /><ref name="Vasabåtarna" /> In the beginning of the year [[1979]] Steamship Company Bore changed its name to [[Bore Line]].<ref name="FoF" /><ref name="Vasabåtarna" /> At this time passenger numbers on the [[Baltic Sea]] were raising rapidly and Finland SS Co (which had changed its name to [[Effoa]] in 1976) and Svea were planning to build new ships for the Helsinki—Stockholm service.<ref>[http://www.simplonpc.co.uk/Silja4.html Simplon Postcards: Silja Line Page 4 - Third Generation Car Ferries 1981-], retieved 5. 11. 2007</ref> Bore wanted to concentrate on freight traffic<ref name="Silja 3" /><ref>{{sv icon}} [http://www.faktaomfartyg.se/bore_line.htm Fakta om Fartyg: Ångfartygs Ab Bore], retrieved 5. 11. 2007</ref> and as a result the company sold it's share of Silja Line to the other owners in [[July]] [[1980]], and ''Bore Star''<nowiki></nowiki>'s ownership passed to Effoa.<ref name="Simplon" /> Forllowing the sale she was transferred to the Turku—[[Mariehamn]]—Stockholm service.<ref name="FoF" /><ref name="Vasabåtarna" /> In September of the same year the ship was renamed M/S ''Silja Star''.<ref name="FoF" /><ref name="Vasabåtarna" /> In January [[1986]] she was replaced by the new [[M/S Wellamo (1986)|M/S ''Wellamo'']] and sold to [[Sea Containers]].<ref name="FoF" /><ref name="Vasabåtarna" /><ref name="Simplon" />
+
+===1986-1992===
+
+After being sold to Sea Containers the ''Silja Star'' was rebuilt at [[Lloyd Werft]], [[Bremerhaven]], [[Germany]].{{Fact|date=November 2007}} In April{{Fact|date=November 2007}} 1986 she re-emerged as M/S ''Orient Express'' and started sailing on a route connecting [[Venice]], [[Pireus]] and [[Istambul]].<ref name="FoF" /><ref name="Vasabåtarna" /><ref name="Simplon" /> Between December 1986 and April [[1987]] the ship was chartered to [[Club Sea Inc]] who used for cruising on the [[Caribbean]] as M/S ''Club Sea''. After the charter she returned to her previous name and route until [[1989]] when she was chartered to [[Europe Cruise Line]] (who were in part owned by her old owners Effoa) as M/S ''Eurosun'' for cruising on the [[Mediterranean]]. In December of the same year Europe Cruise Line bought the ship, but in May [[1990]] she was chartered back to Sea Containers, again renamed ''Orient Express'' and set on the Venice—Istambul service. From November onwards she returned to Europe Cruise Line and under the name ''Eurosun''.<ref name="FoF" /><ref name="Vasabåtarna" /><ref name="Simplon" />
+
+In September [[1991]] the ship was sold to [[Orient Line]] (owned by [[EffJohn]], the company resulting from a merger between Effoa and [[Johnson Line]]), renamed M/S ''Orient Sun'' and started ferry service between [[Singapore]] and [[Jakarta]], [[Indonesia]]. Like her previous routes this would prove to be short-lived. In March [[1992]] the ship ceased trading in the Far East and returned to the Baltic Sea.<ref name="FoF" /><ref name="Vasabåtarna" />
+
+===1992-===
+
+Between April and May 1992 the ''Orient Sun'' was rebuilt at [[Kotkan Telakka Oy]], [[Kotka]], Finland, for service on EffJohn's subsidiary [[Wasa Line]]. With the name M/S ''Wasa Queen'' she started service between [[Vaasa]] in Finland and [[Sundsvall]] in Sweden on [[May 15]], 1992. In addition to the Vaasa—Sundsvall route she also sailed from Vaasa to [[Umeå]].<ref name="FoF" /><ref name="Vasabåtarna" /> In 1993 EffJohn reorganised their operations, merging Wasa Line into Silja Line.<ref>{{sv icon}} [http://www.faktaomfartyg.se/oy_vasa_umea_ab.htm Fakta om Fartyg: Wasa Line], retrieved 5. 11. 2007</ref> Wasa Queen was repainted in Silja Line's colours, but this time (somewhat surprisingly) her name wasn't changed, and she was kept on traffic from Vaasa. Many sources claim she was transferred to Silja Line on 31 December 1993,<ref name="FoF" /><ref name="Vasabåtarna" /> however a photograph<ref>[http://www.vasabatarna.se/wasaqueen/mb_filer/wasa_line_slut.jpg Photograph: Wasa Line slut], retrieved 5. 11. 2007</ref> showing her being painted in Silja Line colours in Vaasa harbour with [[M/S Wasa King|M/S ''Wasa King'']] (which left Wasa Line fleet in January 1993)<ref>{{sv icon}} [http://www.faktaomfartyg.se/viking_sally_1980.htm Fakta om Fartyg: M/S Viking Sally (1980)], retrieved 5. 11. 2007</ref><ref>{{sv icon}} [http://www.vasabatarna.se/wasaking/wasa_king.htm Vasabåtarna.se: M/S Wasa King], retrieved 5. 11. 2007</ref> in the background suggests the ''Wasa Queen'' received Silja Line livery already in January 1993.
+
+Profits on the lines from Vaasa were on the decline however, and between January and May [[1996]] Wasa Queen sailed on the fast-growing Helsinki—[[Tallinn]] route. For the summer season of 1996 she returned to Vaasa—Umeå service, but from September 1996 until September [[1999]] the Wasa Queen served continuously between Helsinki and Tallinn.<ref name="FoF" /><ref name="Vasabåtarna" /> During this time her timetables varied depending on whether she was the only Silja Line ship on the route or not. Until April [[1997]] she sailed alongside [[M/S Silja Festival|M/S ''Silja Festival'']], with only one departure from each port per day.<ref>Silja Line brochure 1. 9. - 31. 12. 1996, pages 27-31</ref><ref>Silja Line timatables and prices brochure 1. 10. 1996 - 12. 6. 1997, pages 14-18</ref> After ''Silja Festival'' stopped sailing on the route, Wasa Queen had two daily departures from each port.<ref>Silja Line brochure 13. 6. - 30. 9. 1997, page 86</ref> Starting from October 1997 [[GTS Finnjet|GTS ''Finnjet'']] spent the winter season sailing between Helsinki and Tallinn,<ref>[http://www.finnjetweb.com/en/fakten/chronik.htm Finnjetweb: Finnjet chronicle by Salomon Kaukiainen], retrieved 5. 11. 2007</ref><ref>{{sv icon}} [http://www.faktaomfartyg.se/finnjet_1977.htm GTS Finnjet (1977)], retrieved 5. 11. 2007</ref> and again during this time ''Wasa Queen'' had only one daily departure (during the times when ''Finnje''t was on the route she also used ''Finnjet''<nowiki></nowiki>'s terminal at Katajanokka, not Silja Line's normal Olympiaterminal).<ref>Silja Line brochure autumn 1997 - spring 1998, page 38</ref>
+
+In September 1999 Wasa Queen returned to sail from the city she was named after. During the same year tax free sales ended in traffic within the EU, meaning that most profits on the Vaasa—Umeå service disappeared. On [[December 31]], [[2000]], Silja Line closed down traffic across [[kvarken]] completely, and ''Wasa Queen'' was laid up in Vaasa awaiting potential buyers. In July 2000 she was chartered as a hotel ship to the [[G8]] meeting in [[Genoa]]. At the end of that charter, on [[July 28]], the ship was sold to [[Star Cruises]] and set sails for Singapore. In September 2000 she sailed for two weeks from Singapore under the banner of Star Cruises' new daughter company [[Cruise Ferries]], after which she started traffic between [[Hong Kong]] and [[Xiamen]].<ref name="FoF" /><ref name="Vasabåtarna" />
+
+However, the Hong Kong—Xiamen ferry route only operated briefly for a few months, after that she ended up sailing daily day cruises from Hong Kong to nowhere, departing in the morning and returning in the evening, for gambling purpose.{{Fact|date=November 2007}} In October 2004 she commenced sailing 6 overnight cruises per week in addition to the daily day cruises, bringing her departures to 13 per week.{{Fact|date=November 2007}} On 9 July 2007 ''Wasa Queen'' began making 12-hour casino cruises out of [[Port Klang]], [[Malaysia]].<ref name="FoF" /> Her role on day and overnight cruises in Hong Kong was replaced by [[Star Pisces|M/S ''Star Pisces'']], whose role is in turn replaced by [[SuperStar Aquarius|M/S ''SuperStar Aquarius'']].{{Fact|date=November 2007}} At the same time, ''Wasa Queen'' was listed for sale.{{Fact|date=November 2007}}
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.cruise-ferries.com.hk/index_en.htm Cruise Ferries official website]
+
+{{Navbox
+|name    = M/S Wasa Queen
+|title   = Sister ships of M/S ''Wasa Queen''
+|list1   = [[M/S Svea Corona|M/S ''Svea Corona'']] (scrapped 1995){{·}}[[M/S Jupiter|M/S ''Jupiter'']]
+}}
+
+[[Category:Cruiseferries|Wasa Queen]]
+
+[[fi:M/S Wasa Queen]]

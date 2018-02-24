@@ -1,0 +1,52 @@
+{{Wikify|date=May 2007}}
+{{Expand|date=May 2007}}
+{{otheruses4|the legal arrangement|its use in the field of cryptography|Key escrow}}
+'''Escrow''' is a '''legal arrangement''' in which an asset (often [[money]], but sometimes other [[property]] such as [[art]], a [[deed]] of [[title (property)|title]], [[website]], or [[software]] [[source code]]) is delivered to a third party (called an '''escrow [[agency (law)|agent]]''') to be held in [[Trust law|trust]] pending a contingency or the fulfillment of a condition or conditions in a [[contract]] such as payment of a purchase price. Upon that event occurring, the escrow agent will deliver the asset to the proper recipient, otherwise the escrow agent is bound by his or her [[fiduciary]] duty to maintain the [[escrow account]].
+
+Not all escrow agreements impose the duties of a legal trustee on the escrow agent, and, in fact, in many such agreements, escrow agents are held to a mere [[gross negligence]] standard and benefit from [[indemnity]] and [[hold harmless]] provisions.
+
+While escrow is best known in the United States in the context of real estate (specifically in [[mortgages]] where the mortgage company establishes an escrow account to pay property tax and insurance during the term of the mortgage), escrow companies are also commonly used in the transfer of high value personal and business property, like [[web site|websites]] and businesses, and in the completion of person-to-person remote auctions (such as [[eBay]]).
+
+Escrow is also known in the judicial context. So-called escrow funds are commonly used to distribute money from a cash settlement in a [[class action]] or environmental enforcement action. This way the defendant is not responsible for distribution of judgment monies to the individual plaintiffs or the court-determined use (such as environmental [[remediation]] or [[mitigation]]).  The defendant pays the total amount of the judgment (or settlement) to the court-administered or appointed escrow fund, and the fund distributes the money (often reimbursing its expenses from the judgment funds).
+
+In some [[jurisdiction]]s, [[real estate broker]]s are considered to act as escrow agents when they accept deposits or [[earnest money]] for the purchase of [[real property]].  In many jurisdictions, the duties of such agents are [[codified]].
+
+[[Source code escrow]] agents hold [[source code]] of [[software]] in escrow just as other escrow companies hold cash. The highly valuable (and often secret) source code is only released by the agent to either party upon specific terms of the escrow agreement (such as failure to maintain the application, transfer of ownership of the intellectual property rights, or the liquidation of the owner of the source code).
+
+[[Internet escrow]] works like traditional escrow, with the escrow company acting as a trusted third party holding money for the two parties. It is often limited to transactions with personal property. Like source code escrow, and unlike real-estate escrow, internet escrow companies usually don't need to be licensed in all the states in which participating parties reside, only those states in which they operate. There are several companies that function as [[Online Escrow Companies]] and are licensed as such in the United States. Examples of which are [http://escrow.com Escrow.com] and [http://iescrow.com iEscrow.com].
+
+Escrow is also used in the field of automated banking and vending equipment.  One example is automated teller machines (ATMs), and is the function which allows the machine to hold the money deposited by the customer separately, and in case he or she challenges the counting result, the money is returned.  Another example is a vending machine, where the customer's money is held in a separate escrow area pending successful completion of the transaction.  If a problem occurs and the customer presses the refund button, the coins are returned from escrow; if no problem occurs, they fall into the coin vault.<ref>[http://www.vendingtimes.com/ME2/dirmod.asp?sid=&nm=&type=Publishing&mod=Publications%3A%3AArticle&mid=8F3A7027421841978F18BE895F87F791&tier=4&id=43736AA44A6840059F9B258F4E620E3F Up and Running], Tim Sanford, [[Vending Times]], August 2005.</ref>
+
+Escrow is not restricted to business transactions. It is slowly making its way into day-to-day life on the internet as well, with electronic documents and photos being exchanged online. One example is [http://photoescrow.com PhotoEscrow], which allows users to trade photos with each other but only get the other party's photo once they have uploaded their own.
+
+==Types of escrow services==
+The workflow of escrow services may vary according to the nature of specific industry. For instance, in electronic components industry, according to [[Hong Kong Inventory Limited]], the escrow services are sub-divided by two types: normal Escrow Service and Escrow Service with Inspection ([[Escrow/i]]). The latter consists of a pre-shipment inspection process which has to be carried out before sending the goods to buyers. This is important in electronic components trading since there is not any unified naming system in electronic components. Dispute always come from the difference in understanding with respect to a specific part number. 
+
+Escrow/i services are subdivided into two different levels. The standard Escrow/i service includes a visual inspection, known as Inspection Level 1. Inspection Level 2 involves intermediate physical inspection, including visual inspection along with decapsulation, radiography and solderability.
+
+==See also==
+*[[Closing (real estate)|Closing]]
+*[[Escrow instructions]]
+*[[Internet escrow]]
+*[[Power of attorney]]
+*[[Real estate]]
+*[[Stewardship]]
+
+==External links==
+*[http://mortgage.lovetoknow.com/Escrow Mortgage escrow description with tips and scams]
+*[http://www.allisonmccloskeyescrow.com/escrow-process-tips.asp Escrow Process Elements & Tips]
+*[http://photoescrow.com PhotoEscrow - online anonymous photo exchange]
+
+==References==
+{{reflist}}
+
+{{wiktionary|escrow}}
+
+[[Category:Legal documents]]
+[[Category:Legal terms]]
+
+[[id:Escrow]]
+[[de:Treuhänder]]
+[[es:Fideicomiso]]
+[[ja:エスクロー]]
+[[pl:Escrow]]

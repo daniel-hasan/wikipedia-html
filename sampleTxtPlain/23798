@@ -1,0 +1,127 @@
+In mathematics, the Poincaré conjecture (French, );.; is a theorem about the characterization of the 3-sphere|three-dimensional sphere amongst 3-manifold|three-dimensional manifolds. It began as a popular, important conjecture, but is now considered a theorem to the satisfaction of the awarders of the Fields medal. The claim concerns a space that locally looks like ordinary three dimensional space but is finite in size and lacks any boundary (a closed 3-manifold). The Poincaré conjecture claims that if such a space has the additional property that each loop in the space can be continuously tightened to a point; then it isjust a three-dimensional sphere. An analogous result has been known in higher dimensions for some time.
+
+In an ordinary 2-sphere, any loop can be continuously tightened to a point on the surface.Does this condition characterize the 2-sphere? The answer is yes, and it has been known for a long time. The Poincaré conjecture asks the same question for the more-difficult-to-visualize 3-sphere. 
+
+After nearly a century of effort by mathematicians, Grigori Perelman sketched a proof of the conjecture in a series of papers made available in 2002 and 2003. The proof followed the program of Richard Hamilton. Several high-profile teams of mathematicians have since verified the correctness of Perelman's proof.
+
+The Poincaré conjecture was, before being proven, one of the most important open questions in topology. It is one of the seven Millennium Prize Problems, for which the Clay Mathematics Institute offered a $1,000,000 prize for the first correct solution. Perelman's work survived review and was confirmed in 2006, leading to his being offered a Fields Medal, which he declined. The Poincaré conjecture remains the only solved Millennium problem. 
+
+On December 22, 2006, the journal ''Science'' honored Perelman's proof of the Poincaré conjecture as the scientific &quot;Breakthrough of the Year,&quot; the first time this had been bestowed in the area of mathematics.;;
+
+
+History
+=Poincaré's question=
+At the beginning of the 20th century, Henri Poincaré was working on the foundations of topology &amp;mdash; what would later be called combinatorial topology and then algebraic topology.He was particularly interested in what topological properties characterized a sphere.
+
+Poincaré claimed in 1900 that homology, a tool he had devised based on prior work by Enrico Betti, was sufficient to tell if a 3-manifold was a 3-sphere. However, in a 1904 paper he described a counterexample to this claim, a space now called the Poincaré homology sphere. The Poincaré sphere was the first example of a homology sphere, a manifold that had the same homology as a sphere, of which many others have since been constructed. To establish that the Poincaré sphere was different from the 3-sphere, Poincaré introduced a new topological invariant, the fundamental group, and showed that the Poincaré sphere had a fundamental group of order 120, while the 3-sphere had a trivial fundamental group. In this way he was able to conclude that these two spaces were, indeed, different.
+
+In the same paper, Poincaré wondered whether a 3-manifold with the homology of a 3-sphere but also trivial fundamental group had to be a 3-sphere.Poincaré's new condition, i.e. &quot;trivial fundamental group,&quot; can be phrased as &quot;every loop can be shrunk to a point.&quot;
+
+The original phrasing was as follows:
+
+;Consider a compact 3-dimensional manifold V without boundary. Is it possible that the fundamental group of V could be trivial, even though V is not homeomorphic to the 3-dimensional sphere? ;
+
+Poincaré never declared whether he believed this additional condition would characterize the 3-sphere, but nonetheless, the statement that it does is known as the Poincaré conjecture.Here is the standard form of the conjecture:
+
+;Every simply connected compact3-manifold (without boundary) is homeomorphic to a 3-sphere.;
+
+=In other dimensions=
+
+The Surface#Classification_of_closed_surfaces|classification of closed surfaces gives an affirmative answer to the analogous question in two dimensions.For dimensions greater than three, one can pose the Generalized Poincaré Conjecture: is a homotopy ''n''-sphere homeomorphic to the ''n''-sphere?The obvious generalization using simple-connectivity is false, but simply-connected, closed 3-manifolds are in fact the same class of spaces as homotopy 3-spheres.
+
+Historically, while the conjecture in three dimensions seemed plausible, the generalized conjecture was thought to be false.In 1961 Stephen Smale shocked mathematicians by proving the Generalized Poincaré Conjecture for dimensions greater than four and extended his techniques to prove the fundamental h-cobordism theorem.In 1982 Michael Freedman proved the Poincaré Conjecture, in its topological form, for four dimensions.The generalized conjecture can also be asked about smooth and piecewise-linear manifolds, where the complete answers are not yet fully known.
+
+These earlier successes in higher dimensions left the case of three dimensions in limbo.The Poincaré conjecture was essentially true in both dimension four and all higher dimensions for substantially different reasons.In three dimensions, the conjecture had an uncertain reputation until the geometrization conjecture put it into a framework governing all 3-manifolds.John Morgan wrote;Morgan, John W., Recent progress on the Poincaré conjecture and the classification of 3-manifolds.
+Bull. Amer. Math. Soc. (N.S.) 42 (2005), no. 1, 57–78;: 
+;
+&quot;It is my view that before Thurston's work on hyperbolic 3-manifolds and...the Geometrization Conjecture there was no consensus among the experts as to whether the Poincaré conjecture was true or false.After Thurston's work, notwithstanding the fact that it had no direct bearing on the Poincaré Conjecture, a consensus developed that the Poincaré Conjecture (and the Geometrization Conjecture) were true.&quot;;
+
+=Attempted solutions=
+For a time, this problem seems to have lain dormant, until J. H. C. Whitehead revived interest in the conjecture, when in the 1930s he first claimed a proof, and then retracted it. In the process, he discovered some interesting examples of simply connected non-compact 3-manifolds not homeomorphic to R;3;, the prototype of which is now called the Whitehead manifold.
+
+In the 1950s and 1960s, othermathematicians were to claim proofs only to discover aflaw. Influential mathematicians such as Bing, Haken, Moise, and Papakyriakopoulos attacked the conjecture.In 1958 Bing proved a weak version of the Poincaré conjecture: if every simple closed curve of a compact 3-manifold is contained in a 3-ball, then the manifold is homeomorphic to the 3-sphere.;; Bing also described some of the pitfalls in trying to prove the Poincaré conjecture.
+;;
+
+Over time, the conjecture gained the reputation of being particularly tricky to tackle.J. W. Milnor|John Milnor commented that sometimes the errors in false proofs can be &quot;rather subtle and difficult to detect.&quot;;; Work on the conjecture improved understanding of 3-manifolds.Experts in the field were often reluctant to announce proofs, and tended to view any such announcement with skepticism. The 1980s and 1990s witnessed some well-publicized fallacious proofs (which were not actually published in peer-reviewed form).;;;;
+
+An exposition of attempts to prove this conjecture can be found in the non-technical book &quot;Poincaré's Prize&quot; by George Szpiro.
+
+=Hamilton's program and Perelman's solution=
+
+
+
+Hamilton's program was started in his 1982 paper in which he introduced the Ricci flow on a manifold and showed how to use it to prove some special cases of the Poincaré conjecture.; Reprinted in: ; In the following years he extended this work, but was unable to actually prove the conjecture. The actual solution wasn't found until Grigori Perelman of the Steklov Institute of Mathematics, Saint Petersburg published his papers using many ideas from Hamilton's work.
+
+In late 2002 and 2003 Perelman posted three papers on the arXiv.; | date = 2002 }};; | date = 2003 }};; | date = 2003 }}; In these papers he sketched a proof of the Poincaré conjecture and a more general conjecture, Thurston's geometrization conjecture, completing the Ricci flow programoutlined earlier by Richard Hamilton. 
+
+From May to July 2006, several groups presented papers thatfilled in the details of Perelman's proof of the Poincaré conjecture, as follows:
+*Bruce Kleiner and John Lott posted a paper on the arXiv in May 2006 which filled in the details of Perelman's proof of the geometrization conjecture.; | date = 2006 }};
+*Huai-Dong Cao and Xi-Ping Zhu published a paper in the June 2006 issue of the Asian Journal of Mathematics giving a complete proof of the Poincaré and geometrization conjectures, in which they used some earlier work by Kleiner and Lott.;[http://www.intlpress.com/AJM/p/2006/10_2/AJM-10-2-Erratum.pdf Erratum]. Revisedversion (December 2006):| date = 2006 }};
+*John Morgan and Gang Tian posted a paper on the arXiv in July 2006 which gave a detailed proof of just the Poincaré Conjecture (which is somewhat easier than the full geometrization conjecture); | date = 2006 }}; and expanded this to a book;;.
+
+All three groups found that the gaps in Perelman's papers were minor and could be filled in using his own techniques. 
+
+On August 22, 2006, the ICM awarded Perelman the Fields Medal for his work on the conjecture, but Perelman refused the medal.; [http://www.newyorker.com/fact/content/articles/060828fa_fact2 On-line version at the ''New Yorker'' website].;;;;;
+John Morgan spoke at the ICM on the Poincaré conjecture on August 24 2006, declaring that &quot;in 2003, Perelman solved the Poincaré Conjecture.&quot;;A Report on the Poincaré Conjecture. Special lecture by John Morgan.;
+
+The August 2006 issue of ''The New Yorker'' contains an article, titled &quot;Manifold Destiny&quot;, that details some of the issues surrounding Perelman's accomplishment, particularly some disagreements that arose between the mathematicians responsible for verifying his proof. 
+
+The proof was called the &quot;Breakthrough of the year&quot; by ''Science'' magazine.;
+
+Ricci flow with surgery
+
+Hamilton's program for proving the Poincaré conjecture involves first putting a Riemannian metric on the unknown simply connected closed 3-manifold. The idea is to try to improve this metric; for example, if the metric can be improved enough so that it has constant curvature, then it must be the 3-sphere. The metric is improved using the Ricci flow equations;
+:;\partial_t g_{ij}=-2 R_{ij};
+where ''g'' is the metric and ''R'' its Ricci curvature, 
+and one hopes that as the time ''t'' increases the manifold becomes easier to understand. Ricci flow expands the negative curvature part of the manifold and contracts the positive curvature part. 
+
+In some cases Hamilton was able to show that this works; for example, if the manifold has positive Ricci curvature everywhere he showed that the manifold becomes extinct in finite time under Ricci flow without any other singularities. (In other words, the manifold collapses to a point in finite time; it is easy to describe the structure just before the manifold collapses.) This easily implies the Poincaré conjecture in the case of positive Ricci curvature. However in general the Ricci flow equations lead to singularities of the metric after a finite time. Perelman showed how to continue past these singularities: very roughly, he cuts the manifold along thesingularities, splitting the manifold into several pieces, and then continues with the Ricci flow on each of these pieces. This procedure is known as Ricci flow with surgery. 
+
+A special case of Perelman's theorems about Ricci flow with surgery is given as follows. 
+:The Ricci flow with surgery on a closedoriented 3-manifold is well defined for all time. If the fundamental group is a free product of finite groups and cyclic groups then the Ricci flow with surgery becomes extinct in finite time, and at all times all components of the manifold are connected sums of ''S'';2; bundles over ''S'';1; and quotients of ''S'';3;.
+
+This result implies the Poincaré conjecture because it is easy to check it for the possible manifolds listed in the conclusion. 
+
+The conditionon the fundamental group turns out to be necessary (and sufficient) for finite time extinction, and in particular includes the case of trivial fundamental group. It is equivalent to saying that the prime decomposition of the manifold has no acyclic components, and turns out to be equivalent to the condition that all geometric pieces of the manifold have geometries based on the two Thurston geometries ''S'';2;×R and ''S'';3;. By studying the limit of the manifold for large time, Perelman provedThurston's geometrization conjecture for any fundamental group: at large times the manifold has a thick-thin decomposition, whose thick piece has a hyperbolic structure, and whose thin piece is a graph manifold, but this extra complication is not necessary for proving just the Poincaré conjecture.;Terence Tao wrote an exposition of Ricci flow with surgery in:| date = 2006 }};
+
+References
+;
+
+
+External links
+* [http://www.claymath.org/prizeproblems/poincare.htm The Poincaré conjecture described] by the Clay Mathematics Institute.
+* Bruce Kleiner (Yale) and John Lott (University of Michigan): [http://www.math.lsa.umich.edu/~lott/ricciflow/perelman.html &quot;Notes &amp; commentary on Perelman's Ricci flow papers&quot;].
+*Stephen Ornes, [http://www.seedmagazine.com/news/2006/08/what_is_the_poincar_conjecture.php What is The Poincaré Conjecture?], ''Seed Magazine'', 25 August 2006.
+*The [http://www.mcm.ac.cn/Active/yau_new.pdf slides] used by Yau in a popular talk on the Poincaré conjecture.
+*[http://www.bbc.co.uk/radio4/history/inourtime/inourtime_20061102.shtml &quot;The Poincaré Conjecture&quot;] - BBC Radio 4 programme ''In Our Time'', 2nd November, 2006. Contributors June Barrow-Green, Lecturer in the History of Mathematics at the Open University, Ian Stewart, Professor of Mathematics at the University of Warwick, Marcus du Sautoy, Professor of Mathematics at the University of Oxford, and presenter Melvyn Bragg.
+*[http://www.npr.org/templates/story/story.php?storyId=6682439 &quot;Solving an Old Math Problem Nets Award, Trouble&quot;] - NPR segment, December 26, 2006.
+*
+
+Category:Geometric topology
+Category:3-manifolds
+Category:Conjectures
+Category:Millennium Prize Problems
+
+af:Poincaré-vermoede
+ar:حدسية بوانكاريه
+ca:Conjectura de Poincaré
+da:Poincarés formodning
+de:Poincaré-Vermutung
+es:Hipótesis de Poincaré
+eo:Konjekto de Poincaré
+fr:Conjecture de Poincaré
+ko:푸앵카레 추측
+it:Congettura di Poincaré
+he:השערת פואנקרה
+nl:Vermoeden van Poincaré
+ja:ポアンカレ予想
+pl:Hipoteza Poincarégo
+pt:Conjectura de Poincaré
+ro:Conjectura lui Poincaré
+ru:Гипотеза Пуанкаре
+fi:Poincarén otaksuma
+sv:Poincarés förmodan
+vi:Giả thuyết Poincaré
+tr:Poincaré varsayımı
+zh-yue:龐加萊猜想
+zh:庞加莱猜想

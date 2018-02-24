@@ -1,0 +1,67 @@
+{{dablink|This article is about the Atlantic tropical storm in 2003. For other storms of the same name, see [[Tropical Storm Larry]].}}
+{{Infobox Hurricane
+| Name=Tropical Storm Larry
+| Type=Tropical storm
+| Year=2003
+| Basin=Atl
+| Image location=Tropical Storm Larry (2003).jpg
+| Image name=Tropical Storm Larry near landfall
+| Formed=[[October 1]], [[2003]]
+| Dissipated=[[October 6]], [[2003]]
+| 1-min winds=55
+| Pressure=993
+| Damages=53.6
+| Inflated=2
+| Fatalities=5 direct
+| Areas=[[Mexico]], [[El Salvador]]
+| Hurricane season=[[2003 Atlantic hurricane season]]
+}}
+'''Tropical Storm Larry''' was the twelfth tropical storm in the [[2003 Atlantic hurricane season]]. It was one of eight storms to impact [[Mexico]] between the Atlantic Ocean in the season, a near-record. Larry formed in early October from an extratropical storm in the [[Bay of Campeche]], and reached a peak intensity of 65&nbsp;mph (100&nbsp;km/h). Due to weak steering currents, the storm southward, resulting the storm to hit the [[Tabasco]] coastline, the first Tabascan landfall since [[1973 Atlantic hurricane season#Hurricane Brenda|Tropical Storm Brenda]] in [[1973]].<ref name="mexgob">{{cite web|author=Servicio Meteorológico Nacional|year=2003|title=Tormenta Tropical "Larry" del Océano Atlántico|language=Spanish|accessdate=2006-06-03|url=http://smn.cna.gob.mx/ciclones/tempo2003/atlantico/larry/larry.html}}</ref>
+
+Larry drifted across the [[Isthmus of Tehuantepec]], dropping heavy rainfall of over nine inches in places. The rainfall led to flooding and mudslides, causing damage to thousands of houses. The flooding killed five people and resulted in $53.6 million (2003 USD, $59&nbsp;million 2005 USD) in damage. Larry was one of three tropical cyclones to hit [[Mexico]] in a short period of time, including [[2003 Pacific hurricane season#Hurricane Nora|Tropical Depression Nora]] and [[2003 Pacific hurricane season#Hurricane Olaf|Tropical Storm Olaf]] in the eastern [[Pacific Ocean]].
+
+==Storm history==
+{{storm path|Larry 2003 track.png}}
+A [[tropical wave]] moved off the coast of [[Africa]] on [[September 17]]. It moved across the shear-ridden [[Atlantic Ocean]] without development, and remained disorganized until reaching the western [[Caribbean Sea]] on [[September 26]]. There, the wave situated itself beneath an upper level anticyclone, allowing for favorable upper level outflow and for deep convection to develop. On the 27th, a [[low pressure area]] developed while the system was located a few hundred miles to the east of the [[Yucatán Peninsula]]. The system continued to organize, and nearly developed into a tropical depression before moving ashore on the Yucatán Peninsula on [[September 29]].<ref name="tcr">{{cite web|author=Stacy Stuart|year=2003|title=Tropical Storm Larry Tropical Cyclone Report|publisher=National Hurricane Center|accessdate=2006-06-03|url=http://www.nhc.noaa.gov/2003larry.shtml}}</ref>
+
+Dry air and land weakened the tropical wave, and when the area entered the [[Bay of Campeche]], it merged with a stationary frontal boundary. Cool, dry air around the system caused the system to develop a cold core, and the area organized into an extratropical low on [[September 30]]. A large high pressure system over the northern [[Gulf of Mexico]] forced the system southward, where it developed significant convection. The system developed a warm core, and on [[October 1]] the storm organized into Tropical Storm Larry while located 300&nbsp;miles east-southeast of [[Tampico]], [[Mexico]].<ref name="tcr"/>
+
+[[Image:TS larry 2003.jpg|thumb|right|200px|Larry on October 2]]
+Weak steering currents allowed for Larry to drift westward at 2 mph&nbsp; while marginally favorable conditions allowed the storm to strengthen to a peak of 65&nbsp;mph on [[October 3]]. A mid-level ridge forced the storm more to the south-southeast, where after remaining a 60&nbsp;mph storm for three days, Larry made landfall on [[Paraíso, Tabasco|Paraíso]] in the [[Mexico|Mexican]] state of [[Tabasco]] on [[October 5]]. It steadily weakened over land, and degenerated into a remnant low on [[October 6]] while mid-way through the [[Isthmus of Tehuantepec]]. The remnant low turned to the southwest, and reached the eastern [[Pacific Ocean]] on the 7th.<ref name="tcr"/> The remnants of Larry re-organized in the eastern Pacific, with the National Hurricane Center indicating for the possibility of redevelopment into a tropical depression on [[October 9]].<ref name="two">{{cite web|author=Jack Beven|year=2003|title=Tropical Weather Outlook for October 9, 2003|accessdate=2006-06-03|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-P/2003101004.ABPZ20}}</ref> However, the convection diminished, and further development was no longer anticipated.<ref name="two2">{{cite web|author=Lixion Avila|year=2003|title=Tropical Weather Outlook for October 10, 2003|accessdate=2006-06-03|url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-P/2003101010.ABPZ20}}</ref>
+
+==Preparations==
+Due to its erratic motion, the [[Mexico|Mexican]] government issued a [[tropical cyclone warnings and watches|Tropical Storm Warning]] and a Hurricane Watch early in Larry's lifetime from [[Veracruz, Veracruz|Veracruz]] to [[Campeche, Campeche|Campeche]]. The watches and warnings were extended westward to [[Tuxpan]] on the 4th and extended eastward to [[Ciudad del Carmen]] on the 5th.<ref name="tcr"/> Due to the threat of the storm, officials closed three [[Pemex]] oil ports<ref name="mexprep">{{cite news|author=Elizabeth Fullerton|year=2003|title=Tropical Storm Larry Shuts Mexican Oil Ports|publisher=Reuters|accessdate=2006-06-03|url=http://www.planetark.com/dailynewsstory.cfm/newsid/22442/newsDate/3-Oct-2003/story.htm}}</ref>. The company used its reserves to make sure profits weren't disrupted.<ref name="mexprep2">{{cite news|author=Reuters|year=2003|title=Storms Hover Off Mexico, Two Oil Ports Shut|accessdate=2006-06-03|url=http://www.planetark.com/dailynewsstory.cfm/newsid/22464/newsDate/6-Oct-2003/story.htm}}</ref> In addition, the storm closed shipping ports in [[Dos Bocas]] in [[Tabasco]], [[Coatzacoalcos]] in [[Veracruz]], and [[Cayo Arcas]] in [[Campeche]]. The Mexican government placed six coastal states on maximum alert<ref name="mexprep"/>, while authorities set up 75 evacuation shelters for around 1,500 people. Because of the storm, the government declared much of eastern Mexico as a state of emergency.<ref name="mexprep3">{{cite news|Agence France-Presse|year=2003|title=Mexico on high alert for triple whammy: "Larry," "Olaf," "Nora"|accessdate=2006-06-03|url=http://www.terradaily.com/2003/031005211634.isnu6kfn.html}}</ref><div style="clear:both;"></div>
+
+==Impact==
+[[Image:Larry2003filledrainblk.gif|right|thumb|300px|Rainfall totals from Larry]]
+Tropical Storm Larry was one of eight storms to hit Mexico from either the [[Atlantic Ocean]] or the [[Pacific Ocean]], the highest since the record of nine in [[1971]].<ref name="2003wmo">{{cite web|author=World Meteorological Organization|year=2004|title=Final Report of the Twenty-Sixth Session|accessdate=2006-06-03|url=http://www.wmo.ch/web/www/TCP/Reports/HC26-English.pdf}}</ref> The [[National Hurricane Center]] expected the storm to produce a storm surge of 3 to 5&nbsp;feet, with high waves on top<ref name="laradv10">{{cite web|author=Lixion Avila|year=2003|title=Tropical Storm Larry Public Advisory 10A|publisher=National Hurricane Center|accessdate=2006-06-03|url=http://www.nhc.noaa.gov/archive/2003/pub/al172003.public_a.010.shtml}}</ref>, though no official surge readings were reported.<ref name="tcr"/> The highest recorded winds on land were 59&nbsp;mph (95&nbsp;km/h) in [[El Alacrán]] in [[Tabasco]]. The worst of Larry's effects came from its rainfall, peaking at 24.77&nbsp;inches (629.2&nbsp;mm) in [[Upper Juarez]] in southeastern [[Mexico]].<ref name="rain">{{cite web|author=David Roth|year=2006|title=Rainfall data for Tropical Storm Larry|publisher=HPC|accessdate=2006-09-21|url=http://www.hpc.ncep.noaa.gov/tropical/rain/larry2003.html}}</ref> The highest 24 hour rainfall total was 9.6&nbsp;inches (245.5&nbsp;mm) in Tortuguero, [[Chiapas]] in 24 hours,<ref name="2003wmo"/> while several other locations reported over 4&nbsp;inches in 24 hours.<ref name="mexgob"/>
+
+The flooding damaged more than 21,000 houses across Mexico, in combination with the damage from Eastern Pacific Hurricanes [[2003 Pacific hurricane season#Hurricane Nora|Nora]] and [[2003 Pacific hurricane season#Hurricane Olaf|Olaf]].<ref name="laraft">{{cite web|author=International Federation of Red Cross And Red Crescent Societies (IFRC)|year=2004|title=Mexico: Post-hurricane flooding Appeal No. 22/03 Final Report|accessdate=2006-06-03|url=http://www.reliefweb.int/rw/RWB.NSF/db900SID/HSHU-5ZQ5BN?OpenDocument&rc=2&emid=ACOS-635P4L}}</ref> Damage was greatest around the Chipas capital of [[Tuxtla Gutiérrez]], where over nine thousand houses were affected.<ref name="chipias">{{cite web|author=Secretaría de Desarrollo Social|year=2003|title=Carlos Ramos Padilla Entrevista a la Secretaria de Desarrollo Social, Josefina Vázquez Mota|accessdate=2006-06-03|language=Spanish|url=http://indesol.gob.mx/prensa/entrevistas/e_20031007_2.htm}}</ref> The rainfall caused mudslides across the country, hospitalizing two individuals in central [[Hidalgo (Mexico)|Hidalgo]]. The flooding also caused severe crop damage along Larry's path.<ref name="aplar">{{cite news|author=Associated Press|year=2003|title=Tropical Depression Olaf weakens after moving inland|accessdate=2006-06-03|url=http://www.floridatoday.com/!NEWSROOM/hurricane/100803trop.htm}}</ref> Strong wind gusts caused outages to telephone and power services.<ref name="2003wmo"/> In all, Larry caused 5 deaths<ref name="tcr"/> and $53.6 million in damage (2003 USD, $59&nbsp;million 2005 USD).<ref name="zuniga">{{cite web|author=Foro Consultivo Cientifico y Technológio|year=2005|title=Desastres mayores registrados en México de 1980 a 2003|accessdate=2006-06-03|language=Spanish|url=http://www.foroconsultivo.org.mx/eventos_realizados/proteccion1/ponencias/zuniga.pdf}}</ref>
+
+In [[El Salvador]], rainfall from the remnants of Larry, combined with previous rainfall, caused mudslides and flooding, forcing several thousand people to evacuate in [[San Salvador]]. The flooding destroyed or damaged hundreds of houses.<ref name="eldam">{{cite web|author=Thor-Arne Prois|year=2003|title=Emergency Relief to Victims of Floods & Mudslides in El Salvador|publisher=ACT International|accessdate=2006-06-03|url=http://www.floridatoday.com/!NEWSROOM/hurricane/100803trop.htm}}</ref>
+
+==Aftermath==
+Tropical Storm Larry hit Mexico at around the same time as two other tropical storms. The Mexican Red Cross provided aid for 6,587 families throughout the country, while the International Federation of Red Cross and Red Crescent Societies launched an international appeal for aid. The appeal raised $284,472.8 (2003 USD). The Mexican Red Cross distributed 4,000 food and hygiene packets to various places, and delivered 2,750 family packets and over 4,300 mattresses to citizens in Chiapas. 5,000 school kits were distributed, as well. A total of 38,750 people benefited from the operation.<ref name="laraft"/>
+
+The name '''Larry''' was not retired and is scheduled to be used next during the [[2009 Atlantic hurricane season|2009 season]].
+
+== See also ==
+{{tcportal}}
+* [[Tropical cyclone]]
+* [[List of notable Atlantic hurricanes]]
+
+== References ==
+{{reflist}}
+{{2003 Atlantic hurricane season buttons}}
+
+[[Category:Atlantic hurricanes|Larry (2003)]]
+[[Category:2003 Atlantic hurricane season|Larry (2003)]]
+[[Category:Tropical storms|Larry]]
+[[Category:Hurricanes in Quintana Roo|Larry (2003)]]
+[[Category:Hurricanes in Yucatán|Larry (2003)]]
+[[Category:Hurricanes in Campeche|Larry (2003)]]
+[[Category:Hurricanes in Chiapas|Larry (2003)]]
+[[Category:Hurricanes in Veracruz|Larry (2003)]]
+[[Category:Hurricanes in Oaxaca|Larry (2003)]]
+[[Category:Hurricanes in Puebla|Larry (2003)]]
+[[Category:Hurricanes in Tabasco|Larry (2003)]]

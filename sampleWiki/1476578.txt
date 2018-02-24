@@ -1,0 +1,43 @@
+In [[game theory]], a player's '''strategy''', in a [[Glossary of game theory|game]] or a [[economic|business]] situation, is a complete plan of action for whatever situation might arise; this fully determines the player's behaviour. A player's strategy will determine the action the player will take at any stage of the game, for every possible history of play up to that stage.
+
+A '''strategy profile''' is a set of strategies for each player which fully specifies all actions in a game. A strategy profile must include one and only one strategy for every player.
+
+The '''strategy''' concept is sometimes (wrongly) confused with that of a '''move'''. A '''move''' is an action taken by a player at some point during the play of a game (e.g., in chess, moving white's Bishop a2 to b3). A '''strategy''' on the other hand is a complete [[algorithm]] for playing the game, implicitly listing all moves and counter-moves for every possible situation throughout the game. The number of "moves" in a [[Tic Tac Toe]] game is 4 or 5, depending on whether you start or not, and considering that neither player can skip a turn; while the actual number of "strategies" is over 6 trillion.
+
+==Types of strategies==
+
+A '''[[pure strategy]]''' provides a complete definition in which way a player may play a game. In particular, it defines every possible choice a player might have to make, which option the player picks. A player's '''strategy space''' is the set of pure strategies available to that player.
+
+A '''[[mixed strategy]]''' is an assignment of a [[probability]] to each pure strategy. It defines a probability over the strategies, and reflects that, rather than choosing a particular pure strategy, the player will randomly select a pure strategy based on the distribution given by their mixed strategy. Of course, every pure strategy is a mixed strategy which selects that particular pure strategy with probability ''1'' and every other one with probability ''0''.
+
+== Examples of strategies ==
+=== Tit for Tat ===
+
+Strategies in [[game theory]] are of essential importance, since the [[prisoners dilemma]] was shown never to lead to cooperation unless multiperiod strategies are considered. 
+A highly effective strategy is "[[Tit for Tat]]". It was found in a programming contest, with several algorithms competing for the highest utility score.
+
+===Roulette===
+There is a variety of betting strategies and tactics in the [[Roulette]] game.
+The most famous strategy is the doubling strategy:
+
+# Set 1€
+# If you lose: double your bet
+# Repeat 2. until you have a profit
+
+This was originally called the "[[Martingale (roulette system)|Martingale]] strategy", and was formalized simply to show why it will not create an [[expected]] profit. However, it is a common strategy seen in many casinos, especially by beginning players who are sometimes called "system players". The typical [[casino]] prefers the "system player" to other types of player because the casino's risk is very low (they stand to lose only the amount of the minimum bet each time the player starts), but their potential reward is extremely high (the entire [[capital]] of the gambler). However, most "system players" tend to play only for a short time, and so the casino's edge is not compounded as often against the system player as against the usual roulette players (who vary their bet size less).
+
+=== Hedging ===
+
+[[hedge (finance)|Hedging]] is a strategy for financial investments, that searches for the lowest risk or optimal risk to performance ratio. Some kind of hedges are uniquely determined from simple parameters. The [[Black-Scholes equation]] demonstrates how a continuous stock buy and selling strategy can replicate an [[Option (finance)|option]] without risk.
+
+==External links==
+* {{planetmath|id=3204|title=Strategy}} 
+
+{{Game theory}}
+
+[[Category:Game theory]]
+
+[[es:Estrategia (teoría de juegos)]]
+[[pl:Strategia (teoria gier)]]
+[[ru:Стратегия (математика)]]
+[[sr:Стратегија (теорија игара)]]

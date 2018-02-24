@@ -1,0 +1,196 @@
+{{Infobox Canton|short_name=Basel-Country|
+coord={{coor title dm|47|27|N|7|44|E|region:CH-BL_type:adm1st}}|
+local_names=Basel-Landschaft|
+coa_img_path=BaleCampagne-coat of arms.svg|
+flag_img_path=Flag of Canton of Basel Land.svg|
+locatormap_img_path=Swiss_Canton_Map_BL.png|
+cantonalmap_img_path=Karte Kanton Baselland.png|
+capital=[[Liestal]]|
+area=518|area_rank=18th|area_scale=8|
+population=269,638|population_rank=10th|population_asof=2006|
+population_density=521|
+since=1501|
+abbr=BL|
+languages=[[German language|German]]|
+executive=Regierungsrat|executive_members=5|
+legislative=[[Landrat]]|parliament_members=90|
+highest=Hinteri Egg|highest_m=1169|
+municipalities_number=86|
+districts_designation=Bezirke|districts_number=5|}}
+'''Basel-Country''' ([[German language|German]]: {{Audio|De-Basel-Landschaft.ogg|''Basel-Landschaft''}}; [[Swiss German]]: ''Basel-Land''/''Baselbiet'') is one of the 26 [[cantons of Switzerland]]. The capital is [[Liestal]]. It shares borders with the cantons of [[Basel-Stadt]], [[Solothurn (canton)|Solothurn]], [[Canton of Jura|Jura]] and [[Aargau]], and with [[France]] and the [[Germany|German]] state of [[Baden-Württemberg]].
+
+==History==
+Basel-Landschaft formed together with Basel-Stadt the historic [[Basel (canton)|canton Basel]] until it separated following the uprising of [[1833]] ([[Battle of the Hülftenschanz]] near [[Frenkendorf]]).
+
+In Roman times, the area of Basel was a centre of Roman activity. There are well-preserved remains at the site of ''Augusta Raurica'' in the canton of Basel-Landschaft. Around [[200]] there were about 20,000 people living in this city, now part of the much smaller [[Augst]]. The remains are on display in an open-air museum. The museum attracts over 140,000 visitors year after year. Many of these visitors are schoolchildren from other parts of Switzerland. The site of Augusta Raurica includes amongst other the best-preserved amphitheatre north of the Alps, or a reconstructed Roman villa.
+
+The lands of the canton Basel-Landschaft are part of the lands acquired by the city of [[Basel]]. Until the end of the [[16th century]], most of the land of Basel-Landschaft belonged to the city of Basel. After Napoleon’s visit in [[1798]], the country achieved equality with the city. Economically the country was dependent on the city, most probably because of the low level of education in the agricultural areas at the time. The city of [[Basel]] remained the cultural and economic centre of both Basel cantons up to these days.
+
+After [[1830]] there were political quarrels in the canton of Basel. Some of it was concerned with the rights of the population in the agricultural areas. This led to the separation of the canton Basel-Landschaft from the city of Basel on 26 August [[1833]].
+
+Ever since the separation, there has been a movement for re-unification. This movement gained momentum after [[1900]] when many parts of Basel-Landschaft became industrialized. The two half cantons agreed in principle to re-unify, but in [[1969]] the people of Basel-Landschaft voted down a referendum in order to keep their independence. It is thought that the closing economic gap between the two cantons was the main reason why the population changed their attitude. 
+
+The vote of Basel-Landschaft to keep their independence was not the end of a close relationship between the two Basels. The two half cantons have since signed a number of agreements to co-operate. The contribution of Basel-Landschaft to the [[University of Basel]] since [[1976]] is just one example.
+
+==Geography==
+The canton of Basel-Landschaft lies in the north of Switzerland. The [[Jura mountains|Jura]] mountain chain traverses the canton. The rivers [[Ergolz]] and [[Birs]] drain the lands of the canton.
+
+==Economy==
+The main agricultural produce of the canton are fruits, [[dairy farming]] and cattle breeding. Important industries include textiles, metals and chemicals.
+
+The canton of Basel-Landschaft is part of the economic centre around [[Basel]] that includes parts of [[France]] and [[Germany]] as well as both cantons of Basel. Since the [[1960s]] there are agreements to strengthen contacts within the so-called ''Regio Basiliensis''.  This economic co-operation is often considered as the most intensive within [[Europe]].
+
+From the [[17th century]] until the beginning of the [[20th century]] silk weaving was important in Basel-Landschaft. Factories were established as early as [[1850]], following the finding of [[Halite|salt]] in underground deposits, founding industries such as the chemical industry in ''Schweizerhalle''. The chemical industry means that Basel is one of the richer parts of Switzerland.
+
+The chemical industry is not the sole employer in the canton. Small and middle-sized businesses make up about a quarter of the cantonal economy. Many of these, however, are connected to the larger employers.
+
+==Regions==
+The nine municipalities of the ''Arlesheim'' district used to belong to the [[diocese of Basel]]. In [[1792]] [[France|French]] troops occupied the district and in [[1793]] the lands were annexed by France, which explains the linguistic switch of the Family of the House of Basel's name from "von Basel" to "de Bâle", since Arlesheim holds their manor. In [[1815]] at the [[Congress of Vienna]] the district joined Basel.
+
+The district of ''Laufental'' has the same history as that of ''Arlesheim''. The important difference is that in [[1815]] Laufental joined [[Canton of Bern|Bern]] rather than Basel. When the [[canton of Jura]] was created in [[1979]], the district of Laufental became an enclave of the canton of Bern. It was allowed self- determination and in [[1980]] the people decided to join the canton of Basel-Landschaft. This led to ''Laufental'' joining the canton of Basel-Landschaft on 1 January [[1994]] after a lengthy administrative process.
+
+==Politics==
+Since the decision to remain independent from Basel-Stadt in [[1969]] there have been a number of requests in the parliament for Basel-Landschaft to become a ''full'' canton. In [[1988]] the canton of Basel-Landschaft had this aim written into its constitution. The aim remains to change the Swiss constitution to recognize the two cantons of Basel as full members.
+
+==Demographics==
+The population is predominantly [[German language|German]] speaking. [[Protestantism]] is the main religion in the canton. Between [[1959]] and [[1970]] the canton was Switzerland's fastest-growing, as the population almost doubled from 108,000 to 205,000. Today, the canton has a population of 261,400.
+
+==Districts==
+{{Canton Basel-Country districts}}
+
+==Municipalities==
+
+{| border="1" style="border-collapse: collapse"
+|----- valign="top" style="font-size:x-small"
+|
+District of [[Arlesheim (district)|Arlesheim]]
+*[[Aesch, Basel-Country|Aesch]]
+*[[Allschwil]]
+*[[Biel-Benken]]
+*[[Binningen, Switzerland|Binningen]]
+*[[Birsfelden]]
+*[[Bottmingen]]
+*[[Ettingen]]
+*[[Münchenstein]]
+*[[Muttenz]]
+*[[Oberwil, Basel-Country|Oberwil]]
+*[[Pfeffingen]]
+*[[Reinach, Basel-Country|Reinach]]
+*[[Schönenbuch]]
+*[[Therwil]]
+District of [[Laufen (district)|Laufen]]
+*[[Blauen, Basel-Country|Blauen]]
+*[[Brislach]]
+*[[Burg]]
+*[[Dittingen]]
+*[[Duggingen]]
+*[[Grellingen]]
+*[[Liesberg]]
+*[[Nenzlingen]]
+*[[Roggenburg]]
+*[[Röschenz]]
+*[[Wahlen]]
+*[[Zwingen]]
+| 
+District of [[Liestal (district)|Liestal]]
+*[[Arisdorf]]
+*[[Augst]]
+*[[Bubendorf]]
+*[[Frenkendorf]]
+*[[Füllinsdorf]]
+*[[Giebenach]]
+*[[Hersberg]]
+*[[Lausen]]
+*[[Lupsingen]]
+*[[Pratteln]]
+*[[Ramlinsburg]]
+*[[Seltisberg]]
+*[[Ziefen]]
+District of [[Waldenburg (district)|Waldenburg]]
+*[[Arboldswil]]
+*[[Bennwil]]
+*[[Bretzwil]]
+*[[Diegten]]
+*[[Eptingen]]
+*[[Hölstein]]
+*[[Lampenberg]]
+*[[Langenbruck]]
+*[[Lauwil]]
+*[[Liedertswil]]
+*[[Niederdorf]]
+*[[Oberdorf, Basel-Country|Oberdorf]]
+*[[Reigoldswil]]
+*[[Titterten]]
+*[[Waldenburg]]
+|
+District of [[Sissach (district)|Sissach]]
+*[[Anwil]]
+*[[Böckten]]
+*[[Buckten]]
+*[[Buus]]
+*[[Diepflingen]]
+*[[Gelterkinden]]
+*[[Häfelfingen]]
+*[[Hemmiken]]
+*[[Itingen]]
+*[[Känerkinden]]
+*[[Kilchberg, Basel-Country|Kilchberg]]
+*[[Läufelfingen]]
+*[[Maisprach]]
+*[[Nusshof]]
+*[[Oltingen]]
+*[[Ormalingen]]
+*[[Rickenbach, Basel-Country|Rickenbach]]
+*[[Rothenfluh]]
+*[[Rümlingen]]
+*[[Rünenberg]]
+*[[Tecknau]]
+*[[Tenniken]]
+*[[Thürnen]]
+*[[Wenslingen]]
+*[[Wintersingen]]
+*[[Zunzgen]]
+|}
+
+''See also:'' [[Municipalities of Switzerland]]
+
+==See also==
+*''[[Basellandschaftliche Zeitung]]'', daily newspaper published in [[Liestal]].
+
+== External links ==
+{{commonscat}}
+*[http://www.bl.ch Official Page] {{de icon}}
+*[http://www.statistik.admin.ch/stat_ch/ber00/ekan_bl.htm Official Statistics]
+*{{HDS|7477}}
+
+{{Switzerland}}
+
+[[Category:Cantons of Switzerland]]
+
+[[als:Kanton Basel-Landschaft]]
+[[ar:كانتون ريف بازل]]
+[[an:Cantón de Basilea-Campaña]]
+[[frp:Bâla-Campagne]]
+[[ca:Basilea-Camp]]
+[[cs:Basilej-venkov]]
+[[de:Kanton Basel-Landschaft]]
+[[es:Cantón de Basilea-Campiña]]
+[[eo:Kantono Bazelo Kampara]]
+[[eu:Basilea Landa]]
+[[fr:Canton de Bâle-Campagne]]
+[[id:Kanton Basel (negeri)]]
+[[it:Canton Basilea Campagna]]
+[[la:Pagus Basilia rus]]
+[[nl:Bazel-Landschap]]
+[[ja:バーゼル＝ラント準州]]
+[[no:Basel-Landschaft]]
+[[oc:Canton de Basilèa-Campanha]]
+[[pl:Bazylea-okręg]]
+[[pt:Basiléia-Campo (cantão)]]
+[[ro:Cantonul Basel-Provincie]]
+[[rm:Basilea-Champagna]]
+[[ru:Базель-Ланд]]
+[[fi:Basel-Landschaft]]
+[[sv:Basel-Landschaft]]
+[[tr:Basel Land (kanton)]]
+[[zh:巴塞尔乡村州]]

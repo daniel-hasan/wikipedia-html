@@ -1,0 +1,213 @@
+{{Infobox Former Country
+|native_name = {{lang|zh-hk|香港}}
+|conventional_long_name = Hongkong / Hong Kong
+|common_name = Hong Kong
+|
+|continent = Asia
+|region = China
+|country = Hong Kong
+|era = 
+|status = Colony
+|status_text = Crown Colony (1843-1942, 1945-1983)<br>Dependent Territory (1983-1997)
+|empire = United Kingdom
+|government_type = 
+|
+|year_start = 1841
+|year_end = 1997
+|life_span = 1841 – 1941<br>1945 – 1997
+|
+|year_exile_start = 
+|year_exile_end = 
+|
+|event_start = [[Convention of Chuenpeh]]
+|date_start = [[January 25]], [[1841]]
+|event_end = [[Transfer of the sovereignty of Hong Kong|Transfer of sovereignty]]
+|date_end = [[June 30]], [[1997]]
+|
+|event1 = [[Treaty of Nanjing]]
+|date_event1 = [[August 29]], [[1842]]
+|event2 = [[Convention of Beijing]]
+|date_event2 = [[October 18]], [[1860]]
+|event3 = [[Convention for the Extension of Hong Kong Territory]]
+|date_event3 = [[July 1]], [[1898]]
+|event4 = Surrendered to [[Empire of Japan|Japan]]
+|date_event4 = [[December 25]], [[1941]]
+|event5 = Back to British rule
+|date_event5 = [[August 15]], [[1945]]
+|
+|event_pre = 
+|date_pre = 
+|event_post = 
+|date_post = 
+|
+|p1 = Qing Dynasty
+|flag_p1 = <!-- Qing didn't have any flag until 1862. -->
+|image_p1 = 
+|p2 = 
+|flag_p2 = 
+|s1 = People's Republic of China
+|flag_s1 = Flag of the People's Republic of China.svg
+|image_s1 = 
+|s2 = Hong Kong Special Administrative Region
+|flag_s2 = Flag of Hong Kong.svg
+|
+|image_flag = Flag of Hong Kong 1959.svg
+|flag = 
+|flag_type = Flag of Hong Kong (1959-1997)
+|
+|image_coat = Colonialhongkongarms.png
+|symbol = 
+|symbol_type = Coat of arms of Hong Kong (1959-1997)
+|
+|image_map = Hk-map.png
+|image_map_caption = Location of Hong Kong
+|
+|capital = [[Victoria City]]
+|capital_exile = 
+|latd=22 |latm=16 |latNS=N |longd=114 |longm=09 |longEW=E 
+|
+|national_motto = {{lang|fr|''"[[Dieu et mon droit]]"''}}&nbsp;{{spaces|2}}<small>([[French language|French]])<br/>"God and my right"</small>
+|national_anthem = ''[[God Save the Queen|God Save the King/Queen]]''&nbsp;
+|common_languages = [[English language|English]]<br>[[Chinese language|Chinese]]
+|religion = 
+|currency = [[Hong Kong dollar]] <small>from [[1937]]</small>
+|
+|leader1 = [[Victoria of the United Kingdom|Victoria]]
+|leader2 = [[Edward VII of the United Kingdom|Edward VII]]
+|leader3 = [[George V of the United Kingdom|George V]]
+|leader4 = [[Edward VIII of the United Kingdom|Edward VIII]]
+|leader5 = [[George VI of the United Kingdom|George VI]]
+|leader6 = [[Elizabeth II of the United Kingdom|Elizabeth II]]
+|year_leader1 = [[1841]]–[[1901]] 
+|year_leader2 = [[1901]]–[[1910]]
+|year_leader3 = [[1910]]–[[1927]]
+|year_leader4 = [[1936]]
+|year_leader5 = [[1936]]-[[1952]]
+|year_leader6 = [[1952]]- (Cont.)
+|title_leader = [[List of monarchs in the British Isles|Monarch]]
+|representative1 = Sir [[Henry Pottinger]]
+|representative2 = Sir [[Mark Aitchison Young]]
+|representative3 = The Rt. Hon. [[Chris Patten]]
+|year_representative1 = [[1843]]-[[1844]]
+|year_representative2 = [[1941]], [[1946]]-[[1947]]
+|year_representative3 = [[1992]]-[[1997]]
+|title_representative = [[Governor of Hong Kong|Governor]]
+|deputy1 = [[John Robert Morrison]]
+|deputy2 = Sir [[Franklin Charles Gimson]]
+|deputy3 = [[David Mercer MacDougall]]
+|deputy4 = [[Anson Chan]]
+|year_deputy1 = [[1843]]-[[1844]]
+|year_deputy2 = [[1941]]
+|year_deputy3 = [[1945]]-[[1949]]
+|year_deputy4 = [[1993]]-[[1997]]
+|title_deputy = [[Chief Secretary of Hong Kong|Colonial Secretary/Chief Secretary]]<sup>1</sup>
+|
+|legislature = [[Legislative Council of Hong Kong|Legislative Council]] <small>from [[1843]]</small>
+|
+|stat_year1 = 1848
+|stat_area1 = 80.4
+|stat_pop1 = 24000
+|stat_year2 = 1901
+|stat_area2 = 1042
+|stat_pop2 = 283978
+|stat_year3 = 1945
+|stat_area3 = 1042
+|stat_pop3 = 750000
+|stat_year4 = 1995
+|stat_area4 = 1042
+|stat_pop4 = 6300000
+|footnotes = <sup>1</sup> The title changed from "Colonial Secretary" to "Chief Secretary" in 1976.
+}}
+
+The '''Colonial [[Hong Kong]]''' period began in the [[19th century]] when the [[United Kingdom|British]], [[Netherlands|Dutch]], [[France|French]], [[Demographics of India|Indian]]s and [[United States|Americans]] saw [[China]] as the world's largest untapped market. The [[British empire]] launched their first and one of the most aggressive expeditionary forces to claim the territory under [[Victoria of the United Kingdom|Queen Victoria]] in [[1840]], three years after she became the queen of the [[United Kingdom of Great Britain and Ireland]]. The territory that would later be known as Hong Kong was gained from the [[Qing Dynasty|last dynasty]] of [[History of China#Qin Dynasty: The Beginning of Imperial China|Imperial China]].<ref name="Wiltshireone">Wiltshire, Trea. [First published 1987] (republished & reduced 2003). Old Hong Kong - Volume One. Central, Hong Kong: Text Form Asia books Ltd. ISBN Volume One 962-7283-59-2</ref>
+
+In the short span of just a few decades, Hong Kong was transformed from a rocky undeveloped mountainous terrain to a major [[entrepôt]] for global trade. Through the [[opium wars]] and a series of treaties, the British were able to legitimately claim the territory until 1997. Early social and economic problems did exist in the [[British overseas territories|colony]], as there were drastic differences between Eastern and Western philosophy and culture. Nonetheless Hong Kong seized the opportunity to become one of the first parts of [[East Asia]] to modernize.
+
+==Territorial establishments==
+===Beginning of trades===
+[[Image:HKStreets1865.jpg|thumb|left|200px|Streets of Hong Kong 1865]]
+By the end of the [[18th century|18th century]] the [[British Empire]] was already well established in trading and conquest around the world. China was the main supplier of tea to the British, who were domestically consuming 30 million [[Pound (mass)|pounds]] of [[Chinese tea]] by [[1830]] averaging 2 pounds of leaves for every citizen. From the British economy standpoint, Chinese tea was a crucial item since it provided massive wealth for the [[Tai-Pan|taipans]] and the tea [[Duty (economics)|duty]] accounted for 10% of the government income.<ref name="Wiltshireone" /> Though a lot of conflict exist during the trades. The British [[diplomats]] have never been in favour of performing [[kowtow]] to the [[Emperor of China]].<ref name="Wiltshireone" /> Many saw it as a religious pursuit and would rather be treated as equal. Though the members of the [[Qing Dynasty]] thrones and courts always saw the British envoys as uncivilized foreigners strictly here for tea, silk and other [[far east]] goods. At the time China's social structure, as passed down from [[Confucius|Confucian]] philosophy, ranked merchants relatively low since they were considered citizens who only enriched themselves.<ref name="Wiltshireone" />
+
+Some of the earliest items sold to China in exchange for tea were British clocks, watches and musical boxes. These were not enough to compensate for the unbalance trading of massive quantities of tea. China developed a strong demand for silver. After the [[1757]] territorial conquest of [[Bengal]] in [[India]], the British had a monopoly access on the production of [[opium]]. The supply would begin an illegal trade route trading opium for silver, though it would come at the price of creating a new [[Drug addiction|drug addiction]]. [[Lin Zexu]] would be the Chinese commissioner who wrote a letter to [[Victoria of the United Kingdom|Queen Victoria]] in [[1839]] taking a stance against the acceptance of opium in trade. He confiscated more than 20,000 chests of opium already at the port and supervised their destruction.<ref>Chaos umd.edu. "[http://www-chaos.umd.edu/history/modern.html#opium Chaos umd.edu]." ''Article.'' Retrieved on [[2007-07-03]].</ref>
+
+===Confrontation===
+[[Image:Hkcolonyprocess.jpg|thumb|left|200px|Great Britain acquired [[Hong Kong Island]] in 1842, [[Kowloon Peninsula]] in 1860, and leased the [[New Territories]] in 1898.]]
+The Queen saw the destruction of British products as an insult and sent the first expeditionary force to defend British's ''"ancient rights of commerce"''.<ref name="Wiltshireone" /> The [[First Opium War]] (1839-1842) began at the hands of Captain [[Charles Elliot]] of the [[Royal Navy]] and Capt. [[Anthony Blaxland Stransham]] of the Royal Marines. After a series of Chinese defeats, [[Hong Kong Island]] was occupied by the British on [[January 20]], [[1841]]. Sir [[Edward Belcher]], aboard the [[HMS Sulphur]] landed in Hong Kong, on Jan. 25, 1841.<ref name=lubbock/> [[Possession Street]] still exists to mark the event, although its Chinese name is 水坑口街 ("Mouth of the ditch Street").<ref name=lubbock/>
+
+Commodore Sir [[Gordon Bremer]] raised the [[Union Jack]] and claimed Hong Kong as a colony on Jan. 26, 1841.<ref name=lubbock>[http://www.lubbockonline.com/news/041197/base.htm Base closure to end Royal Navy's Far East presence], [[Associated Press]], November 4, 1997</ref> It erected naval store sheds there in April 1841.<ref name="quote melson">Eric Cavaliero, [http://www.thestandard.com.hk/news_detail.asp?pp_cat=&art_id=41861&sid=&con_type=1&d_str=19971113&sear_year=1997 Harbour bed holds memories], [[The Standard]], November 13, 1997, quoting P J Melson: ''White Ensign - Red Dragon: the History of the Royal Navy in Hong Kong 1841 to 1997''</ref>
+
+The island was first used by the British as a staging post during the war, and while the [[British East India Company|East India Company]] intended to establish a permanent base on the island of [[Zhoushan]], Elliot took it upon himself to claim the island on a permanent basis. The ostensible authority for the occupation was negotiated between Captain Eliot and the Governor of [[Kwangtung]] Province. The [[Convention of Chuenpeh]] was concluded but had not been recognized by the court of Qing Dynasty at Beijing. Subsequently, Hong Kong Island was ceded to Britain in [[1842]] under the [[Treaty of Nanking]], at which point in time the territory became a [[Crown Colony]].
+
+The Opium War was ostensibly fought to liberalize trade to China. With a base in Hong Kong, British traders, opium dealers, and merchants launched the city which would become the 'free trade' nexus of the East. American opium traders and merchant bankers such as the [[Russell family|Russell]], [[John Perkins Cushing|Perkins]] and the [[Forbes family|Forbes]] family would soon join the trade. Britain was granted a perpetual lease on the [[Kowloon Peninsula]] under the [[1860]] [[Convention of Beijing]], which formally ended hostilities in the [[Second Opium War]] (1856-1858).
+
+In [[1898]] the United Kingdom was concerned that Hong Kong could not be defended unless surrounding areas were also under British control. In response a 99-year lease titled the [[Convention for the Extension of Hong Kong Territory|Second Convention of Peking]] was drafted and executed, significantly expanding the size of the Hong Kong via the addition of the [[New Territories]]. The lease would set to expire at midnight, on [[June 30]], [[1997]].
+
+==Demographics==
+[[Image:1890ChineseWomen.jpg|thumb|right|200px|1890 Woman in traditional dress]]
+===Population===
+When the [[union flag]] was raised over [[Possession Point]] on January 26, [[1841]], the population of Hong Kong island was about 7,450 mostly comprised of [[Tanka (ethnic group)|Tanka]] fishermen and [[Hakka]] [[Collier|charcoal burners]] living in a number of coastal villages.<ref name=thomson>John Thomson 1837-1921, [http://irc.aa.tufs.ac.jp/thomson/vol_1/mother/102.html Chap on Hong Kong], Illustrations of China and Its People (London,1873-1874)</ref><ref>Info Gov HK. "[http://www.info.gov.hk/police/hkp-text/english/history/history_01.htm Hong Kong Gov Info]." ''History of Hong Kong.'' Retrieved on [[2007-02-16]].</ref> In the [[1850s]] large numbers of Chinese would emigrate from China to Hong Kong due to the [[Taiping Rebellion]]. Other events such as floods, typhoons and famine in [[mainland China]] would also play a role in establishing Hong Kong as a place to escape the mayhem.
+
+According to the census of 1865, Hong Kong had a population of 125,504, of which some 2,000 were Americans and Europeans.<ref name=thomson/> In [[1914]] despite an exodus of 60,000 Chinese fearing an attack on the colony after [[World War I]], Hong Kong's population continues to increase from 530,000 in [[1916]] to 725,000 in [[1925]] and 1.6 million by [[1941]].<ref name="Stanford">Stanford, David. [2006] (2006). Roses in December. Lulu press. ISBN 1847539661</ref>
+
+===Integration===
+The establishment of the [[free port]] made Hong Kong a major [[entrepôt]] from the start, attracting people from China and Europe alike. Though the society remained segregated and polarized due to [[language barrier|language barriers]]. A [[de facto]] segregation existed between the European minority and the Chinese majority.<ref name="Wiltshireone" /> Slow rise of a British-educated Chinese upper class of the late [[19th Century]] forced the creation of racial laws such as the [[Peak Reservation Ordinance]], which prevented Chinese from living in upscale [[Victoria Peak]].<ref name="Wiltshiretwo" /> The Chinese society had little to no official governmental influence throughout much of the early years. Some of the small number of Chinese elites that the British governors could rely on included [[Kai Ho|Sir Kai Ho]] and [[Robert Hotung]].<ref name="Wiltshiretwo" /> They understood where Hong Kong was in terms of development, and served as main communicator and mediator between the citizens and the British politicians making the decision. Sir Kai Ho was an unofficial member of the [[Legislative Council of Hong Kong|Legislative Council]]. Robert Hotung wanted Chinese citizens to recognize Hong Kong as the new home after the fall of China's [[Qing dynasty|last dynasty]] in 1911. As a millionaire with financial influence, he emphasized that no part of the demographics was purely [[Indigenous peoples|indigenous]].<ref>Carroll, John Mark. Edge of Empires:Chinese Elites and British Colonials in Hong Kong. Harvard university press. ISBN 0674017013</ref>
+
+==Culture==
+{{History of Hong Kong}}
+===Lifestyle===
+[[Image:Chinese rice congee.jpg|thumb|left|160px|[[Congee]], a popular colonial era breakfast]]
+The east portion of Colonial Hong Kong was mostly dedicated to the British filled with race courses, parade grounds, barracks, [[cricket]] and [[polo]] fields. The west portion was filled with Chinese shops, crowded markets and [[tea house]]s. The [[Hong Kong tea culture]] began in this period and evolved into [[yum cha]]. One of the most common breakfasts was [[congee]] with fish and [[barley]].
+
+In the mid 1800s many of the merchants would sell [[silk]], [[jade]] and consult [[feng shui]] to open shops that favour better spiritual arrangements.<ref name="Lim">Lim, Patricia. [2002] (2002). Discovering Hong Hong's Cultural Heritage. Central, Hong Kong: Oxford University Press. ISBN Volume One 0-19-592723-0</ref> Other lower ranked groups like [[coolies]] arrived with the notion that hard work would better position them for the future. And the success of boatmen, merchants, carters and fishermen in Hong Kong, would leapfrog China's most popular port in [[Guangzhou|Canton]]. By [[1880]] Hong Kong's port would handle 27% of the mainland's export and 37% of imports.<ref name="Wiltshireone" /> 
+
+A British traveller, [[Isabella Bird]], described Hong Kong in the 1870s as a colony filled with comforts and entertainment only a Victorian society would be able to enjoy. Other descriptions mentioned courts, hotels, post offices, shops, city hall complexes, museums, libraries and structures in impressive manner for the era.<ref name="Wiltshireone" /> Many European businessmen went to Hong Kong to do business. They were referred to as [[Tai-Pan|tai-pans]] or ''"bigshot"''. One of the more notable Tai-pan hangout spot was the [[Hong Kong Club]] at [[Queen's Road|Queen's Road]].<ref name="Wiltshireone" />
+
+===Education===
+[[Image:Central School 1903.jpg|thumb|left|250px|[[Queen's College, Hong Kong|Central School]] in 1903]]
+In [[1861]], [[Frederick Stewart (colonial administrator)|Frederick Stewart]] would become the founder of Hong Kong education system bringing western-style philosophy to the east. Some have argued that his contribution is the key turning point between the group of Chinese that were able to modernize Hong Kong versus the group that did not in China. The education would bring western-style finance, science, history, technology into the culture. The father of modern China, [[Sun Yat-sen]] was also educated in Hong Kong's [[Queen's College, Hong Kong|Central School]].<ref name="Wiltshiretwo" />
+
+===Law and order===
+In [[1843]] the [[Legislative Council of Hong Kong|legislative council]] was established. The [[governor of Hong Kong]] generally served as the British [[plenipotentiary]] in the [[far east]] in the early years. The [[Chief Secretary for Administration|Colonial Secretary]] would also assist in legal matters.
+
+A colonial police force was established in the [[1840s]] to handle the high crime rate in Hong Kong. By China's standards, colonial Hong Kong's code of punishment was considered laughably loose and lenient.<ref name="Wiltshireone" /> The lack of intimidation may have been the leading cause for the continual rise in crime.<ref name="Wiltshireone" /> [[Po Leung Kuk]] became one of the first organization established to deal with the [[abduction]] of women and [[prostitution]] crisis. Crime in the sea was also common as some pirates had access to [[cutlass]] and [[revolver]]s.<ref name="Wiltshireone" />
+
+===Pandemics and disasters===
+The [[Third Pandemic]] of [[bubonic plague]] broke out in China in the [[1880s]]. By the spring of [[1894]] about 100,000 were reported dead in the mainland. In May [[1894]] the disease erupted into Hong Kong's overcrowded Chinese quarter of [[Tai Ping Shan Street|Tai Ping Shan]]. By the end of the month, an estimated 450 people died of the illness.<ref name="Wiltshireone" /> At its height, the epidemic was killing 100 people per day, and it killed a total of 2,552 people that year. The disease was greatly detrimental to trade and produced a temporary exodus of 100,000 Chinese from the colony. Plague continued to be a problem in the territory for the next 30 years. In the 1870s a [[typhoon]] hit Hong Kong one evening reaching its height by midnight. An estimated 2,000 people lost their lives in a span of just six hours.<ref name="Wiltshireone" /><ref name="Stanford" />
+
+==Economy==
+[[Image:HKCar1900s.jpg|thumb|right|300px|1st Generation of Automobiles in HK]]
+===Transport===
+{{main|Transport in Hong Kong}}
+The growth of Hong Kong depended greatly on domestic transport of citizens and cargo across [[Victoria Harbour]]. The establishment of the [[Star Ferry]] and the [[Hongkong and Yaumati Ferry|Yaumati Ferry]] would prove to be vital. In [[1843]] the colony had built the first ship at a private shipyard. Some of the customers later included the Spanish government in the Philippines and the [[Chinese Navy]]. The [[Peak Tram]] would begin in [[1888]] along with the [[Hong Kong Tramways|Tramway]] service in [[1904]]. The first railway line was also launched in [[1910]] as the [[Kowloon-Canton Railway]]. On land the [[rickshaws]] were extremely popular in the early colonial periods, since it was affordable and necessary for street merchants to haul goods. Though motor cars would make an appearance in the 1920s beginning with the [[China Motor Bus]] and [[Kowloon Motor Bus]]. The first automobile cars in Hong Kong had petrol-driven internal combustion engines arriving between 1903-05. They were not well received by the public. Only around [[1910]] did the cars begin to gain appeal. Most of the owners were British.<ref>Bard, Solomon. [2002] (2002) Voices from the Past: Hong Kong 1842-1918. Hong Kong:HK University Press. ISBN 9622095747</ref> The [[flying boats]] were the first British aeroplanes to reach Hong Kong in [[1928]]. By [[1924]] the [[Kai Tak Airport]] would also be found. The first flight service from [[Imperial Airways]] would become available by [[1937]] at a price of 288 [[Pound sterling|pounds]] per ticket.<ref name="Wiltshiretwo" />
+
+===Hospitals and hospitality===
+Soon after the British occupied Hong Kong in [[1841]], [[Protestant]] and [[Catholic]] missionaries started to provide social service. Italian missionaries began to provide boy-only education to British and Chinese youth in [[1843]]. "The Catholic French Sisters of St. Paul de Chartres" was one of the first orphanage and elderly home was established in [[1848]].<ref>Bray, Mark. Koo, Ramsey. [2005] (2005) Education and Society in Hong Kong and Macao: Comparative Perspectives on Continuity and Change. Hong Kong: Springer Press. ISBN 1402034059</ref>
+In [[1870]] the [[Tung Wah Hospital]] became the first official hospital in Hong Kong. It handled much of the social services and was providing free [[vaccination]]s in [[Hong Kong Island]] and [[Guangdong|Kwang Tung]]. After raising funds for the [[1877]] [[List of famines|famine in China]], a number of the hospital officials became Tung Wah elites with much authority and power representing the Chinese majority.<ref>Tsai, Jung-fang. [1995] (1995). Hong Kong in Chinese History: community and social unrest in the British Colony, 1842-1913. ISBN 0231079338</ref> Some of the booming hotel businesses of the era included the Victoria Hotel, New Victoria Hotel and the [[King Edward Hotel (Toronto)|King Edward Hotel]].<ref>England, Vaudine. [1998] (1998). The Quest of Noel Croucher: Hong Kong's Quiet Philanthropist. Hong Kong university. ISBN 9622094732</ref>
+
+===Finance===
+In [[1864]] the first large scale modern bank [[The Hongkong and Shanghai Banking Corporation|Hong Kong Shanghai Bank]] would be established turning Hong Kong into the focal point of financial affairs in Asia. The achievements of [[Sir Thomas Jackson Bart]] is on the scale worthy of a statue next to Queen Victoria in [[Statue Square]]. The bank first leased Wardley House at [[Hong Kong dollar|HKD]] $500 a month in [[1864]]. After raising a capital of HKD $5 million, the bank opened its door in [[1865]].<ref name="Lim" /> The [[Hong Kong Stock Exchange|Association of Stockbrokers]] would also be established in [[1891]].
+
+===Resources===
+In December [[1890]] the [[Hongkong Electric]] company went into production with help from [[Catchick Paul Chater]]. It was the first step in allowing the transition of [[gas lamps]] to [[Incandescent light bulb|light bulbs]].<ref>Coates, Austin. [1977] (1977). A Mountain of Light: the story of the Hongkong Electric Company. Heinemann. ISBN 8671142490</ref> Other companies like [[Jardine Matheson]] would launch the "Hong Kong Land Investment and Agency company Ltd" accumulating a wealth as large as the entire government's total revenue.<ref name="Wiltshiretwo">Wiltshire, Trea. [First published 1987] (republished & reduced 2003). Old Hong Kong - Volume Two. Central, Hong Kong: Text Form Asia books Ltd. ISBN Volume Two 962-7283-60-6</ref>
+
+==Politics==
+[[Image:HK dockyard 1894.jpg|thumb|250px|right|Naval Dockyard buildings (centre), [[Queen's Road]], 1894]]
+One observer summed up the decades as "politics, propaganda, panic, rumor, riot, revolution and refugees".<ref name="Wiltshiretwo" /> The role of Hong Kong as a political safe haven for Chinese [[political refugees]] further cemented its status, and few serious attempts to revert its ownership were launched in the early 1900s. Both [[Communist Party of China|Chinese Communist]] and [[Kuomintang|Nationalist]] agitators found refuge in the territory, when they did not actively participate in the turmoil in China. However, the dockworkers strikes in the 1920s and 1930s were widely attributed to the Communists by the authorities, and caused a backlash against them. A strike in [[1920]] was ended with a wage increase of [[Hong Kong Dollar|HKD]] 32 cents.<ref name="Wiltshiretwo" /> 
+
+When modern China began after the fall of the last dynasty, one of the first political statements made in Hong Kong was the immediate change from [[Queue (hairstyle)|long queue hairstyles]] to short haircuts.<ref name="Wiltshiretwo" /> In [[1938]], [[Guangzhou]] fell to the hands of the Japanese, Hong Kong was considered a strategic military outpost for all trades in the far east, though [[Winston Churchill]] assured that Hong Kong was an "impregnable fortress".<ref name="Wiltshiretwo" /> It was taken as a reality check response since the [[British Army]] actually stretched too thin to battle on two fronts.<ref name="Wiltshiretwo" />
+
+==See also==
+*[[History of Hong Kong]]
+*[[Thirteen Factories]]
+*[[The Hongs]]
+*[[Tai-Pan (novel)]]
+
+==References==
+<div class="references-small" style="-moz-column-count:2; column-count:2;">
+<references/>
+</div>
+
+{{Territories of the British Empire}}
+
+[[Category:British rule in Hong Kong| ]]
+[[Category:History of Hong Kong]]

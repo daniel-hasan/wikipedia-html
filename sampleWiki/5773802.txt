@@ -1,0 +1,36 @@
+Patellar Tendon Rupture is an [[injury]] occouring in the knee.
+
+=The Patella Tendon=
+
+<!-- Image with unknown copyright status removed: [[Image:Patellar Tendon.png|thumb|right|View of Patellar Tendon from the front. Arrows from bottom up are pointing to the: patella tendon, patella, quadriceps tendon, quadriceps muscle]] -->
+
+The patellar tendon attaches to the tibial tubercle on the front of the [[tibia]] just below the front of the knee, and is connected to the bottom of the [[patella]], above which are attached to the [[quadriceps tendon]], followed by the [[quadriceps muscle]], large muscles on the front of the thigh. This structure allows the knee to flex and extend, allowing use of basic functions such as walking, running, etc.
+
+=Rupture=
+
+When rupture occours, the patella loses support from the [[tibia]] and moves toward the hip when the [[quadriceps muscle]] contract, hindering the leg's ability to extend. This means that those affected cannot stand, as their knee buckles and gives way when they attempt to.
+
+=Diagnosis=
+
+Through [[X-Ray]] scans, Patellar Tendon Rupture is diagnosed by recognising that the patella has moved upward along the thigh.
+
+=Treatment=
+
+Patellar Tendon Rupture must be treated through surgery.
+
+==Surgery==
+
+An [[incision]] is made in the skin over the rupture, the site of which is identified. The tendons are retracted so surgeons may inspect the [[femur]]. The tendon ends are then sewn together.
+
+A [[cast]] or [[Brace (orthopaedic)|brace]] is then put over where the operation took place. The cast or brace remains for at least 6 weeks followed by an unidentified time of [[Physical_therapy|rehabilitation]] of the knee.
+
+===Side Effects===
+
+The usual risks of surgery are involved including: infection, stiffness, [[suture]] reaction, failure of satisfactory healing, risks of [[anesthesia]], [[phlebitis]], [[pulmonary embolus]], and persistent pain or weakness after the injury and repair.
+
+=References=
+
+*[http://www.arthroscopy.com/patendrep.htm Arthoscopy-Patellar Tendon Rupture and Surgical Repair]
+
+
+{{Medical-stub}}

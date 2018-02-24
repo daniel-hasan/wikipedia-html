@@ -1,0 +1,561 @@
+[[Image:can1963.png|thumb|Map of Canada's provinces and territories and which party won the most votes in each province and territory and their popular vote.]]
+[[Image:Cdn1963.PNG|thumb|The Canadian parliament after the 1963 election]]
+
+The '''Canadian federal election of 1963''' was held on April 8 to elect members  of the [[Canadian House of Commons]] of the [[26th Canadian Parliament|26th Parliament]] of [[Canada]]. It resulted in the defeat of the [[minority government|minority]] [[Progressive Conservative Party of Canada|Progressive Conservative]] (Tory) government of [[Prime Minister of Canada|Prime Minister]] [[John Diefenbaker]]. 
+
+During the [[Tory|Tories']] last year in office, members of the Diefenbaker's [[Canadian Cabinet|Cabinet]] attempt to remove him from the leadership of the party, and therefore from the Prime Minister's office. In addition to concern within the party about Diefenbaker's mercurial style of leadership, there had been a serious split in party ranks over the issue of stationing American [[nuclear missiles]] (see [[Bomarc missile]]) on Canadian soil for protection from possible [[Soviet Union|Soviet]] attack. Diefenbaker and his allies opposed this proposal, while many other Conservatives and the [[parliamentary opposition|opposition]] [[Liberal Party of Canada|Liberal Party]] were in favour. [[Minister of National Defence (Canada)|Minister of National Defence]] [[Douglas Harkness]] resigned from Cabinet on [[February 4]], [[1963]], because of Diefenbaker's opposition to accepting the missiles. The next day, the government lost two [[non-confidence motion]]s on the issue, prompting the election. 
+
+The Liberal Party of [[Lester Pearson]] ran on a platform promising that, if elected, they would begin their term with "60 Days of Decision" on questions such as introducing a new [[Flag of Canada|Canadian flag]], reforming [[health care]], and a public [[pension]] plan, along with other legislative reforms. 
+
+Despite winning 41% of the vote, which is usually sufficient for ensuring the election of a [[majority government]], the Liberals fell seven seats short of their target. The Liberals formed a [[minority government]] that was dependent on the support of the [[social democracy|social democratic]] [[New Democratic Party]] (NDP) in order to pass legislation. 
+
+The NDP had been formed in 1961 by another social democratic party, the [[Co-operative Commonwealth Federation]], and by the [[Canadian Labour Congress]]. The 1963 election was the second vote contested by the NDP. The party won slightly fewer votes, and two fewer seats, than they had received in the [[Canadian federal election, 1962|1962 election]]. They were again disappointed by the failure of their new partnership with the [[labour movement]] to produce an electoral breakthrough, particularly in the province of [[Ontario]], which has the largest population and the largest number of seats in the House of Commons.
+
+[[Social Credit Party of Canada|Social Credit]] was unable to increase its representation in western Canada, and lost four of its [[Quebec]] seats.  The continuing lop-sided result led to a split in the party when Thompson refused to step aside so that Caouette could become party leader. Caouette and his followers left the Social Credit Party to sit as a separate social credit caucus, the ''[[Ralliement créditiste|Ralliement des créditistes]]''.
+
+==National results == 
+
+{| border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse border-color: #444444"
+|- bgcolor="CCCCCC"
+!rowspan="2" colspan="2"|Party
+!rowspan="2"|Party leader
+!rowspan="2"|# of<br>candidates
+!colspan="3"|Seats
+!colspan="3"|Popular vote
+|- bgcolor="CCCCCC"
+|align="center"|[[Canadian federal election, 1962|1962]]
+|align="center"|'''Elected'''
+|align="center"|% Change
+|align="center"|#
+|align="center"|%
+|align="center"|% Change
+{{Canadian_politics/party_colours/Liberal/row}}
+| [[Liberal Party of Canada|Liberal]]
+| [[Lester B. Pearson|Lester Pearson]]
+|align="right"|   265
+|align="right"| 99
+|align="right"|  '''128'''
+|align="right"| +29.3%
+|align="right"|   3,276,995 
+|align="right"|   41.52% 
+|align="right"| +4.55%
+{{Canadian_politics/party_colours/Progressive_Conservatives/row}}
+| [[Progressive Conservative Party of Canada|Progressive Conservative]]
+| [[John Diefenbaker]]
+|align="right"|  265
+|align="right"| 116
+|align="right"| '''95'''
+|align="right"| -18.1%
+|align="right"|   2,582,322 
+|align="right"|   32.72% 
+|align="right"| -4.50%
+{{Canadian_politics/party_colours/Social Credit/row}}
+| [[Social Credit Party of Canada|Social Credit]]
+|   [[Robert N. Thompson|R.N. Thompson]]
+|align="right"|  224
+|align="right"| 30
+|align="right"|  '''24'''
+|align="right"| -20.0%
+|align="right"|    940,703 
+|align="right"| 11.92%
+|align="right"| +0.32%
+{{Canadian_politics/party_colours/NDP/row}}
+| [[New Democratic Party|New Democrats]]
+|  [[Tommy Douglas]]
+|align="right"|   232
+|align="right"| 19
+|align="right"|   '''17'''
+|align="right"| -10.5%
+|align="right"|    1,044,701
+|align="right"|  13.24% 
+|align="right"| -0.33%
+{{Canadian_politics/party_colours/Liberal/row}}
+| [[Liberal-Labour (Canada)|Liberal-Labour]]
+| <center> 
+|align="right"|   1
+|align="right"| 1
+|align="right"|  '''1'''
+|align="right"| -
+|align="right"|  16,794 
+|align="right"|   0.21% 
+|align="right"| +0.01%
+{{Canadian_politics/party_colours/Independents/row}}
+| colspan="2"|Independent Liberal
+|align="right"|   6
+|align="right"| -
+|align="right"|  -
+|align="right"|-
+|align="right"|     14,658 
+|align="right"|   0.19% 
+|align="right"| +0.05%
+{{Canadian_politics/party_colours/Independents/row}}
+| colspan="2"|Independent 
+|align="right"|  9
+|align="right"|-
+|align="right"| -
+|align="right"| -
+|align="right"|    5,236 
+|align="right"|  0.07% 
+|align="right"| -0.04%
+{{Canadian_politics/party_colours/Communist/row}}
+| [[Communist Party of Canada|Communist]]
+| [[Leslie Morris]]
+|align="right"|  12
+|align="right"| -
+|align="right"|  -
+|align="right"| -
+|align="right"|     4,234 
+|align="right"|   0.05% 
+|align="right"| -0.03%
+{{Canadian_politics/party_colours/Independents/row}}
+| colspan="2"|Independent PC
+|align="right"| 2
+|align="right"| -
+|align="right"|  -
+|align="right"| -
+|align="right"|    1,965 
+|align="right"|  0.02% 
+|align="right"| -0.01%
+{{Canadian_politics/party_colours/Independents/row}}
+| colspan="2"|Independent Conservative
+|align="right"|  2
+|align="right"|*
+|align="right"|   -
+|align="right"|*
+|align="right"|     1,159
+|align="right"|   0.01% 
+|align="right"|*
+{{Canadian_politics/party_colours/Independents/row}}
+|''[[Ouvrier indépendant]]''
+|align="right"|   &nbsp;
+|align="right"|  1
+|align="right"| -
+|align="right"|  -
+|align="right"| -
+|align="right"|   1,064 
+|align="right"|   0.01% 
+|align="right"| +0.01%
+{{Canadian_politics/party_colours/Independents/row}}
+| colspan="2"|Independent Social Credit
+|align="right"|  2
+|align="right"|*
+|align="right"| -
+|align="right"|*
+|align="right"|   717 
+|align="right"|  0.01% 
+|align="right"|*
+{{Canadian_politics/party_colours/Independents/row}}
+| Nationalist
+|align="right"|   &nbsp;
+|align="right"|   1
+|align="right"|*
+|align="right"|   -
+|align="right"|*
+|align="right"|   540 
+|align="right"|   0.01%
+|align="right"|*
+{{Canadian_politics/party_colours/Independents/row}}
+|''[[Ralliement créditiste|Candidat libéral des electeurs]]''
+|align="right"|   &nbsp;
+|align="right"|  1
+|align="right"| -
+|align="right"|  -
+|align="right"|  -
+|align="right"|   496 
+|align="right"|   0.01% 
+|align="right"| -0.02%
+{{Canadian_politics/party_colours/Independents/row}}
+| [[Socialist Labour Party (Canada)|Socialist Labour]]
+|align="right"|   &nbsp;
+|align="right"|  1
+|align="right"|*
+|align="right"|   -
+|align="right"|*
+|align="right"| 43 
+|align="right"| x 
+|align="right"|*
+|-
+| colspan="3"|'''Total'''
+|align="right"|'''1,023'''
+|align="right"|'''265'''
+|align="right"|'''265'''
+|align="right"|'''  -'''
+|align="right"|'''7,891,627'''
+|align="right"|'''100%''' 
+|align="right"|   &nbsp;   
+|-
+| align="center" colspan="10"|'''Sources:''' http://www.elections.ca  [http://www.parl.gc.ca/information/about/process/house/hfer/hfer.asp?Language=E History of Federal Ridings since 1867]
+|-
+|}
+
+'''Notes:'''
+
+<nowiki>*</nowiki> The party did not nominate candidates in the previous election.
+
+x - less than 0.005% of the popular vote
+
+==Results by province==
+
+{| border="1" cellpadding="4" cellspacing="0" style="border-collapse: collapse"
+|- bgcolor="CCCCCC"
+! align="center" colspan="3"|Party name
+! align="center"|[[British Columbia|BC]]
+! align="center"|[[Alberta|AB]]
+! align="center"|[[Saskatchewan|SK]]
+! align="center"|[[Manitoba|MB]]
+! align="center"|[[Ontario|ON]]
+! align="center"|[[Quebec|QC]]
+! align="center"|[[New Brunswick|NB]]
+! align="center"|[[Nova Scotia|NS]]
+! align="center"|[[Prince Edward Island|PE]]
+! align="center"|[[Newfoundland and Labrador|NL]]
+! align="center"|[[Northwest Territories|NW]]
+! align="center"|[[Yukon|YK]]
+! align="center"|Total
+{{Canadian_politics/party_colours/Liberal/row}}
+| rowspan="2"|[[Liberal Party of Canada|Liberal]]
+| Seats:
+| align="right"| 7 <!--BC-->
+| align="right"| 1 <!--Alb-->
+| align="right"| - <!--Sask-->
+| align="right"| 2 <!--Man-->
+| align="right"| 51  <!--Ont-->
+| align="right"| 47 <!--Que-->
+| align="right"| 6 <!--NB-->
+| align="right"| 5 <!--NS-->
+| align="right"| 2 <!--PEI-->
+| align="right"| 7 <!--NL-->
+| align="right"| - <!--NW-->
+| align="right"| - <!--YK-->
+| align="right"| 128 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Liberal/row}}
+| Popular Vote:
+| align="right"|  32.3 <!--BC-->
+| align="right"|  22.1 <!--Alb-->
+| align="right"|  24.1 <!--Sask-->
+| align="right"| 33.8 <!--Man-->
+| align="right"| 45.8 <!--Ont-->
+| align="right"| 45.6 <!--Que-->
+| align="right"| 47.3 <!--NB-->
+| align="right"| 46.7 <!--NS-->
+| align="right"| 46.4 <!--PEI-->
+| align="right"| 64.5  <!--NL-->
+| align="right"| 41.0 <!--NW-->
+| align="right"| 43.2 <!--YK-->
+| align="right"| 41.5 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Progressive_Conservatives/row}}
+| rowspan="2"|[[Progressive Conservative Party of Canada|Progressive Conservative]]
+| Seats:
+| align="right"| 4 <!--BC-->
+| align="right"| 14 <!--Alb-->
+| align="right"| 17 <!--Sask-->
+| align="right"| 10 <!--Man-->
+| align="right"| 27 <!--Ont-->
+| align="right"| 8 <!--Que-->
+| align="right"| 4 <!--NB-->
+| align="right"| 7 <!--NS-->
+| align="right"| 2 <!--PEI-->
+| align="right"| - <!--NL-->
+| align="right"| 1 <!--NW-->
+| align="right"| 1 <!--YK-->
+| align="right"| 95 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Progressive_Conservatives/row}}
+| Vote:
+| align="right"| 23.4 <!--BC-->
+| align="right"| 45.3 <!--Alb-->
+| align="right"| 53.7 <!--Sask-->
+| align="right"| 42.3 <!--Man-->
+| align="right"| 35.0 <!--Ont-->
+| align="right"| 19.5 <!--Que-->
+| align="right"| 40.4 <!--NB-->
+| align="right"| 46.9 <!--NS-->
+| align="right"| 52.0 <!--PEI-->
+| align="right"| 30.1 <!--NL-->
+| align="right"| 49.6 <!--NW-->
+| align="right"| 56.8 <!--YK-->
+| align="right"| 32.7 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Social Credit/row}}
+| rowspan="2"|[[Social Credit Party of Canada|Social Credit]]
+| Seats:
+| align="right"| 2 <!--BC-->
+| align="right"| 2 <!--Alb-->
+| align="right"| - <!--Sask-->
+| align="right"| - <!--Man-->
+| align="right"| - <!--Ont-->
+| align="right"| 20 <!--Que-->
+| align="right"| - <!--NB-->
+| align="right"| - <!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"| - <!--NW-->
+| align="right"| &nbsp; <!--YK-->
+| align="right"| 24 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Social Credit/row}}
+| Vote:
+| align="right"| 13.3 <!--BC-->
+| align="right"| 25.8 <!--Alb-->
+| align="right"| 3.9 <!--Sask-->
+| align="right"| 7.0 <!--Man-->
+| align="right"| 2.0 <!--Ont-->
+| align="right"| 27.3 <!--Que-->
+| align="right"| 8.6 <!--NB-->
+| align="right"| 0.1 <!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|9.4 <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"| 11.9 <!--Canada/Total-->
+{{Canadian_politics/party_colours/NDP/row}}
+| rowspan="2"|[[New Democratic Party|New Democrats]]
+| Seats:
+| align="right"| 9 <!--BC-->
+| align="right"| - <!--Alb-->
+| align="right"| - <!--Sask-->
+| align="right"| 2 <!--Man-->
+| align="right"| 6 <!--Ont-->
+| align="right"| - <!--Que-->
+| align="right"| - <!--NB-->
+| align="right"| - <!--NS-->
+| align="right"| - <!--PEI-->
+| align="right"| - <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"| 17 <!--Canada/Total-->
+{{Canadian_politics/party_colours/NDP/row}}
+| Vote:
+| align="right"| 30.3 <!--BC-->
+| align="right"| 6.5 <!--Alb-->
+| align="right"| 18.2 <!--Sask-->
+| align="right"| 16.7 <!--Man-->
+| align="right"| 16.2 <!--Ont-->
+| align="right"| 7.1 <!--Que-->
+| align="right"| 3.7 <!--NB-->
+| align="right"| 6.4 <!--NS-->
+| align="right"| 1.6 <!--PEI-->
+| align="right"| 4.2 <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"| 13.2 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Liberal/row}}
+| rowspan="2"|[[Liberal-Labour (Canada)|Liberal-Labour]]
+| Seats:
+| align="right"| &nbsp; <!--BC-->
+| align="right"|&nbsp; <!--Alb-->
+| align="right"|&nbsp; <!--Sask-->
+| align="right"|&nbsp; <!--Man-->
+| align="right"| 1<!--Ont-->
+| align="right"|&nbsp;<!--Que-->
+| align="right"|&nbsp;  <!--NB-->
+| align="right"|&nbsp; <!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"| 1<!--Canada/Total-->
+{{Canadian_politics/party_colours/Liberal/row}}
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"|&nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"|0.6<!--Ont-->
+| align="right"| &nbsp;<!--Que-->
+| align="right"|&nbsp; <!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"| 0.2 <!--Canada/Total-->
+|- 
+| colspan="3"|'''Total seats:'''
+| align="right"|'''22''' <!--BC-->
+| align="right"|'''17''' <!--Alb-->
+| align="right"|'''17''' <!--Sask-->
+| align="right"|'''14''' <!--Man-->
+| align="right"| '''85'''<!--Ont-->
+| align="right"|'''75''' <!--Que-->
+| align="right"|'''10''' <!--NB-->
+| align="right"|'''12''' <!--NS-->
+| align="right"| '''4'''<!--PEI-->
+| align="right"|'''7''' <!--NL-->
+| align="right"|'''1''' <!--NW-->
+| align="right"|'''1''' <!--YK-->
+| align="right"| '''265'''<!--Canada/Total-->
+|-
+| colspan="16"|'''Parties that won no seats:'''
+|-
+{{Canadian_politics/party_colours/Independents/row}}
+| Independent Liberal
+| Vote:
+| align="right"|  &nbsp;<!--BC-->
+| align="right"| &nbsp; <!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 0.3 <!--Ont-->
+| align="right"| 0.1 <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"| &nbsp; <!--PEI-->
+| align="right"| 1.3 <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  0.2 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Independents/row}}
+|Independent
+| Vote:
+| align="right"| xx <!--BC-->
+| align="right"| 0.1 <!--Alb-->
+| align="right"| xx <!--Sask-->
+| align="right"| 0.2 <!--Man-->
+| align="right"| xx <!--Ont-->
+| align="right"| 0.1  <!--Que-->
+| align="right"| &nbsp; <!--NB-->
+| align="right"|  &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp;  <!--NL-->
+| align="right"| &nbsp;  <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  0.1 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Communist/row}}
+| [[Communist Party of Canada|Communist]]
+| Vote:
+| align="right"| 0.1 <!--BC-->
+| align="right"| 0.1 <!--Alb-->
+| align="right"| 0.1 <!--Sask-->
+| align="right"| &nbsp; <!--Man-->
+| align="right"| 0.1 <!--Ont-->
+| align="right"| xx <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  0.1 <!--Canada/Total-->
+{{Canadian_politics/party_colours/Independents/row}}
+| Independent PC
+| Vote:
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| xx <!--Ont-->
+| align="right"| 0.1 <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"| &nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  xx<!--Canada/Total-->
+{{Canadian_politics/party_colours/Independents/row}}
+| Independent Conservative
+| Vote:
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| xx<!--Ont-->
+| align="right"| &nbsp; <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"| &nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  xx <!--Canada/Total-->
+{{Canadian_politics/party_colours/Independents/row}}
+| ''[[Ouvrier Indépendant]]''
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"| 0.1 <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"|  &nbsp;<!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  xx<!--Canada/Total-->
+{{Canadian_politics/party_colours/Independents/row}}
+| Independent Social Credit
+| Vote:
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| xx <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"| &nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  xx <!--Canada/Total-->
+{{Canadian_politics/party_colours/Independents/row}}
+| Nationalist
+| Vote:
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp; <!--Ont-->
+| align="right"| xx <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"| &nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  xx <!--Canada/Total-->
+{{Canadian_politics/party_colours/Independents/row}}
+| ''[[Ralliement créditiste|C. l. des electeurs]]''
+| Vote:
+| align="right"| &nbsp; <!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"| xx <!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp; <!--NS-->
+| align="right"|  &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"|  xx<!--Canada/Total-->
+{{Canadian_politics/party_colours/Independents/row}}
+| [[Socialist Labour Party (Canada)|Socialist Labour]]
+| Vote:
+| align="right"| &nbsp;<!--BC-->
+| align="right"| &nbsp;<!--Alb-->
+| align="right"| &nbsp;<!--Sask-->
+| align="right"| &nbsp;<!--Man-->
+| align="right"| &nbsp;<!--Ont-->
+| align="right"| xx<!--Que-->
+| align="right"| &nbsp;<!--NB-->
+| align="right"| &nbsp;<!--NS-->
+| align="right"| &nbsp;<!--PEI-->
+| align="right"| &nbsp; <!--NL-->
+| align="right"|&nbsp; <!--NW-->
+| align="right"|&nbsp; <!--YK-->
+| align="right"| xx<!--Canada/Total-->
+|}
+
+*xx - less than 0.05% of the popular vote
+
+==See also==
+*[[26th Canadian Parliament]]
+
+{{election canada}}
+
+
+[[Category:1963 elections in Canada]]
+[[Category:Canadian federal elections]]
+
+[[fr:Élection fédérale canadienne de 1963]]

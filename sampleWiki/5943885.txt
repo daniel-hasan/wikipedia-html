@@ -1,0 +1,214 @@
+{{Infobox tornado outbreak
+|name=[[Northeastern United States]] tornado outbreak
+|image location= Hamden tornado.jpg
+|image name= Damage to trees in [[Hamden, Connecticut]]
+|date=[[July 10]], [[1989]]
+|duration=13.5 hours
+|fujitascale=F4
+|tornadoes=17 confirmed 
+|total damages (USD)=>$130 million 1989 [[United States dollar|USD]] <ref name="Grazulis"/> ($214 million 2006 USD)
+|total fatalities=1 (indirect)
+|areas affected=[[New York]], [[Massachusetts]], [[Connecticut]], [[New Jersey]]
+}}
+
+The '''Northeastern United States tornado outbreak of 1989''' was a series of [[tornado]]es which caused more than $130 million (1989 [[United States dollar|USD]]) in damage across the [[Northeastern United States]] on [[July 10]], [[1989]]. The storm system affected five states with [[severe weather]], including [[hail]] up to 2.5&nbsp;inches (6.4&nbsp;cm) across, thunderstorm winds up to 90&nbsp;mph (150&nbsp;km/h), and 17 tornadoes.<ref name="NCDC"/> Several towns in [[New York]] and [[Connecticut]] were particularly hard-hit. Several homes were levelled in [[Greenville, New York]]. Extensive damage occurred in [[Bantam, Connecticut]]. A large section of [[Hamden, Connecticut]], including an industrial park and hundreds of homes, was completely destroyed; in some places buildings were flattened to the ground.
+
+More than 150 people were injured by the [[tornado outbreak]], and one person was killed by thunderstorm winds. While tornado outbreaks in this area are unusual, this storm was especially rare in that it produced six significant tornadoes, two of which were violent '''[[Fujita scale|F4]]s''', and featured many tornadoes with tracks of several miles.
+
+{|align=left
+  |__TOC__
+  |}
+{{clear}}
+
+==List of official tornadoes==
+{{Tornado Chart | Total=17 | F0=4 | F1=7 | F2=4 | F3=0 | F4=2 | F5=0 }}
+
+{| class="navbox collapsible autocollapse" align="left" style="margin:0 auto; clear:both;"
+! colspan="7" | <big><big>Official tornadoes</big></big>
+|-
+! style="width:8%;" | '''[[Fujita scale|F#]]'''!! style="width:17%;" | '''Location''' !! style="width:15%;" | '''County''' !! style="width:10%;" | '''Time ([[Universal Standard Time|UST]])''' !! style="width:10%;" | '''Path length''' !! style="width:40%;" | '''Damage'''
+|-
+|colspan="7" align=center|<big>'''[[New York]]'''</big>
+|-
+|bgcolor=#{{storm colour|cat1}} | <big>'''F1'''</big>
+|'''NE of [[Ogdensburg, New York|Ogdensburg]]'''
+| [[St. Lawrence County]]
+|1019
+|1.7&nbsp;miles <br>(2.7&nbsp;km)
+|Ninety feet across.  One injury was reported due to the tornado, with another attributed to winds due to the parent thunderstorm.
+|-
+|bgcolor=#{{storm colour|cat4}} | <big>'''F4'''</big>
+|'''[[Ames, New York|Ames]] to near [[Durham, New York|East Durham]] '''
+|[[Montgomery County, New York|Montgomery]] to [[Greene County, New York|Greene]], main impact felt in [[Schoharie County, New York|Schoharie]]
+|1827
+|42.0&nbsp;miles <br>(67.6&nbsp;km)
+|See [[#Schoharie County tornadoes|main section]] on this tornado.
+|-
+|bgcolor=#{{storm colour|cat2}} | <big>'''F2'''</big>
+|'''Near [[Carmel Hamlet, New York|Carmel Hamlet]]'''
+|[[Putnam County, New York|Putnam]]
+|2158
+|0.5&nbsp;miles <br>(0.8&nbsp;km)
+|Five injuries reported.
+|-
+|bgcolor=#{{storm colour|cat2}} | <big>'''F2'''</big>
+|'''[[Moriches, New York|Moriches]]'''
+|[[Suffolk County, New York|Suffolk]]
+|2315
+|0.2&nbsp;miles <br>(0.3&nbsp;km)
+|One injury reported.  See [[#Long Island|main section]] on this tornado.
+|-
+|colspan="7" align=center|<big>'''[[Massachusetts]]'''</big>
+|-
+|bgcolor=#{{storm colour|cat1}} | <big>'''F1'''</big>
+|'''[[Hubbardston, Massachusetts|Hubbardston]]'''
+|[[Worcester County, Massachusetts|Worcester]]
+|2004
+|0.3&nbsp;miles <br>(0.5&nbsp;km)
+|See [[#Massachusetts storms|main section]] on the Massachusetts tornadoes.
+|-
+|bgcolor=#{{storm colour|cat1}} | <big>'''F1'''</big>
+|'''[[Princeton, Massachusetts|Princeton]]'''
+|Worcester
+|2010
+|0.3&nbsp;miles <br>(0.5&nbsp;km)
+|
+|-
+|bgcolor=#{{storm colour|cat1}} | <big>'''F1'''</big>
+|'''[[Sterling, Massachusetts|Sterling]]'''
+|Worcester
+|2010
+|0.3&nbsp;miles <br>(0.5&nbsp;km)
+|
+|-
+|bgcolor=#{{storm colour|cat1}} | <big>'''F1'''</big>
+|'''W of [[Boylston, Massachusetts|Boylston]]'''
+|Worcester
+|2015
+|0.4&nbsp;miles <br>(0.6&nbsp;km)
+|
+|-
+|bgcolor=#{{storm colour|storm}} | <big>'''F0'''</big>
+|'''[[Canton, Massachusetts|Canton]]'''
+|[[Norfolk County, Massachusetts|Norfolk]]
+|2110
+|0.1&nbsp;miles <br>(160&nbsp;m)
+|
+|-
+|bgcolor=#{{storm colour|cat1}} | <big>'''F1'''</big>
+|'''Near [[Brockton, Massachusetts|Brockton]]'''
+|[[Plymouth County, Massachusetts|Plymouth]]
+|2125
+|0.1&nbsp;miles <br>(160&nbsp;m)
+|One injury reported.
+|-
+|bgcolor=#{{storm colour|storm}} | <big>'''F0'''</big>
+|'''East of [[Hanover, Massachusetts|Hanover]]'''
+|Plymouth
+|2130
+|0.1&nbsp;miles <br>(160&nbsp;m)
+|
+|-
+|colspan="7" align=center|<big>'''[[Connecticut]]'''</big>
+|-
+|bgcolor=#{{storm colour|cat2}} | <big>'''F2'''</big>
+|'''[[Cornwall, Connecticut|Cornwall]] to near [[Morris, Connecticut|Morris]]'''
+|[[Litchfield County, Connecticut|Litchfield]]
+|2040
+|10.0&nbsp;miles <br>(16.1&nbsp;km)
+|Four injuries reported.  See [[#Connecticut tornado family|main section]] on this and the next tornado.
+|-
+|bgcolor=#{{storm colour|cat2}} | <big>'''F2'''</big>
+|'''[[Watertown, Connecticut|Watertown]] to northern [[Waterbury, Connecticut|Waterbury]]'''
+|Litchfield, [[New Haven County, Connecticut|New Haven]]
+|2115
+|5.0&nbsp;miles <br>(8.0&nbsp;km)
+|70 injuries reported.
+|-
+|bgcolor=#{{storm colour|cat4}} | <big>'''F4'''</big>
+|'''[[Hamden, Connecticut|Hamden]]'''
+|New Haven
+|2145
+|3.0&nbsp;miles <br>(4.8&nbsp;km)
+|Highwood section of Hamden devastated.  See [[#Hamden tornado|main section]] on this tornado.
+|-
+|colspan="7" align=center|<big>'''[[New Jersey]]'''</big>
+|-
+|bgcolor=#{{storm colour|cat1}} | <big>'''F1'''</big>
+|'''[[West Milford, New Jersey|West Milford]] to [[Ringwood, New Jersey|Ringwood]]'''
+|[[Passaic County, New Jersey|Passaic]]
+|2300
+|4.5&nbsp;miles&nbsp;<br>(7.2&nbsp;km)
+|See [[#New Jersey storms|main section]] on the New Jersey tornadoes.
+|-
+|bgcolor=#{{storm colour|storm}} | <big>'''F0'''</big>
+|'''[[Oakland, New Jersey|Oakland]] to [[Franklin Lakes, New Jersey|Franklin Lakes]]'''
+|[[Bergen County, New Jersey|Bergen]]
+|2319
+|3.5&nbsp;miles <br>(5.6&nbsp;km)
+|
+|-
+|bgcolor=#{{storm colour|storm}} | <big>'''F0'''</big>
+|'''[[Garfield, New Jersey|Garfield]] to [[Fort Lee, New Jersey|Fort Lee]]'''
+|Bergen
+|2346
+|4.0&nbsp;miles <br>(6.4&nbsp;km)
+|
+|-
+|colspan="7" | <small>Sources: [[National Climatic Data Center|NCDC]] Storm Events Database<ref name="NCDC">{{cite web |url=http://www4.ncdc.noaa.gov/cgi-win/wwcgi.dll?wwEvent~Storms |title= Storm Events Database |accessdate=2007-05-17 |author=National Climatic Data Center |authorlink=National Climatic Data Center |publisher=[[National Oceanic and Atmospheric Administration|NOAA]]}}</ref> "Significant Tornadoes 1680-1991"<ref name="Grazulis"/> [[Storm Prediction Center|SPC]] Storm Data<ref name="severe plot"/></small>
+|}
+{{clear}}
+
+==Storm details==
+The damage began early in the morning.  A tornado briefly touched down in [[Ogdensburg, New York]] at 5<small>AM</small>, injuring one person. Hail up to 1 inch wide, wind gusts over 50&nbsp;mph (60&nbsp;km/h), and many reports of wind damage were reported in New York, [[Vermont]], and Massachusetts before noon.<ref name="severe plot"/><ref name="NCDC"/> [[Severe weather]] is an unusual occurrence in the morning, and the activity only increased in severity towards the middle of the afternoon.
+
+===Schoharie County tornado===
+The event which devastated areas from Montgomery to Greene County caused $20,000,000 in damage and injured 20 people. While the [[Storm Prediction Center]] archives say that it was a single tornado, it was likely 3 or more tornadoes, each producing '''F3''' to '''F4''' damage.<ref name="severe plot"/><ref name="Grazulis"/> Only damage near Greenville was at the '''F4''' level, and some sources doubt it even reached that intensity at all.<ref name="Grazulis"/>
+
+The first tornado touched down three miles east of [[Ames, New York|Ames]] at 1:27<small>PM</small>, moving southeast.  It passed near or through the towns of [[Carlisle, New York|Carlisle]], [[Howe Caverns]], [[Central Bridge, New York|Central Bridge]], and [[Schoharie, New York|Schoharie]] before lifting. Continuing southeast for 10 miles, the storm produced another tornado briefly near [[Rensselaerville, New York|Rensselaerville]]. After another 10 miles, a third tornado touched down between [[Greenville (town), New York|Greenville]] and [[Surprise, New York|Surprise]]. This final section of the path is plotted as a [[skipping tornado]], but may have been three or more separate tornadoes.<ref name="Grazulis"/>
+
+===Connecticut tornado family===
+An hour after the previous event caused destruction in Upstate New York, a new tornado family began producing significant damage in the adjacent state of [[Connecticut]]. The first tornado, which may have been three separate tornadoes, started its path of destruction in [[Cornwall, Connecticut|Cornwall]], leveling a [[virgin forest]] known as [[Cathedral Pines]]. The tornado continued [[Cardinal direction|south-southeast]] through [[Milton, Connecticut|Milton]], leveling hundreds more trees, and destroyed the village of [[Bantam, Connecticut|Bantam]] before dissipating.<ref name="Grazulis"/> Strong winds continued to cause damage and level trees after this tornado stopped causing damage. It was during this period between tornadoes that a 12-year-old girl was killed by falling trees in [[Black Rock State Park]].<ref name="NYT1">{{cite news  | first = Constance L | last = Hayes | title = Unusually Fierce Winds Razed 100 Homes | url = http://proquest.umi.com/pqdweb?index=0&did=115453089&SrchMode=1&sid=2&Fmt=10&VInst=PROD&VType=PQD&RQT=309&VName=HNP&TS=1182092638&clientId=2618 | format = fee required | publisher = [[New York Times]] | pages = B1-2 | date = [[2007-07-12]] | accessdate = 2007-05-17 }}</ref><ref name="severe plot"/>
+
+Soon afterwards, another tornado touched down in [[Watertown, Connecticut|Watertown]], passing through [[Oakville, Connecticut|Oakville]] and northern [[Waterbury, Connecticut|Waterbury]], damaging or destroying 150 homes.<ref name="Grazulis"/>
+
+===Hamden tornado===
+[[Image:Severe plot for 7-10-1989.png|thumb|250px|right|Severe weather reports, including hail, wind, and tornadoes, from that day.]]
+The Hamden tornado was by far the most destructive tornado of this family, and possibly the most damaging of the entire outbreak. The damage path was only five miles long, stopping just short of the city of [[New Haven]], but it destroyed almost 400 structures in its path of destruction.<ref name="Grazulis"/> Industrial cranes and cars were tossed through the air, and rows of houses, as well as an industrial park, were flattened.<ref>{{cite news  | first = Nick | last = Ravos | title = Connecticut Residents Remember A Storm Worthy of a Nightmare | url = http://proquest.umi.com/pqdweb?index=0&did=115601682&SrchMode=1&sid=4&Fmt=10&VInst=PROD&VType=PQD&RQT=309&VName=HNP&TS=1182093221&clientId=2618 | format = fee required | publisher = New York Times | page = B2 | date = [[2007-07-13]] | accessdate = 2007-05-17 }}</ref>  The [[United States National Guard|National Guard]] was called in to aid in cleanup and keep order, as some looting was reported in the devastated area.<ref name="NYT1"/>  The damage was so intense that much of the area was without power for a week, and trees were still being cleared a year later.<ref name="Grazulis"/>
+
+The storm was so intense at this point that an 80&nbsp;mph (130&nbsp;km/h) wind gust was measured in downtown New Haven after the tornado dissipated.<ref name="NYT1"/> About the same time, a tornado struck the area between Carmel and [[Brewster, New York]], unroofing a [[condominium]].  Five people were injured.<ref name="NCDC"/>
+
+===Long Island===
+The storms continued to produce damage after crossing onto [[Long Island]].  An '''F2''' tornado caused significant damage in the town of [[Moriches, New York|East Moriches]].  A man was thrown with his trailer across an airfield; amazingly, he escaped the destroyed trailer with only minor injuries.<ref name="NYT1"/> The tornado was accompanied by 2.5&nbsp;inch (6.4&nbsp;cm) hail. Other areas further east also saw straight-line wind damage and hail up to an inch across.<ref name="severe plot"/>
+
+===Massachusetts storms===
+While the destructive tornadoes were affecting Connecticut, this part of the storm produced four brief '''F1''' tornadoes in quick succession north of [[Worcester, Massachusetts|Worcester]], which occurred between 4<small>PM</small> and 4:15<small>PM</small>.<ref name="severe plot"/> These tornadoes each produced damage paths less than 150&nbsp;feet (45&nbsp;m) wide, and less than 0.5&nbsp;miles (0.8&nbsp;km) long.
+Moving [[Cardinal direction|east-southeast]] into southern [[Middlesex County, Massachusetts|Middlesex County]], it continued producing severe winds (gusting up to 90&nbsp;mph; 145&nbsp;km/h) and very heavy rain. Another tornado touched down very briefly in Norfolk County, followed by two more brief touchdowns in Plymouth County near 17:30. The storm then weakened, but still managed to produce 60&nbsp;mph (95&nbsp;km/h) winds on [[Cape Cod]], before finally moving out into the [[Atlantic Ocean|Atlantic]] and dissipating.<ref name="severe plot"/>
+
+There was some damage to homes and other structures from this storm, however, most damage was confined to wooded areas.  Several major roads, including [[Massachusetts Route 9|Route 9]], [[Route 12 (New England)|Route 12]], and [[Interstate 190 (Massachusetts)|Interstate 190]], were closed due to flooding or downed trees.  The main financial impact was from damage to utilites, which totalled over $2 million in [[Princeton, Massachusetts|Princeton]] alone.<ref name="boston globe 1">{{cite news  | first = Joshua | last = Gillette | title = Small Tornadoes Hit as Storms Lash the State | url = http://proquest.umi.com/pqdweb?translang=%23&RQT=305&SQ=AU%28Joshua+Gillette%2C+Contributing+Reporter%29&querySyntax=PQ&sortby=REVERSE_CHRON&TS=1182444494 | format = fee required | publisher = [[Boston Globe]] | page = 60 | date = [[1989-07-11]] | accessdate = 2007-06-21 }}</ref><ref name="boston globe 2">{{cite news  | first = Frances | last = Robles | title = Massachusetts Reeling from Storms That Caused Damages in the Millions | url = http://proquest.umi.com/pqdweb?index=0&did=61499515&SrchMode=1&sid=3&Fmt=3&VInst=PROD&VType=PQD&RQT=309&VName=PQD&TS=1182444813&clientId=2618 | format = fee required | publisher = Boston Globe | page = 18 | date = [[1989-07-12]] | accessdate = 1989-06-21 }}</ref>
+
+===New Jersey storms===
+Around the same time, the last of the activity was affecting areas of northern New Jersey.  Two '''F0'''s and an '''F1''' tracked through parts of Passaic and Bergen counties, snapping and uprooting trees, and causing $4&nbsp;million in damage.  About 150 houses were damaged in Bergen county alone.<ref name="NYT1"/>
+
+==Historic outbreak==
+This storm event was one of the most extensive ever seen in the [[Northeastern United States]].  In all, 17 tornadoes touched down, possibly more. There were 14 instances of measured severe winds (several over 80&nbsp;mph, 129&nbsp;km/h), along with 46 reports of [[straight-line wind]] damage. There were 10 reports of hail 1&nbsp;inch (2.5&nbsp;cm) across or larger, and hail 2.5&nbsp;inches (6.4&nbsp;cm) wide fell from one storm, which was producing a tornado at the time.  Hail this large is especially rare in this area of the world.<ref name="severe plot"> Data from the [[Storm Prediction Center]] archives, which are accessible through [http://www.spc.noaa.gov/software/svrplot2/ SeverePlot], free software created and maintained by [[John Hart (meteorologist)|John Hart]], lead forecaster for the SPC.</ref>
+
+Remarkably, though dozens of homes and other structures were levelled, no one was killed by tornadoes that day. Tornado damage caused about 140 injuries, mostly minor, and one death and 11 injuries were caused by wind damage. In just five hours, the storms produced more than 12500 [[lightning]] strikes. The airport in [[Oxford, Connecticut]] recorded 4.4&nbsp;inches (112&nbsp;mm) of [[rain]] in just 30 minutes.<ref name="lightning rain">{{cite web| url = http://www.intellicast.com/Almanac/Northeast/July/| title = July in the Northeast| author = 
+Intellicast| accessdate = 2006-10-01| year = 2005| archiveurl=http://web.archive.org/web/20050425112833/http://www.intellicast.com/Almanac/Northeast/July/| archivedate=2005-04-25}}</ref> While the northeastern United States experiences occasional tornadoes, an event of this scale is especially rare. Typical tornadoes in this area are short-lived and not particularly damaging. This outbreak featured several long-lived tornadoes, produced by storms which also produced destructive non-tornadic winds over a large area. Since 1950, only six violent tornadoes have occurred in the Northeastern US, two of which were part of this outbreak.<ref name="severe plot"/> It was by far the worst tornado event in the area since [[May 2]], [[1983]], when six significant tornadoes tore through [[New York]], and maybe the worst since the [[Flint-Worcester Tornadoes|Worcester Tornado]].<ref name="Grazulis">{{cite book | last = Grazulis | first = Thomas P | title = Significant Tornadoes 1680-1991 | year = July | month = 1993 | publisher = The Tornado Project of Environmental Films | location = St. Johnsbury, VT | isbn = 1-879362-03-1 }}</ref>
+
+==See also==
+*[[Flint-Worcester Tornadoes]]<!--to be split, change this link to Worcester only once it is split-->
+*[[List of Connecticut tornadoes]]
+*[[Late-May_1998_Tornado_Outbreak_and_Derecho#New_York_tornado_outbreak|Late-May 1998 Tornado Outbreak and Derecho]]
+
+== References ==
+<div class="references-small">
+<references/>
+</div>
+
+[[Category:F4 tornadoes]]
+[[Category:1989 meteorology]]
+[[Category:New York tornadoes]]
+[[Category:Massachusetts tornadoes]]
+[[Category:Connecticut tornadoes]]
+[[Category:New Jersey tornadoes]]

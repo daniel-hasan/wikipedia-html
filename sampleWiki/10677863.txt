@@ -1,0 +1,72 @@
+{{Taxobox
+| image = Dusky Woodswallow.jpg
+| image_width = 250px
+| color = pink
+| name = Dusky Woodswallow
+| status = LC
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Bird|Aves]]
+| ordo = [[Passerine|Passeriformes]]
+| familia = [[Artamidae]]
+| genus = ''[[Woodswallow|Artamus]]''
+| species = '''''A. cyanopterus'''''
+| binomial = ''Artamus cyanopterus''
+| binomial_authority = ([[John Latham (ornithologist)|Latham]], 1802)
+}}
+The '''Dusky Woodswallow''' ('''''Artamus cyanopterus'''''),<ref>Koenig, p.29</ref><ref>Gibbons, p.175</ref> is a [[bird]] species of  [[forest]]s and [[woodland]]s in [[tropics|tropical]] and [[subtropical]] regions,<ref name="IUCN">{{Cite web|url=http://www.iucnredlist.org/search/details.php/51230/summ|title=Species Information:Artamus cyanopterus|work=www.iucnredlist.org|date=2004|accessdate=2007-08-31}}</ref> in eastern and southern [[Australia]].<ref name="dus">{{Cite web|url=http://www.arthurgrosset.com/ozbirds/duskywoodswallow.html|work=ArthurGrosset.com|title=Dusky Woodswallow ''Artamus cyanopterus''|date=February 2006|accessdate=2007-08-31}}</ref><ref name="bak">{{Cite web|url=http://birdsinbackyards.net/finder/display.cfm?id=129|title=Bird Finder:Dusky Woodswallow|work=BirdsinBackyards.net|accessdate=2007-08-31}}</ref><ref name="wood">{{Cite web|url=http://animals.jrank.org/pages/1417/Woodswallows-Artamidae-DUSKY-WOODSWALLOW-Artamus-cyanopterus-SPECIES-ACCOUNT.html
+|title=Woodswallows: Artamidae - Dusky Woodswallow (artamus Cyanopterus): Species Account|work=www.animals.jrank.org|accessdate=2007-08-31}}</ref><ref>Taylor, Robin ''Wild Places of Greater Melbourne'' (1999)</ref>
+The global [[population]] of the species has as yet not been formally confirmed, but it has been officially rated in the range of 'Least Concern', according to the [[BirdLife International]] in 2004. As such, the bird could be described as common in its local [[habitat (ecology)|habitat]].<ref name="IUCN" />
+
+The name "[[Woodswallow]]" is a misnomer as they are not closely related to true [[swallow]]s. Instead, they belong to the family [[Artamidae]], which also includes [[butcherbird]]s, [[currawong]]s and the [[Australian Magpie]].
+
+==Description==
+The Dusky Woodswallow is medium sized and [[swallow]]-like,<ref name="wood" /> with a dark [[brown]] [[hue]],<ref name="dus" /> but there have been instances where the bird has appeared [[grey]].<ref name="bak" /> They have a [[black]] patch in front of the [[eye]]s,<ref name="wood" /> and grey (sometimes also black)<ref name="wood" /> wings with [[white]] streaks on them.<ref name="dus" /><ref name="bak" /><ref name="wood" /> The Dusky Woodswallow has a black, white-tipped tail<ref name="wood" /><ref name="bak" /><ref name="dus" /> with a silver underwing.<ref name="wood" /> The birds have a blue-grey bill capped with black.<ref name="wood" /><ref name="bak" /><ref name="dus" />
+Dusky Woodswallows are known to spontaneously 'wag' or swivel their tales fervently, a trait which is common among many other species of [[Woodswallow]].<ref name="bak" />
+
+=== Relations to other Woodswallows ===
+A significant difference from other Woodswallows that Dusky Woodswallows share is a distinctive white coloured patch on the bird's outer wing. Dusky Woodswallows also seem to typically be more smoky brown than other species of Woodswallow.<ref name="bak" />
+
+The [[Little Woodswallow]], a smaller, darker woodswallow, too, is slightly more smoky brown that other Woodswallows, but that is the only similarity that the latter has with the Dusky Woodswallow; the Little Woodswallow does not share a white patch on the outer wing.<ref name="bak" />
+
+==Distribution and habitat==
+The birds live primarily in open [[eucalyptus]] forests and [[woodland]]s.<ref name="wood" /> They range mostly from [[Atherton Tableland]], [[Queensland]], down to [[Tasmania]] and west to [[Eyre Peninsula]], in [[South Australia]].<ref name="dus" /> They roost communally, usually nocturnally. During the breeding season, they nest in large flocks to make sure to keep predators away from young.<ref name="dus" /> These flocks can be 20-30 Dusky Woodswallows in size.<ref name="feather">{{citeweb|title=Animal facts: Dusky Woodswallow |work=Featherdale Wildlife Park |url=http://www.featherdale.com.au/featherdale/featherdale.ns4/Animals/Dusky+Woodswallow |accessdate=2007-08-31}}</ref>
+
+Dusky Woodswallows adhere to seasonal migration and movements. The birds are a [[nomad]]ic species, and tend to move quite spontaneously.<ref name="dus" /> However, one certain change of habitat occurs for the south-eastern birds, who [[bird migration|migrate]] northward for [[Autumn]].<ref name="dus" />
+
+Communally roosting birds, the Dusky Woodswallow has a variety of chattering calls which are used in certain situations. The most distinctive of these calls is perhaps the one which is used when a predator or intruder approaches, which consists of a harsh mobbing call to warn others.<ref name="wood" />
+
+==Feeding and diet==
+The diet of the bird can be varied. They eat various forms of foliage and other grassy material that they find on the ground on in trees and shrubs. Dusky Woodswallows have been seen eating [[termite]]s, [[butterfly|butterflies]] and other [[insect]]s. They also eat [[nectar]] from flowers.<ref name="wood" /><ref name="bak" /><ref name="dus" /> One notable aspect of their feeding habits is the way they hunt flying insects, which is done by picking them up on their wing.<ref name="bak" /> They do, however, also eat their prey from the ground, and they often find inconspicuous places to perch while waiting for prey, such as utility lines and the like.<ref name="dus" />
+
+==Breeding==
+The nest of the Dusky Woodswallow consists of twigs, [[root]]s and other similar foliage matted together to form a bowl shape, which is lined with [[grass]].<ref name="dus" /> It is positioned safely, behind [[bark]], and/or high in a [[tree]] [[branch]], and sometimes in a hollowed out tree stump.<ref name="dus" /> The [[nest]] is made during the period from August to January, and with the help of several birds.<ref name="wood" /> The mated pair will then guard the nest, while others will help them take care of the babies.<ref name="wood" /> The [[female]] lays white eggs, of which there are usually no more than three or four. While the [[avian incubation|incubation]] period lasts for sixteen days, the amount of time taken for fledgling can be this long to around twenty days.<ref name="wood" />
+The typical clutch is three to four in size, but this may vary.<ref name="bak" /><ref name="feather" />
+
+== Conservation status ==
+The Dusky Woodswallow has quite a large range, with an estimated 1,000,000–10,000,000 km<math>^2</math> in global extent of occurrence.<ref name="IUCN" /> The population size of this bird has not yet been quantified or estimated. It is, however, expected to be as populous as other birds within its densest range labeled 'common'. Because of this, the Dusky Woodswallow is evaluated to be of Least Concern (LC).<ref name="IUCN" /> This classification may change with new evidence, so is not to be taken with complete accuracy.
+
+== See also ==
+*[[List of Australian birds]]
+
+==Sources==
+;Specific
+{{reflist}}
+
+;General
+{{refbegin}}
+*Gibbons, Phillip; Lindenmayer, David ''Tree Hollows and Wildlife Conservation in Australia'' (2002)
+*Koenig, Walter; Dickinson, Janis ''Ecology and Evolution of Cooperative Breeding in Birds'' (2004)
+*del Hoyo, Josep, A. Elliott, J. Sargatal, J. Cabot, ''Handbook of the Birds of the World'' Barcelona: Lynx Edicions, 1992.
+*Dickinson, Edward C., ed. ''The Howard and Moore Complete Checklist of the Birds of the World'', 3rd edition Princeton, NJ and Oxford, U.K.: Princeton University Press, 2003.
+*Forshaw, Joseph, ed. ''Encyclopedia of Birds'', 2nd ed. San Diego, CA: Academic Press, 1998.
+*Harrison, Colin James Oliver. ''Birds of the World'' London and New York: Dorling Kindersley, 1993.
+*Perrins, Christopher M., and Alex L. A. Middleton, eds. ''The Encyclopedia of Birds''. New York: Facts on File, 1985.
+{{refend}}
+
+[[Category:Artamus]]
+[[Category:Birds of Australia]]
+[[Category:Birds of Tasmania]]
+
+
+[[pl:Ostrolot ciemny]]

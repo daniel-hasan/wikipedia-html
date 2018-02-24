@@ -1,0 +1,15 @@
+'''Ammonius''' ({{lang-el|Ἀμμώνιος}}) the Peripatetic was a philosopher of the [[Peripatetic]] school who taught in [[Athens]]. He lived in the [[1st century AD]].
+
+He was a teacher of [[Plutarch]], who praises his great learning,<ref>Plutarch, Symp., iii. 1.</ref> and introduces him discoursing on religion and sacred rites.<ref>Plutarch Symp., ix. 15.</ref> Plutarch wrote a biography of him which is no longer extant.
+
+He may be the Ammonius of [[Lamprae]] (in [[Attica]]) quoted by [[Athenaeus]]<ref>Athenaeus, ''Deipnosophists'', xi.</ref> as the author of a book on altars and sacrifices ({{lang-el|Περὶ βωμῶν καὶ Θυσιῶν}}).  Athenaeus also mentions a work on Athenian courtesans ({{lang-el|Περὶ τῶν Ἀθηνσινῆ Ἑταιρίδων}}) as written by an Ammonius.<ref>Athenaeus, ''Deipnosophists'', xiii.</ref>
+
+==References==
+{{reflist}}
+
+[[Category:1st century philosophers]]
+[[Category:Classical mystics]]
+[[Category:Peripatetic philosophers]]
+[[Category:Roman era philosophers]]
+
+[[is:Ammoníos frá Aþenu]]

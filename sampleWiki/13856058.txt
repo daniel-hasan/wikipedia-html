@@ -1,0 +1,55 @@
+{{Unreferenced|date=October 2007}}
+{{Infobox Military Person
+|name=Hubert de Brienne, Comte de Conflans
+|image=
+|caption=
+|born=[[1690]]
+|died=[[27 January]] [[1777]]
+|placeofbirth=[[Paris]]
+|placeofdeath=Paris
+|allegiance=[[Kingdom of France|France]]
+|branch=[[French Navy|Navy]]
+|serviceyears=1706-1777
+|rank=[[chef d'escadre]]
+|unit=
+|commands=
+|battles=[[Battle of Quiberon Bay|Quiberon Bay]]
+|awards=[[marshal of France]] 
+|relations=
+}}
+'''Hubert de Brienne, Comte de Conflans''' (1690, Paris - [[27 January]] [[1777]], Paris) was a French naval commander.
+
+==Early life==
+The son of Henri Jacob marquis de Conflans and Marie du Bouchet, at 15 he was made a knight of the [[Order of Saint Lazarus]] and the following year entered the [[Gardes de la Marine]] school at [[Brest, France|Brest]].  He then served in the [[War of the Spanish Succession]] under [[Abraham Duquesne-Guitton|Duquesne-Guitton]] (from 1708 to 1709) and [[René Duguay-Trouin|Duguay-Trouin]] (1710), in which he received his baptism of fire, taking part in the capture of an English vessel then a Portuguese merchantman.
+
+In 1712, he was made [[ensign (rank)|ensign]] and participated in several anti-piratical operations in the [[Carribean Sea|Carribean]] and on the [[Morocco|Moroccan]] coast.  In 1721, he was sent on a mission to Constantinople then in [[1723]] he cruised along the coast of [[Saint-Domingue]] and took part in the repression of the troubles there.
+
+==First commands and governor-general of Saint-Dominique==
+He was made lieutenant in 1727 and carried out two campaigns in the Mediterranean.  Then, in 1731, he served as lieutenant of the gardes de la Marine at Rochefort. The following year he was made knight of the [[order of Saint Louis]] and from 1733 to 1734 commanded a flotilla charged with guarding the transport of men and munitions to [[Cayenne]] and [[Martinique]].  That same year, he was promoted to captain, and served again under Duguay Trouin then under the marquis d'Antin during the [[War of the Polish Succession]].
+
+In 1741, he commanded the gardes de la Marine school at Brest, where he had begun his career.  Eventually, he was put in command of the ''Content'' and captured the English vessel [[HMS Northumberland (1705)|''Northumberland'']] on [[8 May]] [[1744]].  On board the ''Terrible'' he escorted Atlantic convoys and in 1746 took the [[HMS Severn (1693)|''Severn'']].
+
+In 1747, he was made governor-general of Saint-Domingue, but on the voyage to take up the post his vessel was attached by the English and he was wounded and captured.  He was not freed until 1748, in the [[Treaty of Aix-la-Chapelle (1748)|treaty of Aix la Chapelle]], on which he was made "[[chef d'escadre]]", a role he held up to 1751.  In 1752 he became lieutenant général of the navy.
+
+==Seven Years' War and the battle of Quiberon Bay==
+{{Seealso|battle of Quiberon Bay}}
+In 1756 he received the rank of vice-admiral of the [[Flotte du Ponant|Ponant]] (roughly, the Atlantic fleet).  In 1758, king [[Louis XV]] made him [[marshal of France]] in reward for his service.
+
+In 1759, he was put in charge with landing troops in Scotland for an invasion of England organised by Louis XV, [[Nicolas René Berryer]] and the [[Charles Louis Auguste Fouquet, duc de Belle-Isle|marshal of Belle-Isle]], and named "le Grand Dessein de débarquement".  Command of the expeditionary force was given to [[Emmanuel-Armand de Richelieu, duc d'Aiguillon]].  Relations between Conflans and Aiguillon were far from cordial and, in effect, Conflans disagreed with the conduct of the campaign by his superiors and informed the king that he was anxious to avoid battle with the English fleet under [[admiral Hawke]].  The fleet was mustered in the [[gulf of Morbihan]], and it was there that Conflans had to start his escort duties.  Nevertheless, he had to annihilate the division of commodore [[Robert Duff (governor)|Robert Duff]] which had crossed into the area.  Finally, Hawke momentarily relaxed his blockade of Brest in order to avoid a storm and Conflans got out of Brest on [[November 14]].  
+
+Opposing currents diverted the marshal from his initial route and Conflans did not sight [[Belle Isle]] until the 20th.  Meanwhile Hawke had been warned of Conflans's departure and moved to block his path.  On November 20th, on a restless sea, Conflans sighted Duff's division fleeing  and gave the order to attack it, but as victory seemed in Conflans's hands, Hawke's fleet sighted Conflans's.  Duff then put about so that Conflans turn aside to chase him, thus allowing Hawke to bring his fleet into line of battle and begin pursuing the French fleet.  Conflans decided to sail into [[Quiberon Bay]], little known to the English, and engage Hawke there, even though Hawke had caught up with Conflans just as the French fleet began entering the bay<!---??? translation--->.  Hawke nevertheless joined battle and destroyed two  French vessels and forced two others to strike their colours.  Conflans moved to the safety of a ship in his rear, but night soon put a temporary end to the battle.
+
+During the night, Conflans's [[flagship]], the ''[[French ship Soleil-Royal (1749)|Soleil Royal]]'' ran aground, without his knowing, within only a few [[cable length]]s of the English fleet.  When dawn rose, he realized the danger that awaited him and sailed across the Croisic to embark on the French vessel ''[[French ship Héros (1750)|Héros]]''.  He then burned his flagship after evacuating it.
+
+==Aftermath and final years==
+On his return to Brest, Conflans would not only have to explain his defeat but also his burning of his flagship.  His choice to engage in the bay of Quiberon was much criticized, and in any other circumstances it would have been a wise choice, but it reckoned without the audacity of Hawke.  Only the reasons for his decision to abandon his vessel remain obscure and he was greatly reproached for it.  Of more at the time of his procés, Conflans overwhelmed without pause his subordinates, of whom he had sung their praises at the time of his first report.  
+
+Disgraced, he passed his last years in Paris where he died in 1777.  His post of vice admiral of the Ponant would be given to the [[prince of Bauffremont]], his subaltern at Quiberon Bay.
+
+[[fr:Hubert de Brienne de Conflans]]
+
+{{DEFAULTSORT:de Brienne, Hubert, Comte de Conflans}}
+[[Category:counts of France]]
+[[Category:Marshals of France]]
+[[Category:French military personnel of the Seven Years' War]]
+{{Birthdeath|1690|1777}}

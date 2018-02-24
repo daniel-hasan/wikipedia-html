@@ -1,0 +1,146 @@
+{{Cleanup|date=December 2006}}
+{{coord|39|02|56|N|084|40|04|W|type:airport_region:US|display=title}}
+{{Infobox Airport
+| name         = Cincinnati/Northern Kentucky International Airport
+| image        = 18 Cincinnati airport-03.JPG
+| caption      = Tarmac as seen from Terminal 2
+| IATA         = CVG
+| ICAO         = KCVG
+| FAA          = CVG
+| type         = Public
+| owner        = [[Kenton County, Kentucky|Kenton County]] Airport Board
+| operator     = 
+| city-served  = [[Cincinnati, Ohio]]
+| location     = [[Hebron, Kentucky]]
+| elevation-f  = 896
+| elevation-m  = 273
+| website      = [http://www.cvgairport.com/ www.cvgairport.com]
+| r1-number    = 9/27
+| r1-length-f  = 12,000
+| r1-length-m  = 3,658
+| r1-surface   = [[Asphalt]]/[[Concrete]]
+| r2-number    = 18C/36C
+| r2-length-f  = 11,000
+| r2-length-m  = 3,353
+| r2-surface   = Asphalt/Concrete
+| r3-number    = 18L/36R
+| r3-length-f  = 10,000
+| r3-length-m  = 3,048
+| r3-surface   = Concrete
+| r4-number    = 18R/36L
+| r4-length-f  = 8,000
+| r4-length-m  = 2,438
+| r4-surface   = Concrete
+| stat-year    = 2006
+| stat1-header = Aircraft operations
+| stat1-data   = 517,779
+| footnotes    = Sources: Airport website<ref name=Airport>[http://www.cvgairport.com/ Cincinnati-Northern Kentucky International Airport], official website</ref> and [[Federal Aviation Administration|FAA]]<ref name=FAA>{{FAA-airport|ID=CVG|use=PU|own=PU|site=07090.*A}}, effective 2007-10-25</ref>
+}}
+
+'''Cincinnati/Northern Kentucky International Airport''' {{Airport codes|CVG|KCVG}} is located in [[Hebron, Kentucky|Hebron]], unincorporated [[Boone County, Kentucky|Boone County]], [[Kentucky]], [[United States]] and serves the [[Cincinnati/Northern Kentucky metropolitan area|Greater Cincinnati metropolitan area]].  The first airplane landed at the airport January 10, 1947.<ref>[[The Cincinnati Enquirer]], December 31, 1999; p3</ref> Despite being located in Boone County, the airport operations are governed by the neighboring [[Kenton County, Kentucky|Kenton County]] Airport Board. The airport's code, CVG, comes from the nearest major city at the time of its opening, [[Covington, Kentucky]], although the airport authority likes to say it stands for "Cincinnati Very Good." [http://www.cvgairport.com/airport/fun/facts.shtml]
+
+The airport's terminal/remote-concourse configuration, combined with simultaneous triple landing/takeoff capabilities, makes CVG a particularly efficient airport for flight operations. CVG is the third largest hub of [[Delta Air Lines]] and is the central hub of Delta's wholly-owned subsidiary airline, [[Comair]], which provides [[regional jet]] service under the [[Delta Connection]] banner.  As such, the airport serves an important role in Delta's [[Midwestern United States|midwest]] [[Spoke-hub distribution paradigm|hub-and-spoke]] system. After Delta's bankruptcy was announced in 2005, flight cutbacks were announced that directly affected CVG. The numbers and sizes of flights to many cities have been reduced in the late-hour flights to better match local demand, though several services were ended altogether. After the reduction, CVG offers 400 flights per day to 120 nonstop destinations.
+
+The airport has 3 terminals. Terminal 1 closed down on January 16, 2007. It is currently being used by the airport for Administrative offices. Until recently it was served only by [[US Airways Express]]. American Airlines, United Airlines and US Airways all operate in Terminal 2.  Terminal 3, built specifically for and by Delta, has 3 remote concourses connected by an underground tram and bus system.  Terminal 3 is served by Delta, its regional affiliates, and Skyteam partners Continental, and Northwest.  Terminal 3 is the only one with US customs offices, and is therefore used by [[USA3000]], and until recently, [[Transmeridian Airlines]].
+
+(For air services specific to [[Hebron, Kentucky]], see [[Combs Field Airport]].)
+
+== Facilities and aircraft ==
+Cincinnati/Northern Kentucky International Airport covers an area of {{convert|7000|acre|sqkm}} which contains four paved [[runway]]s:
+* Runway 9/27: 12,000 x 150 ft. (3,658 x 46 m), Asphalt/Concrete
+* Runway 18C/36C: 11,000 x 150 ft. (3,353 x 46 m), Surface: Asphalt/Concrete
+* Runway 18L/36R: 10,000 x 150 ft. (3,048 x 46 m), Surface: Concrete
+* Runway 18R/36L: 8,000 x 150 ft. (2,438 x 46 m), Surface: Concrete
+
+For the 12-month period ending May 23, 2006, the airport had 517,779 aircraft operations, an average of 1,418 per day: 64% [[air taxi]], 31% scheduled commercial, 5% [[general aviation]] and <1% military.
+
+== Airlines and destinations ==
+===Terminal 1===
+Terminal 1 was closed down on January 16, 2007 when US Airways Express moved to Terminal 2. The building is currently being used for Airport Offices and Administration.
+
+===Terminal 2===
+
+* [[American Airlines]] 
+**[[American Eagle]] (Chicago-O'Hare, Dallas/Fort Worth, New York-LaGuardia, Miami)
+* [[United Airlines]] (Chicago-O'Hare)
+** [[United Express]] operated by [[GoJet Airlines]] (Chicago-O'Hare, Washington-Dulles)
+** [[United Express]] operated by [[SkyWest]] (Chicago-O'Hare, Denver)
+* [[US Airways]]
+** [[US Airways Express]] operated by [[Air Wisconsin]] (Charlotte, Philadelphia)
+** [[US Airways Express]] operated by [[PSA Airlines]] (Charlotte)
+
+===Terminal 3===
+Terminal 3 has three gate concourses. Concourse C (housing the Comair gates) is reached by a shuttle bus from concourses A or B.  Concourses A and B, housing all other Terminal 3 airlines, are reached by an underground tramway.
+* [[Continental Airlines]]
+** [[Continental Connection]] operated by [[Commutair]] (Cleveland)
+** [[Continental Express]] operated by [[ExpressJet Airlines]] (Houston-Intercontinental, Newark)
+* [[Delta Air Lines]] (Albuquerque, Amsterdam [seasonal], Anchorage [seasonal], Atlanta, Baltimore/Washington, Boston, Cancún, Chicago-O'Hare, Columbus, Denver, Fort Lauderdale, Fort Myers, Frankfurt, Hartford, Las Vegas, London-Gatwick, Los Angeles, New York-JFK, New York-LaGuardia, Orange County, Orlando, Paris-Charles de Gaulle, Phoenix, Portland (OR), Raleigh/Durham, Rome-Fiumicino [seasonal], Salt Lake City, San Diego, San Francisco, Seattle/Tacoma, Tampa, Washington-Reagan)
+** [[Delta Connection]] operated by [[Atlantic Southeast Airlines]] (Akron/Canton, Appleton, Asheville, Atlanta, Charleston (WV), Cleveland, Columbia (SC), Dallas/Fort Worth, Denver, Detroit, Green Bay, Greenville (SC), Harrisburg, Huntsville, Jacksonville, Kansas City, Knoxville, Lansing, Lexington, Louisville, Manchester (NH), Memphis, Milwaukee, Minneapolis/St. Paul, Nashville, Newark, Oklahoma City, Omaha, Philadelphia, Pittsburgh, Providence, San Antonio, Sarasota/Bradenton, Toronto-Pearson, Tulsa, Washington-Reagan, Wilkes-Barre/Scranton)
+** [[Delta Connection]] operated by [[Big Sky Airlines]] (Cape Girardeau, Jackson (TN), Owensboro)  '''All Service Ends January 7''' 
+** [[Delta Connection]] operated by [[Chautauqua Airlines]] (Akron/Canton, Allentown/Bethlehem, Asheville, Birmingham (AL), Blountville/Tri-Cities, Buffalo, Charleston (SC), Charleston (WV), Chattanooga, Cleveland, Columbus, Dayton, Detroit, Evansville, Fayetteville (AR), Fort Wayne, Greensboro, Greenville (SC), Hartford, Huntington, Huntsville, Indianapolis, Kalamazoo, Knoxville, Lexington, Little Rock, Louisville, Madison, Memphis, Milwaukee, Myrtle Beach, Nashville, New Orleans, New York-JFK, Norfolk, Pittsburgh, Portland (ME), Raleigh/Durham, Richmond, Roanoke, Savannah, South Bend, St. Louis, State College, Toledo, Wilkes-Barre/Scranton)
+** [[Delta Connection]] operated by [[Comair]] (Akron/Canton, Albany (NY), Allentown/Bethlehem, Appleton, Austin, Baltimore/Washington, Bangor, Baton Rouge, Birmingham (AL), Buffalo, Burlington (VT), Cedar Rapids/Iowa City, Charleston (SC), Charlotte, Chattanooga [ends March 1], Chicago-O'Hare, Cleveland, Colorado Springs, Columbus, Dallas/Fort Worth, Dayton, Daytona Beach [Begins February 23/Saturdays], Denver, Des Moines, Detroit, Fort Myers, Fort Walton Beach, Grand Rapids, Green Bay, Greensboro, Greenville (SC), Harrisburg, Hartford, Houston-Intercontinental, Huntsville, Jackson, Jacksonville, Kansas City, Knoxville, Lexington, Louisville, Manchester (NH), Memphis, Miami, Milwaukee, Minneapolis/St. Paul, Montréal, Nashville, New Orleans, New York-JFK, New York-LaGuardia, Newark, Oklahoma City, Omaha, Panama City (FL)[seasonal weekends], Philadelphia, Pittsburgh, Providence, Raleigh/Durham, Richmond, Rochester (NY), San Antonio, Savannah, Sioux Falls, Springfield (MO), St. Louis, Syracuse, Toronto-Pearson, Traverse City [seasonal], Tulsa, Washington-Dulles, Washington-Reagan, West Palm Beach, White Plains, Wilkes-Barre/Scranton)
+** [[Delta Connection]] operated by [[Freedom Airlines]] (Birmingham (AL), Buffalo, Charlotte, Charleston (SC), Columbia, Dayton, Greensboro, Knoxville, Louisville, Portland (ME), Raleigh/Durham, Richmond, Washington-Dulles)
+** [[Delta Connection]] operated by [[SkyWest]] (Chicago-O'Hare, Denver, Dallas/Fort Worth)
+* [[Northwest Airlines]]
+** [[Northwest Airlink]] operated by [[Pinnacle Airlines]] (Detroit, Minneapolis/St. Paul)
+* [[USA3000 Airlines]] (Cancún, Fort Myers, Punta Cana [seasonal], St. Petersburg/Clearwater)
+
+===Cargo===
+* American Airlines
+* [[Ameriflight]]
+* [[Continental Airlines]]
+* [[DHL]]
+* [[Delta Air Lines]]
+* [[FedEx Express]]
+* [[Northwest Airlines]]
+* [[Target Logistics]]
+* [[United Airlines]] 
+* [[US Airways]]
+
+==Notable accidents==
+* On [[January 12]], [[1955]] a [[Trans World Airlines-Castleton Inc. Flight 12 Jan 1955|TWA Flight 1955-01-12 to Cleveland]] Martin 202a was in the take off phase of departure from the airport when it collided with a privately owned [[Castleton Farm]]s [[DC-3]].  The mid-air collision killed 13 people on the commercial airliner and 2 on the privately owned plane.
+
+* On [[November 14]], [[1961]], a [[Zantop Cargo Flight of 11-Nov-1961]] [[Douglas DC-4|DC-4]] crashed near runway 18 into an apple orchard.  The crew survived.
+
+* On [[November 8]], [[1965]], [[American Airlines Flight 383]], a [[Boeing 727]], crashed on approach, killing 58 (53 passengers and 5 crew) of the 62 (56 passengers and 6 crew) on board.
+
+* On [[November 6]], [[1967]], [[TWA Flight 157]], a [[Boeing 707]], over-ran the runway during an aborted takeoff, injuring 11 of the 29 passengers. One of the injured passengers died four days later. The seven crew members were unhurt.
+
+* On [[November 20]], 1967, [[TWA Flight 128]], a [[Convair 880]], crashed on approach, killing 70 (65 passengers and 5 crew) of the 82 persons aboard (75 passengers and 7 crew). 
+
+* On [[October 8]], [[1979]], [[Comair Flight 444]], a [[Piper PA-31 Navajo|Piper Navajo]], crashed shortly after takeoff from [[Cincinnati-Northern Kentucky International Airport]]. Seven passengers and the pilot were killed.
+
+* On [[June 2]], [[1983]], [[Air Canada Flight 797]], a [[McDonnell Douglas DC-9|DC-9]] flying on a [[Houston, Texas|Houston]]-[[Dallas, Texas|Dallas]]-[[Toronto]] route, made an emergency landing at Cincinnati due to a cabin fire. Twenty-three of the 41 passengers died of smoke inhalation or fire injuries, including legendary Canadian folk singer [[Stan Rogers]]. All five crew members survived.
+
+* On [[January 9]], [[1997]], [[Comair Flight 3272]], an [[Embraer EMB 120 Brasilia]] aircraft originating in Cincinnati, crashed while on approach into [[Detroit Metropolitan Wayne County Airport]]. All 29 aboard were killed. 
+
+* On [[August 13]], [[2004]], [[Air Tahoma Flight 185]], a [[Convair 580]], was en-route to Cincinnati from [[Memphis, Tennessee|Memphis]], [[Tennessee]], carrying freight under contract for [[DHL Worldwide Express]]. The aircraft crashed on a golf course just south of the Cincinnati airport due to fuel starvation and dual engine failure, killing the first officer and injuring the captain.
+
+==Industrial murals==
+The airport is home to 14 large [[Art Deco]] murals that were originally created for the [[Cincinnati Museum Center at Union Terminal|Cincinnati Union Terminal]] during the Great Depression.  Mosaic murals depicting people at work in local Cincinnati workplaces were incorporated into the interior design of the railroad station by [[Winold Reiss]], a German-born artist with a reputation in interior design.
+
+When one Concourse of the Station was designated for demolition in 1972, a "Save the Terminal Committee" raised funds to remove and transport the 14 murals in the concourse to new locations in the Airport. They were placed in Terminal 1, and in Terminals 2 and 3, which were then being constructed as part of a major airport expansion and renovation.
+
+The murals were also featured in a scene in the film [[Rain Man]] starring [[Dustin Hoffman]] and [[Tom Cruise]]. In addition, a walkway to one of the terminals at CVG was featured in the scene in the film when Hoffman's character Raymond refused to fly on a plane.
+
+==References==
+{{reflist}}
+
+==External links==
+*[http://www.nkyviews.com/boone/boone_airport.htm Historical Images of Cincinnati-Northern Kentucky Airport]
+*[http://www.cvgairport.com/airport/murals/m_history.shtml History of the Industrial Murals]
+*[http://www.cvgairport.com/airport/murals/index.shtml Mural images and location map]
+*{{WikiMapia|39.0488|-84.6678|13}}
+*{{FAA-diagram|00655}}
+*{{US-airport|CVG}}
+
+[[Category:Airports in Kentucky]]
+[[Category:Boone County, Kentucky]]
+[[Category:Transport in Cincinnati]]
+
+[[de:Flughafen Cincinnati]]
+[[es:Aeropuerto Internacional de Cincinnati]]
+[[lmo:Cincinnati/Northern Kentucky International Airport]]
+[[ja:シンシナティ・ノーザンケンタッキー国際空港]]
+[[sv:Cincinnati/Northern Kentucky International Airport]]
+[[zh:辛辛那堤/北肯塔基國際機場]]

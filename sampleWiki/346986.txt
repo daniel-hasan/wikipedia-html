@@ -1,0 +1,42 @@
+{{about|the video game series|other uses|Dragon's Lair (disambiguation)}}
+{{nolead}}
+
+==Games==
+{{expand section}}
+
+*The sequel (disregarding the ''Escape from Singe's Castle'' as one) ''[[Dragon's Lair II: Time Warp]]'' was released in 1991.
+*''[[Dragon's Lair III: The Curse of Mordread]]'' was made for Amiga and DOS in 1993, mixing original footage with scenes from ''Time Warp'' that were not included in the original PC release due to memory constraints. The game also included a newly produced "Blackbeard the Pirate" stage that was originally intended to be in the arcade game but was never completed.<ref>{{cite web|url=http://www.d-l-p.com/community/forums/archives/default.asp?Action=View&MessageID=22033&Archive=Yes&Keywords= |title=Dragon's Lair Project Message Board |publisher=D-l-p.com |date=2002-01-23 |accessdate=2011-08-14}}</ref>
+*''[[Dragon's Lair 3D: Return to the Lair]]'' was developed in 2002, as a [[3D computer graphics|3D]] interpretation of the game for [[Microsoft Windows]], [[Xbox (console)|Xbox]], [[GameCube]] and the [[PlayStation 2]].
+*In 2005, Digital Leisure created a new ''Dragon's Lair III'' which utilized 3D footage from ''Dragon's Lair 3D'', but controlled via a system like the original arcade games.
+
+''Dragon's Lair'' also led to the creation of 1984's ''[[Space Ace]]'', another game animated by Don Bluth and his crew. ''Space Ace'' was also a ROM and disc upgrade kit for the ''Dragon's Lair'' cabinets, complete with new control panel overlay, side art and header.
+
+==Characters==
+===Princess Daphne===
+{{main|Princess Daphne (character)}}
+
+===Dirk the Daring===
+Dirk the Daring is the main protagonist of th first game and subsequent franchise. He is a valiant knight of the kingdom, Dirk was entrusted with the rescue of Princess Daphne from the clutches of Mordroc and Singe because all other knights were killed. He becomes heir to the throne upon saving Princess Daphne; following her rescue, Dirk and Daphne were married. In the original Dragon's Lair, Dirk was voiced by the game's director. ''[[Retro Gamer]]'' included him on their list of top 50 game characters in the category "Top Ten Forces of Good" and called him "without a doubt, the epytome of the heroic knight."<ref>''Retro Gamer'' 2, page 37.</ref>
+
+===Other characters===
+{{expand section}}
+
+==Adaptations==
+The game led to the creation of a short-lived television cartoon series, ''[[Dragon's Lair (TV series)|Dragon's Lair]]'' by [[Ruby-Spears Productions]] where Dirk the Daring was voiced by Bob Sarlatte and the unseen storyteller that narrates each episode is voiced by [[Clive Revill]]. Changes in the TV series included the originally nameless Dragon was given the name Singe (voiced by [[Arthur Burghardt]]), Princess Daphne (voiced by [[Ellen Gerstell]]) now wore a long pink dress, and included some exclusive characters like Princess Daphne's father King Ethelred (voiced by [[Fred Travalena]]), Dirk the Daring's horse Bertram (vocal effects provided by [[Peter Cullen]]), Dirk the Daring's squire Timothy (voiced by Michael Mish), and Dirk the Daring's rival Sir Hubert Blunt (voiced by [[Peter Cullen]]). Several enemies from the original game also make their appearance as adversaries, such as the Lizard King, the Phantom Knight, the Giddy Goons, and the Mudmen. Thirteen half-hour episodes were produced and aired on the [[American Broadcasting Company|ABC]] network from September 8, 1984, to April 27, 1985. It was last aired on the [[USA Cartoon Express]] between the late '80s and the early '90s. The show was generally run of the mill, but boasted an unusual feature: to keep the show in the spirit of the game, before each commercial break the storyteller would ask what the viewer would do to solve the problem facing Dirk. After the commercial break, the outcomes of the various choices were shown before Dirk acts on the correct idea (with the occasional exception) to save the day.
+
+A comic book miniseries based on the game, but incorporating elements from the cartoon series as well, like Dirk's horse Bertram, was released in 2003 by Crossgen Publishing, concurrent with a mini series based on ''Space Ace''. [[Arcana Studio]] published the entire comic book series in 2006, as there were three issues that were never before published.
+
+==References==
+{{Reflist}}
+
+==External links==
+* [http://www.digitalleisure.com/ Digital Leisure, License Holder of ''Dragon's Lair'']
+* [http://www.mobygames.com/game-group/dragons-lair-series-and-versions ''Dragon's Lair''] at [[MobyGames]]
+
+{{Dragon's Lair}}
+{{Don Bluth}}
+
+[[Category:Video game franchises]]
+[[Category:Dragon's Lair| ]]
+
+{{stub}}

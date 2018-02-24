@@ -1,0 +1,1030 @@
+{| class="infobox football" style="width: 16em; text-align: center;"
+|-
+! style="font-size: 16px;" |  English League 
+|- 
+! style="font-size: 12px;" |  First Division (1888-1992)- - Premier League (1992-present)
+|- 
+| style="font-size: 12px; background: #BFD7FF;" | '''Founded'''
+|-
+| style="font-size: 12px;" | [[1888]]
+|-
+| style="font-size: 12px; background: #BFD7FF;" | '''Number of Teams'''
+|-
+| style="font-size: 12px;" | 20
+|-
+| style="font-size: 12px; background: #BFD7FF;" | '''Current Champions'''
+|-
+| style="font-size: 12px;" | [[Manchester United F.C.|Manchester United]]
+|-
+| style="font-size: 12px; background: #BFD7FF;" | '''Country'''
+|-
+| style="font-size: 12px;" | [[England]]<br/>{{flagicon|ENG}} 
+|-
+| style="font-size: 12px; background: #BFD7FF;" | '''Most successful club'''
+|-
+| style="font-size: 12px;" | [[Liverpool F.C.|Liverpool]]<br/>(18 times champions)
+|-
+|}
+The '''English football champions''' are the winners of the highest league in English football, which is currently the [[Premier League]]. Teams in '''bold''' are those who won [[The Double|the double]] of League Championship and [[FA Cup]] in that season.
+
+
+==History==
+Following the legalisation of professional football by [[the Football Association]] in 1885{{ref label|professional|1|a}}, the English [[The Football League|Football League]] was established in [[1888]] by [[Aston Villa F.C.|Aston Villa]] director [[William McGregor]]. It was the first professional football league in the world. 
+
+At the end of the [[1888-89 in English football|1888-89]] season, [[Preston North End F.C.|Preston North End]] were the first club to be crowned champions after completing their fixtures unbeaten. In 1992, the teams then in the First Division defected to form the FA Premier League, which supplanted the [[Football League First Division]] as highest level of football in England.
+
+[[Image:PrestonNorthEnd1888.jpg|thumb|300px|Preston North End in 1888-89, the first Football League champions]]
+
+[[Liverpool F.C.|Liverpool]], with 18 titles, have been crowned champions more times than any other club having dominated during the 1970s and 1980s but have not been champions since the creation of the [[Premier League]] in 1992. They are followed by [[Manchester United F.C.|Manchester United]] (16) who dominated in the 1990s under [[Alex Ferguson|Sir Alex Ferguson]], who in turn are closely followed by [[Arsenal F.C.|Arsenal]], whose 13 titles all came after [[1930]]. [[Everton F.C.|Everton]] (9) have enjoyed success throughout their history, and both [[Aston Villa F.C.|Aston Villa]] (7) and [[Sunderland A.F.C.|Sunderland]] (6) secured the majority of their titles in the [[1890s]].
+
+[[Preston North End]], [[Burnley F.C.|Burnley]], and [[Huddersfield Town F.C.|Huddersfield Town]] are the only former top-flight First Division champions that have (so far) never played in the Premiership.
+
+Huddersfield Town in 1924-26, [[Arsenal F.C.|Arsenal]] in 1933-35, Liverpool in 1982-84 and Manchester United in 1999-2001 are the only sides to have retained the League title for three consecutive seasons. 
+
+:''For [[Women's football in England|English women's football]] champions, see [[FA Women's Premier League National Division#History|FA Women's Premier League National Division: History]].''
+
+==Football League First Division (1888-1992)==
+
+{| class="wikitable"
+!Year
+!Winner (number of titles)
+!Runners-up
+!Third Place
+!Golden Boot (Top Scorer)
+|-
+|[[1888-89 in English football|1888-89]]
+|'''[[Preston North End F.C.|Preston North End]]'''{{ref label|unbeaten|2|a}} (1)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[John Goodall]] (Preston North End) (21 goals)
+|-
+|[[1889-90 in English football|1889-90]]
+|[[Preston North End F.C.|Preston North End]] (2)
+|[[Everton F.C.|Everton]]
+|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|[[Jimmy Ross]] (Preston North End) (24)
+|-
+|[[1890-91 in English football|1890-91]]
+|[[Everton F.C.|Everton]] (1)
+|[[Preston North End F.C.|Preston North End]]
+|[[Notts County F.C.|Notts County]]
+|[[Jack Southworth]] (Blackburn Rovers) (26)
+|-
+|[[1891-92 in English football|1891-92]]
+|[[Sunderland A.F.C.|Sunderland]] (1)
+|[[Preston North End F.C.|Preston North End]]
+|[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|[[Johnny Campbell (footballer born 1870)|Johnny Campbell]] (Sunderland) (32)
+|-
+|[[1892-93 in English football|1892-93]]
+|[[Sunderland A.F.C.|Sunderland]] (2)
+|[[Preston North End F.C.|Preston North End]]
+|[[Everton F.C.|Everton]]
+|[[Johnny Campbell (footballer born 1870)|Johnny Campbell]] (Sunderland) (31)
+|-
+|[[1893-94 in English football|1893-94]]
+|[[Aston Villa F.C.|Aston Villa]] (1)
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Derby County F.C.|Derby County]]
+|[[Jack Southworth]] (Everton) (27)
+|-
+|[[1894-95 in English football|1894-95]]
+|[[Sunderland A.F.C.|Sunderland]] (3)
+|[[Everton F.C.|Everton]]
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Johnny Campbell (footballer born 1870)|Johnny Campbell]] (Sunderland) (22)
+|-
+|[[1895-96 in English football|1895-96]]
+|[[Aston Villa F.C.|Aston Villa]] (2)
+|[[Derby County F.C.|Derby County]]
+|[[Everton F.C.|Everton]]
+|[[Johnny Campbell (footballer born 1871)|Johnny Campbell]] (Aston Villa) and [[Steve Bloomer]] (Derby) (20)
+|-
+|[[1896-97 in English football|1896-97]]
+|'''[[Aston Villa F.C.|Aston Villa]]''' (3)
+|[[Sheffield United F.C.|Sheffield United]]
+|[[Derby County F.C.|Derby County]]
+|[[Steve Bloomer]] (Derby County) (22)
+|-
+|[[1897-98 in English football|1897-98]]
+|[[Sheffield United F.C.|Sheffield United]] (1)
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Fred Wheldon]] (Aston Villa) (21)
+|-
+|[[1898-99 in English football|1898-99]]
+|[[Aston Villa F.C.|Aston Villa]] (4)
+|[[Liverpool F.C.|Liverpool]]
+|[[Burnley F.C.|Burnley]]
+|[[Steve Bloomer]] (Derby County) (23)
+|-
+|[[1899-00 in English football|1899-1900]]
+|[[Aston Villa F.C.|Aston Villa]] (5)
+|[[Sheffield United F.C.|Sheffield United]]
+|[[Sunderland A.F.C|Sunderland]]
+|[[Billy Garraty]] (Aston Villa) (27)
+|-
+|[[1900-01 in English football|1900-01]]
+|[[Liverpool F.C.|Liverpool]] (1)
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Notts County F.C.|Notts County]]
+|[[Steve Bloomer]] (Derby) (23)
+|-
+|[[1901-02 in English football|1901-02]]
+|[[Sunderland A.F.C.|Sunderland]] (4)
+|[[Everton F.C.|Everton]]
+|[[Newcastle United F.C.|Newcastle United]]
+|[[Jimmy Settle]] (Everton) (18)
+|-
+|[[1902-03 in English football|1902-03]]
+|[[Sheffield Wednesday F.C.|The Wednesday]] (1)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Sam Raybould]] (Liverpool) (31)
+|-
+|[[1903-04 in English football|1903-04]]
+|[[Sheffield Wednesday F.C.|The Wednesday]] (2)
+|[[Manchester City F.C.|Manchester City]]
+|[[Everton F.C.|Everton]]
+|[[Steve Bloomer]] (Derby County) (20)
+|-
+|[[1904-05 in English football|1904-05]]
+|[[Newcastle United F.C.|Newcastle United]] (1)
+|[[Everton F.C.|Everton]]
+|[[Manchester City F.C.|Manchester City]]
+|[[Albert Arthur Brown|Arthur Brown]] (Sheffield United) (22)
+|-
+|[[1905-06 in English football|1905-06]]
+|[[Liverpool F.C.|Liverpool]] (2)
+|[[Preston North End F.C.|Preston North End]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|[[Albert Shepherd]] (Bolton Wanderers) (26)
+|-
+|[[1906-07 in English football|1906-07]]
+|[[Newcastle United F.C.|Newcastle United]] (2)
+|[[Bristol City F.C.|Bristol City]]
+|[[Everton F.C.|Everton]]
+|[[Alf Young]] (Everton) (30)
+|-
+|[[1907-08 in English football|1907-08]]
+|[[Manchester United F.C.|Manchester United]] (1)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Manchester City F.C.|Manchester City]]
+|[[Enoch West]] (Nottingham Forest) (27)
+|-
+|[[1908-09 in English football|1908-09]]
+|[[Newcastle United F.C.|Newcastle United]] (3)
+|[[Everton F.C.|Everton]]
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Bert Freeman]] (Everton) (38)
+|-
+|[[1909-10 in English football|1909-10]]
+|[[Aston Villa F.C.|Aston Villa]] (6)
+|[[Liverpool F.C.|Liverpool]]
+|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|[[Jack Parkinson]] (Liverpool) (30)
+|-
+|[[1910-11 in English football|1910-11]]
+|[[Manchester United F.C.|Manchester United]] (2)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Albert Shepherd]] (Newcastle United) (25)
+|-
+|[[1911-12 in English football|1911-12]]
+|[[Blackburn Rovers F.C.|Blackburn Rovers]] (1)
+|[[Everton F.C.|Everton]]
+|[[Newcastle United F.C.|Newcastle United]]
+|[[Harry Hampton (footballer)|H. Hampton]] (Aston Villa), [[George Holley|G. Holley]] (Sunderland) and [[David McLean (footballer)|D. McLean]] (The Wednesday) (25)
+|-
+|[[1912-13 in English football|1912-13]]
+|[[Sunderland A.F.C.|Sunderland]] (5)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|[[David McLean (footballer)|David McLean]] (The Wednesday) (30)
+|-
+|[[1913-14 in English football|1913-14]]
+|[[Blackburn Rovers F.C.|Blackburn Rovers]] (2)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Middlesbrough F.C.|Middlesbrough]]
+|[[George Elliott (footballer)|George Elliot]] (Middlesbrough) (32)
+|-
+|[[1914-15 in English football|1914-15]]
+|[[Everton F.C.|Everton]] (2)
+|[[Oldham Athletic F.C.|Oldham Athletic]]
+|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|[[Bobby Parker (footballer)|Bobby Parker]] (Everton) (35)
+|-
+|1916-19
+| colspan=4 |League suspended due to [[World War I]]
+|-
+|[[1919-20 in English football|1919-20]]
+|[[West Bromwich Albion F.C.|West Bromwich Albion]] (1)
+|[[Burnley F.C.|Burnley]]
+|[[Chelsea F.C.|Chelsea]]
+|[[Fred Morris]] (West Bromwich Albion) (37)
+|-
+|[[1920-21 in English football|1920-21]]
+|[[Burnley F.C.|Burnley]] (1)
+|[[Manchester City F.C.|Manchester City]]
+|[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|[[Joe Smith (footballer)|Joe Smith]] (Bolton Wanderers) (38)
+|-
+|[[1921-22 in English football|1921-22]]
+|[[Liverpool F.C.|Liverpool]] (3)
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Burnley F.C.|Burnley]]
+|[[Andrew Nesbit Wilson|Andy Wilson]] (Middlesbrough) (31)
+|-
+|[[1922-23 in English football|1922-23]]
+|[[Liverpool F.C.|Liverpool]] (4)
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Huddersfield Town A.F.C.|Huddersfield Town]]
+|[[Charlie Buchan]] (Sunderland) (30)
+|-
+|[[1923-24 in English football|1923-24]]
+|[[Huddersfield Town A.F.C.|Huddersfield Town]] (1)
+|[[Cardiff City F.C.|Cardiff City]]
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Wilf Chadwick]] (Everton) (28)
+|-
+|[[1924-25 in English football|1924-25]]
+|[[Huddersfield Town F.C.|Huddersfield Town]] (2)
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|[[Bolton Wanderers F.C.|Bolton Wanderers]]
+|[[Frank Roberts (footballer)|Frank Roberts]] (Manchester City) (31)
+|-
+|[[1925-26 in English football|1925-26]]
+|[[Huddersfield Town F.C.|Huddersfield Town]] (3)
+|[[Arsenal F.C.|Arsenal]]
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Ted Harper]] (Blackburn Rovers) (43)
+|-
+|[[1926-27 in English football|1926-27]]
+|[[Newcastle United F.C.|Newcastle United]] (4)
+|[[Huddersfield Town F.C.|Huddersfield Town]]
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Jimmy Trotter]] (The Wednesday) (37)
+|-
+|[[1927-28 in English football|1927-28]]
+|[[Everton F.C.|Everton]] (3)
+|[[Huddersfield Town F.C.|Huddersfield Town]]
+|[[Leicester City F.C.|Leicester City]]
+|[[Dixie Dean]] (Everton) (60)
+|-
+|[[1928-29 in English football|1928-29]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]] (3)
+|[[Leicester City F.C.|Leicester City]]
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Dave Halliday]] (Sunderland) (43)
+|-
+|[[1929-30 in English football|1929-30]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]] (4)
+|[[Derby County F.C.|Derby County]]
+|[[Manchester City F.C.|Manchester City]]
+|[[Vic Watson]] (West Ham United) (41)
+|-
+|[[1930-31 in English football|1930-31]]
+|[[Arsenal F.C.|Arsenal]] (1)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|[[Tom 'Pongo' Waring]] (Aston Villa) (49)
+|-
+|[[1931-32 in English football|1931-32]]
+|[[Everton F.C.|Everton]] (4)
+|[[Arsenal F.C.|Arsenal]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|[[Dixie Dean]] (Everton) (44)
+|-
+|[[1932-33 in English football|1932-33]]
+|[[Arsenal F.C.|Arsenal]] (2)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|[[Jack Bowers]] (Derby County) (35)
+|-
+|[[1933-34 in English football|1933-34]]
+|[[Arsenal F.C.|Arsenal]] (3)
+|[[Huddersfield Town F.C.|Huddersfield Town]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Jack Bowers]] (Derby County) (34)
+|-
+|[[1934-35 in English football|1934-35]]
+|[[Arsenal F.C.|Arsenal]] (4)
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|[[Ted Drake]] (Arsenal) (42)
+|-
+|[[1935-36 in English football|1935-36]]
+|[[Sunderland A.F.C.|Sunderland]] (6)
+|[[Derby County F.C.|Derby County]]
+|[[Huddersfield Town F.C.|Huddersfield Town]]
+|[[Pat Glover|P. Glover]] (Grimsby Town), [[Raich Carter|R.Carter]] (Sunderland) and [[Bobby Gurney|B. Gurney]] (Sunderland) (31)
+|-
+|[[1936-37 in English football|1936-37]]
+|[[Manchester City F.C.|Manchester City]] (1)
+|[[Charlton Athletic F.C.|Charlton Athletic]]
+|[[Arsenal F.C.|Arsenal]]
+|[[Freddie Steel]] (Stoke City) (33)
+|-
+|[[1937-38 in English football|1937-38]]
+|[[Arsenal F.C.|Arsenal]] (5)
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Preston North End F.C.|Preston North End]]
+|[[Tommy Lawton]] (Everton) (28)
+|-
+|[[1938-39 in English football|1938-39]]
+|[[Everton F.C.|Everton]] (5)
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Charlton Athletic F.C.|Charlton Athletic]]
+|[[Tommy Lawton]] (Everton) (35)
+|-
+|1940-46
+| colspan=4 | League suspended due to [[World War II]]
+|-
+|[[1946-47 in English football|1946-47]]
+|[[Liverpool F.C.|Liverpool]] (5)
+|[[Manchester United F.C.|Manchester United]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Dennis Westcott]] (Wolverhampton Wanderers) (37)
+|-
+|[[1947-48 in English football|1947-48]]
+|[[Arsenal F.C.|Arsenal]] (6)
+|[[Manchester United F.C.|Manchester United]]
+|[[Burnley F.C.|Burnley]]
+|[[Ronnie Rooke]] (Arsenal) (33)
+|-
+|[[1948-49 in English football|1948-49]]
+|[[Portsmouth F.C.|Portsmouth]] (1)
+|[[Manchester United F.C.|Manchester United]]
+|[[Derby County F.C.|Derby County]]
+|[[Willie Moir]] (Bolton Wanderers) (25)
+|-
+|[[1949-50 in English football|1949-50]]
+|[[Portsmouth F.C.|Portsmouth]] (2)
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Sunderland A.F.C.|Sunderland]]
+|[[Dickie Davis]] (Sunderland) (25)
+|-
+|[[1950-51 in English football|1950-51]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]] (1)
+|[[Manchester United F.C.|Manchester United]]
+|[[Blackpool F.C.|Blackpool]]
+|[[Stan Mortensen]] (Blackpool) (30)
+|-
+|[[1951-52 in English football|1951-52]]
+|[[Manchester United F.C.|Manchester United]] (3)
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Arsenal F.C.|Arsenal]]
+|[[George Robledo]] (Newcastle United) (33)
+|-
+|[[1952-53 in English football|1952-53]]
+|[[Arsenal F.C.|Arsenal]] (7)
+|[[Preston North End F.C.|Preston North End]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Charlie Wayman]] (Preston North End) (24)
+|-
+|[[1953-54 in English football|1953-54]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (1)
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|[[Huddersfield Town F.C.|Huddersfield Town]]
+|[[Jimmy Glazzard]] (Huddersfield Town) (29)
+|-
+|[[1954-55 in English football|1954-55]]
+|[[Chelsea F.C.|Chelsea]] (1)
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Portsmouth F.C.|Portsmouth]]
+|[[Ronnie Allen]] (West Bromwich Albion) (27)
+|-
+|[[1955-56 in English football|1955-56]]
+|[[Manchester United F.C.|Manchester United]] (4)
+|[[Blackpool F.C.|Blackpool]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Nat Lofthouse]] (Bolton Wanderers) (33)
+|-
+|[[1956-57 in English football|1956-57]]
+|[[Manchester United F.C.|Manchester United]] (5)
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Preston North End F.C.|Preston North End]]
+|[[John Charles]] (Leeds United) (38)
+|-
+|[[1957-58 in English football|1957-58]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (2)
+|[[Preston North End F.C.|Preston North End]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Bobby Smith (footballer)|Bobby Smith]] (Tottenham Hotspur) (36)
+|-
+|[[1958-59 in English football|1958-59]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]] (3)
+|[[Manchester United F.C.|Manchester United]]
+|[[Arsenal F.C.|Arsenal]]
+|[[Jimmy Greaves]] (Chelsea) (33)
+|-
+|[[1959-60 in English football|1959-60]]
+|[[Burnley F.C.|Burnley]] (2)
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Dennis Viollet]] (Manchester United) (32)
+|-
+|[[1960-61 in English football|1960-61]]
+|'''[[Tottenham Hotspur F.C.|Tottenham Hotspur]]''' (2)
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+|[[Jimmy Greaves]] (Chelsea) (41)
+|-
+|[[1961-62 in English football|1961-62]]
+|[[Ipswich Town F.C.|Ipswich Town]] (1)
+|[[Burnley F.C.|Burnley]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Ray Crawford (footballer)|Ray Crawford]] (Ipswich Town) and [[Derek Kevan]] (West Bromwich Albion) (33)
+|-
+|[[1962-63 in English football|1962-63]]
+|[[Everton F.C.|Everton]] (6)
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Burnley F.C.|Burnley]]
+|[[Jimmy Greaves]] (Tottenham Hotspur) (37)
+|-
+|[[1963-64 in English football|1963-64]]
+|[[Liverpool F.C.|Liverpool]] (6)
+|[[Manchester United F.C.|Manchester United]]
+|[[Everton F.C.|Everton]]
+|[[Jimmy Greaves]] (Tottenham Hotspur) (35)
+|-
+|[[1964-65 in English football|1964-65]]
+|[[Manchester United F.C.|Manchester United]] (6)
+|[[Leeds United F.C.|Leeds United]]
+|[[Chelsea F.C.|Chelsea]]
+|[[Andy McEvoy]] (Blackburn Rovers) and [[Jimmy Greaves]] (Tottenham Hotspur) (29)
+|-
+|[[1965-66 in English football|1965-66]]
+|[[Liverpool F.C.|Liverpool]] (7)
+|[[Leeds United F.C.|Leeds United]]
+|[[Burnley F.C.|Burnley]]
+|[[Willie Irvine]] (Burnley) (29)
+|-
+|[[1966-67 in English football|1966-67]]
+|[[Manchester United F.C.|Manchester United]] (7)
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Ron Davies (footballer)|Ron Davies]] (Southampton) (37)
+|-
+|[[1967-68 in English football|1967-68]]
+|[[Manchester City F.C.|Manchester City]] (2)
+|[[Manchester United F.C.|Manchester United]]
+|[[Liverpool F.C.|Liverpool]]
+|[[George Best]] (Manchester United) and [[Ron Davies (footballer)|Ron Davies]] (Southampton) (28)
+|-
+|[[1968-69 in English football|1968-69]]
+|[[Leeds United F.C.|Leeds United]] (1)
+|[[Liverpool F.C.|Liverpool]]
+|[[Everton F.C.|Everton]]
+|[[Jimmy Greaves]] (Tottenham Hotspur) (27)
+|-
+|[[1969-70 in English football|1969-70]]
+|[[Everton F.C.|Everton]] (7)
+|[[Leeds United F.C.|Leeds United]]
+|[[Chelsea F.C.|Chelsea]]
+|[[Jeff Astle]] (West Bromwich Albion) (25)
+|-
+|[[1970-71 in English football|1970-71]]
+|'''[[Arsenal F.C.|Arsenal]]''' (8)
+|[[Leeds United F.C.|Leeds United]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Tony Brown (English footballer)|Tony Brown]] (West Bromwich Albion) (28)
+|-
+|[[1971-72 in English football|1971-72]]
+|[[Derby County F.C.|Derby County]] (1)
+|[[Leeds United F.C.|Leeds United]]
+|[[Liverpool F.C.|Liverpool]]
+|[[Francis Lee]] (Manchester City) (33)
+|-
+|[[1972-73 in English football|1972-73]]
+|[[Liverpool F.C.|Liverpool]]{{ref label|UEFA|3|a}} (8)
+|[[Arsenal F.C.|Arsenal]]
+|[[Leeds United F.C.|Leeds United]]
+|[[Bryan 'Pop' Robson]] (West Ham United) (28)
+|-
+|[[1973-74 in English football|1973-74]]
+|[[Leeds United F.C.|Leeds United]] (2)
+|[[Liverpool F.C.|Liverpool]]
+|[[Derby County F.C.|Derby County]]
+|[[Mick Channon]] (Southampton) (21)
+|-
+|[[1974-75 in English football|1974-75]]
+|[[Derby County F.C.|Derby County]] (2)
+|[[Liverpool F.C.|Liverpool]]
+|[[Ipswich Town F.C.|Ipswich Town]]
+|[[Malcolm Macdonald]] (Newcastle United) (21)
+|-
+|[[1975-76 in English football|1975-76]]
+|[[Liverpool F.C.|Liverpool]]{{ref label|UEFA|3|b}} (9)
+|[[Queens Park Rangers F.C.|Queens Park Rangers]]
+|[[Manchester United F.C.|Manchester United]]
+|[[Ted MacDougall]] (Norwich City) (23)
+|-
+|[[1976-77 in English football|1976-77]]
+|[[Liverpool F.C.|Liverpool]]{{ref label|Euro|4|a}} (10)
+|[[Manchester City F.C.|Manchester City]]
+|[[Ipswich Town F.C.|Ipswich Town]]
+|[[Malcolm Macdonald]] (Arsenal) and [[Andy Gray (footballer born 1955)|Andy Gray]] (Aston Villa) (25)
+|-
+|[[1977-78 in English football|1977-78]]
+|[[Nottingham Forest F.C.|Nottingham Forest]]{{ref label|lc|5|a}} (1)
+|[[Liverpool F.C.|Liverpool]]
+|[[Everton F.C.|Everton]]
+|[[Bob Latchford]] (Everton) (30)
+|-
+|[[1978-79 in English football|1978-79]]
+|[[Liverpool F.C.|Liverpool]] (11)
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+|[[Frank Worthington]] (Bolton Wanderers) (24)
+|-
+|[[1979-80 in English football|1979-80]]
+|[[Liverpool F.C.|Liverpool]] (12)
+|[[Manchester United F.C.|Manchester United]]
+|[[Ipswich Town F.C.|Ipswich Town]]
+|[[Phil Boyer]] (Southampton) (23)
+|-
+|[[1980-81 in English football|1980-81]]
+|[[Aston Villa F.C.|Aston Villa]] (7)
+|[[Ipswich Town F.C.|Ipswich Town]]
+|[[Arsenal F.C.|Arsenal]]
+|[[Peter Withe]] (Aston Villa) and [[Steve Archibald]] (Tottenham Hotspur) (20)
+|-
+|[[1981-82 in English football|1981-82]]{{ref label|3pts|6|a}}
+|[[Liverpool F.C.|Liverpool]] {{ref label|lc|5|b}}(13)
+|[[Ipswich Town F.C.|Ipswich Town]]
+|[[Manchester United F.C.|Manchester United]]
+|[[Kevin Keegan]] (Southampton) (26)
+|-
+|[[1982-83 in English football|1982-83]]
+|[[Liverpool F.C.|Liverpool]] {{ref label|lc|5|c}} (14)
+|[[Watford F.C.|Watford]]
+|[[Manchester United F.C.|Manchester United]]
+|[[Luther Blissett (footballer)|Luther Blissett]] (Watford) (27)
+|-
+|[[1983-84 in English football|1983-84]]
+|[[Liverpool F.C.|Liverpool]]{{ref label|Euro|4|b}} {{ref label|lc|5|d}} (15)
+|[[Southampton F.C.|Southampton]]
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[Ian Rush]] (Liverpool) (32)
+|-
+|[[1984-85 in English football|1984-85]]
+|[[Everton F.C.|Everton]] {{ref label|CWC|7|a}}(8)
+|[[Liverpool F.C.|Liverpool]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Kerry Dixon]] (Chelsea) and [[Gary Lineker]] (Leicester City) (24)
+|-
+|[[1985-86 in English football|1985-86]]
+|'''[[Liverpool F.C.|Liverpool]]''' (16)
+|[[Everton F.C.|Everton]]
+|[[West Ham United F.C.|West Ham United]]
+|[[Gary Lineker]] (Everton) (30)
+|-
+|[[1986-87 in English football|1986-87]]
+|[[Everton F.C.|Everton]] (9)
+|[[Liverpool F.C.|Liverpool]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Clive Allen]] (Tottenham Hotspur) (33)
+|-
+|[[1987-88 in English football|1987-88]]
+|[[Liverpool F.C.|Liverpool]] (17)
+|[[Manchester United F.C.|Manchester United]]
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[John Aldridge]] (Liverpool) (26)
+|-
+|[[1988-89 in English football|1988-89]]
+|[[Arsenal F.C.|Arsenal]] (9)
+|[[Liverpool F.C.|Liverpool]]
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[Alan M. Smith|Alan Smith]] (Arsenal) (23)
+|-
+|[[1989-90 in English football|1989-90]]
+|[[Liverpool F.C.|Liverpool]] (18)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Gary Lineker]] (Tottenham Hotspur) (24)
+|-
+|[[1990-91 in English football|1990-91]]
+|[[Arsenal F.C.|Arsenal]] (10)
+|[[Liverpool F.C.|Liverpool]]
+|[[Crystal Palace F.C.|Crystal Palace]]
+|[[Alan M. Smith|Alan Smith]] (Arsenal) (22)
+|-
+|[[1991-92 in English football|1991-92]]
+|[[Leeds United F.C.|Leeds United]] (3)
+|[[Manchester United F.C.|Manchester United]]
+|[[Sheffield Wednesday F.C.|Sheffield Wednesday]]
+|[[Ian Wright]] (Crystal Palace/Arsenal) (29)
+|}
+'''Bold''' indicates [[The_Double#The_English_Double|double]] winners - i.e. League and FA Cup winners
+
+==Premier League (1992-present)==
+
+{| class="wikitable"
+!Year
+!Winner (number of titles)
+!Runners-up
+!Third Place
+!Top Scorer
+|-
+|[[1992-93 in English football|1992&ndash;93]]
+|[[Manchester United F.C.|Manchester United]] (8)
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Norwich City F.C.|Norwich City]]
+|[[Teddy Sheringham]] (Tottenham Hotspur) (22)
+|-
+|[[1993-94 in English football|1993&ndash;94]]
+|'''[[Manchester United F.C.|Manchester United]]''' (9)
+||[[Blackburn Rovers F.C.|Blackburn Rovers]]
+|[[Newcastle United F.C.|Newcastle United]]
+|[[Andy Cole]] (Newcastle United) (34)
+|-
+|[[1994-95 in English football|1994&ndash;95]]
+|[[Blackburn Rovers F.C.|Blackburn Rovers]] (3)
+|[[Manchester United F.C.|Manchester United]]
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+|[[Alan Shearer]] (Blackburn Rovers) (34)
+|-
+|[[1995-96 in English football|1995&ndash;96]]
+|'''[[Manchester United F.C.|Manchester United]]''' (10)
+|[[Newcastle United F.C.|Newcastle United]]
+|[[Liverpool F.C.|Liverpool]]
+|[[Alan Shearer]] (Blackburn Rovers) (31)
+|-
+|[[1996-97 in English football|1996&ndash;97]]
+|[[Manchester United F.C.|Manchester United]] (11)
+|[[Newcastle United F.C.|Newcastle United]]
+|[[Arsenal F.C.|Arsenal]]
+|[[Alan Shearer]] (Newcastle United) (25)
+|-
+|[[1997-98 in English football|1997&ndash;98]]
+|'''[[Arsenal F.C.|Arsenal]]''' (11)
+|[[Manchester United F.C.|Manchester United]]
+|[[Liverpool F.C.|Liverpool]]
+|[[Chris Sutton|C. Sutton]] (Blackburn Rovers), [[Dion Dublin|D. Dublin]] (Coventry City), [[Michael Owen|M. Owen]] (Liverpool) (18)
+|-
+|[[1998-99 in English football|1998&ndash;99]]
+|'''[[Manchester United F.C.|''Manchester United'']]'''{{ref label|treble|8|a}} (12)
+|[[Arsenal F.C.|Arsenal]]
+|[[Chelsea F.C.|Chelsea]]
+|[[Jimmy Floyd Hasselbaink|J.F. Hasselbaink]] (Leeds United), [[Michael Owen|M. Owen]] (Liverpool), [[Dwight Yorke|D. Yorke]] (Manchester United) (18)
+|-
+|[[1999-2000 in English football|1999&ndash;2000]]
+|[[Manchester United F.C.|Manchester United]] (13)
+|[[Arsenal F.C.|Arsenal]]
+|[[Leeds United F.C.|Leeds United]]
+|[[Kevin Phillips (footballer)|Kevin Phillips]] (Sunderland) (30)
+|-
+|[[2000-01 in English football|2000&ndash;01]]
+|[[Manchester United F.C.|Manchester United]] (14)
+|[[Arsenal F.C.|Arsenal]]
+|[[Liverpool F.C.|Liverpool]]
+|[[Jimmy Floyd Hasselbaink]] (Chelsea) (23)
+|-
+|[[2001-02 in English football|2001&ndash;02]]
+|'''[[Arsenal F.C.|Arsenal]]''' (12)
+|[[Liverpool F.C.|Liverpool]]
+|[[Manchester United F.C.|Manchester United]]
+|[[Thierry Henry]] (Arsenal) (24)
+|-
+|[[2002-03 in English football|2002&ndash;03]]
+|[[Manchester United F.C.|Manchester United]] (15)
+|[[Arsenal F.C.|Arsenal]]
+|[[Newcastle United F.C.|Newcastle United]]
+|[[Ruud van Nistelrooy]] (Manchester United) (25)
+|-
+|[[2003-04 in English football|2003&ndash;04]]
+|[[Arsenal F.C.|Arsenal]] {{ref label|unbeaten|2|b}}(13)
+|[[Chelsea F.C.|Chelsea]]
+|[[Manchester United F.C.|Manchester United]]
+|[[Thierry Henry]] (Arsenal) (30)
+|-
+|[[2004-05 in English football|2004&ndash;05]]
+|[[Chelsea F.C.|Chelsea]]{{ref label|lc|5|e}} (2)
+|[[Arsenal F.C.|Arsenal]]
+|[[Manchester United F.C.|Manchester United]]
+|[[Thierry Henry]] (Arsenal) (25)
+|-
+|[[2005-06 in English football|2005&ndash;06]]
+|[[Chelsea F.C.|Chelsea]] (3)
+|[[Manchester United F.C.|Manchester United]]
+|[[Liverpool F.C.|Liverpool]]
+|[[Thierry Henry]] (Arsenal) (27)
+|-
+|[[2006-07 in English football|2006&ndash;07]]
+|[[Manchester United F.C.|Manchester United]] (16)
+|[[Chelsea F.C.|Chelsea]]
+|[[Liverpool F.C.|Liverpool]]
+|[[Didier Drogba]] (Chelsea) (20)
+|}
+'''Bold''' indicates [[The_Double#The_English_Double|Double]] winners - i.e. League and FA Cup winners
+
+''Italic'' Indicates [[The_Treble|Treble]] Winners - i.e. League, FA cup and Champions League winners
+
+==Total titles won==
+Twenty three clubs have been champions.
+{| class="wikitable"
+|-
+! Club
+! Winners
+! Runners-up
+! Winning Years
+|-
+| [[Liverpool F.C.|Liverpool]]
+| <center>18
+| <center>11
+| 1900-01, 1905-06, 1921-22, 1922-23, 1946-47, 1963-64, 1965-66, 1972-73, 1975-76, 1976-77, 1978-79, 1979-80, 1981-82, 1982-83, 1983-84, 1985-86, 1987-88, 1989-90
+|-
+| [[Manchester United F.C.|Manchester United]]
+| <center>16
+| <center>13
+|1907-08, 1910-11, 1951-52, 1955-56, 1956-57, 1964-65, 1966-67, 1992-93, 1993-94, 1995-96, 1996-97, 1998-99, 1999-2000, 2000-01, 2002-03, 2006-07 
+|-
+| [[Arsenal F.C.|Arsenal]]
+| <center>13
+| <center>8
+|  1930-31, 1932-33, 1933-34, 1934-35, 1937-38, 1947-48, 1952-53, 1970-71, 1988-89, 1990-91, 1997-98, 2001-02, 2003-04
+|-
+| [[Everton F.C.|Everton]]
+| <center>9
+| <center>7
+|1890-91, 1914-15, 1927-28, 1931-32, 1938-39, 1962-63, 1969-70, 1984-85, 1986-87
+|-
+| [[Aston Villa F.C.|Aston Villa]]
+| <center>7
+| <center>10
+| 1893-94, 1895-96, 1896-97, 1898-99, 1899-1900, 1909-10,1980-81 
+|-
+| [[Sunderland A.F.C.|Sunderland]]
+| <center>6
+| <center>5
+| 1891-92, 1892-93, 1894-95, 1901-02, 1912-13, 1935-36
+|-
+|  [[Newcastle United F.C.|Newcastle United]]
+| <center>4
+| <center>2
+| 1904-05, 1906-07, 1908-09, 1926-27 
+|-
+| [[Sheffield Wednesday F.C.|Sheffield Wednesday]]{{ref label|Wednesday|9|a}}
+| <center>4
+| <center>2
+| 1901-03, 1903-04, 1928-29, 1929-30 
+|-
+|[[Wolverhampton Wanderers F.C.|Wolverhampton Wanderers]]
+| <center>3
+| <center>5
+| 1953-54, 1957-58, 1958-59
+|-
+|[[Leeds United F.C.|Leeds United]]
+| <center>3
+| <center>5
+| 1968-69, 1973-74, 1991-92
+|-
+|[[Huddersfield Town F.C.|Huddersfield Town]]
+| <center>3
+| <center>2
+| 1923-24, 1924-25, 1925-26 
+|-
+|[[Chelsea F.C.|Chelsea]]
+| <center>3
+| <center>2
+| 1954-55, 2004-05, 2005-06 
+|-
+|[[Blackburn Rovers F.C.|Blackburn Rovers]]
+| <center>3
+| <center>1
+| 1911-12, 1913-14, 1994-95
+|-
+|[[Preston North End F.C.|Preston North End]]
+| <center>2
+| <center>6
+| 1888-89, 1889-90 
+|-
+|{{|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+| <center>2
+| <center>3
+|  1950-51, 1960-61
+|-
+|[[Manchester City F.C.|Manchester City]]
+| <center>2
+| <center>3
+| 1936-37, 1967-68
+|-
+|[[Burnley F.C.|Burnley]]
+| <center>2
+| <center>2
+| 1920-21, 1959-60
+|-
+|[[Derby County F.C.|Derby County]]
+| <center>2
+| <center>2
+| 1971-72, 1974-75
+|-
+|[[Portsmouth F.C.|Portsmouth]]
+| <center>2
+| <center>0
+| 1948-49, 1949-50
+|-
+|[[West Bromwich Albion F.C.|West Bromwich Albion]]
+| <center>1
+| <center>2
+| 1919-20
+|- 
+|[[Ipswich Town F.C.|Ipswich Town]]
+| <center>1
+| <center>2
+| 1961-62 
+|-
+|[[Sheffield United F.C.|Sheffield United]]
+| <center>1
+| <center>2
+| 1897-98 
+|- 
+|[[Nottingham Forest F.C.|Nottingham Forest]]
+| <center>1
+| <center>2
+| 1977-78
+|- 
+
+|}
+
+==Total titles won by town or city==
+Twenty three clubs have been champions, from a total of 18 towns and cities. Most have come from the North of England or the Midlands, except for London's Arsenal, Chelsea, and Tottenham Hotspur, plus Ipswich Town and Portsmouth.
+{| class="wikitable"
+|-
+! Town or City
+! Number of Titles
+! Clubs
+|-
+| [[Liverpool]]
+| <center>27
+| [[Liverpool F.C.|Liverpool]] (18), [[Everton F.C.|Everton]] (9)
+|-
+| [[Manchester]]
+| <center>18
+| [[Manchester United F.C.|Manchester United]] (16), [[Manchester City F.C.|Manchester City]] (2)
+|-
+| [[London]]
+| <center>18
+| [[Arsenal F.C.|Arsenal]] (13), [[Chelsea F.C.|Chelsea]] (3), [[Tottenham Hotspur F.C.| Tottenham Hotspur]] (2)
+|-
+| [[Birmingham]]
+| <center>7
+| [[Aston Villa F.C.|Aston Villa]] (7)
+|-
+| [[Sunderland]]
+| <center> 6
+| [[Sunderland F.C.|Sunderland]] (6)
+|-
+| [[Sheffield]]
+| <center> 5
+| [[Sheffield Wednesday F.C.|Sheffield Wednesday]] (4), [[Sheffield United F.C.| Sheffield United]] (1)
+|-
+| [[Newcastle]]
+| <center>4
+| [[Newcastle United F.C.| Newcastle United]] (4)
+|-
+| [[Wolverhampton]]
+| <center> 3
+| [[Wolverhampton Wanderers]] (3)
+|-
+| [[Leeds]]
+| <center> 3
+| [[Leeds United]] (3)
+|-
+| [[Huddersfield]]
+| <center> 3
+| [[Huddersfield Town]] (3)
+|-
+| [[Blackburn]]
+| <center> 3
+| [[Blackburn Rovers]](3)
+|-
+| [[Preston]]
+| <center> 2
+| [[Preston North End]] (2)
+|-
+| [[Burnley]]
+| <center> 2
+| [[Burnley F.C.|Burnley (2)]]
+|-
+| [[Derby]]
+| <center> 2
+| [[Derby County]] (2)
+|-
+| [[Portsmouth]]
+| <center> 2
+| [[Portsmouth F.C.|Portsmouth (2)]]
+|-
+| [[Ipswich]]
+| <center> 1
+| [[Ipswich Town]] (1)
+|-
+| [[Nottingham]]
+| <center> 1
+| [[Nottingham Forest]] (1)
+|-
+| [[West Bromwich]]
+| <center> 1
+| [[West Bromwich Albion F.C.|West Bromwich Albion]] (1)
+|-
+|}
+
+==Doubles, Trebles and Quadruples==
+[[The Double]], in the context of English football, means winning the League (currently the [[FA Premier League]] and previously the [[Football League First Division]]) and the [[FA Cup]] in the same season. The first double was achieved by [[Preston North End F.C.|Preston North End]] in 1889, and then most recently by [[Arsenal F.C.|Arsenal]] in 2002.
+
+[[The Treble]] usually refers to winning the UEFA Champions League (formerly the European Cup) in the same season as achieving a double, these three trophies being the three most prestigious available to English clubs. Only one English team has achieved a treble, [[Manchester United F.C.|Manchester United]] in 1999. The Treble can also refer to a domestic treble, where a team wins the [[League Cup]] in the same season as achieving a double, however this feat has never been achieved by an English club. [[Liverpool F.C.|Liverpool]] has achieved two other versions of the Treble: in 1984 winning the League, League Cup and European Cup and in 2001 winning the League Cup, FA Cup, and UEFA Cup.
+
+[[The Quadruple]] refers to winning the league title, UEFA Champions League (formerly the European Cup) as well as ''both'' of the countries cup competitions. This feat has never been achieved by an English club. 
+
+{| class="wikitable"
+!Year
+!Winner 
+!Trophies
+!Notes
+|-
+|[[1888-89 in English football|1888&ndash;89]]
+|[[Preston North End F.C.|Preston North End]]
+|[[Football League First Division]], [[FA Cup]]
+|Finished season unbeaten (22 games)
+|-
+||[[1896-97 in English football|1896-97]]
+|[[Aston Villa F.C.|Aston Villa]]
+|[[Football League First Division]], [[FA Cup]]
+|
+|-
+|[[1960-61 in English football|1960-61]]
+|[[Tottenham Hotspur F.C.|Tottenham Hotspur]]
+|[[Football League First Division]], [[FA Cup]]
+|First team in modern era to complete 'the double'
+|-
+|[[1970-71 in English football|1970-71]]
+|[[Arsenal F.C.|Arsenal]]''' 
+|[[Football League First Division]], [[FA Cup]]
+|-
+|[[1985-86 in English football|1985-86]]
+|[[Liverpool F.C.|Liverpool]]
+|[[Football League First Division]], [[FA Cup]]
+|Missed out on double in 1977 and 1988, [[FA Cup]] runners up 
+|-
+|[[FA Premier League 1993-94|1993-94]]
+|[[Manchester United F.C.|Manchester United]]
+|[[FA Premier League]], [[FA Cup]]
+|Missed out on first ever domestic treble, [[League Cup]] runners up 
+|-
+|[[FA Premier League 1995-96|1995-96]]
+|[[Manchester United F.C.|Manchester United]]
+|[[FA Premier League]], [[FA Cup]]
+|First team to achieve a second double
+|-
+|[[FA Premier League 1997-98|1997-98]]
+|[[Arsenal F.C.|Arsenal]]
+|[[FA Premier League]], [[FA Cup]]
+|
+|-
+|[[FA Premier League 1998-99|1998-99]]
+|[[Manchester United F.C.|Manchester United]]
+|[[FA Premier League]], [[UEFA Champions League]] and [[FA Cup]]
+|First treble of League, FA Cup and Champions League<br />First team to win the Double three times
+|-
+|[[FA Premier League 2001-02|2001-02]]
+|[[Arsenal F.C.|Arsenal]]
+|[[FA Premier League]], [[FA Cup]]
+|
+|}
+
+==Notes==
+{{sourcesstart}}
+#{{note label|professional|1|a}}{{cite web | title=The History of the Football League| work=Football League website | url=http://www.football-league.premiumtv.co.uk/page/History/0,,10794,00.html| accessdate=February 15 | accessyear=2006 }}
+#{{note label|unbeaten|2|a}} {{note label|unbeaten|2|b}} Completed the season unbeaten.
+#{{note label|UEFA|3|a}} {{note label|UEFA|3|b}} Also won the [[UEFA Cup]].
+#{{note label|Euro|4|a}} {{note label|Euro|4|b}}Also won the [[UEFA Champions League|European Cup]].
+#{{note label|lc|5|a}} {{note label|lc|3|b}} {{note label|lc|3|c}} {{note label|lc|3|d}}{{note label|lc|5|e}}Also won the [[Football League Cup|League Cup]].
+#{{note label|3pts|6|a}} From the 1981/82 season onwards [[three points for a win|three points were awarded for a win]]. Prior to this a win gave two points.
+#{{note label|CWC|7|a}} Also won the [[UEFA Cup Winners' Cup|Cup Winners Cup]].
+#{{note label|treble|8|a}} In addition to the double of League and FA Cup, Manchester United also won the [[UEFA Champions League|European Cup]] in 1999. This achievement is referred to as [[The Treble]].
+#{{note label|Wednesday|9|a}} Sheffield Wednesday were known as The Wednesday until 1929.
+{{sourcesend}}
+
+==References==
+*{{cite web | title=Past winners of the Football League| work=Football League website | url=http://www.football-league.premiumtv.co.uk/page/PastWinners/0,,10794,00.html| accessdate=February 19 | accessyear=2006 }}
+*{{cite web | title=FA Premier League - past winners| work=Sporting Chronicle | url=http://www.sportingchronicle.com/premierleaguewinners.html| accessdate=February 25 | accessyear=2006 }}
+*{{cite web | title=Samtlige topscorere fra England| work=foot.dk top scorers list | url=http://www.foot.dk/Engtopsc.asp| accessdate=February 27 | accessyear=2006 }}
+
+==See also==
+*[[English football league system]]
+*[[Football in England]]
+
+{{Featured list}}
+
+[[Category:Premier League]]
+[[Category:The Football League]]
+[[Category:National football champions]]
+
+[[da:Engelske mestre i fodbold]]
+[[bn:ইংলিশ ফুটবল শিরোপাধারী]]
+[[hr:Prvaci Engleske u nogometu]]
+[[pl:Mistrzowie Anglii w piłce nożnej]]
+[[sv:Engelska mästare i fotboll]]
+[[uk:Чемпіони Англії з футболу]]
+[[zh:英格蘭足球冠軍]]

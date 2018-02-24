@@ -1,0 +1,53 @@
+{{Infobox Album | <!-- See Wikipedia:WikiProject_Albums -->
+  Name        = Timeless Tales for Changing Times |
+  Type        = [[Album]] |
+  Artist      = [[Joshua Redman]] |
+  Cover       = |
+  Released    = [[1998]] |
+  Recorded    = |
+  Genre       = [[Jazz]] |
+  Length      = |
+  Label       = [[Warner Bros. Records]] |
+  Producer    = |
+  Reviews     = |
+Last album  = ''[[Freedom in the Groove]]'' <br /> (1996) |
+This album  = '''''Timeless Tales for Changing Times''''' <br /> (1998) |
+Next album  = ''[[Beyond (album)|Beyond]]''<br />(2000) |
+}}
+'''''Timeless Tales for Changing Times''''' is a 1998 album by [[jazz]] [[saxophone|saxophonist]] [[Joshua Redman]].
+
+==Track listing==
+# "Summertime" ([[George Gershwin]])
+# "Interlude 1" (Joshua Redman)
+# "Visions" ([[Stevie Wonder]])
+# "Yesterdays" ([[Jerome Kern]])
+# "Interlude 2" (Joshua Redman)
+# "I Had a King" ([[Joni Mitchell]])
+# "The Times They Are A-Changin'" ([[Bob Dylan]])
+# "Interlude 3" (Joshua Redman)
+# "It Might as Well Be Spring" (Rodgers-Hammerstein)
+# "Interlude 4" (Joshua Redman)
+# "How Deep is the Ocean" ([[Irving Berlin]])
+# "Interlude 5" (Joshua Redman)
+# "Love For Sale" ([[Cole Porter]])
+# "Interlude 6" (Joshua Redman)
+# "Eleanor Rigby" (Lennon-McCartney)
+# "Interlude 7" (Joshua Redman)
+# "How Come U Don't Call Me Anymore?" ([[Prince (musician)|Prince]])
+
+==Personnel==
+* [[Joshua Redman]] – [[saxophone]]
+* [[Brad Mehldau]] – [[piano]]
+* [[Larry Grenadier]] – [[double bass]]
+* [[Brian Blade]] – [[drum kit|drums]]
+
+==External Links and Sources==
+* http://joshuaredman.com [http://joshuaredman.com]
+
+<!--Categories, from closest/narrowest to farthest/most generic:-->
+
+<!--In other languages, alphabetically by language (not code) name:-->
+
+[[Category:Joshua Redman albums]]
+[[Category:1998 albums]]
+[[Category:Jazz albums]]

@@ -1,0 +1,99 @@
+{{dablink|This article is about the key combination. For other meanings, see [[Control-Alt-Delete (disambiguation)]].}} 
+{{Mergefrom|Three-finger salute (computing)|date=July 2007}}
+:''For a list of keyboard shortcuts see [[Table of keyboard shortcuts]]''
+[[Image:Three-finger salute.svg|thumb|450px|A common (but not the only) implementation of Control-Alt-Delete highlighted on a QWERTY keyboard.]]
+
+'''Control-Alt-Delete''' (often abbreviated to '''Ctrl-Alt-Del''') is a computer keyboard command on [[PC compatible]] systems that can be used to reboot the computer, and summon the [[task manager]] or Windows Security in more recent versions of the [[Microsoft]] [[Microsoft Windows|Windows]] operating system. It is invoked by pressing the [[Delete key|Delete]] key while holding the [[Control key|Control]] and [[Alt key|Alt]] keys.
+
+This keyboard combination was implemented by [[David Bradley (engineer)|David Bradley]], a designer of the original [[IBM PC]]. Bradley originally designed Control-Alt-[[Escape key|Escape]] to trigger a [[soft reboot]], but he found it was too easy to bump the left side of the keyboard and reboot the computer accidentally. He switched the key combination to Control-Alt-Delete, a combination that was impossible to press with just one hand (this is not true of later keyboards, such as the 102-key [[Enhanced keyboard|PC/AT keyboard]] or the [[Maltron keyboard]]). More advanced [[operating system]]s use its status as a "reserved" combination for various purposes, but often retain the ability to trigger a soft reboot in certain configurations or circumstances. Bradley is also known for his good-natured [http://youtube.com/watch?v=WdGQsBDSEpk jab] at [[Bill Gates | Bill Gates]], at that time the CEO of [[Microsoft]], and also the creator of many of Microsoft's programs: "I may have invented Control-Alt-Delete, but [[Bill Gates | Bill Gates]] made it famous".
+
+[[Image:GroenLinks demonstration 20041002 CtrlAltDel-crop.JPG|thumb|right|This Dutch protester is expressing his desire to "reset" government policies via the symbolic value of Control-Alt-Delete.]]
+Colloquially, the combination is also known as a [[three-finger salute (computing)|three-finger salute]], Three Fingered Death Grip or, more esoterically, as a [[Vulcan nerve pinch]].
+
+== DOS and all real mode systems ==
+On a [[Personal computer|PC]] running [[DOS]] or a system that runs in [[real mode]], this keystroke combination is recognized by the keyboard handling code in the [[BIOS]] and treated as the [[Intel 8086|CPU]]'s [[Non-Maskable interrupt|NMI]] signal, which, except for rare exceptions, invokes a soft reboot.
+
+== Windows ==
+===DOS-based Windows===
+[[Image:CloseProgram.png|thumb|The Close Program window on Microsoft [[Windows 9x]].]] 
+Under [[Windows 3.0]] and earlier (and [[Windows 3.1]] running in Standard mode), Control-Alt-Delete simply rebooted the computer as in MS-DOS.  In Windows 3.1 running in 386 Enhanced mode, [[Windows 95]], [[Windows 98]], and [[Windows Me]], this keystroke combination is recognised by the Windows keyboard device driver. According to the value of the <tt>LocalReboot</tt> option in the <tt>[386Enh]</tt> section of <tt>system.ini</tt>, Windows performs one of several actions in response:
+
+* If <tt>LocalReboot=Off</tt> it performs a [[soft reboot]]. 
+* If <tt>LocalReboot=On</tt>: 
+** Windows 3.1 presents a [[blue Screen of Death|blue screen]] to the user inviting them to press [[Enter key|Enter]] to end a task that has stopped responding to the system (if such a task exists) or press Control-Alt-Delete again to perform a soft reboot.
+** Windows 95, Windows 98, and Windows Me, present a window which lists currently running [[Process (computing)|processes]], and can be used to notify them that they should end, or, when they don't respond, kill them. The user can press Control-Alt-Delete again to perform a soft reboot.
+
+Killing tasks/processes is useful, for instance, if a program has entered an [[infinite loop]]. Theoretically, the system's other processes should continue normally&mdash;in practice, using this key combination to terminate a program/process in Windows 3.1 can result in resources and memory being leaked. As such, it is strongly recommended that, following a process kill in these versions of Windows, any work should be saved in any other applications and Windows should be restarted. Such damage is much less likely in newer versions of DOS-based Windows because of resource tracking.
+
+In Windows 9x, pressing the combination a second time if the process listing has not appeared would display a blue screen from which the user can reboot the system by pressing the combination a third time.  This allows the user to over-ride any "stuck" process, since no user-level program is able to define its own response to the Control-Alt-Delete key combination.  However, this functionality does not always work.
+
+=== Windows NT ===
+[[Image:Xp_windows_security.png|thumb|right|The Windows Security Dialog in [[Windows XP]] provides various security-related options.]]
+[[Image:Drumline-taskman.JPG|thumb|The redesigned Windows Security Dialog in Vista. From here, the Task Manager can be launched.]]
+[[Image:Windows Task Manager.PNG|thumb|The Windows Task Manager in Windows XP.]]
+
+In [[Windows NT]], and thus on its successors, including [[Windows 2000]], [[Windows XP]], [[Windows Server 2003]], [[Windows Vista]] and [[Windows Server 2008]], this keystroke combination is recognized (as a special system-wide "keyboard hook") by the [[Winlogon]] process, which in response instructs [[Graphical identification and authentication|GINA]] to perform one of the following tasks:
+* If nobody is logged in, bringing up the login dialog to allow the user to log in. Also used when the computer is locked to bring up the unlock dialog.
+* If the computer is configured as a part of a [[Windows Server domain|domain]] or it runs Windows 2000, the combination brings up the "Windows Security" dialog, where the user can lock the computer, change their password, log out, shut the computer down, or invoke the Task Manager. This is the default behavior in Windows Vista and Windows Server 2008, regardless of whether or not the computer is part of a domain. The options presented can be controlled through the use of [[Group Policy]].
+* If [[Windows XP]] is ''not'' connected to a domain...
+** and the Welcome Screen and [[fast user switching]] are turned on, Ctrl-Alt-Del directly invokes the [[Task Manager]]. 
+** and the Welcome Screen and [[fast user switching]] are turned off, Ctrl-Alt-Del will open the Windows Security Dialog, as described above.
+
+Windows NT is designed so that, unless security is already compromised in some other way, only the WinLogon process, a trusted system process, can receive notification of this keystroke combination. This is because the kernel remembers the [[Process ID]] of the WinLogon process, and allows only that process to receive the notification. This keystroke combination is thus called the [[secure attention key|Secure Attention Sequence]]. A user pressing Control-Alt-Delete can be sure that it is the operating system (specifically the WinLogon process), rather than a third party program, that is responding to the key combination, and that it is therefore safe to enter a password. It was chosen as the secure attention key in Windows (instead of, for example, the [[SysRq|System Request]] key), because on the PC platform no program could reasonably expect to redefine this keystroke combination for its own purposes.<ref>{{cite web |url=http://blogs.msdn.com/larryosterman/archive/2005/01/24/359850.aspx |title=Why is Control-Alt-Delete the secure attention sequence (SAS)? |last=Osterman |first=Larry |work=Larry Osterman's WebLog |publisher=[[MSDN Blogs]] |date=2005-01-24 |accessdate=2007-03-15}}</ref>
+
+It is also a reliable method for bringing up the Task Manager (in Windows Server 2003 and older). All other keystroke combinations could potentially be exclusively tied up by a process that is stuck, but a user process is not able to intercept the Control-Alt-Delete sequence. It can be however disabled by Windows Group Policies. Ctrl+Shift+Esc also brings up the task manager in all Windows NT versions starting with NT 4.0, even if pressing Ctrl+Alt+Del is set to bring up the Windows Security dialog.
+
+As a side effect, users who do not have physical access to the [[Computer power supply|computer's power supply]] and power/reset switches can be denied the ability to shut down or restart the computer, where previously (on MS-DOS and other variants of Windows) they could always use Control-Alt-Delete. However, as both the Task Manager and Windows Security have options for shutting down the computer, this operation can still be executed unless explicitly denied through Group Policy.
+
+== OS/2 ==<!-- This section is linked from [[Three-finger salute (computing)]] -->
+In [[OS/2]], this keystroke combination is recognised by the OS/2 keyboard device driver, which notifies the session manager process. The normal session manager process in OS/2 versions 2.0 and later is the parent Workplace Shell process, which displays the "The system is rebooting" window and triggers a soft reboot. If it is pressed twice in succession OS/2 triggers an immediate soft reboot, without waiting for the session manager process. 
+
+In both cases, the system flushes the [[page cache]], cleanly [[mount (computing)|unmount]]s all disc volumes, but does not cleanly shut down any running programs (and thus does not save any unsaved documents, or the current arrangements of the objects on the Workplace Shell desktop or in any of its open folders).
+
+== Linux ==<!-- This section is linked from [[Three-finger salute (computing)]] -->
+In [[Linux]], this keystroke combination is recognised by the keyboard device driver in the [[kernel (computer science)|kernel]]. In the absence of more specific instructions, which will usually only be during system initialisation, the kernel directly initiates a soft reboot in response. More commonly, the kernel will send a signal to the ''init'' process, which will perform an administrator-configured task, such as running a script, or displaying an "end current session" box in [[KDE]].
+
+In many Linux distributions, ''init'' is configured to switch run levels and to perform a soft reboot in response to the signal. Thus it provides a mechanism for a person with physical access to the keyboard to perform system shut down (a task that requires [[superuser]] rights to initiate programmatically).  However, Linux systems can be configured to ignore the keystroke combination. The setting is usually in the inittab(5) configuration file under the keyword "ca".
+
+==Mac OS==
+In [[Mac OS X]] and older [[Mac OS|Mac Operating Systems]], Ctrl-[[Command key|Command]]-Power will instantly hard-reboot the system. To close a program (with Force Quit), the user can just type Command-Option-Esc.
+
+On 1980s Apple [[microcomputers]] (such as the [[Apple II]] or the [[Apple III]]), if a user initiated the Control-Open Apple-Reset key function, the computer would initiate a soft boot.
+
+== Control-Alt-Delete in popular culture ==
+As computers became ubiquitous, so too, has the [[jargon]]. Control-Alt-Delete can also mean "dump," or "do away with." <ref>[http://www.wordspy.com/words/Ctrl-Alt-Delete.asp Wordspy] cites the earliest such use as Chris Miksanek's December 18, 1995 Computerworld column titled, "Ctrl-Alt-Delete those holiday trinkets."</ref>
+
+== See also ==
+* [[Three-finger salute (computing)|Three-finger salute]] - A list of key combinations similar to "Ctrl-Alt-Del" on different platforms.
+* [[Raising Skinny Elephants Is Utterly Boring]] - A  mnemonic for remembering the Linux safe reboot for Linux crashes
+* [[Winlogon]] - The Windows process that detects and responds to Ctrl+Alt+Del
+* [[Secure attention key]]
+
+== External links ==
+*[http://www.worldspace.nu/The_origin_of_Control-Alt-Delete_-_David_Bradley_invented_CTRL-ALT-DEL_Bill_Gates_made_it_famous_avi:watch David Bradley described how he invented CTRL-ALT-DEL and made famous stab on Bill Gates]
+
+== References ==
+<references/>
+
+=== General references ===
+#{{cite web|title=Windows 3.1 Resource Kit SYSTEM.INI 386ENH Section A-L|work=Microsoft's KnowledgeBase article 83435|url=http://support.microsoft.com./kb/q83435/|accessdate=January 7|accessyear=2005}}
+#Linux manual pages for kill(2) and reboot(2).
+#{{cite newsgroup|title=Lost Ctrl-Alt-Del function on W98, 2nd|author=Gary S. Terhune|newsgroup=microsoft.public.win98.gen_discussion|id=uAIVMjC2DHA.2336@TK2MSFTNGP09.phx.gbl|date=[[2004-01-11]]|url=http://groups.google.com/group/microsoft.public.win98.gen_discussion/msg/54f1c50b9eab17fb}} &mdash; a report of the effect of <code>LocalReboot</code> in Windows 95
+#{{cite newsgroup|title=Is this possible?|author=Geoff Chappell|newsgroup=comp.os.ms-windows.programmer.vxd|id=6iouc1$dgh$2@reader1.reader.news.ozemail.net|date=[[1998-05-06]]|url=http://groups.google.com/group/comp.os.ms-windows.programmer.vxd/msg/a7332964a4c61ad6}} &mdash; a report of differences in <code>LocalReboot</code> between Windows 3.x and Windows 95
+{{Keyboard}}
+
+[[Category:Windows administration]]
+[[Category:Computer keys]]
+[[Category:IBM PC compatibles]]
+
+[[de:Affengriff (Computer)]]
+[[fr:Ctrl-Alt-Delete]]
+[[ko:Control-Alt-Delete]]
+[[it:Control-alt-canc]]
+[[nl:Control-Alt-Delete]]
+[[ja:Control-Alt-Delete]]
+[[no:Control+Alt+Delete]]
+[[pl:Control-Alt-Delete]]
+[[pt:Ctrl+Alt+Del]]
+[[vi:Ctrl+Alt+Del]]
+[[zh:Ctrl+Alt+Del]]

@@ -1,0 +1,26 @@
+'''XXL''' is a [[Republic of Macedonia|Macedonian]] girl pop group from [[Skopje]] who represented their native country in the [[Eurovision Song Contest 2000]] with the song "[[100% Te Ljubam]]" in [[Stockholm]], [[Sweden]]. Versions of the song were recorded in both Macedonian and English. Author [[John Kennedy O'Connor]] suggests in his ''The Eurovision Song Contest - The Official History'' that the appearance and choreography had been emphasised to the exclusion of the vocals, which contributed to the low score. 
+
+The group members were: [[Marija Nikolova]], [[Ivona Dzampovska]], [[Rosica Nikolovska]] and [[Verica Karanfilovska]].
+
+==References==
+*{{citebook|last=O'Connor|first=John Kennedy|year=2005|title=The Eurovision Song Contest: The Official History}}
+*{{citeweb|url=http://www.diggiloo.net/?2000mk|title=2000 Macedonia|author=Diggiloo Thrush|accessdate=2007-03-31}}
+
+==External links==
+*[http://www.esctoday.com/annual/2000/page/27/ About the band, Esctoday.com]
+*[http://homepage.ntlworld.com/waterloo/2000/fyrom00.htm/ XXL for Macedonia]
+*[http://www.myledbury.co.uk/eurovision/year/eurovision_2001.asp/ Macedonias result ESC 2001]
+
+[[Category:Macedonian musicians]]
+[[Category:Eurovision contestants]]
+
+{{start box}}
+{{succession box |
+  before=[[Vlado Janevski]] |
+  title=[[Republic of Macedonia in the Eurovision Song Contest]] |
+  years=[[2000]] |
+  after= [[Karolina Gočeva]] |
+}}
+{{end box}}
+{{macedonianmusic}}
+[[el:XXL]]

@@ -1,0 +1,49 @@
+{{Infobox afl player | firstname = John
+| lastname = Lawson
+| image = noimage
+| birthdate = {{birth date|1883|5|2|mf=y}}
+| birthplace = 
+| originalteam = [[Williamstown Football Club|Williamstown]] ([[Victorian Football Association|VFA]])
+| heightweight = 178cm / 73.5kg
+| dead = dead
+| deathdate = 
+| deathplace = 
+| debutdate = [[1904]]
+| debutteam = [[Collingwood Football Club|Collingwood]]
+| debutopponent = 
+| debutstadium = 
+| playingteams = [[Collingwood Football Club|Collingwood]] (1904)
+
+7 games, 2 goals
+
+[[St. Kilda Football Club|St Kilda]] (1905-1907)
+
+30 games, 1 goal
+
+[[Richmond Football Club|Richmond]] (1908-1909)
+
+31 games, 3 goals
+
+| coach = notcoach
+| statsend = 2006
+| careerhighlights = <BR>
+*[[Richmond Football Club|Richmond]] Captain 1909 (3 games)
+
+}}
+
+'''John Lawson''' was an [[Australian rules football]]er who played for the [[Collingwood Football Club]] in the [[VFL/AFL|VFL]] in [[1904]], for the [[St. Kilda Football Club|St Kilda Football Club]] from [[1905]] to [[1907]] and then for the [[Richmond Football Club]] between [[1908]] and [[1909]].
+
+Lawson captained [[Richmond Football Club|Richmond]] on three occasions as the then Captain/Coach [[Dick Condon]] resigned the captaincy late in the season after pressure from the club's board to do so.
+
+== References ==
+* Hogan P: ''The Tigers Of Old'' , Richmond FC, Melbourne 1996
+
+== External links ==
+* {{AflRleague|ref=I/Ivor_Lawson.html}}
+
+{{DEFAULTSORT:Lawson, John}}
+[[Category:Collingwood Magpies players]]
+[[Category:St Kilda Saints players]]
+[[Category:Richmond Tigers players]]
+
+{{aflbio-stub}}

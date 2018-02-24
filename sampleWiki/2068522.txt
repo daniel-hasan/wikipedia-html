@@ -1,0 +1,785 @@
+This is a '''list of all men, boys and women who have captained an Indian national cricket team''' at official international level. [[Indian cricket team|India]] became a full member of the Imperial Cricket Conference (now the [[International Cricket Council]]) on [[31 May]] [[1926]]. On [[25 June]] [[1932]] it became the Test nation after [[English cricket team|England]], [[Australian cricket team|Australia]], [[South African cricket team|South Africa]], the [[West Indian cricket team|West Indies]] and [[New Zealand cricket team|New Zealand]] when they took on England at [[Lord's]]. They played only seven Tests, which were all against England, before the [[Second World War]], losing five matches and drawing twice. Their first game against other opposition came in [[1947]]/[[1948|8]] when they played Australia.
+
+The Indian team's greatest successes came in [[1983]], when they won the [[Cricket World Cup]] under the captaincy of [[Kapil Dev]], and in [[1999]]/[[2000]] when they won the Under-19 World Cup under the captaincy of [[Mohammad Kaif]]. India's most successful captain in Test cricket is [[Sourav Ganguly]], who has won 21 of his 49 Tests at the helm. [[Mithali Raj]] led India to its best result in Women's ODI cricket when the team advanced to the finals of the 2005 Women's Cricket World Cup. Raj is also one of the three women's captains who have led their side to a victory in women's Test cricket, the others being [[Shantha Rangaswamy]] and [[Mamatha Maben]]. 
+
+__TOC__
+<small>Where a player has a dagger (†) next to a Test match series in which he captained at least one Test, it denotes that the player deputised for the appointed captain or was appointed for a minor proportion in a series.</small>
+
+==Men's cricket==
+===Test match captains===
+'''[[Indian cricket team|India]]''' has played 405 [[Test Cricket|Test Matches]] (as of [[June 08]] [[2007]]). This is the list of the 29 cricketers who have [[captain (cricket)|captained]] the [[Indian cricket team]] for at least one [[Test cricket|Test match]]. 
+
+<small>The table of results is complete as of 20 May 2007.</small>
+{| class="wikitable" width="90%"
+! bgcolor="#ffff00" colspan=9 | Indian Test match captains<ref>{{cite web|url=http://stats.cricinfo.com/guru?sdb=team;team=IND;class=testteam;filter=basic;opposition=0;notopposition=0;decade=0;homeaway=0;continent=0;country=0;notcountry=0;groundid=0;season=0;startdefault=1932-06-25;start=1932-06-25;enddefault=2007-05-22;end=2007-05-22;tourneyid=0;finals=0;daynight=0;toss=0;scheduledovers=0;scheduleddays=0;innings=0;followon=0;result=0;seriesresult=0;captainid=0;recent=;viewtype=summary;runslow=;runshigh=;wicketslow=;wicketshigh=;ballslow=;ballshigh=;overslow=;overshigh=;bpo=0;batevent=;conclow=;conchigh=;takenlow=;takenhigh=;ballsbowledlow=;ballsbowledhigh=;oversbowledlow=;oversbowledhigh=;bpobowled=0;bowlevent=;submit=1;.cgifields=viewtype|title=India - Tests|publisher=[[Cricinfo]]|accessdate=2007-05-25}}</ref>
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=3 | 1 
+| rowspan=3 | [[CK Nayudu]] 
+|| [[1932]] || [[English cricket team|England]] || England || 1 || 0 || 1 || 0
+|-
+|| [[1933]]/[[1934|4]] || [[English cricket team|England]] || India || 3 || 0 || 2 || 1 
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''3''' || '''0''' || '''2''' || '''1'''
+|- 
+| rowspan=2 | 2 
+| rowspan=2 | [[Maharajkumar of Vizianagram]] || [[1936]] || [[English cricket team|England]] || England || '''3''' || '''0''' || '''2''' || '''1'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''4''' || '''0''' || '''3''' || '''1'''
+|-
+| rowspan=2 | 3 
+| rowspan=2 | [[Nawab of Pataudi, snr]] || [[1946]] || [[English cricket team|England]] || England || '''3''' || '''0''' || '''1''' || '''2'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''3''' || '''0''' || '''1''' || '''2'''
+|-
+| rowspan=4 | 4
+| rowspan=4 | [[Lala Amarnath]]
+|| [[1947]]/[[1948|8]] || [[Australian cricket team|Australia]] || Australia || 5 || 0 || 4 || 1 
+|-
+|| [[1948]]/[[1949|9]] || [[West Indian cricket team|West Indies]] || India || 5 || 0 || 1 || 4
+|-
+|| [[1952]]/[[1953|3]] || [[Pakistani cricket team|Pakistan]] || India || 5 || 2 || 1 || 2
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''15''' || '''2''' || '''6''' || '''7'''
+|-
+| rowspan=4 | 5
+| rowspan=4 | [[Vijay Hazare]]
+|| [[1951]]/[[1952|2]] || [[English cricket team|England]] || India || 5 || 1 || 1 || 3
+|-
+|| [[1952]] || [[English cricket team|England]] || England || 4 || 0 || 3 || 1
+|-
+|| [[1952]]/[[1953|3]] || [[West Indian cricket team|West Indies]] || West Indies || 5 || 0 || 1 || 4
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''14''' || '''1''' || '''5''' || '''8'''
+|-
+| rowspan=3 | 6
+| rowspan=3 | [[Vinoo Mankad]]
+|| [[1954]]/[[1955|5]] || [[Pakistani cricket team|Pakistan]] || Pakistan || 5 || 0 || 0 || 5
+|-
+|| [[1958]]/[[1959|9]]† || [[West Indian cricket team|West Indies]] || India || 1 || 0 || 1 || 0
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''6''' || '''0''' || '''1''' || '''5'''
+|-
+| rowspan=3 | 7 
+| rowspan=3 | [[Ghulam Ahmed]]
+|| [[1955]]/[[1956|6]]† || [[New Zealand cricket team|New Zealand]] || India || 1 || 0 || 0 || 1
+|-
+|| [[1958]]/[[1959|9]] || [[West Indian cricket team|West Indies]] || India || 2 || 0 || 2 || 0
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''3''' || '''0''' || '''2''' || '''1'''
+|-
+| rowspan=4 | 8
+| rowspan=4 | [[Polly Umrigar]]
+|| [[1955]]/[[1956|6]] || [[New Zealand cricket team|New Zealand]] || India || 4 || 2 || 0 || 2
+|-
+|| [[1956]]/[[1957|7]] || [[Australian cricket team|Australia]] || India || 3 || 0 || 2 || 1
+|-
+|| [[1958]]/[[1959|9]]† || [[West Indian cricket team|West Indies]] || India||  1 || 0 || 0 || 1
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''8''' || '''2''' || '''2''' || '''4'''
+|-
+| rowspan=2 | 9 
+| rowspan=2 | [[Hemu Adhikari]] || [[1958]]/[[1959|9]]† || [[West Indian cricket team|West Indian]] || India || '''1''' || '''0''' || '''0''' || '''1''' 
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''1''' || '''0''' || '''0''' || '''1'''
+|-
+| rowspan=2 | 10 
+| rowspan=2 | [[Datta Gaekwad]] || [[1959]] || [[English cricket team|England]] || England || '''4''' || '''0''' || '''4''' || '''0'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''4''' || '''0''' || '''4''' || '''0'''
+|-
+| rowspan=2 | 11 
+| rowspan=2 | [[Pankaj Roy]] || [[1959]]† || [[English cricket team|England]] || England || '''1''' || '''0''' || '''1''' || '''0'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''1''' || '''0''' || '''1''' || '''0'''
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=2 | 12
+| rowspan=2 | [[Gulabrai Ramchand]] || [[1959]]/[[1960|60]] || [[Australian cricket team|Australia]] || India || '''5''' || '''1''' || '''2''' || '''2'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''5''' || '''1''' || '''2''' || '''2'''
+|-
+| rowspan=4 | 13
+| rowspan=4 | [[Nari Contractor]]
+|| [[1960]]/[[1961|1]] || [[Pakistani cricket team|Pakistan]] || India || 5 || 0 || 0 || 5
+|-
+|| [[1961]]/[[1962|2]] || [[English cricket team|England]] || India || 5 || 2 || 0 || 3
+|-
+|| [[1961]]/[[1962|2]]† || [[West Indian cricket team|West Indies]] || West Indies || 2 || 0 || 2 || 0
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''12''' || '''2''' || '''2''' || '''8'''
+|-
+| rowspan=12 | 14
+| rowspan=12 | [[Mansoor Ali Khan Pataudi|Nawab of Pataudi, jun]]
+|| [[1961]]/[[1962|2]] || [[West Indian cricket team|West Indies]] || West Indies || 3 || 0 || 3 || 0
+|-
+|| [[1963]]/[[1964|4]] || [[English cricket team|England]] || India || 5 || 0 || 0 || 5
+|-
+|| [[1964]]/[[1965|5]] || [[Australian cricket team|Australia]] || India || 3 || 1 || 1 || 1
+|-
+|| [[1964]]/[[1965|5]] || [[New Zealand cricket team|New Zealand]] || India || 4 || 1 || 0 || 3
+|-
+|| [[1966]]/[[1967|7]] || [[West Indian cricket team|West Indies]] || India || 3 || 0 || 2 || 1
+|-
+|| [[1967]] || [[English cricket team|England]] || England || 3 || 0 || 3 || 0
+|-
+|| [[1967]]/[[1968|8]] || [[Australian cricket team|Australia]] || Australia || 3 || 0 || 3 || 0
+|-
+|| [[1967]]/[[1968|8]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 4 || 3 || 1 || 0
+|-
+|| [[1969]]/[[1970|70]] || [[New Zealand cricket team|New Zealand]] || India || 3 || 1 || 1 || 1
+|-
+|| [[1969]]/[[1970|70]] || [[Australian cricket team|Australia]] || India || 5 || 1 || 3 || 1
+|-
+|| [[1974]]/[[1975|5]] || [[West Indian cricket team|West Indies]] || India || 4 || 2 || 2 || 0
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''40''' || '''9''' || '''19''' || '''12'''
+|-
+| rowspan=2 | 15 
+| rowspan=2 | [[Chandu Borde]] || [[1967]]/[[1968|8]]† || [[Australian cricket team|Australia]] || Australia || '''1''' || '''0''' || '''1''' || '''0'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''1''' || '''0''' || '''1''' || '''0'''
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=5 | 16
+| rowspan=5 | [[Ajit Wadekar]]
+|| [[1970]]/[[1971|1]] || [[West Indian cricket team|West Indies]] || West Indies || 5 || 1 || 0 || 4
+|-
+|| [[1971]] || [[English cricket team|England]] || England || 3 || 1 || 0 || 2
+|-
+|| [[1972]]/[[1973|3]] || [[English cricket team|England]] || India || 5 || 2 || 1 || 2
+|-
+|| [[1974]] || [[English cricket team|England]] || England || 3 || 0 || 3 || 0
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''16''' || '''4''' || '''4''' || '''8'''
+|-
+| rowspan=3 | 17
+| rowspan=3 | [[Srinivasaraghavan Venkataraghavan]]
+|| [[1974]]/[[1975|5]]† || [[West Indian cricket team|West Indies]] || India || 1 || 0 || 1 || 0
+|-
+|| [[1979]] || [[English cricket team|England]] || England || 4 || 0 || 1 || 3
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''5''' || '''0''' || '''2''' || '''3'''
+|-
+| rowspan=13 | 18
+| rowspan=13 | [[Sunil Gavaskar]]
+|| [[1975]]/[[1976|6]]† || [[New Zealand cricket team|New Zealand]] || New Zealand || 1 || 1 || 0 || 0
+|-
+|| [[1978]]/[[1979|9]] || [[West Indian cricket team|West Indies]] || India || 6 || 1 || 0 || 5
+|-
+|| [[1979]]/[[1980|80]] || [[Australian cricket team|Australia]] || India || 6 || 2 || 0 || 4
+|-
+|| [[1979]]/[[1980|80]] || [[Pakistani cricket team|Pakistan]] || India || 5 || 2 || 0 || 3
+|-
+|| [[1980]]/[[1981|1]] || [[Australian cricket team|Australia]] || Australia || 3 || 1 || 1 || 1
+|-
+|| [[1980]]/[[1981|1]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 3 || 0 || 1 || 2
+|-
+|| [[1981]]/[[1982|2]] || [[English cricket team|England]] || India || 6 || 1 || 0 || 5
+|-
+|| [[1982]] || [[English cricket team|England]] || England || 3 || 0 || 1 || 2
+|-
+|| [[1982]]/[[1983|3]] || [[Sri Lankan cricket team|Sri Lanka]] || India || 1 || 0 || 0 || 1
+|-
+|| [[1982]]/[[1983|3]] || [[Pakistani cricket team|Pakistan]] || Pakistan || 6 || 0 || 3 || 3
+|-
+|| [[1984]]/[[1985|5]] || [[Pakistani cricket team|Pakistan]] || Pakistan || 2 || 0 || 0 || 2
+|-
+|| [[1984]]/[[1985|5]] || [[English cricket team|England]] || India || 5 || 1 || 2 || 2
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total'''|| '''47''' || '''9''' || '''8''' || '''30'''
+|-
+| rowspan=7 | 19
+| rowspan=7 | [[Bishen Singh Bedi]]
+|| [[1975]]/[[1976|6]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 2 || 0 || 1 || 1
+|-
+|| [[1975]]/[[1976|6]] || [[West Indian cricket team|West Indies]] || West Indies || 4 || 1 || 2 || 1
+|-
+|| [[1976]]/[[1977|7]] || [[New Zealand cricket team|New Zealand]] || India || 3 || 2 || 0 || 1
+|-
+|| [[1976]]/[[1977|7]] || [[English cricket team|England]] || India || 5 || 1 || 3 || 1
+|-
+|| [[1977]]/[[1978|8]] || [[Australian cricket team|Australia]] || Australia || 5 || 2 || 3 || 0
+|-
+|| [[1978]]/[[1979|9]] || [[Pakistani cricket team|Pakistan]] || Pakistan || 3 || 0 || 2 || 1
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''22''' || '''6''' || '''11''' || '''5'''
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=3 | 20
+| rowspan=3 | [[Gundappa Viswanath]]
+| [[1979]]/[[1980|80]]† || [[Pakistani cricket team|Pakistan]] || India || 1 || 0 || 0 || 1
+|-
+|| [[1979]]/[[1980]] || [[English cricket team|England]] || India || 1 || 0 || 1 || 0
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''2''' || '''0''' || '''1''' || '''1'''
+|-
+| rowspan=10 | 21
+| rowspan=10 | [[Kapil Dev]]
+| [[1982]]/[[1983|3]] || [[West Indian cricket team|West Indies]] || West Indies || 5 || 0 || 2 || 3
+|-
+|| [[1983]]/[[1984|4]] || [[Pakistani cricket team|Pakistan]] || India || 3 || 0 || 0 || 3
+|-
+|| [[1983]]/[[1984|4]] || [[West Indian cricket team|West Indies]] || India || 6 || 0 || 3 || 3
+|-
+|| [[1985]] || [[Sri Lankan cricket team|Sri Lanka]] || Sri Lanka || 3 || 0 || 1 || 2
+|-
+|| [[1985]]/[[1986|6]] || [[Australian cricket team|Australia]] || Australia || 3 || 0 || 0 || 3
+|-
+|| [[1986]] || [[English cricket team|England]] || England || 3 || 2 || 0 || 1
+|-
+|| [[1986]]/[[1987|7]] || [[Australian cricket team|Australia]] || India || 3 || 0 || 0 || 2<ref name='tied'>Includes one Tied Test Match</ref>
+|-
+|| [[1986]]/[[1987|7]] || [[Sri Lankan cricket team|Sri Lanka]] || India || 3 || 2 || 0 || 1
+|-
+|| [[1986]]/[[1987|7]] || [[Pakistani cricket team|Pakistan]] || India || 5 || 0 || 1 || 4
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''34''' || '''4''' || '''7''' || '''23'''<ref name='tied'/>
+|-
+| rowspan=4 | 22
+| rowspan=4 | [[Dilip Vengsarkar]]
+| [[1987]]/[[1988|8]] || [[West Indian cricket team|West Indies]] || India || 3 || 0 || 1 || 2
+|-
+|| [[1988]]/[[1989|9]] || [[New Zealand cricket team|New Zealand]] || India || 3 || 2 || 1 || 0
+|-
+|| [[1988]]/[[1989|9]] || [[West Indian cricket team|West Indies]] || West Indies || 4 || 0 || 3 || 1
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''10''' || '''2''' || '''5''' || '''3'''
+|-
+| rowspan=2 | 23
+| rowspan=2 | [[Ravi Shastri]] || [[1987]]/[[1988|8]]† || [[West Indian cricket team|West Indies]] || India || '''1''' || '''1''' || '''0'''|| '''0'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''1''' || '''1''' || '''0''' || '''0'''
+|-
+| rowspan=2 | 24 
+| rowspan=2 | [[Krishnamachari Srikkanth]] || [[1989]]/[[1990|90]] || [[Pakistani cricket team|Pakistan]] || Pakistan || '''4''' || '''0''' || '''0''' || '''4'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''4''' || '''0''' || '''0''' || '''4'''
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=21 | 25
+| rowspan=21 | [[Mohammad Azharuddin]]
+| [[1989]]/[[1990|90]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 3 || 0 || 1 || 2
+|-
+|| [[1990]] || [[English cricket team|England]] || England || 3 || 0 || 1 || 2
+|-
+|| [[1990]]/[[1991|1]] || [[Sri Lankan cricket team|Sri Lanka]] || India || 1 || 1 || 0 || 0
+|-
+|| [[1991]]/[[1992|2]] || [[Australian cricket team|Australia]] || Australia || 5 || 0 || 4 || 1
+|-
+|| [[1992]]/[[1993|3]] || [[Zimbabwean cricket team|Zimbabwe]] || Zimbabwe || 1 || 0 || 0 || 1
+|-
+|| [[1992]]/[[1993|3]] || [[South African cricket team|South Africa]] || South Africa || 4 || 0 || 1 || 3
+|-
+|| [[1992]]/[[1993|3]] || [[English cricket team|England]] || India || 3 || 3 || 0 || 0
+|-
+|| [[1992]]/[[1993|3]] || [[Zimbabwean cricket team|Zimbabwe]] || India || 1 || 1 || 0 || 0
+|-
+|| [[1993]] || [[Sri Lankan cricket team|Sri Lanka]] || Sri Lanka || 3 || 1 || 0 || 2
+|-
+|| [[1993]]/[[1994|4]] || [[Sri Lankan cricket team|Sri Lanka]] || India || 3 || 3 || 0 || 0
+|-
+|| [[1993]]/[[1994|4]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 1 || 0 || 0 || 1
+|-
+|| [[1994]]/[[1995|5]] || [[West Indian cricket team|West Indies]] || India || 3 || 1 || 1 || 1
+|-
+|| [[1995]]/[[1996|6]] || [[New Zealand cricket team|New Zealand]] || India || 3 || 1 || 0 || 2
+|-
+|| [[1996]] || [[English cricket team|England]] || England || 3 || 0 || 1 || 2
+|-
+|| [[1997]]/[[1998|8]] || [[Australian cricket team|Australia]] || India || 3 || 2 || 1 || 0
+|-
+|| [[1998]]/[[1999|9]] || [[Zimbabwean cricket team|Zimbabwe]] || Zimbabwe || 1 || 0 || 1 || 0
+|-
+|| [[1998]]/[[1999|9]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 2 || 0 || 1 || 1
+|-
+|| [[1998]]/[[1999|9]] || [[Pakistani cricket team|Pakistan]] || India || 2 || 1 || 1 || 0
+|-
+|| [[1998]]/[[1999|9]]<ref name='asian'>Asian Test Championship</ref> || [[Pakistani cricket team|Pakistan]] || India || 1 || 0 || 1 || 0
+|-
+|| [[1998]]/[[1999|9]]<ref name='asian'/> || [[Sri Lanka cricket team|Sri Lanka]] || Sri Lanka || 1 || 0 || 0 || 1
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''47''' || '''14''' || '''14''' || '''19'''
+|-
+| rowspan=10 | 26
+| rowspan=10 | [[Sachin Tendulkar]]
+| [[1996]]/[[1997|7]] || [[Australian cricket team|Australia]] || India || 1 || 1 || 0 || 0
+|-
+|| [[1996]]/[[1997|7]] || [[South African cricket team|South Africa]] || India || 3 || 2 || 1 || 0
+|-
+|| [[1996]]/[[1997|7]] || [[South African cricket team|South Africa]] || South Africa || 3 || 0 || 2 || 1
+|-
+|| [[1996]]/[[1997|7]] || [[West Indian cricket team|West Indies]] || West Indies || 5 || 0 || 1 || 4
+|-
+|| [[1997]] || [[Sri Lankan cricket team|Sri Lanka]] || Sri Lanka || 2 || 0 || 0 || 2
+|-
+|| [[1997]]/[[1998|8]] || [[Sri Lankan cricket team|Sri Lanka]] || India || 3 || 0 || 0 || 3
+|-
+|| [[1999]]/[[2000]] || [[New Zealand cricket team|New Zealand]] || India || 3 || 1 || 0 || 2
+|-
+|| [[1999]]/[[2000]] || [[Australian cricket team|Australia]] || Australia || 3 || 0 || 3 || 0
+|-
+|| [[1999]]/[[2000]] || [[South African cricket team|South Africa]] || India || 2 || 0 || 2 || 0
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''25''' || '''4''' || '''9''' || '''12'''
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=21 | 27
+| rowspan=21 | [[Sourav Ganguly]]
+| [[2000]]/[[2001|1]] || [[Bangladeshi cricket team|Bangladesh]] || Bangladesh || 1 || 1 || 0 || 0
+|-
+|| [[2000]]/[[2001|1]] || [[Zimbabwean cricket team|Zimbabwe]] || India || 2 || 1 || 0 || 1
+|-
+|| [[2000]]/[[2001|1]] || [[Australian cricket team|Australia]] || India || 3 || 2 || 1 || 0
+|-
+|| [[2001]] || [[Zimbabwean cricket team|Zimbabwe]] || Zimbabwe || 2 || 1 || 1 || 0
+|-
+|| [[2001]] || [[Sri Lankan cricket team|Sri Lanka]] || Sri Lanka || 3 || 1 || 2 || 0
+|-
+|| [[2001]]/[[2002|2]] || [[South African cricket team|South Africa]] || South Africa || 2 || 0 || 1 || 1
+|-
+|| [[2001]]/[[2002|2]] || [[English cricket team|England]] || India || 3 || 1 || 0 || 2
+|-
+|| [[2001]]/[[2002|2]] || [[Zimbabwean cricket team|Zimbabwe]] || India || 2 || 2 || 0 || 0
+|-
+|| [[2001]]/[[2002|2]] || [[West Indian cricket team|West Indies]] || West Indies || 5 || 1 || 2 || 2
+|-
+|| [[2002]] || [[English cricket team|England]] || England || 4 || 1 || 1 || 2
+|-
+|| [[2002]]/[[2003|3]] || [[West Indian cricket team|West Indies]] || India || 3 || 2 || 0 || 1
+|-
+|| [[2002]]/[[2003|3]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 2 || 0 || 2 || 0
+|-
+|| [[2003]]/[[2004|4]] || [[New Zealand cricket team|New Zealand]] || India || 1 || 0 || 0 || 1
+|-
+|| [[2003]]/[[2004|4]] || [[Australian cricket team|Australia]] || Australia || 4 || 1 || 1 || 2
+|-
+|| [[2003]]/[[2004|4]]† || [[Pakistani cricket team|Pakistan]] || Pakistan || 1 || 1 || 0 || 0
+|-
+|| [[2004]]/[[2005|5]] || [[Australian cricket team|Australia]] || India || 2 || 0 || 1 || 1
+|-
+|| [[2004]]/[[2005|5]] || [[South African cricket team|South Africa]] ||India ||  2 || 1 || 0 || 1
+|-
+|| [[2004]]/[[2005|5]] || [[Bangladeshi cricket team|Bangladesh]] || Bangladesh || 2 || 2 || 0 || 0
+|-
+|| [[2004]]/[[2005|5]] || [[Pakistani cricket team|Pakistan]] || India || 3 || 1 || 1 || 1
+|-
+|| [[2005]]/[[2006|6]] || [[Zimbabwean cricket team|Zimbabwe]] || Zimbabwe || 2 || 2 || 0 || 0
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''49''' || '''21''' || '''13''' || '''15'''
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=11 |28
+| rowspan=11 | [[Rahul Dravid]]
+| [[2003]]/[[2004|4]]† || [[New Zealand cricket team|New Zealand]] || India || 1 || 0 || 0 || 1
+|-
+|| [[2003]]/[[2004|4]]† || [[Pakistani cricket team|Pakistan]] || Pakistan || 2 || 1 || 1 || 0
+|-
+|| [[2004]]/[[2005|5]]† || [[Australian cricket team|Australia]] || India || 2 || 1 || 1 || 0
+|-
+|| [[2005]]/[[2006|6]] || [[Sri Lankan cricket team|Sri Lanka]] || India || 2 || 1 || 0 || 1
+|-
+|| [[2005]]/[[2006|6]] || [[Pakistani cricket team|Pakistan]] || Pakistan || 3 || 0 || 1 || 2
+|-
+|| [[2005]]/[[2006|6]] || [[English cricket team|England]] || India || 3 || 1 || 1 || 1
+|-
+|| [[2005]]/[[2006|6]] || [[West Indies cricket team|West Indies]] || West Indies || 4 || 1 || 0 || 3
+|-
+|| [[2006]]/[[2007|7]] || [[South African cricket team|South Africa]] || South Africa || 3 || 1 || 2 || 0
+|-
+|| [[2007]] || [[Bangladeshi cricket team|Bangladesh]] || Bangladesh || 2 || 1|| 0 || 1
+|-
+|| [[2007]] || [[English cricket team|England]] || England || 3 || 1 || 0 || 2
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''22''' || '''8''' || '''6''' || '''11'''
+|-
+| rowspan=2 | 29
+| rowspan=2 | [[Virender Sehwag]] || [[2005]]/[[2006|6]]† || [[Sri Lankan cricket team|Sri Lanka]] || India || '''1''' || '''1''' || '''0''' || '''0'''
+|-bgcolor="#F5DEB3"
+| colspan=3 | '''Total''' || '''1''' || '''1''' || '''0''' || '''0'''
+|- bgcolor=#DDEEFF
+| colspan=5 align='center' | '''Total''' || '''405''' || '''91''' || '''131''' || '''186'''<ref name='tied'/>
+|}
+
+Anil Kumble
+
+====Records and highlights====
+
+* Ganguly has captained India in the most number of Tests - 49. Azharuddin and Gavaskar have captained India in 47 matches each.<ref>{{cite web|url=http://content-ind.cricinfo.com/india/engine/records/individual/most_matches_as_captain.html?class=1;id=6;type=team|title=Most matches as Indian test captain|publisher=Cricinfo|accessdate=2007-05-25}}</ref>
+
+* Ganguly has led India to victory in 21 matches - the most by any Indian captain. He is followed by Azharuddin with 14 victories, while Mansoor Ali Khan Pataudi and Gavaskar have 9 victories each.<ref>{{cite web|url=http://cricketarchive.com/Archive/Records/India/Tests/Captains/Playing_Record_Captain_Overall.html|title=India Captains' Playing Record in Test Matches|publisher=Cricketarchive.com|accessdate=2007-05-25}}</ref>
+**Ganguly has recorded a victory on Indian soil against every team that has visited India except New Zealand. India did not play Bangladesh and Sri Lanka on home soil during his leadership.<ref>{{cite web|url=http://stats.cricinfo.com/guru?sdb=player;playerid=2024;class=testplayer;filter=basic;team=0;opposition=0;notopposition=0;season=0;homeaway=home;continent=0;country=0;notcountry=0;groundid=0;startdefault=1996-06-20;start=1996-06-20;enddefault=2007-05-22;end=2007-05-22;tourneyid=0;finals=0;daynight=0;toss=0;scheduledovers=0;scheduleddays=0;innings=0;result=0;followon=0;seriesresult=0;captain=yes;keeper=0;dnp=0;recent=;viewtype=aro_resultsummary;runslow=;runshigh=;batposition=0;dismissal=0;bowposition=0;ballslow=;ballshigh=;bpof=0;overslow=;overshigh=;conclow=;conchigh=;wicketslow=;wicketshigh=;dismissalslow=;dismissalshigh=;caughtlow=;caughthigh=;caughttype=0;stumpedlow=;stumpedhigh=;csearch=;submit=1;.cgifields=viewtype|title=SC Ganguly - Tests, at home, as captain|publisher=Cricinfo|accessdate=2007-05-25}}</ref>
+
+*Hazare led India to its first Test victory - against England in 1951/52 season.<ref>{{cite web|url=http://content-www.cricinfo.com/ci/content/story/233547.html|title=A history of England v India|author=Martin Williamson|publisher=[[Cricinfo]]|accessdate=2007-05-26}}</ref>
+
+* Mansoor Ali Khan Pataudi led India to its first overseas Test victory and first overseas series victory - against New Zealand in 1967/68 season.<ref>{{cite web|url=http://content-ind.cricinfo.com/wisdenalmanack/content/story/150239.html|title=India v/s New Zealand 1<sup>st</sup> Test match, 1967/68 season|publisher=[[Wisden Almanack]] | year=[[1969]]|accessdate=2007-05-25}}</ref><ref>{{cite web|url=http://content-ind.cricinfo.com/wisdenalmanack/content/story/155169.html|title=India in New Zealand, 1967–68
+|author=R.T. Brittenden|publisher=[[Wisden Almanack]]|year=[[1969]]|accessdate=2007-05-25}}</ref>
+
+* Complete list of Overseas Victories:
+** Ganguly: 11 (Australia, Bangladesh - 3, England, Sri Lanka, Pakistan, West Indies and Zimbabwe - 3) 
+** Dravid: 5 (Bangladesh, Pakistan, South Africa, West Indies ,England)
+** Mansoor Ali Khan: 3 (New Zealand - 3)
+** Bedi: 3 (West Indies, Australia - 2)
+** Wadekar: 2 (West Indies, England)
+** Gavaskar: 2 (New Zealand, Australia)
+** Kapil Dev: 2 (England - 2)
+** Azharuddin: 1 (Sri Lanka)
+
+* Gavaskar has scored 3449 runs - the highest by any Indian while acting as captain. He also holds the record for the highest number of centuries while playing as captain (11). Azharuddin has nine centuries when leading India as its captain while Tendulkar has seven.
+
+* Kapil Dev has 111 [[Wicket (cricket)|wickets]] in 34 matches as India's captain while Bedi has 106 wickets in 22 matches. Bedi has eight 5 Wicket/Innings hauls compared to Kapil Dev's four.
+
+* Tendulkar has the highest average of 51.35 (25 matches) while captaining India while Gavaskar averages 50.72 (47 matches). Dravid (45.74 over 20 matches) and Azharuddin (43.93 over 47 matches) are the others to average above 40 while leading the country.
+
+* Captains who have not led India on home soil: Maharajkumar of Vizianagram, Nawab of Pataudi, snr, Datta Gaekwad, Pankaj Roy, Chandu Borde and Krishnamachari Srikanth
+
+* Captains who have not led India on foreign soil: Ghulam Ahmed, Polly Umrigar, Hemu Adhikari, Gulabrai Ramchand, Gundappa Viswanath, Ravi Shastri and Virender Sehwag
+
+* Kapil Dev was the captain of India's only [[Tied Test#The second Tied Test.2C 1986|tied-test match]] (against Australia in [[MA Chidambaram Stadium|Chepauk]], [[Chennai]]).<ref>{{cite web|url=http://ind.cricinfo.com/db/ARCHIVE/1980S/1986-87/AUS_IN_IND/AUS_IND_T1_18-22SEP1986.html|title=Scorecard - Australia v/s India 1<sup>st</sup> Test 1986/87 season|publisher=Cricinfo|accessdate=2007-05-26}}</ref>
+
+===Men's One-Day International captains===
+
+This is a list of cricketers who have [[captain (cricket)|captained]] the [[Indian cricket team]] for at least one [[One Day International]]. 
+
+<small>The table of results is complete to the [[Indian cricket team in Bangladesh in 2007]] ODI matches.</small>
+{| class="wikitable" width="90%"
+! bgcolor="#efefef" colspan=9 | Indian ODI captains
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Played!!Won!!Lost!!Tied!!No result!!Win %<ref name='winpercent'>Win% = (matches won+0.5*matches tied)/(matches played-matches abandoned) and is rounded to the nearest number as percentage</ref>
+|-
+||1||[[Ajit Wadekar]]||[[1974]]||2||0||2||0||0||0%
+|-
+||2||[[Srinivasaraghavan Venkataraghavan]]||[[1975]]-[[1979]]||7||1||6||0||0||14%
+|-
+||3||[[Bishen Singh Bedi]]||[[1975]]/[[1976|6]]-[[1978]]/[[1979|9]]||4||1||3||0||0||25%
+|-
+||4||[[Sunil Gavaskar]]||[[1980]]/[[1981|1]]-[[1985]]/[[1986|6]]||38||14||22||0||2||39%
+|-
+||5||[[Gundappa Viswanath]]||[[1980]]/[[1981|1]]||1||0||1||0||0||0%
+|-
+||6||[[Kapil Dev]]||[[1982]]/[[1983|3]]-[[1992]]/[[1993]]||74||40||32||0||2||56%
+|-
+||7||[[Syed Kirmani]]||[[1983]]/[[1984|4]]||1||0||1||0||0||0%
+|-
+||8||[[Mohinder Amarnath]]||[[1984]]/[[1985]]||1||0||0||0||1||NA
+|-
+||9||[[Ravi Shastri]]||[[1986]]/[[1987|7]]-[[1991]]/[[1992|2]]||11||4||7||0||0||36%
+|-
+||10||[[Dilip Vengsarkar]]||[[1987]]/[[1988|8]]-[[1988]]/[[1989|9]]||18||8||10||0||0||44%
+|-
+||11||[[Krishnamachari Srikkanth]]||[[1989]]/[[1990|90]]||13||4||8||0||1||33%
+|-
+||12||[[Mohammad Azharuddin]]||[[1989]]/[[1990|90]]-[[1999]]||173||89||76||2||6||54%
+|-
+||13||[[Sachin Tendulkar]]||[[1996]]-[[1999]]/[[2000]]||73||23||43||1||6||35%
+|-
+||14||[[Ajay Jadeja]]||[[1997]]/[[1998|8]]-[[1999]]/[[2000]]||13||8||5||0||0||62%
+|-
+||15||[[Sourav Ganguly]]||[[1999]]-2005||146<ref name='tsunami'>Sourav Ganguly also captained the ACC Asian XI in the ODI against the ICC World XI held on [[10 January]] [[2005]] for the [[World Cricket Tsunami Appeal]]. The ACC Asian XI lost that ODI</ref>||76||65<ref name='tsunami'/>||0||5||54%
+|-
+||16||[[Rahul Dravid]]||[[2000]]/[[2001|1]]-[[2007]]||79||42||33||0||4||53%
+|-
+||17||[[Anil Kumble]]||[[2001]]/[[2002|2]]||1||1||0||0||0||100%
+|-
+||18||[[Virender Sehwag]]||[[2005]]||5||3||2||0||0||60%
+|-
+||19||[[MS Dhoni]]||[[2007]]/[[2008|8]]||12||5||6||0||1||48%
+|- bgcolor=#DDEEFF
+| colspan=3 align='center' | '''Total'''||'''667'''||'''315'''||'''321'''||'''3'''||'''28'''||'''47.23%'''
+|}
+
+====Records and highlights====
+* Dravid and Kapil Dev have the highest percentage win rate (56%) for Indians who have captained more than 20 matches. Azharuddin and Ganguly, India's two most capped captains come close with 54% win rate.<ref>{{cite web|url=http://stats.cricinfo.com/guru?sdb=team;team=IND;class=oditeam;filter=basic;opposition=0;notopposition=0;decade=0;homeaway=0;continent=0;country=0;notcountry=0;groundid=0;season=0;startdefault=1974-07-13;start=1974-07-13;enddefault=2007-05-12;end=2007-05-12;tourneyid=0;finals=0;daynight=0;toss=0;scheduledovers=0;scheduleddays=0;innings=0;followon=0;result=0;seriesresult=0;captainid=0;recent=;viewtype=summary;runslow=;runshigh=;wicketslow=;wicketshigh=;ballslow=;ballshigh=;overslow=;overshigh=;bpo=0;batevent=;conclow=;conchigh=;takenlow=;takenhigh=;ballsbowledlow=;ballsbowledhigh=;oversbowledlow=;oversbowledhigh=;bpobowled=0;bowlevent=;submit=1;.cgifields=viewtype|title=India - ODIs - Overall summary|publisher=[[Cricinfo]]|accessdate=2007-05-26}}</ref>
+ 
+* Kapil Dev is the only Indian captain to lead the side to [[Cricket World Cup]] victory, in [[1983 Cricket World Cup|1983]].
+
+* Tendulkar's score of 186* against New Zealand in 1999/00 season bettered [[Viv Richards]]' record (181 against Sri Lanka) for the highest score by a captain in ODI cricket. Tendulkar's record was broken by [[Sanath Jayasuriya]] who scored 189 against India in 2000/01 season. Prior to Richards, Kapil Dev (175*) was the owner of the record when he broke [[Glenn Turner]]'s score of 171*.
+
+* Ganguly has the best bowling figures returned by an Indian captain in ODI cricket, which he recorded against Zimbabwe (10-1-34-5). Kapil Dev is the only other Indian captain to have taken a five wicket haul (12-2-43-5 against Australia)
+
+* Ganguly has scored the most number of centuries while captaining India (11). Only [[Ricky Ponting]] (15) from any country has more centuries in ODI cricket than Ganguly while captaining. Tendulkar (6), Azharuddin (4), Dravid (2), Jadeja (1), Kapil Dev (1), Shastri (1) are the other cricketers who have scored a century when captaining the Indian ODI team.
+
+* Azharuddin has the most number of runs as India's ODI captain (5165 runs at 12) while Ganguly has 5104 runs (ave:38.66). Tendulkar (2454 runs at ave:37.75), Dravid (2313 runs at ave:42.83) and Kapil Dev (1538 runs at ave:29.57) are the only other captains who have scored more than 1,000 runs when leading the side
+
+* Azharuddin (2) and Tendulkar (1) are the only two captains with tied-ODI matches.
+
+==Youth cricket==
+===Test match captains===
+
+This is a list of cricketers who have [[captain (cricket)|captained]] the [[Indian Under-19 cricket team]] for at least one under-19 Test match. The very nature of Under-19 cricket means that in practice no youth captains the side for more than one year. Three men, Srikkanth, Shastri and Dravid, have gone on to captain the senior side.
+
+<small>The table of results is complete as of the end of the 2006/07 season.<br></small>* <small>mark has been added after the names of players who went on to represent India in at least one men's international match (Test match or ODI match).</small>
+{| class="wikitable" width="90%"
+! bgcolor="#efefef" colspan=9 | Indian Under-19 Test match captains
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| 1 || [[Krishnamachari Srikkanth]]* || [[1978]]/[[1979|9]]&dagger; || [[Pakistani cricket team|Pakistan]] || India || 2 || 0 || 0 || 2
+|-
+|| 2 || [[Vedraj Chauhan]] || [[1978]]/[[1979|9]] || [[Pakistani cricket team|Pakistan]] || India || 3 || 0 || 0 || 3
+|-
+|| 3 || [[Ravi Shastri]]* || [[1981]] || [[English cricket team|England]] || England || 3 || 0 || 0 || 3
+|-
+|| 4 || [[Saba Karim]]* || [[1984]]/[[1985|5]] || [[Australian cricket team|Australia]] || India || 2 || 0 || 1 || 1
+|-
+|| 5 || [[Anju Mudkavi]] || [[1984]]/[[1985|5]]&dagger; || [[Australian cricket team|Australia]] || India || 1 || 0 || 0 || 1
+|-
+|| 6 || [[Amikar Dayal]] || [[1986]]/[[1987|7]] || [[Australian cricket team|Australia]] || Australia || 3 || 0 || 2 || 1
+|-
+|| 7 || [[Myluahanan Senthilnathan]] || [[1987]]/[[1988|8]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 1 || 0 || 1 || 0
+|-
+|| 8 || [[Janardhanan Ramdas]] || [[1988]]/[[1989|9]] || [[Pakistani cricket team|Pakistan]] || Pakistan || 4 || 1 || 0 || 3
+|-
+|| 9 || [[Ranjib Biswal]] || [[1989]]/[[1990|90]] || [[Pakistani cricket team|Pakistan]] || India || 4 || 1 || 0 || 3
+|-
+|| 10 || [[Rahul Dravid]]* || [[1991]]/[[1992|2]] || [[New Zealand cricket team|New Zealand]] || India || 2 || 1 || 0 || 1
+|-
+|| 11 || [[Manoj Joglekar]] || [[1992]]/[[1993|3]] || [[English cricket team|England]] || India || 3 || 1 || 1 || 1
+|-
+|| 12 || [[Sridharan Sriram]]* || [[1993]]/[[1994|4]] || [[Australian cricket team|Australia]] || India || 3 || 1 || 1 || 1
+|-
+|| 13 || [[Amit Sharma]] || [[1994]] || [[English cricket team|England]] || England || 3 || 1 || 0 || 2
+|-
+|| 14 || [[Kiran Powar]] || [[1994]]/[[1995|5]] || [[Australian cricket team|Australia]] || Australia || 3 || 0 || 2 || 1
+|-
+|| 15 || [[Sanjay Raul]] || [[1995]]/[[1996|6]] || [[South African cricket team|South Africa]] || India || 3 || 1 || 1 || 1
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+|| 16 || [[Ajit Agarkar]]* || [[1996]]/[[1997|7]]&dagger; || [[Sri Lankan cricket team|Sri Lanka]] || Sri Lanka || 1 || 1 || 0 || 0
+|-
+|| 17 || [[Jyoti Yadav]] || [[1996]]/[[1997|7]] || [[Sri Lankan cricket team|Sri Lanka]] || Sri Lanka || 2 || 1 || 0 || 1
+|-
+|| 18 || [[Reetinder Sodhi]]* || [[1998]]/[[1999|9]] || [[Sri Lankan cricket team|Sri Lanka]] || India || 1 || 0 || 0 || 1
+|-
+|| 19 || [[Ajay Ratra]]* || [[2000]]/[[2001|1]] || [[English cricket team|England]] || India || 3 || 1 || 0 || 2
+|-
+|| 20 || [[Maninder Bisla]] || [[2002]]&dagger; || [[English cricket team|England]] || England || 1 || 0 || 0 || 1
+|-
+|| 21 || [[Yaleeka Gnaneswara Rao]] || [[2002]] || [[English cricket team|England]] || England || 2 || 0 || 1 || 1
+|-
+|| 22 || [[Ambati Rayudu]] || [[2004]]/[[2005|5]] || [[English cricket team|England]] || India || 3 || 3 || 0 || 0
+|-
+|| 24 || [[Tanmay Srivastava]] || [[2006]] || [[English cricket team|England]] || England || 3 || 1 || 0 || 2
+|-
+| rowspan=3 | 25 
+| rowspan=3 | [[Piyush Chawla]]* 
+| [[2006]]/[[2007|7]] || [[Pakistani cricket team|Pakistan]] || Pakistan || 2 || 2 || 0 || 0
+|-
+| [[2006]]/[[2007|7]] || [[New Zealand cricket team|New Zealand]] || New Zealand || 3 || 1 || 1 || 1
+|-
+| colspan=3 | '''Total''' || '''5''' || '''3''' || '''1''' || '''1'''
+|- bgcolor=#DDEEFF
+| colspan=5 align='center' | '''Total''' || '''61''' || '''17''' || '''10''' || '''34'''
+|-
+|}
+
+===Youth One-Day International captains===
+
+This is a list of cricketers who have [[captain (cricket)|captained]] the [[Indian U-19 cricket team]] for at least one Under-19 [[One Day International]]. India's greatest success in Under-19 ODI cricket was in [[1999]]/[[2000]], when they won the Under-19 World Cup under the captaincy of [[Mohammad Kaif]].
+
+<small>The table of results is complete as of the end of the 2006/07 season.<br></small>* <small>mark has been added after the names of players who went on to represent India in at least one men's international match (Test match or ODI match).</small>
+{| class="wikitable" width="90%"
+! bgcolor="#efefef" colspan=9 | Indian Under-19 ODI captains
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Played!!Won!!Lost!!Tied!!No result!!Win %<ref name='winpercent'/>
+|-
+||1||[[Ravi Shastri]]*||[[1981]]||1||0||1||0||0||0%
+|-
+||2||[[Saba Karim]]*||[[1984]]/[[1985|5]]||3||0||3||0||0||0%
+|-
+||3||[[Anju Mudkavi]]||[[1984]]/[[1985|5]]||1||0||1||0||0||0%
+|-
+||4||[[Amikar Dayal]]||[[1986]]/[[1987|7]]||3||1||2||0||0||33%
+|-
+||5||[[Myluahanan Senthilnathan]]||[[1987]]/[[1988|8]]||8||5||3||0||0||63%
+|-
+||6||[[Arjan Kripal Singh]]||[[1987]]/[[1988|8]]||1||0||1||0||0||0%
+|-
+||7||[[Ranjib Biswal]]||[[1989]]/[[1990|90]]||5||4||1||0||0||80%
+|-
+||8||[[Rahul Dravid]]*||[[1991]]/[[1992|2]]||3||2||1||0||0||67%
+|-
+||9||[[Manoj Joglekar]]||[[1992]]/[[1993|3]]||3||3||0||0||0||100%
+|-
+||10||[[Amit Sharma]]||[[1993]]/[[1994|4]]-[[1994]]||5||2||3||0||0||40%
+|-
+||11||[[Kiran Powar]]||[[1994]]/[[1995|5]]||3||1||2||0||0||33%
+|-
+||12||[[Sanjay Raul]]||[[1995]]/[[1996|6]]||3||3||0||0||0||100%
+|-
+||13||[[Amit Pagnis]]||[[1997]]/[[1998|8]]||6||4||2||0||0||67%
+|-
+||14||[[Reetinder Sodhi]]*||[[1998]]/[[1999|9]]||3||3||0||0||0||100%
+|-
+||15||[[Mohammad Kaif]]*||[[1998]]/[[1999|9]]-[[1999]]/[[2000]]||9||9||0||0||0||100%
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Played!!Won!!Lost!!Tied!!No result!!Win %<ref name='winpercent'/>
+|-
+||16||[[Ajay Ratra]]*||[[2000]]/[[2001|1]]||3||2||1||0||0||67%
+|-
+||17||[[Parthiv Patel]]*||[[2001]]/[[2002|2]]||7||4||3||0||0||57%
+|-
+||18||[[Yaleeka Gnaneswara Rao]]||[[2002]]||3||3||0||0||0||100%
+|-
+||19||[[Ambati Rayudu]]||[[2003]]/[[2004|4]]||10||8||2||0||0||80%
+|-
+||20||[[Dinesh Karthik]]*||[[2003]]/[[2004|4]]||1||0||1||0||0||0%
+|-
+||21||[[Manoj Tiwary]]||[[2004]]/[[2005|5]]||5||4||1||0||0||80%
+|-
+||22||[[Ravikant Shukla]]||[[2005]]/[[2006|06]]||12||11||1||0||0||91%
+|-
+||23||[[Tanmay Srivastava]]||[[2006]]||3||3||0||0||0||100%
+|-
+||24||[[Piyush Chawla]]*||[[2006]]/[[2007|07]]||7||6||1||0||0||86% 
+|- bgcolor=#DDEEFF
+| colspan=3 align='center' | '''Total'''||'''108'''||'''78'''||'''30'''||'''0'''||'''0'''||'''72%'''
+|}
+
+==Women's cricket==
+===Test match captains===
+
+This is a list of cricketers who have [[captain (cricket)|captained]] the [[Indian women's cricket team]] for at least one [[women's Test match]].
+
+<small>The table of results is complete as of the end of the 2006/07 season.</small>
+{| class="wikitable" width="90%"
+! bgcolor="#efefef" colspan=9 | Indian women's Test match captains
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=5 | 1
+| rowspan=5 | [[Shantha Rangaswamy]]
+| [[1976]]/[[1977|7]] || [[West Indian women's cricket team|West Indies]] || India || 6 || 1 || 1 || 4
+|-
+|| [[1976]]/[[1977|7]] || [[New Zealand women's cricket team|New Zealand]] || New Zealand || 1 || 0 || 0 || 1
+|-
+|| [[1976]]/[[1977|7]] || [[Australian women's cricket team|Australia]] || Australia || 1 || 0 || 1 || 0
+|-
+|| [[1983]]/[[1984|4]] || [[Australian women's cricket team|Australia]] || India || 4 || 0 || 0 || 4
+|-
+| colspan=3 | '''Total''' || '''12''' || '''1''' || '''2''' || '''9'''
+|-
+|| 2 || [[Nilima Jogalekar]] || [[1984]]/[[1985]]&dagger; || [[New Zealand women's cricket team|New Zealand]] || India || 1 || 0 || 0 || 1
+|-
+| rowspan=3 | 3
+| rowspan=3 | [[Diana Edulji]]
+| [[1984]]/[[1985|5]] || [[New Zealand women's cricket team|New Zealand]] || India || 2 || 0 || 0 || 2
+|-
+|| [[1986]] || [[English women's cricket team|England]] || England || 2 || 0 || 0 || 2
+|-
+| colspan=3 | '''Total''' || '''4''' || '''0''' || '''0''' || '''4'''
+|-
+| rowspan=3 | 4
+| rowspan=3 | [[Shubhangi Kulkarni]]
+| [[1986]]&dagger; || [[English women's cricket team|England]] || England || 1 || 0 || 0 || 1
+|-
+|| [[1990]]/[[1991|1]] || [[Australian women's cricket team|Australia]] || Australia || 2 || 0 || 1 || 1
+|-
+| colspan=3 | '''Total''' || '''3''' || '''0''' || '''1''' || '''2'''
+|-
+|| 5 || [[Sandhya Agarwal]] || [[1990]]/[[1991|1]]&dagger; || [[Australian women's cricket team|Australia]] || Australia || '''1''' || '''0''' || '''1''' || '''0'''
+|-
+| rowspan=3 | 6
+| rowspan=3 | [[Purnima Rau]]
+| [[1994]]/[[1995|5]] || [[New Zealand women's cricket team|New Zealand]] || New Zealand || 1 || 0 || 0 || 1
+|-
+|| [[1995]]/[[1996|6]] || [[English women's cricket team|England]] || India || 2 || 0 || 1 || 1
+|-
+| colspan=3 | '''Total''' || '''3''' || '''0''' || '''1''' || '''2'''
+|-
+|| 7 || [[Pramila Bhatt]] || [[1995]]/[[1996|6]]&dagger; || [[English women's cricket team|England]] || India || '''1''' || '''0''' || '''0''' || '''1'''
+|-
+|| 8 || [[Chanderkanta Kaul]] || [[1999]] || [[English women's cricket team|England]] || England || '''1''' || '''0''' || '''0''' || '''1'''
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Opposition!!Location!!Played!!Won!!Lost!!Drawn
+|-
+| rowspan=4 | 9
+| rowspan=4 | [[Anjum Chopra]]
+| [[2001]]/[[2002|2]] || [[English women's cricket team|England]] || India || 1 || 0 || 0 || 1
+|-
+|| [[2001]]/[[2002|2]] || [[South African women's cricket team|South Africa]] || South Africa || 1 || 1 || 0 || 0
+|-
+|| [[2002]] || [[English women's cricket team|England]] || England || 1 || 0 || 0 || 1
+|-
+| colspan=3 | '''Total''' || '''3''' || '''1''' || '''0''' || '''2'''
+|-
+|| 10 || [[Mamatha Maben]] || [[2003]]/[[2004|4]] || [[New Zealand women's cricket team|New Zealand]] || India || '''1''' || '''0''' || '''0''' || '''1'''
+|-
+| rowspan=4 | 11
+| rowspan=4 | [[Mithali Raj]]
+| [[2005]]/[[2006|6]] || [[English women's cricket team|England]] || India || 1 || 0 || 0 || 1
+|-
+|| [[2005]]/[[2006|6]] || [[Australian women's cricket team|Australia]] || Australia|| 1 || 0 || 1 || 0
+|-
+|| [[2006]] || [[English women's cricket team|England]] || England || 2|| 1 || 0 || 1
+|-
+| colspan=3 | '''Total''' || '''4''' || '''1''' || '''1''' || '''2'''
+|- bgcolor=#DDEEFF
+| colspan=5 align='center' | '''Total''' || '''34''' || '''3''' || '''6''' || '''25'''
+|}
+
+===Women's One-Day International captains===
+This is a list of cricketers who have [[captain (cricket)|captained]] the [[Indian women's cricket team]] for at least one [[women's one-day international]]. The World Cup Final appearance against [[Australian women's cricket team|Australia]] in [[2004]]/[[2005|5]] represents India's best performance in a Women's World Cup. 
+
+<small>The table of results is complete as of the end of the 2006/07 season.</small>
+{| class="wikitable" width="90%" 
+! bgcolor="#efefef" colspan=9 | Indian women's ODI captains
+|- bgcolor="#efefef"
+!Number!!Name!!Year!!Played!!Won!!Lost!!Tied!!No result!!Win %<ref name='winpercent'/>
+|-
+||1||[[Diana Edulji]]||[[1977]]/[[1978|8]], [[1984]]/[[1985|5]] - [[1993]]||18||7||11||0||0<ref>Match against Australia Women's team during [[1990]]/[[1991|1]] season in [[Manuka Oval]] ([[Canberra]]) was abandoned.(Source: {{cite web|url=http://cricketarchive.com/Archive/Scorecards/53/53914.html|title=Australia Women v India Women - India Women in Australia 1990/91(Only ODI)|publisher=Cricketarchive.com|accessdate=2007-05-25}}) However the match is not recorded in the game books.</ref>||39%
+|-
+||2||[[Shantha Rangaswamy]]||[[1981]]/[[1982|2]]-[[1983]]/[[1984|4]]||16||4||12||0||0||25%
+|-
+||3||[[Shubhangi Kulkarni]]||[[1986]]||1||0||1||0||0||0%
+|-
+||4||[[Purnima Rau]]||[[1994]]/[[1995|5]]-[[1995]]/[[1996|6]]||8||5||3||0||0<ref>Match against Australia Women's team during [[1994]]/[[1995|5]] season in Smallbone Park (Rotorua) abandoned. (Source: {{cite web|url=http://cricketarchive.com/Archive/Scorecards/60/60197.html|title=Australia Women v India Women - New Zealand Women's Centenary Tournament 1994/95|publisher=Cricketarchive.com|accessdate=2007-05-25}}) However the match is not recorded in the game books.</</ref>||63%
+|-
+||5||[[Pramila Bhatt]]||[[1995]]/[[1996|6]]-[[1997]]/[[1998|8]]||7||5||1||1<ref>The match between Indian women's team and New Zealand women's team in the 1997/98 Hero Honda Women's Cricket World Cup at [[Nehru Stadium, Indore]] ended in a tie when India were dismissed for 176. This is the only tied ODI game in Indian Women's cricket. (Source:{{cite web|url=http://www.cricinfo.com/db/ARCHIVE/WORLD_CUPS/WWC97/IND-WOMEN_NZ-WOMEN_WWC97_WODI21_17DEC1997.html|title=India Women v New Zealand Women, Group B - Hero Honda Women's World Cup, 1997/98, 21st Match|publisher=[[Cricinfo]]|accessdate=2007-05-25}}</ref>||0<ref>Match against Sri Lankan Women's team during 1997/98 Hero Honda Women's World Cup in [[Feroz Shah Kotla]]([[New Delhi]]) abandoned.{{cite web|url=http://cricketarchive.com/Archive/Scorecards/64/64971.html|title=India Women v Sri Lanka Women - Hero Honda Women's World Cup 1997/98 (Group B) |publisher=Cricketarchive.com|accessdate=2007-05-25}} However the match is not recorded in the game books.</ref>||79%
+|-
+||6||[[Chanderkanta Kaul]]||[[1999]]||4||3||1||0||0||75%
+|-
+||7||[[Anju Jain]]||[[2000]]/[[2001|1]]||8||5||3||0||0||63%
+|-
+||8||[[Anjum Chopra]]||[[2001]]/[[2002|2]]<ref>New Zealand Women's tour of India was cancelled. The tour was scheduled to have 5 ODI matches</ref>-[[2002]]/[[2003|3]]||22||9||0||12||1<ref>Two of India's matches in the 2002 Women's Tri-Series involving England Women's team and Ireland Women's team were abandoned. The game at [[Riverside Ground]] ([[Chester-le-Street]]) is reflected in the rule books while another game at Fox Lodge Cricket Club (Strabane) is not reflected in the official records.</ref>||43%
+|-
+||9||[[Mamatha Maben]]||[[2003]]/[[2004|4]]-[[2004]]/[[2005|5]]||19||14||5||0||0||74%
+|-
+||10||[[Mithali Raj]]||[[2003]]/[[2004|4]]-[[2006]]/[[2007|7]]||48||28||18||0||2||61%
+|- bgcolor=#DDEEFF
+| colspan=3 align='center' | '''Total'''||'''151'''||'''80'''||'''67'''||'''1'''||'''3'''||'''54%'''
+|}
+
+====Records and highlights====
+* Raj has led India in the most number of ODI matches (48) followed by Anjum Chopra (22). Raj is listed at #3 on most matches as captain among all nations after [[Belinda Clark]] (101) and [[Clare Connor]] (66).<ref>{{cite web|url=http://content-ind.cricinfo.com/women/engine/records/individual/most_matches_as_captain.html?id=9;type=class|title=Most matches as captain - Women's ODIs|publisher=[[Cricinfo]]|accessdate=2007-05-26}}</ref>
+
+* Raj is the only Indian woman to have scored a century while captaining the team. Her score of 108*<ref>{{cite web|url=http://www.cricinfo.com/db/ARCHIVE/2005-06/OTHERS/WOMEN-ASIA/SCORECARDS/IND-WOMEN_SL-WOMEN_WOMEN-ASIA_WODI-FINAL_04JAN2006.html|title=India Women v Sri Lanka Women - Women's Asia Cup, 2005-06, Final|publisher=[[Cricinfo]]|accessdate=2007-05-26}}</ref> against [[Sri Lankan women's cricket team|Sri Lanka]] at [[National Stadium, Karachi]] is also the third highest score by an Indian batswoman in ODI cricket.
+
+* Maben's 6/10 is the fifth best bowling figure in Women's ODI cricket<ref>{{cite web|url=http://content-ind.cricinfo.com/women/engine/records/bowling/best_figures_innings.html?id=9;type=class|title=Best bowling figures in an innings - Women's ODIs|publisher=[[Cricinfo]]|accessdate=2007-05-26}}</ref> and the feat was achieved in the match where she was the captain of the Indian women's team. Incidentally, Maben's bowling figures are the current world record in women's cricket for the best bowling figures of a captain.
+
+==References==
+{{reflist|2}}
+
+==External links==
+*[http://www.cricketarchive.com CricketArchive]
+*[http://www.cricinfo.com Cricinfo]
+*''[[Wisden Cricketers' Almanack]]''
+
+{{cr start}}
+{{National cricket captains}}
+{{cr end}}
+
+{{featured list}}
+
+[[Category:Indian cricketers|*]]
+[[Category:Cricket captains]]
+[[Category:India in international cricket|National]]
+[[Category:Lists of Indian people|Cricket captains]]

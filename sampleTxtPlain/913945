@@ -1,0 +1,163 @@
+In optics and photography, hyperfocal distance is a distance beyond which all objects can be brought into an &quot;acceptable&quot; focus. There are two commonly used definitions of ''hyperfocal distance'', leading to values that differ only slightly:
+
+The first definition: the hyperfocal distance is the closest distance at which a lens can be focused while keeping objects at infinity acceptably sharp; that is, the focus distance with the maximum depth of field. When the lens is focused at this distance, all objects at distances from half of the hyperfocal distance out to infinity will be acceptably sharp.
+
+The second definition: the hyperfocal distance is the distance beyond which all objects are acceptably sharp, for a lens focused at infinity.
+
+The distinction between the two meanings is rarely made, since they are interchangeable and have almost identical values.The value computed according to the first definition exceeds that from the second by just one focal length.
+
+Acceptable sharpness
+
+The hyperfocal distance is entirely dependent upon what level of sharpness is considered to be acceptable. The criterion for the desired acceptable sharpness is specified through the circle of confusion (COC) diameter limit. This criterion is the largest acceptable spot size diameter that an infinitesimal point is allowed to spread out to on the imaging medium (film, digital sensor, etc.).
+
+Formulae
+
+For the first definition,
+
+:;H = \frac{f^2}{N c} + f;
+
+where 
+
+:;H; is hyperfocal distance
+
+:;f; is focal length
+
+:;N; is f-number (;f/D; for aperture diameter ;D;)
+
+:;c; is the circle of confusion limit
+
+For any practical f-number, the focal length is insignificant in comparison
+with the first term, so that
+
+:;H \approx \frac{f^2}{N c};
+
+This formula is exact for the second definition, if ;H; is measured from a thin lens, or from the front principal plane of a complex lens; it is also exact for the first definition if ;H; is measured from a point that is one focal length in front of the front principal plane.For practical purposes, there is little difference between the first and second definitions.
+
+Example
+
+As an example, let's compute the hyperfocal distance for a 50 mm lens at ;f/16; using a circle of confusion of 0.03&amp;nbsp;mm (which is a value typically used in 35&amp;nbsp;mm photography):
+
+:;H = \frac{(50 \mbox{ mm})^2}{(16)(0.03 \mbox{ mm})} = 5208 \mbox{ mm} \,;
+
+If we focus the lens at a distance of 5.2&amp;nbsp;m, then everything from half that distance (2.6&amp;nbsp;m) to infinity will be acceptably sharp in our photograph.With the more exact formula for the first definition, the result ;H = 5258 \mbox{ mm}; is not much different.
+
+Mathematical phenomenon
+The hyperfocal distance is a curious property: While a lens focused at H will hold a depth of field from H/2 to infinity, if the lens is focused to H/2, the depth of field will extend from H/3 to H; if the lens is then focused to H/3, the depth of field will extend from H/4 to H/2.This continues on through all successive 1/x values of the hyperfocal distance.
+
+Piper 1901 calls this phenomenon &quot;consecutive depths of field&quot; and shows how to easily test the idea.This is also among the earliest of publications to use the word ''hyperfocal''.
+
+History
+The earlier known use of the term ''hyperfocal distance'', Derr 1906, is by no means the earliest explanation of the concept.
+The concepts of the two definitions of hyperfocal distance have a long history, tied up with the terminology for depth of field, depth of focus, circle of confusion, etc.Here are some selected early quotations and interpretations on the topic.
+
+=Sutton and Dawson 1867=
+
+Thomas Sutton and George Dawson;Thomas Sutton and George Dawson, ''A Dictionary of Photography'', London: Sampson Low, Son &amp; Marston, 1867; define ''focal range'' for what we now call ''hyperfocal distance'':
+
+: “Focal Range.In every lens there is, corresponding to a given apertal ratio (that is, the ratio of the diameter of the stop to the focal length), a certain distance of a near object from it, between which and infinity all objects are in equally good focus. For instance, in a single view lens of 6 inch focus, with a 1/4 in. stop (apertal ratio one-twenty-fourth), all objects situated at distances lying between 20 feet from the lens and an infinite distance from it (a fixed star, for instance) are in equally good focus. Twenty feet is therefore called the “focal range” of the lens when this stop is used. The focal range is consequently the distance of the nearest object, which will be in good focus when the ground glass is adjusted for an extremely distant object. In the same lens, the focal range will depend upon the size of the diaphragm used, while in different lenses having the same apertal ratio the focal ranges will be greater as the focal length of the lens is increased.&quot;
+: “The terms 'apertal ratio' and 'focal range' have not come into general use, but it is very desirable that they should, in order to prevent ambiguity and circumlocution when treating of the properties of photographic lenses. 'Focal range' is a good term, because it expresses the range within which it is necessary to adjust the focus of the lens to objects at different distances from it -- in other words, the range within which focusing becomes necessary.”
+
+Their focal range is about 1000 times their aperture diameter, so it makes sense as a hyperfocal distance with COC value of f/1000, or image format diagonal times 1/1000 assuming the lens is a “normal” lens.What is not clear, however, is whether the focal range they cite was computed, or empirical.
+
+=Abney 1881=
+
+Sir William de Wivelesley Abney;W. de W. Abney, ''A Treatise on Photography,'' first edition, London: Longmans, Green, and Co., 1881; says:
+
+: &quot;The annexed formula will approximately give the nearest point ''p'' which will appear in focus when the distance is accurately focussed, supposing the admissible disc of confusion to be 0.025 cm:-
+:: ;p = 0.41 \cdot f^2 \cdot a;
+: when ;f = ; the focal length of the lens in cm
+:: ;a = ; the ratio of the aperture to the focal length&quot;
+
+That is, ''a'' is the reciprocal of what we now call the ''f''-number, and the answer is evidently in meters.His 0.41 should obviously be 0.40.Based on his formulae, and on the notion that the ''aperture ratio'' should be kept fixed in comparisons across formats, Abney says:
+
+: &quot;It can be shown that an enlargement from a small negative is better than a picture of the same size taken direct as regards sharpness of detail. ... Care must be taken to distinguish between the advantages to be gained in enlargement by the use of a smaller lens, with the disadvantages that ensue from the deterioration in the relative values of light and shade.&quot;
+
+=Taylor 1892=
+
+J. Traill Taylor;J. Traill Taylor,''The Optics of Photography and Photographic Lenses'', London: Whittaker &amp; Co., 1892; recalls this word formula for a sort of hyperfocal distance:
+
+: “We have seen it laid down as an approximative rule by some writers on optics (Thomas Sutton, if we remember aright), that if the diameter of the stop be a fortieth part of the focus of the lens, the depth of focus will range between infinity and a distance equal to four times as many feet as there are inches in the focus of the lens.” 
+
+This formula implies a stricter COC criterion than we typically use today.
+
+=Hodges 1895=
+
+John Hodges;John Hodges, ''Photographic Lenses: How to Choose, and How to Use'', Bradford: Percy Lund &amp; Co., 1895; discusses depth of field without formulas but with some of these relationships:
+
+: &quot;There is a point, however, beyond which everything will be in pictorially good definition, but the longer the focus of the lens used, the further will the point beyond which everything is in sharp focus be removed from the camera.Mathematically speaking, the amount of depth possessed by a lens varies inversely as the square of its focus.&quot;
+
+This &quot;mathematically&quot; observed relationship implies that he had a formula at hand, and a parameterization with the f-number or “intensity ratio” in it.To get an inverse-square relation to focal length, you have to assume that the COC limit is fixed and the aperture diameter scales with the focal length, giving a constant f-number. 
+
+=Piper 1901=
+
+C. Welborne Piper;C. Welborne Piper, ''A First Book of the Lens: An Elementary Treatise on the Action and Use of the Photographic Lens'', London: Hazell, Watson, and Viney, Ltd., 1901; may be the first to have published a clear distinction between ''Depth of Field'' in the modern sense and ''Depth of Definition'' in the focal plane, and implies that ''Depth of Focus'' and ''Depth of Distance'' are sometimes used for the former (in modern usage, ''Depth of Focus'' is usually reserved for the latter).He uses the term ''Depth Constant'' for ''H'', and measures it from the front principal focus (i. e., he counts one focal length less than the distance from the lens to get the simpler formula), and even introduces the modern term:
+
+: &quot;This is the maximum depth of field possible, and ''H'' + ''f'' may be styled the distance of maximum depth of field.If we measure this distance extra-focally it is equal to ''H'', and is sometimes called the hyperfocal distance.The depth constant and the hyperfocal distance are quite distinct, though of the same value.&quot;
+
+It is unclear what distinction he means.Adjacent to Table I in his appendix, he further notes:
+
+: &quot;If we focus on infinity, the constant is the focal distance of the nearest object in focus.If we focus on an extra-focal distance equal to the constant, we obtain a maximum depth of field from approximately half the constant distance up to infinity.The constant is then the hyper-focal distance.&quot;
+
+At this point we do not have evidence of the term ''hyperfocal'' before Piper, nor the hyphenated ''hyper-focal'' which he also used, but he obviously did not claim to coin this descriptor himself.
+
+=Derr 1906=
+
+Louis Derr;Louis Derr, ''Photography for students of physics and chemistry,'' London:Macmillan Co., 1906; may be the first to clearly specify the first definition, which is considered to be the strictly correct one in modern times, and to derive the formula corresponding to it.Using ;p; for hyperfocal distance, ;D; for aperture diameter, ;d; for the diameter that a circle of confusion shall not exceed, and ;f; for focal length, he derives [http://books.google.com/books?id=AN6d4zTjquwC&amp;pg=PA78]:
+
+:;p = \frac{(D + d) f}{d};
+
+=Johnson 1909=
+
+George Lindsay Johnson;George Lindsay Johnson, ''Photographic Optics and Colour Photography'', London: Ward &amp; Co., 1909; uses the term ''Depth of Field'' for what Abney called ''Depth of Focus,'' and ''Depth of Focus'' in the modern sense (possibly for the first time), as the allowable distance error in the focal plane.His definitions include hyperfocal distance:
+
+: &quot;Depth of Focus is a convenient, but not strictly accurate term, used to describe the amount of racking movement (forwards or backwards) which can be given to the screen without the image becoming sensibly blurred, i.e. without any blurring in the image exceeding 1/100 in., or in the case of negatives to be enlarged or scientific work, the 1/10 or 1/100 mm.Then the breadth of a point of light, which, of course, causes blurring on both sides, i.e. 1/50 in = 2''e'' (or 1/100 in = ''e'').&quot;
+
+His drawing makes it clear that his ''e'' is the radius of the circle of confusion.He has clearly anticipated the need to tie it to format size or enlargement, but has not given a general scheme for choosing it.
+
+: &quot;Depth of Field is precisely the same as depth of focus, only in the former case the depth is measured by the movement of the plate, the object being fixed, while in the latter case the depth is measured by the distance through which the object can be moved without the circle of confusion exceeding 2''e''.
+: &quot;Thus if a lens which is focused for infinity still gives a sharp image for an object at 6 yards, its depth of field is from infinity to 6 yards, every object beyond 6 yards being in focus.
+: &quot;This distance (6 yards) is termed the hyperfocal distance of the lens, and any allowable confusion disc depends on the focal length of the lens and on the stop used.
+: &quot;If the limit of confusion of half the disc (i.e. ''e'') be taken as 1/100 in., then the hyperfocal distance
+:: ;H = F d/e;,
+: ''d'' being the diameter of the stop, ...&quot;
+
+Johnson's use of ''former'' and ''latter'' seem to be swapped; perhaps ''former'' was here meant to refer to the immediately preceding section title ''Depth of Focus'', and ''latter'' to the current section title ''Depth of Field''.Except for an obvious factor-of-2 error in using the ratio of stop diameter to COC radius, this definition is the same as Abney's hyperfocal distance.
+
+=Others, early twentieth century=
+
+The term ''hyperfocal distance'' also appears in Cassell's ''Cyclopaedia'' of 1911, ''The Sinclair Handbook of Photography'' of 1913, and Bayley's ''The Complete Photographer'' of 1914.
+
+=Kingslake 1951=
+
+Rudolf Kingslake;Rudolf Kingslake, ''Lenses in Photography: The Practical Guide to Optics for Photographers'', Garden City NY: Garden City Press, 1951; is explicit about the two meanings:
+
+: &quot;''The Hyperfocal Distance'' -- It should be noted that if the camera is focused on a distance ''s'' equal to 1000 times the diameter of the lens aperture, then the far depth ;D_1; becomes infinite.This critical object distance &quot;''h''&quot; is known as the ''Hyperfocal Distance''.For a camera focused on this distance, ;D_1 = \infty; and ;D_2 = h/2;, and we see that the range of distances acceptably in focus will run from just half the hyperfocal distance to infinity.The hyperfocal distance is, therefore, the most desirable distance on which to pre-set the focus of a fixed-focus camera.It is worth noting, too, that if a camera is focused on ;s = \infty;, the closest acceptable object is at ;L_2 = sh/(h+s) = h/(h/s+1) = h; (by equation 21).This is a second important meaning of the hyperfocal distance.&quot;
+
+Kingslake uses the simplest formulae for DOF near and far distances, which has the effect of making the two different definitions of hyperfocal distance give identical values.
+
+See also
+
+*Circle of confusion
+*Deep focus
+*Depth of field
+
+References
+;
+
+External links
+*http://www.dofmaster.com/dofjs.html to calculate hyperfocal distance and depth of field
+*[http://www.cambridgeincolour.com/tutorials/hyperfocal-distance.htm Understanding Hyperfocal Distance and Charts]: real-world use for photographers, including its shortcomings and a hyperfocal chart calculator
+
+Category:Optics
+Category:Length
+Category:Science of photography
+
+;
+
+de:Hyperfokale Entfernung
+fr:Hyperfocale
+id:Jarak hiperfokus
+it:Distanza iperfocale
+nl:Hyperfocale afstand
+pl:Odległość hiperfokalna
+zh:超焦距

@@ -1,0 +1,301 @@
+{{pp-semi-vandalism|expiry=20:04, 13 January 2008|small=yes}}
+{{redirect|The Periodic Table|the book by [[Primo Levi]]|The Periodic Table (book)}}
+{{for2|a diagram of the periodic table|'''standard periodic table''' [[#Standard periodic table| below]]}}
+
+The '''periodic table of the chemical elements''' is a [[table (information)|tabular]] method of displaying the [[chemical element]]s. Although precursors to this table exist, its invention is generally credited to [[Russia]]n [[chemist]] [[Dmitri Mendeleev]] in 1869. Mendeleev intended the table to illustrate recurring ("periodic") trends in the properties of the elements. The layout of the table has been refined and extended over time, as new elements have been discovered, and new theoretical models have been developed to explain chemical behavior.<ref>[http://www.iupac.org/didac/Didac%20Eng/Didac01/Content/S01.htm IUPAC article on periodic table]</ref>  
+
+The periodic table is now ubiquitous within the academic discipline of [[chemistry]], providing an extremely useful framework to classify, systematize and compare all the many different forms of [[chemical]] behavior. The table has also found wide application in [[physics]], [[biology]], [[engineering]], and [[industry]]. The current standard table contains 117 confirmed elements as of [[October 16]], [[2006]] (while [[Ununoctium|element 118]] has been synthesized, [[ununseptium|element 117]] has not).
+
+==Methods for displaying the periodic table==
+===Standard periodic table===
+           <!--Code included from the [[Periodic table (standard)]] article:-->
+           {{:periodic table (standard)|width:100%|height:100%}}
+
+===Alternative versions (''Layout/view of the table'')===
+*The [[Periodic table (standard)|standard table]] (same as above) provides the basics.
+*A [[Periodic table (alternate)|vertical table]] scrolls down for narrow pages.
+*The [[Periodic table (big)|big table]] provides the basics and full element names.
+*The [[Periodic table (large version)|huge table]] provides the above and [[atomic mass]]es.
+*The [[Periodic table (detailed)|detailed table]] provides a smaller version of the huge table.
+*The [[Electronegativity|Electronegativity table]] provides electronegativities.
+*The [[Periodic table (wide)|wide table]] sets inline the f-block of [[lanthanide]]s and [[actinide]]s.
+*[[Periodic table (electron configurations)|Electron configurations]]
+*[[Periodic table (metals and non-metals)|Metals and non-metals]]
+*[[Periodic table (block)|The blocks]] are shaded instead of series.
+*[[Periodic table (valence)#Valences of the elements|The valences]] are shaded instead of series.
+
+Other [[alternative periodic tables]] exist.
+
+==Arrangement==
+
+The layout of the periodic table demonstrates recurring ("periodic") chemical properties. Elements are listed in order of increasing [[atomic number]] (i.e. the number of [[proton]]s in the [[atomic nucleus]]). Rows are arranged so that elements with similar properties fall into the same vertical columns ('''"groups"'''). According to [[quantum mechanics|quantum mechanical]] theories of [[electron]] configuration within atoms, each horizontal row ('''"period"''') in the table corresponded to the filling of a quantum shell of electrons. There are progressively longer periods further down the table, grouping the elements into '''s-''', '''p-''', '''d-''' and '''f-blocks''' to reflect their electron configuration.
+
+In printed tables, each element is usually listed with its [[element symbol]] and [[atomic number]]; many versions of the table also list the element's [[atomic mass]] and other information, such as its abbreviated [[electron configuration]], [[electronegativity]] and most common [[valence number]]s. 
+
+[[As of 2006]], the table contains 117 chemical elements whose discoveries have been confirmed. Ninety-two are found naturally on Earth, and the rest are [[synthetic elements]] that have been produced artificially in [[particle accelerators]]. Elements 43 (technetium) and 61 (promethium), although of lower atomic number than the naturally occurring element 92, uranium, are synthetic; elements 93 (neptunium) and 94 (plutonium) are listed with the synthetic elements, but have been found in trace amounts on earth.
+
+==Periodicity of chemical properties==
+The main value of the periodic table is the ability to predict the chemical properties of an element based on its location on the table. It should be noted that the properties vary differently when moving vertically along the columns of the table, than when moving horizontally along the rows.
+
+===Groups and periods===
+* A '''[[periodic table group|group]]''' is a vertical column in the periodic table of the elements.
+Groups are considered the most important method of classifying the elements. In some groups, the elements have very similar properties and exhibit a clear trend in properties down the group — these groups tend to be given trivial (unsystematic) names, e.g. the [[alkali metal]]s, [[alkaline earth metals]], [[halogen]]s and [[noble gas]]es. Some other groups in the periodic table display fewer similarities and/or vertical trends (for example Groups 14 and 15), and these have no trivial names and are referred to simply by their group numbers.
+* A '''[[Periodic table period|period]]''' is a horizontal row in the periodic table of the elements.
+Although groups are the most common way of classifying elements, there are some regions of the periodic table where the horizontal trends and similarities in properties are more significant than vertical group trends. This can be true in the [[d-block]] (or "[[transition metal]]s"), and especially for the [[f-block]], where the [[lanthanides]] and [[actinides]] form two substantial horizontal series of elements.
+====Periodic trends of groups====
+Modern [[quantum mechanics|quantum mechanical]] theories of atomic structure explain group trends by proposing that elements within the same group have the same electron configurations in their [[valence shell]], which is the most important factor in accounting for their similar properties.
+Elements in the same group also show patterns in their [[atomic radius]], [[ionization energy]], and [[electronegativity]]. From top to bottom in a group, the atomic radii of the elements increase. Since there are more filled energy levels, electrons are found farther from the nucleus. From the top, each successive element has a lower ionization energy because it is easier to remove an electron since the atoms are less tightly bound. Similarly, a group will also see a top to bottom decrease in electronegativity due to an increasing distance between valence electrons and the nucleus.
+====Periodic trends of periods====
+Elements in the same period show trends in [[atomic radius]], [[ionization energy]], [[electron affinity]], and [[electronegativity]]. Moving left to right across a period, atomic radius usually decreases. This occurs because each successive element has an added proton and electron which causes the electron to be drawn closer to the nucleus. This decrease in atomic radius also causes the ionization energy to increase when moving from left to right across a period. The more tightly bound an element is, the more energy is required to remove an electron. Similarly, electronegativity will increase in the same manner as ionization energy because of the amount of pull that is exerted on the electrons by the nucleus. [[Electron affinity]] also shows a slight trend across a period. Metals (left side of a period) generally have a lower electron affinity than nonmetals (right side of a period) with the exception of the noble gases.
+
+===Examples===
+====Noble gases====
+All the elements of Group 18, the [[noble gases]], have full valence shells. This means they do not need to react with other elements to attain a full shell, and are therefore much less reactive than other groups. [[Helium]] is the most [[inert]] element among noble gases, since reactivity, in this group, increases with the periods: it is possible to make heavy noble gases react since they have much larger electron shells. However, their reactivity remains very low in absolute terms.
+
+====Halogens====
+In Group 17, known as the [[halogen]]s, elements are missing just one electron each to fill their shells. Therefore, in chemical reactions they tend to acquire electrons (the tendency to acquire electrons is called [[electronegativity]]). This property is most evident for [[fluorine]] (the most electronegative element of the whole table), and it diminishes with increasing period.
+
+As a result, all halogens form acids with hydrogen, such as [[hydrofluoric acid]], [[hydrochloric acid]], [[hydrobromic acid]] and [[hydroiodic acid]], all in the form ''HX''. Their [[acidity]] increases with higher period, for example, with regard to iodine and fluorine, since a large I<sup>-</sup> [[ion]] is more stable in solution than a small F<sup>-</sup>, there is less volume in which to disperse the charge.
+
+====Transition metals====	
+For the [[transition metal]]s (Groups 3 to 12), horizontal trends across periods are often important as well as vertical trends down groups; the differences between groups adjacent are usually not dramatic. Transition metal reactions often involve coordinated species.
+
+====Lanthanides and actinides====
+The chemical properties of the [[lanthanide]]s (elements 57-71) and the [[actinide]]s (elements 89-103) are even more similar to each other than the [[transition metal]]s, and separating a mixture of these can be very difficult. This is important in the ''chemical'' purification of [[uranium]] concerning [[nuclear power]].
+
+==Structure of the periodic table==
+The primary determinant of an element's chemical properties is its [[electron configuration]], particularly the [[valence shell]] electrons. For instance, any atoms with four valence electrons occupying p orbitals will exhibit some similarity. The type of orbital in which the atom's outermost electrons reside determines the "block" to which it belongs. The number of [[valence shell]] electrons determines the family, or group, to which the element belongs.
+
+The total number of [[electron shell]]s an atom has determines the period to which it belongs. Each shell is divided into different subshells, which as atomic number increases are filled in roughly this order (the [[Aufbau principle]]):
+
+{| class="wikitable" align=left
+|- style="background:#CCCCCC"
+| Subshell:||S||G||F||D||P
+|-
+| style="background:#DDDDDD"| Period|| || || || ||
+|-
+| style="background:#DDDDDD"| 1||1s || || || ||
+|-
+| style="background:#DDDDDD"| 2 ||2s|| || || ||2p
+|-
+| style="background:#DDDDDD"| 3 ||3s|| || || ||3p
+|-
+| style="background:#DDDDDD"| 4 ||4s|| || ||3d||4p
+|-
+| style="background:#DDDDDD"| 5 ||5s|| || ||4d ||5p
+|-
+| style="background:#DDDDDD"| 6 ||6s|| ||4f||5d||6p
+|-
+| style="background:#DDDDDD"| 7 ||7s|| ||5f||6d||7p
+|-
+| style="background:#DDDDDD"| 8 ||8s||5g||6f||7d||8p
+|}
+
+Hence the structure of the table. Since the outermost electrons determine chemical properties, those with the same number of valence electrons are grouped together.
+
+Progressing through a group from lightest element to heaviest element, the outer-shell electrons (those most readily accessible for participation in chemical reactions) are all in the same type of orbital, with a similar shape, but with increasingly higher energy and average distance from the nucleus. For instance, the outer-shell (or "valence") electrons of the first group, headed by [[hydrogen]], all have one electron in an s orbital. In hydrogen, that s orbital is in the lowest possible energy state of any atom, the first-shell orbital (and represented by hydrogen's position in the first period of the table). In [[francium]], the heaviest element of the group, the outer-shell electron is in the seventh-shell orbital, significantly further out on average from the nucleus than those electrons filling all the shells below it in energy. As another example, both carbon and lead have four electrons in their outer shell orbitals.
+
+[[Image:800px-PTable.png]]
+
+Note that as [[atomic number]] (i.e. charge on the [[atomic nucleus]]) increases, this leads to greater [[spin-orbit coupling]] between the nucleus and the electrons, reducing the validity of the quantum mechanical [[orbital approximation]] model, which considers each atomic orbital as a separate entity.
+
+Because of the importance of the outermost shell, the different regions of the periodic table are sometimes referred to as '''[[periodic table block]]s''', named according to the sub-shell in which the "last" electron resides, e.g. the ''s''-block, the ''p''-block, the ''d''-block, etc.
+
+Regarding the elements Ununbium, ununtrium, ununquadium, etc., they are elements that have been discovered, but so far have not been named.
+
+==History==
+{{main|History of the periodic table}}
+
+In Ancient Greece, the influential Greek philosopher [[Aristotle]] proposed that there were four main elements: air, fire, earth and water. All of these elements could be reacted to create another one; ''e.g.'', earth and fire combined to form lava. However, this theory was dismissed when the real chemical elements started being discovered. Scientists needed an easily accessible, well organized database with which information about the elements could be recorded and accessed. This was to be known as the periodic table.
+
+The original table was created before the discovery of [[subatomic particles]] or the formulation of current [[quantum mechanics|quantum mechanical]] theories of [[atomic structure]].  If one orders the elements by [[atomic mass]], and then plots certain other properties against atomic mass, one sees an undulation or ''periodicity'' to these properties as a function of atomic mass.  The first to recognize these regularities was the German chemist [[Johann Wolfgang Döbereiner]] who, in 1829, noticed a number of ''triads'' of similar elements:
+
+{| class="wikitable" align=right
+|+ '''Some triads'''
+|- valign="top"
+! Element || Molar mass <br> (g/mol) || Density <br> (g/cm³)
+|-
+| chlorine || 35.453 || 0.0032
+|-
+| bromine || 79.904 || 3.1028
+|-
+| iodine || 126.90447 || 4.933
+|-
+| colspan="3" | &nbsp;
+|-
+| calcium || 40.078 || 1.55
+|-
+| strontium || 87.62 || 2.54
+|-
+| barium || 137.327 || 3.594
+|}
+
+In 1829 Döbereiner proposed the Law of Triads: The middle element in the triad had atomic weight that was the average of the other two members. The densities of some triads followed a similar pattern. Soon other scientists found chemical relationships extended beyond triads. Fluorine was added to Cl/Br/I group; sulfur, oxygen, selenium and tellurium were grouped into a family; nitrogen, phosphorus, arsenic, antimony, and bismuth were classified as another group. 
+
+[[Image:Medeleeff by repin.jpg|thumb|300px|Dmitri Mendeleev, father of the periodic table]]
+This was followed by the English chemist [[John Alexander Reina Newlands|John Newlands]], who noticed in 1865 that when placed in order of increasing atomic weight, elements of similar physical and chemical properties recurred at intervals of eight, which he likened to the [[octave|octaves of music]], though his ''law of octaves'' was ridiculed by his contemporaries.<ref>{{cite book
+  | last =Bryson
+  | first =Bill
+  | authorlink =Bill Bryson
+  | title =[[A Short History of Nearly Everything]]
+  | publisher =Black Swan
+  | date =2004
+  | location =London
+  | pages =687
+  | url =
+  | isbn =9780552151740 }} pp141-2</ref>  However, while successful for some elements, Newlands' law of octaves failed for two reasons:
+
+#It was not valid for elements that had atomic masses higher than Ca.
+#When further elements were discovered, such as the noble gases (He, Ne, Ar), they could not be accommodated in his table.
+
+Finally, in 1869 the Russian chemistry professor [[Dmitri Mendeleev|Dmitri Ivanovich Mendeleev]] and four months later the German [[Julius Lothar Meyer]] independently developed the first periodic table, arranging the elements by mass. However, Mendeleev plotted a few elements out of strict mass sequence in order to make a better match to the properties of their neighbors in the table, corrected mistakes in the values of several atomic masses, and predicted the existence and properties of a few new elements in the empty cells of his table. Mendeleev was later vindicated by the discovery of the electronic structure of the elements in the late [[19th century|19th]] and early 20th century.
+
+Earlier attempts to list the elements to show the relationships between them (for example by [[John Alexander Reina Newlands|Newlands]]) had usually involved putting them in order of [[atomic mass]]. Mendeleev's key insight in devising the periodic table was to lay out the elements to illustrate recurring ("periodic") chemical properties (even if this meant some of them were not in mass order), and to leave gaps for "missing" elements. Mendeleev used his table to predict the properties of these "missing elements", and many of them were indeed discovered and fit the predictions well.
+
+With the development of theories of [[atomic structure]] (for instance by [[Henry Moseley]]) it became apparent that Mendeleev had listed the elements '''in order of increasing [[atomic number]]''' (i.e. the net amount of positive charge on the [[atomic nucleus]]). This sequence is nearly identical to that resulting from ascending atomic mass.
+
+In order to illustrate recurring properties, Mendeleev began new rows in his table so that elements with similar properties fell into the same vertical columns ('''"groups"''').
+
+With the development of modern [[quantum mechanics|quantum mechanical]] theories of [[electron]] configuration within atoms, it became apparent that each horizontal row ('''"period"''') in the table corresponded to the filling of a quantum shell of electrons.
+In Mendeleev's original table, each period was the same length. Modern tables have progressively longer periods further down the table, and group the elements into '''s-''', '''p-''', '''d-''' and '''f-blocks''' to reflect our understanding of their electron configuration.
+
+In the 1940s [[Glenn T. Seaborg]] identified the [[transuranium element|transuranic]] lanthanides and the actinides, which may be placed within the table, or below (as shown above).
+
+==See also==
+<div style="-moz-column-count:3; column-count:3;">
+*[[History of the periodic table]]
+*[[Atomic electron configuration table]]
+*[[Isotope table (complete)]]
+*[[Isotope table (divided)]]
+*[[Discoveries of the chemical elements]]
+*[[Abundance of the chemical elements]]
+*[[International Union of Pure and Applied Chemistry|IUPAC's]] [[systematic element name]]s
+*[[Cosmochemical Periodic Table of the Elements in the Solar System]]
+*[[Table of chemical elements]]
+*[[Periodic group]]
+*[[Periodic table (extended)|Extended periodic table]]
+*[[Periodic table (Chinese)|Table in Chinese]]
+*[[Tom Lehrer]]'s song "[[The Elements (song)|The Elements]]"
+*Musicologist [[Peter Schickele]] created a ''Periodic Table of Musics'' with names of composers and performers.
+</div>
+
+==References==
+{{reflist}}
+*{{cite book | author = Theodore L. Brown, H. Eugene LeMay, and Bruce E. Bursten | title = Chemistry:The Central Science | year = 2005 | publisher = Prentice Hall | edition = 10th edition | id = ISBN 0-13-109686-9}}
+*{{cite web | last = Helmenstine | first = Marie | title = Trends in the Periodic Table | publisher = About, Inc. | date = 2007 | url = http://chemistry.about.com/od/periodictableelements/a/periodictrends.htm | accessdate = 2007-01-27}}
+
+==Further reading==
+* Scerri, E.R., references to [http://www.chem.ucla.edu/dept/Faculty/scerri/index.html several scholarly articles] by this author.
+* Mazurs, E.G., "''Graphical Representations of the Periodic System During One Hundred Years''". University of Alabama Press, Alabama. 1974.
+* Bouma, J., "An Application-Oriented Periodic Table of the Elements", ''J. Chem. Ed.'', '''66''', 741 (1989).
+* Eric R. Scerri, ''The Periodic Table: Its Story and Its Significance'', Oxford University Press, 2006.
+
+==External links==
+{{sisterlinks|Periodic table}}
+*''[http://www.webelements.com WebElements]'' comprehensive periodic table
+*''[http://www.iupac.org/reports/periodic_table Official IUPAC periodic table]''
+*''[http://www.chemsoc.org/viselements/pages/periodic_table.html Visual Elements]''. ChemSoc.org.
+*''[http://pearl1.lanl.gov/periodic/default.htm Periodic table]''. Los Alamos National Laboratory's chemistry division.
+*Gray, Theodore, [http://www.theodoregray.com/PeriodicTable/index.html The Wooden Periodic Table Table]: actual table containing samples of each naturally occurring element.
+*''[http://www.segal.org/periodic/ Videos about elements in the periodic table]''
+*''[http://www.johnpratt.com/atomic/periodic.html]'' mnemonic methods for learning the periodic table
+{{PeriodicTablesFooter}}
+{{BranchesofChemistry}}
+
+[[Category:Periodic table|*]]
+[[Category:Classification systems]]
+
+<!-- interwiki -->
+
+[[af:Periodieke tabel]]
+[[als:Periodensystem]]
+[[ar:جدول دوري]]
+[[an:Tabla periodica d'os elementos]]
+[[ast:Tabla periódica]]
+[[az:Dövri cədvəl]]
+[[bn:পর্যায় সারণী]]
+[[be:Перыядычная сістэма элементаў]]
+[[be-x-old:Перыядычная сістэма элементаў]]
+[[bs:Periodni sistem elemenata]]
+[[br:Taolenn beriodek an elfennoù]]
+[[bg:Периодична система на елементите]]
+[[ca:Taula periòdica]]
+[[cs:Periodická tabulka]]
+[[cy:Tabl Cyfnodol]]
+[[da:Periodiske system]]
+[[de:Periodensystem]]
+[[et:Keemiliste elementide perioodilisussüsteem]]
+[[el:Περιοδικός πίνακας των χημικών στοιχείων]]
+[[es:Tabla periódica de los elementos]]
+[[eo:Perioda tabelo]]
+[[eu:Taula periodikoa]]
+[[fa:جدول تناوبی (استاندارد)]]
+[[fo:Skeiðbundna skipanin]]
+[[fr:Tableau périodique des éléments]]
+[[fy:Periodyk systeem fan 'e eleminten]]
+[[fur:Tabele periodiche]]
+[[ga:Tábla peiriadach]]
+[[gl:Táboa periódica dos elementos]]
+[[gu:આવર્ત કોષ્ટક]]
+[[ko:주기율표]]
+[[hy:Պարբերական աղյուսակ]]
+[[hi:आवर्त सारणी]]
+[[hr:Periodni sustav elemenata]]
+[[io:Periodala tabelo dil elementaro]]
+[[bpy:পর্যায় সারণী]]
+[[id:Tabel periodik]]
+[[ia:Tabella periodic del elementos]]
+[[is:Lotukerfið]]
+[[it:Tavola periodica]]
+[[he:הטבלה המחזורית]]
+[[ka:ქიმიურ ელემენტთა პერიოდული სისტემა]]
+[[sw:Mfumo radidia]]
+[[ku:Tabloya periyodîk a elementan]]
+[[la:Systema Periodicum]]
+[[lv:Ķīmisko elementu periodiskā tabula]]
+[[lb:Periodesystem vun den Elementer]]
+[[lt:Periodinė elementų lentelė]]
+[[li:Periodiek systeem vaan elemente]]
+[[ln:Etánda ya bileko]]
+[[lmo:Taula periòdica]]
+[[hu:Periódusos rendszer]]
+[[mk:Периоден систем на елементите]]
+[[ml:ആവര്‍ത്തനപ്പട്ടിക]]
+[[mi:Ripanga pūmotu]]
+[[ms:Jadual berkala]]
+[[mn:Үелэх систем]]
+[[nl:Periodiek systeem]]
+[[ja:周期表]]
+[[no:Periodesystemet]]
+[[nn:Periodesystemet]]
+[[oc:Taula periodica]]
+[[uz:Unsurlarning davriy jadvali]]
+[[pa:ਪੀਰੀਆਡਿਕ ਟੇਬਲ]]
+[[nds:Periodensystem]]
+[[pl:Układ okresowy pierwiastków]]
+[[pt:Tabela periódica]]
+[[ro:Tabelul periodic al elementelor]]
+[[qu:Qallawap ñiqi rakirinkuna]]
+[[ru:Периодическая система элементов]]
+[[simple:Periodic table]]
+[[sk:Periodická tabuľka]]
+[[sl:Periodni sistem elementov]]
+[[sr:Периодни систем елемената]]
+[[sh:Periodni sistem elemenata]]
+[[su:Tabél periodik]]
+[[fi:Jaksollinen järjestelmä]]
+[[sv:Periodiska systemet]]
+[[tl:Talaang peryodiko]]
+[[ta:ஆவர்த்தன அட்டவணை]]
+[[roa-tara:Portale:Chìmeche]]
+[[th:ตารางธาตุ]]
+[[vi:Bảng tuần hoàn]]
+[[tg:Ҷадвали даврии элементҳои химиявӣ]]
+[[tr:Periyodik tablo]]
+[[uk:Періодична система елементів]]
+[[vec:Tabeła periòdica]]
+[[wa:Tåvlea periodike des elemints]]
+[[vls:Periodiek systeim]]
+[[yo:Tábìlì ìgbà]]
+[[zh-yue:元素週期表]]
+[[zh:元素周期表]]

@@ -1,0 +1,119 @@
+{{for|the Amtrak train of the same name|Capitol Limited (Amtrak)}}
+[[Image:Capitol Limited (B&O RR).jpg|thumb|right|260px|The ''Capitol Limited'' about to depart [[Union Station (DC)|Union Station, Washington, D. C.]], for [[Chicago, Illinois]], in 1961.]]
+
+The '''''Capitol Limited''''' was an [[United States|American]] [[passenger train]] run by the [[Baltimore and Ohio Railroad]], originally between [[New York City]] and [[Grand Central Station (Chicago)|Grand Central Station]] in [[Chicago, Illinois]] via [[Union Station (DC)|Union Station, Washington, D. C.]] and [[Pittsburgh (PA)|Pittsburgh]]. For almost 48 years, it was the B&O's [[wikt:flagship#English|flagship]] passenger train, noted for personalized service and innovation. At the time of its discontinuation on [[May 1]], [[1971]], when [[Amtrak]] took over most rail passenger service in the U.S., the Capitol Limited operated between Washington and Chicago.
+
+==History==
+The ''Capitol Limited'' was inaugurated on [[May 12]], [[1923]], as an all-[[Pullman (car or coach)|Pullman sleeping car]] train running from [[Pennsylvania Station (New York City)|Pennsylvania Station]] in New York City to Chicago, via Washington, D. C. It was designed to compete against the luxury trains of the rival [[Pennsylvania Railroad]] and [[New York Central Railroad]].  Although the B&O's longer route put it at a competitive disadvantage in New York for time-sensitive travelers,  the B&O offered such luxuries in the 1920s as onboard secretaries, barbers, manicures, and valets.<ref name=Steg>Harry Stegmaier, ''Baltimore & Ohio Passenger Service, Vol. 2 &ndash; Route of the Capitol Limited''. Lynchburg, Va.: TLC Publishing, 1997.</ref> The ''Capitol's'' "Martha Washington"-series dining cars were particularly noted for their Chesapeake Bay cuisine, served in ornate cars with [[lead glass|leaded glass]] windows, glass chandaliers, and colonial-style furnishings.<ref name=Kratville>William W. Kratville, ''Steam, Steel & Limiteds''. Omaha, Neb.: Barnhart Press, 1962.</ref> The ''Capitol Limited'' derived much of its passenger traffic from businessmen and government officials travelling between Washington and the midwest.<ref name=Steg />.   
+[[Image:OP-2599.jpg|thumb|300px|left|Train No. 5 The ''Capitol Limited'', powered by the new EA and EB diesel locomotives, arrives in Chicago, Illinois, on [[August 11]], [[1939]].]] 
+On [[September 1]], [[1926]], the Pennsylvania Railroad terminated its contract with the B&O, which had permitted the latter to use the "Pennsy's" Hudson River tunnels and Pennsylvania Station in Manhattan.<ref name=Stover>John F. Stover, ''History of the Baltimore and Ohio Railroad''. W. Lafayette, Ind.: Purdue University Press, 1987. (ISBN 0-911198-81-4)</ref> Thereafter, the ''Capitol Limited'' operated from the [[Central Railroad of New Jersey|New Jersey Central]]'s [http://www.njcu.edu/programs/jchistory/Pages/C_Pages/Central_Railroad_of_New_Jersey.html Jersey City Terminal].  Passengers were then transferred to buses that met the train right on the platform.  These buses were ferried across the Hudson River into Manhattan, where they proceeded to various "stations" including the Vanderbilt Hotel, [[Wanamaker's]], [[Columbus Circle]], and [[Rockefeller Center]], as well as Brooklyn.<ref name=Harwood>Herbert H. Harwood, Jr., ''Royal Blue Line''. Sykesville, Md.: Greenberg Publishing, 1990. (ISBN 0-89778-155-4)</ref> 
+
+In 1938, the B&O dieselized the train after purchasing two sets of the new EA and EB locomotives from General Motor's [[Electro-Motive Diesel|Electro Motive Division]].<ref name=Stover />  The B&O was heavily in debt during the [[Great Depression|Depression]] and could not afford to buy new equipment, so it rebuilt its old heavyweight passenger cars into streamlined ones when the diesels were introduced in 1938, making the ''Capitol Limited'' the first dieselized streamlined train in the eastern U.S.<ref name=Steg />By September, 1940, the through sleeping cars operating to New York were all streamlined.<ref name= Harwood />
+
+==Route and equipment==
+
+According to the ''[[Official Guide of the Railways|Official Guide]]'' of February, 1956, the ''Capitol Limited'' departed Jersey City at 12:45 p.m. as train # 5. As an express, all-Pullman train, the ''Capitol Limited'' made limited stops along the 991-mile route to Chicago. The following is a list of all station stops (major cities are highlighted in blue and Jersey City bus/ferry connections are in yellow):
+[[Image:B&O dining car salad.jpg|thumb|right|250px|B&O's famous "All-you-can-eat" salad bowl, served in its dining cars]]
+[[Image:B&O RR dome car.jpg|thumb|right|250px|Dome car on the ''Capitol Limited'']]
+
+{| class="wikitable"
+! City
+! Departure time
+|- style="background-color:#FFF4A7"
+| New York (Rockefeller Center)
+| 11:50 a.m.
+|- style="background-color:#FFF4A7"
+| New York (Grand Central Station)
+| 12 noon
+|- style="background-color:#FFF4A7"
+| Brooklyn, NY
+| 12 noon
+|- style="background-color:#BFE4FF"
+| '''Jersey City, NJ'''
+| 12:45 p.m.
+|- style="background-color:#BFE4FF"
+| Philadelphia, Pa.
+| 2:30 p.m.
+|- style="background-color:#"
+| Chester, Pa.
+| 2:44 p.m.
+|- style="background-color:#BFE4FF"
+| Wilmington, Del.
+| 2:58 p.m.
+|- style="background-color:#BFE4FF"
+| Baltimore, Md. (Mt. Royal Station)
+| 4:12 p.m. 
+|- style="background-color:#BFE4FF"
+| Baltimore, Md. (Camden Station)
+| 4:20 p.m.
+|- style="background-color:#BFE4FF"
+| '''Washington, D.C.'''
+| 5:30 p.m.
+|- style="background-color:#"
+| Martinsburg, W. Va.
+| 6:57 p.m.
+|- style="background-color:#"
+| Cumberland, Md.
+| 8:30 p.m.
+|- style="background-color:#"
+| Connellsville, Pa.
+| 10:44 p.m.
+|- style="background-color:#"
+| McKeesport, Pa.
+| 11:33 p.m.
+|- style="background-color:#BFE4FF"
+| Pittsburgh, Pa.
+| 12:08 a.m.
+|- style="background-color:#"
+| Garrett, Ind.
+| 5:00 a.m. (CT)
+|- style="background-color:#"
+| La Paz, Ind. 
+| 5:56 a.m.
+|- style="background-color:#BFE4FF"
+| Gary, Ind.
+| 6:54 a.m.
+|- style="background-color:#"
+| South Chicago, Ill.
+| 7:15 a.m.
+|- style="background-color:#"
+| Chicago (63rd St.) 
+| 7:32 a.m.
+|- style="background-color:#BFE4FF"
+| '''Chicago (Grand Central Terminal)'''
+| 8:00 a.m.
+|}
+
+Eastbound, the train departed Chicago at 4:30 pm as train # 6.  This scheduled departure was timed so that travelers riding western railroads such as the [[Atchison, Topeka and Santa Fe Railway|Santa Fe]], [[Chicago and North Western Railway]], or the [[Chicago, Burlington and Quincy Railroad|Burlington]] could readily connect for an eastward journey on B&O's deluxe train. During the height of train travel in the 1920s, the ''Capitol Limited'' occasionally ran in multiple sections, although never as frequently or extensively as the competing Pennsylvania Railroad's ''[[Broadway Limited]]'' and [[New York Central Railroad]]'s ''[[20th Century Limited]]''.<ref name=Kratville />
+
+The B&O was the first railroad to introduce [[air conditioning]] on its trains, beginning with the ''[[Columbian (B&O)|Columbian]]'' in 1931, followed by the ''Capitol Limited'' on [[May 22]], [[1932]], well ahead of its competitors.<ref name=Harwood /> This innovation received favorable comment nationwide by the news media.<ref name=Stover />
+[[Image:B&O RR dome car pamphlet.jpg|left|130px]]
+By the early 1950s, the B&O had combined through cars for the ''Capitol Limited'', the ''Columbian'' (# 25), and the ''Ambassador'' (# 19) into one train between New York and Washington. Beyond Washington, the three trains then operated separately, with several additional Washington&ndash;Chicago Pullman sleeping cars added to the ''Capitol Limited'', along with a twin-unit dining car, two dome cars, club car, and a flat-end observation car.
+
+The B&O re-equipped the ''Capitol Limited'' with new, streamlined sleeping cars in 1950 and 1954, including the new duplex-roomette type. The Pullmans were named after rivers and lakes along the train's route, such as "[[Cacapon River|Cacapon]]" and "[[Lake Wawasee|Wawasee]]". Dome cars "Moonlight Dome" and "Starlight Dome", with sleeping compartments on their lower levels, were added on [[January 8]], [[1951]].<ref name=Steg /> A twin-unit dining car seating 64 passengers at a time was obtained from the New York Central in 1957.<ref name=Harwood />
+
+==Decline and final run==
+[[Image:Capitol Ltd menu.png|thumb|right|150px|<center>Dining car breakfast menu, 1964</center>]]
+The ''Capitol Limited'', in common with most name trains in the U.S. by the late 1950s, suffered steadily declining patronage as the traveling public abandoned trains in favor of airplanes and the automobile.  The B&O gave up on competing with the Pennsylvania Railroad into New York, discontinuing all passenger service north of Baltimore on [[April 26]], [[1958]]. Thereafter, the ''Capitol Limited'' operated between Washington and Chicago as a through train, with a few cars originating in Baltimore,  until 1966. Other B&O passenger trains were combined with the ''Capitol Limited'': the ''Ambassador'' to Detroit and the formerly all-coach ''Columbian'' to Chicago.  
+
+To stem the loss of passengers and resulting deficits, the B&O in the early 1960s offered reduced mid-week fares, auto shipment for passengers (similar in concept to the [[Auto Train]]), and onboard movies, to attract more passengers. The train was marginally profitable, when mail and express revenue was included.<ref name=Steg />
+  
+The loss in 1967 of mail and express contracts, which by then accounted for almost 70 percent of total passenger train revenue for the B&O,  severely affected the B&O's passenger service.  The Postal Service's cancellation of its mail contract for the ''Capitol Limited'' and other trains on [[October 28]], [[1967]], was the death knell.<ref name=Harwood />  Many passenger trains were dropped and the consist of the ''Capitol Limited'' was considerably reduced. B&O discontinued all long-distance train service to Baltimore's Camden Station. Between October, 1966, and April, 1971, a connecting [[Budd Rail Diesel Car|RDC]] operated between Baltimore and Washington, D.C., as train # 105.<ref name=Dome>Stephen J. Salamon etal., ''Baltimore and Ohio &ndash; Reflections of the Capitol Dome''. Silver Spring, Md.: Old Line Graphics, 1993. (ISBN 1-879314-08-8)</ref> 
+
+With the advent of [[Amtrak]] on [[May 1]], [[1971]], the ''Capitol Limited'' was discontinued by the B&O, along with all of its other passenger trains (except for local commuter services). For the final run of the old ''Capitol Limited'' on [[April 29]], [[1971]], the B&O ran the entire trainset from Baltimore's Camden Station, including the dome car.<ref name=Dome /> The B&O printed special commemorative tickets and returned its bottled [[Deer Park Spring Water Co.|Deer Park spring water]] and B&O's signature, "all-you-can-eat" giant salad bowls to the final run's dining car, some of the ''Capitol Limited'' 's amenities from more prosperous times. A 31-year veteran dining car waiter on the last run of the ''Capitol Limited'' recalled to a ''Baltimore Sun'' reporter that, "all the vegetables we served were freshly cooked on board &mdash; no frozen or canned food at all."<ref>Michael J. Clark, "Capitol Limited Now Page In Rail History", ''[[The Baltimore Sun]]'', [[May 1]], [[1971]].</ref> 
+
+At its inception, Amtrak did not continue any of the B&O's former passenger train routes, and the ''Capitol Limited'' ended its 48-year run on the B&O. After a lapse of ten years, Amtrak revived Washington&mdash;Chicago service using the same B&O tracks (now CSX Transportation) between Washington and [[Pittsburgh, Pennsylvania]], for the Amtrak  ''[[Capitol Limited (Amtrak)|Capitol Limited]]''.
+[[Image:Capitol Ltd at Thomas Viaduct.jpg|thumb|center|700px|<center>The ''Capitol Limited'' on [[Thomas Viaduct]], [[Relay, Maryland]], in 1963</center>]]
+
+[[Image:B&O_Capitol_Limited_combined.png|thumb|right|250px|<center>''Capitol Limited's'' [[Drumhead (sign)|drumhead]]s</center>]]
+==References==
+{{reflist}}
+
+==Further reading==
+Joe Welsh, ''Baltimore and Ohio's Capitol Limited and National Limited''. Saint Paul, MN: Voyageur Press, MBI, 2007
+
+{{Infobox B&O Named Trains}}
+
+{{DEFAULTSORT: Capitol Limited}}
+[[Category:Baltimore and Ohio Railroad]]
+[[Category:Named passenger trains of the United States]]

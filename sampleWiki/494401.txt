@@ -1,0 +1,296 @@
+{{Infobox City Japan
+|Name = Ikata
+|JapaneseName = 伊方町
+|MapImage = Ehime-ikata-town.svg
+|Region = [[Shikoku]]
+|Prefecture = [[Ehime Prefecture|Ehime]]
+|District = [[Nishiuwa District, Ehime|Nishiuwa]]
+|Area_km2 = 94.37
+|Population = 12,294
+|PopDate = [[October 31]], [[2007]]
+|Density_km2 = 130.27
+|Coords = {{coor dm|33|29|N|132|21|E|region:JP_type:city}}
+|Flower = {{nihongo|''[[commons:Farfugium japonicum|Farfugium japonicum]]''|石蕗|Tsuwabuki}}
+|Tree = {{nihongo|''Quercus phillyraeoides''|姥目樫|Ubamegashi}}
+|Bird =
+|SymbolImage = Ikata town logo.svg
+|SymbolDescription = Ikata's logo, symbolizing the "I" in "Ikata" wrapped around the [[Sadamisaki Peninsula]]
+|Mayor = Kazuhiko Yamashita
+|CityHallPostalCode = 796-0301
+|CityHallAddress = 1993-1 Minatoura, Ikata-chō, Nishiuwa-gun, Ehime-ken
+|CityHallPhone = (0894) 38-0211
+|CityHallLink = [http://www.town.ikata.ehime.jp/english/ Town of Ikata]
+|}}
+
+{{nihongo|'''Ikata'''|伊方町|Ikata-chō}} is a small [[towns of Japan|town]] located in [[Nishiuwa District, Ehime|Nishiuwa District]], [[Ehime Prefecture|Ehime]], [[Japan]].  Following a recent [[Merger and dissolution of municipalities of Japan|merger]] with the neighboring towns of [[Misaki, Ehime|Misaki]] and [[Seto, Ehime|Seto]], the town now spans the mountainous [[Sadamisaki Peninsula]], the narrowest peninsula in Japan and the westernmost point on the island of [[Shikoku]].
+
+This unique geography has greatly influenced Ikata's growth.  On the one hand, it has presented significant challenges to urban development that were not overcome until recently in the town's long history.  On the other, the peninsula is what gives the town its beautiful mountain and ocean scenery which, bolstered by significant investments in infrastructure and tourist facilities, has formed the basis for a burgeoning tourism industry.
+
+In addition to the beauty of its rugged, natural landscape, Ikata has long been known for fishing and [[mikan]] orange farming.  In recent years Ikata has also become a hotspot of modern energy production—the [[Ikata Nuclear Power Plant]] produces much of Shikoku's electricity, and the town's windy mountains are dotted by dozens of windmills.
+
+==History==
+===Prehistory===
+The [[Sadamisaki Peninsula]] area has been inhabited since at least the [[Jōmon Period]] (10,000–300 BC), as evidenced by the discovery of stone tools and [[earthenware]] pots in the Misaki and Kushi neighborhoods.<ref name="choshi">{{ja icon}} {{cite book
+  | editor = Ikatachōshi Editing Committee
+  | language = Japanese
+  | title = {{nihongo|Ikata Town History|伊方町誌|Ikatachōshi}}
+  | publisher = Town of Ikata, printed by Dai-Ichi Hoki Publishing
+  | date = March 31, 1987 }}</ref>
+
+In 1963 a local man discovered a stone ax dating back to the mid-[[Yayoi Period]] (300 BC–250 AD) in his farm plot in the Kawachi neighborhood.  Upon further investigation by the Japan Archaeological Society in 1986, the area was recognized as containing the remains of a {{nihongo|highland settlement|[[:ja:高地性集落|高地性集落]]|kōchisei shūraku}}.  This is a type of settlement usually located several tens of meters above the surrounding area on mountainsides, and is peculiar to the Yayoi period.<ref name="choshi" />
+
+===Classical era===
+After the [[Taika Reform]] of 646, Ikata and the greater surrounding area became known as the Uwa District in 701. The Uwa District covered the entire Nanyo region ([[:Image:Ehime-nanyo.svg|map]]) until it was split in two in 866.  Since districts were defined by population, one can infer that the area was underdeveloped and sparsely populated at the time.<ref name="choshi" />
+
+===Feudal era===
+[[Image:Horikiri Bridge from Shionashi.jpg|left|thumb|200px|The Horikiri Bridge (lit. "trench-cutting bridge"), spans the gorge where Nobutaka attempted to dig a canal through the peninsula]]
+Towards the end of the [[Heian Period]], the [[Yawatahama, Ehime|Yawatahama]] and Ikata area became known as {{nihongo|''Yano''|矢野郷|Yano-gō|later 矢野荘 ''Yano-shō''}}.  As ownership of farmlands became increasingly concentrated in the hands of local ruling families, control of the Yano area was given to Taira no Tadamitsu, a member of the [[Heike clan]].<ref name="choshi" />
+
+Some members of the Heike family secretly settled in the Seto area in 1185 after being defeated in the [[Genpei War]]s.<ref name="gappei">{{ja icon}} [http://www.town.ikata.ehime.jp/gappei/kaisai/pdf/ho_shiryo09.pdf Ikata-Seto-Misaki Merger Conference No. 9 Reference Material], [[September 29]] [[2005]] (PDF).</ref>
+
+Entering the [[Edo Period]] and the [[Tokugawa shogunate]], the Uwa District came under control of the {{nihongo|[[Uwajima Domain]]|宇和島藩|Uwajima-[[han (country subdivision)|han]]}}. From [[1610]] to [[1612]], the first Uwajima feudal lord, [[Tomita Nobutaka]], gathered farmers from the local area to dig a canal through the thinnest part of the [[Sadamisaki Peninsula]], Seto's Mitsukue neighborhood.  The project was soon canceled due to insufficient funds.  By this time, the name {{nihongo|''Ikata''|伊方浦|Ikata-ura}} can be seen in records of taxes paid to the feudal lords.<ref name="choshi" />
+
+The Mitsukue neighborhood prospered as a port town during the feudal period, as it was used as a port of rest for [[daimyo]]s on their way to and from the capital as part of the [[sankin kōtai]] system.  This traffic was likely the source of the demand for Nobutaka's abortive attempt to create a shortcut through the peninsula.<ref name="gappei" />
+
+===Modern era===
+[[Image:Ikata 9 War Heroes monument.jpg|right|thumb|150px|The Nine War Heroes monument in Suka Park]]
+A decade after the [[Meiji Restoration]], in March 1878 the Uwa District was divided into the current [[Kitauwa District, Ehime|Kitauwa]], [[Minamiuwa District, Ehime|Minamiuwa]], [[Higashiuwa District, Ehime|Higashiuwa]], and [[Nishiuwa District, Ehime|Nishiuwa]] districts (North-, South-, East-, and West-Uwa, respectively). Ikata was designated a {{nihongo|[[Villages of Japan|village]]|村|mura}} in 1889, and other neighborhoods along the peninsula soon followed suit.
+
+More recently, Ikata's Seto's Mitsukue Bay was used for [[submarine]] training operations by the Japanese navy leading up to [[World War II]], as the bay's shape is similar to that of [[Pearl Harbor]].<ref>{{ja icon}} [http://www.hotta-grp.co.jp/web/akebono/omoide/2007_03.php Hotta Construction Corp. "Memories of Past Construction Projects" No. 10 (March 2007)].</ref> A monument named {{nihongo|The Nine War Heroes|九軍神|Kyū gunshin}} stands in Suka Park in Mitsukue as a memorial dedicated to the nine young men (ages 21–28) who were stationed in the Mitsukue area for these exercises.  According to the plaque on the monument, the men were quite friendly with the locals, and stories are still told about them in the neighborhood to this day.  The men died on [[December 8]] [[1941]], during one of the initial attacks on Pearl Harbor.
+
+In 1977 the [[Ikata Nuclear Power Plant]] began operation as the first nuclear power plant on the island of Shikoku.
+
+On [[April 1]] [[2005]], Ikata merged with the nearby towns of [[Misaki, Ehime|Misaki]] and [[Seto, Ehime|Seto]] to create the new town of Ikata, which spans the Sadamisaki Peninsula.
+
+===Current events===
+With the installation of many new windmills in 2006 and 2007, there have been significant noise complaints from nearby residents.<ref>"[http://www.asahi.com/english/Herald-asahi/TKY200705150056.html Around Japan / Ikata, Ehime Prefecture: Noisy wind turbines stir up protests]", ''Asahi Shimbun,'' [[May 15]] [[2007]].</ref>
+
+===Timeline===
+*[[March]] [[1878]] — Meiji reforms create the [[Nishiuwa District, Ehime|Nishiuwa District]]
+*[[1889]] — Ikata is designated a village.
+*[[March 31]] [[1955]] — The villages of Ikata and Machimi merge, forming the old town of Ikata
+*[[September 30]] [[1977]] — Reactor No. 1 of the [[Ikata Nuclear Power Plant]] begins operation
+*[[April 1]] [[2005]] — [[Misaki, Ehime|Misaki]], [[Seto, Ehime|Seto]], and the former town of Ikata merge to form the new town of Ikata
+
+==Geography and climate==
+[[Image:伊方町全図.svg|right|thumb|250px|A map of Ikata's neighborhoods]]
+Ikata is on the [[Sadamisaki peninsula]], Japan's narrowest peninsula and the westernmost point on the island of [[Shikoku]].  The peninsula is extremely mountainous, with steep cliffs and precious little usable flat land.  To combat this, the town's bays and ponds have seen vigorous coastal reclamation efforts dating back to the early [[Meiji period]] (late 1800s).<ref name="choshi" />  Ikata's mountainsides are covered with [[Terrace (agriculture)|terraced]] mikan fields, and natural forest in the undeveloped areas.
+
+The various neighborhoods of Ikata are found nestled among the foothills of the mountains, connected only by winding coastal roads and a single highway, [[Route 197 (Japan)|Route 197]].  The biggest of the neighborhoods and the administrative center of Ikata is Minatoura, near the eastern edge of the town.
+
+Ikata is surrounded on three sides by ocean—the Iyo Sea (part of the [[Inland Sea]]) to the north, the Uwa Sea ([[Pacific Ocean]]) to the south, and the [[Hōyo Strait]] (separating [[Shikoku]] from [[Kyūshū]]) to the west.
+
+The climate in Ikata is warm, with an average year-round temperature of 16–17 °C (61–63 °F) and 1,500ml of yearly rain. The coldest parts of winter remain above freezing (5 °C or 41 °F on average), with snowfall seen only once or twice per year. Rain is concentrated in the [[East Asian rainy season|rainy season]] in June and July, and also in September.<ref>{{ja icon}} [http://www.town.ikata.ehime.jp/life/life_detail.html?lif_id=555 Town of Ikata: Moving to Ikata].</ref>
+
+The length of the peninsula makes accurate weather prediction difficult for the town; when driving down Melody Line, it is not uncommon to find it sunny between one set of tunnels, rainy between another, and foggy between yet another. Ikata's position, stretching out into the ocean, also makes it a frequent target for [[typhoon]]s.
+
+===Nearby cities and towns===
+*[[Yawatahama, Ehime|Yawatahama]] to the East
+*[[Ōita, Ōita|Ōita]], [[Ōita Prefecture]] to the West, across the [[Hōyo Strait]]
+
+==Demographics==
+[[Image:Population of Ikata by region.png|thumb|right|200px|Ikata's population broken down by region]]
+Ikata is a small town, with a population of 12,363 as of [[May 31]], [[2007]].  The total area of the town is 94.37&nbsp;[[square kilometer|km²]], making the [[population density]] 131 persons per km².  However, much of the land on the peninsula is quite mountainous and not suited for development; the population density of the individual settlements, which are squeezed into the small bay areas in the foothills of the mountains, is much higher, though reliable statistics are not known.
+
+Like much of rural Japan, Ikata faces a rapidly declining and aging population.  According to the Ikata website, nearly 40% of the town's population is 65 or older.<ref>[http://www.town.ikata.ehime.jp/english/prof/toukei.php Town of Ikata: Statistics].</ref>  Furthermore, many elementary and middle schools have closed since the 1970s.  Those that remain have very small student populations.  For example, Ikata Elementary School is Ikata's largest elementary school; there were 303 students in 1987, and only 162 in 2006; Toyonoura Elementary is Old Ikata's smallest school; it had 51 students in 1987, and only 14 in 2007.<ref name="choshi" />
+
+[[Image:Population of Seto-breakdown by age.png|thumb|right|200px|Seto's population, broken down by age]]
+This population issue was a significant part of the impetus for the recent merger of Old Ikata with [[Seto, Ehime|Seto]] and [[Misaki, Ehime|Misaki]].  While Old Ikata is geographically more accessible, and has enjoyed the economic benefits of the [[Ikata Nuclear Power Plant]], Seto and Misaki have experienced even more severe aging and decline of their populations.  In [[2000]], Seto's working-age population dipped below 50% of its total.<ref name="gappei" />
+
+Ethnically Ikata is extremely homogeneous with only a handful of non-Japanese residents, most of whom are either temporary farm laborers from [[China]], or English educators on the [[JET Programme]].
+
+<br style="clear:both;" />
+
+==Transportation and sightseeing==
+===History===
+Due to Ikata's length and mountainous terrain, regular bus service did not reach the tip of the peninsula until the 1960s. Until then, the only public transportation available was local ferries that connected the bays of each neighborhood. Unfavorable weather patterns made ferry service difficult on the Inland Sea side, so most of Ikata's settlements are on the southern, Pacific Ocean side.{{Fact|date=September 2007}}
+
+In 1963, the original Route 197 was completed. It follows the coastline, and is thus extremely winding and narrow, with very little room for cars to pass. Traversing the peninsula by this route takes hours and can be quite nerve-wracking; this earned it the ire of the locals, who came up with a disparaging nickname that is as a pun on the actual name: {{nihongo|"the Don't-go-there Terrible Road"|イクナ酷道|i-ku-na kokudō|where ''i-ku-na'' is an alternate pronunciation of "197", literally meaning "don't go"}}.<ref>{{ja icon}} [http://www.kinkikensetsu.co.jp/topics/chishiki/hosou/route/r197.html Kinki Kensetsu K.K.: Ehime Roads]</ref>
+
+===Modern day===
+[[Image:Misaki Port.jpg|left|thumb|200px|A ferry from Saganoseki pulls into Misaki Port]]
+The Ikata leg of the new [[Route 197 (Japan)|Route 197]] was completed in [[1987]] and is the heart of transportation in modern Ikata, affectionately nicknamed "Melody Line".  Unlike the old roads, Melody Line boasts two full lanes and runs relatively straight down the peninsula.  Seated high in the mountains, drivers can enjoy views of both the Pacific Ocean and Inland Sea.  The route terminates at Misaki and continues over to [[Kyūshū]] by ferries that connect Misaki Port with Saganoseki ([[Ōita, Ōita]]) and [[Beppu, Ōita]].
+
+Melody Line is such an improvement over the old roads that it has become a significant Ehime sightseeing attraction in itself, with many tourists coming to see cherry blossoms in the spring.  Together with the city of [[Iyo, Ehime|Iyo]]'s seaside [[Route 378 (Japan)|Route 378]], Melody Line makes one of the prefecture's recommended sightseeing routes,<ref>{{ja icon}} [http://www.pref.ehime.jp/izanai/route/route8/index.html Refreshing Seaside Drive from Sadamisaki through the Sunset Line].</ref> and one of [[JTB Corporation|JTB]]'s {{nihongo|"100 Hidden Treasures of Japan"|[[:ja:日本の秘境100選|日本の秘境100選]]|nihon no hikyō hyaku-sen}}.<ref>{{ja icon}} [http://freett.com/shou_ta/hyaku/hikyou01.htm "100 Best" Adventure Club: Japan's Hidden Treasures].</ref>
+
+[[Iyo Railway]] bus service runs up and down the peninsula, to and from [[Yawatahama, Ehime|Yawatahama]], and offers express buses from Misaki to [[Matsuyama, Ehime|Matsuyama]].  However, commuter buses run infrequently and, due to the length of the peninsula and the scattered nature of the town's neighborhoods, bus travel remains more expensive and less convenient than in denser areas.  Some tour buses also come across the strait from Kyūshū by ferry.
+
+There are no trains in Ikata. The closest station is the [[Shikoku Railway Company|JR]] [[Yawatahama Station]] on the [[Yosan Line]].
+
+===Points of interest===
+[[Image:Sadamisaki Lighthouse.jpg|left|thumb|150px|Sadamisaki Lighthouse at sunset]]
+;Sadamisaki Lighthouse
+:This lighthouse stands at the tip of the peninsula, overlooking the Hōyo Strait.  On clear days you can see across to Kyūshū. Almost two kilometers of hiking trails and a campground lie at its feet as part of the [[Setonaikai National Park]].
+
+;Seto Wind Hill Park
+:This park is located atop a mountain in the Seto area.  From it you can see many of Ikata's numerous windmills, spinning above the Inland Sea to the north and the Pacific Ocean to the south.  [[Haiku]]s about the windmills, submitted for Ikata's Windmill Festival, are on display in the park.  Webcam images from the park, updated every hour, are available online.<ref>[http://www.town.ikata.ehime.jp/english/camera/ Ikata Wind Hill Webcams].</ref>
+
+;Ikata Visitors House
+:This hands-on science museum teaches all about nuclear power with beautiful interactive displays and fun activities for all ages.  The building is connected to the Kirara-kan, which houses an aquarium and sells souvenirs and local agricultural products.
+
+[[Image:Red Wing Park in Ikata.jpg|right|thumb|200px|Adventure Hill in Red Wing Park]]
+;Red Wing Park
+:Named after Ikata's sister city, this park is home to Adventure Hill—a playground full of climbing nets, roller slides, and other children's play equipment.
+
+;Kamegaike [[Onsen]]
+:A new hot spring bathing facility and park opened to the public in August 2007.  According to legend, a giant crab lives in the adjacent Kamegaike Pond.
+
+===Roadside Stations===
+Ikata has two [[Roadside Station]]s along Route 197.  These are highway rest stops that offer refreshments, travel information, recreation facilities, and local goods for sale.
+
+;Ikata Kirara-kan
+:Features an aquarium, an exhibit chronicling Ikata's relations with its American sister city, [[Red Wing, Minnesota|Red Wing]], [[Minnesota]], and a small museum of Old Ikata historical artifacts.  Attached to the Ikata Visitors House.
+
+;Seto Agriculture Park
+:Gelateria DanDan offers travelers unique ice cream and [[sorbet]] flavors like ''[[sake]]'', ''kintarō'' potato, black sesame, and more.  A Christmas tree decorated with mikan orange peels, a monument to Ikata explorer [[Hyōichi Kōno]], and the Windmill Restaurant can also be found here.
+
+==Culture==
+===Etymology of name===
+The origin of the name ''Ikata'' is unclear and there are several competing theories.<ref name="choshi" />
+*It may have come from {{nihongo|''iekata''|家方}} or {{nihongo|''iokata''|庵方}}, meaning "a place with small houses or shacks".<ref>{{ja icon}} {{cite book
+  | author = Shigeki Yoshida
+  | language = Japanese
+  | title = {{nihongo|Dictionary of Japanese Place Names|日本地名語源事典|nihon chimei gogen jiten}}
+  | publisher = [http://www.jinbutsu.co.jp/ Shin-Jinbutsuoraisha Co., Ltd]
+  | date = February 1981 }}</ref>
+*''Ika'' can be found in the names of places surrounded by mountains or located in foothills; ''ta'' can mean "land".  ''Ikata'' could therefore be "a place by the mountains".
+*In the [[Ainu language]], ''ika'' means "to pass through the mountains and cross the land".  However, the [[Ainu]] are thought to have had little influence as far south as Shikoku.
+
+===Food===
+Ikata is known for its [[mikan]]s and mikan juice.  More than 20 different varieties of mikan are grown in Ikata.<ref>[http://www.town.ikata.ehime.jp/english/life/ Citrus fruits grown in Ikata].</ref>  Old Ikata also has a very old [[sake]] brewing tradition that dates back to the [[Edo Period]], with several [[Tōji (brewmaster)|tōji]] brewmasters in the local area.  There is even a museum dedicated to the Ikata Tōji.<ref>[http://www.town.ikata.ehime.jp/english/shisetsu/ikatamorishi.php Ikata Tōji Museum].</ref>
+
+The Seto area produces vegetables such as the bright-purple ''kintarō'' potato, and also catches baby sardines called {{nihongo|chirimen|ちりめん}}.  Misaki has a strong fishing tradition, producing lots of {{nihongo|horse mackerel|鯵|aji}} and {{nihongo|[[mackerel]]|鯖|saba}}.  Four Misaki Fishing Co-op products are part of the Ehime {{nihongo|"With Love"|『愛』ある|"Ai" aru}} brand:<ref>[http://www.aifood.jp/en/brand/about.html About the ''Ai aru'' brand].</ref>  Horse mackerel, mackerel, {{nihongo|[[largehead hairtail]]|太刀魚|tachiuo}}, and {{nihongo|[[abalone]]|鮑|awabi}}.
+
+One Ikata specialty cuisine is {{nihongo|jakoten|じゃこ天}}, a [[tempura]]-fried patty of pressed white fish meat and vegetables.  Other variations include {{nihongo|jakokatsu|じゃこカツ}}, which is the same but fried and breaded like [[tonkatsu]], and {{nihongo|jako-croquette|じゃこコロッケ|jako-korokke}} which is prepared like a [[croquette]].
+
+===Language===
+Residents of Ikata speak the [[Iyo dialect]] of Japanese, which is similar in many respects to the [[Japanese dialects#Chūgoku|Hiroshima dialect]].  One feature particular to the Nanyo (southern Ehime) region is the use of the sentence-final particle ''ga'' (が) as a replacement for ''no'' (の) in some contexts. For example, ''Nani shiteru no?'' (何してるの？ "What are you doing?" in standard Japanese) becomes ''Nani shiyoru ga?'' (何しよるが？) in Iyo dialect.<ref>{{ja icon}} [http://www33.ocn.ne.jp/%7Ekotaro_mil/hougen.htm Kōtarō Miscellaneous Information Laboratory: Iyo Dialect Dictionary]</ref>
+
+Ikata's largest town celebration in late summer, the Kinahaiya Ikata Festival, is another example of the Iyo dialect—''kinahai ya'' (来なはいや) literally means "come on over" (''kinasai yo'' 来なさいよ in standard Japanese).
+
+===Festivals and events===
+Ikata has a wide variety of festivals and attractions the year around.
+
+'''February'''
+[[Image:Shan Shan Dance in Oku.jpg|right|thumb|200px|The Shan Shan Dance in Seto's Ōku neighborhood]]
+[[Image:Misaki Autumn Festival.jpg|right|thumb|200px|Ox Demon vs. Four Drums at the Misaki Autumn Festival]]
+*Misaki {{nihongo|Oise Dance|お伊勢踊り|Oise-odori}}
+:Men and women of {{nihongo|unlucky ages|厄年|yakudoshi|25, 42, and 61 for men; 19, 33, and 37 for women}} receive the blessings of local Buddhist priests in the form of a set of ceremonial dances.  Afterwards, lucky decorative ornaments and free [[sake]] are offered to the crowd.<ref name="misaki-events">[http://www.town.ikata.ehime.jp/english/kankou/event_misaki.php Town of Ikata: Misaki Events] (English)</ref>
+'''April'''
+*{{nihongo|Moo Moo Festival|もぉ〜モォ〜フェスティバル|}}
+:Held on Seto's Kōmo Highland atop Mt. Miharashi, the main event of this festival is an outdoor [[barbecue]] featuring locally-raised beef.
+'''May'''
+*Seto {{nihongo|Gathering of the Sea|海のつどい|Umi no tsudoi}}
+*Misaki {{nihongo|Fishing Festival|豊漁祭|Hōryōsai}}
+'''June'''
+*{{nihongo|Kirara Festival|きららまつり|Kirara-matsuri}}
+'''July'''
+*{{nihongo|Chirimen Festival|ちりめん祭り|Chirimen-matsuri}}
+'''August'''
+*{{nihongo|Kinahaiya Ikata Festival|きなはいや伊方まつり|Kinahaiya Ikata-matsuri}}
+:This is Ikata's largest summer festival.  Attractions include film and dance competitions, a [[taiko]] performance, children's [[sumo]], and bare-handed fish catching, all concluded with a fireworks display in the evening.<ref>[http://www.town.ikata.ehime.jp/english/kankou/event_ikata.php Town of Ikata: Ikata Events] (English)</ref>
+*Seto {{nihongo|Bridal Festival|花嫁まつり|Hanayome-matsuri}}
+:Local single women put on a wedding dress fashion show, followed by fireworks in the evening.  An outdoor barbecue and bare-handed fish wrangling are held in the nearby Suka Park.<ref name="seto-events">[http://www.town.ikata.ehime.jp/english/kankou/event_seto.php Town of Ikata: Seto Events] (English)</ref>
+'''September'''
+*Ōku {{nihongo|Shan Shan Dance|しゃんしゃん踊り|Shanshan-odori}}
+:Every September a handful of local men and women gather along the Ōku beach to sing and perform this dance, with the purpose of placating the dead spirit of a woman who is said to have been washed ashore in Ōku long, long ago.<ref name="seto-events" />
+'''October'''
+*{{nihongo|Autumn Festival|秋祭り|aki-matsuri}}
+:Each main region of Ikata holds its own separate Autumn Festival. Misaki's is perhaps the most spectacular of the three.  The main attraction is the battle between the {{nihongo|Ox Demon|牛鬼|ushioni}} and the {{nihongo|Four Drums|四ツ太鼓|yotsudaiko}}, which are two ceremonial [[mikoshi]] floats carried by the young local men and women.  Participants compete in repeatedly pulling the floats up along a giant scaffolding, then trying to drop theirs on top of the other.<ref name="misaki-events" />
+
+===Folklore===
+====The rats of Kuroshima====
+[[Image:Kuroshima Island in Ikata.jpg|right|thumb|200px|A view of [[Kuroshima, Ehime|Kuroshima]] from the [[Sadamisaki Peninsula]]]]
+There are two small, uninhabited islands in the Uwa Sea near [[Yawatahama, Ehime|Yawatahama]] that belong to Ikata:  [[Kuroshima, Ehime|Kuroshima]] and Karasushima.  A legend written in the 13th century text {{nihongo|''A Collection of Things Heard, Ancient and Modern''|[[:ja:古今著聞集|古今著聞集]]|Kokon chomon shū}} tells the following story:<ref name="choshi" />
+{{cquote|In the [[Antei]] era (1227–1229), in the Yano area of the [[Iyo Province]] there was an island called Kuroshima.  It was about one ''[[Japanese units of measurement#Length|ri]]'' (4 km) from the nearest settlement.  On the island lived a fisherman known as the Daiku of Katsurahazama (thought to be modern-day [[Honai, Ehime|Honai]]).  One night he was walking around looking for a good place to set his nets when he saw that the spots with fish appeared to glow in the night darkness.  By every shore of the island the light glowed so brightly that he gleefully put out his nets, only to find that there were no fish at all.  Instead what he pulled up was countless rats.  After he pulled them ashore the rats fled, disappearing into the darkness.  The fisherman was stunned.  How strange this was!  The island thus became full of rats, which ate all of the crops, and made the land infertile to this day.  Though rats can of course be found on land, what a strange thing it is that they would be at the bottom of the sea!}}
+
+====The giant crab of Kamegaike====
+Local legend tells of a giant crab, eight [[tatami]] mats in size, that lives in the Kamegaike Pond in Old Ikata's Futami neighborhood.<ref>{{ja icon}} [http://www33.ocn.ne.jp/~kotaro_mil/iyosumi/towninfo/ikata.htm#亀ヶ池の大蟹 The Corners of Iyo: Ikata: The giant crab of Kamegaike].</ref>
+{{cquote|Long ago a large crab lived in the Kuchōike Pond.  The crab grew bigger and bigger every day, until it reached eight tatami mats in size and was unable to swim comfortably in its pond.  Looking for a new home, it went to the Kamegaike Pond in the next neighborhood over.  In Kamegaike Pond there lived a [[kappa (folklore)|kappa]], which thought its home was too big, so it happily traded with the crab.
+
+The crab thus found a new, larger home, and swam around happily.  Unfortunately, its swimming caused the pond to overflow nearly every day, and the waves often capsized the nearby farmers' boats.  The distraught farmers thus prayed to the gods to have the crab sealed at the bottom of the pond.
+
+To this day, every year in the fall the local people hold a festival in the fall in which a ceremonial ox demon (牛鬼 ''ushioni'') float is carried across the pond so as to keep the crab sealed in its depths.}}
+
+==Industry==
+Ikata's main industries are farming (largely citrus fruits such as [[mikan]]s), fishing, and electrical power.  Ikata produces a substantial fraction of Shikoku's electricity.  There are two main power production methods currently in use.
+===Wind power===
+[[Image:Ikata windmills.jpg|right|thumb|200px|Windmills at the Seto Wind Hill Park]]
+{{seealso|Seto Wind Farm}}
+The former town of Seto erected eleven Mitsubishi MWT-1000 wind generators in January [[2002]].  The Old Ikata installed two Vestas V52-850kW generators in March [[2005]].  Together they have an expected yearly energy output of 34,700 MWh.
+
+Ikata is investing heavily in wind power infrastructure, with 45 additional towers currently under construction.  The town plans to have a total of 60 generators within the next few years.
+
+===Nuclear power===
+{{seealso|Ikata Nuclear Power Plant}}
+[[Image:Ikata Nuclear Power Plant.jpg|right|thumb|200px|Ikata Nuclear Power Plant]]
+Ikata is the site of Shikoku's only nuclear power plant. The Ikata Nuclear Power Plant has two Mitsubishi 538 MWe Pressurized Water Reactor units with the Two Reactor Coolant Loop design (similar to the original [[Westinghouse Electric Company|Westinghouse]] design at [[Prairie Island Nuclear Power Plant|Prairie Island]], [[Kewaunee Nuclear Generating Station|Kewaunee]], and [[Point Beach Nuclear Generating Station|Point Beach]] plants) and one Mitsubishi Pressurized Water Reactor unit with the Three Reactor Coolant Loop design (similar to the Westinghouse [[Surry Nuclear Power Plant|Surry]], [[North Anna Nuclear Generating Station|North Anna]], and [[H. B. Robinson Nuclear Generating Station|Robinson]] plants). Units 1 and 2 started up on [[September 30]] [[1977]] and [[March 19]] [[1981]] respectively. Unit 3 is a three loop PWR rated at 846 MWe that started up on [[December 15]] [[1994]].
+
+[[April 1]], [[2007]], marked a milestone for the Ikata plant as it reached a total of 300 million [[watt-hour|kilowatt-hours]] of energy generated since beginning operations in [[1977]].<ref>''Hassei Area & Yonden Information Press'', Shikoku Electric Power Co., Inc., No. 393, May 2007</ref>
+
+The Ikata Power Plant was referenced in the 1995 movie [[Godzilla vs. Destoroyah]]. [[Godzilla]] attempts to attack the power plant, but meets resistance from the [[Japan Self-Defense Force|Self Defense Force]]'s "Super-X III" weapon.
+
+==International exchange and sister cities==
+[[Image:Tepee statue in Red Wing Park.jpg|right|thumb|150px|[[Tepee]] statue at Red Wing Park, representing the [[Red Wing]] [[Indigenous peoples of the Americas|Native Americans]]]]
+Relations with Ikata's only overseas sister city, [[Red Wing, Minnesota|Red Wing]], [[Minnesota]], [[United States|USA]], originally began as an exchange of technical knowledge and skills between engineers at the Ikata Nuclear Power Plant and Red Wing's [[Prairie Island Nuclear Power Plant|Prairie Island plant]].  The two towns became official sister cities in August 1995.
+
+Since then, Ikata has put much effort into expanding the horizons of its residents through English language education via the [[JET Programme]], and an annual international student exchange with Red Wing.  Beginning in 1995, Ikata middle school students have traveled almost yearly to Red Wing for home stays of one to two weeks, and students from Red Wing likewise come to Ikata to learn about life in rural Japan.<ref>[http://www.town.ikata.ehime.jp/english/kokusai/ Town of Ikata: International Relations].</ref>
+
+Ikata's high school, Misaki High School, maintains an exchange program with [[Australia]].
+
+Ikata has two [[town twinning|sister cities]], both of which also have nuclear power plants:
+*{{flagicon|Japan}} [[Tomari, Hokkaido|Tomari]], [[Japan]], since February 1998
+*{{flagicon|USA}} [[Red Wing, Minnesota]], [[United States]], since August 1995
+
+<br style="clear:both;" />
+
+==Politics==
+
+Ikata experienced significant political turbulence leading up to and immediately following the [[April 1]], [[2005]] [[Merger and dissolution of municipalities of Japan|merger]] with [[Seto, Ehime|Seto]] and [[Misaki, Ehime|Misaki]].
+
+To begin with, multiple potential merger plans were put forth, one of which was for all of the [[Nishiuwa District, Ehime|Nishiuwa District]] towns (Misaki, Seto, Old Ikata, and [[Honai, Ehime|Honai]]) to merge.  However, when Honai announced that it would merge with the nearby city of [[Yawatahama, Ehime|Yawatahama]], polls indicated that Misaki residents still preferred to merge with Honai and Yawatahama, rather than Seto and Old Ikata, despite their being [[contiguity|discontiguous]] (a Misaki-Honai-Yawatahama merger would make Misaki an [[Enclave and exclave|exclave]]).  Ultimately this was found to be impractical, and the Misaki-Seto-Ikata merger was approved with some grumbling over the naming of the new town.
+
+Once the merger was decided upon, suggestions for the new town's name were solicited from the residents.  Despite the many other reasonable suggestions<ref>{{ja icon}} [http://www.town.ikata.ehime.jp/gappei/hiroba/shinchomei_7koho.html Naming suggestions for the new town of Ikata].</ref> and the seeming unfairness toward Seto and Misaki, the "new" name was chosen to be "Ikata".
+
+Following the merger a heated mayoral race was held, with 11 members of incumbent Kiyoyoshi Nakamoto's campaign arrested for electoral fraud.  Challenger Yoshihisa Hatanaka ultimately won, only to be arrested in February of 2006 for corruption relating to government construction contracts.  He resigned soon thereafter.
+
+A second race was held in April 2006, with Kazuhiko Yamashita defeating rival Kiyohiko Takakado by only 90 votes.  Voter turnout was 87.43%.<ref>{{ja icon}} [http://www.senkyo.janjan.jp/election/2006/38/00002232.html The Senkyo: Ikata Mayoral Race]</ref>
+
+There has been and still remains political resistance among some Ikata residents to the nuclear power plant.  Most recently this has revolved around the now-approved plan to implement [[MOX fuel]] in Unit 3 of the Ikata plant.
+
+==Notable people from Ikata==
+*[[Shuji Nakamura|Shūji Nakamura]], inventor of the [[Blue LED#Ultraviolet.2C Blue and white LEDs|blue LED]], hails from the former town of [[Seto, Ehime|Seto]].
+*Adventurer [[Hyōichi Kōno]] successfully reached the North Pole in 1997.<ref>[http://www.northpolewomen.com/History.htm M&G Women's Polar Team North Pole Expedition 2002].</ref> He died in [[2001]] while attempting to walk from the North Pole back to his birthplace, the former town of Seto.
+*Nenten Tsubouchi is a [[haiku]] poet whose unique and quirky poems have been featured in elementary school textbooks in Japan.<ref>[http://www.town.ikata.ehime.jp/english/prof/huusha_machi/haijin.php Town of Ikata: Poets].</ref>  He was born in the Kuchō neighborhood of Ikata.
+
+==Gallery==
+<gallery>
+Image:Kuchō, Ikata at sunset.jpg|The Kuchō neighborhood at sunset
+Image:Minatoura Port.jpg|A view of the Minatoura Port
+Image:Shores of Misaki.jpg|The shores of Misaki
+Image:Misaki Hachiman Temple.jpg|Misaki's {{nihongo|[[Hachiman Shrine]]|八幡神社|Hachiman-jinja}}
+</gallery>
+
+==See also==
+*[[Sadamisaki Peninsula]]
+*[[Ikata Nuclear Power Plant]]
+*[[Seto Wind Farm]]
+*[[Kuroshima]]
+
+==References==
+<references/>
+
+==External links==
+{{commonscat|Ikata, Ehime}}
+*[http://www.town.ikata.ehime.jp/english/ Ikata official website] in English
+*[http://www.town.ikata.ehime.jp/wiki/index.php/Image:Ikata_Sightseeing_Map.pdf Town of Ikata Sightseeing Map]
+*[http://www.yonden.co.jp/index_e.htm Shikoku Denryoku Yonden Company official page] in English
+*{{wikitravel|Ikata}}
+
+{{Ehime}}
+
+[[Category:Towns in Ehime Prefecture]]
+
+[[es:Ikata (Ehime)]]
+[[fr:Ikata]]
+[[ja:伊方町]]

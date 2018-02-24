@@ -1,0 +1,93 @@
+{{Taxobox
+| color = pink
+| name = Carolina Wren
+| image = Carolina Wren 2.jpg
+| image_width = 240px
+| status = LC
+| status_system = iucn3.1
+| regnum = [[Animal]]ia
+| phylum = [[Chordata]]
+| classis = [[bird|Aves]]
+| ordo = [[Passeriformes]]
+| familia = [[Troglodytidae]]
+| genus = '''''Thryothorus''''' (but see text)
+| genus_authority = 
+| species = '''''T. ludovicianus'''''
+| binomial = ''Thryothorus ludovicianus''
+| binomial_authority = ([[John Latham (ornithologist)|Latham]], [[1790]])
+| range_map = Carolina_Wren-rangemap.gif
+| range_map_width = 240px
+| subdivision_ranks = Subspecies
+| subdivision = 
+''T. l. burleighi''<br/>
+''T. l. lomitensis''<br/>
+''T. l. ludovicianus''<br/>
+''T. l. miamensis''<br/>
+''T. (l.) albinucha'' - White-browed Wren
+}}
+
+The '''Carolina Wren''' (''Thryothorus ludovicianus'') is a common [[species]] of [[wren]] resident in the eastern half of the [[USA]], the extreme south of [[Ontario]] and [[Quebec]], [[Canada]], and the extreme northeast of [[Mexico]]. A very distinct population in the [[Yucatan]] Peninsula of Mexico and [[Belize]] is treated either as a [[subspecies]] ''Thryothorus ludovicianus albinucha'', or as a separate species, '''White-browed Wren''' ''Thryothorus albinucha''. Following a 2006 review<ref>Mann ''et al.'' (2006)</ref>, these are the only wrens remaining in the [[genus]] '''''Thryothorus'''''. ''T. ludovicianus'' is the [[state bird]] of [[South Carolina]]; its [[specific name]] ''ludovicianus'' means "from [[Louisiana]]".
+
+==Description==
+[[Image:CarolinaWren23.jpg|thumb|left|An alert Carolina Wren.]]
+Typically 14 cm long and about 20 g in weight, it is a fairly large wren; among the United States species it is second largest after the [[Cactus Wren]]. The upperparts are rufous brown, and the underparts a strong orange-buff, usually unmarked but faintly barred on the flanks in the southwest of the range. The head has a striking pure white supercilium (eyebrow) and a whitish throat. The race ''albinucha'' is duller brown above and has additional white streaking on the head.
+
+It is easiest to confuse with the [[Bewick's Wren]], a fairly close relative<ref>Martínez Gómez ''et al.'' (2005)</ref>, which differs in being smaller but with a longer tail, grayer-brown above and whiter below. The Carolina and White-browed Wrens differ from the [[House Wren]] in being larger, with a decidedly longer bill and hind toe; their [[culmen]] has a notch behind the tip<ref>Brattstrom & Howell (1956)</ref>.
+
+===Song and calls===
+The Carolina Wren is noted for its loud song, popularly rendered as ''"teakettle-teakettle-teakettle"''. This song is rather atypical among [[wrens]], which tend to sing songs which are similar to other wrens' songs.  A given bird will typically sing several different songs. Only the male birds sing their loud song.  The songs vary regionally, with birds in northern areas singing more slowly than those in southern areas.
+
+The Carolina Wren also has a series of calls, including a rapid series of descending notes in a similar timbre to its song, functioning as an alarm call, and a very harsh and loud scolding call made to threaten intruders.
+
+==Ecology==
+The Carolina Wren is sensitive to cold weather. Since they do not migrate and stay in one territory the northern populations of Carolina wrens decrease markedly after severe winters. However, since the winter temperatures over the last century have been increasing, the Carolina Wrens have expanded their range northward since the mid-1900s.
+
+Populations in Canada and the northern half of the US experience regular crashes following severe [[winter]]s, but their high breeding productivity soon results in a return to higher numbers. These birds are generally permanent residents throughout their range and defend territory year round; some birds may wander north after the breeding season.
+
+They eat [[insect]]s, found in leaf litter or on tree trunks; they may also eat small [[lizard]]s or [[tree frog]]s. In winter, they occasionally eat seeds, berries, and other small [[fruit]]s.
+
+[[Image:wren-nest.jpg|thumb|left|Carolina Wren nesting on a porch.]]
+===Reproduction===
+These birds prefer sites with dense undergrowth, either in mixed forests or in wooded suburban settings, in a natural or artificial cavity. The nest is a bulky, often domed structure, with a small hole towards the top. Nests of the more domestically-inclined wrens have been reported in a great variety of nooks and crannies in, about, or under buildings of various kinds, under bridges, or in holes in any structure such as a porch, fence-post, tree, house or barn. Almost any kind of receptacle may offer an acceptable nesting site. Pairs may mate for life. 
+
+Females typically lay between four to six eggs (normally over a period of several days) up to three times per year (but normally only twice). Eggs are oval, grayish-white and sprinkled with reddish-brown spots. Incubation is performed by the female only and lasts anywhere from 12-14 days, with the first young leaving the nest 12-14 days after hatching. Both the male and female feed the young. If conditions are right, the same nest may be used more than once.
+<br clear = "left" />
+
+==Footnotes==
+{{Reflist}}
+
+==References==
+* {{IUCN2006|assessors={{aut|BirdLife International}}|year=2004|id=52026|title=Thryothorus ludovicianus|downloaded=12 May 2006}} Database entry includes justification for why this species is of least concern
+* {{aut|Brattstrom, Bayard H. & Howell, Thomas R.}} (1956): The Birds of the Revilla Gigedo Islands, Mexico. ''[[Condor (journal)|Condor]]'' '''58'''(2): 107-120. <small>{{doi|10.2307/1364977}}</small> [http://elibrary.unm.edu/sora/Condor/files/issues/v058n02/p0107-p0120.pdf PDF fulltext] [http://elibrary.unm.edu/sora/Condor/files/DJVU/v058n02/P0107-P0120.djvu DjVu fulltext]
+* {{aut|Mann, Nigel I.; Barker, F. Keith; Graves, Jeff A.; Dingess-Mann, Kimberly A. & Slater, Peter J.B.}} (2006): Molecular data delineate four genera of ''"Thryothorus"'' wrens. ''Molecular Phylogenetics and Evolution'' '''40''': 750–759. <small>{{DOI|10.1016/j.ympev.2006.04.014}}</small> [http://www.tc.umn.edu/~barke042/pdfs/Mann.et.al06.pdf PDF fulltext]
+* {{aut|Martínez Gómez, Juan E.; Barber, Bruian R. & Peterson, A. Townsend}} (2005): Phylogenetic position and generic placement of the Socorro Wren (''Thryomanes sissonii''). ''[[Auk (journal)|Auk]]'' '''122'''(1): 50–56. [English with Spanish abstract] <small>[[Digital Object Identifier|DOI]]:10.1642/0004-8038(2005)122[0050:PPAGPO]2.0.CO;2</small> [http://www.specifysoftware.org/Informatics/bios/biostownpeterson/MBP_A_2005.pdf PDF fulltext]
+
+== External links ==
+{{commons|Thryothorus ludovicianus}}
+*[http://www.birdhouses101.com/carolina-wren.asp About the Carolina Wren]
+*[http://www.mbr-pwrc.usgs.gov/id/framlst/i7180id.html Carolina Wren Information] - USGS Patuxent Bird Identification InfoCenter
+*[http://www.birds.cornell.edu/AllAboutBirds/BirdGuide/Carolina_Wren.html Carolina Wren Species Account] - Cornell Lab of Ornithology
+*[http://www.sdakotabirds.com/species/carolina_wren_info.htm Carolina Wren Information] - South Dakota Birds and Birding
+*[http://juliesmagiclightshow.com/index.php?pic=788 Carolina Wren at feeder in Southeastern Vermont] - Picture link
+*[http://www.birdhouses101.com/carolina-wren.asp Carolina Wren (BirdHouses101.com)]
+*[http://www.bird-stamps.org/cspecies/13504200.htm Stamps] (for [[United States]])
+*[http://ibc.hbw.com/ibc/phtml/especie.phtml?idEspecie=5747 Carolina Wren videos] on the Internet Bird Collection
+*[http://vireo.acnatsci.org/search.html?Form=Search&SEARCHBY=Common&KEYWORDS=carolina+wren&showwhat=images&AGE=All&SEX=All&ACT=All&Search=Search&VIEW=All&ORIENTATION=All&RESULTS=24 Carolina Wren photo gallery] VIREO
+
+<!-- see the decent RangeMap at: "www.natureserve.org" ....only "Permanent Resident" on map-NOTE ( (2) small "Spots" of Perm Resident in "Nicaragua")-->
+
+[[Category:Troglodytidae]]
+[[Category:Thryothorus]]
+[[Category:Genera of birds]]
+[[Category:Birds of Canada|Wren, Carolina]]
+[[Category:Birds of the United States|Wren, Carolina]]
+[[Category:Birds of Mexico|Wren, Carolina]]
+[[Category:Birds of the Yucatán Peninsula region|Wren, Carolina]]
+[[Category:Birds of Belize|Wren, Carolina]]
+[[Category:Birds of Guatemala|Wren, Carolina]]
+[[Category:Birds of Nicaragua|Wren, Carolina]]
+[[Category:United States state birds]]
+
+
+[[fr:Troglodyte de Caroline]]
+[[nl:Carolina-winterkoning]]

@@ -1,0 +1,44 @@
+{{Infobox of upazilas
+| native_name        = Burhanuddin
+| locator_position   = right
+| latd               = 22.5000
+| longd              = 90.7217
+| division_name      = Barisal Division
+| district           = Bhola District
+| population_as_of   = 1991
+| population_total   = 208478
+| population_density = 732
+| area_total         = 284.67
+| area_telephone     = 
+| postal_code        = 
+| maplink            =  www.bangladesh.gov.bd/maps/images/bhola/Burhanuddin.gif
+| maplink_caption    =  Official Map of the Burhanuddin Upazila
+| footnotes          = 
+}}
+'''Burhanuddin''' ({{lang-bn|বোরহানউদ্দিন }}) is an [[Upazila]] (or sub-district) of [[Bhola District]] in the Division of [[Barisal Division|Barisal]], [[Bangladesh]].
+
+==Geography==
+Burhanuddin is located at {{coor d|22.5000|N|90.7217|E|}}  . It has 37413 units of house hold and total area 284.67 km².
+
+==Demographics==
+[[As of 1991]] Bangladesh [[census]]{{GR|Bangladeh}}, Burhanuddin has a population of 208478. Males constitute are 51.13% of the population, and females 48.87%. This Upazila's eighteen up population is 94581. Burhanuddin has an average literacy rate of 21.2% (7+ years), and the national average of 32.4% literate. <ref name="census">{{cite web |  accessdate = November 10 | accessyear = 2006 |  url = http://www.bangladeshgov.org/mop/ndb/arpc91_v1/tables04.htm | archiveurl = http://web.archive.org/web/20050327072826/http://www.bangladeshgov.org/mop/ndb/arpc91_v1/tables04.htm | archivedate = 2005-03-27 | title = Population Census Wing, BBS.}}</ref>
+
+==Administrative==   
+Burhanuddin has 9 Unions/Wards, 57 Mauzas/Mahallas, and 52 villages. 
+
+
+==See also==
+*[[Upazilas of Bangladesh]]
+*[[Districts of Bangladesh]]
+*[[Divisions of Bangladesh]]
+
+
+==References==
+<references/>
+
+[[Category:Upazilas of Bhola District]]
+
+
+{{Bangladesh-geo-stub}}
+
+[[bpy:বোরহানউদ্দিন উপজিলা]]

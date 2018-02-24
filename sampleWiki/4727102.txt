@@ -1,0 +1,84 @@
+{{For| the Mercian figure|Eomer}} 
+
+'''Éomer''' is a character in [[J. R. R. Tolkien]]'s [[Tolkien's legendarium|legendarium]]. He appears in ''[[The Two Towers]]'' and ''[[The Return of the King]]'', the second and third volumes of his fantasy novel ''[[The Lord of the Rings]]''.<!--1 novel in 3 or 6 books, depending on your division-->
+ 
+{|align=right
+|{{Tolkienchar |
+character_name = Éomer |
+character_alias = Éadig (epithet meaning "Blessed") |
+character_title = Third Marshal of the [[Rohan|Riddermark]], then King of [[Rohan]] |
+character_race = [[Man (Middle-earth)|Men]] |
+character_culture = [[Rohirrim]] |
+character_birth = 2991 [[Third Age|T.A.]] |
+character_death = 63 [[Fourth Age|F.A.]] |
+Book(s) = ''[[The Two Towers]] <br/>[[The Return of the King]]'' |
+}}
+|}
+==Appearances==
+===Literature===
+Éomer, of the [[House of Eorl]], was the son of [[Théodwyn]] and [[Éomund]], a Chief Marshal of the [[Riddermark]]. He had a sister named [[Éowyn]]. After their parents died, [[Théoden]] adopted them as his own children. 
+
+Éomer was third [[Marshal]] of the Riddermark, and was a strong leader of [[Man (Middle-earth)|Men]]. His ''[[Éored#The Rohirrim and their horses|éored]]'' hunted down the [[Uruk-hai]] that had taken the [[Hobbit]]s [[Meriadoc Brandybuck]] and [[Peregrin Took]] as they camped near [[Fangorn]] forest, slaying them all. He never saw the Hobbits, as they fled during the battle. Afterwards he met [[Aragorn]], [[Gimli (Middle-earth)|Gimli]] and [[Legolas]] in the plains of Rohan, and he lent them two horses.
+
+Éomer returned to [[Edoras]], and reported on meeting the Ranger and friends. However, under the poisonous advice of [[Gríma|Gríma Wormtongue]], Théoden's corrupt advisor, he was arrested.
+
+He was set free when Théoden was released from the influence of [[Saruman]]. He was with his king at the [[battle of the Hornburg]], where he and his ''éored'', led by Théoden and Aragorn, drove Saruman's army of [[Orc (Middle-earth)|Orcs]] and [[Dunlendings]] from the walls of the [[Hornburg]]. As they fought, Gandalf arrived with Erkenbrand, the Third Marshall of the Mark, and the troops that Gandalf had gathered from the chaos of the Battle of the Fords of Isen. Dismayed at this unexpected attack from the side, Saruman's Orcs were driven into the forest of [[Huorn]]s, where they were destroyed; the men of Dunland were forced to surrender.
+
+Afterwards, Éomer rode with Théoden, Aragorn, and [[Gandalf]] to [[Isengard]], where they confronted a trapped Saruman. Éomer rode with his king to the [[Battle of the Pelennor Fields]], and fought bravely for Rohan and [[Gondor]].
+
+Théoden was mortally wounded in the battle, and named Éomer as his successor. Believing his sister [[Éowyn]] to be slain by the [[Witch-king]], he threw himself and his men wildly at the enemy. Surrounded and outnumbered by the Orcs, he was rescued when [[Aragorn]] arrived from [[Pelargir]], thereby fulfilling his prediction that they would meet and fight together in battle. He later accompanied Aragorn to the Gates of Mordor and the Field of Cormallen. After Théoden's funeral, he stayed in [[Minas Tirith]] to help Aragorn rebuild his own kingdom (for the latter was crowned King Elessar of the [[Reunited Kingdom (Middle-earth)|Reunited Kingdom]]), before returning home to be crowned King of Rohan himself. Éomer was the 18th king of Rohan, and the first king of the Third Line (Théoden's death ended the Second Line of kings; [[Helm Hammerhand]]'s death ended the First).
+
+Éomer renewed the [[Oath of Eorl]] for Aragorn after both of them had been crowned, swearing everlasting friendship between Rohan and Gondor (and confirming [[Cirion]]'s grant of [[Calenardhon]] to the [[Éothéod]], the ancestors of the Rohirrim.)
+
+He later became known as '''Éomer Éadig''', or "the Blessed", because Rohan recovered from the hurts of the war and became a rich and fruitful land again during his reign.
+
+Éomer had met Princess [[Lothíriel]], daughter of Prince [[Imrahil]] of [[Dol Amroth]], during his stay in Gondor, and they were wed. She bore him a son, [[Elfwine (Middle-earth)|Elfwine]] the Fair, who succeeded his father as the King of Rohan after Éomer's death in the year [[Fourth Age|F.A.]] 63. Merry and Pippin had retired from the Shire to Rohan at Éomer's request and were with the old King when he died.
+
+Éomer's sword was called [[Weapons of Middle-earth#Gúthwinë|Gúthwinë]] ([[Old English language|Old English]] ''battle-friend''). He wielded it in every battle since he was 14.{{ME-fact|date=January 2008}} Guthwine was a gift from his father, Éomund.
+
+===Adaptations===
+<!-- Unsourced image removed: [[Image:Eomer2dff626.jpg|thumb|right|150px|Eómer ([[Karl Urban]]) in [[Peter Jackson]]'s ''[[The Lord of the Rings film trilogy|The Lord of the Rings]]'' films.]] -->
+In the 1978 [[The Lord of the Rings (1978 film)|animated adaptation]] of ''The Lord of the Rings'' by [[Ralph Bakshi]], Éomer is portrayed as a renegade. He does not have any lines, but is still important to the plot.
+
+He also appears in the 1980 [[Rankin/Bass]] animated version of ''[[The Return of the King (1980 film)|The Return of the King]]''.
+
+In [[Peter Jackson]]'s [[The Lord of the Rings film trilogy]], Éomer was played by [[New Zealand]] actor [[Karl Urban]]. In ''[[The Lord of the Rings: The Two Towers]]'', he is [[exile]]d by Gríma before meeting Aragorn. As an outcast, he leads a troop of riders loyal to Théoden.
+
+In both the Bakshi and Jackson's versions, he arrives at the [[climax (narrative)|climax]] of the "[[Battle of the Hornburg|Battle of Helm's Deep]]", accompanied by Gandalf (although the animated film does not single him out at [[Helm's Deep]]). In this sense, his character has been combined with the character of [[Erkenbrand]], who, in the book, is the one with whom Gandalf returns to Helm's Deep.
+
+Éomer's actions in Jackson's adaptation of ''The Return of the King'' did not significantly depart from those in the book, save for several scenes (such as Éomer letting out a defiant cry at the approaching Corsair ships during the Battle of the Pelennor Fields, only to realize the ships have been captured by Aragorn) that were omitted for time.
+
+==External links==
+{{tgw|Éomer}}
+* [http://www.tuckborough.net/eomer.html Éomer] at The Thain's Book
+
+{{sequence|
+prev=[[Théoden]] Ednew|
+next=[[Elfwine (Middle-earth)|Elfwine]]|
+list=[[Kings of Rohan]]
+}}
+{{lotr}}
+
+{{DEFAULTSORT:Eomer}}
+[[Category:Kings of Rohan]]
+[[Category:Characters in The Lord of the Rings]]
+
+[[bs:Eomer]]
+[[ca:Éomer]]
+[[cs:Éomer]]
+[[da:Éomer]]
+[[es:Éomer]]
+[[fr:Éomer]]
+[[hr:Eomer]]
+[[it:Éomer]]
+[[nl:Éomer]]
+[[ja:エオメル]]
+[[no:Éomer]]
+[[pl:Éomer]]
+[[pt:Éomer]]
+[[ru:Эомер]]
+[[fi:Éomer]]
+[[sv:Éomer]]
+[[th:เอโอแมร์]]
+[[tr:Eomer]]
+[[zh:伊歐墨]]

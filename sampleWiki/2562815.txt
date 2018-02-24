@@ -1,0 +1,89 @@
+{{wiktionarypar5|AM|A.M.|Am|am|a.m.}}
+
+'''AM''' or '''Am''' may refer to:
+* [[Master of Arts (postgraduate)|Artium Magister]], alternative abbreviation for a Master's degree in Arts
+* [[Americium]], a chemical element with symbol Am
+* [[Arthur-Merlin protocol]], an interactive proof system in computational complexity theory
+* [[Automated Mathematician]], an artificial intelligence program
+* [[Attometre]] (am), a unit of length (equal to 10<sup><small>–18</small></sup> m)
+* [[Order of Australia]] member (postnominal)
+* [[Accelerated Math]] in the US or Accelerated Maths in the UK
+* [[Adrenomedullin]], a protein
+
+In '''timekeeping''':
+
+* ''[[Ante Meridiem]]'', in [[12-hour clock]] notation, Latin for "before noon"
+* ''[[Anno Mundi]]'', a Calendar era counting from the creation of the world
+* ''[[Anno Martyrum]]'', used in the Coptic calendar
+
+In '''communications''':
+* "Away message", see [[status message (IM)]]
+* ''"Above mentioned"'' in [[Internet slang]]
+* [[Airmail]]
+* [[AM broadcasting]], radio broadcasting using [[Amplitude Modulation]]
+
+In '''entertainment''':
+
+* [[All Music Guide|All Music]], a music database
+* [[AM (ABC Radio)]], radio current affairs programme
+* [[A.M. (album)]], album by rock band Wilco
+* [[AM (fictional computer)]], a fictional evil supercomputer in the short story ''[[I Have No Mouth, and I Must Scream]]''
+* Ante-Meridiem (Band), an indie rock band
+* A-minor (Am), a [[minor chord]] in music
+* The [[Arctic Monkeys]], a British Indie band
+* [[American Morning]], the [[Breakfast television|morning news program]] on [[CNN]]
+
+In '''geography''':
+
+* [[Americas]] (as in [[Pan-Am]] and [[Trans-Am]])
+* [[Armenia]] (ISO country code AM)
+* [[Anguilla]] (MARC country code am)
+* [[Amazonas State, Brazil]]
+* [[Amharic language]] (ISO 639-1 language code am)
+* [[Amran Governorate]], Yemen (ISO 3166-2:YE)
+
+In '''transportation''':
+
+* [[Aston Martin]]
+* [[Aeroméxico]] (IATA airline designator)
+* [[Asia Miles]], a Cathay Pacific travel reward programme
+* [[Arkansas and Missouri Railroad]], a short-line railroad headquartered in Springdale, Arkansas
+*[[A.M. (1906 automobile)]], an early French automobile
+
+In the '''military''':
+
+* [[Air Marshal]], a military rank in the Royal Air Force and many Commonwealth air forces
+* [[Air Medal]], a military decoration
+* [[Minesweeper (ship)]], U.S. Navy 1921 warship classification code
+* [[Anti-materiel rifle]], a weapon for use against [[material]] rather than [[combatant]]s
+
+In '''UK Politics''':
+* [[Assembly Member]] of the National Assembly for Wales or London Assembly
+
+==See also==
+* [[AM2]]
+
+{{disambig}}
+
+[[ca:Am]]
+[[cs:AM]]
+[[da:AM (flertydig)]]
+[[de:AM]]
+[[es:Am]]
+[[eo:Am]]
+[[eu:AM]]
+[[fr:AM]]
+[[ko:AM]]
+[[it:AM]]
+[[nl:Am]]
+[[ja:AM]]
+[[no:AM]]
+[[pl:AM]]
+[[pt:AM]]
+[[ru:Am]]
+[[sl:Am]]
+[[fi:Am]]
+[[sv:AM]]
+[[tr:Am]]
+[[vi:AM]]
+[[zh:AM]]

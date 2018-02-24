@@ -1,0 +1,83 @@
+{{Infobox Mountain
+| Name = Santa María
+| Photo =Santiaguito from Santamaria.jpg
+| Caption = 
+| Elevation = 3,772 metres (12,372 feet)
+| Location = [[Quetzaltenango Department]], [[Guatemala]]
+| Range = [[Sierra Madre de Chiapas|Sierra Madre]]
+| Prominence = 
+| Coordinates = {{coor d|14.756|N|91.552|W|type:mountain}}
+| Topographic map =
+| Type = [[Stratovolcano]] 
+| Age = 
+| Last eruption= [[2007]] (continuing)
+| First ascent =
+| Easiest route=
+}}
+'''Volcán Santa María''' is a large active [[volcano]] in the Western Highlands of [[Guatemala]], close to the city of [[Quetzaltenango]]. Its eruption in [[1902]] was one of the three largest eruptions of the [[20th century]], and the third large eruption of that one year, after [[Mount Pelée]] in Martinique and [[Soufrière (volcano)|Soufrière]] in St. Vincent. It was also one of the five biggest eruptions of the past 200 (and probably 300) years. [http://www.volcano.si.edu/world/largeeruptions.cfm]
+
+The 1902 eruption blasted away most of one side of the 3,772&nbsp;m tall mountain.  Some 5.5&nbsp;cubic&nbsp;km (1.3&nbsp;cubic miles) of volcanic material was ejected during the 19-day eruption, and the ash column reached heights of up to 28&nbsp;km. The eruption devastated the surrounding areas.
+
+In [[1922]], a new volcanic vent formed in the enormous crater, and formed a new volcano, named Santiaguito. Santiaguito has been erupting ever since and now forms a cone a few hundred metres tall, reaching an elevation of about 2,500&nbsp;m. Today, it is possible to climb to the top of Santa María and look down on the ongoing eruptions at Santiaguito, 1,200m below, a situation which may be unique in the world.
+
+==Geological history==
+[[Image:Santamaria from the ISS.jpg|thumb|left|250px|Steam rises from Santiaguito. The area of the flank destroyed by the 1902 eruption can be clearly seen. Lahar deposits snake down river valleys to the left of the image]]
+
+Santa María is part of the [[Sierra Madre]] range of volcanoes, which extends along the western edge of [[Guatemala]], separated from the [[Pacific Ocean]] by a broad plain. The volcanoes are formed by the [[subduction]] of the [[Cocos Plate]] under the [[Caribbean Plate]].
+
+Eruptions at Santa María are estimated to have begun about 30,000 years ago. For several thousand years, eruptions seem to have been small and frequent, building up the large cone of the volcano, reaching about 1,400&nbsp;m above the plain on which the nearby city of [[Quetzaltenango]] sits.  Following the cone-building eruptions, activity seems to have changed to a pattern of long periods of repose followed by the emission of small [[lava flow]]s from vents on the flanks.
+
+The cone built by the eruptions had a volume of about 10&nbsp;km³, and consisted of a mixture of [[basalt]] and [[andesite]] lavas.
+
+==1902 eruption==
+
+The first eruption of Santa María in recorded history occurred in October [[1902]].  Before 1902 the volcano had been dormant for at least 500 years and possibly several thousand years, but its awakening was clearly indicated by a seismic swarm in the region starting in January [[1902]].  The eruption began on [[24 October]], and the largest explosions occurred over the following two days, ejecting an estimated 5.5&nbsp;km³ of [[magma]].  The eruption was one of the largest of the 20th century, comparable in magnitude to that of [[Mount Pinatubo]] in [[1991]].
+
+The [[pumice]] formed in the climactic eruption fell over an area of about 273,000&nbsp;km², and [[volcanic ash]] was detected as far away as [[San Francisco]], 4,000&nbsp;km away.  The eruption tore away much of the south-western flank of the volcano, leaving a crater about 1&nbsp;km in diameter and about 300&nbsp;m deep, stretching from just below the summit to an elevation of about 2,300&nbsp;m.
+
+Because of the lack of previous activity at Santa María, local people did not recognise the preceding seismicity as warning signs of an eruption.  At least 5,000 people died as a result of the eruption itself, and a subsequent outbreak of [[malaria]] killed many more.
+
+==Santiaguito==
+[[Image:Santamarias.jpg|thumb|right|The volcano as seen from the nearby city of Quetzaltenango|290px]]
+
+The 1902 eruption was followed by 20 years of dormancy.  In [[1922]], new eruptions began, with the extrusion of a [[lava dome]] in the crater left by the 1902 eruption.  The dome was christened ''Santiaguito'', and since then, activity has been virtually constant.  Santiaguito now reaches a height of about 2,500&nbsp;m, and has a volume of about 1&nbsp;km³. From the summit of Santa María, it is possible to look down on the eruptions at Santiaguito a mile below.
+
+Dome growth at Santiaguito has alternated between growth caused by the emission of lava flows, and inflation caused by the injection of magma into the middle of the dome.  These dome growth types are described by volcanologists as ''exogenous'' and ''endogenous'' respectively.  Activity has been concentrated at several different vents, and Santiaguito now has the appearance of several overlapping domes.
+
+Although most of Santiaguito's eruptive activity has been relatively gentle, occasional larger explosions have occurred.  In [[1929]], part of the dome collapsed, generating [[pyroclastic flow]]s which killed anywhere from several hundred up to 5,000 people.  Occasional rockfalls have generated smaller pyroclastic flows, and vertical eruptions of ash to heights of a few kilometres above the dome are common.
+
+==Volcanic hazards at Santa María==
+
+[[Image:Hot lahar at Santiaguito.jpg|thumb|250px|left|A hot lahar rushes down a river valley near El Palmar in 1989]]
+
+The areas to the south of Santa María are considerably affected by volcanic activity at Santiaguito. Currently, the most common volcanic hazard at Santa María is [[lahar]]s, which frequently occur in the [[rainy season]] due to heavy rainfall on loose volcanic deposits.  The town of El Palmar, 10&nbsp;km from Santiaguito, has been destroyed twice by lahars from Santiaguito, and [[infrastructure]] such as roads and [[bridge]]s have been repeatedly damaged.  Lahar deposits from Santiaguito have affected rivers all the way downstream to the Pacific Ocean.
+
+Lava flows do not occur frequently from Santiaguito, and tend not to stretch more than a few kilometres from the dome.  The magma at Santiaguito is rich in [[silica]] and is thus highly [[viscosity|viscous]].  Flows are therefore very slow-moving and are of little danger to human life, although property damage may occur.  Fast-moving pyroclastic flows can occur, and these may travel several kilometres from the dome.
+
+One hazard which could be devastating is the collapse of Santa María itself.  The 1902 crater has left the southern flank of the mountain above Santiaguito highly over-steepened, and a large [[earthquake]] or eruption from Santiaguito could trigger a huge [[landslide]], which might cover up to 100&nbsp;km².  However, this is thought to be unlikely in the short term.
+
+In light of the threat it poses to nearby populations, Santa María has been designated a [[Decade Volcano]], identifying it as a target for particular study by volcanologists to mitigate any future [[natural disaster]]s at the volcano.
+
+==External links==
+*[http://www.volcano.si.edu/world/volcano.cfm?vnum=1402-03= Global Volcanism Program]
+*[http://volcano.und.nodak.edu/vwdocs/volc_images/south_america/guat/santa_maria.html Santa María: Pictures and recent activity, from VolcanoWorld]
+*[http://www.geo.mtu.edu/volcanoes/santamaria/decade.html Santa María Decade Volcano information]
+
+==References==
+
+* Bunzendahl, E.; Bluth, G. J.; Rose, W. I.; Reif, S. L.; Matias, O. (2001), ''Developing a Long-term Hazard Mitigation Plan for Consequent Volcanic Sedimentation Hazards at Santiaguito Dome Complex, Guatemala'', [[American Geophysical Union]], Fall Meeting 2001, abstract #V41A-0974
+* Harris, A. J.; Flynn, L. P.; Rose, W. I.; Matias, O.; Cornejo, J. (2002), ''The extrusion of lava dome and block lava flow units at Santiaguito, 1922-2002'', [[American Geophysical Union]], Fall Meeting 2002, abstract #V12A-1399
+
+[[Category:Stratovolcanoes]]
+[[Category:Subduction volcanoes]]
+[[Category:Volcanoes of Guatemala]]
+[[Category:Mountains of Guatemala]]
+[[Category:Decade Volcanoes]]
+[[Category:Active volcanoes]]
+[[Category:VEI-6 volcanoes]]
+
+[[de:Santa María]]
+[[id:Santamaría (gunung berapi)]]
+[[nl:Santa María (vulkaan)]]
+[[pl:Santamaría]]
+[[fi:Santa Maria (tulivuori)]]

@@ -1,0 +1,621 @@
+{{Citytrain Station
+|station_name=Brunswick Street
+|region=Brisbane Central
+|image=Valley-Metro-Brunswick-Street.jpg
+|servicearea1=Airport
+|servicearea2=Nambour and Gympie North
+|servicearea3=Caboolture
+|servicearea4=Doomben
+|servicearea5=Ferny Grove
+|servicearea6=Shorncliffe
+|servicearea13=Exhibition
+|IB1=[[Central railway station, Brisbane|Central]]
+|OB1=[[Bowen Hills railway station, Brisbane|Bowen Hills]]
+|IB2=[[Central railway station, Brisbane|Central]]
+|OB2=[[Bowen Hills railway station, Brisbane|Bowen Hills]]
+|IB3=[[Central railway station, Brisbane|Central]]
+|OB3=[[Bowen Hills railway station, Brisbane|Bowen Hills]]
+|IB4=[[Central railway station, Brisbane|Central]]
+|OB4=[[Bowen Hills railway station, Brisbane|Bowen Hills]]
+|IB5=[[Central railway station, Brisbane|Central]]
+|OB5=[[Bowen Hills railway station, Brisbane|Bowen Hills]]
+|IB6=[[Central railway station, Brisbane|Central]]
+|OB6=[[Bowen Hills railway station, Brisbane|Bowen Hills]]
+|CB13=[[Central railway station, Brisbane|Central]]
+|AB13=[[Exhibition railway station, Brisbane|Exhibition]]
+|street=Brunswick Street
+|suburb=Fortitude Valley
+|zone=1
+|distance=1.33
+|platforms=4
+|platform_arch=2 island
+|access=Main entrance via [[Valley Metro (Fortitude Valley)|Valley Metro]]|trainconnect=Yes
+|busconnect=Yes, at [[Brunswick Street railway station, Brisbane (bus routes)|Brunswick Street]]
+|tvm=Yes
+|disability=Assisted
+|facilities=[http://www.citytrain.com.au/stations/station_details/brunswick_street.asp Link]}}
+
+'''Brunswick Street Station''' is an undercover [[railway station]] in the [[Queensland Rail|QR]] [[Citytrain]] rail network of [[Brisbane]], [[Queensland]], [[Australia]].
+
+Brunswick Street Station, which is located beneath the [[Valley Metro (Fortitude Valley)|Valley Metro]] complex, is the station for [[Fortitude Valley, Queensland|Fortitude Valley]], and Brisbane's [[Chinatown]].
+
+Pedestrian access to the station is via the corner of Brunswick Street and Wickham Street.
+
+Nearby locations include Brisbane's Chinatown, the Brunswick Street Mall, and the [[Story Bridge, Brisbane|Story Bridge]].
+
+The station has four platforms. It is located in Zone 1 of the [[TransLink (South East Queensland)|TransLink]] integrated public transport system.
+
+==Services by platform==
+ 
+Brunswick Street Station currently serves all suburban and interurban lines. The platforms at Brunswick Street Station are numbered from 1 to 4, with 1 being the easternmost platform and 4 being one of the westernmost. However during peak hour, some services may use different platforms from the ones listed below. The services which generally use each platform are listed below.
+
+<b>Platforms 1</b> 
+* <font color=#FF0000>[[Beenleigh railway line, Brisbane|'''Beenleigh Line''']]</font> - all stations and peak hour express services to Beenleigh
+* <font color=#FEBE10>[[Gold Coast railway line, Queensland|'''Gold Coast Line''']]</font> - Interurban express services to Robina
+* <font color=#800080>[[Cleveland railway line, Brisbane|'''Cleveland Line''']]</font> - all stations and peak hour express services to Cleveland
+* <font color=#FF0000>[[Tennyson railway line, Brisbane|'''Corinda via South Brisbane Line''']]</font> - all stations to Corinda via South Brisbane and Tennyson (Peak hour only)
+* <font color=dodgerblue>[[Roma Street railway station, Brisbane|'''Roma Street''']]</font> - Services terminating at Roma Street
+* <font color=dodgerblue>[[South Bank railway station, Brisbane|'''South Bank''']]</font> - Services terminating at South Bank (weekends only)
+
+<b>Platforms 2</b>
+* <font color=#FF0000>[[Ferny Grove railway line, Brisbane|'''Ferny Grove Line''']]</font> - all stations and peak hour express services to Ferny Grove
+* <font color=#FEBE10>[[AirTrain (Brisbane)|'''Airport Line''']]</font> - Airtrain service to Brisbane International and Domestic terminals.
+* <font color=#009900>[[Nambour and Gympie North railway line, Queensland|'''Nambour and Gympie North Line''']]</font> - Interurban express services to Cooroy and Gympie North
+* <font color=#800080>[[Doomben railway line, Brisbane|'''Doomben Line''']]</font> - all stations services to Doomben
+* <font color=gray>[[Exhibition railway line, Brisbane|'''Exhibition Line''']]</font> - direct service to Exhibition '''(during special events only)'''
+* <font color=dodgerblue>[[Bowen Hills railway station, Brisbane|'''Bowen Hills''']]</font> - Services terminating at Bowen Hills
+
+<b>Platform 3</b>
+* <font color=#009900>[[Ipswich railway line, Queensland|'''Ipswich Line''']]</font> - all stations and peak hour express services to Ipswich
+* <font color=#009900>[[Rosewood railway line, Queensland|'''Rosewood Line''']]</font> - Peak hour interurban services to Rosewood (at other times, Rosewood line trains depart from [[Ipswich railway station, Brisbane|Ipswich]])
+* <font color=dodgerblue>[[Roma Street railway station, Brisbane|'''Roma Street''']]</font> - Services terminating at Roma Street
+* <font color=gray>[[Exhibition railway line, Brisbane|'''Exhibition Line''']]</font> - Services to Exhibition via Roma Street '''(during special events only)'''
+
+<b>Platform 4</b>
+* <font color=#009900>[[Caboolture railway line, Brisbane|'''Caboolture Line''']]</font> - all stations and peak hour express services to Caboolture
+* <font color=#0000cd>[[Shorncliffe railway line, Brisbane|'''Shorncliffe Line''']]</font> - all stations and peak hour express services to Shorncliffe
+* <font color=#009900>[[Nambour and Gympie North railway line, Queensland|'''Nambour and Gympie North Line''']]</font> - Interurban express services to Nambour (Additional off-peak bus and train services may depart from [[Caboolture railway station, Brisbane|Caboolture]])
+* <font color=dodgerblue>[[Bowen Hills railway station, Brisbane|'''Bowen Hills''']]</font> - Services terminating at Bowen Hills
+
+==[[TransLink (South East Queensland) services|TransLink bus routes]] servicing Brunswick Street==
+<div class="NavFrame" style="border-style:none;padding:0px;">
+<div class="NavHead" style="border-style:solid;border-width:1px;border-color:#AAAAAA;">[[TransLink (South East Queensland) services|Bus routes]] servicing Brunswick Street Station</div>
+<div class="NavContent" style="display:none;padding:0px;margin:0px;border-style:none;">
+{|class=wikitable style="text-align:center;width:100%;padding:0px;margin:0px;"
+!width=20px| !!Route!!Termini!!Major Ports of Call!!Days of operation!!Operator
+|-
+|colspan=6 style="background:#004780;color:#FFFFFF;"|'''Brisbane Central'''
+|-
+|style=background:#004780|
+|'''193'''
+|Teneriffe - Merthyr Village<br>'''Shopper Service'''
+|Kingsholme St
+|Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#004780|
+|'''195'''
+|New Farm Ferry - West End<br>'''All Stops'''
+|Brunswick Street, City and Melbourne Street
+|Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#004780|
+|'''196'''
+|New Farm (Merthyr) - Fairfield Gardens<br>'''All Stops'''
+|Brunswick Street, City and Highgate Hill
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#004780|
+|'''197'''
+|New Farm (Merthyr) - Fairfield Gardens<br>'''All Stops'''
+|Brunswick Street, City and Highgate Hill
+|Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#004780|
+|'''199'''
+|New Farm - West End<br>'''BUZ'''
+|Teneriffe, Fortitude Valley, City and Melbourne Street
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#004780|
+|'''475'''
+|PA Hospital - Bardon<br>'''All Stops'''
+|Woolloongabba, Story Bridge, Fortitude Valley, City and Milton
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#004780|
+|'''476'''
+|PA Hospital - Rainworth<br>'''All Stops'''
+|Woolloongabba, Story Bridge, Fortitude Valley, City and Milton
+|Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|colspan=6 style="background:#C1D72F;color:#FFFFFF;"|'''Brisbane North'''
+|-
+|style=background:#C1D72F|
+|'''300'''
+|City - Toombul<br>'''All Stops'''
+|Fortitude Valley, Hamilton and Ascot
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''301'''
+|City - Toombul<br>'''All Stops'''
+|Bowen Hills, Hamilton and Hendra
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''302'''
+|City - Pinkenba<br>'''All Stops'''
+|Fortitude Valley, Newstead and Eagle Farm
+|Counter-peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''305'''
+|City - Hamilton<br>'''All Stops'''
+|Fortitude Valley and Newstead
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''306'''
+|City - Nudgee Beach<br>'''All Stops'''
+|Fortitude Valley, Sandgate Road, Toombul and Nudgee
+|Every day (To Nudgee Beach Monday - Friday only)
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''320'''
+|City - Chermside<br>'''All Stops'''
+|Fortitude Valley, Kedron and Wavell Heights
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''322'''
+|City - Chermside<br>'''All Stops'''
+|Fortitude Valley, Sandgate Road (Albion and Wooloowin), Toombul and Wavell Heights
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''334'''
+|City - Bracken Ridge<br>'''All Stops'''
+|Fortitude Valley, Lutwyche and Kedron
+|Monday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''335'''
+|City - Taigum<br>'''CityXpress'''
+|Stafford, Chermside, Aspley and Carseldine
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''339'''
+|City - Taigum<br>'''Rocket'''
+|Fortitude Valley, Stafford, Aspley East and Carseldine
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''346'''
+|City - Aspley<br>'''All Stops'''
+|Fortitude Valley, Grange and Stafford
+|Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''353'''
+|City - Chermside<br>'''All Stops'''
+|Fortitude Valley, Grange, Stafford Heights and McDowall
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''360'''
+|City - Brookside Shopping Centre<br>'''All Stops'''
+|Fortitude Valley, Enoggera and Everton Park
+|Monday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''361'''
+|City - Brookside Shopping Centre<br>'''All Stops'''
+|Fortitude Valley, Newmarket, Gaythorne and Mitchelton
+|Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''364'''
+|City - Herston<br>'''All Stops'''
+|Fortitude Valley and QUT Kelvin Grove
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''370'''
+|City - Chermside<br>'''All Stops'''
+|Fortitude Valley and Gympie Road
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''375'''
+|Stafford - Bardon<br>'''All Stops'''
+|Lutwyche, Fortitude Valley, City and Paddington
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''379'''
+|City & Ashgrove - Stafford<br>'''All Stops'''
+|Grange, Fortitude Valley and Red Hill
+|Every day (To Ashgrove Saturday - Sunday only)
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''382'''
+|City - The Gap<br>'''Rocket'''
+|Paddington, Bardon and Hilder Road (The Gap)
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''383'''
+|City - The Gap<br>'''Rocket'''
+|Paddington, Bardon and Payne Road (The Gap)
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|colspan=6 style="background:#F89828;color:#FFFFFF;"|'''Brisbane East'''
+|-
+|style=background:#F89828|
+|'''203'''
+|City & Valley - Carindale<br>'''All Stops'''
+|South Bank, Coorparoo, Camp Hill and Carina Heights
+|Monday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''204'''
+|City & Valley - Carindale (Clem Jones Centre)<br>'''All Stops'''
+|South Bank, Stones Corner and Old Cleveland Road
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''206'''
+|City & Valley - Carindale<br>'''City Precincts'''
+|Pacific Motorway, Woolloongabba, Old Cleveland Road and Carina Heights
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''210'''
+|City & Valley - Cannon Hill<br>'''All Stops'''
+|South Bank, East Brisbane, Norman Park and Carina
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''211'''
+|City & Valley - Cannon Hill<br>'''Express'''
+|Pacific Motorway, East Brisbane, Norman Park and Carina
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''212'''
+|City & Valley - Carindale<br>'''All Stops'''
+|South Bank, East Brisbane, Seven Hills and Creek Road (Carina)
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''216'''
+|City - Tingalpa<br>'''Rocket'''
+|Story Bridge, Norman Park and Cannon Hill
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''221'''
+|City - Wynnum<br>'''Rocket'''
+|Story Bridge, Norman Park, Cannon Hill and Manly West
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''222'''
+|City & Valley - Wynnum West<br>'''All Stops'''
+|Story Bridge, East Brisbane, Cannon Hill and Manly West
+|Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''230'''
+|City & Valley - Balmoral<br>'''All Stops'''
+|South Bank, East Brisbane and Riding Road (Hawthorne)
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''231'''
+|City - Balmoral<br>'''Express'''
+|Fortitude Valley, Story Bridge, East Brisbane and Riding Road (Hawthorne)
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''232'''
+|City - Cannon Hill<br>'''All Stops'''
+|Fortitude Valley, Story Bridge, Bulimba and Balmoral
+|Monday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''235'''
+|City & Valley - Balmoral<br>'''All Stops'''
+|South Bank, East Brisbane and Thynne Road (Balmoral)
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''236'''
+|City - Balmoral<br>'''Express'''
+|Fortitude Valley, East Brisbane and Thynne Road (Balmoral)
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|colspan=6 style="background:#009DDC;color:#FFFFFF;"|'''Brisbane South'''
+|-
+|style=background:#009DDC|
+|'''117'''
+|City & Valley - Acacia Ridge<br>'''All Stops'''
+|South Bank and Ipswich Road
+|Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''121'''
+|City & Valley - Salisbury<br>'''CityXpress'''
+|Pacific Motorway, Greenslopes and Tarragindi
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''124'''
+|City & Valley - Sunnybank<br>'''All Stops'''
+|South Bank, Ipswich Road and Coopers Plains
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''125'''
+|City & Valley - Garden City<br>'''All Stops'''
+|South Bank, Ipswich Road and Salisbury
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''171'''
+|City - Garden City<br>'''Rocket'''
+|Pacific Motorway, South-East Busway, Logan Road (Holland Park) and Newnham Road
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''174'''
+|City & Valley - Garden City<br>'''All Stops'''
+|South Bank, Stones Corner, Holland Park and Newnham Road (Wishart)
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''175'''
+|City & Valley - Garden City<br>'''All Stops'''
+|South Bank, Stones Corner, Holland Park and Mount Gravatt
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''176'''
+|City - Garden City<br>'''Rocket'''
+|Pacific Motorway, South-East Busway and Logan Road
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''178'''
+|City & Valley - Carindale Heights<br>'''All Stops'''
+|Pacific Motorway, South-East Busway, Mount Gravatt and Mansfield
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''181'''
+|City - North Wishart<br>'''Rocket'''
+|Pacific Motorway, Cavendish Road (Greenslopes and Holland Park) and Mansfield
+|Peak flow Monday - Friday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''184'''
+|City & Valley - Garden City<br>'''All Stops'''
+|South Bank, Coorparoo, Greenslopes, Holland Park and Wishart
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''185'''
+|City & Valley - Garden City<br>'''All Stops'''
+|South Bank, Coorparoo, Greenslopes, Holland Park, and Mount Gravatt
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|colspan=6 style="background:#BF82B9;color:#FFFFFF;"|'''Brisbane West'''
+|-
+|style=background:#BF82B9|
+|'''470'''
+|Bulimba Ferry - Toowong<br>'''All Stops'''
+|New Farm, Fortitude Valley, City and Milton
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|colspan=6 style="background:#EB6E08;color:#FFFFFF;"|'''Northern Region'''
+|-
+|style=background:#EB6E08|
+|'''310'''
+|City - Brighton<br>'''CityXpress'''
+|Sandgate Road, Nudgee, Virginia, Boondall, and Sandgate
+|Every day
+|''[[Brisbane Transport]]''
+|-
+|style=background:#EB6E08|
+|'''315'''
+|City - Scarborough<br>'''CityXpress'''
+|Fortitude Valley, Sandgate Road, Hornibrook Bridge and Redcliffe
+|Monday - Friday
+|''[[Hornibrook Bus Lines]]''
+|-
+|colspan=6 style="background:#000000;color:#FFFFFF;"|'''NightLink'''
+|-
+|style=background:#009DDC|
+|'''N100'''
+|City & Valley - Inala<br>'''NightLink'''
+|South Bank, Moorooka, Ipswich Motorway and Inala
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''N111'''
+|City & Valley - Eight Mile Plains<br>'''NightLink'''
+|South-East Busway
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''N130'''
+|City & Valley - Algester<br>'''NightLink'''
+|South Bank, South-East Busway and Sunnybank
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#009DDC|
+|'''N184'''
+|City & Valley - Garden City<br>'''NightLink'''
+|South Bank, Coorparoo, Greenslopes, Holland Park and Wishart
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#004780|
+|'''N199'''
+|New Farm - West End<br>'''NightLink'''
+|Teneriffe, Fortitude Valley, City and Melbourne Street
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''N200'''
+|City & Valley - Carindale<br>'''NightLink'''
+|South Bank, Old Cleveland Road and Carindale Heights
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#F89828|
+|'''N226'''
+|City & Valley - Wynnum<br>'''NightLink'''
+|Story Bridge, East Brisbane, Cannon Hill, Tingalpa and Manly West
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#A69AC4|
+|'''N250'''
+|City & Valley - Cleveland<br>'''NightLink'''
+|Carindale and Capalaba
+|Late night Friday - Saturday
+|''[[Veolia Transport]]''
+|-
+|style=background:#C1D72F|
+|'''N310'''
+|City & Valley - Sandgate<br>'''NightLink'''
+|Sandgate Road, Nudgee, Virginia, Boondall, and Sandgate
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''N330'''
+|City & Valley - Bracken Ridge<br>'''NightLink'''
+|Inner-Northern Busway, Lutwyche, Kedron, Chermside, Zillmere and Taigum
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''N385'''
+|City & Valley - The Gap<br>'''NightLink'''
+|Paddington, Bardon and Hilder Road (The Gap)
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#C1D72F|
+|'''N390'''
+|City & Valley - Ferny Grove<br>'''NightLink'''
+|Kelvin Grove, Newmarket, Enoggera and Mitchelton
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#BF82B9|
+|'''N412'''
+|City & Valley - St Lucia<br>'''NightLink'''
+|Coronation Drive, Toowong and University of Queensland
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#BF82B9|
+|'''N464'''
+|City & Valley - Forest Lake<br>'''NightLink'''
+|Milton, Toowong, Indooroopilly and Mount Ommaney
+|Late night Friday - Saturday
+|''[[Brisbane Transport]]''
+|-
+|style=background:#1DBBB0|
+|'''N555'''
+|City & Valley - Logan Hyperdome<br>'''NightLink'''
+|South-East Busway and Springwood
+|Late night Friday - Saturday
+|''[[Logan City Bus Service]]''
+|}</div></div>
+
+For an informal but complete listing of TransLink bus routes, see the following [[TransLink (South East Queensland) services|list of TransLink services]].  For accurate bus timetables and route maps, see the [http://www.translink.com.au/qt/TransLin.nsf/index/busservices TransLink Bus Services website]. 
+
+==See also==
+*[[List of South East Queensland railway stations]]
+
+==External links==
+*[http://www.citytrain.com.au Citytrain]
+*[http://www.transinfo.com.au TransInfo]
+*[http://qroti.com/placeinfo/qld/rail/brunswick-street/ Brunswick Street Station at QROTI]
+
+{{CitytrainBrisbane/Navigation begin}}
+{{CitytrainBrisbane/Navigation|name=Airport}}
+{{CitytrainQld/Navigation|name=Nambour and Gympie North}}
+{{CitytrainBrisbane/Navigation|name=Caboolture}}
+{{CitytrainBrisbane/Navigation|name=Doomben}}
+{{CitytrainBrisbane/Navigation|name=Ferny Grove}}
+{{CitytrainBrisbane/Navigation|name=Shorncliffe}}
+{{CitytrainBrisbane/Navigation|name=Exhibition}}
+{{CitytrainBrisbane/Navigation end}}
+
+[[Category:Railway stations in Brisbane]]
+
+[[ja:ブルンスウィック駅]]

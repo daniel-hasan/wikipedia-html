@@ -1,0 +1,461 @@
+{{Taxobox
+| color = pink
+| name = Green Iguana
+| status = {{StatusLeastConcern}}
+| image = Iguana_Iguana.jpg 
+| image_width = 250px
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[reptile|Sauropsida]]
+| ordo = [[Squamata]]
+| familia = [[Iguanidae]]
+| genus = ''[[Iguana]]''
+| species = '''''I. iguana'''''
+| binomial = ''Iguana iguana''
+| binomial_authority = ([[Carolus Linnaeus|Linnaeus]], [[1758]])
+}}
+
+The '''Green Iguana''' (''Iguana iguana'') is a large, [[arboreal]] [[herbivorous]] [[species]] of [[lizard]] of the [[genus]] [[iguana]] native to [[Central America|Central]] and [[South America]].  The Green iguana ranges over a large geographic area, from  southern [[Brazil]] and [[Paraguay]] to as far north as [[Mexico]], the [[Caribbean]] Islands; and in the [[United States]] as [[feral]] populations in [[Florida]], [[Hawaii]] and the [[Rio Grande Valley]] of [[Texas]].  The Green iguana is a [[reptile]] commonly found in captivity as a [[pet]] and grows to 1.5 meters in length from head to tail, although a few specimens have grown more than 2 meters (6 feet) and can weigh upwards of 20 pounds (10 kg).
+
+==Taxonomy==
+
+The word Iguana is derived from a Spanish form of the [[Taino]] name for the species "Iwana".<ref name="Coles">
+{{citation
+  | last = Coles
+  | first = William
+  | title =  Green Iguana
+  | work = U.S.V.I. Animal Fact Sheet #08
+  | publisher = Department of Planning and Natural Resources US Virgin Islands Division of Fish and Wildlife
+  | url = http://www.vifishandwildlife.com/Education/FactSheet/PDF_Docs/08GreenIguana.pdf
+  | date=  2002
+  }}
+</ref><ref name="devosjoli"/>  The species was first officially described by Swedish [[botanist]] [[Carolus Linnaeus]] in 1758.<ref name="Hollingsworth"/>  In the two centuries since then, no less than 17 species and [[subspecies]] have been identified with all but one species(''[[Iguana delicatissima]]'') being found to be invalid.<ref name="Hollingsworth">
+{{citation
+  | last = Hollingsworth
+  | first = Bradford D.
+  | title = The Evolution of Iguanas an Overview and a Checklist of Species
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 40-41
+  | date=  2004
+  | isbn = 9780520238541
+  }}
+</ref>
+
+Using nuclear and [[mitochondrial]] DNA-sequence data to explore the [[phylogenic]] history of the Green iguana, scientists from [[Utah Valley State College]] studied animals collected from 17 different countries.<ref name="GenUp">
+{{Citation
+  | last = Stephen
+  | first = Catherine
+  | title = Genetic Studies Update
+  | journal = Iguana Journal of the International Iguana Society
+  |conference= Iguana Specialist Group Meeting 2005
+  | volume=13
+  |number 2
+  | pages=127
+  | year = 2006
+ }}
+</ref>  The [[topology]] of phylogeny indicated that the species originated in South America and eventually radiated through Central America and the Caribbean.<ref name="GenUp"/>  The study revealed no unique [[mitochondrial DNA]] haplotypes for subspecific status but did indicate the deep lineage divergence getween Central and South American populations.<ref name="GenUp"/> 
+
+In Spanish speaking countries, males of the species are referred to as ''gorrobo'' or ''ministro'' and juveniles are called ''iguanita'' or ''gorrobito''.<ref name="Swanson">
+{{Citation
+  | last = Swanson
+  | first = Paul L
+  | title =The Iguana: Iguana iguana iguana
+  | journal = Herpetolgica
+  | volume=6
+  | pages=187-193
+  | year = 1950
+ }}
+</ref>
+
+==Distribution and habitat==
+
+The native range of the Green iguana extends from southern Mexico to central Brazil, Paraguay, and [[Bolivia]] and the [[Caribbean]]; specifically [[Grenada]], [[Curacao]], [[Trinidad and Tobago]], [[St. Lucia]], [[St. Vincent]], and [[Utila]].<ref name="Lazell"/><ref name="Krysko"/>  They have been introduced to [[Grand Cayman]], [[Puerto Rico]], [[Texas]], Florida, Hawaii, and the US Virgin Islands.<ref name="Krysko"/><ref name="wildblue"> {{Citation
+  | last = Mani
+  | first = Bina
+  | title = Wild Blue Iguanas plummeting towards extinction 
+  | date=  7/17/2002
+  | year =2002
+  | url =http://www.blueiguana.ky/zzzwildblue.htm
+  | accessdate = 10/28/2007 }}</ref><ref name="seidel">
+{{citation
+  | last = Seidel
+  | first = M
+  | last2 = Franz
+  | first2 = R
+  | title = Amphibians and reptiles (exclusive of marine turtles) of the Cayman Islands
+  | work = The Cayman Islands: natural history and biogeography
+  | publisher = Kluwer Academic Publishers
+  | location = The Netherlands
+  | pages = 407-434
+  | date=  1994
+  | isbn = 9780792324621
+  }}
+</ref>
+
+[[Image:Iguana iguana 2 adults 1 young.jpg|thumb|left|250px|a young iguana with two adults in the trees]]
+Green iguanas are [[diurnal animal|diurnal]] and [[arboreal]] and often found near water.<ref name="Cogger">
+{{citation
+  | last = Cogger
+  | first = Harold
+  | authorlink = Harold Cogger
+  | last2 = Zweifel
+  | first2 = Richard
+  | title = Reptiles & Amphibians
+  | publisher = Weldon Owen
+  | location = [[Sydney, Australia]]
+  | pages = 140
+  | date=  1992
+  | isbn = 0831727861
+  }}
+</ref><ref name="Samuelson"/>  Agile climbers, iguanas can fall up to 50 feet and land unhurt (iguanas use their hind leg claws to "hook" leaves, branches, or anything in a "clasping" motion to break a fall).<ref name="Samuelson"/><ref name="Audobon">
+{{citation
+  | last = Bebler
+  | first = John L.
+  | last2 = King
+  | first2 = F. Wayne
+  | title = The Audubon Society Field Guide to Reptiles and Amphibians of North America
+  | publisher = Alfred A. Knopf
+  |Location= New York
+  | pages = 511-512
+  | date=  1979
+  | isbn = 0394508246
+  }}
+</ref><ref name="Rosenfeld">
+{{citation
+  | last = Rosenfeld
+  | first = Arthur
+  | title = Exotic Pets
+  | publisher = [[Simon & Schuster]]
+  | location= New York
+  | pages = 105
+  | date=  1989
+  | isbn = 067147654
+  }}
+</ref>  During cold, wet weather, Green iguanas prefer to stay on the ground for greater warmth.<ref name="Swanson"/>  When swimming an iguana remains submerged and lets its four legs hang limply against its side and propels itself through the water with powerful tail strokes.<ref name="Swanson"/>
+
+Because of the Green iguana's popularity in the pet trade and as a food source in [[Latin America]], they are listed on the [[CITES]] Appendix II, which means that while they are not an [[endangered species]], "their trade must be controlled so as to not harm the species in the future".<ref name="cites">{{Citation
+  | Work =Convention on International Trade in Endangered Species of Wild Fauna and Flora
+  | title = Appendices I,II, and III
+  | date=  9/13/2007
+  | year =2007
+  | url = http://www.cites.org/eng/app/appendices.shtml
+  | accessdate = 10/28/2007 }}
+</ref>
+
+==Anatomy and morphology==
+In southern countries of their range, such as [[Peru]], Green iguanas appear bluish in color with bold black markings.<ref name="Samuelson"/> On islands such as [[Bonaire]], [[Curacao]], [[Aruba]], and [[Grenada]], a Green iguana's color may range from green to lavender, black, and even pink.<ref name="devosjoli"/><ref name ="Samuelson"/> Green iguanas from the western region of Costa Rica are red and animals of the northen ranges, such as Mexico, appear orange.<ref name="Samuelson"/><ref name="devosjoli"/> Juvenile Green iguanas from [[El Salvador]] are often bright blue as babies, however they lose this color as they get older.<ref name="devosjoli"/>
+
+[[Image:AA Iguana Fot Ars Summum.JPG|thumb|right|250px|A male Green iguana with spines and [[dewlap]].]]
+Green iguanas possess a row of spines along their backs and along their tails which helps to protect them from predators.<ref name="Samuelson"/> Their whiplike tails can be used to deliver painful strikes and like many other lizards, when grabbed by the tail, the iguana can allow it to break, so it can escape and eventually regrow a new one.<ref name="SS"/><ref name="Rosenfeld"/> In addition, iguanas have well developed [[dewlap]]s which helps regulate their body temperature.<ref name="Audobon"/>  It is also used in courtships and displays.<ref name="devosjoli"/><ref name="Samuelson"/><ref name="Conant">
+{{cite book
+  | last =Conant
+  | first =Roger
+  | last2 =Collins
+  | first2 =Joseph
+  | title =A Field Guide to Reptiles and Amphibians Eastern/Central North America
+  | publisher =Houghton Mifflin Company
+  | date= 1991
+  | pages =94-95
+  | location =[[Boston]], [[Massachussets]]
+  | isbn = 0395583896 }}
+</ref>
+
+Green iguanas have excellent vision, enabling them to detect shapes and motions at long distances.<ref name="Brames">
+{{Citation
+  | last = Brames
+  | first = Henry
+  | title = Aspects of Light and Reptile Immunity
+  | journal = Iguana: Conservation, Natural History, and Husbandry of Reptiles
+  | publisher = International Reptile Conservation Foundation
+  | volume = 14
+  | issue = 1
+  | year = 2007
+  |pages=19-23
+ }}
+</ref> As Green iguanas have only a few [[Rod cell]]s, they have poor vision in low-light conditions. At the same time, they have cells called “double [[Cone cell]]s” that give them sharp color vision and enable them to see [[ultraviolet]] wavelengths.<ref name="Brames"/> This ability is highly useful when basking so the animal can ensure that it absorbs enough sunlight in the forms of [[UVA]] and [[UVB]] to produce [[Vitamin D]].<ref name="devosjoli"/><ref name="Rosenfeld"/>
+
+Green iguanas have evolved a white photosensory organ on the top of their heads called the [[parietal eye]], which are also called third eye, pineal eye or pineal gland.<ref name="Brames"/> This “eye” doesn’t work the same way as a normal eye does as it has only a rudimentary retina and lens and thus cannot form images.<ref name="Brames"/> It is, however, sensitive to changes in light and dark and can detect movement.<ref name="Brames"/> This helps the iguana when being stalked by predators from above.<ref name="Brames"/> 
+
+Green iguanas have very sharp teeth that are capable of shredding leaves and even human skin.<ref name="devosjoli"/> The teeth are situated on the inner sides of the jawbones which is why they are hard to see in smaller specimens.<ref name="Conant"/>
+
+Primarily [[herbivorous]], Green iguanas are presented with a special problem for [[osmoregulation]]; plant matter contains more [[potassium]] and as it has less nutritional content per gram, more must be eaten to meet metabolic needs.<ref name="Hazard">
+{{citation
+  | last = Hazard
+  | first = Lisa C.
+  | title = Sodium and Potassium Secretion by Iguana Salt Glands
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 84-85
+  | date=  2004
+  | isbn = 9780520238541
+  }}
+</ref>  As Green iguanas are not capable of creating liquid urine more concentrated than their bodily fluids, like birds they excrete nitrogenous wastes as urate salts through a [[salt gland]]. <ref name="Hazard"/>  As a result, Green iguanas have developed a lateral [[nose|nasal]] gland to supplement renal salt secretion by expelling excess potassium and sodium chloride.<ref name="Hazard"/>
+
+Green iguanas from [[Guatemala]] and southern Mexico have small horns on their snouts between their eyes and their nostrils, whereas others do not.<ref name="Samuelson"/>  Naturalists once classified these iguanas as belonging to different [[subspecies]] (''Iguana iguana rhinolopha''); however, this classification has been found to be invalid as iguanas with similar nose projections appear randomly in other populations and interbreed freely with those that do not share this trait.<ref name="Samuelson">
+{{Citation
+  | last = Samuelson
+  | first = Phillip
+  | title = The Lizard King
+  | journal = Reptiles Magazine
+  | volume = 3
+  | issue = 2
+  | date= 6/1/1995
+  | year = 1995
+  |pages=64-84
+ }}
+</ref><ref name="devosjoli"/>
+[[Image:Iguana3.jpg|thumb|right|200px|Juvenile Green iguana]]
+
+==Sexual dimorphism and reproduction==
+Male Green iguanas have highly developed [[femoral]] [[pores]] on the underside of their thighs which secrete a scent (females also have fermoral pores, but they are smaller in comparison to those of the males).<ref name="devosjoli">
+{{cite book
+  | last =De Vosjoli
+  | first =Phillipe
+  | coauthors = David Blair
+  | title =The Green Iguana Manual
+  | publisher =Advanced Vivarium Systems
+  | date= 1992
+  | location =Escondido, California
+  | isbn = 74886904040 }}
+</ref> In addition, the [[dorsal]] spines that run along a Green iguana's back are noticeably longer and thicker in males than they are in females, making the animals somewhat [[sexual dimorphism|sexually dimorphic]].<ref name="devosjoli"/>
+
+Green iguanas are [[oviparous]] with females laying clutches of 20 to 71 eggs once per year during a synchronized nesting period.<ref name="Burghart">
+{{cite book
+  | last = Burghart
+  | first = Gordon
+  | title = Iguana Research: Looking Back and Looking Ahead
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 5-10
+  | date=  2004
+  | isbn = 9780520238541
+  }}
+</ref><ref name="SS">{{cite book |last= Capula|first= Massimo|coauthors =Behler|title= Simon & Schuster's Guide to Reptiles and Amphibians of the World |year= 1989|publisher= Simon & Schuster |location= New York|isbn= 0671690981}}</ref> The female Green iguana gives no parental protection after egglaying, apart from defending the nesting burrow during excavation.<ref name="Burghart"/> In [[Panama]], the Green iguana has been observed sharing nest sites with [[American Crocodile]]s and in [[Honduras]] with [[Spectacled Caiman]]s.<ref name="Krysko"/>
+
+The hatchlings emerge from the nest after 10-15 weeks of incubation.<ref name="Burghart"/><ref name="SS"/> Once hatched, the young iguanas look similar to the adults in color and shape, resembling adult females more so than males and lacking dorsal spines.<ref name="Burghart"/>
+
+Juveniles stay in familial groups for the first year of their lives.<ref name="Burghart"/> Male Green iguanas in these groups often use their own bodies to shield and protect females from predators and it appears to be the only species of reptile which does this.<ref name="Rivas">
+{{citation
+  | last = Rivas
+  | first = Jesus
+  | last2 = Levin
+  | first2 = Luis E
+  | title = Sexually Dimorphic Antipredator Behavior in Juvenile Green Iguanas
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 121
+  | date=  2004
+  | isbn = 9780520238541
+  }}
+</ref>
+
+==Behavior==
+[[Image:Cuban Iguana head.jpg|thumb|left|200px|Reddish colored Green Iguana]]
+When frightened by a [[predator]], Green iguanas will attempt to flee, and if near a [[body of water]], dive into it and swim away.<ref name="Swanson"/>  If cornered by a threat, the Green iguana will extend and display the [[dewlap]] under its neck, stiffen and puff up its body, and bob its head at the aggressor.<ref name="Samuelson"/>  If the threat persists the Green iguana will lash with it's tail, bite and use its claws in defense.<ref name="Swanson"/>  Wounded animals are more inclined to fight than uninjured ones.<ref name="Swanson"/>
+
+Green iguanas use "head bobs" and dewlaps in a variety of ways in social interactions, such as greeting another iguana or to court a possible mate.<ref name="devosjoli"/>  The frequency and number of head bobs have particular meanings to other iguanas.<ref name="Samuelson"/>
+
+Green iguanas are preyed upon by [[hawk]]s and their fear of hawks is exploited as a ploy to catch them in the wild.<ref name="Swanson"/>  The sound of a hawk's whistle or scream makes the iguana freeze and it becomes easier to capture.<ref name="Swanson"/>
+
+==Diet==
+[[Image:La Palmyre 073.jpg|thumb|right|250px|The herbivorous Green iguana]]
+
+Green iguanas are primarily [[herbivore]]s, feeding on leaves, flowers, fruit, and growing shoots of upwards of 100 different species of plant.<ref name="Burghart"/><ref name="devosjoli"/>  In Panama one of the Green iguana's favorite foods is wild plum, ''[[Spondias monbin]]''.<ref name="Swanson"/>
+
+Although they will consume a wide variety of foods if offered, green iguanas are naturally [[herbivorous]] and require a precise ratio of minerals (2 to 1 calcium to phosphous) in their diet.<ref name="Rosenfeld"/><ref name="anapsid-mkdiet">{{cite web
+  | last = Kaplan
+  | first = Melissa
+  | date = [[April 19]], [[2007]]
+  | url = http://www.anapsid.org/iguana/igdiet.html
+  | title = "'MK Diet' - The Short Version"
+  | work = Melissa Kaplan's Herp Care Collection
+  | publisher = [http://www.anapsid.org anapsid.org]
+  | accessdate = 2007-06-27
+}}</ref>  Juvenile iguanas tend to be [[insectivores]] and often eat [[feces]] from adults in order to acquire the essential [[microflora]] to digest their low-quality and hard to process diet.<ref name="Burghart"/><ref name="Swanson"/>
+
+There is some debate as to whether captive Green iguanas should be fed animal protein.<ref name="devosjoli"/> There is evidence of wild iguanas eating [[grasshopper]]s and [[tree snail]]s, usually as a byproduct of eating plant material.<ref name="FLA">{{cite web
+  | last = Meshaka
+  | first = Walter
+  | last2 = Bartlett
+  | first2 = Richard
+  | last3 = Smith
+  | first3 = Henry
+  | date = [[September]] [[2004]]
+  | url = http://www.anapsid.org/adambritton.html
+  | title = Colonization Success by Green Iguanas in Florida
+  | work = Iguana: Journal of the International Iguana Society
+  | publisher = State Museum of Pennsylvania, Zoology and Botany
+}}</ref>  Wild adult Green iguanas have also been observed eating bird's eggs.<ref name="Lazell">
+{{citation
+  | last = Lazell
+  | first = J.D.
+  | title = The lizard genus Iguana in the Lesser Antilles
+  | work = Bulletin of the Museum of Comparative Zoology
+  | location= New York
+  |Volume=145
+  | pages = 1-28
+  | date=  1973
+  }}
+</ref>  Zoologists, such as Adam Britton, believe that such a diet containing protein is unhealthy for the animal's digestive system resulting in severe long-term health damage including kidney failure and leading to premature death.<ref name="Britton">{{cite web
+  | last = Britton
+  | first = Adam
+  | date = [[April 19]], [[2007]]
+  | url = http://www.anapsid.org/adambritton.html
+  | title = Animal Protein and Claw Trimming"
+  | work = Melissa Kaplan's Herp Care Collection
+  | publisher = [http://www.anapsid.org anapsid.org]
+  | accessdate = 2007-06-27
+}}</ref>  On the other side of the argument is that Green iguanas at the [[Miami Seaquarium]] in [[Key Biscayne]], Florida, have been observed eating dead fish and individuals kept in captivity have been known to eat mice without any ill effects.<ref name="devosjoli"/>  De Vosjoli also writes that some animals have been known to survive and thrive on eating nothing but whole rodent block, or monkey chow, and one instance of [[Romaine lettuce]] with vitamin and calcium supplements.<ref name="devosjoli"/>
+
+==Captivity==
+''Main article: [[Green Iguana in captivity]]''
+
+[[Image:GreenIguana.jpg|thumb|right|250px|A Green iguana in a terrarium]]
+The US pet trade has put a great demand on the Green iguana; 800,000 iguanas were imported into the U.S. in 1995 alone, primarily originating from captive farming operations based in their native countries (Honduras, El Salvador, Colombia, and Panama).<ref name="nationalzoo">
+{{citation
+  | title =  Green Iguana
+  | work = Reptiles and Amphibians Fact Sheets
+  | publisher = Smithsonian National Zoological Park
+  | url =http://nationalzoo.si.edu/Animals/ReptilesAmphibians/Facts/FactSheets/Greeniguana.cfm
+  | date=  2007
+  }}
+</ref>  However, these animals are demanding to care for properly over their lifetime, and many die within a few years of acquisition.<ref name="devosjoli"/>  
+
+Although, in captivity, Green Iguanas will eat meat if presented with it, excessive consumption of animal protein results in severe kidney problems and possible [[premature death]].<ref name="devosjoli"/><ref name ="Britton"/>  Misinformed pet owners tend to feed iguanas [[iceberg lettuce]], which provides iguanas with water but has no other nutritional value.<ref name="Rosenfeld"/>  A captive Green iguana's diet should consist of fresh leafy vegetables such as [[mustard greens]], [[collard greens]], [[dandelion]], [[arugula]] or [[kale]] and access to fresh water.<ref name="devosjoli"/>
+
+Green iguanas will thrive only in temperatures of 79 to 95 degrees Fahrenheit (24 to 32 degrees Celsius) and must have appropriate sources of [[Ultraviolet|UVB]] and [[Ultraviolet|UVA]] lighting, or else their bodies cannot produce Vitamin D, which can result in a metabolic bone disease that can be fatal.<ref name="devosjoli"/><ref name="Rosenfeld"/>
+In some locales([[New York City]] and [[Hawaii]]), iguanas are considered [[exotic pets]], and are prohibited from ownership.<ref name="Blood">
+{{citation
+  | last = Blood
+  | first = Michael R
+  | title = Exotic Pets' Days Numbered 
+  | newspaper = New York Daily News
+  | date=  6/30/1999
+  }}
+</ref>
+<ref name="adopt">{{cite web
+  | url = http://members2.boardhost.com/gisadoptions
+  | title = "Green Iguana Society Adoption Board" (discussion board)
+  | publisher = [http://www.boardhost.com/ Boardhost.com]
+  | accessdate = 2007-06-27
+}}</ref>  Hawaii has strict regulations regarding the import and possession of Green iguanas, violators can spend three years in jail and fined up to $200,000.<ref name="Hawaii">
+{{Citation
+  | title = Iguana & Illegal Lizard Turned In Under Amnesty 
+  | publisher = State of Hawaii Department of Agriculture
+  | date= 04/16/2002
+ |url=http://www.hawaiiag.org/hdoa/newsrelease/02-08.htm
+ }}
+</ref>  This is due to the potential impact of an introduced species on Hawaii's ecosystem.
+
+==Invasive species==
+Green iguanas are considered an [[invasive species]] in [[South Florida]] and along the gulf coast of [[Florida]] from [[Key West]] to [[Pinellas County]].<ref name ="SPT"/><ref name="Krysko">
+{{Citation
+  | last = Krysko
+  | first = Kenneth L
+  | last2 = Enge
+  | first2 = Kevin M
+  | last3 = Donlan
+  | first3 = Ellen M
+  | last4 = Seitz
+  | first4 = Jason C
+  | title = Distribution, Natural History, and Impacts of the Introduced Green Iguana in Florida
+  | journal = Iguana: Conservation, Natural History, and Husbandry of Reptiles
+  | publisher = International Reptile Conservation Foundation
+  | volume = 14
+  | issue = 3
+  | year = 2007
+  |pages=142-151
+ }}
+</ref>  This is due to a combination of events.<ref name="Conant"/>  The original small populations in the Florida Keys were animals that had arrived there due to hurricanes and storms; others were stowaways on ships carrying fruit from South America.<ref name= "zoogoer"/>  Over the years escaped, and intentionally released, iguanas from the pet trade survived and then thrived in their new habitat.<ref name ="SPT"/> They commonly hide in the attics of houses and on beaches. They often destroy gardens and landscaping.<ref name ="SPT">
+{{Citation
+  | last =Lush
+  | first =Tamara
+  | title = Florida's Iguana Infestation
+  | newspaper =St Petersburg Times
+  | date= July 26,2005
+  | year =2005
+  | url = http://www.sptimes.com/2005/07/26/State/Florida_s_iguana_infe.shtml
+ }}</ref>  However, they seem to be fond of eating a native endangered plant, ''[[Cordia|Cordia globosa]]'' and feeding on [[Nicker nut]] (''[[Caesalpinia]]'') a primary food plant of the endangered [[Miami blue|Miami Blue Butterfly]] (''Cyclargus thomasi bethunebakeri''); additionally on [[Marco Island]], Green iguanas have been observed using the burrows of the [[Florida Burrowing Owl]], a species of special concern, all of which makes them more of a serious threat to Florida's ecosystem than originally believed.<ref name= "zoogoer">
+{{Citation
+  | last =Youth
+  | first =Howard
+  | title = Florida's Creeping Crawlers
+  | journal =Zoogoer
+  | volume =20
+  | issue =3
+  | year =2005
+  | url = http://nationalzoo.si.edu/Publications/ZooGoer/2005/3/reptilefeature.cfm
+ }}
+</ref><ref name="Krysko"/>  
+ 
+The Green iguana is established in [[Maui]], Hawaii as a feral species (despite strict legislation)and the Rio Grande Valley of Texas.<ref name="Samuelson"/><ref name="Perry">
+{{Citation
+  | last = Perry
+  | first = Brian
+  | title = Leaping lizards! Girl sights iguana in Kahului 
+  | newspaper = The Maui News
+  | date= 04/12/2006
+  | year = 2006
+ |url=http://www.mauinews.com/story.aspx?id=18635
+ }}
+</ref>  As most reptiles carry [[salmonella]], this is also a concern and a reason legislation has been sought to regulate the trade in Green iguanas.<ref name="Krysko"/>
+
+==Cultural references==
+[[Image:Iguanalarcomuseum.jpg|thumb|150px|Moche Iguana. 200 A.D. [[Larco Museum|Larco Museum Collection]] Lima, Peru.]]
+
+The [[Moche]] people of ancient [[Peru]] worshipped animals and often depicted Green iguanas in their art. <ref>Berrin, Katherine & Larco Museum. ''The Spirit of Ancient Peru:Treasures from the [[Larco Museum|Museo Arqueológico Rafael Larco Herrera]].'' New York: [[Thames and Hudson]], 1997.</ref>  The iguana has also been used as a food source in Central and South America for the past 7000 years.  It is believed that populations in the [[Caribbean]] were translocated there from the mainland by various tribes as a food source.<ref name="Coles"/>  In Central and South America, Green iguanas are used as a source of meat and are often referred to as ''gallina de palo'', "Bamboo Chicken" or "chicken of the tree".<ref name="Swanson"/>
+
+==Photos==
+<gallery>
+Image:Iguana iguana 2 AB.jpg | A Green iguana adult
+Image:young_iguana.png|A young Green iguana in the wild 
+Image:Iguana iguana.jpg|A male Green iguana in the wild (BCC Panama) 
+Image:Roamingiguana.jpg|A Green iguana roaming in [[arid]] land.
+Image:Green iguanas in a bush in Curaçao.jpg|A large group of arboreal green iguanas in [[Curaçao]].
+</gallery>
+
+==See also==
+* [[Blue Iguana]]
+
+==References==
+{{reflist}}
+
+==External links==
+{{Wikispecies|Iguana iguana}}
+{{commons|Iguana iguana}}
+
+*[http://www.anapsid.org/iguana/icfs/index.html Melissa Kaplan's Iguana Care, Feeding & Socialization]
+*[http://www.greenigsociety.org/ Green Iguana Society]
+*[http://www.flickr.com/photos/tags/iguanaiguana/interesting/ Pictures at flickr tagged with 'Iguana iguana']
+*[http://www.niad.org National Iguana Awareness Day]
+*[http://www.sdgl.org/ Stichting Doelgroep Groene leguanen, Dutch Green Iguana Foundation]
+*[http://www.arubaplaza.com/enc/animals/green_iguana.php Aruba animals encyclopedia] 
+*[http://stream.realimpact.net/?file=realimpact/hsus/video_features/reptiles.smi Humane Society Video (Requires Real Player)]
+*[http://www.corhs.org Colorado Reptile Rescue (Adoption Option)]
+*[http://www.iguanafoundation.org International Iguana Foundation]
+*[http://www.todaysplanet.com/pg/beta/lizardlover/page21.htm Henry Lizardlover Link]
+*[http://pages.prodigy.net/anaconda/iguana.htm Research papers on Green iguana]
+*[http://www.southeasternreptiles.com Florida Iguana Pictures]
+
+[[Category:Iguanidae]]
+[[Category:Reptiles of Central America]]
+[[Category:Fauna of Mexico]]
+[[Category:Reptiles of South America]]
+[[Category:Fauna of Brazil]]
+[[Category:Fauna of Guyana]]
+[[Category:Fauna of the Caribbean]]
+[[Category:Fauna of Honduras]]
+
+[[cs:Leguán zelený]]
+[[de:Grüner Leguan]]
+[[es:Iguana]]
+[[fr:Iguana iguana]]
+[[nl:Groene leguaan]]
+[[ja:グリーンイグアナ]]
+[[pl:Legwan zielony]]
+[[ru:Игуана обыкновенная]]
+[[sl:Zeleni legvan]]
+[[fi:Iguaani]]
+[[sv:Grön leguan]]
+[[zh:綠鬣蜥]]

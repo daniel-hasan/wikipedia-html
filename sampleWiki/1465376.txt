@@ -1,0 +1,35 @@
+:''For the former [[Commandant of the Marine Corps]], see [[Alfred M. Gray, Jr.]].''
+
+'''Alfred Gray''' ([[October 22]], [[1939]] – [[October 27]], [[1998]]) was an [[United States|American]] [[mathematician]] whose main research interests were in [[differential geometry]]. He also made contributions in the fields of [[complex variable]]s and [[differential equations]].
+
+==Short biography==
+
+Alfred Gray was born in [[Dallas, Texas]] and studied mathematics at the [[University of Kansas]]. 
+He received a [[Doctor of Philosophy|Ph.D.]] from the [[University of California, Los Angeles]] in 1964 and spent four years at [[University of California, Berkeley]]. 
+From 1970–1998 he was a professor at the [[University of Maryland, College Park]]. 
+
+He died at [[Bilbao]], in [[Spain]], of consequences of a [[myocardial infarction|heart attack]] which occurred while working with students in a computer lab at 4 a.m., on [[October 27]], [[1998]].
+
+==Mathematical contributions==
+
+In the broad area of differential geometry, he made specific contributions in classifying various types of [[geometrical structure]]s, such as ([[Kähler manifold]]s and [[almost Hermitian]] [[manifold]]s).
+
+Gray introduced the concept of a [[nearly Kähler]] manifold, gave topological obstructions to the existence of geometrical structures, made several contributions in the computation of the volume of [[Tube (mathematics)|tubes]] and [[Ball (mathematics)|balls]], curvature identities, etc. 
+He published a book on tubes and is the author of two textbooks and over one hundred scientific articles. 
+His books were translated into [[Spanish language|Spanish]], [[Italian language|Italian]], [[Russian language|Russian]] and [[German language|German]]). 
+He was a pioneer in the use of computer graphics in teaching differential geometry (particularly the geometry of curves and surfaces) and of using electronic computation in teaching both differential geometry and ordinary differential equations. 
+
+==External links==
+
+* [http://www.ehu.es/Gray/publications.html List of publications]
+* [http://math.cl.uh.edu/~gray/ Differential geometry web site maintained in his honor]
+* [http://www.ehu.es/Gray/alfred.html Webpage of the International Congress on Differential Geometry in Memory of Alfred Gray]
+
+[[Category:1939 births|Gray, Alfred]]
+[[Category:1998 deaths|Gray, Alfred]]
+[[Category:American mathematicians|Gray, Alfred]]
+[[Category:University of California, Los Angeles alumni|Gray, Alfred]]
+[[Category:University of Maryland, College Park faculty|Gray, Alfred]]
+
+
+{{US-mathematician-stub}}

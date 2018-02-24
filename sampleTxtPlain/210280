@@ -1,0 +1,878 @@
+
+
+
+
+In photography, exposure value (EV) denotes all combinations of
+camera shutter speed and relative aperture that give the same
+exposure.The concept was developed in Germany in the 1950s
+#CITEREFRay2000|(Ray 2000),
+in attempt to simplify choosing among combinations of equivalent camera settings. Exposure value also is used to
+indicate an interval on the photographic exposure scale, with 1 EV
+corresponding to a standard power-of-2 exposure step, commonly referred to as
+a &amp;ldquo;stop.&amp;rdquo;;
+In optics, the term &amp;ldquo;stop&amp;rdquo; properly
+refers to the aperture itself, while the term &amp;ldquo;step&amp;rdquo; refers to a
+division of the exposure scale.
+Some authors, e.g., #CITEREFDavis1999|Davis (1999),
+prefer the term &amp;ldquo;stop&amp;rdquo; because they refer to steps (e.g., on a step tablet)
+that are other than powers of 2. ISO standards generally use
+&amp;ldquo;step,&amp;rdquo; while photographers normally use &amp;ldquo;stop.&amp;rdquo;;
+
+Exposure value was originally indicated by the quantity symbol
+;E_v;; this symbol continues to be used in ISO standards, but
+the acronym EV is now more common elsewhere.
+
+Fast shutter speed, short exposure
+Slow shutter speed, long exposure
+
+Although all camera settings with the same exposure value nominally give
+the same exposure, they do not necessarily give the same picture.The
+exposure time (&amp;ldquo;shutter speed&amp;rdquo;) determines the amount of
+motion blur, as illustrated by
+the two images at the right, and the relative aperture determines the
+depth of field.
+
+Formal definition
+
+Exposure value is a base-2 logarithmic scale defined by
+
+:;\mathrm {EV} = \log_2 {\frac {N^2} {t} };
+
+where
+
+* ;N; is the relative aperture (f-number)
+* ;t; is the exposure time (&amp;ldquo;shutter speed&amp;rdquo;)
+
+EV 0 corresponds to an exposure time of 1
+s and a relative aperture of ;f;/1.0.If the EV is
+known, it can be used to select combinations of exposure time and
+;f;-number, as shown in Table 1.
+
+Each increment of 1 in exposure value corresponds to a change of one &amp;ldquo;step&amp;rdquo; (or, more commonly, one &amp;ldquo;stop&amp;rdquo;) in exposure, i.e., half as much exposure, either by halving the exposure time or halving the aperture area, or a combination of such changes. Greater exposure values are appropriate for photography in more brightly lit situations, or for higher film speeds.
+
+EV as an indicator of camera settings
+
+:{| class=&quot;wikitable&quot; style=&quot;text-align: right;&quot;
+|+ Table 1. Exposure times, in seconds;*;, for various exposure values and ;f;-numbers (ISO independent)
+! rowspan=&quot;2&quot; style=&quot;padding: 0.1em 0.5em;&quot; | EV
+! colspan=&quot;13&quot; | ;f;-number
+|-
+! 1.0 !! 1.4 !! 2.0 !! 2.8 !! 4.0 !! 5.6 !! 8.0 !! 11 !! 16 !! 22 !! 32 !! 45 !! 64
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |&amp;minus;6
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |32 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |64 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |128 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |256 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |512 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |1024 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |2048 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4096 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |&amp;minus;5
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |32 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |64 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |128 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |256 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |512 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |1024 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |2048 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |&amp;minus;4
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |32 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |64 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |128 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |256 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |512 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |1024 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |&amp;minus;3
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |32 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |64 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |128 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |256 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |512 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |&amp;minus;2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |32 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |64 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |128 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |256 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |&amp;minus;1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |32 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |64 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |128 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |0
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |32 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |64 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |32 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |16 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |3
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |8 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+| style=&quot;padding: 0.1em 0.5em;&quot; |4 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |5
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+| style=&quot;padding: 0.1em 0.5em;&quot; |2 m
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |6
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+| style=&quot;padding: 0.1em 0.5em;&quot; |60
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |7
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |30
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+| style=&quot;padding: 0.1em 0.5em;&quot; |15
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |9
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/500
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+| style=&quot;padding: 0.1em 0.5em;&quot; |8
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |10
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/1000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/500
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+| style=&quot;padding: 0.1em 0.5em;&quot; |4
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |11
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/1000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/500
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+| style=&quot;padding: 0.1em 0.5em;&quot; |2
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |12
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/1000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/500
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+| style=&quot;padding: 0.1em 0.5em;&quot; |1
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |13
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/1000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/500
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |14
+| style=&quot;padding: 0.1em 0.5em;&quot; |
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/1000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/500
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |15
+| style=&quot;padding: 0.1em 0.5em;&quot; |
+| style=&quot;padding: 0.1em 0.5em;&quot; |
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/1000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/500
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8
+|-
+! style=&quot;text-align: right; padding: 0.1em 0.5em;&quot; |16
+| style=&quot;padding: 0.1em 0.5em;&quot; |
+| style=&quot;padding: 0.1em 0.5em;&quot; |
+| style=&quot;padding: 0.1em 0.5em;&quot; |
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/8000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/4000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/2000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/1000
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/500
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/250
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/125
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/60
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/30
+| style=&quot;padding: 0.1em 0.5em;&quot; |1/15
+|}
+
+;*; An appended &amp;lsquo;m&amp;rsquo; indicates exposure time in minutes.
+
+Tabulated exposure values
+
+An exposure meter may not always be available, and using a meter to
+determine exposure for some scenes with unusual lighting distribution may
+be difficult.However, natural light, as well as many scenes with
+artificial lighting, is predictable, so that exposure often can be
+determined with reasonable accuracy from tabulated values.
+
+: Table 2.Exposure values (ISO 100 speed) for various lighting conditions;
+Exposure values in Table 2 are taken from ANSI exposure
+guides #CITEREFANSI PH2.7-1973|PH2.7-1973 and
+#CITEREFANSI PH2.7-1986|PH2.7-1986; where the two guides differ, ranges of values have been given or extended.
+The ANSI guides were derived from studies by L.A. Jones and H.R. Condit, described in
+#CITEREFJones and Condit1941|Jones and Condit (1941),
+#CITEREFJones and Condit1948|Jones and Condit (1948), and
+#CITEREFJones and Condit1949|Jones and Condit (1949).;
+:{| class=&quot;wikitable&quot; style=&quot;text-align: left&quot;
+|-
+! Lighting Condition || EV;100;
+|-
+! colspan=&quot;2&quot; | Daylight
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Light sand or snow in full or slightly hazy sunlight (distinct shadows);a;
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 16
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Typical scene in full or slightly hazy sunlight (distinct shadows);a,b;
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 15
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Typical scene inhazy sunlight (soft shadows)
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 14
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Typical scene, cloudy bright (no shadows)
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 13
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Typical scene, heavy overcast
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 12
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Areas in open shade, clear sunlight
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 12
+|-
+! colspan=&quot;2&quot; | Outdoor, Natural light
+|-
+| colspan=&quot;2&quot; style=&quot;padding: 0.1em 0.5em;&quot; | Rainbows
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Clear sky background
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 15
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Cloudy sky background
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 14
+|-
+| colspan=&quot;2&quot; style=&quot;padding: 0.1em 0.5em;&quot; | Sunsets and skylines
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Just before sunset
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 12&amp;ndash;14
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | At sunset
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 12
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Just after sunset
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 9&amp;ndash;11
+|-
+| colspan=&quot;2&quot; style=&quot;padding: 0.1em 0.5em;&quot; | The Moon,;c; altitude >; 40&amp;deg;
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Full
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 15
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Gibbous
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 14
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Quarter
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 13
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Crescent
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 12
+|-
+| colspan=&quot;2&quot; style=&quot;padding: 0.1em 0.5em;&quot; | Moonlight, Moon altitude >; 40&amp;deg;
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Full
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | &amp;minus;3 to &amp;minus;2
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Gibbous
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | &amp;minus;4
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Quarter
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | &amp;minus;6
+|-
+| colspan=&quot;2&quot; style=&quot;padding: 0.1em 0.5em;&quot; | Aurora borealis and australis
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Bright
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | &amp;minus;4 to &amp;minus;3
+|-
+| style=&quot;padding: 0.1em 1.5em;&quot; | Medium
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | &amp;minus;6 to &amp;minus;5
+|-
+! colspan=&quot;2&quot; | Outdoor, Artificial Light
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Neon and other bright signs
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 9&amp;ndash;10
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Night sports
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 9
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Fires and burning buildings
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 9
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Bright street scenes
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 8
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Night street scenes and window displays
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 7&amp;ndash;8
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Night vehicle traffic
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 5
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Fairs and amusement parks
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 7
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Christmas tree lights
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 4&amp;ndash;5
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Floodlit buildings, monuments, and fountains
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 3&amp;ndash;5
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Distant views of lighted buildings
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 2
+|-
+! colspan=&quot;2&quot; | Indoor, Artificial Light
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Galleries
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 8&amp;ndash;11
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Sports events, stage shows, and the like
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 8&amp;ndash;9
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Circuses, floodlit
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 8
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Ice shows, floodlit
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 9
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Offices and work areas
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 7&amp;ndash;8
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Home interiors
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 5&amp;ndash;7
+|-
+| style=&quot;padding: 0.1em 0.5em;&quot; | Christmas tree lights
+| style=&quot;text-align: center; padding: 0.1em 0.5em;&quot; | 4&amp;ndash;5
+|}
+
+;
+;Values for direct sunlight apply between approximately two hours after
+sunrise and two hours before sunset, and assume front lighting.As a
+rough general rule, decrease EV by 1 for side lighting, and decrease EV
+by 2 for back lighting;
+;This is approximately the value given by the sunny 16 rule.;
+;These values are appropriate for pictures of the Moon taken at night
+with a long lens or telescope, and will render the Moon as a medium
+tone.They will not, in general, be suitable for landscape pictures
+that include the Moon.In a landscape photograph, the Moon typically
+is near the horizon, where its luminance changes considerably with
+altitude.Moreover, a landscape photograph
+usually must take account of the sky and foreground as well as the
+Moon.Consequently, it is nearly impossible to give a single correct
+exposure value for such a situation.;
+;
+
+Exposure values in Table 2 are reasonable general guidelines, but they
+should be used with caution.For simplicity, they are rounded to the
+nearest integer, and they omit numerous considerations described in the
+ANSI exposure guides from which they are derived.Moreover, they take no
+account of color shifts or reciprocity
+failure.Proper use of tabluated exposure values is explained in detail in
+the ANSI exposure guide, #CITEREFANSI PH2.7-1986|ANSI PH2.7-1986.
+
+The exposure values in Table 2 are for ISO 100 speed
+(&amp;ldquo;EV;100;&amp;rdquo;).For a different ISO speed, increase the
+values by the number of exposure steps by which the speed is greater than
+ISO 100, formally;
+If base-2 logarithms are not available, the base-2 logarithm can be
+computed using common logarithms
+
+:;\log_2 x = \frac {\log x} {\log 2};
+
+or natural logarithms
+
+:;\log_2 x = \frac {\ln x} {\ln 2};
+;
+
+:;\mathrm{EV}_{S} = \mathrm{EV}_{100} + \log_2 \frac {S} {100};
+
+For example, ISO 400 speed is two steps greater than ISO 100:
+
+:;\mathrm{EV}_{400} = \mathrm{EV}_{100} + \log_2 \frac {400} {100}
+= \mathrm{EV}_{100} + 2;
+
+To photograph outdoor night sports with an ISO 400&amp;ndash;speed imaging medium,
+find the tabular value of 9 and add 2 to get
+EV;400;&amp;nbsp;=&amp;nbsp;11.
+
+For lower ISO speed, decrease the values by the number of exposure steps by
+which the speed is less than ISO 100.For example, ISO 50 speed is one
+step less than ISO 100:
+
+:;\mathrm{EV}_{50} = \mathrm{EV}_{100} + \log_2 \frac {50} {100}
+= \mathrm{EV}_{100} - 1;
+
+To photograph a rainbow against a cloudy sky with an ISO 50&amp;ndash;speed imaging
+medium, find the tabular value of 14 and subtract 1 to get
+EV;50;&amp;nbsp;=&amp;nbsp;13.
+
+Setting EV on a camera
+
+On most cameras, there is no direct way to transfer an EV to camera settings;
+however, some medium-format cameras from Rollei (Rolleiflex, Rolleicord models) and Hasselblad 
+allowed EV to be set on the lenses.The set EV could be locked, coupling shutter and aperture
+settings, such that adjusting either the shutter speed or aperture
+made a corresponding adjustment in the other to maintain a constant
+exposure.Use of the EV scale on Hasselblad cameras is discussed briefly by
+#CITEREFAdams1981|Adams (1981, 39).
+
+Many current cameras allow for exposure compensation, and usually state it in terms of EV. In this context, EV refers to the ''difference'' between the indicated and set exposures.
+
+Meter indication in EV
+
+Some light meters (e.g., Pentax spot meters) indicate directly in
+EV at ISO 100.Some other meters, especially digital models, can indicate
+EV for the selected ISO speed.In most cases, this difference is
+irrelevant; with the Pentax meters, camera settings usually are determined
+using the exposure calculator, and most digital meters directly display
+shutter speeds and ;f;-numbers.
+
+Recently, articles on many web sites have used ''light value'' (LV) to
+denote EV at ISO 100.However, this term does not derive from a standards
+body, and has had several conflicting definitions.
+
+Relationship of EV to lighting conditions
+
+The recommended ;f;-number and exposure time for given lighting conditions
+and ISO speed are givenby the exposure equation
+
+:;
+\frac {N^2} {t} = \frac {L S} {K}
+;,
+
+where;
+Symbols for the quantities in the exposure equation have varied over time;
+the symbols used in this article reflect current practice for many authors,
+such as #CITEREFRay2000|Ray (2000).
+;
+
+* ;N; is the relative aperture (f-number)
+* ;t; is the exposure time (&amp;ldquo;shutter speed&amp;rdquo;)
+* ;L; is the average scene luminance
+* ;S; is the ISO linear speed
+* ;K; is the reflected-light meter Light meter#Calibration constants|calibration constant
+
+Applied to the right-hand side of the exposure equation, exposure value is
+
+:;\mathrm {EV} = \log_2 {\frac {L S} {K} } ;
+
+Camera settings also can be determined from incident-light measurements,
+for which the exposure equation is
+
+:;
+\frac {N^2} {t} = \frac {E S} {C}
+;
+
+where
+
+* ;E; is the illuminance
+* ;C; is the incident-light meter calibration constant
+
+In terms of exposure value, the right-hand side becomes
+
+:;\mathrm {EV} = \log_2 {\frac {E S} {C} } ;
+
+When applied to the left-hand side of the exposure equation, EV denotes
+actual combinations of camera settings; when applied to the right-hand
+side, EV denotes combinations of camera settings required to give the
+nominally &amp;ldquo;correct&amp;rdquo; exposure.The formal relationship of EV to
+luminance or illuminance has limitations.Although it usually works well
+for typical outdoor scenes in daylight, it is less applicable to scenes
+with highly atypical luminance distributions, such as city skylines at
+night.In such situations, the EV that will result in the best picture
+often is better determined by subjective evaluation of photographs than by
+formal consideration of luminance or illuminance.
+
+Note that for a given luminance and film speed, a greater EV results in
+less exposure, and for fixed exposure (i.e., fixed camera settings),
+a greater EV corresponds to greater luminance or illuminance.
+
+EV and APEX
+
+
+
+The ''Additive system of Photographic EXposure'' (APEX)
+proposed in the 1960 ASA standard
+for monochrome film speed, #CITEREFASA PH2.5-1960|ASA PH2.5-1960,
+extended the concept of exposure value to all quantities in the
+exposure equation by taking base-2 logarithms, reducing application of the
+equation to simple addition and subtraction.In terms of exposure value,
+the left-hand side of the exposure equation became
+
+:;\mathrm{EV} = \mathrm{TV} + \mathrm{AV};,
+
+where TV (time value) and AV (aperture value) were defined as:
+
+:;\mathrm{TV} = -\log_2(t);
+:;\mathrm{AV} = 2\log_2(N);
+
+the numbers of stops from 1 second and 1, respectively.
+
+Use of APEX required logarithmic markings on aperture and shutter controls,
+however, and these never were incorporated in consumer cameras.With the
+inclusion of built-in exposure meters in most cameras shortly after APEX
+was proposed, the need to use the exposure equation was eliminated, and
+APEX saw little actual use.
+
+EV as a measure of luminance and illuminance
+
+For a given ISO speed, exposure value can be used as a measure of
+luminance.Common practice among photographic equipment manufacturers is
+to express luminance in EV for ISO 100 speed (e.g., when specifying
+metering range or autofocus sensitivity).The relationship between EV and
+luminance also depends on the calibration constant ;K;;
+values vary slightly among manufacturers; a common value is 12.5
+(Canon Inc.|Canon, Nikon, and Sekonic;Specifications for
+Sekonic light meters are available on the [http://www.sekonic.com/ Sekonic]
+web site under &amp;ldquo;Products.&amp;rdquo;;)
+The relationship between EV at ISO 100 and luminance then is
+
+:;L = 2^{\mathrm {EV} - 3};
+
+Values of luminance at various values of EV using this relationship are
+shown in Table 3.
+
+For a given ISO speed, EV also can be interpreted as a measure of
+illuminance.As with luminance, common practice among photographic
+equipment manufacturers is to express illuminance in EV for ISO 100 speed
+(e.g., when specifying metering range;The metering range for an
+incident-light meter specified in EV at ISO 100 usually applies to a
+hemispherical sensor, so strictly speaking, it is not a measure of
+illuminance;).
+
+As with luminance, the relationship between EV and illuminance also depends
+on the calibration constant ;C;.The situation is more
+complicated than that for reflected-light meters, because the calibration
+constant depends on the sensor type.Two sensor types are common: flat
+(cosine-responding) and hemispherical (cardioid-responding).
+Illuminance is measured with a flat sensor; a typical value for
+;C; is 250 with illuminance in lux.The relationship between EV
+at ISO 100 and luminance then is
+
+:;E = 2.5 \cdot 2^{\mathrm {EV}};
+
+Values of illuminance at various values of EV using this relationship are
+shown in Table 3.
+
+Although illuminance measurements may indicate appropriate exposure for a
+flat subject, they are less useful for a typical scene in which many
+elements are not flat and are at various orientations to the camera.For
+determining practical photographic exposure, a hemispherical sensor has
+proven more effective.With a hemispherical sensor, typical values for
+;C; are between 320 (Minolta) and 340 (Sekonic) with illuminance
+in lux.If illuminance is interpreted loosely, measurements with a
+hemispherical sensor indicate &amp;ldquo;scene illuminance.&amp;rdquo;
+
+Light meter#Exposure meter calibration|Exposure meter calibration is
+discussed in detail in the Light meter article.
+
+: Table 3. Exposure value vs. luminance (ISO 100, ;K; = 12.5) and illuminance (ISO 100, ;C; = 250)
+:{| class=&quot;wikitable&quot; style=&quot;text-align: center&quot;
+|-
+! &amp;nbsp; EV &amp;nbsp; !! &amp;nbsp; Luminance,;cd/m;2; &amp;nbsp;
+! &amp;nbsp; Illuminance,;lx; &amp;nbsp;
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |&amp;minus;4 ||0.008 ||0.156
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |&amp;minus;3 ||0.016 ||0.313
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |&amp;minus;2 ||0.031 ||0.625
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |&amp;minus;1 ||0.063 ||1.25
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |0 ||0.125 ||2.5
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |1 ||0.25||5
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |2 ||0.5 || 10
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |3 ||1 || 20
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |4 ||2 || 40
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |5 ||4 || 80
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |6 ||8 ||160
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |7 || 16 ||320
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |8 || 32 ||640
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; |9 || 64 || 1280
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; | 10 ||128 || 2560
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; | 11 ||256 || 5120
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; | 12 ||512 ||10,240
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; | 13 || 1024 ||20,480
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; | 14 || 2048 ||40,960
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; | 15 || 4096 ||81,920
+|-
+| style=&quot;text-align: right; padding: 0.1em0.5em;&quot; | 16 || 8192 || 163,840
+|}
+
+Notes
+
+;
+
+References
+
+* ;Adams, Ansel.1981. ''The Negative.'' Boston: New York Graphic Society.; ISBN 0-8212-1131-5
+
+* ;ANSI PH2.7-1973. ''American National Standard Photographic Exposure Guide''. New York: American National Standards Institute.; Superseded by ANSI PH2.7-1986
+
+* ;ANSI PH2.7-1986. ''American National Standard for Photography &amp;mdash; Photographic Exposure Guide''. New York: American National Standards Institute;
+
+* ;ASA PH2.5-1960.''American Standard Method for Determining Speed of photographic Negative Materials (Monochrome, Continuous Tone)''.New York: United States of America Standards Institute;
+
+* ;Davis, Phil. 1999. '' [http://books.elsevier.com/us/focalbooks/us/subindex.asp?isbn=0240803434 Beyond the Zone System]'', 4th ed. Boston: Focal Press.;ISBN 0-240-80343-4
+
+* ;Jones, Loyd A., and H. R. Condit. 1941. The Brightness Scale of Exterior Scenes and the Computation of Correct Photographic Exposure. ''Journal of the Optical Society of America'' 31:11, Nov. 1941, 651&amp;ndash;678;
+
+* ;&amp;mdash;&amp;mdash;&amp;mdash;. 1948. Sunlight and skylight as determinants of Photographic exposure. I. Luminous density as determined by solar altitude and atmospheric conditions. ''Journal of the Optical Society of America'' 38:2, Feb. 1948, 123&amp;ndash;178;
+
+* ;&amp;mdash;&amp;mdash;&amp;mdash;. 1949. Sunlight and skylight as determinants of Photographic exposure. II. Scene structure, directional index, photographic efficiency of daylight, safety factors, and evaluation of camera exposure. ''Journal of the Optical Society of America'' 39:2, Feb. 1949, 94&amp;ndash;135;
+
+* ;Ray, Sidney F. 2000. Camera Exposure Determination. In ''[http://books.elsevier.com/us/focalbooks/us/subindex.asp?isbn=0240515749 The Manual of Photography]'', 9th ed.Oxford: Focal Press.; ISBN 0-240-51574-9
+
+Further reading
+
+* Eastman Kodak Company. ''Existing-Light Photography'', 3rd ed.Rochester, NY : Silver Pixel Press, 1996.ISBN 0-87985-744-7
+
+See also
+
+* APEX system
+* Exposure compensation
+* Light meter#Exposure meter calibration|Exposure meter calibration
+
+External links
+
+* Doug Kerr's [http://doug.kerr.home.att.net/pumpkin/APEX.pdf The Additive System for Photographic Exposure] (PDF)
+* Fred Parker's [http://www.fredparker.com/ultexp1.htm#Light%20Intensity%20Chart table of exposure values] for various lighting situations
+
+Category:Science of photography
+Category:Photometry
+
+da:Eksponeringsværdi
+de:Lichtwert
+es:Valor de exposición
+fr:APEX (photographie)
+it:Valore di esposizione
+no:Eksponeringsverdi
+pl:EV (fotografia)

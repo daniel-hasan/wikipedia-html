@@ -1,0 +1,70 @@
+{{Infobox Person
+| name   = Thomas Alcock
+| image     = 
+| image_size     = 
+| caption  = 
+| birth_date  = 1709
+| birth_place = [[Aston, Vale Royal|Aston]], [[Runcorn]], [[Cheshire]],<br> [[England]]
+| death_date  = [[August 24]] [[1798]]
+| death_place = Runcorn 
+| education      = Warrington School<br>[[Brasenose College, Oxford]]
+| occupation     =[[clergy|Clergyman]]
+| title          = [[Reverend]]
+| spouse         = Mary Harwood
+| parents        = David Alcock, Mary Breck
+| children       = 
+| nationality    = [[English people|English]]
+| website        =
+}}
+{{otherpersons|Thomas Alcock}}
+'''Thomas Alcock''' (1709 &mdash; [[24 August]] [[1798]]) was a [[clergy|clergyman]] in the [[Church of England]], a [[Benefice#abuse|pluralist]] and an author.
+
+==Early life==
+
+He was born at [[Aston, Vale Royal|Aston]], near [[Runcorn]], [[Cheshire]]<ref name="n82">Nickson, p. 82</ref> the third son of David Alcock and his wife Mary née Breck.  David Alcock was a descendent of [[John Alcock (bishop)|Bishop John Alcock]], the founder of [[Jesus College, Cambridge]].<ref>Nickson, p. 133.</ref>  Thomas was educated at Warrington School<ref name="starkey">Starkey, p. 52.</ref>, then matriculated from [[Brasenose College, Oxford]] in 1728, proceeded [[Bachelor of Arts|B.A.]] in 1731 and [[Master of Arts (Oxford, Cambridge and Dublin)|M.A.]] in 1741.<ref name="dnb">Woodland, Patrick, ‘Alcock, Thomas (1709–1798)’, ''Oxford Dictionary of National Biography'', Oxford University Press, Sept 2004; online edn, Oct 2006 [http://www.oxforddnb.com/view/article/296], accessed 1 March 2007</ref>  
+
+==Ministry==
+
+He was licensed as [[curate]] of [[Stonehouse, Plymouth]] in 1731.  In November 1732 he began acting as the minister of the nearby parish of [[St. Budeaux, Plymouth|St Budeaux]] to which he was officially licensed the following year.  He was also instituted as [[vicar#Anglican|vicar]] of Runcorn in 1756 and ran this parish as a pluralist with the aid of curates.<ref name="n82"/>   He was a Cheshire [[Justice of the Peace|J.P.]] but continued to spend most of his time in [[Devon]] and only returned to Runcorn towards the end of his life.<ref name="dnb"/>
+
+He became popular locally, particularly when he omitted to collect [[tithe]]s.  He was also noted for his eccentric habits, his [[Asceticism|spartan]] lifestyle, and his kindness to the poor to whom he also acted as doctor and lawyer.<ref>Nickson, pp. 83-84.</ref>  In 1769 the living of St Andrew, Plymouth became vacant and Alcock expected to be elected to it.  He was unsuccessful and refused to preach his regular sermon at the church or indeed to enter the church again.<ref>Nickson, p. 85.</ref>
+
+In 1771 he helped to purchase land at [[Peverell|Weston Peverel]] to provide a master for the St Budeaux charity school and to clothe the poor.  In 1769 he was granted the freedom of the borough of [[Plymouth]].<ref name="dnb"/>
+
+==Farmer and cidermaker==
+
+Thomas Alcock farmed at Ernesettle and described himself as ‘A Cydermaker’.  He attacked the excise duty on [[cider]] and this was [[repeal]]ed in 1766.  It had been suggested that a severe [[Devon colic|colic]] peculiar to Devon was the result of [[lead poisoning]] from the [[Fruit press|press]]es, pipework, and storage vessels of cider.  This was refuted by Alcock who argued that the colic resulted only from the small [[Lead shot|shot]] used in bottle cleansing.<ref>Nickson, pp. 84-85.</ref>
+
+==Personal and family life ==
+
+He married Mary Harwood of Ernesettle, Plymouth and through his marriage he obtained considerable property locally.<ref>Nickson, pp. 82-83.</ref>  The marriage was childless<ref name="dnb"/> and Mary died in 1777.  Alcock married again at the age of 78 and returned to Runcorn where he died in 1798.<ref>Nickson, pp. 84-86.</ref>  His [[Estate (law)|estate]] included £20,000 in 3% [[consol]]s as well as land and property in Runcorn.<ref name="starkey"/>
+
+After the death of his brother [[Nathan Alcock|Nathan]] in 1779, Thomas produced ''Some Memoirs of the Life of Dr Nathan''.<ref>Nickson, p. 131.</ref>  In 1796 he also edited and arranged for the publication of Nathan's ''The Rise of Mahomet, Accounted for on Natural and Civil Principles''.<ref name="dnb"/>
+
+==Publications==
+
+*''Observations on the Defects of the Poor Laws'' (1752)
+*''Remarks on Two Bills for the Better Maintenance of the Poor'' (1752)
+*''Observations on that Part of the Late Act of Parliament which Lays an Additional Duty on Cider'' (1763)
+*''Cursory Remarks on Dr. Baker's Essay on the Endemial Colic in Devon'' (1767)
+*''The Endemial Colic of Devon not Caused by a Solution of Lead in the Cyder'' (1769)<ref name="dnb"/>
+
+==Notes==
+
+<div class="references-2column">
+<references/>
+</div>
+
+==References==
+
+*Nickson, Charles ''History of Runcorn'', Mackie & Co., London and Warrington, 1887.
+*Starkey, H. F. ''Old Runcorn'', Halton Borough Council, 1990.
+
+{{DEFAULTSORT:Alcock, Rev Thomas}}
+[[Category:English farmers]]
+[[Category:English non-fiction writers]]
+[[Category:English Anglican priests]]
+[[Category:Alumni of Brasenose College, Oxford]]
+[[Category:People from Runcorn]]
+[[Category:1709 births]]
+[[Category:1798 deaths]]

@@ -1,0 +1,195 @@
+The '''Creative ZEN''' (formerly known as ''Creative NOMAD Jukebox Zen'') is a range of [[digital audio player]]s (DAPs) and [[portable media player]]s (PMPs) made by [[Creative Technology]]. The players evolved from the now-defunct [[Creative NOMAD|NOMAD]] brand through the NOMAD Jukebox series. Three of its players won the Best of CES award<ref name="Zen Portable Media Center CES">{{cite press release|title=Creative Wins Second Consecutive "Best Of CES" Award At Consumer Electronics Show|publisher=[[Creative Technology]]|date=[[2004-01-12]]|url=http://creative.com/corporate/pressroom/releases/welcome.asp?pid=12013|accessdate=2007-12-03}}</ref><ref name="ZEN Micro Photo CES">{{cite press release|url=http://creative.com/corporate/pressroom/releases/welcome.asp?pid=11929|title=Creative ZEN Micro Photo Wins "Best of CES" Award|publisher=Creative Technology|date=[[2005-01-10]]|accessdate=2007-12-03}}</ref><ref name="ZEN Vision:M CES">{{cite web|url=http://creative.com/press/releases/welcome.asp?pid=12297|title=Creative ZEN Vision:M Wins “Best of CES” Award in MP3 and Portable Video Category and also Wins overall “Best in Show” Award|publisher=Creative Technology}}</ref> from 2004 to 2006 in their respective categories, with one winning the overall award.<ref name="ZEN Vision:M CES" /> The ZEN series has a strong foothold in Asian markets, especially in [[Singapore]], the company's headquarters.
+
+All players are compatible with [[MP3]] and [[Windows Media Audio|WMA]], while various models support [[WAV]] and [[Audible.com|Audible]] files. They are bundled with device drivers and Creative MediaSource, a [[media player]] that includes transferring and syncing abilities exclusively for the players. All models are [[Microsoft PlaysForSure|PlaysForSure]]-certified for being compatible with [[Windows Media Player]] via [[Media Transfer Protocol]] (MTP) and supporting the [[Janus (DRM)|Janus DRM]]. They are natively compatible with [[Microsoft Windows|Windows]], while the current players exclusively support [[Windows XP]] and [[Windows Vista|Vista]].
+
+== Current players ==
+=== ZEN ===
+{{main|ZEN (portable media player)}}
+The [[flash memory|flash]]-based player was released on [[September 14]], [[2007]],<ref>{{cite web|url=http://www.mp3.com/creative-zen/hardware/262/summary.html|title=Creative ZEN Reviews and Specs|publisher=MP3.com|accessdate=2007-10-07}}</ref> in capacities of 2, 4, 8, and 16&nbsp;GB. A 32&nbsp;GB model was announced on [[December 4]], 2007, setting a record for storage capacity among flash-based players.<ref name="ZEN32">{{cite press release|url=http://asia.creative.com/corporate/pressroom/releases/welcome.asp?pid=12867|title=Creative introduces the world's first 32GB flash memory-based portable media player with the latest credit-card sized ZEN™|date=[[2007-12-03]]|accessdate=2007-12-04|publisher=Creative}}</ref> The player is 0.44-inch thick,<ref>http://us.creative.com/products/product.asp?category=213&subcategory=214&product=16999&nav=technicalSpecifications</ref> making it the slimmest ZEN player so far. It is the first ZEN to have an [[SD card]] slot, support for unprotected [[Advanced Audio Coding|AAC]], and a [[Truecolor|24-bit]] screen. The ZEN is not to be confused with the ZEN Micro-based [[Creative ZEN#ZEN (Micro-based hard drive player)|player]] of the same name.
+
+=== ZEN Stone Plus ===
+Although it is slightly larger than the [[Creative ZEN#ZEN Stone|ZEN Stone]], the ZEN Stone Plus is identical in design. However, the ZEN Stone Plus has a monochromic [[Organic light-emitting diode|OLED]] screen, a built-in FM tuner, a stopwatch - the first ZEN player to have this ability - and a built-in microphone. The ZEN Stone Plus plays approximately 9.5 hours of continuous audio playback, and comes with the same colors as the ZEN Stone in a 2&nbsp;GB capacity. It was released domestically on [[June 29]], [[2007]]<ref>http://global.yesasia.com/en/PrdDept.aspx/code-c/section-electronics/version-all/did-10/pid-1004908576/</ref>, and internationally on [[July 26]], [[2007]].<ref>http://www.mp3.com/creative-zen-stone-plus/hardware/242/summary.html</ref>
+
+=== ZEN Wav ===
+The ZEN Wav was released in [[Singapore]] on [[May 25]], [[2007]].<ref>{{cite web|url=http://www.gadgetell.com/2007/05/zen-wav-free-your-ears/|title=ZEN Wav - Free Your Ears|publisher=Gadgetell|accessdate=2007-08-29}}</ref> The [[Flash memory|flash-based]] player has built-in stereo speakers and supports the [[MP3]], [[Windows Media Audio|WMA]], and [[WAV]] formats. It is the first player in the ZEN line to have the following features: a [[Highcolour|16-bit]] color screen, unlike other ZEN players, which are 18-bit; a battery life of 30 hours (20 with the speakers), which is the longest for any ZEN player so far; the ability to read [[e-book]]s; and the ability to show 3 different time zones "at a glance". The ZEN Wav comes in capacities of 2 and 4&nbsp;GB.
+
+On [[August 8]], [[2007]], the player was reported to be available in the US.<ref>{{cite web|url=http://www.epizenter.net/comment.php?comment.news.315|title=Creative ZEN Wav Comes to the US|publisher=epiZENter.net|accessdate=2007-08-20}}</ref>
+
+=== ZEN Stone ===
+[[Image:Creative ZEN Stone.jpg|140px|thumb|right|ZEN Stone (White)]]
+The ZEN Stone, released on [[May 3]], [[2007]]<ref>http://reviews.cnet.com/mp3-players/creative-zen-stone-1gb/4652-6490_7-32434996.html</ref>, is a small and screenless 1&nbsp;GB player (similar to the [[iPod shuffle#Second generation|second-generation]] [[Apple Inc.|Apple]] [[iPod]] [[iPod shuffle|shuffle]]). Coated in glossy plastic, the player is available in black, white, blue, pink, green, and red and usually sells for [[United States dollar|US$]]39.99, about half the price of Apple's counterpart. The ZEN Stone is compatible with the [[MP3]], [[Windows Media Audio|WMA]], and [[Audible.com|Audible]] formats, and is compliant with [[USB mass storage device class|UMS]].
+
+=== ZEN Vision W ===
+{{main|ZEN Vision W}}
+The ZEN Vision W was released on [[September 17]], [[2006]].<ref>{{cite web|url=http://reviews.cnet.com/portable-video-players-pvps/creative-zen-vision-w/4652-6499_7-32058083.html|title=Creative  ZEN Vision W Series Reviews|publisher=[[CNet]]|last=[[James Kim|Kim]]|first=[[James Kim|James]]|accessdate=2007-08-31}}</ref> A variant of the ZEN Vision, the portable media player has a 4.3-inch, widescreen (16:9) TFT-LCD display. The player comes in black and is available in 30 and 60&nbsp;GB. Like the ZEN Vision:M, a built-in microphone and an FM tuner are included, as well as the same media formats, a similar graphical interface and abilities to sync organizer data from Microsoft Outlook. It also includes a [[CompactFlash]] reader for extra capacity and the direct upload of images.
+
+=== ZEN Neeon 2 ===
+The ZEN Neeon 2, a successor to the Neeon, was announced on [[August 2]], [[2006]].<ref>[http://www.creative.com/press/releases/welcome.asp?pid=12568]</ref> The player has a 1.5-inch [[Super-twisted nematic display|CSTN-LCD]] display in a resolution of 128x128. The 1 and 2&nbsp;GB models are available in a black, silver, blue, pink or orange backplate, accompanied with a piano black front, while the 4&nbsp;GB model comes only in black and silver. The Neeon 2 supports MP3, WMA, and WAV, display JPEG images and plays AVI videos which are transcoded upon transfer. Also, the player has an FM tuner, built-in microphone, and line-in recording in WMA. The rechargeable lithium-ion battery plays up to 20 hours of continuous audio playback and up to 8 hours of video playback, the highest for any Creative digital audio player.
+
+Like its predecessor, decal stickers called "Stik-Ons" are sold separately to customize the look of the Neeon 2's frontplate, though they cannot be interchanged. The players and their "Stik-Ons" are only available in [[Singapore]] and several other Asian countries.
+
+[[Image:Rachel's Zen V.jpg|left|169px|thumb|ZEN V (Green/Black, 2&nbsp;GB)]]
+
+=== ZEN V&nbsp;/&nbsp;ZEN V Plus ===
+{{main|ZEN V}}
+Creative's first [[Flash memory|flash]]-based [[portable media player]] was released on [[June 20]], [[2006]].<ref>[http://www.mp3.com/creative-zen-v-plus/hardware/141/summary.html]</ref> The scratch-resistant models have a 1.5-inch [[Organic light-emitting diode|OLED]] display with a resolution of 128x128. They come in white and black with orange trim for the 1&nbsp;GB version, green trim for 2&nbsp;GB, and black with blue trim for the 4&nbsp;GB version. The ZEN V Plus plays video and has an FM tuner, while the ZEN V does not. The players support the same formats as the Vision:M, while the videos will be transcoded upon transfer. There are also built-in microphones for voice recording, as well as wires for [[Line-in Recording|line-in recording]]. The rechargeable lithium-ion battery has a life span of up to 15 hours of continuous audio playback.
+
+The ZEN V Plus won the CNET Editor's Choice award during that month.
+
+On [[September 29]], [[2006]], Creative announced that the blue-and-black ZEN V Plus had been upgraded to 8&nbsp;GB. Four days later, the company joined forces with the National Breast Cancer Foundation to release a pink version of the 2&nbsp;GB model, now available in most areas.<ref>[http://us.creative.com/corporate/pressroom/releases/welcome.asp?pid=12638], Creative supports the National Breast Cancer Foundation in conjunction with launch of pink ZEN V Plus 2&nbsp;GB, accessed [[January 28]], [[2007]].</ref> In Japan, the 8&nbsp;GB version is now available in a red-and-black color. <ref>[http://jp.creative.com/products/product.asp?category=213&subcategory=214&product=15306], jp. Creative.com - ZEN V Plus, accessed [[March 12]], [[2007]].</ref>
+
+On [[August 8]], [[2007]], Creative released a 16&nbsp;GB model of the ZEN V Plus,<ref>{{cite press release|url=http://jp.creative.com/corporate/pressroom/releases/welcome.asp?pid=12781|title=クリエイティブストア限定 CREATIVE ZEN V PLUS 16GBモデル発売のお知らせ|publisher=[[Creative Technology|Creative]]|language=Japanese|date=[[2007-08-08]]|accessdate=2007-12-05}}</ref> making it the highest capacity flash-based player until the [[Creative ZEN#ZEN|ZEN]] beat its own record with the release of its 32&nbsp;GB model.<ref name="ZEN32" />
+
+== Discontinued players ==
+=== NOMAD Jukebox Zen series ===
+[[Image:NomadNenNxBattery.jpg|thumb|195px|right|NOMAD Jukebox Zen players feature easily replaceable batteries]]
+{{main|Creative NOMAD}}
+The first models branded as a "Zen" were then released under the now-defunct [[Creative NOMAD|NOMAD]] line, and have an [[anodising|anodized]] aluminium case. The 2.5-inch [[Fujitsu]] hard drives range from a 20 (NOMAD Jukebox Zen), 30 (Zen NX, Zen Xtra), 40 and 60&nbsp;GB (Xtra). Unlike the earlier NOMAD Jukebox players, which looked like CD players, these ones have the appearance of a cassette player.
+
+==== NOMAD Jukebox Zen ====
+Announced on [[October 14]], [[2002]], the NOMAD Jukebox Zen was the first player to include the "Zen" branding. It had the ability to connect via [[Universal Serial Bus|USB]] 1.1 or [[FireWire]], while subsequent releases had connectivity to USB 2.0. Up to 14 hours of continuous audio playback is achieved by the rechargeable battery, and an optional wired remote gives the player an FM tuner and microphone.
+
+==== NOMAD Jukebox Zen NX ====
+The Zen NX, as it was later called, was released on [[August 20]], [[2003]],<ref>[http://reviews.cnet.com/mp3-players/creative-nomad-jukebox-zen/4505-6490_7-30468951.html]</ref> is an upgrade to the old NOMAD Jukebox Zen, with a removable battery and a slightly smaller size. Included with the player was MediaSource, the music management software that would be used with subsequent Zen players.
+[[Image:ZenXtra.jpg|right|100px||thumb|NOMAD Jukebox Zen Xtra]]
+
+==== NOMAD Jukebox Zen Xtra ====
+The NOMAD Jukebox Zen Xtra, or the Zen Xtra (renamed by Creative for commercial reasons) was released simultaneously with the Zen NX.<ref>[http://reviews.cnet.com/mp3-players/creative-nomad-jukebox-zen/4505-6490_7-30571468.html]</ref> The player was presumably named Xtra, thanks to the larger screen. The package includes the player, a leather case with belt-clip, a lithium ion battery, a USB cable, and a pair of standard earbuds. Complaints against the Xtra have included failures of the firmware, headphone jack, and the hard drive. The Xtra can have problems with keeping track of very large numbers of music files.<ref>{{cite web|url=http://www.nomadness.net/modules.php?name=Forums&file=viewtopic&t=5811&highlight=maximum|title=Track limit to be fixed in new firmware|publisher=Nomadness.net|accessdate=2007-11-07}}</ref> The equalizer is somewhat broken in at least one firmware version.<ref>{{http://www.nomadness.net/modules.php?name=Forums&file=viewtopic&t=18070&highlight=equalizer XTRA Custom EQ comparison (old FW vs. recent)], Nomadness.net forum, accessed November 7, 2006.</ref>
+
+The Xtra is notable for being the first [[Digital audio player|DAP]] to support [[Real Networks]]'s Helix [[Digital Rights Management|DRM]], but through a tailored [[firmware]]. The [[SanDisk]] [[SanDisk Sansa|Sansa]] [[SanDisk Sansa#Rhapsody Sansa e200R|e200R]] would later be the only other player to have this feature.
+
+=== Zen Touch === 
+The Zen Touch was released on [[June 7]], [[2004]]<ref>[http://reviews.cnet.com/mp3-players/creative-zen-touch-40gb/4505-6490_7-31260506.html]</ref>. The model incorporated major changes in design, functionality and technology.
+
+The Zen Touch has a smaller form factor and larger backlit blue display in a curved industrial design. In addition, the device uses a touch-sensitive vertical strip on the front of the unit for easier file navigation. These changes were enabled by the use of [[Hitachi, Ltd.|Hitachi]]'s smaller 1.8-inch hard drives. The Touch is available in capacities of 20 and 40&nbsp;GB. Unlike the previous two generations, the Zen Touch does not have a removable battery, and plays audio for approximately 24 hours.
+
+The Zen Touch has a brief uncredited appearance in Pepsi's new commercial which aired during [[Super Bowl XL]] <ref>http://video.google.com/videoplay?docid=-4449065816181299003</ref>.
+
+=== Zen Portable Media Center ===
+[[Image:Portable Media Center.jpg|thumb|200px|Zen Portable Media Center]]
+The Zen Portable Media Center, announced on [[January 8]], [[2004]] and released eight months later<ref>[http://reviews.cnet.com/portable-video-players-pvps/creative-zen-portable-media/4505-6499_7-30993434.html]</ref>, is based on [[Microsoft]]'s [[Portable Media Center]] interface, runs [[Windows Mobile]] and supports [[Windows Media Video|WMV]], WMA, and MP3, and can display [[JPEG]] images; other video formats are supported through transcoding. This device was the first to exclusively support [[Microsoft]]'s [[Media Transfer Protocol]], and was presented at the [[Consumer Electronics Show]] in 2004, winning the [[TechTV]] Best of CES Award in the Portable Audio and Video category.<ref name="Zen Portable Media Center CES" /> The player uses a 1.8-inch 20 or 40&nbsp;GB hard drive from [[Hitachi, Ltd.|Hitachi]]. The Zen Portable Media Center has been replaced by the ZEN Vision and the ZEN Vision W.
+
+=== ZEN Micro ===
+[[Image:Zenmicro.jpg|thumb|right|100px|ZEN Micro glowing in the dark]]
+The ZEN Micro was released on [[November 12]], [[2004]]<ref>[http://www.mp3.com/creative-zen-micro-5gb/hardware/24/summary.html]</ref>, and is a [[microdrive]] player available in 10 colors. It is also the first ZEN release that sports the new branding, including capitals for all letters in ''Zen''.
+[[Image:Zenmicro3.jpg|left|150px|thumb|ZEN Micro with the included earphones]]
+The ZEN Micro is much smaller than the Touch and shares a similar interface and controls (including the touchpad, without the 'OK' button. Making a selection would be done by tapping the touchpad). The Micro has a removable battery rated to last for up to 12 hours of continuous playback. In addition, the player has an [[Light-emitting diode|LED]]-backlit [[liquid crystal display|LCD]], a glowing case, and offers hard disk capacities of 4, 5 and 6&nbsp;GB.
+
+The Micro also features a built-in FM tuner/recorder, voice recorder and microphone, partitioning for data storage (i.e. acting as a removable hard drive for PCs), and the ability to synchronize contacts, tasks and calendars with [[Microsoft Outlook]]. Accessories for the ZEN Micro include matching color speakers, wireless headsets and a wired remote control.
+
+The first 35,000 units shipped worldwide were packaged as a "Limited Edition" package that came with an additional rechargeable battery.  Asian models of the Limited Edition included the extra battery and a wired remote control.
+
+At [[Consumer Electronics Show|CES]] 2005, it was announced that the ZEN Micro line would be expanded to include 4 and 6&nbsp;GB models.
+
+The ZEN Micro optionally supports the [[Microsoft]] [[Media Transfer Protocol]] and the [[Microsoft PlaysForSure|PlaysForSure]] certification with updated [[firmware]].
+
+=== ZEN (Micro-based [[hard drive]] player) ===
+The ZEN was released on [[April 6]], [[2005]]<ref>{{cite web|url=http://forums.creative.com/creativelabs/board/message?board.id=dap&message.id=45734|title=Creative Zen 20gb (zen micro look) really available??? Price (with shipping): 369$|author=Lazar|publisher=[[Creative Technology|Creative]]}}</ref>, and is slightly larger than the ZEN Micro with a 20&nbsp;GB hard drive capacity. The ZEN, however, has a magnesium back-casing and the battery is unremovable. This model was initially available in the Asia-Pacific region, but soon became available in the US through Cambridge SoundWorks, a subsidiary of Creative.
+[[Image:zen neeon.jpg|left|110px|thumb|ZEN Neeon]]
+
+=== ZEN Neeon ===
+The ZEN Neeon was released on [[May 17]], [[2005]].<ref>[http://www.dealtime.co.uk/xPF-Creative-Labs-Zen-NEEON-5-GB]</ref> It is a throwback to the old Zen Xtra, but in a much smaller size. The 5&nbsp;GB model has an [[Signal-to-noise ratio|SNR]] of 98 [[Decibel|dB]] and a battery life of 16 hours (19 hours with new firmware version). The front has a piano black finish, and the back is [[anodized aluminium]] that comes in ten colors. and the LCD screen has a 7 color backlight.
+
+The Creative ZEN Neeon was criticized highly at the time of release for having a slow interface, more specifically slow start-up, menus and song switch. As well, the first released models came with a virus that could infect your computer.<ref>[http://news.com.com/Virus-infected+Creative+Zen+MP3+players+found/2100-7349_3-5845499.html Virus-infected Creative ZEN MP3 Players found]CNet News.com - [[September 1]], [[2005]]</ref> This affected the popularity of the product and though the hardware and style of the ZEN Neeon was very good, the software seemed to let the product down. The firmware update released latter provided a much quicker start-up time and interface. If released with the player, it might have been more popular on the market.
+
+Like its Micro brother, this unit also has an FM tuner and a [[microphone]], but also has a line in record function. This model does not use Creative specialized USB drivers; it is a standard [[USB mass storage device class|USB mass storage]] device.
+
+On [[November 17]], [[2005]], the microdrive player was updated to 6&nbsp;GB and a new flash range was launched in capacities of 512&nbsp;MB, 1&nbsp;GB, and 2&nbsp;GB.<ref>[http://creative.com/press/releases/welcome.asp?pid=12260]</ref> The device is now equipped with a dual-tone [[Organic light-emitting diode|OLED]] screen. The device is also accompanied by a new marketing campaign, ''Put a Face to Your Music'', with emphasis on a whole new range of customizable "Stik-Ons", which are decal stickers that can be placed and removed from the face of the unit.
+
+=== ZEN MicroPhoto ===
+[[Image:Microphoto1.jpg|right|thumb|ZEN MicroPhoto with a custom wallpaper]]
+The ZEN MicroPhoto, released on [[July 28]], [[2005]]<ref>{{cite web|url=http://www.versiontracker.com/dyn/moreinfo/win/60992|title=Creative ZEN MicroPhoto 1.0.0.0 software download|publisher=[[VersionTracker]]}}</ref>, shares the same features of the ZEN Micro except [[Audible.com]] support (reinstated in firmware versions 1.31.01 and above), and adds an upgraded 262,144-color (18 bpp) [[Organic light-emitting diode|OLED]] screen for displaying photos. To fix the lack of bass with the ZEN Micro, Creative also implemented a Bass Boost feature, now available in most subsequent players. The 8&nbsp;GB player is available in the same colors of the Micro and is advertised to store "thousands of [[JPEG]]s" or "4,000 songs". Due to its larger battery, the player can play up to 15 hours of continuous playback, 3 hours longer than its predecessor.<ref>{{cite web|url=http://aphnetworks.com/reviews/creative_zen_microphoto|last=Schweitzer|first=Jason|title=Reviews | Creative Zen MicroPhoto 8GB|publisher=APH Networks}}</ref> Unlike the Micro, it does not have any problems with the headphone jack. The MicroPhoto is the first of many subsequent players with expanded customization, with the ability to use a picture as a custom wallpaper, with color themes to change the tones of it, and six color schemes.
+
+The player was first announced at the [[Consumer Electronics Show#2005|2005 Consumer Electronics Show]], where it won the [[G4 (TV channel)|G4TV]] Best of CES award in the Audio To Go category.<ref name="ZEN Micro Photo CES" /> On [[November 2005]], the player was the [[CNET]] Editor's Choice award on [[CNET|CNET.com]].
+
+[[Image:CreativeZenSleek.jpg|thumb|left|120px|ZEN Sleek]]
+
+=== ZEN Sleek ===
+The ZEN Sleek was first available on [[August 30]], [[2005]]<ref>[http://www.amazon.com/dp/B000A3N78Y]</ref>, and is an upgrade of the ZEN with a 20&nbsp;GB [[hard drive]], FM radio, built-in microphone, and sports an aluminium casing. Like its predecessors, it can synchronize with Microsoft Outlook's calendar, address book, and memo functions. The player's battery life lasts up to 20 hours.
+
+=== ZEN Vision ===
+[[Image:Creative vision 1.jpg|right|thumb|200px|ZEN Vision (Black)]]
+The ZEN Vision was released on [[October 1]], [[2005]].<ref>{{cite web|url=http://www.mp3.com/creative-zen-vision-30gb/hardware/4/summary.html|title=Creative ZEN Vision (30&nbsp;GB) Reviews and Specs|publisher=MP3.com|accessdate=2007-08-31}}</ref> Since its launch, it is the winner of several awards, including Best of Digital Life 2005 and the Red Dot Design award. Unlike its predecessor, the ZEN Vision does not have Microsoft's Portable Media Center interface but supports Microsoft's Media Transfer Protocol.  It supports audio (WMA-DRM, WMA, MP3, WAV), video (WMV, Motion JPEG, MPEG 1/2/4, DivX 4/5, xvid) and picture (JPEG) playback. The ZEN Vision utilizes a 30&nbsp;GB hard drive and can partition a part of its hard drive to work as a removable disk (up to 16&nbsp;GB) for any [[operating system]]. There are some features of the ZEN Vision which require compatibility with certain operating systems, e.g require users to have access to [[Microsoft]] [[Windows XP]] (SP1 or higher).
+
+Like past models, the ZEN Vision comes with a FM tuner, a voice and FM recorder, and a calendar and organizer that can be synchronized with [[Microsoft Outlook]].
+
+The ZEN Vision has a 3.7-inch, trans-reflective TFT-LCD display that has a resolution of 640x480 (VGA) pixels. It has a video output ([[PAL]] or [[NTSC]]) port and a [[CompactFlash]] slot which can be used to transfer the contents to the player. An adapter for other memory card types is also available as an accessory. The ZEN Vision also supports an optional [[infrared]] remote.
+
+=== ZEN Sleek Photo ===
+The ZEN Sleek Photo was released on [[October 6]], [[2005]]. It is the color-screen equivalent of the Sleek, with the extra ability to view JPEG photos on an OLED screen.
+
+=== ZEN Vision:M ===
+{{main|ZEN Vision:M}}
+<!-- Note: All content in this article should be adapted for the main player article, while the stuff here be shortened.--> 
+[[Image:ZenVisionM.png|right|140px||thumb|ZEN Vision:M (Black)]]
+The ZEN Vision:M, launched on [[December 8]], [[2005]]<ref>[http://reviews.cnet.com/Creative_Zen_Vision_M_30GB_green/4652-6490_7-31632697.html]</ref>, is adapted from the earlier released [[Creative ZEN#ZEN Vision|ZEN Vision]]. The 2.5-inch, [[TFT LCD]] display has a resolution of 320 by 240 pixels ([[Quarter Video Graphics Array|QVGA]]). The player has an estimated battery life of 16 hours for audio, and five hours for videos (tested under continuous playback). Album art is shown during playback, and image-viewing is enhanced with pan, zoom and rotation abilities. The 30&nbsp;GB model is available in white, black, green, blue and pink. Like the other players in the Vision and Micro lines, this model is known for its glowing button symbols.
+
+The ZEN Vision:M has won a number of accolades, including the "Best of Show" and "Best Portable Audio & Video Device" awards at the 2006 [[Consumer Electronics Show]]<ref name="ZEN Vision:M CES" />, as well as the [[Red dot design award|Red Dot Design Award]]<ref>[http://en.red-dot.org/317+M520107399e1.html red dot award: product design 2006 - ZEN Vision:M Portable Media Player]</ref>.
+
+On [[August 31]] [[2006]], Creative announced that the player will be available in a 60&nbsp;GB capacity. Also, this version has a USB host adapter cable, which enables users to transfer photos from a digital camera directly to the player. It is only available in black and white, and is a little thicker than the 30&nbsp;GB model. However, on [[March 11]] [[2007]], the 60&nbsp;GB model was upgraded with the same thickness as the 30&nbsp;GB version. The 60&nbsp;GB model has only been released in Japan.
+
+==== Appearances in media ====
+The ZEN Vision:M has made an appearance in an [[Orville Redenbacher's]] commercial, first broadcast during the [[64th Golden Globe Awards|2007 Golden Globe Awards]].<ref>[http://www.orville.com/aboutUs.jsp], Orville Redenbacher's About Us, accessed [[January 28]], [[2007]].</ref><ref>[http://www.youtube.com/comment_servlet?all_comments&v=c0pzQ-MltZk&fromurl=/watch%3Fv%3Dc0pzQ-MltZk], YouTube - 
+Orville Redenbacher in the year 2007 - Comments, accessed [[January 28]], [[2007]].</ref> The familiar blue interface and black color of the model are indicators.
+
+[[Image:Creative_Zen_Nano_Plus.jpg|left|160px||thumb|ZEN Nano Plus (1GB Blue)]]
+
+===ZEN Nano/Nano Plus===
+The ZEN Nano and the ZEN Nano Plus was released internationally on [[June 1]], [[2006]]. The player is a rebranded [[Creative MuVo|MuVo]] N200 and unlike other ZENs, the music is transferred and stored in the player as a [[USB mass storage device class|USB mass storage device]], without requiring any specific software. It lasts up to 18 hours on an AAA battery. Like the Micro and the MicroPhoto, the Nano is available in ten colors: black, pink, red, orange, green, light blue, blue, purple, gray, and white.
+
+The ZEN Nano Plus is a Nano with an FM tuner with 30 custom presets, plus voice, radio, and line-in recording. All recorded audio will be encoded in [[WAV]], except for line-in, which encodes to [[MP3]].
+
+== Hardware ==
+Most models are built with [[Texas Instruments]]'s [[Texas Instruments TMS320|TMS320DA25x]]  [[ARM architecture]] and [[digital signal processor]] that makes up the [[Central processing unit|CPU]]. The peripheral circuits take care of all media decoding without any accelerator chips. The [[touchpad]]s are managed by [[Synaptics]] controllers.
+
+The newer [[Creative ZEN#ZEN|ZEN]] players uses [[SigmaTel]]'s STMP3700 ARM, described to be "designed specifically for portable devices".<ref>{{cite web|url=http://www.tgdaily.com/content/view/33837/97/|title=Creative launches Zen player based on new media processor|last=Raby|first=Mark|publisher=tgdaily|accessdate=2007-11-09}}</ref> The [[operating system]] used is [[Nucleus RTOS]].<ref>{{cite web|url=http://forums.rockbox.org/index.php?topic=3320.360|title=Creative Zen Vision:M|publisher=Rockbox forums|accessdate=2007-11-24}}</ref>
+
+== Marketing campaign ==
+In November 2004, Creative Labs announced a $100 million marketing campaign to promote their digital audio products, including the ZEN range of MP3 players. In particular, the company was heavily publicizing the Zen Touch and ZEN Micro. These two products had been featured in an increasing number of television commercials, print ads, and urban billboards.
+
+Many celebrities were seen with the ZEN Micro, including [[Paris Hilton]], pop group [[Maroon 5]] and Aerosmith's [[Steven Tyler]].  
+
+== Legal issues ==
+Creative Labs, the American subsidiary of [[Creative Technology]], was awarded a patent on a music management interface (now commonly seen on audio players, including the [[Apple Inc.|Apple]] [[iPod]]) by the [[US Patent and Trademark Office]] on [[August 25]], [[2005]]<ref>{{cite web|url=http://appft1.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.html&r=15&f=G&l=50&d=PG01&p=1&S1=%28creative.AS.+AND+player.CLM.%29|title= Automatic hierarchical categorization of music by metadata - United States Patent Application|last=Goodman|first=Ron}}</ref>, after applying for it on [[January 5]], [[2001]].<ref>{{cite web|url=http://www.creative.com/zenpatent/|title=ZEN Patent Press Conference Speech Transcript|last=McHugh|first=Craig|publisher=Creative Labs}}</ref> Apple filed for a similar patent on [[October 22]], [[2002]] but was rejected.<ref name="Rejected">{{cite web|url=http://news.bbc.co.uk/2/hi/technology/4198360.stm|title=Creative wins MP3 player patent|publisher=BBC News}}</ref> Along with the launch of the Vision:M, Creative announced that it will "aggressively pursue" respect of its patents, addressing "all manufacturers that use the same navigation system."<ref>{{cite web|url=http://news.bbc.co.uk/2/hi/technology/4510044.stm|title=Apple faces iPod patent dispute|last=Hermida|first=Alfred|publisher=BBC News}}</ref> So far, Creative has only addressed Apple's infringement of its patent. Creative announced on [[May 15]], [[2006]], that it has launched a lawsuit against Apple for the infringement of the ZEN patent<ref>{{cite web|url=http://playlistmag.com/news/2006/05/15/creative/index.php|title=Creative sues Apple for patent infringement|last=Dalrymple|first=Jim|publisher=Playlist Magazine}}</ref> (Creative also asked the [[United States International Trade Commission|US Trade Commission]] to investigate whether Apple was breaching trade laws by importing iPods into the US.<ref>{{cite web|url=http://www.macworld.co.uk/news/index.cfm?NewsID=14646|title=Creative sues Apple over patent|last=McMillan|first=Robert|publisher=Macworld}}</ref>), which was then counter-sued by Apple on the same day, filing two lawsuits for infringing ''their'' patents.<ref>{{cite web|url=http://playlistmag.com/news/2006/05/19/lawsuit/index.php|title=Apple sues Creative over iPod patents|last=Dalrymple|first=Jim|publisher=Playlist Magazine}}</ref> Since then, Apple and Creative have reached a settlement, with Apple paying $100 million, and Creative joining the "Made for iPod" accessory program.<ref>{{cite web|url=http://www.appleinsider.com/article.php?id=1988|title=Apple's settlement seen as the right move|last=Marsal|first=Katie|publisher=AppleInsider}}</ref>
+
+== Alternative software ==
+Third-party alternatives have been developed to enable legacy OS compatibility as well as compatibility with other operating systems.
+
+*[[Free software]]:
+**''[[Amarok (audio)|Amarok]]'', a Linux and Windows media player[http://amarok.kde.org  ‌]
+**''[[Banshee (music player)|Banshee]]'', another similar program for Linux[http://www.banshee-project.org  ‌]
+**''Gnomad2'', which can transfer files to ZEN players with an FTP-like interface[http://gnomad2.sourceforge.net/  ‌]
+**''KZenExplorer'', a synchronization tool for [[KDE]][http://kzenexplorer.sourceforge.net/parser/parser.php?file=/index.ctn  ‌]
+
+*[[Proprietary software]]:
+**''Legacy OS Driver'', a Creative driver that gives compatibility to PlaysForSure-certified ZENs for Windows 98 SE, Me, and 2000. [http://us.creative.com//support/downloads/download.asp?searchString=P4S_PCDRV_US_1_01_00.exe  ‌]
+**''[[Media Transfer Protocol|Media Transfer Protocol (MTP)]] Porting Kit'', a Microsoft driver that provides functionality for MTP-based devices, like the ZEN players, for the same operating systems listed above. [http://www.microsoft.com/downloads/details.aspx?FamilyId=A2E73160-E862-4F19-BB26-C0CAFE798955&displaylang=en  ‌]
+**''[[MediaMonkey]]'', a media player that syncs with ZEN players. While it is freeware, the Gold version has the ability to automatically convert media formats. [http://www.mediamonkey.com  ‌]
+
+== See also ==
+*[[Digital audio player]]
+*[[Portable media player]]
+*[[Creative MuVo]]
+*[[Creative NOMAD]]
+*[[Creative Technology]]
+*[[Comparison of portable media players]]
+
+== External links ==
+*[http://sg.creative.com/products/welcome.asp?category=213&subcategory=214 Creative ZEN product line (Singapore)]
+*[http://us.creative.com/products/welcome.asp?category=213&subcategory=214 Creative ZEN product line (US)]
+*[http://us.creative.com/local/1/promo/findyourzen/welcome.asp?campid=20742&WT.cg_n=Campaigns&WT.mc_id=1104 "Find Your ZEN" advertising campaign (US)]
+
+== Notes and references ==
+{{reflist|2}}
+
+[[Category:Digital audio players]]
+[[Category:Portable media players]]
+[[Category:Creative Technology products]]
+[[Category:Brands]]
+[[Category:Singaporean brands]]
+[[Category:Consumer electronics brands]]
+[[es:Creative Zen]]
+[[nl:Creative ZEN]]
+[[ja:Creative Zen]]
+[[pl:Creative Labs Zen]]
+[[pt:Creative Zen]]

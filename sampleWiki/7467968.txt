@@ -1,0 +1,56 @@
+{{Infobox Ship|
+|Ship table fate=status
+|Ship image=[[Image:Elise-vapeur.gif|300px|]]
+|Ship caption=
+|Ship country=France
+|Ship flag=[[Image:Enseigne Marine Royale France.png|45px|French Navy Ensign]]
+|Ship ordered=
+|Ship builder=
+|Ship laid down=
+|Ship launched=
+|Ship christened=''Margery''
+|Ship purchased=1815
+|Ship commissioned=
+|Ship decommissioned=
+|Ship in service=
+|Ship out of service=
+|Ship renamed=Renamed ''Élise'' in 1815
+|Ship reclassified=
+|Ship captured=
+|Ship fate=
+|Ship struck=
+|Ship reinstated=
+|Ship homeport=
+|Ship displacement=70 tons
+|Ship length=21 m
+|Ship beam=
+|Ship draught=
+|Ship propulsion=Steam engine, 14 shp
+|Ship speed=
+|Ship range=
+|Ship endurance=
+|Ship test depth=
+|Ship boats=
+|Ship capacity=
+|Ship complement=
+|Ship time to activate=
+|Ship sensors=
+|Ship EW=
+|Ship armament=
+|Ship armour=
+|Ship armor=
+|Ship aircraft=
+|Ship motto=
+|Ship nickname=
+|Ship honours=
+|Ship notes=
+|}}
+The '''''Élise''''' was the first [[steam ship]] to cross the [[English Channel]].
+
+She was bought in England 1816 by Pierre Andriel as ''Margery'', and renamed ''Élise''. Andriel intended to accomplish a spectacular crossing of the Channel to convince public opinion that steam ships could be ocean-worthy.
+
+The ''Élise'' departed from [[Newhaven]] on [[17 March]], with a heavy sea. At midnight, a tempest broke out, and Andriel had to threaten his own crew at gun point and award three bottles of rum to the first man to spot the French coast. After 17 hours of sea, the ''Élise'' reached [[Le Havre]]. 
+
+She sailed up the [[Seine]] and arrived in Paris on [[28 March]], becoming a popular sensation. Two small saluting guns were mounted at the bow and fired in honour of [[Louis XVIII of France|Louis XVIII]].
+
+[[Category:Steamships|Élise]]

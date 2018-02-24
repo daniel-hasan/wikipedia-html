@@ -1,0 +1,32 @@
+The '''''Audacious'' class aircraft carriers''' were a class of ship proposed by the [[British government]] in the [[1930s]] - [[1940s]]. The ''Audacious'' class was originally designed as an expansion of the [[Implacable class aircraft carrier|''Implacable'' class]] with double storied hangars. However, it was realised that the hangar height would not be sufficient for the new aircraft that were expected to enter service, so the design was considerably enlarged.
+ 
+Four ships of were laid down between 1942 and 1943 during [[World War II]] as part of the British [[navy|naval]] buildup - HMS ''Africa'' (D06), HMS ''Ark Royal'' (91), HMS ''Audacious'' (D29) and HMS ''Eagle'' (94). At the end of hostilities ''Africa'' and ''Eagle''  were cancelled. Work on the remaining two was suspended. 
+
+;Eagle (94)
+Ordered from [[Swan Hunter]], Wallsend-on-Tyne in August 1942.
+Transferred to [[Vickers-Armstrong]] in December that year.
+Cancelled
+
+;Africa (D06)
+Ordered from Fairfield, [[Govan]] on [[12 July]] [[1943]]. Re-ordered as [[Malta class Aircraft carrier|Malta class]] in 1944. 
+Cancelled [[15 October]] [[1945]]
+
+;Audacious (D29)
+Laid down in 1942 at [[Harland and Wolff]], [[Belfast]].
+Renamed at the start of 1946 as {{HMS|Eagle|R05|6}} after the carrier sunk in 1942. Launched in March 1946 and commissioned in October 1951.
+
+;Ark Royal (91)
+
+Named after the earlier {{HMS|Ark Royal|91|2}} lost in 1942. Work on {{HMS|Ark Royal|R09|2}} started in 1943 at [[Cammell Laird]], [[Birkenhead]]. Launched in 1950 launch and commissioned in 1955.
+
+As the builds of ''Eagle'' and ''Ark Royal'' progressed they differed so much that they became the lead (and sole) ships of each of their own classes. They formed the backbone of the postwar carrier fleet, and were much modified. 
+==References==
+{{reflist}}
+
+{{Audacious_class_aircraft_carrier}}
+
+[[Category:Aircraft carrier classes]]
+[[Category:Audacious class aircraft carriers| Audacious class aircraft carrier]]
+[[Category:Cold War aircraft carriers of the United Kingdom| Audacious class aircraft carrier]]
+
+[[ja:オーダシャス級航空母艦]]

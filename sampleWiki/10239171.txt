@@ -1,0 +1,54 @@
+{{Infobox City Lebanon
+|official_name          = Monastery of Saint Anthony of Qozhaya
+|native_name            = دير مار أنطونيوس قزحيا
+|image_skyline          = Qozhaya01072003.jpg
+|image_size             = 250px
+|image_caption          = The Monastery of Qozhaya - July 2003
+|governorate            = North Governorate
+|district               = Zgharta District
+|lat_deg                = 34
+|lat_min                = 16
+|lat_sec                = 59
+|lat_hem                = N
+|lon_deg                = 35
+|lon_min                = 56
+|lon_sec                = 50
+|lon_hem                = E
+|elevation_m              = 664
+|mapx                   = 34.2830
+|mapy                   = 35.9473
+}}
+
+The Monastery of Qozhaya ([[Arabic]]: دير مار أنطونيوس قزحيا ) is located in the [[Zgharta District]] in the [[North Governorate]] of [[Lebanon]]. It belongs to the Lebanese [[Maronite]] Order, known as [[Baladites]]. 
+
+==Geography==
+It is dedicated to Saint [[Anthony the Great]]. It is commonly called '''Qozhaya''', in reference to the valley in which it is located. The valley of Qozhaya, along with the valley of Qannoubine ( قنوبين )to which it is connected to the west, form what is called the valley of [[Qadisha]] .
+
+==Etymology==
+The etymology of the name Qozhaya varies according to scholars. However, in the recent years, the [[Syriac]] origin was commonly adopted and gives the approximate meaning of '''the treasure of life'''. 
+
+==History==
+Qozhaya is considered to be one of the oldest monasteries of the valley of [[Qadisha]]. Several hermitages are attached to it and at a certain period (probably the 12th Century AD), it has been the See of the [[Maronite]] [[List of Maronite Patriarchs|Patriarch]]. In 1584, the first printing press of the [[Middle East]] was installed in this monastery. 
+
+In 1708, it was handed down to the newly-formed Lebanese Maronite Order. It still belongs to this important Order. Qozhaya was at its pinnacle in the first part of the 19th Century with more than 300 monks belonging to it.
+
+With its large properties in the valley, in Ain-Baqra and in Jedaydeh, Qozhaya is one of the richest monasteries of the Order. It contributes financially to the maintenance of the less fortunate monasteries of the Order.
+
+==What to see==
+* The Grotto of Saint Anthony the Great
+* The Church
+* The Museum
+* The Library
+* The Hermitage of Mar Boula
+
+==External links==
+{{en}}  [http://www.qozhaya.com The official site of the Monastery of Qozhaya]
+
+[[Category:Settlements in Lebanon]]
+[[Category:Maronite Church]]
+[[Category:Christian monasteries]]
+[[Category:Monasteries in Lebanon]]
+
+[[ar:دير مار أنطونيوس قزحيا]]
+[[de:Antoniuskloster Quzhaya]]
+[[fr:Monastère de Qozhaya]]

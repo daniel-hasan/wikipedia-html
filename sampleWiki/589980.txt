@@ -1,0 +1,24 @@
+{{Infobox SG rail|
+railroad_name=Somerset Railroad|
+logo_filename=Somerset.gif|
+logo_size=|
+old_gauge=|
+marks=SOM|
+locale=[[New York]]|
+start_year=1983 
+end_year=present|
+hq_city=
+}}
+The '''Somerset Railroad''' {{reporting mark|SOM}} is a shortline railroad that operates in [[Niagara County, New York]]. The railroad was built with the primary objective of providing [[coal]] to the [[Kintigh Generating Station]], a 675 megawatt coal-fired [[power plant]] located in [[Somerset, New York]]. The Railroad in reality was built in 1983. From [[Lockport (city), New York|Lockport, New York]] it runs on the defunct [[International Railway Co.]] (IRC) [[interurban]] (intercity trolley) line opened in 1900 under the name [[Buffalo, Lockport & Olcott Beach]] (BL&OB) which became part of the IRC in 1902. From [[Newfane, New York]] the SOM sweeps of the IRC (abandoned in 1937) to the [[Rome, Watertown and Ogdensburg Railroad|Hojack Line]] in [[Appleton, New York]] (Township of Newfane, Niagara County, NY) to West Somerset in the Town of Somerset. It then swings off to a series of spurs and a loop at the Kintigh Generating Station.
+
+Although the Somerset Railroad owns 428 rotary-dump [[gondola (rail)|gondola]] cars, [[CSX Transportation|CSX]] provides their motive power and operates the railroad. Prior to the acquisition of [[Conrail]] by [[Norfolk Southern]] and CSX in [[1998]], Conrail provided motive power. The Somerset Railroad right of way includes 15.59 [[mile]]s (25 [[kilometre|km]]) of trackage, known as the [[Somerset Secondary]]. [[unit train|Unit]] [[coal]] trains leaving from [[Youngstown, Ohio]], run to [[Erie, Pennsylvania]], followed by [[Buffalo, New York|Buffalo]], then north to the Niagara Branch, where they swing off onto the Lockport Branch, and finally in Lockport onto the Somerset Secondary. 
+
+The coal cars are unloaded using a rotary dumper at the power plant. Also on the line in Lockport is a chemical plant which receives anhydrous [[ammonia]] via the railroad. The first train on the line ran in November 1983, power was provided by four Conrail GE [[B23-7]]'s. The lead unit's number was #1926.
+
+The Somerset Railroad Subdivision (called the ''Somerset Secondary'' under [[Conrail]]) is a 15.59 mile section of [[railroad]] between [[Lockport (city), New York|Lockport, New York]] and [[Somerset, New York]] built by the Somerset Railroad Corporation. The line was constructed to allow [[coal]] [[train]]s to service the [[Kintigh Generating Station]] in Somerset. East of [[Newfane (town), Niagara County, New York|Newfane, NY]], the Somerset Secondary utilizes the abandoned [[Rome, Watertown and Ogdensburg Railroad]] right of way. The railroad track includes a large loop at the power plant where the coal cars are unloaded by a rotary dumper. A chemical plant in Lockport is also serviced from the line.
+
+==References==
+* The Greater Rochester Railfan Page, [http://24.169.115.143/rochesterrailf/som.htm Somerset Railroad]. Retrieved [[August 7]] [[2004]].
+*[http://web.archive.org/web/20030129002437/www.trainweb.org/csxtimetables/Albany/SomersetRR.html CSX Transportation Timetables - Somerset Railroad Subdivision]
+[[Category:New York railroads]]
+[[Category:Transportation in Buffalo]]

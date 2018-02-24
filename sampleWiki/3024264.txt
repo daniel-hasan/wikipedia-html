@@ -1,0 +1,42 @@
+{{Infobox_Film |
+  name     = Les Amants de Montparnasse |
+  image          = LesAmantsdeMontparnasse.jpg|
+  caption        = Original film poster|
+  imdb_id       = 0050123 |
+  producer         = [[Sandro Pallavicini]] |
+  director       = [[Jacques Becker]] |
+  writer         = [[Michel-Georges Michel]]  |
+  starring       = [[Gérard Philipe]]<br>[[Lilli Palmer]]<br>[[Lino Ventura]]<br>[[Anouk Aimée]] |
+  music         = [[Paul Misraki]] |
+cinematography = [[Christian Matras]] |
+  editing         = [[Marguerite Renoir]] |
+  distributor    = [[Franco London Films]]  |
+  released   = [[April 4]], [[1958]] |
+  runtime        = 108 min. |
+language = [[English language|English]] |
+}}
+'''''Les Amants de Montparnasse''''', (''The Lovers of Montparnasse''), also known as '''''Montparnasse 19''''', is a [[France|French]]/[[Italy|Italian]] [[film]] chronicling the last year of the life of the [[Italy|Italian]] [[painter]] [[Amedeo Modigliani]] who worked and died in abject poverty in the [[Montparnasse Quarter]] of [[Paris]], [[France]]. The film project was initiated by [[Max Ophüls]] who died before the script could be completed, so his name was credited as [[dedicatee]].
+
+The film [[poster]], as seen here, billed the film as '''''"Montparnasse 19"''''', but it is credited as '''''"Les Amants de Montparnasse (Montparnasse 19)"'''''.
+
+==Primary cast==
+*[[Gérard Philipe]]  :  [[Amedeo Modigliani]]
+*[[Lilli Palmer]]  :  [[Beatrice Hastings]]
+*[[Lea Padovani]]  :  Rosalie 
+*[[Lino Ventura]]  :  Morel
+*[[Gérard Séty]]  :  [[Leopold Zborowski]] 
+*[[Anouk Aimée]]  :  [[Jeanne Hébuterne]]
+*[[Lila Kedrova]]  :  Mme. Zborowsky
+
+==External links==
+* {{imdb title|id=0050123|title=Les Amants de Montparnasse}}
+{{CinemaofFrance}}
+{{bio-film-stub}}
+
+
+[[Category:1958 films|Amants de Montparnasse]]
+[[Category:Biographical films|Amants de Montparnasse]]
+[[Category:Drama films|Amants de Montparnasse]]
+[[Category:Films directed by Jacques Becker|Amants de Montparnasse]]
+[[Category:French films|Amants de Montparnasse]]
+[[Category:Italian films|Amants de Montparnasse]]

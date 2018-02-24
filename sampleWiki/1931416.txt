@@ -1,0 +1,565 @@
+:''For the 1980s comedy film, see [[The Blue Iguana]]
+{{Taxobox | color = pink
+| name = Blue iguana<br/>{{StatusCritical}}
+| image = Grand_Cayman_Blue_Iguana.jpg
+| image_width = 250px
+| status = CR
+| trend = down
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Reptile|Sauropsida]]
+| ordo = [[Squamata]]
+| familia = [[Iguanidae]]
+| genus = ''[[Cyclura]]''
+| species = '''''C. lewisi'''''
+| binomial = ''Cyclura lewisi''
+| binomial_authority = ([[Frederic Burton|Burton]], 2004)
+}}
+
+The '''Blue iguana''' or '''Grand Cayman iguana''' ('''''Cyclura lewisi''''') is a [[critically endangered species]] of [[lizard]] of the genus ''[[Cyclura]]'' endemic to the island of [[Grand Cayman]]. Previously listed as ''Cyclura nubila lewisi'' as a subspecies of [[Cyclura nubila nubila|Cuban Iguana]], it has been since reclassified as its own species due to genetic differences discovered in 2000. The Blue iguana has been noted as one of the longest-living species of lizard (possibly 69 years) and is a National Symbol of the [[Cayman Islands]].
+
+By the year 2003, fewer than 15 of these animals still lived in the wild, and this wild population was expected to be extinct within the first decade of the 21st century. The animals' demise is mainly being driven by [[predation]] by feral human pets (cats and dogs) and indirectly by the destruction of their natural [[habitat (ecology)|habitat]] as fruit farms are converted to pasture for cattle grazing.
+
+Since 2004, 219 captive-bred iguanas have been released into a preserve on Grand Cayman run by a partnership headed by the [[Durrell Wildlife Conservation Trust]], in an attempt to save this critically endangered species. Some success with naturally laid eggs has been reported in the wild. At least five non-profit organizations are working with the government of the Cayman Islands to ensure the survival of this species.
+
+==Taxonomy==
+The Grand Cayman Blue iguana, ''Cyclura lewisi'', is endemic to the island of Grand Cayman.<ref name="kenyon2"/> Its [[genus|generic]] name ''[[Cyclura]]'', is derived from the [[Greek]] words ''cyclos'' meaning "circular" and ''urus'' meaning "tail", after the thick ringed tail characteristic of all ''Cyclura'' [[iguana]]s.<ref name="Sanchez">
+{{citation
+  | last = Sanchez
+  | first = Alejandro
+  | title = Father Sanchez's Web Site of West Indian Natural History Diapsids I: Introduction; Lizards
+  | url = http://www.kingsnake.com/westindian/metazoa10.html
+  | date = November 26, 2007
+  }}
+</ref> Its [[species|specific]] name is a [[Latinized]] form of the name of the scientist who first described this species, Bernard C. Lewis.<ref name="cnnblue"/>
+
+The Blue iguana's closest relatives are ''[[Cyclura nubila nubila|C. nubila nubila]]'' on [[Cuba]] and ''[[Cyclura cychlura|C. cychlura cychlura]]'' in the [[Bahamas]], all having apparently diverged from a common ancestor some three million years ago.<ref name="kenyon"/><ref name="kenyon2"/> The species has a low [[genetic diversity]] but does not seem to suffer the same lack of vitality that afflicts other such species of rock iguana.<ref name="Hudson"/><ref name="Malone"/> One theory is that the species evolved from a single female [[Cyclura nubila nubila|Cuban rock iguana]] (''C. nubila nubila'') with eggs inside her who drifted across the sea, perhaps during a storm.<ref name="kenyon">{{cite journal
+  | last = Kenyon
+  | first = Georgina
+  | title = Re-enter the Dragon
+  | journal = New Scientist
+  | issue = 2517
+  | pages = 42-43
+  | date = [[2005-09-17]]
+  | publisher = Simone Coless}}</ref> It is distinct from the subspecies found on [[Little Cayman]] and [[Cayman Brac]] known as ''[[Cyclura nubila caymanensis|C. nubila caymanensis]]'', although it can breed with this subspecies and produce fertile offspring.<ref name="taxo">
+{{citation
+  | last = Burton
+  | first = Frederic
+  | title = Taxonomic Status of the Grand Cayman Blue Iguana
+  | work = Caribbean Journal of Science
+  | publisher = Caribbean Journal of Science
+  | volume = 8
+  | number = 1
+  | pages = 198-203
+  | date = 2004
+  | url = http://www.caribjsci.org/aug04/40_198-203.pdf
+  | accessdate = 9/16/2007  }}
+</ref><ref name="greenblue"/>
+
+In 1938, Bernard C. Lewis of the Institute of Jamaica joined an [[Oxford University]] biological expedition to the Cayman Islands.<ref name="cnnblue"/> Lewis was able to obtain two blue iguanas, a male and a female, which were later lodged with the [[British Museum]] of Natural History.<ref name="cnnblue"/> [[Chapman Grant]], in a monograph published in 1940, formally described the blue iguana for the first time as ''Cyclura macleayi lewisi''.<ref name="cnnblue"/><ref name="iucn"/><ref name="taxo"/><ref name="hollingsworth">
+{{citation
+  | last = Hollingsworth
+  | first = Bradford D.
+  | title = The Evolution of Iguanas an Overview and a Checklist of Species
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 35-39
+  | date = 2004
+  | isbn = 9780520238541
+  }}
+</ref>
+
+In 1977, Schwartz and Carey established the [[trinomial nomenclature|trinomial]] ''Cyclura nubila lewisi'' for the blue iguana.<ref name="taxo"/><ref name="hollingsworth"/>  They held that the Grand Cayman blue iguana was a strongly distinct subspecies of ''C. nubila'', commonly known as the Cuban rock iguana, the species from which it evolved and with which it can breed. They emphasized its overall bright blue coloration, noting that further study may reveal this lizard to be a distinct species.<ref name="taxo"/><ref name="hollingsworth"/> The current taxonomic change was made in 2004 by Frederic Burton, who named the blue iguana a distinct species in its own right.<ref name="taxo"/> This decision was made after years of research comparing scale counts on the heads of other Caribbean iguanas, including those found on Little Cayman, Cayman Brac, Cuba, and the Bahamas, with those of the blue iguana, as well as [[mitochondrial DNA]] analysis performed by Dr. Catherine Malone, to re-examine the [[phylogeography]] of the different species.<ref name="taxo"/>
+
+==Anatomy and morphology==
+The Blue iguana is a large species of [[rock iguana]] with a body length of 20 to 30 inches (51–76cm) and an equally long tail.<ref name="devosjoli"/> It is the largest native land animal on Grand Cayman with a total nose-to-tail length of five feet (1.5m) and weighing as much as 30 pounds (13.6kg).<ref name="devosjoli"/><ref name="Dorge">
+{{Citation
+  | last = Dorge
+  | first = Ray
+  | title = A Tour of the Grand Cayman Blue Iguana Captive-Breeding Facility
+  | journal = Reptiles: Guide to Keeping Reptiles and Amphibians
+  | volume = 4
+  | issue = 9
+  | year = 1996
+  |pages=32-42
+ }}
+</ref>  The Blue iguana's toes are articulated to be efficient in digging and climbing trees.<ref name= "winker"/> The Blue iguana has been observed climbing in trees 15 feet (4.6m) and higher.<ref name="herp"/>
+
+Male Blue iguanas are larger than females.<ref name="herp"/> The mature male's skin color ranges from dark grey to turquoise blue, whereas the female is more olive green to pale blue.<ref name="herp"/> Young animals tend to be uniformly dark brown or green with faint darker banding.<ref name="herp"/> When they first emerge from the nest the neonates have an intricate pattern of eight dark [[dorsum (biology)|dorsal]] chevrons from the crest of their necks to their pelvic area.<ref name="Color"/> These markingds fade by the time the animal is one year old changing to mottled gray and cream and eventually giving way to blue as adults.<ref name="Color">
+{{Citation
+  | last = Burton
+  | first = Fred
+  | title =Color and Pattern in Grand Cayman Blue Iguanas
+  | journal = Iguana Journal of the International Iguana Society
+  | volume=11
+  |number 3
+  | pages=148-151
+  | year = 2004
+ }}
+</ref>  As adults, the Blue iguana is typically dark gray in color matching the [[karst]] rock of its landscape.<ref name="Color"/>  The animal changes its color to blue when its in the presence of other iguanas to signal and establish territory.<ref name="Color"/>
+
+The Blue iguana's eyes have a golden [[Iris (anatomy)|iris]] and red [[sclera]], and their distinctive black feet stand in contrast to their lighter overall body color.<ref name="herp"/> Male Blue iguanas have [[thigh|femoral]] pores, which are used to release [[pheromone]]s.<ref name="winker"/> Females lack these pores and do not have a dorsal crest as high as the male's, making the animal somewhat [[sexual dimorphism|sexually dimorphic]].<ref name="winker">
+{{citation
+  | last = Winker
+  | first = Carol
+  | title = Iguanas get royal attention 
+  | date = 2/8/2007
+  | url = http://www.blueiguana.ky/zzzbirp20070208a.htm
+  }}
+</ref><ref name="devosjoli">
+{{cite book
+  | last =De Vosjoli
+  | first =Phillipe
+  | coauthors = David Blair
+  | title =The Green Iguana Manual
+  | publisher =Advanced Vivarium Systems
+  | date =1992
+  | location =Escondido, California
+  | isbn = 74886904040 }}
+</ref>
+
+Blue iguanas have excellent vision, which allows them to detect shapes and motions at long distances.<ref name="Brames">
+{{Citation
+  | last = Brames
+  | first = Henry
+  | title = Aspects of Light and Reptile Immunity
+  | journal = Iguana: Conservation, Natural History, and Husbandry of Reptiles
+  | publisher = International Reptile Conservation Foundation
+  | volume = 14
+  | issue = 1
+  | year = 2007
+  |pages=19-23
+ }}
+</ref>  As Blue iguanas have only a few [[Rod cell]]s they have poor vision in low-light conditions. At the same time they have cells called “double [[Cone cell|cone]]s” which give them sharp color vision and enable them to see [[ultraviolet]] wavelenghts.<ref name="Brames"/>  This ability is highly useful when basking so the animal can ensure that it absorbs enough sunlight in the forms of [[Ultraviolet|UVA]] and [[UVB]] to produce [[Vitamin D]].<ref name="devosjoli"/>
+
+Blue iguanas have evolved a white photosensory organ on the top of their heads called the [[parietal eye]], which are also called third eye, pineal eye or pineal gland.<ref name="Brames"/>  This “eye” doesn’t work the same way as a normal eye does as it has only a rudimentary retina and lens and thus, cannot form images.<ref name="Brames"/>  It is however sensitive to changes in light and dark and can detect movement.<ref name="Brames"/>  
+
+Primarily [[herbivorous]], Blue iguanas are presented with a special problem for [[osmoregulation]]: plant matter contains more [[potassium]] and as it has less nutritional content per gram, more must be eaten to meet the lizard's metabolic needs.<ref name="Hazard">
+{{citation
+  | last = Hazard
+  | first = Lisa C.
+  | title = Sodium and Pottassium Secretion by Iguana Salt Glands
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 84-85
+  | date = 2004
+  | isbn = 9780520238541
+  }}
+</ref>  As Blue iguanas are not capable of creating liquid urine more concentrated than their bodily fluids, like [[bird]]s they excrete nitrogenous wastes as urate salts through a [[salt gland]].<ref name="Hazard"/>  As a result, Blue iguanas have developed this lateral nasal gland to supplement renal salt secretion by expelling excess potassium and sodium chloride.<ref name="Hazard"/>
+
+==Habitat and distribution==
+[[Image:Cayman Islands (detail).jpg|thumb|300px|Cayman Islands]]
+The Blue iguana is found only on the island of Grand Cayman. Comparison with other ''Cyclura'' species in the region strongly suggests that there was once a coastal population of Blue iguanas which was gradually displaced or extirpated by human settlements and the construction of roads.<ref name="iucn"/> The Blue iguana now only occurs inland in natural [[xerophytic]] shrubland and along the interfaces between farm clearings, roads, and gardens and closed-canopy dry forest or shrubland.<ref name="plan"/><ref name="iucn"/> The interior population is believed to have been attracted to agricultural clearings and fruit farms which provide thermoregulatory opportunities, herbaceous browse, fallen fruit, and nesting soil, but this also brought the Blue iguana into contact with humans and feral animals.<ref name="iucn"/> Females often migrate to coastal areas to nest.<ref name="salina">
+{{citation
+  | last = Burton
+  | first = Frederic
+  | title = Salina Blues Update
+  | work = Blue Iguana Tales
+  | publisher = Quarterly Update on Blue Iguana Recovery Project
+  | volume=3
+  | number=4
+  | pages = 5
+  | date = 2005
+  | url = http://www.blueiguana.ky/download/BIT-V3No4M.pdf
+  }}
+</ref>
+
+Blue iguanas released into the Queen ElizabethII Botanical Park on Grand Cayman were radiotracked in 2004 to determine ranges for each animal.<ref name="BIRP0606">
+{{Citation
+  | last = Burton
+  | first = Fred
+  | title =Blue Iguana Recovery Program
+  | work = Iguana Specialist Group Meeting
+  | journal = Iguana Journal of the International Iguana Society
+  | volume=13
+  | number 2
+  | pages=117
+  | year = 2006
+ }}
+</ref>  Females were found to occupy territories of 0.6 [[acre]]s and males an average of 1.4 acres with overlap in common usage areas, indicating that the Blue iguanas chose to maintain a [[population density]] of 4-5 animals per [[hectare]].<ref name="BIRP0606"/>
+
+The Blue iguanas occupy rock holes and tree cavities, and as adults are primarily terrestrial.<ref name="Dorge"/>  Younger individuals tend to be more arboreal.<ref name="Dorge"/>  Hatchlings are preyed upon by the native snake ''Alsophis cantherigerus''.<ref name="plan"/> The adults have no natural predators but can fall victim to feral dogs.<ref name="iucn"/><ref name="plan"/> They typically reach sexual maturity at three to four years of age.<ref name="herp"/>
+
+==Diet and longevity==
+Like all ''Cyclura'' species, the Blue iguana is primarily [[herbivory|herbivorous]], consuming leaves, flowers, and fruits from over 45 different plant species.<ref name="iucn"/><ref name="plan"/> This diet is very rarely supplemented with insect larvae, crabs, slugs, dead birds, and fungi.<ref name="herp"/><ref name="plan"/>
+
+Longevity in the wild is unknown but is presumed to be many decades. A Blue iguana named "Godzilla" captured on Grand Cayman in 1950 by naturalist Ira Thompson was imported to the [[United States]] in 1985 by Ramon Noegel and sold to Tom Crutchfield in 1990.<ref name="Colette">
+{{Citation
+  | last = Adams
+  | first = Colette
+  | title = Requiem for Godzilla
+  | journal = Iguana: Journal of the International Iguana Society
+  | volume = 11
+  | issue = 3
+  | pages = 168-172
+  | date = September 1, 2004
+  | year = 2004
+   }}
+</ref> Crutchfield donated Godzilla to the [[Gladys Porter Zoo]] in [[Brownsville, Texas]] in 1997 and the lizard remained there until its death in 2004.<ref name="godzilla">
+{{Citation
+  | last = Adams
+  | first = Colette
+  | title = Obituary
+  | journal = Iguana Specialist Group Newsletter
+  | volume = 7
+  | issue = 1
+  | pages = 2
+  | date = May 26, 2004
+  | year = 2004
+  | url = http://www.iucn-isg.org/newsletters/pdf/ISG_News_7(1).pdf
+ }}
+</ref><ref name="Colette"/><ref name="godzilla"/> Thompson estimated the iguana to be 15 years of age at the time of his capture.<ref name="godzilla"/> At 69 years of age (54 in captivity), this lizard may be the world's longest-living lizard of which there is reliable record.<ref name="godzilla"/> In addition, a closely related Lesser Caymans iguana (''[[Cyclura nubila caymanensis|C. nubila caymanensis]]'') has been documented as living 33 years in captivity.<ref name="iverson">
+{{citation
+  | last = Iverson
+  | first = John
+  | last2 = Smith
+  | first2 = Geoffrey
+  | last3 = Pieper
+  | first3 = Lynne
+  | title = Factors Affecting Long-Term Growth of the Allen Cays Rock Iguana in the Bahamas
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 184
+  | date = 2004
+  | isbn = 9780520238541
+  }}
+</ref>
+
+==Mating==
+Mating occurs from May through June.<ref name="iucn"/><ref name="herp"/> [[Copulation]] is preceded by numerous head-bobs on the part of the male, who then circles around behind the female and grasps the nape of her neck.<ref name="herp"/> He then attempts to restrain the female in order to maneuver his tail under hers to position himself for intromission.<ref name="herp"/> Copulation generally lasts from 30 to 90 seconds, and a pair is rarely observed mating more than once or twice a day.<ref name="herp">
+{{citation
+  | last = Blair
+  | first = David
+  | title = West Indian Iguanas of the Genus Cyclura: Their Current Status in the Wild, Conservation Priorities and Efforts to Breed Them in Captivity
+  | work = Northern California Herpetological Society Special
+Publication
+  | volume = SE
+  | number = 6
+  | pages = 55-56
+  | date = 1991
+  | url = http://images.cyclura.com/download/pdf/WestIndianRockIguanas.PDF
+ }}
+</ref> Anywhere from one to twenty-one eggs are usually laid in June or July depending on the size and age of the female, in nests excavated in pockets of earth exposed to the sun.<ref name="iucn"/><ref name="plan"/><ref name="Blair">
+{{citation
+  | last = Blair
+  | first = David
+  | title = Dragons of the Cayman: Rock Iguanas Cling to their Islands
+  | journal = Oceans Magazine
+  | volume = 16
+  | number = 1
+  | pages = 31-33
+  | date = 1983
+ }}
+</ref> It has been noted that ''Cyclura'' eggs are some of the largest eggs laid by any lizard.<ref name="herp"/>  
+
+Individuals are aggressively territorial from the age of about 3 months onward.<ref name="plan">
+{{Citation
+  | last = Alberts
+  | first = Allison
+  | title = The Grand Cayman Blue Iguana - Species Recovery Plan 2001 – 2006
+  | pages = 2-28
+  | date = December 9, 2004
+  | year = 2004
+  | url = http://www.blueiguana.ky/download/BlueRecovery12.pdf
+ }}
+</ref> Females occupy overlapping usage areas of the order of 0.6 acres (0.24ha), seemingly regardless of age, while males occupy progressively larger and more extensively overlapping usage areas as they age and grow.<ref name="iucn"/>
+
+==Conservation==
+===Endangered status===
+The Blue iguana is critically endangered according to the current [[IUCN Red List]].<ref name ="iucn"/> The population is restricted to the eastern interior of Grand Cayman, where it had been reduced to a critically low level, only three animals having been observed prior to the survey in 1988.<ref name="iucn"/><ref name="cnnblue">
+{{Citation
+  | title = Blue Iguanas get helping hand to recovery
+  | newspaper=Cayman Net News
+  | date = April 26, 2005 
+  | year = 2005
+  | url = http://www.caymannetnews.com/2005/04/824/hand.shtml
+ }}
+</ref>  The range of the Blue iguana has contracted significantly over the last 25 years, with many sites once populated now showing no signs of wild iguanas.<ref name="cnnblue"/> Surveys in 2003 indicated a total population in the range of 5-15 individuals.<ref name="plan"/> By 2005 the unmanaged wild population was considered to be functionally extinct.<ref name="Burton"/><ref name="wissman"/> The species is one of the most endangered animals on Earth.<ref name="independent"/><ref name="Malone">
+{{citation
+  | last = Malone
+  | first = Catherine
+  | last2 = Davis
+  | first2 = Scott
+  | title = Genetic Contributions to Caribbean Iguana Conservation
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 54-57
+  | date = 2004
+  | isbn = 9780520238541
+  }}
+</ref>
+
+As the Blue iguana consumes a variety of plant material, favoring fruits and flowers over leaves and stems when available it is valuable on Grand Cayman as a seed disperser throughout its range.<ref name="iucn"/><ref name="plan"/><ref name="alberts"/>   A study in 2000 by Dr Allison Alberts revealed that seeds passing through the digestive tracts of ''Cycluras'' germinate more rapidly than those that do not.<ref name="Derr">
+{{Citation
+  | last = Derr
+  | first = Mark
+  | title = In Caribbean, Endangered Iguanas Get Their Day
+  | newspaper = New York Times Science Section
+  | date =10/10/2000
+  | year = 2000
+ }}
+</ref><ref name="alberts"/>  These seeds in the fruits consumed by the Blue iguana have an adaptive advantage by sprouting before the end of very short rainy seasons.<ref name="alberts"/>  The Blue iguana is also an important means of distributing seeds to new areas and, as the largest native herbivore of Grand Cayman's ecosystems, it is essential for maintaining the delicate balance between climate and vegetation necessary to survive under harsh conditions.<ref name="alberts">
+{{citation
+  | last = Alberts
+  | first = Allison
+  | last2 = Lemm
+  | first2 = Jeffrey
+  | last3 = Grant
+  | first3 = Tandora
+  | last4 = Jackintell
+  | first4 = Lori
+  | title = Testing the Utility of Headstarting as a Conservation Strategy for West Indian Iguanas
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 210
+  | date = 2004
+  | isbn = 9780520238541
+  }}
+</ref>  
+
+Restored free-roaming subpopulations in the Queen Elizabeth II Botanic Park and the Salina Reserve numbered approximately 125 individuals in total after a release in December 2005.<ref name="independent"/> The restored subpopulation in the Queen Elizabeth II Botanic Park has been breeding since 2001, and the subpopulation in the Salina Reserve was deemed to be breeding in 2006 after a nest of three hatched eggs was discovered in the wild.<ref name="Hudson">{{Citation
+  | last =Hudson
+  | first =Rick
+  | title =Big Lizards, Big Problems
+  | journal =Reptiles Magazine
+  | volume =15
+  | issue =4
+  | pages =54-61
+  | date =4/1/2007
+  | year =2007
+ }}
+</ref><ref name="bbc1">
+{{Citation
+  | title =Breeding Success for Rare Lizards
+  | newspaper = BBC News/Science Nature
+  | year =2006
+  | date = 10/27/2006
+  | url =http://news.bbc.co.uk/2/hi/science/nature/6083816.stm
+}}
+</ref> As of April 2007, after another large scale release, there are 299 blue iguanas living in the wild, with hundreds more being raised in captivity on Grand Cayman.<ref name="Burton">{{Citation
+  | last =Burton
+  | first =Frederic
+  | title =How to Save a Species:Grand Cayman Blues
+  | journal =Reptiles Magazine
+  | volume =15
+  | issue =4
+  | pages =60
+  | date =4/1/2007
+  | year =2007
+ }}
+</ref>
+
+===Causes of decline===
+Habitat destruction is the main factor threatening imminent extinction for this iguana. Land clearance within remnant habitat is occurring for agriculture, road construction, and real estate development and speculation.<ref name="Burton"/> Conversion of traditional croplands to cattle pasture is also eliminating secondary Blue iguana habitat.<ref name ="iucn">
+{{IUCN2006|assessors=Burton, F.J.|year=2004|id=44275|title=Cyclura lewisi|downloaded=9 May 2006}}
+</ref>
+
+Predation and injury to hatchlings by [[rat]]s, to hatchlings and sub-adults by [[feral cat]]s, and killing of adults by [[pariah dog|roaming dogs]] are all placing severe pressure on the remaining wild population.<ref name ="iucn"/><ref name="Hudson"/> Road kill is an increasing cause of mortality. Trapping and shooting is a comparatively minor concern, but occasional trapping continues despite legal protection and sustained efforts to increase public awareness.<ref name ="iucn"/><ref name="kenyon2">{{cite journal
+  | last = Kenyon
+  | first = Georgina
+  | title = SOS call for ancient blue iguana
+  | newspaper = BBC News
+  | issue = 2517
+  | pages = 42-43
+  | date = [[2005-05-23]]
+  | year =2005
+  | url= http://news.bbc.co.uk/2/hi/science/nature/4566275.stm
+}}</ref><ref name="wissman">
+{{Citation
+  | last =Wissman
+  | first =Margaret
+  | title =In Search of the Grand Cayman Blue Rock Iguana
+  | journal= Reptiles
+  | volume = 3
+  | number= 2
+  | year =1995
+  |page=56-57
+}}
+</ref>
+
+The common [[Green iguana]], (''Iguana iguana''), has been introduced from [[Honduras]] and is well-established on Grand Cayman as an [[invasive species]]. It far outnumbers the endemic Blue iguana.<ref name="wildblue"> {{Citation
+  | last = Mani
+  | first = Bina
+  | title = Wild Blue Iguanas plummeting towards extinction 
+  | date = 7/17/2002
+  | year =2002
+  | url =http://www.blueiguana.ky/zzzwildblue.htm
+  | accessdate = 09/07/2007 }}</ref><ref name="seidel">
+{{citation
+  | last = Seidel
+  | first = M
+  | last2 = Franz
+  | first2 = R
+  | title = Amphibians and reptiles (exclusive of marine turtles) of the Cayman Islands
+  | work = The Cayman Islands: natural history and biogeography
+  | publisher = Kluwer Academic Publishers
+  | location = The Netherlands
+  | pages = 407-434
+  | date = 1994
+  | isbn = 9780792324621
+  }}
+</ref> No direct negative consequences of this introduction on the Blue iguana are known, but the mere presence of the Green iguana confuses public attitudes and understanding.<ref name ="iucn"/><ref name="caymannetnews"/> For example, the people of the island are told that Blue iguanas are endangered and rare, and when they subsequently see large numbers of the introduced Green iguana, they don't understand the difference.<ref name="caymannetnews"/><ref name="greenblue">
+{{Citation
+  | title = Green and Blue a world of difference to Iguanas
+  | newspaper=Cayman Net News
+  | date = February 14, 20065 
+  | year = 2006
+  | url = http://www.caymannetnews.com/2006/02/1029/world.shtml
+ }}
+</ref>
+
+Live Blue iguanas used to regularly be sold to tourists as [[pet]]s, as their rarity made them appealing to exotic-animal collectors, despite this being illegal under the [[CITES]] treaty.<ref name="pet"/> In 1999 a [[World Wildlife Fund]] international conservation officer, Stuart Chapman, said, "The British government has turned a blind eye for over 20 years to these overseas territories which are home to many rare and endangered species. Many of these face extinction if Britain fails to honour its treaty obligations. The British Caribbean islands are extremely rich in biodiversity with many critically [[endangered species]] that are unique to the islands - yet there is virtually zero enforcement or implementation of CITES."<ref name="pet">
+{{Citation
+  | last = Tickell
+  | first = Oliver
+  | title =UK `allowing illicit trade in endangered species'
+  | newspaper =The (London) Independent 
+  | year =1999
+  | date =10/14/1999}}</ref>
+
+The wild population of Grand Cayman Blue iguanas had been reduced from a near island-wide distribution to a barely viable, increasingly fragmented remnant owing to the combined influences of habitat conversion, hunting, introduction of non-native predatory species, and road kill.<ref name="Burton"/><ref name="wildblue"/> By 2001, no young hatched in the unmanaged wild population were surviving to breeding age, meaning the population was functionally extinct, with only five animals remaining in the wild.<ref name="Burton"/>
+
+===Recovery efforts===
+In 1990 the [[American Zoo and Aquarium Association]](AZA) designated the genus ''Cyclura'' as their highest priority.<ref name="zoorole">
+{{citation
+  | last = Hudson
+  | first = Richard D.
+  | last2 = Alberts
+  | first2 = Allison C.
+  | title = The Role of Zoos in the Conservation of West Indian Iguanas
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 274-289
+  | date = 2004
+  | isbn = 9780520238541
+  }}
+</ref> Their first project was an ''[[in situ]]'' captive breeding program for the blue iguana, which at the time was the most critically endangered of all the species of ''Cyclura''.<ref name="zoorole"/>
+
+One of the early difficulties the program encountered was that the captive stock of the early 1990s was found not to be pure.<ref name="herp"/><ref name="zoorole"/> It was discovered through DNA analysis and blood work that the captive population contained a number of individual animals that were [[hybrid]]s with ''C. nubila caymanensis''.<ref name="herp"/><ref name="zoorole"/> The program now contains only pure specimens, as these hybrids were sterilized by means of hemipenectomies and removed from the breeding program.<ref name="plan"/><ref name="zoorole"/><ref name="Dorge"/>
+
+This program was created in order to determine the exact genealogies of the limited gene pool of the remaining animals.<ref name="zoorole"/> It was determined through DNA analysis that the entire North American captive population which was to be used as a base for reviving the species was descended from a single pair of animals.<ref name="zoorole"/> After five years of research two captive breeding populations were established and are managed as a single unit, with bloodline exchanges to promote genetic diversity.<ref name="zoorole"/>  
+
+As a hedge against disaster striking the Blue iguana population on [[Grand Cayman]], an [[ex situ|off-island]] captive population was established in 25 zoos in the USA.<ref name="zoorole"/><ref name="plan"/> A minimum of 20 founder lines represented by at least 225 individuals is being maintained by captive breeding and recorded in a [[studbook]] for the species by Tandora Grant of the San Diego Zoo's Center for Conservation and Research for Endangered Species (CRES).<ref name="plan"/><ref name="zoorole"/><ref name="BIRP0606"/>  The Indianapolis zoo has had success with breeding the Blue iguana in captivity over a period of seven years.<ref name="hatch"> {{cite web
+  | title =Iguanas Hatch in Indianapolis
+  | work = Significant Efforts in Conservation
+  | publisher =Association of Zoos and Aquariums
+  | date =2002 
+  | pages=39
+  | url =http://www.aza.org/Publications/2002/06/June2002SigEfforts.pdf
+  | accessdate =10/04/2007  }}</ref>  
+
+In October 2006, hatchlings were released into the wild for the first time to boost the species and help bring them back from the brink of extinction.<ref name="independent">
+{{Citation
+  | title =Hatchlings revive rarest lizard on earth
+  | newspaper =London Independent
+  | year =2006
+  | date =October 26, 2006
+  | url =http://findarticles.com/p/articles/mi_qn4158/is_20061026/ai_n16803494 
+}}
+</ref> Each released blue iguana wears a string of colored beads around its neck for visual identification at a distance, backed up by an implanted [[microchip implant (animal)|microchip]] and a high-resolution photograph of its head scales.<ref name="winker"/> (Head scale patterns are as unique among blue iguanas as fingerprints are among humans.)<ref name="winker"/>
+
+====Blue Iguana Recovery Programme====
+Efforts to save the Blue iguana are being implemented as of 2007 by the Blue Iguana Recovery Programme (BIRP) which, with local and international partners, operates under the auspices of the National Trust for the Cayman Islands.<ref name="Burton"/> This program operates under a special exemption from provisions in the Animals Law of the Cayman Islands which normally would make it illegal for anyone to kill, capture, or keep iguanas.<ref name="plan"/><ref name="caymannetnews"/> 
+
+BIRP's [[Wildlife conservation|conservation]] strategy involves generating large numbers of genetically diverse hatchlings, head-starting them to an age where their chance of survival in the wild is high, and using these animals to rebuild a series of wild sub-populations in protected, managed natural areas.<ref name="plan"/><ref name="knapp">
+{{citation
+  | last = Knapp
+  | first = Charles R.
+  | last2 = Hudson
+  | first2 = Richard
+  | title = Translocation Strategies as a Conservation Tool for West Indian Iguanas
+  | work = Iguanas: Biology and Conservation
+  | publisher = University of California Press
+  | pages = 199-209
+  | date = 2004
+  | isbn = 9780520238541
+  }}
+</ref> "Head-starting" means raising the animals in captivity from the time they hatch until they are big enough not to fall prey to feral cats and rodents, thereby offsetting the juvenile mortality rate. This is accompanied by field research, nest site protection, and monitoring of the released animals.<ref name="anegada">
+{{citation
+  | last = Hudson
+  | first = Rick
+  | title = Anegada Iguanas Released
+  | work = Iguana Specialist Group Newsletter
+  | publisher = International Iguana Foundation
+  | volume = 8
+  | number = 1
+  | pages = 2-4
+  | date = 2005
+  | url = http://www.iucn-isg.org/newsletters/pdf/ISG_Bklt_8(1).pdf
+  | accessdate = 9/8/2007  }}
+</ref><ref name="alberts"/><ref name="Nelson">{{Citation
+  | last =Nelson
+  | first =Robert
+  | title =A Safe Haven for Wildlife: Naval Base Guantanamo Bay Provides Sanctuary for Iguana
+  | journal =Currents: Navy Environmental News
+  | date =8/1/2001
+  | year =2001
+  |url= http://www.enviro-navair.navy.mil/currents/fall2001/Currents%20Fall%202001-web.pdf
+ }}
+</ref> A rapid numerical increase from a maximum possible number of founding stock is sought to minimize loss of genetic diversity caused by the "[[population bottleneck]]".<ref name="plan"/> BIRP maintains these hatchlings for two years before their release into the wild.<ref name="kenyon2"/>
+
+Maintenance of Blue iguanas in the wild requires active management into the indefinite future.<ref name="plan"/> To sustain this activity, a range of commercial activities generates the funding required, while an ongoing education and awareness effort ensures continued involvement and support by the local community.<ref name="plan"/><ref name="Burton"/><ref name="caymannetnews">
+{{Citation
+  | title = Campaign on to save blue iguanas
+  | newspaper=Cayman Net News
+  | date = August 9, 2007
+  | year = 2007
+  | url = http://www.caymannetnews.com/bracker.php?news_id=1170&start=0&category_id=7
+ }}
+</ref> Habitat protection is still vital, as the Salina reserve can only support a few hundred iguanas.<ref name="plan"/><ref name="Burton"/><ref name="Dorge"/>  The Salina Reserve has only 88 acres (35.6ha) of dry shrubland, which is not enough to sustain the 1,000 blue iguanas that must be restored to the wild to get this species off the Critically Endangered List.<ref name="plan"/><ref name="winker"/>
+
+When the restored wild sub-populations have reached the carrying capacity of their respective protected areas, release of head-started animals will be phased out, and the sub-populations will be left to reproduce naturally.<ref name="plan"/> In addition, guided by research and monitoring, control or eradication of non-native predators will be implemented to the degree necessary to allow young blue iguanas to survive to maturity in sufficient numbers to maintain these sub-populations.<ref name="plan"/><ref name="zoorole"/> 
+
+Restored sub-populations are already present in two non-contiguous areas—the Salina Reserve and the Queen Elizabeth II Botanic Park.<ref name="Dorge"/> Additional separate sub-populations will be restored in one or more other areas.<ref name="plan"/> The overall captive population, which must number at least 1,000 individuals, is likely to remain genetically fragmented in the long term.<ref name="plan"/> Individuals will be translocated between sub-populations to maintain gene flow so that the entire population remains a single genetic unit.<ref name="plan"/><ref name="zoorole"/>
+
+==Captivity==
+
+The Blue Iguana is established in captivity, both in public and private collections.<ref name="devosjoli"/>  There are very few purebred animals in private collections. Private individuals have established these animals in captive breeding programs primarily as hybrids with the Lesser Caymans iguana(''C.nubila caymanensis'') and occasionally hybrids with the Cuban iguana(''C.n.nubila'')minimizing the demand for wild-caught specimens for the pet trade.<ref name="devosjoli">
+{{cite book
+  | last =De Vosjoli
+  | first =Phillipe
+  | coauthors = David Blair
+  | title =The Green Iguana Manual
+  | publisher =Advanced Vivarium Systems
+  | date =1992
+  | location =Escondido, California
+  | isbn = 74886904040 }}
+</ref>
+
+==References==
+{{reflist}}
+
+==Further reading==
+<div class="references-small">
+
+* Alberts, Allison C. (Editor), Carter, Ronald L. (Editor), Hayes, William K. (Editor), Martins, Emilia P. (2004). ''Iguanas : Biology and Conservation''. University of California Press.
+* Burton, F. J. (2000). "Grand Cayman Iguana." In ''West Indian Iguanas: Status Survey and Action Plan'', ed. A. Alberts. Gland, Switzerland: IUCN.
+* [[Chapman Grant|Grant, C.]] (1940). ''The Herpetology of the Cayman Islands''. Bulletin of the Institute of Jamaica Science Series. 
+* Malone, C. L., Wheeler, T., Taylor, J.F. and Davis, S.K. (2000). ''Phylogeography of the Caribbean Rock Iguana (Cyclura): implications for conservation and insights on the biogeographic history of the West Indies''. 
+* Schwartz, A. and M. Carey (1977). ''Systematics and evolution in the West Indian iguanid genus Cyclura''. Fauna Curacao Caribbean Islands.
+* Seidel, M.E. and Franz, R. (1994). ''Amphibians and reptiles (exclusive of marine turtles) of the Cayman Islands''. In M. A. Brunt and J. E. Davies (Eds.), ''The Cayman Islands: natural history and biogeography'' (pp. 407-434). The Netherlands: Kluwer Academic Publishers. 
+</div>
+
+==External links==
+{{Wikispecies|Cyclura lewisi}}
+{{Commons|Cyclura}}
+
+*[http://www.caymanislands.co.uk/cayman_sounds/podcast/BlueIguanaPodcast.mp3 Podcast of an interview with Fred Burton, Director of the Blue Iguana Recovery Program]
+*[http://www.cyclura.com/status/blue.htm Entry at Cyclura.com]
+*[http://www.blueiguana.ky Blue Iguana Recovery Program (B.I.R.P.)]
+*[http://www.ircf.org International Reptile Conservation Foundation]
+*[http://www.arkive.org/species/GES/reptiles/Cyclura_lewisi/more_info.html Profile on ARKive.com]
+*[http://www.botanic-park.ky/html/iguanas.html Iguanas at the Queen Elizabeth II Botanic Park, Grand Cayman, Cayman Islands]
+*[http://www.caymanwildlife.org/wild-bluiguna.html Cayman Wildlife Connection]
+*[http://www.nationaltrust.org.ky the National Trust for the Cayman Islands, the B.I.R.P's parent organization]
+*[http://www.durrell.org Durrell Wildlife Conservation Trust]
+*[http://www.iucn-isg.org/actionplan/ch2/grandcayman.php Action plan at Iguana Specialist Group]
+*[http://www.iguanafoundation.org International Iguana Foundation]
+*[http://www.jncc.gov.uk/pdf/otpre2007_06_28exeteruni_brendangodleyinvasiveresearchincayman.pdf In Darwin’s Wake: Darwin Initiative Biodiversity Action Plan for the Cayman Islands]
+*[http://www.caymannetnews.com/cgi-script/csArticles/articles/000139/013974.htm Former Governor’s plea for the Blue Iguanas]
+
+[[Category:Iguanidae]]
+[[Category:Cyclura]]
+[[Category:Fauna of the Cayman Islands]]
+
+[[eo:Blua igvano]]

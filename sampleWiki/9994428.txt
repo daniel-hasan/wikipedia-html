@@ -1,0 +1,54 @@
+{{Infobox Australian cadastral
+| name     = Adelaide
+| state    = South Australia
+| image    = Adelaide County 1886.jpg
+| caption  = Map of Adelaide County in 1886 showing the hundreds
+| est      = [[2 June]] [[1842]]
+| area     = 2955
+| near-nw  = [[Gawler County, South Australia|Gawler]]
+| near-n   = [[Light County, South Australia|Light]]
+| near-ne  = [[Eyre County, South Australia|Eyre]]
+| near-e   = [[Sturt County, South Australia|Sturt]]
+| near-se  = [[Hindmarsh County, South Australia|Hindmarsh]]
+| near-s   = [[Hindmarsh County, South Australia|Hindmarsh]]
+| near-sw  = [[Hindmarsh County, South Australia|Hindmarsh]]
+| near-w   = ''[[Gulf St. Vincent]]''
+}}
+
+The '''County of Adelaide''' is one of the [[Cadastral divisions of South Australia|49 counties]] of [[South Australia]] and contains the city of [[Adelaide]]. It was proclaimed on [[2 June]] [[1842]] by [[George Edward Grey|Governor Grey]]. It is bounded by the [[Gawler River]] and [[North Para River]] in the north, the [[Mount Lofty Ranges]] in the east, [[Gulf St Vincent]] in the west, and goes as far south as near [[Willunga]].
+
+== Hundreds ==
+Like other counties in South Australia, it is divided into [[hundreds]], the location, area and LGA (in the approximate area) of the hundreds is listed below:
+{| class="wikitable" style="text-align:center"
+|-
+!Hundred !!LGA !!Coordinates !!Area !!Ref
+|-
+| [[Hundred of Adelaide|Adelaide]] || [[City of Unley]] || {{coor d|34.9477217|S|138.6250318|E|type:city}} || 106 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0000279]
+|-
+| [[Barossa]] || [[Barossa Council]] || {{coor d|34.6354813|S|138.8880437|E|type:city}} || 98.5 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0004793]
+|-
+| [[Kuitpo]] ||  ||  || 124 [[Square mile|sq mi]] || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0037834]
+|-
+| [[Munno Para]] || [[City of Playford]] || {{coor d|34.6956557|S|138.6431796|E|type:city}} || 108 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0047834]
+|-
+| [[Noarlunga]] ||  ||  || 120 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0050291]
+|-
+| [[Onkaparinga]] || [[Adelaide Hills Council]] || {{coor d|34.9341730|S|138.8662602|E|type:city}} ||  || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0018843]
+|-
+| [[Para Wirra]]|| [[Adelaide Hills Council]] || {{coor d|34.7892613|S|138.8260494|E|type:city}} || 102.5 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0018852]
+|-
+| [[Port Adelaide]] || [[City of Playford]] || {{coor d|34.6843747|S|138.5289062|E|type:city}} || 68.5 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0040459]
+|-
+| [[Talunga]] || [[Adelaide Hills Council]] || {{coor d|34.8179713|S|138.9239246|E|type:city}} || 89 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0019043]
+|-
+| [[Willunga]]  ||  ||  || 99 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0072055]
+|-
+| [[Yatala]] || [[City of Salisbury]] || {{coor d|34.8305942|S|138.6284037|E|type:city}} || 111 sq mi || [http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0074935]
+|}
+
+==References==
+*[http://www.placenames.sa.gov.au/pno/pnores.phtml?recno=SA0000278 Place Names SA, County of Adelaide]
+
+{{Australian cadastral capitals}}
+
+[[Category:Government of South Australia]]

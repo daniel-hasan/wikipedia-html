@@ -1,0 +1,37 @@
+{{Orphan|date=November 2006}} 
+The '''Hong Kong Movie Database (HKMDB)''' is a bilingual ([[English language|English]] and [[Chinese_language|Chinese]]) [[website]] that was created in 1995 by Ryan Law to provide a repository for information about [[movie]]s originating from [[Hong Kong]] and the people that created them.  
+
+The [[database]] was initially populated with data on over 6000 films, and reviews from the defunct database hosted at egret0.stanford.edu.  In subsequent years it has expanded to contain information on more than 11,000 films and 26,000 people, and to include many films from [[Taiwan]] and Mainland [[People's Republic of China|China]].
+
+The database can be searched by movie title or by person's name.  
+
+== The Data ==
+HKMDB contains [[Closing credits|credits]] for [[Cast member|cast]] and [[Film crew|crew]] members, image galleries and user-contributed [[review]]s.  Additional information about individual films such as [[production company]], release date, [[box office]] gross and languages spoken is included where known.  Information about cast and crew members may include gender, birth dates and brief biographies.
+
+There are over 11,000 reviews on the site, and more than 100,000 images.  Images can be associated with a movie and with one or more people, to serve as an aid in identifying cast members.
+
+Reviews can be submitted by any registered member, but cast and crew information can only be entered by an authorised [[Editing|editor]].  The database has a [[Internet forum|forum]] in which proposed additions or modifications can be raised by any member for consideration by the editorial team.
+
+Since the on-screen credits in many older Hong Kong movies are often sparse and frequently contain errors themselves, and cast/crew members often worked (and sometimes still work) under different names, with a variety of different spellings, it can take some detective work to establish accurate credits for a particular film.  Restricting the addition of data to an editorial team who specialise in [[Cinema of Hong Kong|Hong Kong Cinema]] means that the database typically contains more accurate information in its domain than the [[Imdb|Internet Movie Database]].
+
+== Membership ==
+The database was initially fully open to the general public, but in 2004 the system was changed so that only registered members could view information.  Membership is free but requires a commitment to contribute to the site in some way (for example, submitting reviews).<ref>http://www.hkmdb.com/phpbb/viewtopic.php?t=38750&</ref>  This decision created controversy amongst the internet community,<ref>http://adg.invisionzone.com/index.php?showtopic=601&hl=</ref> but led to an expansion of the editorial team and a large increase in the quantity and quality of data.
+
+In 2006 the membership system was changed again to allow restricted access to the data to unregistered members.  Unrestricted access still requires membership and a commitment to contribute.
+
+== References ==
+<div class="references-small"><references/></div>
+
+== External links ==
+* [http://www.hkmdb.com/ Hong Kong Movie Database]
+
+;Other databases that specialise in Hong Kong Cinema:
+* [http://www.lcsd.gov.hk/CE/CulturalService/HKFA/hip/index.html HKFA IPAC] {{zh icon}} and {{en icon}}
+* [http://www.hkcinemagic.com/ Hong Kong Cinemagic] {{fr icon}} and {{en icon}}
+* [http://www.cinemasie.com/ Cinemasie] {{fr icon}} and {{en icon}}
+
+;Other databases which do not specialise in but may contain information on Hong Kong Cinema:
+* [[Internet Movie Database]]
+
+[[Category:Film websites by country]]
+[[Category:Online movie databases]]

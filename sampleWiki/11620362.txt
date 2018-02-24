@@ -1,0 +1,545 @@
+{{Infobox hurricane season
+| Track=2006 Atlantic hurricane season map.png
+| Basin=Atl
+| Year=2006
+| First storm formed=[[June 10]], [[2006]]
+| Last storm dissipated=[[October 2]] [[2006]]
+| Strongest storm name=''[[Hurricane Helene (2006)|Helene]]'' and ''[[Hurricane Gordon (2006)|Gordon]]''
+| Strongest storm winds=105
+| Strongest storm pressure=955
+| Total storms=10
+| Total hurricanes=5
+| Total intense=2
+| Damages=500
+| Inflated=-1
+| Fatalities=11 direct, 6 indirect
+| five seasons=[[2004 Atlantic hurricane season|2004]], [[2005 Atlantic hurricane season|2005]], '''2006''', [[2007 Atlantic hurricane season|2007]], [[2008 Atlantic hurricane season|2008]]
+}}
+The '''2006 Atlantic hurricane season''' was an event in the annual cycle of [[tropical cyclone]] formation. The season was unusual in that no hurricanes made landfall in the [[United States of America]], the first such occurrence since [[2001 Atlantic hurricane season|2001]].<ref name="hurdat">{{cite web| author=NHC Hurricane Research Division|title=Atlantic hurricane best track|publisher=NOAA|year=2007|accessdate=2007-06-20|url=http://www.aoml.noaa.gov/hrd/hurdat/easyhurdat_5106.html}}</ref> It started on [[June 1]], [[2006]], and officially ended on [[November 30]], [[2006]]. These dates conventionally delimit the period of each year when most tropical cyclones form in the [[Atlantic basin]].
+
+One system, [[Tropical Storm Zeta (2005)|Tropical Storm Zeta]] from the [[2005 Atlantic hurricane season|2005 season]], continued through early January, only the second time on record that had happened. Tropical Storm Alberto was responsible for 2 indirect deaths when it made [[landfall (meteorology)|landfall]] in [[Florida]]. [[Hurricane Ernesto (2006)|Hurricane Ernesto]] caused heavy rainfall in [[Haiti]], and directly killed at least 7 people in Haiti and the [[United States]]. Four more hurricanes formed after Ernesto, including the strongest storms of the season, Hurricanes [[Hurricane Helene (2006)|Helene]] and [[Hurricane Gordon (2006)|Gordon]]. However, no tropical cyclones formed in the month of October, the first time this had happened since the [[1994 Atlantic hurricane season|1994 season]].<ref name="October inactivity">{{cite web|author=[[National Hurricane Center]]|date=[[2006-11-01]]|accessdate=2006-11-01|url=http://www.nhc.noaa.gov/archive/2006/tws/MIATWSAT_oct.shtml?|publisher=[[National Oceanic and Atmospheric Administration]]|title=Monthly Tropical Weather Summary for October 2006}}</ref> 
+
+Following the intense activity of the 2005 season, forecasts predicted the 2006 season would be very active, though not as active as 2005.  However, in 2006, a rapidly-forming [[El Niño]] event, combined with the pervasive presence of the [[Saharan Air Layer]] over the tropical Atlantic and a steady presence of a robust secondary high related to the [[Azores high]] centered around Bermuda, contributed to a slow season and all tropical cyclone activity ceasing after [[October 2]].<ref name="Gray Nov">{{cite web
+| author=[[Philip J. Klotzbach]] and [[William M. Gray]]|date=[[2006-11-17]] |
+| title=Summary of 2006 Atlantic Tropical Cyclone Activity and Verification of Authors' Seasonal and Monthly Forecasts | publisher=[[Colorado State University]] | accessdate=2006-11-17 | url=http://hurricane.atmos.colostate.edu/Forecasts/2006/nov2006/}}</ref>
+
+== Seasonal forecasts ==
+[[Tropical cyclone seasonal forecasting|Forecasts of hurricane activity]] are issued before each hurricane season by noted hurricane experts [[Philip J. Klotzbach]], Dr. [[William M. Gray]], and their associates at [[Colorado State University]]; and separately by [[National Oceanic and Atmospheric Administration|NOAA]] forecasters.
+
+Klotzbach's team (formerly led by Dr. Gray) defined the average number of storms per season (1950 to 2000) as 9.6 tropical storms, 5.9 hurricanes, and 2.3 major hurricanes (storms exceeding Category 3 strength in the [[Saffir-Simpson Hurricane Scale]]). A normal season, as defined by NOAA, has 6 to 14 named storms, with 4 to 8 of those reaching hurricane strength, and 1 to 3 major hurricanes.<ref name="Gray Dec">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2005-12-06]]
+| title=Extended Range Forecast of Atlantic Seasonal Hurricane Activity and U.S. Landfall Strike Probability for 2006
+| publisher=Colorado State University 
+| accessdate=2006-05-22
+| url=http://hurricane.atmos.colostate.edu/forecasts/2005/dec2005/
+}}</ref><ref name="AOML FAQ E10">{{
+cite web
+ | last = Landsea
+ | first = Chris
+ | year = 2005
+ | url = http://www.aoml.noaa.gov/hrd/tcfaq/E10.html
+ | title = AOML Frequently Asked Questions, E10
+ | publisher = [[National Oceanic and Atmospheric Administration|NOAA]]
+ | accessdate = 2006-05-22
+}}</ref>
+{| class="toccolours" cellspacing=0 cellpadding=3 style="float:right; margin-left:1em; text-align:right;"
+|+'''Predictions of tropical activity in the 2006 season'''
+|- style="background:#ccccff"
+|align="center"|'''Source'''
+|align="center"|'''Date'''
+|align="center"|'''<font style="font-size: 80%;">Named<br/>storms</font>'''
+|align="center"|'''<font style="font-size: 80%;">Hurricanes</font>'''
+|align="center"|'''<font style="font-size: 80%;">Major<br/>hurricanes</font>'''
+|-
+|align="left"|[[Colorado State University|CSU]]
+|align="left"|''Average <font style="font-size: 80%;">(1950&ndash;2000)</font>''<ref name="Gray Dec"/>
+|9.6
+|5.9
+|2.3
+|-
+|align="left"|[[National Oceanic and Atmospheric Administration|NOAA]]
+|align="left"|''Average''<ref name="noaa-2005records">{{cite web| author=[[National Oceanic and Atmospheric Administration|NOAA]] | year=[[2006-04-13]]| title=NOAA Reviews Record-Setting 2005 Atlantic Hurricane Season| publisher=National Oceanic and Atmospheric Administration | accessdate=2006-04-26| url= http://www.noaanews.noaa.gov/stories2005/s2540.htm}}</ref>
+|6–14
+|4–8
+|1–3
+|-
+|align="center" colspan="2"|''Record high activity''
+|[[2005 Atlantic hurricane season|28]]
+|[[2005 Atlantic hurricane season|15]]
+|[[1950 Atlantic hurricane season|8]]
+|-
+|align="center" colspan="2"|''Record low activity''
+|[[1983 Atlantic hurricane season|4]]
+|[[1982 Atlantic hurricane season|2]]
+|0
+|-
+|align="left"|CSU
+|align="left"|[[5 December]] [[2005]]
+|17
+|9
+|5
+|-
+|align="left"|CSU
+|align="left"|[[4 April]] [[2006]]
+|17
+|9
+|5
+|-
+|align="left"|NOAA
+|align="left"|[[22 May]] [[2006]]
+|13–16
+|8–10
+|4–6
+|-
+|align="left"|CSU
+|align="left"|[[31 May]] [[2006]]
+|17
+|9
+|5
+|-
+|align="left"|CSU
+|align="left"|[[3 August]] [[2006]]
+|15
+|7
+|3
+|-
+|align="left"|NOAA
+|align="left"|[[8 August]] [[2006]]
+|12–15
+|7–9
+|3–4
+|-
+|align="left"|CSU
+|align="left"|[[1 September]] [[2006]]
+|13
+|5
+|2
+|-
+|align="left"|CSU
+|align="left"|[[3 October]] [[2006]]
+|11
+|6
+|2
+|-
+|align="center" colspan="2"|'''Actual activity'''
+| 10
+| 5
+| 2
+|}
+
+=== Pre-season forecasts ===
+On [[December 5]], [[2005]], Klotzbach's team issued its first extended-range forecast for the 2006 season, predicting a well above-average season (17 named storms, 9 hurricanes, 5 of Category 3 or higher).<ref name="Gray Dec"/>
+
+Similar to the [[2005 Atlantic hurricane season|2005 season]], the team predicted a high potential for at least one major hurricane to directly impact the [[United States]]: the forecast indicated an 81% chance of at least one major hurricane striking the U.S. mainland, which included a 64% chance of at least one major hurricane strike on the [[East Coast of the United States]] including the [[Florida]] peninsula, and a 47% chance of at least one major hurricane strike on the [[Gulf Coast of the United States]] from the [[Florida Panhandle]] westward. In addition, the potential for major hurricane activity in the [[Caribbean]] was above average. A few months later, on [[April 4]], [[2006]], CSU issued another forecast which reaffirmed the forecast previously made in December.<ref name="Gray Apr">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2006-04-04]]
+| title=Extended Range Forecast of Atlantic Seasonal Hurricane Activity and U.S. Landfall Strike Probability for 2006
+| publisher=Colorado State University 
+| accessdate=2006-05-22
+| url=http://hurricane.atmos.colostate.edu/forecasts/2006/april2006/
+}}</ref>
+
+On [[May 22]], [[2006]], [[NOAA]] released their pre-season forecast for the 2006 season.  They predicted 13 to 16 named storms, with 8 to 10 becoming hurricanes, and 4 to 6 becoming major hurricanes.<ref name="NOAA May">{{
+cite web
+| author=[[National Oceanic and Atmospheric Administration|NOAA]]
+| year=2006
+| title=NOAA Predicts Very Active 2006 North Atlantic Hurricane Season
+| publisher=National Oceanic and Atmospheric Administration
+| accessdate=2006-05-22
+| url=http://www.noaanews.noaa.gov/stories2006/s2634.htm
+}}</ref>
+
+On [[May 31]], [[2006]], Klotzbach's team released their final pre-season forecast for 2006, reconfirming their previous numbers.<ref name="Gray May">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2006-05-31]]
+| title=Extended Range Forecast of Atlantic Seasonal Hurricane Activity and U.S. Landfall Strike Probability for 2006
+| publisher=Colorado State University 
+| accessdate=2006-05-31
+| url=http://hurricane.atmos.colostate.edu/Forecasts/2006/june2006/ 
+}}</ref>
+
+===Midseason outlooks===
+On [[August 3]], [[2006]], Klotzbach's team lowered their season estimate to 15 named storms, with 7 becoming hurricanes and 3 becoming major hurricanes. They noted that conditions had become less favorable for storms than they were earlier in the year. The sea level pressure and trade wind strength in the tropical Atlantic were reported to be above normal, while sea surface temperature anomalies were on a decreasing trend.<ref name="Gray Aug">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2006-08-03]]
+| title=Extended Range Forecast of Atlantic Seasonal Hurricane Activity and U.S. Landfall Strike Probability for 2006
+| publisher=Colorado State University 
+| accessdate=2006-08-03
+| url=http://hurricane.atmos.colostate.edu/Forecasts/2006/aug2006/ 
+}}</ref>
+
+On [[August 8]], [[2006]], the [[National Oceanic and Atmospheric Administration|NOAA]] revised their season estimate to 12&ndash;15 named storms, with 7&ndash;9 becoming hurricanes and 3&ndash;4 becoming major hurricanes.  They attributed the reduction to less favorable environmental conditions, a decrease in [[ENSO|La Niña]] conditions, and the lack of a "very persistent upper-level ridge pattern over the eastern [[United States|U.S.]] and western [[Atlantic Ocean|Atlantic]]."<ref name="NOAA August">{{
+cite web
+| author=[[National Oceanic and Atmospheric Administration|NOAA]]
+| year=[[2006-08-08]]
+| title=NOAA: August 2006 Update to Atlantic Hurricane Season Outlook
+| publisher=National Oceanic and Atmospheric Administration
+| accessdate=2006-08-08
+| url=http://www.noaanews.noaa.gov/stories2006/s2678.htm
+}}</ref>
+
+On [[September 1]], Klotzbach's team lowered their season estimate to 13 named storms, 5 hurricanes and 2 major hurricanes, citing larger amounts of the [[Saharan Air Layer]] as well as an [[El Niño-Southern Oscillation|El Niño]] trend in the Pacific.<ref name="CSU Sept">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2006-09-01]]
+| title=Forecast of Atlantic hurricane activity for September and October 2006 and seasonal update through August
+| publisher=Colorado State University
+| accessdate=2006-09-01
+| url=http://typhoon.atmos.colostate.edu/forecasts/2006/sep2006/
+}}</ref> They again reduced the number of tropical storms expected for the season a month later on [[October 3]], when they released a new forecast of 11 named storms, 6 hurricanes and 2 major hurricanes, citing the ongoing [[El Niño-Southern Oscillation|El Niño]].<ref name="CSU Oct">{{
+cite web
+| author=Philip J. Klotzbach and William M. Gray
+| year=[[2006-10-03]]
+| title=Forecast of Atlantic hurricane activity for October-November 2006 and seasonal update through September
+| publisher=Colorado State University
+| accessdate=2006-10-03
+| url=http://typhoon.atmos.colostate.edu/forecasts/2006/oct2006/
+}}</ref>
+
+==Storms==
+{{seealso|Timeline of the 2006 Atlantic hurricane season}}
+<center>{{ToC2006Atlantichurricaneseason}}</center>
+===Tropical Storm Zeta (2005)===
+{{hurricane main|Tropical Storm Zeta (2005)}}
+Tropical Storm Zeta formed on [[December 30]], [[2005]] and lasted until [[January 6]], [[2006]].  Although it spent most of its existence in 2006, it is officially a storm of the [[2005 Atlantic hurricane season]] since it formed during 2005. Zeta joined [[Hurricane Alice]] as only the second [[Atlantic hurricane|Atlantic tropical cyclone]] in recorded history to exist during two different calendar years.
+<div style="clear: both"></div>
+
+===Tropical Storm Alberto===
+{{infobox hurricane small
+| name=Tropical Storm Alberto
+| category=storm
+| type=tropical storm
+| image=Tropical storm alberto 2006.jpg
+| track=Alberto_2006_track.png
+| formed=[[June 10]]
+| dissipated=[[June 14]]
+| highest winds=70&nbsp;[[miles per hour|mph]] (110&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=995&nbsp;[[mbar]]
+}}
+{{hurricane main|Tropical Storm Alberto (2006)}}
+On [[June 10]], an area of disturbed weather associated with a broad low pressure area off the coast of [[Belize]] organized over the warm waters of the [[Caribbean Sea]] and became the first tropical depression of the season. Southwesterly vertical wind shear was a constant companion to this system, but as it moved closer to [[Florida]], the depression strengthened into a tropical storm on the morning of [[June 11]]. Passing over the warm deep water of the [[Loop Current]] allowed accelerated development, and the cyclone's maximum sustained winds increased to its peak strength of 70&nbsp;mph (115&nbsp;km/h), just shy of hurricane strength. Subsequent weakening occurred as it moved over the cooler waters of the [[continental shelf]].<ref name="Alberto discussion 11">{{cite web| last = Pasch|first = Richard|year=[[June 12]], [[2006]]| title=Tropical Storm Alberto Forecast Discussion #11, 5 p.m. EDT | publisher=[[National Oceanic and Atmospheric Administration]]| accessdate=2006-06-13| url=http://www.nhc.noaa.gov/archive/2006/al012006/dis/al012006.discus.011.shtml?}}</ref>
+
+Alberto made landfall midday on [[June 13]], about 50 miles (85 km) southeast of [[Tallahassee, Florida]], with windspeeds of approximately 45 mph.<ref name="NHC public advisory update">{{cite web|author=National Hurricane Center|title=Tropical Storm Alberto Update, 12:45 p.m. EDT, [[June 13]] 2006|publisher=[[National Oceanic and Atmospheric Administration]]|accessdate=2006-06-13|url=http://www.nhc.noaa.gov/text/refresh/MIATCUAT1+shtml/}}</ref> Alberto brought a [[storm surge]] of five feet to the [[Big Bend (Florida)|Big Bend]] area of the Florida coastline, flooding areas of [[Cedar Key, Florida|Cedar Key]] and [[Crystal River, Florida|Crystal River]]. The large system was slow to weaken, moving across [[Georgia (U.S. state)|Georgia]] and [[the Carolinas]] before being downgraded to a tropical depression early on [[June 14]]. Alberto became an [[extratropical storm]] that morning while quickly moving towards the coast. As an extratropical storm, Alberto strengthened rapidly offshore New England and the Canadian Maritimes, becoming an oceanic storm by the afternoon of [[June 15]].<ref name="NHC public advisory">{{cite web|author=National Hurricane Center|title=Tropical Storm Alberto Final Public Advisory #18, 11 a.m. EDT, [[June 14]] 2006|publisher=[[National Oceanic and Atmospheric Administration]]|accessdate=2006-06-14|url=http://www.nhc.noaa.gov/text/refresh/MIATCPAT1+shtml/}}</ref><ref name="NHC alberto track">{{cite web|author=National Hurricane Center|title=Tropical Storm Alberto Coastal Watches/Warnings and 5-Day Cone, 11 a.m. EDT, [[June 14]] 2006|publisher=[[National Oceanic and Atmospheric Administration]]|accessdate=2006-06-14|url=http://www.nhc.noaa.gov/refresh/graphics_at1+shtml/144546.shtml?5day}}</ref> Damage in the [[United States]] totaled to $565,000 (2006 USD).
+
+*The [[National Hurricane Center|National Hurricane Center (NHC)]]'s [http://www.nhc.noaa.gov/archive/2006/refresh/ALBERTO+shtml/? archive on Tropical Storm Alberto].
+*The [[Hydrometeorological Prediction Center|Hydrometeorological Prediction Center (HPC)]]'s [http://www.hpc.ncep.noaa.gov/tropical/ALBERTO/ALBERTO_archive.shtml archive on Tropical Storm Alberto].
+<div style="clear: both"></div>
+
+===Unnamed Tropical Storm===
+{{infobox hurricane small
+| name=Unnamed Tropical Storm
+| category=storm
+| type=tropical storm
+| image=Unnamed Tropical Storm 17 july 1706Z.jpg
+| track=2006 Atlantic tropical storm 2 track.png
+| formed=[[July 17]]
+| dissipated=[[July 18]]
+| highest winds=50&nbsp;[[miles per hour|mph]] (85&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=998&nbsp;[[mbar]]
+}}
+{{hurricane main|Unnamed Tropical Storm (2006)}}
+In the post-season analysis, an additional tropical storm was identified to have formed out of an extratropical low produced by the same frontal boundary that spawned Tropical Storm Beryl in the [[Gulf Stream]] on [[July 17]], south of [[Nantucket Island]]. It was briefly a tropical storm before becoming a remnant low on [[July 18]] southeast of [[Nova Scotia]]. It crossed over [[Atlantic Canada]] with rain and wind, but no damage or fatalities were reported. Had it been discovered operationally, it would have been named Tropical Storm Beryl.<ref name="UTS TCR">http://www.nhc.noaa.gov/pdf/TCR-AL502006_Unnamed.pdf</ref> It dissipated northeast of [[Cape Race]], [[Newfoundland (island)|Newfoundland]].
+<div style="clear: both"></div>
+
+===Tropical Storm Beryl===
+{{infobox hurricane small
+| name=Tropical Storm Beryl
+| category=storm
+| type=tropical storm
+| image=TS beryl 2006.jpg
+| track=Beryl 2006 track.png
+| formed=[[July 18]]
+| dissipated=[[July 21]]
+| highest winds=60&nbsp;[[miles per hour|mph]] (95&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=1000&nbsp;[[mbar]]
+}}
+{{hurricane main|Tropical Storm Beryl (2006)}}
+In mid-July, a front moved off the east coast of the United States and stalled, spawning a series of low pressure areas.  Because steering currents were weak, the most southerly disturbance slowly drifted to the south, and gradually became more organized a few hundred miles east of the [[North Carolina]] coast.  On the morning of [[July 18]], the low pressure area was designated the second tropical cyclone of the season. That afternoon, the depression was upgraded to Tropical Storm Beryl.<ref name="TS Beryl TCU">{{cite web | author = National Hurricane Center | title = Tropical Storm Beryl Tropical Cyclone Update, 4:55 p.m. EDT, [[July 18]] [[2006]] | date = [[July 18]], [[2006]] | accessdate = 2006-07-18|publisher = [[Florida State University]] Meteorology Department | url = ftp://ftp.met.fsu.edu/pub/weather/tropical/WTNT6/2006071820.WTNT62}}</ref> 
+
+Beryl continued moving to the north until it turned to the northeast on [[July 20]].  Beryl paralleled the [[East Coast of the United States]] and made landfall on [[Nantucket]] island before becoming extratropical southwest of [[Nova Scotia]] on [[July 21]].
+
+*The [[National Hurricane Center|NHC]]'s [http://www.nhc.noaa.gov/archive/2006/refresh/BERYL+shtml/? archive on Tropical Storm Beryl].
+<div style="clear: both"></div>
+
+===Tropical Storm Chris===
+{{infobox hurricane small
+| name=Tropical Storm Chris
+| category=storm
+| type=tropical storm
+| image=03L Chris 2006.jpg
+| track=Chris 2006 track.png
+| formed=[[July 31]]
+| dissipated=[[August 5]]
+| highest winds=65&nbsp;[[miles per hour|mph]] (100&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=1001&nbsp;[[mbar]]
+}}
+{{hurricane main|Tropical Storm Chris (2006)}}
+On about [[July 26]], a vigorous tropical wave formed off the coast of [[Africa]] and slowly tracked westward. It slowly developed due to poor environmental conditions and it became a tropical depression late on [[July 31]] about 160&nbsp;miles (260&nbsp;km) east of [[Antigua]].<ref>{{cite web|author=National Hurricane Center|title=Discussion for Tropical Depression Three, 11:00 p.m. EDT, [[July 31]] 2006|publisher=NOAA|accessmonthday=1 August |accessyear=2006|url=http://www.nhc.noaa.gov/archive/2006/dis/al032006.discus.001.shtml}}</ref> The depression soon strengthened further and was named Tropical Storm Chris six hours later.<ref>{{cite web|author=National Hurricane Center|title=Discussion for Tropical Depression Three, 5:00 a.m. EDT, [[August 1]] 2006|publisher=NOAA|accessmonthday=1 August |accessyear=2006|url=http://www.nhc.noaa.gov/archive/2006/dis/al032006.discus.002.shtml}}</ref> [[National Hurricane Center]] forecasters dismissed some [[Tropical cyclone prediction model|computer models]], which dissipated Chris quickly, as they did not have a handle on the strength of the storm.<ref name="Chris Disc3">{{cite web|author=National Hurricane Center|title=Discussion for Tropical Depression Three, 11:00 a.m. EDT, [[August 1]] 2006|publisher=NOAA|accessmonthday=1 August |accessyear=2006|url=http://www.nhc.noaa.gov/archive/2006/dis/al032006.discus.003.shtml}}</ref> Tropical Storm Chris moved to the northwest and gradually strengthened before reaching its peak strength on [[August 2]] with winds of 65&nbsp;mph (100&nbsp;km/h), when it was to the northeast of the [[United States Virgin Islands]].<ref name="Chris Disc6">{{cite web|author=National Hurricane Center|title=Discussion for Tropical Storm Chris, 11:00 a.m. EDT, [[August 2]] 2005|publisher=NOAA|accessmonthday=5 August |accessyear=2006|url=http://www.nhc.noaa.gov/archive/2006/dis/al032006.discus.008.shtml}}</ref> The storm was forecast to strengthen further and become a hurricane as it moved into the [[Bahamas]]. However, Chris began to be affected by wind shear and became disorganized. The storm weakened to a tropical depression on [[August 4]], and dissipated as it approached the [[Cuba]]n coast.
+
+In response to the storm's projected path into the [[Gulf of Mexico]], prices for crude oil rose on the [[New York Mercantile Exchange]] at branch offices in [[London]].<ref name="fe_oil">{{cite news|title=Oil surges as Storm Chris heads toward Gulf of Mexico|date=[[2006-08-01]]|publisher=[[Financial Express]]|url=http://www.financialexpress.com/fe_full_story.php?content_id=136007}}</ref> [[Natural gas]] prices rose considerably in New York Mercantile Exchange electronic trading on [[August 2]].  Anticipation of a threat to supply by a potential Hurricane Chris coupled with high demand during an ongoing [[2006 North American heat wave|heat wave]] are cited as reasons for the price move.<ref name="bloom_natgas">{{cite news|title=Natural Gas Surges in New York on Hurricane Threat, Heat Wave|date=[[2006-08-02]]|publisher=[[Bloomberg L.P.|Bloomberg]]|url=http://www.bloomberg.com/apps/news?pid=20601087&sid=abwMe8IynKn4&refer=home}}</ref> On [[August 2]] approximately 600 tourists evacuated the [[Puerto Rico|Puerto Rican]] islands of [[Vieques, Puerto Rico|Vieques]] and [[Culebra, Puerto Rico|Culebra]] as tropical storm warnings had been issued.<ref name="AP_PuertoRicoEvac">{{cite news|author=Laura Candelas|title=Storm prompts tourists' evacuation|date=[[2006-08-02]]|publisher=[[Associated Press]]|url=http://news.yahoo.com/s/ap/20060802/ap_on_re_us/caribbean_tropical_weather_4}}</ref> Cruise lines such as [[Royal Caribbean]] re-routed their ships to avoid the storm.<ref>{{cite web|author=Royal Caribbean|title=Tropical Weather Update for [[August 2]] 2006|accessmonthday=2 August |url=http://www.royalcaribbean.com/contentPage.do;jsessionid=0000ZpYZCuMqnhT6dS0NHdrM_pt:10ktdmlju?pagename=important_updates}}</ref> In [[Puerto Rico]], rainfall from the storm caused the [[Fajardo River]] to overflow its banks. The overflown waters temporarily closed a highway in the northeastern portion of the island.<ref>{{cite news|author=Miranda Leitsinger|year=2006|title=Tropical Storm Chris weakens further|publisher=Associated Press|accessdate=2006-08-04|url=http://www.chron.com/disp/story.mpl/ap/world/4094300.html}}</ref> Rainfall reached up to 2&nbsp;[[inches]] (50&nbsp;[[Millimetre|mm]]) across portions of [[Hispaniola]], the [[Turks and Caicos]], the [[Bahamas]], and eastern [[Cuba]], and reached 4&nbsp;inches (100&nbsp;mm) in some mountainous areas.<ref name="zeenews">http://www.zeenews.com/znnew/articles.asp?aid=313893&ssid=26&sid=ENV</ref>
+
+*The NHC's [http://www.nhc.noaa.gov/archive/2006/CHRIS.shtml? archive on Tropical Storm Chris]
+<div style="clear: both"></div>
+
+===Tropical Storm Debby===
+{{infobox hurricane small
+| name=Tropical Storm Debby
+| category=storm
+| type=tropical storm
+| image=TS debby 2006.jpg
+| track=Debby 2006 track.png
+| formed=[[August 21]]
+| dissipated=[[August 26]]
+| highest winds=50&nbsp;[[miles per hour|mph]] (85&nbsp;[[kilometres per hour|km/h]]) 
+| lowest pressure=999&nbsp;[[mbar]]
+}}
+{{hurricane main|Tropical Storm Debby (2006)}}
+A system off the coast of [[Africa]], which the [[National Hurricane Center|NHC]] had monitored for several days, was upgraded to [[Tropical cyclone#Intensity classifications|tropical depression]] status on [[August 21]] and designated as Tropical Depression Four.  A [[Tropical cyclone warnings and watches|tropical storm warning]] was immediately issued for the [[Cape Verde]] islands as the system threatened to pass over or near the southern part of the [[archipelago]].  However, the system failed to strengthen into a tropical storm before passing the chain of islands, and the warning was discontinued the following morning. 
+
+The depression was upgraded to a tropical storm and named Debby late on [[August 22]]. While it had been expected to strengthen into a hurricane, this never occurred, and Debby weakened into a tropical depression on [[August 26]]. It continued to the north and lost tropical characteristics on [[August 27]].
+
+* The [[National Hurricane Center|NHC]]'s [http://www.nhc.noaa.gov/archive/2006/DEBBY.shtml? archive on Tropical Storm Debby].
+<div style="clear: both"></div>
+
+===Hurricane Ernesto===
+{{Infobox hurricane small
+| name=Hurricane Ernesto
+| category=cat1
+| type=hurricane
+| formed=[[August 24]]
+| dissipated=[[September 1]]
+| highest winds=75&nbsp;mph (120&nbsp;[[kilometres per hour|km/h]])
+| lowest pressure=985&nbsp;[[mbar]]
+| image=Hurricane ernesto 20060827.jpg
+| track=Ernesto 2006 track.png
+}}
+{{hurricane main|Hurricane Ernesto (2006)}}
+At 3:15 p.m. EDT (1915 UTC) on [[August 24]], a reconnaissance flight determined that a tropical wave passing through the [[Windward Islands]] had developed a closed tropical circulation, and advisories were commenced on Tropical Depression Five.  By 5 p.m. EDT (2100 UTC) on [[August 25]], a second flight had found sustained tropical-storm force winds, and the system was named Ernesto.  Ernesto became a hurricane on the morning of [[August 27]] just south of [[Haiti]], before it was downgraded back to a tropical storm in the afternoon. The storm caused 2 deaths in Haiti due to rainfall.
+
+Ernesto made landfall near [[Guantánamo Bay (Cuba)|Guantanamo Bay]], [[Cuba]], early in the morning on [[August 28]]. At one point the storm was predicted to become a major hurricane in the [[Gulf of Mexico]] and threaten parts of the [[Gulf Coast]], a grim possibility in light of the one-year anniversary of [[Hurricane Katrina]]'s landfall.<ref>http://news.yahoo.com/s/nm/20060826/us_nm/weather_hurricanes_louisiana_dc_1</ref> However, Ernesto moved much farther east than anticipated, and made landfall as a tropical storm on the southern tip of [[Florida]] on [[August 29]].  Two people died in Florida in road traffic accidents attributed to the weather conditions, as the cyclone slowly moved northward across the southern half of the peninsula. Ernesto regained tropical storm strength as it crossed Florida and emerged from land near [[Cape Canaveral]], and was just below hurricane strength when it made landfall again in [[North Carolina]] on [[August 31]]. 
+
+Damage in Virginia totaled to $104 million (2006 [[USD]]),<ref name="w">''[[WAVY]]'' [http://www.wavy.com/Global/story.asp?S=5384483 Kaine seeks disaster declaration for 25 localities] URL Accessed: [[September 11]], [[2006]]</ref> and in total the storm caused about $500 million (2006 USD) in damage.<ref>ftp://ftp.met.fsu.edu/pub/weather/tropical/Monthly/2006120114.ABNT30</ref>
+
+The storm, while extratropical, moved over Southern [[Ontario]] and dissipated over the St. Lawrence river area in [[Quebec]].
+*The NHC's [http://www.nhc.noaa.gov/archive/2006/ERNESTO.shtml? archive on Hurricane Ernesto].
+*The HPC's [http://www.hpc.ncep.noaa.gov/tropical/ERNESTO/ERNESTO_archive.shtml archive on Tropical Depression Ernesto].
+<div style="clear: both"></div>
+
+===Hurricane Florence===
+{{Infobox hurricane small
+| name=Hurricane Florence
+| category=cat1
+| type=hurricane
+| image=Hurricane Florence 11 sept 2006.jpg
+| formed=[[September 3]]
+| dissipated=[[September 12]]
+| track=Florence 2006 track.png
+| highest winds=90&nbsp;mph (145&nbsp;[[kilometres per hour|km/h]])
+| lowest pressure=974&nbsp;[[mbar]]
+}}
+{{hurricane main|Hurricane Florence (2006)}}
+Tropical Depression Six formed from an area of low pressure midway between [[Africa]] and the [[Lesser Antilles]] on [[September 3]]. Initial strengthening of the depression was slow due to shearing wind conditions. Despite the moderate to high [[wind shear]], it strengthened enough to become Tropical Storm Florence on the morning of [[September 5]]. After becoming a tropical storm, Florence's wind field began to expand greatly; at one point tropical storm-force winds extended outward up to 405 miles from the center. With a disorganized structure and multiple circulation centers, Florence remained a weak tropical storm for several days, even after external conditions became favorable for strengthening. Around the evening of [[September 8]] it resolved to a single center and steady strengthening resumed - "science had prevailed", as one forecaster remarked.<ref>{{cite web|author=National Hurricane Center|title=Discussion for Tropical Storm Florence, 11:00 a.m. EDT, Sept. 8, 2006|publisher=NOAA|accessdate=2006-09-09|url=http://www.nhc.noaa.gov/archive/2006/al06/al062006.discus.020.shtml}}</ref>  On the morning of [[September 10]], Florence reached hurricane strength.
+Large [[Swell (ocean)|swells]], [[Rip current|rip tide]], and [[undertow]] were reported on Bermuda, the [[Leeward Islands]], the [[Virgin Islands]], and [[Hispaniola]].<ref>{{cite news|author=Associated Press|publisher=CNN|title=Bermuda braces as Florence becomes hurricane|url=http://www.cnn.com/2006/WEATHER/09/10/tropical.weather/}}</ref> Florence soon reached its peak as a Category 1 hurricane very near [[Bermuda]], and became extratropical on [[September 12]], while still a hurricane. 
+
+*The NHC's [http://www.nhc.noaa.gov/archive/2006/FLORENCE.shtml? archive on Hurricane Florence].
+*The [[Canadian Hurricane Centre|CHC]]'s [http://www.atl.ec.gc.ca/weather/hurricane/bulletins_e.html#2006:Florence archive on Hurricane Florence]
+<div style="clear: both"></div>
+
+===Hurricane Gordon===
+{{Infobox hurricane small
+| name=Hurricane Gordon
+| category=cat3
+| type=hurricane
+| image=Hurricane Gordon 2006.jpg
+| formed=[[September 11]]
+| dissipated=[[September 20]]
+| track=Gordon 2006 track.png
+| highest winds=120&nbsp;mph (195&nbsp;[[kilometres per hour|km/h]])
+| lowest pressure=955&nbsp;[[mbar]]
+}}
+{{hurricane main|Hurricane Gordon (2006)}}
+As Florence moved away, a low-pressure system gradually became more organized northeast of the [[Lesser Antilles]]. On the evening of [[September 10]], it developed a closed circulation and was declared Tropical Depression Seven. It continued to intensify, and strengthened into Tropical Storm Gordon on [[September 11]] and Hurricane Gordon late on [[September 12]]. Gordon attained Category 2 status on the evening of [[September 13]], and was further upgraded to Category 3 status that same night, making it the first major hurricane of the season.
+
+Around [[September 16]] it was nearly stationary for some time in the mid-Atlantic about 1000 miles east of [[Bermuda]], and weakened to be barely a hurricane. However, as it subsequently accelerated eastwards, it restrengthened to category 2. On [[September 19]] hurricane warnings were issued for the [[Azores]], as the predicted path passed through the center of that [[archipelago]]. It became extratropical on [[September 20]] after passing through Azorean waters, but the remnants side-swiped north-western [[Spain]] and then moved rapidly north towards [[Ireland]] and the west of [[Great Britain|Britain]] on [[September 21]]. By the morning of [[September 22]], it had become absorbed into a large Atlantic low to the west of Ireland.
+
+*The NHC's [http://www.nhc.noaa.gov/archive/2006/GORDON.shtml? archive on Hurricane Gordon].
+<div style="clear: both"></div>
+
+===Hurricane Helene===
+{{Infobox hurricane small
+| name=Hurricane Helene
+| category=cat3
+| type=hurricane
+| image=Hurricane Helene 18 sept 2006.jpg
+| formed=[[September 12]]
+| dissipated=[[September 24]]
+| track=Helene 2006 track.png
+| highest winds=120&nbsp;mph (195&nbsp;[[kilometres per hour|km/h]])
+| lowest pressure=955&nbsp;[[mbar]]<ref name="HeleneTCR">{{cite web | author=Brown, Daniel P. | date=[[November 15]], [[2006]] | title=Tropical Cyclone Report: Hurricane Helene|publisher=[[National Hurricane Center]] | accessdate=2006-11-15 | url=http://www.nhc.noaa.gov/pdf/TCR-AL082006_Helene.pdf | format=PDF}}</ref>
+}}
+{{hurricane main|Hurricane Helene (2006)}}
+On [[September 11]], a [[tropical wave]] moved off the coast of [[Africa]]. It quickly organized, and on [[September 12]] was declared Tropical Depression Eight. Continuing to organize, it reached tropical storm strength on [[September 13]], becoming a hurricane on [[September 16]] and a major hurricane on [[September 17]]. It moved generally west-northwestward before commencing a northeasterly turn. Large currents from Helene lashed [[Bermuda]]. It became fully extratropical on [[September 24]]. The extratropical storm dissipated over Ireland.
+
+*The NHC's [http://www.nhc.noaa.gov/archive/2006/HELENE.shtml? archive on Hurricane Helene].
+<div style="clear: both"></div>
+
+===Hurricane Isaac===
+{{Infobox hurricane small
+| name=Hurricane Isaac
+| category=cat1
+| type=hurricane
+| formed=[[September 27]]
+| dissipated=[[October 2]]
+| image=Hurricane Isaac 01 oct 2006 1435Z.jpg
+| track =Isaac 2006 track.png
+| highest winds=85&nbsp;mph (135&nbsp;[[kilometres per hour|km/h]])
+| lowest pressure=985&nbsp;[[mbar]]
+}}
+{{hurricane main|Hurricane Isaac (2006)}}
+An area of low pressure in the mid-Atlantic generated active thunderstorms for several days and eventually organized into Tropical Depression Nine on [[September 27]], and a tropical storm by [[September 28]]. By that time it was about 810 miles east-southeast of [[Bermuda]]. It became a hurricane on [[September 30]], and passed about 280 miles (450 km) east of Bermuda before swinging northwards towards Newfoundland. As it was still a strong tropical storm near the [[Avalon Peninsula]], tropical storm warnings were issued on [[October 2]] due to the potential for high winds. Isaac passed 45 km (30 miles) to the southeast of [[Cape Race]] late that afternoon. The [[Canadian Hurricane Centre]] reports that if Isaac had tracked just 50 to 100 km (30 to 60 miles) farther north than it did, the [[St. John's, Newfoundland and Labrador|St. John's]] area would have experienced much higher winds than the peak gust of 54 km/h (34 mph) it received.<ref name="Canadian Hurricane Centre Isaac">http://www.atl.ec.gc.ca/weather/hurricane/bulletins/20061003022851.Isaac.txt.en</ref> 
+
+At its closest approach to the Avalon Peninsula, Isaac was still tropical, and had maximum sustained winds of 50 knots and a minimum central pressure of 993 [[mbar]].<ref name="Canadian Hurricane Centre Isaac"/> Strongest winds on land in Newfoundland were reported at Cape Race, where a maximum gust to 96 km/h (60 mph) with a sustained wind of 74 km/h (46 mph) was recorded. At [[Cape Pine, Newfoundland|Cape Pine]], a peak wind was reported at 76 km/h (47 mph).<ref name="Canadian Hurricane Centre Isaac"/> However, due to Isaac's small size and fast forward speed, winds were lighter over most of the Avalon Peninsula.
+
+Rainfall from Isaac was not reported to be higher than 25 mm (0.98 inches) in most areas due to Isaac's speed and decreasing amount of moisture. The highest measured amount was 26 mm (1.02 inch) at Cape Race, while Cape Pine reported 19 mm (0.75 inches) and [[St. John's, Newfoundland and Labrador|St. John's]] reported less than 10 mm (0.39 inches).<ref name="Canadian Hurricane Centre Isaac"/>
+
+*The NHC's [http://www.nhc.noaa.gov/archive/2006/ISAAC.shtml? archive on Hurricane Isaac].
+<div style="clear: both"></div>
+
+==Accumulated Cyclone Energy (ACE) rating==
+{|class="wikitable" align=right style="margin:0 0 0.5em 1em;"
+|-
+!colspan=7|ACE (10<sup>4</sup>kt²) – Storm: [[Talk:2006 Atlantic hurricane season/ACE calcs|Source]]
+|-
+! 1
+| 24.3 || [[Hurricane Helene (2006)|Helene]]
+!rowspan=5|
+! 6
+| 2.76 || [[Tropical Storm Alberto (2006)|Alberto]]
+|-
+! 2
+| 22.2 || [[Hurricane Gordon (2006)|Gordon]]
+! 7
+| 2.31 || [[Tropical Storm Debby (2006)|Debby]]
+|-
+! 3
+| 9.60 || [[Hurricane Florence (2006)|Florence]]
+! 8
+| 2.30 || [[Tropical Storm Beryl (2006)|Beryl]]
+|-
+! 4
+| 6.46 || [[Hurricane Isaac (2006)|Isaac]]
+! 9
+| 2.17 || [[Tropical Storm Chris (2006)|Chris]]
+|-
+! 5
+| 5.72 || [[Hurricane Ernesto (2006)|Ernesto]]
+! 10
+| 0.645 || [[Unnamed Tropical Storm (2006)|Unnamed]]
+|-
+! colspan=8 | Total: 78.5
+|}
+
+The table on the right shows the [[Accumulated Cyclone Energy|ACE]] for each storm in the season. ACE is, broadly speaking, a measure of the power of the hurricane multiplied by the length of time it existed, so storms that last a long time, as well as particularly strong hurricanes, have high ACEs. ACE is only calculated for full advisories on tropical systems at or exceeding 35 knots (39 mph/63 km/h) or tropical storm strength.  
+
+The cumulative ACE for this season was toward the lower end of the official "Near Normal" grading. The number of tropical storms and hurricanes was near the long-term average.
+
+<div style="clear: both"></div>
+
+==Storm names==
+{| style="float:right; text-align:left; margin-left:1em"
+|+'''2006 storm names'''
+|-
+|[[Tropical Storm Alberto (2006)|Alberto]]
+|&nbsp;
+|[[Hurricane Helene (2006)|Helene]]
+|&nbsp;
+|{{tcname unused|Oscar}}
+|-
+|[[Tropical Storm Beryl (2006)|Beryl]]
+|&nbsp;
+|[[Hurricane Isaac (2006)|Isaac]]
+|&nbsp;
+|{{tcname unused|Patty}}
+|-
+|[[Tropical Storm Chris (2006)|Chris]]
+|&nbsp;
+|{{tcname unused|Joyce}}
+|&nbsp;
+|{{tcname unused|Rafael}}
+|-
+|[[Tropical Storm Debby (2006)|Debby]]
+|&nbsp;
+|{{tcname unused|Kirk}}
+|&nbsp;
+|{{tcname unused|Sandy}}
+|-
+|[[Hurricane Ernesto (2006)|Ernesto]]
+|&nbsp;
+|{{tcname unused|Leslie}}
+|&nbsp;
+|{{tcname unused|Tony}}
+|-
+|[[Hurricane Florence (2006)|Florence]]
+|&nbsp;
+|{{tcname unused|Michael}}
+|&nbsp;
+|{{tcname unused|Valerie}}
+|-
+|[[Hurricane Gordon (2006)|Gordon]]
+|&nbsp;
+|{{tcname unused|Nadine}}
+|&nbsp;
+|{{tcname unused|William}}
+|}
+
+The names to the right were used for named storms that form in the North Atlantic in 2006. No names were retired, so this list will be used again in the 2012 season. This is the same list used in the [[2000 Atlantic hurricane season|2000 season]] except for Kirk, which replaced [[Hurricane Keith|Keith]]. No storm was given a previously unused name, the first time this had happened since the [[1993 Atlantic hurricane season|1993 season]].
+
+The [[World Meteorological Organization]] determined in their annual meeting in the spring of 2006 to again use names from the [[Greek alphabet]], starting with Alpha, should the main list have run out.<ref>{{cite web | author = [[National Hurricane Center]] | title = Tropical Weather Outlook | date = [[June 1]], [[2006]] | accessdate = 2006-06-17 | publisher =|publisher = [[Florida State University]] Meteorology Department | url=ftp://ftp.met.fsu.edu/pub/weather/tropical/Outlook-A/2006060109.ABNT20}}</ref> In addition, the organization determined that storm names with Greek letters would not be retired. In case a storm reached the magnitude that might otherwise have led to retirement, the storm would be listed with the retired names with a footnote indicating the Greek letter would still be available for future storms.<ref>{{cite web | author = Tropical Cyclone Programme | title = RA IV Hurricane Committee Twenty-eighth Session report | date = [[April 4]], [[2006]] | accessdate = 2007-02-23 | publisher = [[World Meteorological Organization]]  | url=http://www.wmo.int/web/www/TCP/Meetings/HC28/FINAL-REPORT-HC-28.pdf}}</ref>
+
+===Retirement===
+{{seealso|List of retired Atlantic hurricanes}}
+The [[World Meteorological Organization]] retired no names used in the 2006 season. It was first time since the [[1997 Atlantic hurricane season|1997 season]] that no Atlantic names were retired and the first to have no names retired in the [[21st century]].
+
+==See also==
+{{wikinewscat|Hurricane season, 2006}}
+{{tcportal}}
+*[[List of notable Atlantic hurricanes]]
+*[[List of Atlantic hurricane seasons]]
+*[[List of tropical cyclone names]]
+*[[2006 Pacific hurricane season]]
+*[[2006 Pacific typhoon season]]
+*[[2006 North Indian cyclone season]]
+*[[2005-06 Southern Hemisphere tropical cyclone season]]
+*[[2006-07 Southern Hemisphere tropical cyclone season]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{Commons|2006 Atlantic hurricane season}}
+* [http://www.nhc.noaa.gov/ National Hurricane Center (NHC)]
+** [http://www.nhc.noaa.gov/text/MIATWOAT.shtml NHC's Atlantic Tropical Weather Outlook] - updated four times daily
+** [http://www.nhc.noaa.gov/archive/2006/ NHC's 2006 Advisory Archive]
+* [http://www.hpc.ncep.noaa.gov/tropical/rain/2006.html HPC's Rainfall Page] for tropical cyclones which affected the United States in 2006
+* [http://weather.unisys.com/hurricane/atlantic/2006/ Unisys' 2006 Season Page] &ndash; includes map of paths of all storms
+* [http://images.ibsys.com/sh/hurricanetracker/hurtracker.swf Flash Hurricane Tracker] - track active and archived hurricanes.
+* [http://www.nrlmry.navy.mil/tc_pages/tc_home.html  NRL hurricane page] - [[Naval Research Laboratory]] page with extensive archives on individual storms
+
+{{2006 Atlantic hurricane season buttons}}
+{{2000-2009 Atlantic hurricane seasons}}
+
+[[Category:Atlantic hurricane seasons|2006]]
+[[Category:{{PAGENAME}}| ]]
+
+[[de:Atlantische Hurrikansaison 2006]]
+[[es:Temporada de huracanes en el Atlántico de 2006]]
+[[fr:Saison cyclonique 2006 (Atlantique nord)]]
+[[nl:Atlantisch orkaanseizoen 2006]]
+[[simple:2006 Atlantic hurricane season]]
+[[sv:Atlantiska orkansäsongen 2006]]
+[[zh:2006年大西洋颶風季]]

@@ -1,0 +1,93 @@
+{{Infobox Military Conflict
+|conflict=Battle of the Olive Grove of Koundouros
+|partof=the [[Fourth Crusade]]
+|image=[[image:Olivenhain.jpg|250px]]
+|caption=
+|date=[[1205]] AD
+|place= [[Messenia]], [[Peloponnese]]
+|result=Decisive [[Crusader|Frankish]] victory
+|combatant1=[[Crusaders|Franks]]
+|combatant2=[[Byzantine Greeks|Byzantines]]
+|commander1=[[William of Champlitte]], <br /> [[Geoffrey I Villehardouin]]
+|commander2=[[Michael I Ducas]]
+|strength1=500 or 700 knights
+|strength2=4000 or 5000
+|casualties1=Light
+|casualties2=Heavy
+}}
+The '''Battle of the Olive Grove of Koundouros''' or '''Koundouras''' took place in the spring of [[1205]], in [[Messinia]], [[Peloponnese]], between the [[Franks]] and the [[Greeks]], resulting in a victory of the Frankish knights and the collapse of the local resistance.<ref>{{cite book | title=Southeastern Europe in the Middle Ages, 500–1250 |
+first=Florin | last=Curta | page=xxv | publisher=Cambridge University Press | year=2006 | id=ISBN 0-521-81539-8}}</ref>
+
+After the capture of [[Constantinople]] in [[1204]] and the collapse of the [[Byzantine Empire]] at the hands of the crusaders of the [[Fourth Crusade]] and the Byzantine court fleeing to Nicaea, a group of between 500 and 700 knights under the command of William Champlitte and Geoffret I Villehardouin confronted an army of around 5,000 Peloponnesian Greeks under the command of [[Michael I Ducas]] in Messinia. The Battle of the Olive Grove of Koundouros was fought and the Crusaders were victorious after crushing the Peloponnesian army. This battle decided the fate of the rest of the Peloponnese which fell to the Franks and became the [[Principality of Achaea]].
+
+==Background==
+The army of the [[Fourth Crusade]] conquered Constantinople on [[12 April]], [[1204]]. One of the main leaders of the crusade, [[Boniface I of Montferrat|Boniface of Montferrat]], having lost the opportunity to become Emperor, went on to found the [[Kingdom of Thessalonica]]. [[William of Champlitte]] followed him at autumn to Thessalonica but then continued south until he reached [[Morea]]. There he was joined with [[Geoffrey I Villehardouin]], who sailed to [[Modon]] (Methoni) on the way back from Palestine.
+
+The Frankish knights campaigned together to conquer [[Morea]] in charge of around a hundred knights and several soldiers. They initially captured [[Methoni]] with the support of John Kantakouzenos. They occupied the main cities of the western Peloponnese meeting little resistance. The Greeks of [[Lakonia]], [[Arkadia]] and [[Argolis]], under [[Michael I Ducas]], who at the time was governor of the ''[[Thema|Theme]]'' of Peloponnese,<ref>{{cite book | title=The Late Medieval Balkans: A Critical Survey from the Late Twelfth Century to the Ottoman Conquest | first=John V | last=Fine | page=66 | publisher=University of Michigan Press | year=1994 | id=ISBN 0-472-08260-4}}</ref> and Michael Kantakouzenos, the son of the then-deceased John Kantakouzenos, tried to stop the Franks at the Olive Grove of Koundouros, near Koroni.<ref>{{cite book | title=The Papacy and the Levant, 1204–1571 | first=Kenneth Meyer | last=Setton | page=25 | others=The American Philosophical Society | year=1976 | publisher=Diane Publishing Co | id=ISBN 0-87169-114-0}}</ref>
+
+==Sources==
+The battle is described in two original texts, ''The Chronicle of the Conquest of Constantinople'', by [[Geoffrey of Villehardouin]], written around 1207–1212 AD, and ''The [[Chronicle of Morea]]'', written around 1300.
+
+Both texts are written from the point of view of the conquerors. The first was written by the uncle of one of the two commanders who won the battle. The second was probably written by a French-Greek, born from a mixed French-Greek marriage, since his attitude throughout the text is that of admiration for the Franks and contempt of the locals.
+
+==Description of the battle==
+[[Image:GreeceMessinia.png|right|thumb|270px|Messenia, the general location of the Battle of the Olive Grove of Koundouros]]
+According to the [[Chronicle of Morea]], the Franks had 700 men, while the "Romans" (Byzantine Greeks) had 4000 men, mounted and unmounted. [[Geoffrey of Villehardouin]], uncle of Geoffrey I, in his ''Chronicle'', states that the army of Michael I numbered 5000 men and that of the Franks 500. In any case, despite being outnumbered, the Franks won the battle. The resistance of the Greeks was paralyzed and all the castles and cities of the Peloponnese fell one after the other. Michael I fled to [[Epirus (region)|Epirus]] to establish the [[Despotate of Epirus]]. The exact location of the olive grove of Koundouros in [[Messinia]] is unknown; Geoffrey of Villehardouin mentions that it was in one day's distance from the castle of "Modon" ([[Methoni]]). In Geoffrey's own account:<ref>{{cite book | author=Geoffrey de Villehardouin | authorlink=Geoffrey of Villehardouin | title=The chronicle of Geoffry de Villehardouin, Marshal of Champagne and Romania concerning the conquest of Constantinople, by the French and Venetians, anno M.CCIV. | editor=Translated by T. Smith | place=London | publisher=William Pickering | year=1829 | url=http://books.google.com/}}</ref>
+
+<blockquote>
+''So William of Champlitte and Geoffry of Villehardouin ''[the nephew]'' departed from the host, and took with them about a hundred knights, and a great number of mounted sergeants, and entered into the land of Morea, and rode onwards till they came to the city of Modon. Michael heard that they were in the land with so few people, and he collected together a great number of people, a number that was marvellous, and he rode after them as one thinking they were all no better than prisoners, and in his hand. And when they heard tell that he was coming, they refortified Modon, where the defences had long since been pulled down, and there left their baggage, and the lesser folk. Then they rode out a day's march, and ordered their array with as many people as they had. But the odds seemed too great, for they had no more than five hundred men mounted, whereas on the other part there were well over five thousand. But events happen as God pleases; for our people fought with the Greeks and discomfited and conquered them. And the Greeks lost very heavily, while those on our side gained horses and arms enough, and other goods in very great plenty, and so returned very happy, and very joyously, to the city of Modon''.
+</blockquote>
+
+In the [[Chronicle of Morea]], the battle is described in verses 1720–1738:<ref>The original Greek text is from ''Το Χρονικόν του Μορέως (The Chronicle of Morea)'', edition by P. Kalonaros, Athens 1940 (in Greek)</ref>
+
+<blockquote>
+''{{polytonic|ἀκούσασιν κ’ ἐμάθασιν τὸ πῶς ἦλθαν οἱ Φράγκοι}}'' / they heard and they learned that the Franks had come, <br />
+''{{polytonic|καὶ περπατοῦν ἐκ τὰ χωρία κ’ ἐπαίρνουσιν τὰ κούρση,}}'' / and that they walked through the villages and took the gains of war
+<br />
+''{{polytonic|καὶ εἶπαν κ’ ἐλογίσαντο νὰ τοὺς ἔχουν ζημιώσει.}}'' / and they said and they thought they had been harmed
+<br />
+''{{polytonic|Ἐκεῖσε ἐπαρεσύρθηκαν, τὸ λέγουν Κηπησκιάνους,}}'' / Over there they were drawn, they call it Kepescianous
+<br />
+''{{polytonic|ὅπου τὸ κράζουν ὄνομα στὸν Κούντουραν ἐλαιῶνα.}}'' / where they name it '''the olive grove of Kountouras'''
+<br />
+''{{polytonic|Ἦσαν χιλιάδες τέσσαρες, πεζοὶ καὶ καβαλλάροι.}}'' / They were four thousand, on foot and mounted
+<br />
+''{{polytonic|Οἱ Φράγκοι γὰρ ὡς τὸ ἐμάθασιν πάλε ἀπὸ τοὺς Ρωμαίους,}}'' / The Franks, though, when they learned it from the Romans
+<br />
+''{{polytonic|ὅπου ἤσασιν γὰρ μετ’ αὐτοὺς κ’ ἐξεύρασιν τοὺς τόπους,}}'' / since they were together with them and they knew the place
+<br />
+''{{polytonic|ἐκεῖ τοὺς ἐπαρέσυραν, ἦλθαν καὶ ηὕρανέ τους}}'' / there they drew them, they came and they found them
+<br />
+''{{polytonic|καὶ πόλεμον ἐδώκασιν οἱ Φράγκοι κ’ οἱ Ρωμαῖοι.}}'' / and war they gave the Franks and the Romans.
+<br />
+''{{polytonic|Κ’ οἱ Φράγκοι γὰρ οὐκ ἤσασιν, πεζοὶ καὶ καβαλλάροι,}}'' / And the Franks were not, on foot and mounted,
+<br />
+''{{polytonic|μόνοι ἑφτακόσιοι μοναχοί, τόσους τοὺς ἐγνωμιάσαν.}}'' / but just seven hundred, that many they thought.
+<br />
+''{{polytonic|Με προθυμίαν ἀρχάσασιν τὸν πόλεμο οἱ Ρωμαῖοι,}}'' / Eagerly did the Romans<ref>''The Romans'' (Rhomaioi) was the name that the [[Byzantine Greeks]] were using to describe themselves, see also: The [[Names of the Greeks]]</ref> start the war,
+<br />
+''{{polytonic|διατὶ ὀλίγους τοὺς ἔβλεπαν, ὕστερα ἐμετενοῆσαν.}}'' / because they saw them few, but later they were sorry.
+<br />
+''{{polytonic|Τι νὰ σὲ λέγω τὰ πολλὰ καὶ τὶ τὸ διάφορόν μου;}}'' / Why shall I tell you a lot and what do we care? 
+<br />
+''{{polytonic|τὸν πόλεμον ἐκέρδισαν ἐτότε ἐκεῖν’ οἱ Φράγκοι˙}}'' / The war, they won, then, those Franks
+<br />
+''{{polytonic|ὅλους ἐκατασφάξασιν, ὀλίγοι τοὺς ἐφύγαν.}}'' / they slaughtered them all, a few did escape<br />
+''{{polytonic|Αὐτὸν καὶ μόνον πόλεμον ἐποῖκαν οἱ Ρωμαῖοι}}'' / That was the only war the Romans made<br />
+''{{polytonic|εἰς τὸν καιρὸν ποῦ ἐκέρδισαν οἱ Φράγκοι τὸν Μορέαν.}}'' / during the time that the Franks won the Morea.
+</blockquote>
+
+==Aftermath==
+The Battle of the Olive Grove of Kountoura was decisive for the conquest of the Peloponnese by the Franks. After their victory, there was no serious threat against them in the Morea. In [[Andravida]], they were received by the people and Church. The only resistance met later was defensive, by [[Leo Sgouros]], guarding the castles of [[Nafplion]] and [[Acrocorinth]]. [[William of Champlitte]] was able to build upon his victories by forming the [[Principality of Achaia]], a Frankish state comprising most of the Peloponnese except for the Venetian cities on the coast.
+
+==References==
+<References/>
+
+[[Category:Battles involving the Byzantine Empire|Koundouros]]
+[[Category:Battles of the Crusades|Koundouros]]
+[[Category:Battles involving France|Koundouros]]
+[[Category:Battles involving Greece|Koundouros]]
+[[Category:1205]]
+
+[[cs:Bitva u kunduraských olivových hájů]]
+[[el:Η μάχη του ελαιώνα του Κούντουρα]]

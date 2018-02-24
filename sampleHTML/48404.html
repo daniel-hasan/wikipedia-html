@@ -1,0 +1,169 @@
+
+<p>In <a href="/wiki/Mathematics" id="w">mathematics</a>, a <b>ring</b> is an <a href="/wiki/Algebraic_structure" id="w">algebraic structure</a> in which addition and multiplication are defined and have properties listed below.  The branch of <a href="/wiki/Abstract_algebra" id="w">abstract algebra</a> which studies rings is called <a href="/wiki/Ring_theory" id="w">ring theory</a>.</p>
+<a id="Motivation" name="Motivation"></a><h2> Motivation </h2>
+
+<p>In mathematics, objects commonly arise which have structure similar to the integers, but may behave differently in some ways.  For example, <a href="/wiki/Matrix_(mathematics)" id="w">matrices</a> can be added and multiplied as expected, but such multiplication does not in general satisfy the <a href="/wiki/Commutative_law" id="w">commutative law</a>.  As a different example, the integers <a href="/wiki/Modulo" id="w">modulo</a> n satisfy similar laws of arithmetic but have <a href="/wiki/Zero_divisors" id="w">zero divisors</a> if n is not prime.</p>
+<p>A ring is an abstraction of certain properties of the integers that is general enough to allow the study of a greater variety of objects, but strong enough to ensure a rich theory in which substantial results can be proven.  In a sense, rings have more structure than an <a href="/wiki/Abelian_group" id="w">abelian group</a> but less than a <a href="/wiki/Field_(mathematics)" id="w">field</a>.</p>
+<a id="Formal_definition" name="Formal_definition"></a><h2> Formal definition </h2>
+
+<p>A <b>ring</b> is a <a href="/wiki/Set" id="w">set</a> <span class="math">\,R</span> equipped with two <a href="/wiki/Binary_operation" id="w">binary operations</a> <span class="math">+\colon R \times R \rightarrow R</span> and <span class="math">\cdot \colon R \times R \rightarrow R</span> (where <span class="math">\times</span> denotes the <a href="/wiki/Cartesian_product" id="w">Cartesian product</a>), called <i>addition</i> and <i>multiplication</i>, such that:</p>
+
+<ul>
+<li><span class="math">\,(R, +)</span> is an <a href="/wiki/Abelian_group" id="w">abelian group</a> with <a href="/wiki/Identity_element" id="w">identity element</a> <span class="math">\,0</span>, so that <span class="math">\,\forall a, b, c \in R</span>, the following axioms hold:
+<ul>
+<li><span class="math">\,a + b \in R</span></li>
+<li><span class="math">\,(a + b) + c = a + (b + c)</span></li>
+<li><span class="math">\,0 + a = a</span></li>
+<li><span class="math">\,a + b = b + a</span></li>
+<li><span class="math">\,\exists</span> <span class="math">\,-a \in R \mbox{ such that } a + (-a) = (-a) + a = 0</span></li></ul></li>
+<li><span class="math">\,(R, \cdot)</span> is a <a href="/wiki/Monoid" id="w">monoid</a> with identity element <span class="math">\,1</span>, so that <span class="math">\,\forall a, b, c \in R</span>, the following axioms hold:
+<ul>
+<li><span class="math">\,a \cdot b \in R</span></li>
+<li><span class="math">\,(a \cdot b)\cdot c = a\cdot(b \cdot c)</span></li>
+<li><span class="math">\,1\cdot a = a\cdot 1 = a</span></li></ul></li>
+<li>Multiplication <a href="/wiki/Distributive_law" id="w">distributes</a> over addition:
+<ul>
+<li><span class="math">\,a \cdot (b + c) = (a \cdot b) + (a \cdot c)</span></li>
+<li><span class="math">\,(a + b)\cdot c = (a \cdot c) + (b \cdot c)</span></li></ul></li></ul>
+<p>As with <a href="/wiki/Group_(mathematics)" id="w">groups</a> the symbol · is usually omitted and multiplication is just denoted by <a href="http://en.wiktionary.org/wiki/Juxtaposition">juxtaposition</a>. Also, the standard <a href="/wiki/Order_of_operations" id="w">order of operation</a> rules are used, so that, for example, <i>a</i>+<i>bc</i> is an abbreviation for <i>a</i>+(<i>b</i>·<i>c</i>).</p>
+<p>Although ring addition is <a href="/wiki/Commutative_law" id="w">commutative</a>, so that <i>a</i>+<i>b</i> = <i>b</i>+<i>a</i>, ring multiplication is not required to be commutative; <i>a</i>·<i>b</i> need not equal <i>b</i>·<i>a</i>. Rings that also satisfy commutativity for multiplication (such as the ring of <a href="/wiki/Integer" id="w">integers</a>) are called <b><a href="/wiki/Commutative_ring" id="w">commutative rings</a></b>. An example of a non-commutative ring is the ring of <i>n</i>×<i>n</i> matrices over a <a href="/wiki/Field_(mathematics)" id="w">field</a> <i>K</i>, for <i>n</i>&#160;&#62;&#160;1.</p>
+<p>Rings need not have <a href="/wiki/Multiplicative_inverse" id="w">multiplicative inverses</a> either. An element <i>a</i> in a ring is called a <b><a href="/wiki/Unit_(ring_theory)" id="w">unit</a></b> if it is invertible with respect to multiplication: if there is an element <i>b</i> in the ring such that <i>a</i>·<i>b</i>&#160;= <i>b</i>·<i>a</i>&#160;= 1, then <i>b</i> is uniquely determined by <i>a</i> and we write <i>a</i><sup>&#8722;1</sup>&#160;= <i>b</i>. The set of all units in <i>R</i> forms a <a href="/wiki/Group_(mathematics)" id="w">group</a> under ring multiplication; this group is denoted by <i>U</i>(<i>R</i>) or <i>R</i>*.</p>
+<a id="Alternative_definitions" name="Alternative_definitions"></a><h3>Alternative definitions</h3>
+
+<p>There are some alternative definitions of rings of which the reader should be aware:</p>
+
+<ul>
+<li>Some authors add the additional requirement that 0 ≠ 1. This omits only one ring: the so called <i><a href="/wiki/Trivial_ring" id="w">trivial ring</a></i> or <i>zero ring</i>, which has only a single element.</li>
+<li>A more significant difference is that some authors (such as <a href="/wiki/Israel_Nathan_Herstein" id="w">I. N. Herstein</a>) omit the requirement that a ring have a multiplicative identity. These authors call rings which do have multiplicative identities <b>unital rings</b>, <b>unitary rings</b>, or simply <b>rings with unity</b>.  Authors such as <a href="/wiki/Nicolas_Bourbaki" id="w">Bourbaki</a>, who do require rings to have a multiplicative identity, call algebraic objects which meet all the requirements of a ring except possibly the unity requirement <b>pseudo-rings</b>. The  term <b><a href="/wiki/Rng_(algebra)" id="w">rng</a></b> (jocular; ring without the multiplicative <b>i</b>dentity)  has also been used.
+<p>Any non-unitary ring <i>R</i> can be embedded in a canonical way as a subrng of a unitary ring, namely <i>R</i> &#8853; <b>Z</b> with (0,1) as unit element and multiplication defined in an appropriate way. This process is said to <i>adjoin</i> a unit element to <i>R</i>. If the same construction of adjoining a unit is applied to unitary ring <b>R</b>, the result is a different ring, with a new unit element. (see <a href="/wiki/Unital" id="w">Unital</a>.)</p></li>
+<li>Similarly, the requirement for the ring multiplication to be <a href="/wiki/Associative" id="w">associative</a> is sometimes dropped, and rings in which the associative law holds are then called <b>associative rings</b>. See <a href="/wiki/Nonassociative_ring" id="w">nonassociative rings</a> for a discussion of the more general situation.</li></ul>
+<p>As noted above, multiplication in a ring need not be commutative. Some fields such as <a href="/wiki/Commutative_algebra" id="w">commutative algebra</a> and <a href="/wiki/Algebraic_geometry" id="w">algebraic geometry</a> are primarily concerned with commutative rings. Mathematicians writing in those areas (such as <a href="/wiki/Alexander_Grothendieck" id="w">Alexander Grothendieck</a> in <a href="/wiki/Él%C3%A9ments_de_g%C3%A9om%C3%A9trie_alg%C3%A9brique" id="w">Éléments de géométrie algébrique</a>) frequently use the word <i>ring</i> to mean &#34;commutative ring&#34; by convention, and <i>not necessarily commutative ring</i> to mean &#34;ring&#34;. </p>
+<p>In this article all rings are assumed to be associative and unital unless otherwise stated.</p>
+<a id="Examples" name="Examples"></a><h2> Examples </h2>
+
+<ul>
+<li>The <i>trivial ring</i> {0} has only one element, and it serves both as the additive and the multiplicative identity. </li>
+<li>The motivating example is the ring of <a href="/wiki/Integer" id="w">integers</a> with the two operations of addition and multiplication. This is a <a href="/wiki/Commutative" id="w">commutative</a> ring.
+<ul>
+<li>The <a href="/wiki/Rational_number" id="w">rational</a>, <a href="/wiki/Real_number" id="w">real</a> and <a href="/wiki/Complex_number" id="w">complex</a> numbers form rings (in fact, they are even <a href="/wiki/Field_(mathematics)" id="w">fields</a>). These are likewise commutative rings.</li></ul></li>
+<li>Every field is by definition a commutative ring.</li>
+<li>The <a href="/wiki/Gaussian_integers" id="w">Gaussian integers</a> form a ring, as do the <a href="/wiki/Eisenstein_integers" id="w">Eisenstein integers</a>.</li>
+<li>The <a href="/wiki/Polynomial_ring" id="w">polynomial ring</a> <i>R</i>[X] of polynomials over a ring <i>R</i> is also a ring.
+<ul>
+<li>The set of <a href="/wiki/Formal_power_series" id="w">formal power series</a>  <i>R</i>[[<i>X</i><sub>1</sub>,...,<i>X</i><sub><i>n</i></sub>]] over a commutative ring <i>R</i> is a ring.</li></ul></li>
+<li><i>Example of a noncommutative ring</i>: For any ring <i>R</i> and any natural number <i>n</i>, the set of all square <i>n</i>-by-<i>n</i> <a href="/wiki/Matrix_(mathematics)" id="w">matrices</a> with entries from <i>R</i>, forms a ring with matrix addition and matrix multiplication as operations. For <i>n</i>=1, this matrix ring is just (isomorphic to) <i>R</i> itself.   For <i>n</i>&#62;2, this matrix ring is an example of a noncommutative ring (unless <i>R</i> is the trivial ring).</li>
+<li><i>Example of a finite ring</i>: If <i>n</i> is a positive integer, then the set <b>Z</b><sub><i>n</i></sub> = <b>Z</b>/<i>n</i><b>Z</b> of integers modulo <i>n</i> (as an additive group the <a href="/wiki/Cyclic_group" id="w">cyclic group</a> of order <i>n</i>) forms a ring with <i>n</i> elements (see <a href="/wiki/Modular_arithmetic" id="w">modular arithmetic</a>).</li>
+<li>If <i>S</i> is a set, then the <a href="/wiki/Power_set" id="w">power set</a> of <i>S</i> becomes a ring if we define addition to be the <a href="/wiki/Symmetric_difference" id="w">symmetric difference</a> of sets and multiplication to be <a href="/wiki/Intersection_(set_theory)" id="w">intersection</a>. This is an example of a <a href="/wiki/Boolean_ring" id="w">Boolean ring</a>.</li>
+<li>The set of all <a href="/wiki/Continuous_function" id="w">continuous</a> real-valued <a href="/wiki/Function_(mathematics)" id="w">functions</a> defined on the <a href="/wiki/Interval_(mathematics)" id="w">interval</a> [<i>a</i>, <i>b</i>] forms a ring (even an <a href="/wiki/Associative_algebra" id="w">associative algebra</a>). The operations are addition and multiplication of functions. </li>
+<li>If <i>G</i> is an abelian <a href="/wiki/Group_(mathematics)" id="w">group</a>, then the <a href="/wiki/Group_homomorphism" id="w">endomorphisms</a> of <i>G</i> form a ring, the endomorphism ring End(<i>G</i>) of <i>G</i>. The operations in this ring are addition and composition of endomorphisms.</li>
+<li>If <i>G</i> is a <a href="/wiki/Group_(mathematics)" id="w">group</a> and <i>R</i> is a ring, the <a href="/wiki/Group_ring" id="w">group ring</a> of <i>G</i> over <i>R</i> is a <a href="/wiki/Free_module" id="w">free module</a> over <i>R</i> having <i>G</i> as basis. Multiplication is defined by the rules that the elements of <i>G</i> commute with the elements of <i>R</i> and multiply together as they do in the group <i>G</i>.</li>
+<li><b>Non-example</b>: The set of <a href="/wiki/Natural_number" id="w">natural numbers</a> <b>N</b> is not a ring, since (<b>N</b>, +) is not even a <a href="/wiki/Group_(mathematics)" id="w">group</a> (the elements are not all <a href="/wiki/Invertible" id="w">invertible</a> with respect to <a href="/wiki/Addition" id="w">addition</a>). For instance, there is no <a href="/wiki/Natural_number" id="w">natural number</a> which can be added to 3 to get 0 as a result. There is a natural way to make it a ring by adding negative numbers to the set, thus obtaining the ring of <a href="/wiki/Integer" id="w">integers</a>. The natural numbers form an algebraic structure known as a <a href="/wiki/Semiring" id="w">semiring</a> (which has all of the properties of a ring except the additive inverse property).</li>
+<li>The even numbers 2<b>Z</b> (including negative even numbers) are an example of a pseudo-ring in that they have all the properties of a ring except a multiplicative identity.</li>
+<li>Ring of dual numbers: Let є be a formal symbol and F a field. The <i>ring of dual numbers</i>, F[є], is defined as F[є] = {a + bє : a,b Є F},with the following addition and multiplication:<br/>(a + bє) + (c + dє) = a + c + (b + d)є<br/>(a + bє)(c + dє) = ac + (ad + bc)є<br/>Note that є is a zero divisor: є ≠ 0 but є<sup>2</sup> = 0.</li></ul>
+<a id="Basic_theorems" name="Basic_theorems"></a><h2> Basic theorems </h2>
+
+<p>From the axioms, one can immediately deduce that if <span class="math">\,R</span> is a ring, <span class="math">\,\forall a, b \in R</span> we have:
+</p>
+<ul>
+<li><span class="math">\,0 \cdot a = a \cdot 0 = 0.</span></li>
+<li><span class="math">\,(-1)a = -a</span></li>
+<li><span class="math">\,(-a)b = a(-b) = -ab</span></li>
+<li><span class="math">\,(ab)^{-1} = b^{-1} a^{-1}</span> if both <span class="math">\,a</span> and <span class="math">\,b</span> are <a href="/wiki/Invertible" id="w">invertible</a>.</li></ul>
+<p>Other basic theorems
+</p>
+<ul>
+<li>The <a href="/wiki/Identity_element" id="w">identity element</a> 1 is unique.</li>
+<li>If a ring element has a multiplicative inverse, then the inverse is unique.</li>
+<li>If the ring has at least two elements then 0 ≠ 1</li>
+<li>If <i>n</i> is an integer, and <i>a</i> an element of the ring define <i>na</i> as one would by viewing <i>a</i> as an element of the additive group of the ring (that is, 0 if <i>n</i> is 0, the sum of <i>n</i> copies of <i>a</i> if <i>n</i> is positive, and the opposite of (–<i>n</i>)<i>a</i> if <i>n</i>  is negative.) We usually write <i>n</i> for the ring element <i>n</i>1. Then:
+<ul>
+<li>The two definitions of <i>na</i> coincide, that is, first, with <i>n</i> viewed as an integer as above; second, with <i>n</i> meaning the ring element <i>n</i>1 and multiplication in the expression <i>na</i> taking place in the ring. Thus the integer <i>n</i> may be identified with the ring element <i>n</i>. (Except that more than one integer may correspond to a single ring element this way.)</li>
+<li>The ring element <i>n</i> commutes with all other elements of the ring.</li>
+<li>If <i>m</i> and <i>n</i> are integers and <i>a</i> and <i>b</i> are ring elements, then (<i>m</i>·<i>a</i>)(<i>n</i>·<i>b</i>) = (<i>mn</i>)·(<i>ab</i>)</li>
+<li>If <i>n</i> is an integer and <i>a</i> is a ring element, then <i>n</i>·(-<i>a</i>) = -(<i>n</i>·<i>a</i>)</li>
+<li>The <i><a href="/wiki/Binomial_theorem" id="w">binomial theorem</a></i></li></ul></li></ul><dl><dd><dl><dd><span class="math">(x+y)^n=\sum_{k=0}^n{n \choose k}x^ky^{n-k},</span></dd></dl></dd></dl>
+<dl><dd>holds whenever <i>x</i> and <i>y</i> commute. This is true in any <a href="/wiki/Commutative_ring" id="w">commutative ring</a>.</dd></dl>
+<ul>
+<li>If a ring is a cyclic group under addition, then it is commutative.</li></ul>
+<a id="Constructing_new_rings_from_given_ones" name="Constructing_new_rings_from_given_ones"></a><h2>  Constructing new rings from given ones </h2>
+
+
+<ul>
+<li>For every ring <i>R</i> we can define the <b>opposite ring</b> <i>R</i><sup>op</sup> by reversing the multiplication in <i>R</i>. Given the multiplication · in <i>R</i> the multiplication ∗ in <i>R</i><sup>op</sup> is defined as <i>b</i>∗<i>a</i> := <i>a</i>·<i>b</i>.  The &#34;identity map&#34; from <i>R</i> to <i>R</i><sup>op</sup> is an isomorphism if and only if <i>R</i> is commutative. However, even if <i>R</i> is not commutative, it is still possible for <i>R</i> and <i>R</i><sup>op</sup> to be isomorphic. For example, if <i>R</i> is the ring of <i>n</i>&#215;<i>n</i> matrices of real numbers, then the <a href="/wiki/Transpose" id="w">transposition</a> map from <i>R</i> to <i>R</i><sup>op</sup> is an isomorphism. </li>
+<li>If a subset <i>S</i> of a ring <i>R</i> is closed under multiplication, addition and subtraction and contains the additive and multiplicative identity elements, then <i>S</i> is called a <i><a href="/wiki/Subring" id="w">subring</a></i> of <i>R</i>.</li>
+<li>The <i><a href="/wiki/Center_of_a_ring" id="w">center of a ring</a></i> <i>R</i> is the set of elements of <i>R</i> that commute with every element of <i>R</i>; that is, <i>c</i> lies in the center if <i>cr</i>=<i>rc</i> for every <i>r</i> in <i>R</i>. The center is a subring of <i>R</i>. We say that a subring <i>S</i> of <i>R</i> is central if it is a subring of the center of <i>R</i>.</li>
+<li>The <i><a href="/wiki/Direct_product_(ring_theory)" id="w">direct product</a></i> of two rings <i>R</i> and <i>S</i> is the <a href="/wiki/Cartesian_product" id="w">cartesian product</a> <i>R</i>&#215;<i>S</i> together with the operations</li></ul><dl><dd>(<i>r</i><sub>1</sub>, <i>s</i><sub>1</sub>) + (<i>r</i><sub>2</sub>, <i>s</i><sub>2</sub>) = (<i>r</i><sub>1</sub>+<i>r</i><sub>2</sub>, <i>s</i><sub>1</sub>+<i>s</i><sub>2</sub>) and</dd></dl><dl><dd>(<i>r</i><sub>1</sub>, <i>s</i><sub>1</sub>)(<i>r</i><sub>2</sub>, <i>s</i><sub>2</sub>) = (<i>r</i><sub>1</sub><i>r</i><sub>2</sub>, <i>s</i><sub>1</sub><i>s</i><sub>2</sub>).</dd></dl>
+<ul>
+<li>More generally, for any index set <i>J</i> and collection of rings (<i>R</i><sub><i>j</i></sub>)<sub><i>j</i>ε<i>J</i></sub>, there is a <i><a href="/wiki/Direct_product_(ring_theory)" id="w">direct product</a></i> ring. The direct product is the collection of &#34;infinite-tuples&#34;  (<i>r<sub>j</sub></i>)<sub><i>j</i>ε<i>J</i></sub> with component-wise addition and multiplication. More formally, let <i>U</i> be the union of all of the rings <i>R<sub>j</sub></i>. Then the direct product of the <i>R<sub>j</sub></i> over all <i>j</i>ε<i>J</i> is the set of all maps <i>r</i>:<i>J</i>→<i>U</i> with the property that <i>r<sub>j</sub></i>ε<i>R<sub>j</sub></i>. Addition and multiplication of these functions is via the addition and multiplication in each individual <i>R<sub>j</sub></i>. Thus</li></ul><dl><dd>(<i>r</i>+<i>s</i>)<sub><i>j</i></sub>=<i>r</i><sub><i>j</i></sub>+<i>s</i><sub><i>j</i></sub> and (<i>rs</i>)<sub><i>j</i></sub>=<i>r</i><sub><i>j</i></sub><i>s</i><sub><i>j</i></sub>.</dd></dl>
+
+<ul>
+<li>Given a ring <i>R</i> and an <a href="/wiki/Ideal_(ring_theory)" id="w">two-sided ideal</a> <i>I</i> of <i>R</i>, the <i><a href="/wiki/Quotient_ring" id="w">quotient ring</a></i> (or <i>factor ring</i>) <i>R</i>/<i>I</i> is the set of cosets of <i>I</i> together with the operations</li></ul><dl><dd>(<i>a+I</i>)  + (<i>b+I</i>) = (<i>a</i>+<i>b</i>) + <i>I</i> and</dd></dl><dl><dd>(<i>a+I</i>)(<i>b+I</i>) = (<i>ab</i>) + <i>I</i>.</dd></dl>
+<ul>
+<li>Since any ring is both a left and right <a href="/wiki/Module_(mathematics)" id="w">module</a> over itself, it is possible to construct the <a href="/wiki/Tensor_product_of_rings" id="w">tensor product</a> of <i>R</i> over a ring <i>S</i> with another ring <i>T</i> to get another ring provided <i>S</i> is a central subring of <i>R</i> and <i>T</i>.</li></ul>
+<a id="Categorical_description" name="Categorical_description"></a><h2>Categorical description</h2>
+
+<p>Just as <a href="/wiki/Monoid" id="w">monoids</a> and <a href="/wiki/Group_(mathematics)" id="w">groups</a> can be viewed as <a href="/wiki/Category_(mathematics)" id="w">categories</a> with a single object, rings can be viewed as <a href="/wiki/Additive_category" id="w">additive categories</a> with a single object. Here the <a href="/wiki/Morphism" id="w">morphisms</a> are the ring elements, composition of morphisms is ring multiplication, and the additive structure on morphisms is ring addition. The opposite ring is then the <a href="/wiki/Categorical_dual" id="w">categorical dual</a>.</p>
+<a id="See_also" name="See_also"></a><h2> See also </h2>
+<p>{{Wikibooks}}
+</p>
+<div style="-moz-column-count:2; column-count:2;">
+
+<ul>
+<li><a href="/wiki/Ring_theory" id="w">Ring theory</a></li>
+<li><a href="/wiki/Glossary_of_ring_theory" id="w">Glossary of ring theory</a></li>
+<li><a href="/wiki/Algebra_over_a_commutative_ring" id="w">Algebra over a commutative ring</a></li>
+<li><a href="/wiki/Nonassociative_ring" id="w">Nonassociative ring</a></li></ul>
+
+<ul>
+<li>Special types of rings:
+<ul>
+<li><a href="/wiki/Boolean_ring" id="w">Boolean ring</a></li>
+<li><a href="/wiki/Commutative_ring" id="w">Commutative ring</a></li>
+<li><a href="/wiki/Ordered_ring" id="w">Ordered ring</a></li>
+<li><a href="/wiki/Differential_ring" id="w">Differential ring</a></li>
+<li><a href="/wiki/Division_ring" id="w">Division ring</a></li>
+<li><a href="/wiki/Field_(mathematics)" id="w">Field</a></li>
+<li><a href="/wiki/Integral_domain" id="w">Integral domain</a> (ID)</li>
+<li><a href="/wiki/Principal_ideal_domain" id="w">Principal ideal domain</a> (PID)</li>
+<li><a href="/wiki/Subring_criteria" id="w">Subring criteria</a></li>
+<li><a href="/wiki/Unique_factorization_domain" id="w">Unique factorization domain</a> (UFD)</li></ul></li></ul>
+<p /></div>
+
+<p />
+<p><a href="http://ar.wikipedia.org/wiki/ح%D9%84%D9%82%D8%A9_(%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A7%D8%AA)">ar:حلقة (رياضيات)</a>
+<a href="http://bs.wikipedia.org/wiki/Prsten_(matematika)">bs:Prsten (matematika)</a>
+<a href="http://ca.wikipedia.org/wiki/Anell_(matem%C3%A0tiques)">ca:Anell (matemàtiques)</a>
+<a href="http://cs.wikipedia.org/wiki/Okruh_(algebra)">cs:Okruh (algebra)</a>
+<a href="http://da.wikipedia.org/wiki/Ring_(matematik)">da:Ring (matematik)</a>
+<a href="http://de.wikipedia.org/wiki/Ringtheorie">de:Ringtheorie</a>
+<a href="http://el.wikipedia.org/wiki/Δ%CE%B1%CE%BA%CF%84%CF%8D%CE%BB%CE%B9%CE%BF%CF%82_(%CE%AC%CE%BB%CE%B3%CE%B5%CE%B2%CF%81%CE%B1)">el:Δακτύλιος (άλγεβρα)</a>
+<a href="http://es.wikipedia.org/wiki/Anillo_(matem%C3%A1tica)">es:Anillo (matemática)</a>
+<a href="http://eo.wikipedia.org/wiki/Ringo_(algebro)">eo:Ringo (algebro)</a>
+<a href="http://fa.wikipedia.org/wiki/ح%D9%84%D9%82%D9%87_(%D8%B1%DB%8C%D8%A7%D8%B6%DB%8C)">fa:حلقه (ریاضی)</a>
+<a href="http://fr.wikipedia.org/wiki/Anneau_(math%C3%A9matiques)">fr:Anneau (mathématiques)</a>
+<a href="/wiki/Zh-classical:%E7%92%B0_(%E4%BB%A3%E6%95%B8)" id="w">zh-classical:環 (代數)</a>
+<a href="http://ko.wikipedia.org/wiki/환_(%EC%88%98%ED%95%99)">ko:환 (수학)</a>
+<a href="http://hr.wikipedia.org/wiki/Prsten_(matematika)">hr:Prsten (matematika)</a>
+<a href="http://it.wikipedia.org/wiki/Anello_(algebra)">it:Anello (algebra)</a>
+<a href="http://he.wikipedia.org/wiki/ח%D7%95%D7%92_(%D7%9E%D7%91%D7%A0%D7%94_%D7%90%D7%9C%D7%92%D7%91%D7%A8%D7%99)">he:חוג (מבנה אלגברי)</a>
+<a href="/wiki/Lmo:Anell_(matem%C3%A0tica)" id="w">lmo:Anell (matemàtica)</a>
+<a href="http://hu.wikipedia.org/wiki/Gy%C5%B1r%C5%B1_(matematika)">hu:Gyűrű (matematika)</a>
+<a href="http://nl.wikipedia.org/wiki/Ring_(wiskunde)">nl:Ring (wiskunde)</a>
+<a href="http://ja.wikipedia.org/wiki/環_(%E6%95%B0%E5%AD%A6)">ja:環 (数学)</a>
+<a href="http://no.wikipedia.org/wiki/Ring_(matematikk)">no:Ring (matematikk)</a>
+<a href="/wiki/Nov:Ringe_(matematike)" id="w">nov:Ringe (matematike)</a>
+<a href="http://pl.wikipedia.org/wiki/Pier%C5%9Bcie%C5%84_(matematyka)">pl:Pierścień (matematyka)</a>
+<a href="http://pt.wikipedia.org/wiki/Anel_(%C3%A1lgebra)">pt:Anel (álgebra)</a>
+<a href="http://ro.wikipedia.org/wiki/Inel_(algebr%C4%83)">ro:Inel (algebră)</a>
+<a href="http://ru.wikipedia.org/wiki/К%D0%BE%D0%BB%D1%8C%D1%86%D0%BE_(%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0)">ru:Кольцо (алгебра)</a>
+<a href="http://sk.wikipedia.org/wiki/Okruh_(algebra)">sk:Okruh (algebra)</a>
+<a href="http://sl.wikipedia.org/wiki/Kolobar">sl:Kolobar</a>
+<a href="http://sr.wikipedia.org/wiki/П%D1%80%D1%81%D1%82%D0%B5%D0%BD_(%D0%BC%D0%B0%D1%82%D0%B5%D0%BC%D0%B0%D1%82%D0%B8%D0%BA%D0%B0)">sr:Прстен (математика)</a>
+<a href="http://fi.wikipedia.org/wiki/Rengas">fi:Rengas</a>
+<a href="http://sv.wikipedia.org/wiki/Ring_(matematik)">sv:Ring (matematik)</a>
+<a href="http://ta.wikipedia.org/wiki/வ%E0%AE%B3%E0%AF%88%E0%AE%AF%E0%AE%AE%E0%AF%8D_(%E0%AE%95%E0%AE%A3%E0%AE%BF%E0%AE%A4%E0%AE%AE%E0%AF%8D)">ta:வளையம் (கணிதம்)</a>
+<a href="http://vi.wikipedia.org/wiki/V%C3%A0nh">vi:Vành</a>
+<a href="http://tr.wikipedia.org/wiki/Halka_(matematik)">tr:Halka (matematik)</a>
+<a href="http://uk.wikipedia.org/wiki/К%D1%96%D0%BB%D1%8C%D1%86%D0%B5_(%D0%B0%D0%BB%D0%B3%D0%B5%D0%B1%D1%80%D0%B0)">uk:Кільце (алгебра)</a>
+<a href="http://zh.wikipedia.org/wiki/环">zh:环</a>
+</p>

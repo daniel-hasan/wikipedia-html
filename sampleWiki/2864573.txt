@@ -1,0 +1,57 @@
+{{Infobox Military Unit
+|unit_name= '''Officer Candidates School'''
+|image= [[Image:USMC_OCS_logo.png|150px]]
+|caption= The OCS insignia
+|dates= [[1891]] - present
+|country=[[United States]]
+|allegiance=
+|branch=[[United States Marine Corps|USMC]]
+|type= Training
+|role= Screen and evaluate officer candidates
+|command_structure= [[Training and Education Command]]
+|current_commander= Colonel Richard V. Mancini
+|garrison= [[Marine Corps Base Quantico]]
+|colonel_of_the_regiment=
+|nickname= 
+|patron=
+|motto= [[List of Latin phrases (A–E)#D|"Ductus Exemplo"]]<br>"Leadership by Example"
+|march=
+|mascot=
+|battles=
+|notable_commanders=
+|anniversaries=
+}}
+
+The [[United States Marine Corps]] '''Officer Candidates School''' (OCS) is a school located on [[Marine Corps Base Quantico|Marine Corps Base (MCB) Quantico]] that trains, screens, and evaluates potential Marine Corps officers. Unlike the [[Military of the United States|other United States military services]], the majority of Marine Corps officers must complete OCS to earn a commission; the only exception are midshipmen from the [[United States Naval Academy]]. Entry to OCS comes from several different commissioning programs:<ref>{{cite web|url=http://officer.marines.com/page/Earning-a-Commission-O.jsp
+|accessdate=2007-01-28|title=Earning a Commission
+|work=U.S. Marine Corps Officer Candidate's Guide
+|publisher=United States Marine Corps}}</ref>
+*[[Platoon Leaders Class]] (PLC) for college students with more than one year left in school
+*[[Naval Reserve Officer Training Corps]](NROTC)
+*[[Officer Candidates Class]](OCC) for college seniors and graduates
+*Enlisted Commissioning Program (ECP) for enlisted Marines with a college degree
+*Meritorious Commissioning Program (MCP) for enlisted Marines within 18 months of graduation
+*Marine Enlisted Commissioning Program (MECEP)
+ 
+Depending on the source, candidates go through either a 6-week, 10-week, or 2 6-week courses over separate summers, designed primarily to screen and evaluate candidates' fitness to lead Marines by placing them in leadership positions in a stressful environment. Students are placed in a training environment to evaluate their leadership potential through 2-3 day command billets in the company and platoon, and squad and fire-team level field exercises. The follow-on school to OCS, [[The Basic School]] (TBS), is where all the skills and knowledge necessary to be an officer of Marines is imparted to future officers.
+
+
+
+==History==
+
+Prior to [[World War I]], Marine officers came primarily from the Naval Academy, or were commissioned from the enlisted ranks. But as the Marine Corps expanded, it needed its own training pipeline for officers. OCS traces its roots to the "School of Application", established in 1891 in [[Washington, D.C]]. With the expansion of the Marine Corps for World War I, all instructional efforts were consolidated in MCB Quantico, where they remain today.
+
+==Honoring Medal of Honor recipients==
+As is common throughout the military, landmarks are often named for [[Medal of Honor]] recipients. As is common for training commands, they are named for members of the relevant branch and category of service, in this case Marine Corps officers. The main road to and through OCS is named Elrod Avenue, in honor of [[Henry T. Elrod|Major Henry "Hank" Elrod]], the first [[Naval aviator|aviator]] to be awarded the Medal of Honor, for his heroism in the defense of [[Battle of Wake Island|Wake Island]] in [[World War II]]. The [[chow hall]] is named Bobo Hall, in honor of [[John P. Bobo|Second Lieutenant John P. Bobo]] who was [[posthumous recognition|posthumous]]ly awarded the Medal of Honor for his actions in the [[Quang Tri]] province of [[Vietnam]] in 1967.
+
+In addition, the training grounds have a 5-mile trail named the "Medal of Honor trail;" each of its trail markers contains the name of a Medal of Honor recipient, and the location and date of the action for which they were honored.
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{portal|United States Marine Corps|USMC_logo.svg}}
+*[http://www.ocs.usmc.mil/ USMC Officer Candidates School website]
+*[http://usmilitary.about.com/od/marines/l/blocs.htm Comparison between Officer Canidate School and Basic (Enlisted) Recruit Training]
+*[http://www.marineocs.com/ Marine OCS Forum]
+[[Category:United States Marine Corps schools]]

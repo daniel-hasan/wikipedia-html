@@ -1,0 +1,418 @@
+<!-- {{Infobox BoxCrawler}} -->
+{{SFHStaxobox
+|seal_image=[[Image:balboa-hs buccaneers.gif]] <!-- MOVE THIS once school seal can be found ---> <!-- FAIR USE of balboa-hs_buccaneers.gif: see image description page at http://en.wikipedia.org/wiki/Image:balboa-hs_buccaneers.gif for rationale -->
+|motto=''First on the Pacific''
+|establishment=1928
+|campus=[[Urban area|Urban]]
+|principal=Patricia J. Gray
+|location=1000 Cayuga Avenue<br />[[Image:Flag of San Francisco, California.png|22px]] [[San Francisco, California|San Francisco]]<br />{{flagicon|California|size=20px}} [[California]]<br />{{flagicon|USA|size=20px}} [[United States]]
+|faculty=55<ref name="CDE">
+ {{Cite web| url=http://data1.cde.ca.gov/dataquest/DQReports.asp?CDSType=S&CDSCode=38684783830288&lPage=P| title=California Department of Education - DataQuest report 2006-2007| accessdate=2007-04-04}}
+</ref>
+|enrollment=1,098<ref name="CDE"/>
+|teams=[[Buccaneer]]s
+|colors={{color box|orange}} Orange <br />{{color box|blue}} Blue 
+|website= [http://www.balboasf.org/ Balboa High School]
+}}
+'''Balboa High School''', colloquially known as '''Bal''', is an American public [[high school]] located near the [[Excelsior District]] in the Mission Terrace neighborhood of [[San Francisco]], [[California]].<ref name="SFPROSPECTOR">
+ {{cite web| url=http://gispub02.sfgov.org/website/sfprospector/ed.asp?vis=nei,sch,&nvis=ncor,aer,ent,frn,red,opn,gar,sup,traf,zip,zon,mun,prt,&p=41&t=1&x1=&y1=&label=&city=&zipcode=&thetype=&minsize=0&maxsize=999999999999999&units=&selid=&report=&distance=&s=913&sic=&parcel=&address=&forsale=no&leaserate=&forlease=no&entzone=no&fedrenew=no&geotype=neighborhood&geo=Mission+Terrace&state=pan&cmd=pan&MinX=5999085.131463565&MinY=2090229.6886138343&MaxX=6002237.2717596255&MaxY=2092697.5305546343 | title=San Francisco's SFProspector| accessdate=2007-03-18| publisher=[[City and County of San Francisco]]}}
+</ref>
+Balboa serves grades [[ninth grade|nine]] through [[twelfth grade|twelve]] as part of the [[San Francisco Unified School District]] (SFUSD).
+
+Balboa is a [[comprehensive school]] located in an urban [[working class]] district.  It historically educates a greater proportion of the city's [[disadvantaged]] and [[minority group|minority]] students relative to other city high schools.  Mirroring conditions in the areas it serves, the school has a history marked by periods of violence, controversy, and low academic performance. 
+
+The school motto is "First on the Pacific".  The campus is the first and only [[historic landmark]] school in the district and the only one operating in the city.  Following the dismissal of the entire [[Faculty (university)#North American usage|faculty]], in 1999, it became the first school in [[Northern California]] to embrace and convert its curriculum to the concept of [[Small Learning Community|small learning communities]]. It was the first in California to start a school-based student health clinic.  In response to the [[AIDS pandemic]], it was the first school in California to distribute free [[condom]]s to students.  In the last decade, Balboa has experienced a turnaround and has improved its reputation and academic performance.<ref name="KNIGHT_BOOSTER">
+ {{cite news| last=Knight| first=Heather| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/03/12/BAGJA5I2RB147.DTL| title=Reluctant Balboa students now are boosters for their school / A less-favored S.F. high school suits them just fine|accessdate=2006-11-19|date=[[2004-03-12]]|work=[[San Francisco Chronicle]]| page=B-4}}
+</ref>
+
+==History==
+[[Image:Balboa-HS-SanFrancisco-1.jpg|thumb|left|Balboa High School, main classroom building|302px]]
+Balboa High School is named after [[16th century]] [[Spain|Spanish]] explorer [[Vasco Núñez de Balboa]]. Founded in 1928, campus construction was completed in 1931.
+
+In the [[Spring (season)|spring]] of 1952, students at Balboa invented a variation on a [[conga line]] [[dance]] which inspired bandleader and songwriter [[Ray Anthony]] to compose an accompanying hit [[song]] with the same name, "[[Bunny hop (dance)|The Bunny Hop]]".<ref name="BUNNYHOP">
+ {{Cite news|url=http://www.time.com/time/magazine/article/0,9171,817795,00.html|title=New Pop Records|accessdate=2007-01-20|date=[[1953-01-26]]|work=[[Time Magazine]]}}
+</ref>
+
+In 1986, Balboa converted its [[machine shop|metal shop]] into the first school-based [[clinic|health clinic]] in California: the '''Balboa Teen Health Center'''. The clinic provides basic [[medicine|medical]] and [[mental health]] services. The clinic has improved access and the health habits of a disadvantaged student population that might otherwise have gone without professional health assistance.<ref name="SFGATE_BTHC">
+ {{cite news|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/03/23/EDGU9GJFT21.DTL|title=Linking health and schools|accessdate=2006-11-19|date=[[2006-03-23]]|work=San Francisco Chronicle| page=B-8}}
+</ref>
+In an effort to prevent the spread of [[AIDS]], Balboa became the first school in California to distribute free [[condoms]] to students in May 1992.<ref name="CONDOM">
+ {{cite news| title=Condom Program Starts May 4 S.F.'s Balboa High will make them available with parental consent | work=[[San Francisco Chronicle]] |date=[[1992-04-08]]}}
+</ref>
+This program and the clinic's other [[family planning]] and [[sexually transmitted disease]] efforts have featured somewhat controversially in a number of research papers and debates.<ref name="HARTIGAN">
+ {{cite journal | author=Hartigan, JD| title=The disastrous results of condom distribution programs| journal=Couple to Couple League Family Foundations: 1999 Mar-Apr| year=1999| volume=25| issue=5| page=22-23| id=PMID 12295141| url=http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&list_uids=12295141&dopt=DocSum}}
+</ref><ref name="DARNEY">
+ {{cite journal | author=Darney, Philip D.; Callegari, Lisa S.; Swift, Allison; Atkinson, Elizabeth S.; Robert, Anne M.| title=Condom practices of urban teens using Norplant contraceptive implants, oral contraceptives, and condoms for contraception| journal=American Journal of Obstetrics and Gynecology| year=1999| volume=180| issue=4| page=929-937| id=PMID 10203661|url=http://www.reprohealth.ucsf.edu/articles/Condom%20Practices%20of%20Urban%20Teens.darney.pdf}}
+</ref><ref name="HORWITZ">
+ {{cite news| url=http://pqasb.pqarchiver.com/washingtonpost/access/74023929.html?dids=74023929:74023929&FMT=ABS&FMTS=ABS:FT&fmac=&date=May+17%2C+1992&author=Sari+Horwitz&desc=Condoms+in+District+Schools+Stir+Concern%2C+Skepticism+Series%3A+%3B|title=Condoms in District Schools Stir Concern, Skepticism Series| accessdate=2006-12-16|date=[[1992-05-17]]| last=Horwitz| first=Sari| coauthors=Goodstein, Laurie|work=[[Washington Post]]}}
+</ref>
+
+Balboa became embroiled in controversy over a [[hazing]] incident on [[February 22]], [[1994]] in which three [[JROTC]] [[cadet]]s were assaulted by other team members under orders from senior commanders. Ultimately one cadet was rendered partially deaf from a punctured [[eardrum]].<ref name="OLSZEWKI">
+ {{Cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1995/01/15/SC127.DTL|title=Battle Lines on Campus / Does Reserve Office Training teach high school students how to lead or how to follow?|accessdate=2006-12-13| date=[[1995-01-15]]| last=Olszewski| first=Lori| work=San Francisco Chronicle| page=SC-4}}
+</ref>
+The resulting litigation from this incident exposed a culture and history of JROTC hazing at Balboa and several other SFUSD schools extending into the 1980s.<ref name="BERLOWITZ">
+ {{cite journal | last=Berlowitz| first=Marvin J.| title=Racism and Conscription in the JROTC| journal=Peace Review: September 2000| year=2000| volume=12| issue=3| page=393-398}}
+</ref>
+This [[Jrotc#Controversy|controversy]] has been cited by JROTC opponents in efforts to eliminate the program at all SFUSD schools.<ref name="TUCKER">
+ {{cite news|url=http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/11/15/BAG2HMD46B1.DTL|title=SAN FRANCISCO / School board votes to dump JROTC program|accessdate=2006-12-13|date=[[2006-11-15]]|last=Tucker|first=Jill|work=San Francisco Chronicle|page=B-1}}
+</ref>
+
+===Academic resurgence===
+In 1996, frustrated by high turnover and low performance on the part of the educational staff, the SFUSD dismissed the entire [[Faculty (university)|faculty]] in a desperate move to turn the school around.<ref name="YEUNG">
+ {{Cite news|url=http://www.sfweekly.com/issues/2000-10-11/news/feature_1.html| title=Hard Lessons| accessdate=2006-11-19| date=[[2000-10-11]]| last=Yeung| first=Bernice| work=[[SF Weekly]]}}
+</ref>
+
+During the 1999-2000 academic year, Balboa shifted its entire academic program to the concept of [[Small Learning Communities]] (SLC). These communities would form a "school-within-a-school" in an effort to turn around past poor academic performance. To support the formation of SLCs, Balboa was the recipient of funding from the [[Bill & Melinda Gates Foundation]] in 2004 and 2005 through the [http://www.ecclf.org Every Child Can Learn Foundation] Secondary Redesign Initiative.<ref name="KNIGHT_BOOSTER"/>
+
+Frustrated by poor conditions such as insufficient [[textbook]]s and dilapidated facilities during the late 1990s, students at Balboa became members of the [[class-action]] [[lawsuit]] ''Williams v. California''.<ref name="VERSTEGEN">
+ {{Cite journal | last=Verstegen| first=Deborah A.| coauthors=Venegas, Kristan; Knoeppel, Robert| title=Savage Inequalities Revisited: Adequacy, Equity, and State High Court Decisions| journal=Educational Studies: A Journal of the American Education Studies Association| year=2006| volume=40| issue=1| page=60-76| url=http://www.leaonline.com/doi/abs/10.1207/s15326993es4001_6| publisher=Lawrence Erlbaum Associates Inc.}}
+</ref>
+Filed in 2000 by the [[American Civil Liberties Union]] (ACLU) against the [[State of California]], the suit alleged a failure to provide adequate facilities, textbooks, and teachers for the poorest schools in the state.<ref name="ACLU">
+ {{Cite press release | url=http://www.aclunc.org/news/press_releases/civil_rights_groups_expand_landmark_education_suit.shtml| title=Civil Rights Groups Expand Landmark Education Suit|accessdate=2007-01-11|publisher=ACLU of Northern California|year=2000}}
+</ref><ref name="YEUNG"/>
+The case was named after Eliezer Williams, a [[middle school]] student age 12 at the time, who would go on to graduate from Balboa.<ref name="HULL">
+ {{Cite news| url=http://justschools.gseis.ucla.edu/news/press_room/pdf/Williams.pdf| title=Teen's goal in sight for fixing schools| accessdate=2006-12-15| year=2004| last=Hull| first=Dana| date=[[2004-08-12]]| work=[[San Jose Mercury News]]}}
+</ref>
+The lawsuit was resolved in 2004, with the administration of Governor [[Arnold Schwarzenegger]] agreeing to provide [[United States dollar|US$]]138 million for instructional material, US$50 million for critical facility repairs at nearly 2,400 state schools, and to reimburse [[List of school districts in California|school districts]] for future repairs of deficient facilities. Estimates indicate California may be liable for up to US$1 billion in reimbursements over several years.<ref name="SANDERS">
+ {{Cite news| url=http://dwb.sacbee.com/content/news/education/story/10333606p-11253700c.html| title=Deal on schools lawsuit crafted| accessdate=2006-12-15| date=[[2004-08-11]]| last=Sanders| first=Jim| work=[[Sacramento Bee]]}}
+</ref>
+
+Building on an effort started in 2001 to increase scores by providing [[Child Nutrition Act|breakfast]] before tests, Balboa initiated a pilot program in 2005 called "Grab N Go".<ref name="APPLES">
+ {{Cite news |title=Balboa High offers breakfast to test takers |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2001/04/26/MN27018.DTL |work=San Francisco Chronicle |page=A-18 |date=[[2001-04-26]] |accessdate=2007-03-28}}
+</ref>
+A first for Northern California, the program has increased the number of disadvantaged students receiving breakfast. Using magnetic [[swipe card]]s, eligible students can pick up a pre-bagged meal as they enter the building and can eat the meal during the first ten minutes of their first class.<ref name="BREAKFAST">
+ {{Cite news |title=Breakfast in the classroom |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/06/06/EDGN8D38B01.DTL |work=San Francisco Chronicle|publisher=Hearst Communications |page=B-4 |date=[[2005-06-06]] |accessdate=2007-03-28}}
+</ref> 
+Previously, students would have to arrive up to 30 minutes before classes started and finish the meal in the [[cafeteria]]. Prior to 2001 participation in the free or reduced-fee meal program averaged under 40% of eligible enrollment.  Since the pilot program started, breakfast participation has averaged over 55%.<ref name="CDE"/>  Credited with increasing academic performance, the program was nominated by [[Nancy Pelosi]] for and subsequently received a Victory Against Hunger Award from the [http://hungercenter.org Congressional Hunger Center] in 2006.<ref name="HUNGER">
+ {{Cite press release| title=Pelosi Honors San Francisco Unified School District For Victory Against Hunger Award |publisher=[[US House of Representatives]] |date=[[2006-07-18]] |url=http://www.house.gov/pelosi/press/releases/July06/VictoryAgainstHunger.html |accessdate=2007-03-28}}
+</ref>
+Balboa was one of four schools nationwide to receive part of a grant from the [http://www.gotbreakfast.org got breakfast?] campaign in March 2007 to support the program.<ref name="GOTBREAKFAST">
+ {{Cite press release| title="got breakfast?" Foundation Announces New Grants for School District to Implement Classroom Breakfast |publisher=got breakfast? Foundation| date=[[2007-03-05]]| url=http://www.gotbreakfast.org/press/gb_Press_Release_3.5.07.pdf |accessdate=2007-03-28}}
+</ref>
+
+==Campus==
+[[Image:usgs balboahs.jpg|thumb|right|Aerial image of the entire Balboa High School campus|200px]]
+===Location===
+The school campus is located a few blocks away from major thoroughfares including [[Mission Street]].  The campus is close to [[Balboa Park, San Francisco, California|Balboa Park]], [[Balboa Park Station]], and [[Interstate 280 (California)|Interstate 280]].  [[San Francisco Municipal Railway]] transit [[List of San Francisco Municipal Railway lines|lines]] [[J Church|J]], [[K Ingleside|K]], [[M Ocean View|M]], 9X, 14, 14L, 14X, 26, 29, 43, 49, and 54 provide nearby service.
+
+The Balboa campus is part of a larger SFUSD academic complex that includes neighboring James Denman Middle School and the San Miguel Child Development Center.  Balboa is close to [[City College of San Francisco]], the private [[Lick-Wilmerding High School]], and [[Roman Catholic Archdiocese of San Francisco|Catholic]] [[Archbishop Riordan High School]]. Sited at the bottom of a valley, parts of the campus are built over a former river and lake.<ref name=WHITING2>
+ {{cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/07/07/CM1076792.DTL| title=
+Over the River / Unearthing the damp environs of the Cayuga River| last=Whiting |first=Sam |work=[[San Francisco Chronicle]]| accessdate=2007-04-16| date=[[2002-07-07]]}}</ref>
+
+===Landmark===
+Balboa is the only [[historic landmark]] school currently operating in San Francisco.  The campus became city historic landmark number 205 by [[proclamation]] signed on [[January 20]], [[1995]] by mayor [[Frank Jordan]].<ref name="KNIGHT_LANDMARK">
+ {{Cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/11/29/BAGCFA36951.DTL| title=Preserving S.F.'s beautiful schools| accessdate=2006-12-15| date=[[2004-11-29]]| last=Knight| first= Heather| work=San Francisco Chronicle| page=B-1}}
+</ref>
+Balboa is regarded as one of the better architected and visually engaging schools within the SFUSD.<ref name="WHITING">
+ {{Cite news|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/08/15/CMGP67ME4V1.DTL| title=Golden Oldies / When form equaled function: high school architecture from its prime| accessdate=2006-11-19| date=[[2004-08-15]]| last=Whiting| first=Sam| work=San Francisco Chronicle}}
+</ref>
+San Francisco architect John Reid Jr. designed the first campus buildings in the [[Spanish Colonial Revival Style architecture|Spanish Colonial Revival Style]] with a prominent center courtyard, mission style [[roof tile]]s, and [[Arcade (architecture)|arcades]].
+
+Although originally designed with a distinctive red mission tile roof, all campus buildings had their roofs replaced in 1998 with seismically stable materials.  An original roof tile is housed in Balboa's Hall of History.<ref name="DLM">
+ {{Cite web | url=http://www.dlm.com/balboa-hs.html | title=Deems Lewis McKinley - Balboa High School|accessdate=2006-11-19}}
+</ref>
+
+===Facilities===
+The main entrance along the eastern side of the campus [[Quadrangle (architecture)|quadrangle]] is dominated by the three-story main classroom building.  The library building to the north of the quad equals the height of the main building.  Distinct bridges on all three levels connect these two buildings. Vocational and cafeteria facilities form the eastern side of the campus quad.
+
+Arts and athletic facilities dominate the southern half of the campus.  Facilities along this side of the quad include the [[gym]]nasium, tennis courts, track, and football field.  Balboa's [[auditorium]], [[theater (structure)|theater]], and music rooms are also on the southern side of the campus quad. In 2004, the theater was refurbished with the help of charitable funding from theatrical producer [[Carole Shorenstein Hays]].<ref name="WINN">
+ {{Cite news|url=http://www.sfgate.com/cgi-bin/article.cgi?file=/c/a/2004/10/31/CMGRU94B771.DTL| title=Second Acts / San Francisco's Carole Shorenstein Hays has built a career on Broadway by taking calculated risks| accessdate=2006-11-19| date=[[2004-10-31]]| last=Winn| first=Steven| work=San Francisco Chronicle|page=CM-8}}
+</ref>
+
+In partnership with [[PG&E]], Balboa will be one of seven SFUSD schools to participate in the district's "Solar Schools" program. [[Photovoltaic module|Solar panel]]s will be installed on the roof to benefit from and raise awareness of alternative energy.<ref name="SSP8">
+ {{Cite press release |url=http://portal.sfusd.edu/data/news/pdf/11%2016%2006%20Media%20Advisory--Alvarado%20Solar%20Panel.pdf| title=PG&E and SFUSD Announce Solar Schools Partnership at 8 Schools| accessdate=2007-06-12| date=[[2006-11-15]]| last=Blythe| first=Gentle| work=SFUSD Office of Public Engagement}}
+</ref>
+
+==Demographics==
+[[Image:Balboa HS arcade1.jpg|thumb|left|Gymnasium arcade|135px]]
+Balboa historically has a school population of primarily ethnic minorities. Since 1993, the [[white people|White]] population at Balboa has consistently totaled less than 7% of yearly enrollment. Up to 2003, the predominant ethnic groups at the school alternated between [[Hispanic]] (24-30%) and [[African American]] (19-24%). During this time [[Filipino (people)|Filipino]] students also figured prominently in the ethnic distribution (19-30%) briefly becoming the majority ethnic group between 1997 and 1999. [[Indigenous peoples of the Americas|American Indians]] have always comprised less than 1%, and [[Pacific Islander]]s less than 3% of the school population.<ref name="CDE"/>
+
+Starting in 2004, the school's increasing academic stature combined with citywide demographic changes attributable to [[gentrification]] radically changed the student demographic at Balboa.<ref name="TUCKER2">
+ {{Cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/08/16/MNGE2KJB5K1.DTL | title=STUDENT SUCCESSES DEFY URBAN TRENDS / SAN FRANCISCO: Improved performance has put once-struggling Balboa High in great demand | accessdate=2007-04-18 |last=Tucker |first=Jill | work=San Francisco Chronicle |date=[[2006-08-16]]| page=A-10}}
+</ref><ref name="FULBRIGHT">
+ {{Cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/04/09/MNGPBP56A51.DTL |title=
+S.F. moves to stem African American exodus / Critics say effort to reverse longtime trend may be too late |last=Fulbright |first=Leslie |date=[[2007-04-09]] |accessdate=2007-04-10 |work=San Francisco Chronicle | page=A-1}}
+</ref>
+[[Asian people|Asian]] students became the predominant ethnic group (34-39%) previously accounting for less than 20% of the school population. Hispanic and Filipino students followed with declining majorities. The largest decline was in the number of African American students, accounting for only 11.4% of the school population through the 2006-2007 school year.<ref name="CDE"/><ref name="KNIGHT_BOOSTER"/>
+
+Coinciding with the academic turmoil of the late 1990s, the dropout rate at Balboa experienced a spike of over 230 students (16.8%) leaving in 1998. The year 2000 saw a sharp decline in the dropout rate, with no students leaving that year. The rate has averaged 2-6% since then.<ref name="CDE"/>
+
+The demographic composition of [[Professional certification|certificated]] [[Faculty (university)#North American usage|faculty]] over the last decade has consisted primarily of White teachers (32-54%) with approximately similar distributions of staff reporting Asian (6-15%), Filipino (9-19%), or Hispanic (11-19%) ethnicity.  African American staff accounted for the remaining 8-11%.  The number of staff over the last decade has averaged between 55 and 91 members.<ref name="CDE"/>
+
+==Curriculum==
+[[Image:balboa hs library1.jpg|thumb|right|Library building entrance|160px]]
+<!--==Admissions==-->
+Balboa participates in the SFUSD's admissions lottery in which students from the entire city can indicate a preference to attend any of the district schools regardless of geographical location. Based on this preference and certain socioeconomic factors, students are then assigned to schools per district policies and goals.
+
+===Small learning communities===
+Academic instruction at Balboa High School is centered on the concept of SLCs. Each [[communities|community]] has a thematic focus that encourages individualized learning, an awareness of the future, and personal responsibility.<ref name="SCHARFENBERG">
+ {{Cite news| url=http://www.berkeleydaily.org/article.cfm?archiveDate=12-20-01&storyID=9088| title=A peek at small schools across the bay| accessdate=2006-11-19| date=[[2001-12-20]]| last=Scharfenberg| first=David| work=[[Berkeley Daily Planet]]}}
+</ref>
+Teachers and students work in a shared thematic collaboration to integrate lessons from their classes. The same sets of students are present in each of the classes, fostering the learning community. Some teachers will follow their students into successive grade levels to enhance continuity.<ref name="REDESIGN">
+ {{Cite web| url=http://www.ecclf.org/PDF/redesign.pdf| title=Redesigning Secondary Education (Grades 6-12) in San Francisco| accessdate=2006-11-19| publisher=[[SFUSD]]| format=PDF}}
+</ref>
+
+In their first two years, communities of approximately 60-120 students experience focused core literary and mathematics instruction, with emphasis on community citizenship, and an exploration of [[career]] paths. Academies or pathways are chosen by students at the end of the 10th grade for the second half of their school career with the goal of preparation for career and college. A few exceptions are noted below.
+
+Every community or academy has several goals in common.   Students are educated in preparation for their future career or post-secondary education.  All communities provide the [[University of California]] "A-G college prep" coursework necessary for university admissions eligibility.<ref name="A-G">
+ {{Cite web| url=https://doorways.ucop.edu/list/|title=University of California a-g Course Lists: Balboa High School| accessdate=2007-08-21| year=2006-2007}}
+</ref> All 11th and 12th grade academies have a common goal of combining coursework with external experiences through field trips, internships, or a mentorship with local business entities or the community at large.  These external events are used to raise career awareness.  Students in all communities will develop a personal [[Career portfolio|portfolio]] or [[résumé]]. Students will develop skills in [[research]] and [[presentation]] with the goal of developing [[collaboration|collaborative]] and social skills.
+
+*'''10th Grade E/F''': Engages students in their academic future, preparing them to make decisions about the direction of their future high school career. Explores core subjects including [[Literature by country|ethnic literature]], [[biology]], and [[world history|modern world history]].<ref name="SLC-10th-EF">
+ {{Cite web| url=http://www.sfusd.k12.ca.us/schwww/sch439/academcis/slc/10thgradeef/10thgradeef.htm| title=Lifelong Learners Academy| accessdate=2006-11-19}}
+</ref>
+
+<span id="AoIT"></span>
+*'''[[Academy of Information Technology]] (AoIT)''': A two-year academy which develops digital technology skills.  Students participate in an [[mentorship|electronic mentorship]] program with professionals in the technology industry and develop a digital portfolio.<ref name="AOIT">
+  {{Cite web| url=http://sfpta.org/Balboa/Academics/aoit.html | title=Balboa AoIT |accessdate=2007-06-29}}
+</ref> In collaboration with the Pearson Foundation, AoIT students have developed [[digital storytelling]] exercises to learn about historical subjects such as [[abolitionism]].<ref name="PEARSON">
+ {{Cite web| url=http://www.pearsonfoundation-naf.org/DS/SFUSD/Balboa/AOIT_G11P2-4_Fall06/ |title=Abolitionism - Balboa High School| accessdate=2007-06-29}}
+</ref>
+
+<span id="Action_Academy"></span>
+*'''Action''': Students may choose to enter the Action academy starting in the 10th grade.  Students receive tailored support and instruction to develop an enabling vision of their future.  Classwork is combined with community activities to develop social awareness.<ref name="ACTION"> 
+ {{Cite web| url=http://www.sfusd.k12.ca.us/schwww/sch439/academcis/slc/action/action.htm| title=Action Academy| accessdate=2007-06-29}}
+</ref>
+
+<span id="Communication_Arts"></span>
+*'''Communication Arts (CAST)''': CAST is one of the more popular pathways at Balboa.<ref name="SCHARFENBERG"/> CAST approaches courses in history, literature, and the sciences with a focus on [[communication]] through [[humanities|art]], [[mass media|media]], and technology.  All CAST students participate in a community arts experience.<ref name="CAST">
+ {{Cite web|url=http://balboasf.org/cast.htm|title=CAST Academy|accessdate=2006-12-16}}
+</ref>
+
+<span id="International_Pathway"></span>
+*'''International Pathway''' (formerly '''World Languages'''): This program has a curriculum with an [[international]] and [[multiculturalism|multi-cultural]] focus. Courses focus on ethnic literature, [[United States history|American history]], and [[American literature]]. Students participate in projects and write papers to develop [[interpersonal skills]] ([[public speaking]] and [[conflict resolution]]), and an awareness of [[human geography]].<ref name="International">
+ {{Cite web| url=http://www.sfusd.edu/schwww/sch439/academcis/slc/international/international.htm| title=International Pathway| accessdate=2006-11-26}}
+</ref> The International Pathway is available to students for all four years of their high school career.
+
+<span id="Law_Academy"></span>
+*'''[[Law]]''': The Law Academy prepares 11th and 12th grade students for college and career with a focus on [[justice]]. By encouraging students to challenge and reflect on their coursework in American history, American literature, and [[Pre-law]]; students develop an awareness of community and [[interdependence]]. Students will build [[analytical jurisprudence|analytical]] and problem solving skills by identifying a need or issue in a community and addressing it.<ref name="SLC-Law">
+ {{Cite web| url=http://www.sfusd.k12.ca.us/schwww/sch439/academcis/slc/law/law.htm| title=Law Academy| accessdate=2006-11-19}}
+</ref>
+
+<span id="WALC"></span>
+*'''[http://www.walcsf.net/whoweare.html Wilderness Arts and Literacy Collaborative (WALC)]''': A co-curricular academic pathway started in 1998 with the goal of using education in and of the [[natural environment|environment]] to provide an alternative means to learning science, art, technology, math, and literacy. The [[Sierra Club]] provided an initial grant as part of a private / public funding initiative to help start the WALC.<ref name="SIERRA_CLUB">
+ {{cite journal | last=Snell| first=Marilyn Berlin| title=Life Study: How Nature Nurtures Students at an Inner-City High School| journal=Sierra Magazine, Nov-December 2003| year=2003| volume=88| issue=6| page=36-43| url=http://www.sierraclub.org/sierra/200311/balboa.asp}}</ref> Currently sponsored by the [[Tides Center]], students combine wilderness experiences in environmental citizenship such as [[hiking]], [[restoration ecology|habitat restoration]], [[recycling]], or [[gardening]] with a rigorous classroom curriculum. WALC is offered to 11th and 12th grade students.<ref name="WALC-1">
+ {{Cite web|url=http://www.sfusd.k12.ca.us/schwww/sch439/student/walc/walc.html|title=WALC|accessdate=2006-11-19|publisher=SFUSD|year=2000}}
+</ref>
+
+===Advanced Placement===
+Balboa began offering two [[Advanced Placement]] (AP) classes in 1990 which were briefly discontinued from 1996 to 1998.  Since 1998, the number has grown to the current offering of ten AP courses in [[AP Biology|Biology]], [[AP Calculus|Calculus AB]], [[AP Computer Science AB|Computer Science AB]], [[AP Chinese Language and Culture|Chinese]], [[AP English Literature and Composition|English Literature]], [[AP Physics B|Physics]], [[AP Spanish Language|Spanish]], [[AP Statistics|Statistics]], and [[AP World History|World History]]. Honors classes are also provided for students wishing to learn at an accelerated pace. The administration has placed an emphasis on attracting and retaining students in AP courses from underrepresented ethnic groups. For example, the AP Spanish class is used to introduce Hispanic students to other AP classes. The school has a unique policy of not allowing students to drop out of an AP course without the approval of the [[Principal (school)|principal]].  The goal of this policy is to identify struggling AP students and to provide additional resources and support to allow them to complete the course.<ref name="SCHEVITZ">
+ {{Cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/01/30/BAGFOB2SRK12.DTL|title=SAN FRANCISCO / Balboa pushes college-prep curriculum / High school urges students with potential to enroll in Advanced Placement courses| accessdate=2006-12-15| date=[[2005-01-30]]| last=Schevitz| first=Tanya|work=San Francisco Chronicle |page=A-17}}
+</ref>
+
+==Extracurricular activities==
+===Athletics===
+The athletic programs at Balboa participate in the [http://www.cifsf.org/ San Francisco Section] of the [[California Interscholastic Federation]].  Female sports teams are fielded in [[badminton]], [[basketball]], [[Cross country running|cross country]], [[fencing]], [[golf]], [[soccer]], [[softball]], [[tennis]], [[Athletics (track and field)|track]], and [[volleyball]]. Eleven male sports teams are fielded in [[baseball]], basketball, cross country, fencing, [[American football|football]], golf, soccer, tennis, track, volleyball, and [[Greco-Roman wrestling|wrestling]].
+
+The football team achieved a 111-39-5 record between 1962 and 1977, including two wins of the annual city [[Turkey Bowl|Turkey Day]] title game in 1967 and 1968. From 1967 to 1984, the team won section or season titles 11 times.<ref name="CHAPIN">
+ {{Cite news | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/05/04/BAGFICJKFM1.DTL | title=Archie Chagonjian -- Balboa coach with 'a brilliant mind' for football | date=[[2005-05-04]] | accessdate=2007-05-18 | last=Chapin | first=Dwight | work=[[San Francisco Chronicle]]}}
+</ref>
+Beginning in 1984 the football program at Balboa went into decline, failing to make it to the Turkey Day playoff until 2004.<ref name="SIMMONS">
+ {{Cite news | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/11/24/SPG60A0LQF1.DTL | title=TURKEY BOWL / Balboa vs. Lowell / Coach restoring Bucs' proud tradition / Balboa back in title game after 20-year hiatus | last=Simmons | first=Rusty | date=[[2004-11-24]] | work=[[San Francisco Chronicle]]}}
+</ref>
+They lost to [[Lowell High School (San Francisco)|Lowell]] in 2004 but made it back again in 2005, with that year's [[Samoans|Samoan]] team members notably performing a [[haka]] dance before going on to lose to [[Abraham Lincoln High School (San Francisco)|Lincoln High]].<ref name="LOTHIAN">
+ {{Cite news | url=http://edinburghnews.scotsman.com/sport.cfm?id=2301912005 | title=Hacked off by duty to indulge dancers | last=Lothian | first=Bill | date=[[2005-11-25]] | work=[[Edinburgh Evening News]] | publisher=[[Johnston Press]] | accessdate=2007-05-18}}</ref><ref name="SIMMONS2">
+ {{Cite news | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2005/11/24/SPG1EFTMFE1.DTL | title=Balboa has chants for greatness / Buccaneers are physical and lyrical | last=Simmons | first=Rusty | date=[[2005-11-24]] | work=[[San Francisco Chronicle]] | accessdate=2007-05-18}}
+</ref>
+
+Balboa also has made a come back in baseball making it to the Semi-Finals under their new coach in 2007. They had a 13-2 record going into the game against Lowell and barely lost. The Balboa team had many star players, including the player of the year.
+
+===Organizations===
+There are currently over 40 extra-curricular clubs or organizations that students can participate in. 
+
+{{col-begin}}
+{{col-4}}
+*100 Bucs Society
+*Adventure 
+*Automotive & Technology
+*Best in Being Living Examples (BIBLE)
+*Black Student Union
+*[[Breakdance|Break-dancing]]
+*[[Bridge]]
+*[[Chess]]
+*[[Chinese American|Chinese]]
+*Club [[wiktionary:mabuhay|Mabuhay]] (Filipino)
+*[[Computer Art]]
+{{col-4}}
+*Computer Repair
+*Dance
+*[[Drum and bugle corps (modern)|Drum Corps]]: see [[#JROTC|JROTC]]
+*[[French culture|French]]
+*[[Gay-Straight Alliance]]
+*[[Guitar]]
+*'''[[#Army JROTC|JROTC]]'''
+*[[Korean American|Korean]]
+*[[Latino]]
+*'''[[#Mock Trial|Mock Trial]]'''
+*[[Film|Movie]]
+{{col-4}}
+*Peer Resources
+*[[Photography]]
+*[[Poetry]]
+*[[Political science|Political Sciences]]
+*[[Polynesian culture|Polynesian]]
+*[[Random act of kindness|Random Acts of Kindness]]
+*[[Red Cross]] Association
+*ROOTS: see [[#United Playaz|United Playaz]]
+*SASSY (Girls' Club)
+*School to Career
+*[[Science]]
+{{col-4}}
+*[[Spoken Word]]/[[Hip-Hop]]
+*Student Activities Association (the SA)
+*[[Student newspaper|Student Newspaper]] and [[Yearbook]]
+*[[Tango (dance)|Tango]]
+*'''[[#United Playaz|United Playaz]]'''
+*[[Urban Debate League]]
+*[[Vietnamese American|Vietnamese]]
+*[[Yoga]]
+{{col-end}}
+
+<span id="Army_JROTC"></span>
+=====Army Junior Reserve Officers' Training Corps=====
+[[Image:BalbopHSJROTCSSI.jpg|left|thumb|Balboa's JROTC insignia|120px]]
+
+Balboa has six [[JROTC]] companies (classes) with five of them meeting each day, five days a week. Balboa has a before and after school class from 7 a.m. to 8 a.m. and 3:30 p.m. to 4:30 pm, respectively everyday. The Balboa Battalion's special teams and drill teams practice before and after school. Balboa has a history in several award winning teams that have consistently placed in citywide competitions in the San Francisco JROTC Brigade. Among these are the Girls' Drill Team, Boys' Flag Team, Color Guard, Drill Platoon, Squad Drill Team and Drum Corps. Balboa constantly participates in physical activity challenges in its Raiders Team, individual drill-down competitions, [[guidon]] flag drill and other drilling and marching exhibitions. Balboa's special teams participate and perform in many parades where it is well known and award winning such as the annual San Francisco [[Veterans Day]] Parade, the Excelsior District Festival and the annual 91st or spring drill competition in the [[Presidio of San Francisco|Presidio]].
+
+The Balboa Battalion and its cadet corps of approximately 225 cadets volunteer extensively in different service learning projects and community service projects coordinated by the battalion staff of student officers and the army instructors. The battalion donates canned food items and toys to annual holiday food and toy drives where it has gained notoriety among the Student Association for amassing large amounts of food for the drive; because of this, the Balboa Battalion sponsors and puts together the food drive each year at Balboa. Balboa's JROTC participates in the city-wide beach clean up annually, as well as cleaning up the school campus on a regular basis several times a month. The Balboa Battalion is a familiar face in each [[Earth Day]] event at Balboa, where cadets volunteer and clean the school. The JROTC program participates in service learning programs such as training in the [[CERT|Neighborhood Emergency Response Team]] to respond to any emergency event that may happen within the city or the school to keep fellow cadets and students alike of Balboa High School safe.
+
+<span id="Mock_Trial"></span>
+
+=====Mock Trial=====
+[[Image:Balboa Mock Trial team 0506.JPG|thumb|250px|2005-2006 City and County Champion Mock Trial Team]]
+
+The [[Mock Trial]] team is sponsored by a local law firm.<ref name="HELLER_EHRMAN">
+ {{Cite news|url=http://www.hellerehrman.com/en/news/media/media_3324.html|title=Balboa and Mission High Schools Compete in Mock Trial: BASF Members Coach Teams| accessdate=2006-11-26| date=[[2006-03-06]]| work=The Recorder}}
+</ref>
+The team practices from September to February in preparation for [[City and County of San Francisco]] competitions held the last two weeks of February. The champion from this competition advances to the state competition in March. The state champion will then move on to the national competition in May, representing the state of California.
+
+In 2005, the Balboa Mock Trial team was unable to move from the first round to the semi-finals.
+
+In 2006, it was crowned the champion of the City and County of San Francisco. Despite a 0-2 record in the first rounds, technicalities (a team’s win/loss record and point percentages) allowed Balboa to move on to the semi-finals. It was then that the Balboa team defeated [[SOTA|The School of the Arts]] after losing to SOTA previously in the first round. The team then went on to defeat [[Mission High School (San Francisco)|Mission High School]] in the finals. As the winning team for San Francisco, Balboa went on to represent the county at the state competitions in [[Riverside, California]].<ref name="MOCK_FINALS">
+ {{Cite web|url=http://www.crf-usa.org/law_government/state/mt_county_winners06.pdf| title=2006 California Mock Trial Finals County Winners|accessdate=2007-01-03| publisher=Constitutional Rights Foundation| year=2006}}
+</ref>
+In commemoration of this achievement, San Francisco District 11 Supervisor [[Gerardo Sandoval]] awarded the Balboa Mock Trial team the title of "District 11 Local Heroes."<ref name="SANDOVAL">
+ {{Cite web|url=http://www.ci.sf.ca.us/site/bdsupvrs_page.asp?id=51332| title=Certificates of Honor 2006| accessdate=2007-01-03| publisher=City and County of San Francisco |year=2006}}
+</ref>
+
+In 2007, Balboa lost to Lowell High School, yet defeated Mission High School to advance to the semi-final competitions. In the semi-finals, Balboa lost to the School of the Arts who would then lose to Lowell High School in the city/county championships. Balboa's record for 2007 was 1-2.
+
+<span id="United_Playaz"></span>
+
+=====United Playaz=====
+[[Image:united playaz logo.jpg|thumb|left|United Playaz Logo]] <!-- FAIR USE of united_playaz_logo.jpg: see image description page at http://en.wikipedia.org/wiki/Image:united_playaz_logo.jpg for rationale -->
+United Playaz is an anti-violence and [[gang]] prevention program that seeks to stop the seeds of school violence through collaborative meetings and activities. The program was started in 1994 by former Balboa student turned gang prevention counselor, Rudy Corpuz, in response to racially motivated gang violence between Balboa students. The group is best known for fostering meetings and discussions between the school administration, community, and various adversarial student factions. These efforts were credited with turning the security situation at Balboa around by 1997.<ref name="MARTIN">
+ {{Cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1997/05/12/MN65732.DTL| title=A Jump Off the Streets / S.F.'s United Playaz gives teens a ticket to a life without gangs| accessdate=2006-11-19| year=[[1997-05-12]]| last=Martin| first=Glen| work=San Francisco Chronicle |page=A-13}}
+</ref>
+The "Playaz" have hosted sports programs, [[talent show]]s, and [[field trip]]s to dissuade at-risk youth from gangs. They provide ways for students to openly discuss and express opinions on issues and tensions which unchecked lead to violence.<ref name="CHOW">
+ {{Cite news | url=http://news.asianweek.com/news/view_article.html?article_id=d11f0463a83962c41645a14e404066cc | title=Fighting Violence with Good Vibes | accessdate=2006-11-19| year=2004 | last=Chow | first=May| date=[[2004-04-16]] | work=[[Asian Week]]}}
+</ref>
+United Playaz was the subject of an episode on television news magazine [[California Connected]] in June 2003.<ref name="BLUM">
+ {{Cite web| url=http://www.californiaconnected.org/tv/archives/104|title=United Playaz|accessdate=2006-11-19| year=2003| author=Blum, Steven| work=June 19, 2003 : California Connected}}
+</ref>
+
+The United Playaz collaborates with the ROOTS program, a program for students whose parents or family members are [[incarceration|incarcerated]]. ROOTS focuses on interdependence with their peers including the "Playaz."
+
+==Notable people==
+<!-- KEEP THESE LISTS IN ALPHABETICAL ORDER -->
+*'''Alumni'''
+**William "Billy" Catalano, 1952:  [[Trumpeter]] for [[Stan Kenton|Stan Kenton's]] [[jazz]] [[orchestra]] .<ref name="JENKINS">
+ {{Cite web|url=http://www.jazzhouse.org/gone/lastpost.php3?edit=1139255746|title=San Francisco trumpeter and educator|accessdate=2006-11-19|year=2005|author=Jenkins, Todd S.}}
+</ref>
+**[[Gary DeLong]], 1958: Former [[soccer]] [[goalkeeper]] for the [[United States men's national soccer team]].
+**[[Juan Eichelberger]], 1971: Former professional [[MLB]] baseball player.<ref name="BCUBE_EICHELBERGER">
+ {{Cite web|url=http://www.thebaseballcube.com/players/E/Juan-Eichelberger.shtml |title=Juan Eichelberger Baseball Statistics |work=TheBaseballCube.com |accessdate=2007-04-22}}
+</ref>
+**[[Solofa Fatu]], 1984: Professional [[World Wrestling Entertainment|WWE]] wrestler best known as '''Rikishi'''.<ref name="VARSALLONE">
+ {{Cite web| url=http://findarticles.com/p/articles/mi_m0FCO/is_2_4/ai_88761524| title=Livin' large: there's no ifs, ands, or butts about it, rump-shaking Rikishi is the king of the WWE super-heavyweights - Special section: the heavyweight - Interview| accessdate=2007-01-11| year=2002| author=Varsallone, Jim| work=Wrestling Digest: August, 2002}}
+</ref>
+**Eddie Flores Jr, 1966: Co-Founder and [[CEO]] of the [[theme restaurant]] chain [[L&L Hawaiian Barbecue]].<ref name="HOLBROOK">
+ {{Cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2004/10/13/FDGK295AOB1.DTL| title=Aloha, Spam and kalua pig| accessdate=2006-11-19| last=Holbrook| first=Stett| date=[[2004-10-13]]| work=San Francisco Chronicle |page=F-1}}
+</ref>
+**[[Jerry Garcia]], dropped out in 1959: Lead guitarist and vocalist for the [[Grateful Dead]].<ref name="MCNALLY">
+ {{cite book | title=A Long Strange Trip: The Inside History of the Grateful Dead| last=Mcnally| first=Dennis| date=2002| pages=15| publisher=Broadway| id=ISBN 0-7679-1185-7}}
+</ref>
+**[[Cindy Herron]]: Singer of the [[Contemporary R&B]] quartet [[En Vogue]].  Actress best known for her role in ''[[Juice (film)|Juice]]''.
+**[[Philip Lamantia]], dropped out in 1943: [[Surrealism|Surrealist]] [[poet]] of the [[Beat Generation]].<ref name="HAMLIN">
+ {{Cite news| url=http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2005/03/11/BAG4MBNRMF1.DTL| title=Philip Lamantia -- S.F. Surrealist poet / Visionary verse of literary prodigy influenced Beats| accessdate=2007-01-03| date=[[2005-03-11]]| last=Hamlin| first=Jesse| work=San Francisco Chronicle |page=B-7}}
+</ref>
+**Jim McLennan, 1950: [[NHRA]] Hall of Fame inductee, [[drag racing]] pioneer.<ref name="MCLENNAN">
+ {{Cite news | url=http://findarticles.com/p/articles/mi_qn4176/is_20070210/ai_n18719447 | title=Drag-racing pioneer Jim McLennan dies | date=[[2007-02-10]] | accessdate=2007-05-19 | work=[[The Oakland Tribune]] | publisher=[[ANG Newspapers]]}}
+</ref>
+**[[Mike Norris (baseball player)|Michael Norris]], 1972: Former professional MLB baseball player.<ref name="BCUBE_NORRIS">
+ {{Cite web |url=http://www.thebaseballcube.com/players/N/Mike-Norris.shtml |title=Mike Norris Baseball Statistics |work=TheBaseballCube.com |accessdate=2007-04-22}} 
+</ref><ref name="YEARBOOK_NORRIS">
+ {{Cite web |url=http://kipbrockman.com/high_school/balboa/bal_72_73/page/image53.html |title=San Francisco Balboa High School Grad Pics Online 1972 1973 |accessdate=2007-04-22}}
+</ref>
+**[[Winters Patterson]], 1996: noted for scoring the most points in a single Northern California basketball game with a 82-point performance against [[Skyline High School (Oakland, California)|Skyline High School]] in November 1995. <ref>
+ {{Cite news|url=http://www.sfgate.com/cgi-bin/article.cgi?f=/e/a/1997/01/08/NEWS2072.dtl| title=Young S.F. basketball star dies after play: Record-setting Balboa High guard had enlarged heart| date=[[1997-01-08]]| last=Harris| first=Merv| work=San Francisco Chronicle| accessdate=2008-01-01}}
+</ref>
+**[[Richard Quitevis]], 1987: [[Turntablist]] best known as '''DJ QBert'''.<ref name="CHONIN">
+ {{Cite news| url=http://www.sfgate.com/cgi-bin/article.cgi?file=/chronicle/archive/1998/11/01/PK84287.DTL| title=A Dilly of a Career / The Bay Area's Invisibl Skratch Piklz have become world stars of turntablism| accessdate=2007-01-11| date=[[1998-11-01]]| last=Chonin| first=Neva| work=San Francisco Chronicle |page=PK-36}}
+</ref><ref name="DELEON">
+ {{Cite web|url=http://www.thudrumble.com/images/headlines/RuckusMagazineArticle.pdf|title="Get on your P's and Q's : Ten Things You Don't Know About QBERT"|accessdate=2007-01-11|publisher=www.ruckusmag.com|year=2005|author=de Leon, Krishtine|work=Ruckus - Bay Area Rap Culture: July/August 2005}}
+</ref>
+**[[Brandy Reed]], 1994: Former [[WNBA]] professional basketball player.<ref name="BRANDY_REED">
+ {{Cite news | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/e/a/1995/01/04/SPORTS7453.dtl | title=Ex-Balboa star Reed is out for year | work=[[San Francisco Chronicle]] | page=B- | date=[[1995-01-04]] | accessdate=2007-05-13}}
+</ref>
+**[[Calvin E. Simmons]], 1972: The first African-American [[conducting|conductor]] of a major U.S. [[symphony orchestra]].  Former assistant conductor of the [[Los Angeles Philharmonic]] and musical director of the Oakland Symphony Orchestra.<ref name="Calvin_Simmons">
+ {{Cite news | title=Unusual Young Musician Will Conduct ''[[La Traviata]]'' Tonight | work=[[The Fresno Bee|The Fresno Bee Republican]] | accessdate=2007-08-21 | date=[[1974-03-01]] | first=David |last=Hale}}
+</ref>
+**Raymond Taft, 1937: [[Masters swimming]] coach and medalist, inducted as a [[International Swimming Hall of Fame]] honoree.<ref name="TAFT-SIMON">
+ {{Cite news | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2002/07/23/BA134619.DTL | title=Raymond Taft -- nationally renowned swimmer and coach | last=Simon | first=Mark | work=San Francisco Chronicle | date=[[2002-07-23]] | accessdate=2007-09-26}}</ref><ref name="USMS">
+ {{Cite web | url=http://www.usms.org/hist/sto/index.php?ID=3 | title=Stories About USMS Swimmers | accessdate=2007-09-26}}</ref><ref name="ISHOF">
+ {{Cite web | url=http://www.ishof.org/honorees/96/96rtaft.html | title=RAY TAFT (USA) - 1996 Honor Masters Swimmer | accessdate=2007-09-26}}
+</ref>
+**[[George Varoff]], 1932: Record setting [[pole vaulter]].<ref name="KAESE">
+ {{Cite book | last = Kaese | first = Harold | title = Famous American Athletes of Today |
+| url = [http://books.google.com/books?id=D9KWpkj6XLIC&printsec=frontcover] | accessdate = 2007-10-23 | series = 6th | year = 1977 | publisher = Ayer Publishing | language=English | isbn = 0836922336| pages = 283-287 | chapter = IX  }}
+</ref>
+**Derrick Ward, 1973: Customized car artist and founder of the Low Creations Car Club.<ref name="GUTHRIE">
+ {{Cite news |url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/04/20/BAGFRPCBAC1.DTL |last=Guthrie |first=Julian |accessdate=2007-04-20 |date=[[2007-04-20]] |title=Derrick Ward -- much loved car customizer |work=San Francisco Chronicle |page=B-11}}
+</ref>
+**Eliezer Williams, 2005: Lead plaintiff in the class-action lawsuit ''Williams v. California (2000)''.<ref name="HULL"/>
+**[[Willie Wise]], 1965: Former professional [[basketball]] player with the [[Denver Nuggets]] and [[Seattle SuperSonics]]. Draft pick of the [[San Francisco Warriors]].<ref name="WISE">
+ {{Cite web|url=http://www.basketball-reference.com/players/w/wisewi01.html|title=Willie Wise Statistics - Basketball-Reference.com|accessdate=2007-01-04}}
+</ref>
+<!-- KEEP THESE LISTS IN ALPHABETICAL ORDER -->
+
+*'''Staff'''
+**Josephine E. Cole, 1942-?: The SFUSD's first African-American teacher.  Namesake of the library at City College of San Francisco, South East Campus.<ref name="CITYCURRENTS">
+ {{Cite web| url=http://www.ccsf.edu/Offices/Public_Information/City_Currents_Arch/2006/Currents051506.pdf| title=Obituary - Josephine E. Cole passes away| accessdate=2006-11-26| publisher=May 15-21, 2006 - City Currents|year=2006|format=PDF}}
+</ref><ref name="JCOLE">
+ {{Cite news| url=http://ark.cdlib.org/ark:/13030/hb6w1007t1/|title=Josephine Cole -- First African American High School Teacher -- Balboa High School| accessdate=2006-11-26| date=[[1948-02-28]]| work=[[San Francisco News-Call Bulletin]]|publisher=[[Bancroft Library]]}}
+</ref>
+**[[Lloyd Leith]], 1931-1936: [[Basketball Hall of Fame]] coach and referee.
+**George White, 1966-1992: [[Hamburg Blue Devils]] head coach 1994-1996. California Coaches Hall of Fame inductee.<ref name="GEORGE_WHITE">
+ {{Cite news | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1996/09/21/SP73718.DTL | title=FORMER PREP COACH WHITE DIES | work=[[San Francisco Chronicle]] | page=B-3 | date=[[1996-09-21]] | accessdate=2007-05-13 }}
+</ref>
+<!-- KEEP THESE LISTS IN ALPHABETICAL ORDER -->
+
+==See also==
+*[[High schools in California#San Francisco County|San Francisco County high schools]]
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{portal|San Francisco Bay Area|GoldenGateBridge-001.jpg}}
+{{portal|California|WPCF.svg}}
+*'''Information'''
+**[http://balboasf.org/ Balboa High School Online, a student and school-run official website]
+**[http://portal.sfusd.edu/template/default.cfm?page=hs.balboa Balboa High School - SFUSD portal]
+**[http://sfpta.org/Balboa/index.html Balboa High School - California State PTA]
+**[http://www.decentschools.org Decent Schools For California - Williams v. California]
+*'''Data'''
+**[http://data1.cde.ca.gov/dataquest/DQReports.asp?CDSType=S&CDSCode=38684783830288 California Department of Education - DataQuest reports on Balboa HS]
+**[http://www.greatschools.net/modperl/browse_school/ca/6340 Great Schools profile on Balboa HS]
+*'''Alumni and history'''
+**[http://www.balbucs.net/ Balboa High School Alumni Association]
+**[http://unknownprogrammer.home.comcast.net/balboa/ Balboa Photos and Yearbook Pictures (1959-1975)]
+**[http://www.geocities.com/balboa_high_school/ Balboa High School: The Sixties]
+**[http://www.sfgenealogy.com/sf/schools/bahs.htm San Francisco Genealogy - Balboa Students, Faculty, Alumni, History]
+{{coord|37.721828|-122.441071|format=dms|display=title}}
+
+[[Category:Landmarks in San Francisco]]
+[[Category:High schools in San Francisco]]
+[[Category:High schools in California]]
+[[Category:Educational institutions established in 1928]]

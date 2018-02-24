@@ -1,0 +1,371 @@
+A green circle.
+
+
+
+In Euclidean geometry, a circle is the set of all points in a plane at a fixed distance, called the radius, from a given point, the ''center''.
+
+Circles are simple closed curves which divide the plane into an interior and exterior.The ''circumference'' of a circle is the perimeter of the circle, and the interior of the circle is called a ''disk''.An ''arc'' is any continuous portion of a circle. 
+
+A circle is a special ellipse in which the two foci coincide (i.e., are the same point).Circles are conic sections attained when a right circular cone is intersected with a plane perpendicular to the axis of the cone.
+
+Circle illustration showing a radius, a diameter, the center and the circumference.
+
+Analytic results
+Circle of radius ''r''=1, center (''a'', ''b'')=(1.2, -0.5).
+In an ''x''-''y'' coordinate system, the circle with center (''a'', ''b'') and radius ''r'' is the set of all points (''x'', ''y'') such that
+
+:;
+\left( x - a \right)^2 + \left( y - b \right)^2=r^2.
+;
+
+The equation of the circle follows from the Pythagorean theorem applied to any point on the circle.
+
+Chord, secant, and tangent
+If the circle is centred at the origin (0, 0), then this formula can be simplified to 
+
+:;x^2 + y^2 = r^2 \!\ ;
+
+and its tangent will be
+
+:;xx_1+yy_1=r^2 \!\ ;
+where ;x_1;, ;y_1; are the coordinates of the common point.
+
+When expressed in parametric equations, (''x'',&amp;nbsp;''y'') can be written using the trigonometric functions sine and cosine as
+
+:;x = a+r\,\cos t,\,\!;
+:;y = b+r\,\sin t\,\!;
+
+where ''t'' is a parametric variable, understood as the angle the ray to (''x'',&amp;nbsp;''y'') makes with the ''x''-axis. 
+
+In homogeneous coordinates each conic section with equation of a circle is
+
+:;\ ax^2+ay^2+2b_1xz+2b_2yz+cz^2 = 0.
+;
+
+It can be proven that a ''conic section'' is a circle if and only if the point I(1,i,0) and J(1,-i,0) lie on the conic section. These points are called the circular points at infinity.
+
+In polar coordinates the equation of a circle is
+
+:;
+r^2 - 2 r r_0 \cos(\theta - \varphi) + r_0^2 = a^2.\,
+;
+
+In the complex plane, a circle with a center at ''c'' and radius (''r'') has the equation ;|z-c|^2 = r^2;. Since ;|z-c|^2 = z\overline{z}-\overline{c}z-c\overline{z}+c\overline{c};, the slightly generalized equation ;pz\overline{z} + gz + \overline{gz} = q; for real ''p'', ''q'' and complex ''g'' is sometimes called a generalized circle. It is important to note that not all generalized circles are actually circles.
+
+= Slope=
+
+The slope of a circle at a point (''x'',&amp;nbsp;''y'') can be expressed with the following formula, assuming the centre is at the origin and (''x'',&amp;nbsp;''y'') is on the circle:
+
+:;
+y' = - \frac{x}{y}.
+;
+
+More generally, the slope at a point (''x'',&amp;nbsp;''y'') on the circle ;(x-a)^2 +(y-b)^2 = r^2;, i.e., the circle centered at (''a'',&amp;nbsp;''b'') with radius ''r'' units, is given by
+
+:;
+y' = \frac{a-x}{y-b},
+;
+
+provided that ;y \neq b;, of course.
+
+= Pi (; \pi ;)= 
+Arc, sector, and segment
+
+Pi or π is the ratio of a circle's circumference to its diameter. 
+
+;The numeric value of ; \pi ; never changes.;
+;In modern English, it is (as in apple pie).;
+
+= Circumference=
+
+*Length of a circle's circumference is
+
+:;
+c = \pi d = 2\pi \cdot r.
+;
+
+*Alternate formula for circumference:
+
+Given that the ratio circumference ''c'' to the Area ''A'' is 
+
+:;
+\frac{c}{A} = \frac{2 \pi r}{\pi r^2}.
+;
+
+The ''r'' and the π can be canceled, leaving
+
+:;
+\frac{c}{A} = \frac{2}{r}.
+;
+
+Therefore solving for ''c'':
+ 
+:;
+c = \frac{2A}{r}
+;
+
+So the circumference is equal to 2 times the area, divided by the radius.This can be used to calculate the circumference when a value for π cannot be computed.
+
+= Diameter=
+
+The diameter of a circle is a straight line through the center
+of the circle touching the circle at both sides. 
+
+The diameter of a circle is double its radius.
+
+:;
+d = 2r= 2 \cdot \sqrt{\frac{A}{\pi}} \approx 1{.}1284 \cdot \sqrt{A}.
+;
+
+= Area enclosed=
+
+Area of the circle = ''π'' × area of the shaded square
+
+
+
+*The area enclosed by a circle is the radius squared, multiplied by ;\pi;.
+
+:;
+ A = r^2 \cdot \pi;
+
+Using a square with side lengths equal to the diameter of the circle, 
+then dividing the square into four squares with side lengths equal to the radius of the circle, take the area of the smaller square and multiply by ;\pi;.
+;;A = \frac{d^2\cdot\pi}{4} \approx 0{.}7854 \cdot d^2, ;
+that is, approximately 79% of the circumscribing square.
+
+Properties
+
+*The circle is the shape with the highest area for a given length of perimeter. (See Isoperimetry)
+*The circle is a highly symmetric shape: every line through the centre forms a line of reflection symmetry and it has rotational symmetry around the center for every angle. Its symmetry group is the orthogonal group O(2,R). The group of rotations alone is the circle group T.
+*All circles are similar.
+**A circle's circumference and radius are proportional, 
+**The area enclosed and the square of its radius are proportional. 
+**The constants of proportionality are 2π and π, respectively.
+*The circle centered at the origin with radius 1 is called the unit circle.
+
+= Chord properties=
+* Chords equidistant from the center of a circle are equal (length). 
+* Equal (length) chords are equidistant from the center. 
+* The perpendicular bisector of a chord passes through the center of a circle; equivalent statements stemming from the uniqueness of the perpendicular bisector: 
+** A perpendicular line from the center of a circle bisects the chord. 
+** The line segment (Circular segment) through the center bisecting a chord is perpendicular to the chord. 
+* If a central angle and an inscribed angle of a circle are subtended by the same chord and on the same side of the chord, then the central angle is twice the inscribed angle. 
+* If two angles are inscribed on the same chord and on the same side of the chord, then they are equal. 
+* If two angles are inscribed on the same chord and on opposite sides of the chord, then they are supplemental.
+** For a cyclic quadrilateral, the exterior angle is equal to the interior opposite angle.
+* An inscribed angle subtended by a diameter is a right angle.
+* The diameter is longest chord of the circle.
+
+=Sagitta properties=
+*The sagitta is a line segment drawn perpendicular to a chord, between the midpoint of that chord and the circumference of the circle.
+*Given the length ''y'' of a chord, and the length ''x'' of the sagitta, the Pythagorean theorem can be used to calculate the radius of the unique circle which will fit around the two lines:
+
+:: ;r=\frac{y^2}{8x}+ \frac{x}{2}.;
+
+=Tangent properties=
+*The line drawn perpendicular to the end point of a radius is a tangent to the circle. 
+*A line drawn perpendicular to a tangent at the point of contact with a circle passes through the centre of the circle. 
+*Tangents drawn from a point outside the circle are equal in length. 
+*Two tangents can always be drawn from a point outside of the circle.
+
+=Theorems=
+Secant-secant theorem
+
+*The chord theorem states that if two chords, CD and EF, intersect at G, then ;CG \times DG = EG \times FG;. (Chord theorem) 
+*If a tangent from an external point ''D'' meets the circle at ''C'' and a secant from the external point ''D'' meets the circle at ''G'' and ''E'' respectively, then ;DC^2 = DG \times DE;. (tangent-secant theorem) 
+*If two secants, DG and DE, also cut the circle at H and F respectively, then ;DH \times DG = DF \times DE;. (Corollary of the tangent-secant theorem) 
+*The angle between a tangent and chord is equal to the subtended angle on the opposite side of the chord. (Tangent chord property)
+*If the angle subtended by the chord at the center is 90 degrees then ''l'' = √(2)&amp;nbsp;&amp;times;&amp;nbsp;''r'', where ''l'' is the length of the chord and ''r'' is the radius of the circle.
+*If two secants are inscribed in the circle as shown at right, then the measurement of angle A is equal to one half the difference of the measurements of the enclosed arcs (DE and BC). This is the secant-secant theorem.
+
+Inscribed angles
+
+Inscribed angle theorem
+
+An inscribed angle ;\psi; is exactly half of the corresponding central angle ;\theta; (see Figure).
+Hence, all inscribed angles that subtend the same arc have the same value
+(cf. the blue and green angles ;\psi; in the Figure).Angles inscribed on the arc are supplementary.
+In particular, every inscribed angle that subtends a diameter 
+is a right angle.
+
+An alternative definition of a circle;
+
+;\frac{d_1}{d_2}=\textrm{constant}; Apollonius' definition of a circle
+
+Apollonius of Perga showed that a circle may also be defined as the set of points having a constant ''ratio'' of distances to two foci, A and B.
+
+The proof is as follows.A line segment PC bisects the interior angle APB, since the segments are similar:
+
+:;
+\frac{AP}{BP} = \frac{AC}{BC}
+;
+
+Analogously, a line segment PD bisects the corresponding exterior angle.Since the interior and exterior angles sum to ;180^{\circ};, the angle CPD is exactly ;90^{\circ};, i.e., a right angle. The set of points P that form a right angle with a given line segment CD form a circle, of which CD is the diameter.
+
+As a point of clarification, note that C and D are determined by A, B, and the desired ratio; i.e. A and B are not arbitrary points lying on an extension of the diameter of an existing circle.
+
+Calculating the parameters of a circle
+
+Early science, particularly geometry and astronomy/astrology, was connected to the divine for most medieval scholars. 
+The compass in this 13th century manuscript is a symbol of God's act of Creation, as many believed that there was something intrinsically &quot;divine&quot; or &quot;perfect&quot; that could be found in circles
+
+The Twelve-Mile Circle is an arc of a circle with a twelve-mile radius, with the center of the circle in the center of the town of New Castle, Delaware.
+
+Given three non-collinear points lying on the circle
+
+:; 
+\mathrm{P_1} = \begin{bmatrix} x_1 \\ y_1 \\ z_1 \end{bmatrix}, 
+\mathrm{P_2} = \begin{bmatrix} x_2 \\ y_2 \\ z_2 \end{bmatrix}, 
+\mathrm{P_3} = \begin{bmatrix} x_3 \\ y_3 \\ z_3 \end{bmatrix}
+;
+
+= Radius=
+
+The radius of the circle is given by
+
+:; 
+\mathrm{r} = \frac
+{\left|P_1-P_2\right| \left|P_2-P_3\right|\left|P_3-P_1\right|}
+{2 \left|\left(P_1-P_2\right) \times \left(P_2-P_3\right)\right|}
+;
+
+= Center=
+
+The center of the circle is given by
+
+:; 
+\mathrm{P_c} = \alpha \, P_1 + \beta \, P_2 + \gamma \, P_3
+;
+
+
+:;
+\alpha = \frac
+{\left|P_2-P_3\right|^2 \left(P_1-P_2\right) \cdot \left(P_1-P_3\right)}
+{2 \left|\left(P_1-P_2\right) \times \left(P_2-P_3\right)\right|^2}
+;
+
+:;
+\beta = \frac
+{\left|P_1-P_3\right|^2 \left(P_2-P_1\right) \cdot \left(P_2-P_3\right)}
+{2 \left|\left(P_1-P_2\right) \times \left(P_2-P_3\right)\right|^2}
+;
+
+:;
+\gamma = \frac
+{\left|P_1-P_2\right|^2 \left(P_3-P_1\right) \cdot \left(P_3-P_2\right)}
+{2 \left|\left(P_1-P_2\right) \times \left(P_2-P_3\right)\right|^2}
+;
+
+= Plane unit normal=
+
+A unit normal of the plane containing the circle is given by
+
+:;
+\hat{n} = \frac
+{\left( P_2 - P_1 \right) \times \left(P_3-P_1\right)}
+{\left| \left( P_2 - P_1 \right) \times \left(P_3-P_1\right) \right|}
+;
+
+= Parametric equation=
+
+Given the radius, ;\mathrm{r}; , center, ;\mathrm{P_c};, a point on the circle, ;\mathrm{P_0}; and a unit normal of the plane containing the circle, ;\hat{n};, one parametric equation of the circle starting from the point ;\mathrm{P_0}; and proceeding counterclockwise is the following:
+
+:;
+\mathrm{R} \left( s \right) = \mathrm{P_c} + 
+\cos \left( \frac{\mathrm{s}}{\mathrm{r}} \right) \left( P_0 - P_c \right) + 
+\sin \left( \frac{\mathrm{s}}{\mathrm{r}} \right) 
+\left[ \hat{n} \times \left( P_0 - P_c \right) \right]
+;
+
+References
+= Notes=
+
+
+=See also=
+
+;
+*Area enclosed by a circle
+*Ball
+*Circular sector
+*Degree (angle)
+*Descartes' theorem
+*Directional statistics
+*Ellipse
+*Isoperimetric theorem
+*List of circle topics
+*Pi
+*Sphere
+*Squircle
+*Unit circle
+*von Mises distribution
+*Solar symbol
+*Circumscribed circle
+;
+
+= External links=
+
+*[http://www.mathopenref.com/tocs/circlestoc.html Interactive Java applets] for the properties of and elementary constructions involving circles.
+*[http://www.mathwarehouse.com/geometry/circle/interactive-circle-equation.php Interactive Standard Form Equation of Circle] Click and drag points to see standard form equation in action
+*[http://agutie.homestead.com/files/clifford1.htm Clifford's Circle Chain Theorems.] Step by step presentation of the first theorem. Clifford discovered, in the ordinary Euclidean plane, a &quot;sequence or chain of theorems&quot; of increasing complexity, each building on the last in a natural progression by Antonio Gutierrez from &quot;Geometry Step by Step from the Land of the Incas&quot; 
+*[http://www.cut-the-knot.org/pythagoras/Munching/circle.shtml Munching on Circles] at cut-the-knot
+*[http://members.shaw.ca/ron.blond/index.html Ron Blond homepage - interactive applets]
+*[http://formularium.org/?go=46 calculate circumference and area with your own values]
+*[http://mathace.net/geo-trig/circles MathAce &amp;raquo; Circles] MathAce's article about circles - has a good in-depth explanation of unit circles and transforming circular equations.
+
+Category:Circles| 
+Category:Geometric shapes
+Category:Curves
+Category:Conic sections
+Category:Pi
+
+ar:دائرة
+zh-min-nan:Îⁿ-hêng
+bs:Krug
+bg:Окръжност
+ca:Cercle
+cs:Kružnice
+cy:Cylch
+da:Cirkel
+de:Kreis (Geometrie)
+et:Ringjoon
+el:Κύκλος
+es:Círculo
+eo:Cirklo
+fa:دایره
+fr:Cercle
+gl:Círculo
+ko:원 (기하)
+hr:Kružnica
+id:Lingkaran
+is:Hringur
+it:Cerchio
+he:מעגל
+ht:Sèk
+lv:Riņķis
+lb:Krees (Geometrie)
+lt:Apskritimas
+hu:Kör
+mk:Кружница
+ml:വൃത്തം
+nl:Cirkel
+ja:円 (数学)
+no:Sirkel
+nn:Sirkel
+pl:Okrąg
+pt:Circunferência
+ksh:Kriiß (Mattematik)
+qu:P'allta muyu
+ru:Окружность
+sco:Raing
+simple:Circle
+sk:Kružnica
+sl:Krog
+sr:Круг
+fi:Ympyrä
+sv:Cirkel
+ta:வட்டம்
+th:รูปวงกลม
+tr:Çember
+uk:Коло
+yo:Ìyípo
+zh:圆

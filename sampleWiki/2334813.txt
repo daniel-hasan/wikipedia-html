@@ -1,0 +1,9 @@
+The '''Synod of Twyford'''  was a synod of the early English church held in 684 and described by [[Bede]] in his [[Historia ecclesiastica gentis Anglorum]], Book IV, ch. 28.  The synod was held at a place called "Adtwifyrdi", the location of which is unknown. [[Theodore of Tarsus|Archbishop Theodore]] presided over the synod in the presence of King Ecgfrith; bishop [[Trumbert|Tunberht]] of [[Hexham]] was deposed there and [[Cuthbert of Lindisfarne|Cuthbert]] elected [[bishop of Lindisfarne]].<ref>Bede, IV.28</ref>
+
+==Notes==
+{{reflist}}
+
+==References==
+* {{cite book |last= Bede|title= [[Historia ecclesiastica gentis Anglorum|Ecclesiastical History of the English People]]|others=  Translated by Leo Sherley-Price, revised R.E. Latham, ed. D.H. Farmer|location= London|publisher= Penguin|year= 1991|isbn= 0-14-044565-X}}
+
+{{religion-stub}}

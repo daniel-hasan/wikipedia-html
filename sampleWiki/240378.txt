@@ -1,0 +1,1305 @@
+{{F1 team
+| Short_name    = Renault
+| Long_name     = [[ING Group|ING]] Renault F1
+| Logo          = [[Image:Logo Renault ING.gif|ING Renault F1 logo - 2007]]
+| Base          = [[Enstone, Oxfordshire|Enstone]], [[Oxfordshire]], [[United Kingdom]]
+| Principal     = {{flagicon|Italy}} [[Flavio Briatore]]
+| Engineering Head = {{flagicon|UK}} [[Pat Symonds]]
+| Engineering Head position = Executive Director
+| Director      = {{flagicon|United Kingdom}} [[Bob Bell (technical director)|Bob Bell]]
+| Drivers       = {{flagicon|ESP}} [[Fernando Alonso]] <br />{{flagicon|BRA}} [[Nelson Angelo Piquet|Nelson Piquet Jr]]
+| Test_drivers  = {{flagicon|France}} [[Romain Grosjean]]
+| Chassis       = [[Renault R27]]
+| Engine        = Renault RS27
+| Tyres         = [[Bridgestone]]
+| Debut         = [[1977 British Grand Prix]]
+| Final         = [[2007 Brazilian Grand Prix]]
+| Races         = 231
+| Cons_champ    = 2 ([[2005 Formula One season|2005]] and [[2006 Formula One season|2006]])
+| Drivers_champ = 2 ([[2005 Formula One season|2005]] and [[2006 Formula One season|2006]])
+| Wins          = 33
+| Poles         = 49
+| Fastest_laps  = 24
+| Last_season   = 2007
+| Last_position = 3rd (51 points)
+}}
+{{portalpar|Formula One}}
+
+'''Renault F1''' is the [[Renault]] company's [[Formula One]] racing team. Renault has competed in Formula One (originally via subsidiary [[Renault Sport]]), both as an engine supplier and as a constructor from the late [[1970s]] to the present day, with several breaks. Renault introduced the [[turbo]] engine to Formula One when they debuted their first car, the [[Renault RS01]] at [[1977 British Grand Prix|Silverstone]] in {{F1|1977}}. Although the Renault team won races and competed for world titles, it was as a supplier of normally aspirated engines to the [[Benetton Formula|Benetton]] and [[WilliamsF1|Williams]] teams in the [[1990s]] that Renault first tasted world championship success. Renault returned to the category as a constructor in {{F1|2001}} by taking over the Benetton team, which was renamed Renault in {{F1|2002}}. Their first championship as a constructor was achieved in {{F1|2005}}; the same year that they won their first drivers' championship with former test driver, [[Fernando Alonso]], repeating that feat in {{F1|2006}}.
+
+Renault F1 is coordinated from the team's [[United Kingdom|UK]] base at [[Enstone]], [[Oxfordshire]] where the chassis are designed and built.  Engines are manufactured at Renault's facility at [[Viry-Châtillon]] outside Paris.  As well as their championship wins in 2005 and 2006, Renault also contributed to 5 driver's world championships ({{F1|1992}}, {{F1|1993}}, {{F1|1995}}, {{F1|1996}}, {{F1|1997}}) and 6 constructor's world championships (1992, 1993, {{F1|1994}}, 1995, 1996, 1997) as engine supplier for Benetton and Williams.
+
+Currently, Renault F1 is responsible for Renault's involvement in Formula One; Renault's other motorsport activities are conducted through [[Renault Sport]].
+
+== Renault in the 1970s and 1980s ==
+
+'''1977'''
+
+Renault first involvement in Formula One was made by the [[Renault Sport]] subsidiary.
+Renault entered the last five races of {{F1|1977}} with [[Jean-Pierre Jabouille]] in its only car. The [[Renault RS01]] was well known for its Renault-[[Gordini]] V6 1.5 [[liter|L]] [[turbocharger|turbocharged]] [[internal combustion engine|engine]], the first regularly used turbo engine in Formula One history. Jabouille's car and engine proved highly unreliable and became something of a joke during its first races, earning the nickname of "Yellow Teapot" and failing to finish any of its races despite being extremely powerful.
+
+[[Image:Renault RS01 Arnoux 2007.jpg|thumb|right|[[René Arnoux]] demonstrating the [[Renault RS01]] at a [[World Series by Renault]] race meeting in 2007.]] 
+
+;'''1978'''
+
+The following year was hardly better, characterized by four consecutive retirements caused by blown engines, but near the end of the year the team showed signs of success.  Twice, the RS01 qualified 3rd on the grid and while finishing was still something of an issue, it managed to finish its first race on the lead lap at [[Watkins Glen International|Watkins Glen]] near the end of {{F1|1978}}, giving the team a fourth place finish and its first Formula One points.
+
+[[Image:Renault RS10 1979.jpg|thumb|left|The Renault RS10 was the first [[Turbocharger|turbocharged]] car to win a Grand Prix.]]
+
+'''1979'''
+
+Expanding to two drivers with [[René Arnoux]] joining Jabouille, the team continued to struggle although Jabouille earned a [[pole position]] in [[1979 South African Grand Prix|South Africa]].  By mid-season, both drivers had a new [[Ground effect in cars|ground-effect]] car, the RS10, and at [[1979 French Grand Prix|Dijon]] for the [[French Grand Prix]] the team legitimized itself with a brilliant performance in a classic race.  The two Renaults were on the front row in qualifying, and pole-sitter Jabouille won the race, the first driver in a turbo-charged car to do so, while Arnoux and [[Gilles Villeneuve]] were involved in an extremely competitive duel for second, Arnoux narrowly getting beaten to the line.  While Jabouille ran into hard times after that race, Arnoux finished a career-high second at [[1979 British Grand Prix|Silverstone]] in the following race and then repeated that at the Glen, proving it wasn't a fluke.
+
+'''1980 - 83'''
+
+Arnoux furthered this in {{F1|1980}} with consecutive wins in [[1980 Brazilian Grand Prix|Brazil]] and [[1980 South African Grand Prix|South Africa]].  Jabouille continued to have problems with retirements, but in his only points finish he emerged victorious in [[1978 Austrian Grand Prix|Austria]].  At the end of the year Jabouille crashed heavily at the [[1978 Canadian Grand Prix|Canadian GP]] and suffered serious leg injuries, which effectively ended his career as a Grand Prix driver.  [[Alain Prost]] was signed up for {{F1|1981}}. In his three years with the team, Prost showed the form that would make him a Formula One legend and the Renaults were among the best in Formula One, twice finishing third in the constructors championships and second once.  Prost won nine races with the team while Arnoux added two more in {{F1|1982}}.Arnoux left for rival [[Scuderia Ferrari|Ferrari]] after 1982 and was replaced by American [[Eddie Cheever]].  In {{F1|1983}}, Renault and Prost came very close to winning the drivers' title but were edged out by [[Nelson Piquet]] ([[Brabham|Brabham-BMW]]) at the last race of the season in [[1983 South African Grand Prix|South Africa]].  It was later rumoured that the Brabham team had been using illegal gasoline in that race. It has however never been proved. [http://www.autosport.com/asknigel/index.html/id/22176]
+
+'''1984 - 85'''
+
+After Prost left, the team turned to [[Patrick Tambay]] and Englishman [[Derek Warwick]] to bring them back to prominence.  Despite a few good results, the team was not as competitive in  {{F1|1984}} and {{F1|1985}} as in the past, with other teams doing a better job with turbo engines, some of which came from Renault themselves.  {{F1|1985}} provided another F1 first, as the team ran a third car in [[1985 German Grand Prix|Germany]] that featured the first in-car camera which could be viewed live by a [[television]] audience. The car only lasted 23 laps before a clutch problem forced it to retire.In 1985, major financial problems emerged at Renault and the company could no longer justify the large expenses needed to maintain the racing team's competitiveness.  CEO [[Georges Besse]] pared down the company's involvement in F1 from full-fledged racing team to engine supplier for the {{F1|1986}} season before taking it entirely out of F1 at the end of that year.
+
+== Renault as an engine supplier ==<!-- This section is linked from [[Nigel Mansell]] -->
+[[Image:WilliamsFW12PatreseExhSinsheim.JPG|thumb|right|A [[WilliamsF1|Williams]]-Renault FW12 from {{F1|1989}}.]]
+In [[1989 Formula One season|1989]], Renault rejoined Formula One as an engine supplier to [[WilliamsF1|Williams]] and by the sixth round in [[1989 Canadian Grand Prix|Canada]], the team had already secured their first Renault powered victory. Renault had also pioneered the first V10 engine in F1. Williams enjoyed signs of promise for the next 2 years and by [[1992 Formula One season|1992]], with the aid of active-ride, the Williams-Renault was a World Championship-winning car; winning over half of the races during the season. 
+
+[[Image:Johnny Herbert 1995.jpg|thumb|left|[[Johnny Herbert]]'s [[Benetton Formula|Benetton]]-Renault during the [[1995 Canadian Grand Prix]]. Renault won 16 races of 17 races in the [[1995 Formula One season|1995 season]], with Benetton and Williams. It is the record for the most wins in a year as an engine supplier, though [[Cosworth|Ford-Cosworth]] won all races in [[1969 Formula One season|1969]] (11 races) and [[1973 Formula One season|1973]] (15 races).]]
+Williams perfected their active-ride for [[1993 Formula One season|1993]] and won the Constructors' Title in yet another dominant year with [[Alain Prost]] winning 7 of the 16 rounds. [[1994 Formula One season|1994]] would prove to be the only time Renault didn't win the Drivers championship after Williams driver, [[Ayrton Senna]], the favourite to win the title, was killed at the [[1994 San Marino Grand Prix]]. This left the Brazilian's inexperienced teammate, [[Damon Hill]], to take Senna's seat as team leader, but by the [[1994 French Grand Prix|French Grand Prix]], Hill was 37 points behind Championship leader [[Michael Schumacher]]. After a series of disqualifications for the [[Germany|German]], Hill managed to close the gap down to 1 point before the last race in [[1994 Australian Grand Prix|Adelaide]], but the two drivers collided controversially and both retired from the race, making Schumacher the drivers' champion. Schumacher was the only driver to win a Drivers title during the time between 1992 and 1997 without a Renault engine, but Williams still retained the Constructors' championship.
+
+[[Image:Jacques Villeneuve 1996.jpg|thumb|right|[[Jacques Villeneuve]]'s [[WilliamsF1|Williams]]-Renault during the [[1996 Canadian Grand Prix]]. Jacques would win the [[1997 Formula One season|1997]] title using a Renault powered car.]]
+[[Benetton Formula|Benetton]] acquired Renault engines for [[1995 Formula One season|1995]] and their driver, Michael Schumacher, managed to successfully defend his Drivers title by 33 points from his nearest rival, Damon Hill, while Benetton won their first, and only, Constructors title by 29 points. Williams won the next two seasons in both the Drivers' and Constructors' championship with Damon Hill winning the title in [[1996 Formula One season|1996]] and [[Jacques Villeneuve]] in [[1997 Formula One season|1997]].
+
+Renault pulled out of Formula One at the end of 1997, coinciding with the departure of [[Adrian Newey]], the head of Williams' design team, who had designed all of the Renault powered Williams' from 1992 onwards. However, the power unit was still bought by teams 'off the shelf' for several years afterwards by Benetton (where the engine was re-badged as ''[[Playlife]]''),  Williams (where it was re-badged as ''[[Mecachrome]]'') and [[British American Racing|BAR]] and [[Arrows]] (where it was re-badged as ''[[Supertec]]'').
+
+On [[September 15]] [[2006]], Renault announced that it had agreed to supply [[Red Bull Racing]] with engines in [[2007 Formula One season|2007]] and [[2008 Formula One season|2008]].  On November 1st, 2006, [[Red Bull Racing]] confirmed the use of Renault engines and the transfer of the Ferrari units to [[Scuderia Toro Rosso]].
+{{-}}
+
+== Renault's return in the 2000s ==
+[[Image:Renault F1 team.png|260px|thumb|left|Renault F1 logo, 2002-2006.]]
+On [[March 16]] [[2000]], Renault purchased [[Benetton Formula|Benetton Formula Limited]] for $120 million to return to Formula One. Renault maintained the Benetton name for the [[2000 Formula One season|2000]] and the [[2001 Formula One season|2001]] seasons. When reporting the purchase the ''[[International Herald Tribune]]'' commented that "the team will not race under the Renault name until it is ready to win and reap the marketing benefits."<ref>{{cite news|first = Brad|last = Spurgeon|title = Teams Rev Up for Battle in the Brand-Name Game|work = International Herald Tribune|page = 24|date = 2000-03-24|accessdate = 2007-01-31}}</ref>
+
+'''2000'''
+
+[[Image:renault crew 2002.jpg|thumb|Members of the Renault F1 pit crew in 2002.]]
+Despite the purchase by Renault, the team still used the Playlife engines they had been using for the last 2 years. The drivers were [[Giancarlo Fisichella]] and [[Alexander Wurz]]. The team scored 20 points, as well as 2 podium finishes in [[2000 Monaco Grand Prix|Monaco]] and [[2000 Canadian Grand Prix|Canada]]. 
+
+'''2001'''
+
+Wurz left the team in 2001 to become a test driver at [[McLaren]] and was replaced by [[United Kingdom|British]] driver, [[Jenson Button]], who was "''on loan''" from the [[WilliamsF1|Williams]] team. Button and Fisichella scored 10 points for the team, including a podium finish for Fisichella in [[2001 Belgian Grand Prix|Belgium]].
+
+'''2002'''
+
+In [[2002 Formula One season|2002]], Benetton were rebranded as Renault F1. Fisichella left to rejoin [[Jordan Grand Prix|Jordan]]. The team replaced the [[Italy|Italian]] with fellow Italian [[Jarno Trulli]]. Button and Trulli scored 23 points during the season.
+
+'''2003'''
+
+[[Image:Jarno Trulli 2003.jpg|thumb|[[Jarno Trulli]] driving for the Renault Formula One team at [[Indianapolis Motor Speedway|Indianapolis]] in {{F1|2003}}.]]
+Despite outscoring his teammate during 2002, Button was dropped by Renault in [[2003 Formula One season|2003]], his replacement was [[Spain|Spaniard]] [[Fernando Alonso]], who had been impressive as a test driver the previous year. Alonso won the [[2003 Hungarian Grand Prix]], the first time Renault had won a Grand Prix since the [[1983 Austrian Grand Prix]]. Renault was innovative during this period producing non-standard designs such as the 111° 10-cylinder engine for the 2003 RS23 which was designed to effectively lower the center of gravity of the engine and thus improve the car's handling. This eventually proved too unreliable and heavy, so Renault returned to a more conventional development route.
+
+'''2004'''
+
+In {{F1|2004}}, the team surprised everybody by becoming real contenders for second place in the Constructors' Championship. Trulli won the [[2004 Monaco Grand Prix|Monaco Grand Prix]] in spectacular fashion. However, his relationship with Renault (particularly with team principal and Trulli's ex-manager Flavio Briatore) deteriorated after he was consistently off the pace in the latter half of the year, and made claims of favouritism in the team towards Alonso (though the two teammates themselves remained friendly). 
+
+Commentators regularly point to the [[2004 French Grand Prix|French Grand Prix]] as the final straw for Briatore, where Trulli was overtaken by [[Rubens Barrichello]] in the final stages of the last lap, costing Renault a double podium finish at their home Grand Prix. He subsequently announced he was joining [[Toyota F1]] for the following year and in fact left Renault early, driving the Toyota in the last two races of the 2004 season. Hoping to secure second place in the Constructors' Championship, Renault replaced Trulli with {{F1|1997}} World Champion [[Jacques Villeneuve]] for the final three races. However, Villeneuve — away from F1 racing for almost an entire season and struggling to aclimatise quickly to racing at the premier level — did not impress, and the team finished third behind [[British American Racing|BAR]].
+
+'''2005'''
+
+[[Image:Fisichella cheste 2006-02.jpg|left|thumb|[[Giancarlo Fisichella]] testing for Renault.]]
+[[Giancarlo Fisichella]] was Trulli's replacement for the [[2005 Formula One season|2005]] season. 2005 would see him finally driving a top class car, and indeed he took advantage of a rain-affected qualifying session to win the first race of the season, the [[2005 Australian Grand Prix|Australian Grand Prix]]. [[Fernando Alonso]] then proceeded to steal the limelight by winning the next three races and building himself a considerable lead in the Drivers' World Championship, thereby doing the same for Renault in the Constructors' championship. Meanwhile, Fisichella experienced a run of bad luck that saw him fail to finish several races. After the [[2005 San Marino Grand Prix|San Marino Grand Prix]], Renault and Alonso's championship leads came under massive attack from a fast-but-fragile [[McLaren-Mercedes]] team and Kimi Räikkönen respectively for the Drivers' Championship. McLaren took the lead of the Constructors' World Championship by securing a one-two finish at the [[2005 Brazilian Grand Prix|Brazilian Grand Prix]], but that was to be the race in which Alonso secured the Drivers' title, becoming the youngest ever driver to do so. This achievement was followed by a win in [[2005 Chinese Grand Prix|China]] to secure the Constructors' World Championship for Renault after McLaren driver [[Juan Pablo Montoya]]'s car was badly damaged by a drain cover coming loose on the track, breaking [[Scuderia Ferrari|Ferrari]]'s six-year stranglehold on that title. It was the first time Renault had won the title as a manufacturer, after plenty of success as an engine supplier in the 1990s with Williams.
+
+On [[October 21]] to celebrate winning both the Drivers' and Constructors' World Championships, and to mark the end of the V10 era in Formula One, Renault engineers at Viry-Châtillon used an RS-25 V10 engine to "play" [[Queen (band)|Queen's]] ''[[We Are the Champions]]''.
+
+'''2006'''
+
+[[Image:Renault RS26 engine 2006.jpg|thumb|right|The Renault team's {{F1|2006}} engine, the RS26. Renault's first [[V8 engine]] in Formula One.]]
+[[Fernando Alonso]] and [[Giancarlo Fisichella]] were retained for 2006, although test driver [[Franck Montagny]] was replaced by [[Heikki Kovalainen]]. The team's 2006 contender, the R26 - featuring a seven speed gearbox made of [[titanium]], was unveiled at a launch event on January 31. 
+
+The team started 2006 well, Alonso won the opening [[2006 Bahrain Grand Prix|Bahrain Grand Prix]] as well as the [[2006 Australian Grand Prix|Australian Grand Prix]] and finished second in [[2006 Malaysian Grand Prix|Malaysia]] behind teammate Fisichella to claim Renault's first one-two finish since [[René Arnoux]] and [[Alain Prost]] in 1982. They continued this, with Alonso taking 2 second places and a well earned win at his home grand prix in [[2006 Spanish Grand Prix|Spain]], at the [[Circuit de Catalunya]] as well as the [[2006 Monaco Grand Prix|Monaco Grand Prix]]. Fisichella took  8th, 6th and 3rd place finishes in the [[2006 San Marino Grand Prix|San Marino Grand Prix]], [[2006 European Grand Prix|European Grand Prix]] and the [[2006 Spanish Grand Prix|Spanish Grand Prix]].
+
+The team celebrated its 200th Grand Prix at Silverstone, which was won by Fernando Alonso. As the Formula One season progressed to its North American stint, Fernando Alonso won the [[2006 Canadian Grand Prix|Canadian Grand Prix]] in Montreal, Canada. The [[2006 United States Grand Prix|U.S Grand Prix]] was something of an exercise of minimising damage. Ferrari had a distinct performance advantage over the whole weekend. However Renault were the fastest of all the [[Michelin]] runners. Fisichella finished 3rd, well ahead of Alonso who finished 5th. 
+
+[[Image:Fernando Alonso 2006 Canada.jpg|thumb|250px|left|[[Fernando Alonso]] on his way to victory at the [[2006 Canadian Grand Prix]].]]
+
+At the [[2006 French Grand Prix|French Grand Prix]], Renault were expected to be faster than Ferrari, however Ferrari again had the advantage. Alonso was running third for most of the race, unable to challenge the Ferraris of Schumacher and Massa. However a tactical switch to a two stop strategy enabled him to pass Massa and finishing second, minimising his points loss.
+
+On 21 July 2006 the FIA banned the use of mass damper systems, developed and first used by the Renault team and subsequently used by 7 other teams, including Ferrari. Flavio Briatore has named [[McLaren]] as the team who complained to the FIA.<ref>{{cite journal | last = Bishop | first = Matt | year = 2006 | title = The Long Interview: Flavio Briatore | journal = F1 Racing | volume =  | issue = October | pages = 66-76 | accessdate = 2006-10-30}}</ref> The system uses a spring-mounted mass in the nose cone to reduce the sensitivty of the car to vibration. This is particularly effective in corners and over kerbs to keep the tyres in closer contact to the track surface than they would otherwise be. <ref>[http://www.pitpass.com/fes_php/pitpass_news_item.php?fes_art_id=28765 FIA bans controversial damper system]  </ref> However race stewards at the [[2006 German Grand Prix|German Grand Prix]] deemed the system legal. The FIA announced its intention to appeal the decision and Renault announced they would not race with the system for fear of retrospective punishment if the appeal was upheld. Renault's performance at the German Grand Prix was one of their worst of the season, however the team blamed blistering of their Michelin tyres, suggesting it was not a result of the loss of the mass damper system. The FIA International Court of Appeal met in Paris on August 22 2006, to examine the appeal made by the FIA against the decision handed down by the stewards at the German Grand Prix. The Court ruled that use of the device known as a Tuned Mass Damper is an infringement of Article 3.15 of the Formula One Technical Regulations.
+
+Points in the [[2006 Brazilian Grand Prix|Brazilian Grand Prix]] secured the constructor's championship for Renault in 2006.
+
+On [[October 16]], [[2006]], Renault announced the Dutch banking giant [[ING Group|ING]] would replace [[Mild Seven]] as title sponsor for three years starting in {{F1|2007}}. <ref>[http://www.itv-f1.com/News_Article.aspx?PO_ID=37725 ING replaces Mild Seven at Renault]. Retrieved [[October 16]], [[2006]].</ref>
+
+'''2007'''
+
+[[Image:Giancarlo Fisichella 2007 Britain.jpg|thumb|right|[[Giancarlo Fisichella]] driving for the team at the [[2007 British Grand Prix]].]]
+
+Renault confirmed Giancarlo Fisichella and Heikki Kovalainen as their race drivers for 2007 with [[Nelson Piquet Jr]] and [[Ricardo Zonta]] as test drivers. The car for 2007, the [[Renault R27|R27]], was unveiled on [[24 January]] [[2007]], and bears a new yellow, blue, orange and white livery in deference to the corporate colours of ING.
+
+Renault engines are also being used by [[Red Bull Racing]] team, while the Ferrari engine contract is being passed to Scuderia Toro Rosso (otherwise known as the second "development" Red Bull team).
+
+Renault struggled in comparison to their form in recent seasons in [[2007 Australian Grand Prix|Australia]], with [[Giancarlo Fisichella]] finishing the race in 5th place. Rookie [[Heikki Kovalainen]] struggled even more than the Italian, spinning his car as he chased [[Toyota F1|Toyota's]] [[Ralf Schumacher]] and ending up in 10th place. Results didn't improve until the start of the European season, although both drivers finished in the points in the next race at [[2007 Malaysian Grand Prix|Malaysia]]. Heikki Kovalainen struggled in [[2007 Bahrain Grand Prix|Bahrain]] too, although the gap between himself and Fisichella at the end of the race was not as great as was seen at Melbourne, with Fisichella finishing only 8th. The team's pace began to pick up in Barcelona, with both drivers making it into Q3, setting competitive lap times in the race (4th fastest lap for Kovalainen) and looking set for 5th and 8th, only to be hampered by an identical problem on both fuel rigs, forcing both drivers to make extra pitstops which dropped them back to 7th and 9th.
+
+On [[November 8]] [[2007]] the [[FIA]] have accused Renault F1 of having McLaren F1 technical information in their possession.<ref>[http://uk.reuters.com/article/motorSportsNews/idUKL0819133920071108?feedType=RSS&feedName=motorSportsNews Renault Charged With Having McLaren Data]. Retrieved [[November 8]], [[2007]].</ref>
+
+According to the charge, the information in hand "''included the layout and critical dimensions of the McLaren car as well as details of McLaren's fuelling system, gear assembly, hydraulic control system and suspension''".
+
+The hearing on this matter has taken place in [[Monaco]] on [[December 6]] [[2007]].
+The charge faced by Renault F1, breaching of article 151c of the Sporting Regulations, is the same charge that had been put on McLaren's desk earlier on in 2007 in the [[2007 Formula One espionage controversy|espionage controversy involving Ferrari & McLaren]].
+
+The FIA have found Renault F1 in breach of article 151c and have decided not to penalize the team.
+
+'''2008'''
+
+It was announced on [[December 10]] [[2007]] that Fernando Alonso has signed with Renault F1 for {{F1|2008}}. Alonso will drive alongside promoted test driver [[Nelson Angelo Piquet]], and is believed to have secured number one status within the team.<ref>http://news.bbc.co.uk/sport1/hi/motorsport/formula_one/7136498.stm</ref><ref>http://www.autosport.com/news/report.php/id/64336 - Autosport: Alonso and Piquet confirmed for 2008</ref>
+
+==Future==
+Questions have been raised regarding Renault's commitment to its Formula One team, particularly with the appointment of [[Carlos Ghosn]] as CEO in 2005. Ghosn has a reputation as a ruthless businessman, nicknamed "le cost cutter". However at the 2005 French Grand Prix Ghosn set out his policy regarding the company's involvement in motorsport: "We are not in Formula One out of habit or tradition. We're here to show our talent and that we can do it properly... Formula One is a cost if you don't get the results. Formula One is an investment if you do have them and know how to exploit them." In short he will continue Renault's investment in F1 as long as the team is successful and can use the resulting publicity for wider commercial gain. Renault have recently signed an agreement with Formula One Management pledging its allegiance to Formula 1 until 2012. After Renault won both championships in 2006 for a second year, Ghosn said "It is an important victory because it justifies the investment Renault has made in Formula 1, and will make in the future. More and more, Formula 1 is working as an investment for us, not a loss."<ref>{{cite news | title = Ghosn: Titles justify investment | url = http://www.itv-f1.com/News_Article.aspx?PO_ID=37885 | publisher = www.itv-f1.com | date = 2006-10-27 | accessdate = 2006-10-30}}</ref>
+
+Renault F1 has a research relationship with [[Boeing]], the aim of which is ''"to investigate technology collaboration projects of mutual interest."'' <ref>Boeing Company. (June 17, 2004).  [http://www.boeing.com/news/releases/2004/q2/nr_040617p.html Boeing, Renault F1 Team to Collaborate on Technology Development.] Press Release. </ref> Similar relationships include that of [[Team McLaren|McLaren]] and [[BAE Systems]].
+
+==Complete Formula One results==
+([[:Template:F1 driver results legend 2|key]]) (results in bold indicate '''pole position''')
+{| class="wikitable" style="text-align:center; font-size:95%"
+! Year
+! Chassis
+! Engine
+! Tyres
+! Drivers
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+! 17
+! 18
+! 19
+! Points
+! WCC
+|-
+|rowspan="2"| {{F1|1977}}
+|rowspan="2"| [[Renault RS01]]
+|rowspan="2"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="2"| {{Michelin}}
+||
+|| [[1977 Argentine Grand Prix|ARG]]
+|| [[1977 Brazilian Grand Prix|BRA]]
+|| [[1977 South African Grand Prix|RSA]]
+|| [[1977 United States Grand Prix West|USW]]
+|| [[1977 Spanish Grand Prix|ESP]]
+|| [[1977 Monaco Grand Prix|MON]]
+|| [[1977 Belgian Grand Prix|BEL]]
+|| [[1977 Swedish Grand Prix|SWE]]
+|| [[1977 French Grand Prix|FRA]]
+|| [[1977 British Grand Prix|GBR]]
+|| [[1977 German Grand Prix|GER]]
+|| [[1977 Austrian Grand Prix|AUT]]
+|| [[1977 Dutch Grand Prix|NED]]
+|| [[1977 Italian Grand Prix|ITA]]
+|| [[1977 United States Grand Prix|USA]]
+|| [[1977 Canadian Grand Prix|CAN]]
+|| [[1977 Japanese Grand Prix|JPN]]
+||
+||
+|rowspan="2"|'''0'''
+|rowspan="2"|'''NC'''
+|-
+| [[Jean-Pierre Jabouille]]
+||
+||
+||
+||
+||
+||
+||
+||
+||
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFCFCF"| <small>DNQ</small>
+||
+||
+||
+|-
+|rowspan="2"| {{F1|1978}}
+|rowspan="2"| [[Renault RS01]]
+|rowspan="2"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="2"| {{Michelin}}
+||
+|| [[1978 Argentine Grand Prix|ARG]]
+|| [[1978 Brazilian Grand Prix|BRA]]
+|| [[1978 South African Grand Prix|RSA]]
+|| [[1978 United States Grand Prix West|USW]]
+|| [[1978 Monaco Grand Prix|MON]]
+|| [[1978 Belgian Grand Prix|BEL]]
+|| [[1978 Spanish Grand Prix|ESP]]
+|| [[1978 Swedish Grand Prix|SWE]]
+|| [[1978 French Grand Prix|FRA]]
+|| [[1978 British Grand Prix|GBR]]
+|| [[1978 German Grand Prix|GER]]
+|| [[1978 Austrian Grand Prix|AUT]]
+|| [[1978 Dutch Grand Prix|NED]]
+|| [[1978 Italian Grand Prix|ITA]]
+|| [[1978 United States Grand Prix|USA]]
+|| [[1978 Canadian Grand Prix|CAN]]
+||
+||
+||
+|rowspan="2"|'''3'''
+|rowspan="2"|'''12th'''
+|-
+| [[Jean-Pierre Jabouille]]
+||
+||
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#CFCFFF"| <small>NC</small>
+|bgcolor="#CFCFFF"| <small>13</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#CFCFFF"| <small>12</small>
+||
+||
+||
+|-
+|rowspan="3"| {{F1|1979}}
+|rowspan="3"| [[Renault RS01]]<br>[[Renault RS10]]
+|rowspan="3"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="3"| {{Michelin}}
+||
+|| [[1979 Argentine Grand Prix|ARG]]
+|| [[1979 Brazilian Grand Prix|BRA]]
+|| [[1979 South African Grand Prix|RSA]]
+|| [[1979 United States Grand Prix West|USW]]
+|| [[1979 Spanish Grand Prix|ESP]]
+|| [[1979 Belgian Grand Prix|BEL]]
+|| [[1979 Monaco Grand Prix|MON]]
+|| [[1979 French Grand Prix|FRA]]
+|| [[1979 British Grand Prix|GBR]]
+|| [[1979 German Grand Prix|GER]]
+|| [[1979 Austrian Grand Prix|AUT]]
+|| [[1979 Dutch Grand Prix|NED]]
+|| [[1979 Italian Grand Prix|ITA]]
+|| [[1979 Canadian Grand Prix|CAN]]
+|| [[1979 United States Grand Prix|USA]]
+||
+||
+||
+||
+|rowspan="3"|'''26'''
+|rowspan="3"|'''6th'''
+|-
+| [[Jean-Pierre Jabouille]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#EFCFFF"| '''Ret'''
+|| <small>Inj</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>NC</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| '''14'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+||
+||
+|-
+| [[René Arnoux]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|| <small>WD</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| '''6'''
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+||
+||
+||
+||
+|-
+|rowspan="3"| {{F1|1980}}
+|rowspan="3"| [[Renault RE20]]
+|rowspan="3"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="3"| {{Michelin}}
+||
+|| [[1980 Argentine Grand Prix|ARG]]
+|| [[1980 Brazilian Grand Prix|BRA]]
+|| [[1980 South African Grand Prix|RSA]]
+|| [[1980 United States Grand Prix West|USW]]
+|| [[1980 Belgian Grand Prix|BEL]]
+|| [[1980 Monaco Grand Prix|MON]]
+|| [[1980 French Grand Prix|FRA]]
+|| [[1980 British Grand Prix|GBR]]
+|| [[1980 German Grand Prix|GER]]
+|| [[1980 Austrian Grand Prix|AUT]]
+|| [[1980 Dutch Grand Prix|NED]]
+|| [[1980 Italian Grand Prix|ITA]]
+|| [[1980 Canadian Grand Prix|CAN]]
+|| [[1980 United States Grand Prix|USA]]
+||
+||
+||
+||
+||
+|rowspan="3"|'''38'''
+|rowspan="3"|'''4th'''
+|-
+| [[Jean-Pierre Jabouille]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|| <small>Inj</small>
+||
+||
+||
+||
+||
+|-
+| [[René Arnoux]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#CFCFFF"| <small>NC</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| '''9'''
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#CFCFFF"| '''10'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>7</small>
+||
+||
+||
+||
+||
+|-
+|rowspan="3"| {{F1|1981}}
+|rowspan="3"| [[Renault RE20]]B<br>[[Renault RE30]]
+|rowspan="3"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="3"| {{Michelin}}
+||
+|| [[1981 United States Grand Prix West|USW]]
+|| [[1981 Brazilian Grand Prix|BRA]]
+|| [[1981 Argentine Grand Prix|ARG]]
+|| [[1981 San Marino Grand Prix|SMR]]
+|| [[1981 Belgian Grand Prix|BEL]]
+|| [[1981 Monaco Grand Prix|MON]]
+|| [[1981 Spanish Grand Prix|ESP]]
+|| [[1981 French Grand Prix|FRA]]
+|| [[1981 British Grand Prix|GBR]]
+|| [[1981 German Grand Prix|GER]]
+|| [[1981 Austrian Grand Prix|AUT]]
+|| [[1981 Dutch Grand Prix|NED]]
+|| [[1981 Italian Grand Prix|ITA]]
+|| [[1981 Canadian Grand Prix|CAN]]
+|| [[1981 Las Vegas Grand Prix|LVS]]
+||
+||
+||
+||
+|rowspan="3" bgcolor="#FFDF9F"|'''54'''
+|rowspan="3" bgcolor="#FFDF9F"|'''3rd'''
+|-
+| [[Alain Prost]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+||
+||
+||
+||
+|-
+| [[René Arnoux]]
+|bgcolor="#CFCFFF"| <small>8</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#CFCFFF"| <small>8</small>
+|bgcolor="#FFCFCF"| <small>DNQ</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#DFFFDF"| '''4'''
+|bgcolor="#CFCFFF"| '''9'''
+|bgcolor="#CFCFFF"| <small>13</small>
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+||
+||
+|-
+|rowspan="3"| {{F1|1982}}
+|rowspan="3"| [[Renault RE30]]B
+|rowspan="3"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="3"| {{Michelin}}
+||
+|| [[1982 South African Grand Prix|RSA]]
+|| [[1982 Brazilian Grand Prix|BRA]]
+|| [[1982 United States Grand Prix West|USW]]
+|| [[1982 San Marino Grand Prix|SMR]]
+|| [[1982 Belgian Grand Prix|BEL]]
+|| [[1982 Monaco Grand Prix|MON]]
+|| [[1982 United States Grand Prix East|USE]]
+|| [[1982 Canadian Grand Prix|CAN]]
+|| [[1982 Dutch Grand Prix|NED]]
+|| [[1982 British Grand Prix|GBR]]
+|| [[1982 French Grand Prix|FRA]]
+|| [[1982 German Grand Prix|GER]]
+|| [[1982 Austrian Grand Prix|AUT]]
+|| [[1982 Swiss Grand Prix|SUI]]
+|| [[1982 Italian Grand Prix|ITA]]
+|| [[1982 Las Vegas Grand Prix|LVS]]
+||
+||
+||
+|rowspan="3" bgcolor="#FFDF9F"|'''62'''
+|rowspan="3" bgcolor="#FFDF9F"|'''3rd'''
+|-
+| [[Alain Prost]]
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#CFCFFF"| <small>7</small>
+|bgcolor="#CFCFFF"| '''NC'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>8</small>
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| '''4'''
+||
+||
+||
+|-
+| [[René Arnoux]]
+|bgcolor="#FFDF9F"| '''3'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| '''Ret'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>16</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+||
+|-
+|rowspan="3"| {{F1|1983}}
+|rowspan="3"| [[Renault RE30]]C<br>[[Renault RE40]]
+|rowspan="3"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="3"| {{Michelin}}
+||
+|| [[1983 Brazilian Grand Prix|BRA]]
+|| [[1983 United States Grand Prix West|USW]]
+|| [[1983 French Grand Prix|FRA]]
+|| [[1983 San Marino Grand Prix|SMR]]
+|| [[1983 Monaco Grand Prix|MON]]
+|| [[1983 Belgian Grand Prix|BEL]]
+|| [[1983 United States Grand Prix East|USE]]
+|| [[1983 Canadian Grand Prix|CAN]]
+|| [[1983 British Grand Prix|GBR]]
+|| [[1983 German Grand Prix|GER]]
+|| [[1983 Austrian Grand Prix|AUT]]
+|| [[1983 Dutch Grand Prix|NED]]
+|| [[1983 Italian Grand Prix|ITA]]
+|| [[1983 European Grand Prix|EUR]]
+|| [[1983 South African Grand Prix|RSA]]
+||
+||
+||
+||
+|rowspan="3" bgcolor="#DFDFDF"|'''79'''
+|rowspan="3" bgcolor="#DFDFDF"|'''2nd'''
+|-
+| [[Alain Prost]]
+|bgcolor="#CFCFFF"| <small>7</small>
+|bgcolor="#CFCFFF"| <small>11</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#FFDF9F"| '''3'''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#CFCFFF"| <small>8</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+||
+||
+|-
+| [[Eddie Cheever]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+||
+||
+||
+||
+|-
+|rowspan="4"| {{F1|1984}}
+|rowspan="4"| [[Renault RE50]]
+|rowspan="4"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="4"| {{Michelin}}
+||
+|| [[1984 Brazilian Grand Prix|BRA]]
+|| [[1984 South African Grand Prix|RSA]]
+|| [[1984 Belgian Grand Prix|BEL]]
+|| [[1984 San Marino Grand Prix|SMR]]
+|| [[1984 French Grand Prix|FRA]]
+|| [[1984 Monaco Grand Prix|MON]]
+|| [[1984 Canadian Grand Prix|CAN]]
+|| [[1984 United States Grand Prix East|USE]]
+|| [[1984 United States Grand Prix|USA]]
+|| [[1984 British Grand Prix|GBR]]
+|| [[1984 German Grand Prix|GER]]
+|| [[1984 Austrian Grand Prix|AUT]]
+|| [[1984 Dutch Grand Prix|NED]]
+|| [[1984 Italian Grand Prix|ITA]]
+|| [[1984 European Grand Prix|EUR]]
+|| [[1984 Portuguese Grand Prix|POR]]
+||
+||
+||
+|rowspan="4"|'''34'''
+|rowspan="4"|'''5th'''
+|-
+| [[Patrick Tambay]]
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>7</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|| <small>Inj</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>8</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>7</small>
+||
+||
+||
+|-
+| [[Derek Warwick]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>11</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+||
+|-
+| [[Philippe Streiff]]
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+||
+|-
+|rowspan="4"| {{F1|1985}}
+|rowspan="4"| [[Renault RE60]]<br>[[Renault RE60]]B
+|rowspan="4"| Renault [[V6 engine|V6]] ([[Turbocharger|t/c]])
+|rowspan="4"| {{Goodyear}}
+||
+|| [[1985 Brazilian Grand Prix|BRA]]
+|| [[1985 Portuguese Grand Prix|POR]]
+|| [[1985 San Marino Grand Prix|SMR]]
+|| [[1985 Monaco Grand Prix|MON]]
+|| [[1985 Canadian Grand Prix|CAN]]
+|| [[1985 United States Grand Prix East|USE]]
+|| [[1985 French Grand Prix|FRA]]
+|| [[1985 British Grand Prix|GBR]]
+|| [[1985 German Grand Prix|GER]]
+|| [[1985 Austrian Grand Prix|AUT]]
+|| [[1985 Dutch Grand Prix|NED]]
+|| [[1985 Italian Grand Prix|ITA]]
+|| [[1985 Belgian Grand Prix|BEL]]
+|| [[1985 European Grand Prix|EUR]]
+|| [[1985 South African Grand Prix|RSA]]
+|| [[1985 Australian Grand Prix|AUS]]
+||
+||
+||
+|rowspan="4"|'''16'''
+|rowspan="4"|'''7th'''
+|-
+| [[Patrick Tambay]]
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>7</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>7</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>12</small>
+|| <small>WD</small>
+|bgcolor="#DFFFDF"| <small>Ret</small>
+||
+||
+||
+|-
+| [[Derek Warwick]]
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#CFCFFF"| <small>7</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>7</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|| <small>WD</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+||
+|-
+| [[François Hesnault]]
+||
+||
+||
+||
+||
+||
+||
+||
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+|-
+|colspan="26" align=left| {{F1|1986}} &ndash; {{F1|2001}}: Renault does not compete as a team.
+|- 
+| rowspan="3"| {{F1|2002}}
+| rowspan="3"| [[Renault R202]]
+| rowspan="3"| Renault [[V10 engine|V10]]
+| rowspan="3"| {{Michelin}}
+||
+|| [[2002 Australian Grand Prix|AUS]]
+|| [[2002 Malaysian Grand Prix|MAL]]
+|| [[2002 Brazilian Grand Prix|BRA]]
+|| [[2002 San Marino Grand Prix|SMR]]
+|| [[2002 Spanish Grand Prix|ESP]]
+|| [[2002 Austrian Grand Prix|AUT]]
+|| [[2002 Monaco Grand Prix|MON]]
+|| [[2002 Canadian Grand Prix|CAN]]
+|| [[2002 European Grand Prix|EUR]]
+|| [[2002 British Grand Prix|GBR]]
+|| [[2002 French Grand Prix|FRA]]
+|| [[2002 German Grand Prix|GER]]
+|| [[2002 Hungarian Grand Prix|HUN]]
+|| [[2002 Belgian Grand Prix|BEL]]
+|| [[2002 Italian Grand Prix|ITA]]
+|| [[2002 United States Grand Prix|USA]]
+|| [[2002 Japanese Grand Prix|JPN]]
+||
+||
+| rowspan="3"|'''23'''
+| rowspan="3"|'''4th'''
+|-
+| [[Jarno Trulli]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#CFCFFF"| <small>8</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>8</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||
+||
+|-
+| [[Jenson Button]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#CFCFFF"| <small>12</small>
+|bgcolor="#CFCFFF"| <small>7</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>15</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#CFCFFF"| <small>12</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#CFCFFF"| <small>8</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+||
+||
+|-
+| rowspan="3"| {{F1|2003}}
+| rowspan="3"| [[Renault R23]]
+| rowspan="3"| Renault [[V10 engine|V10]]
+| rowspan="3"| {{Michelin}}
+||
+|| [[2003 Australian Grand Prix|AUS]]
+|| [[2003 Malaysian Grand Prix|MAL]]
+|| [[2003 Brazilian Grand Prix|BRA]]
+|| [[2003 San Marino Grand Prix|SMR]]
+|| [[2003 Spanish Grand Prix|ESP]]
+|| [[2003 Austrian Grand Prix|AUT]]
+|| [[2003 Monaco Grand Prix|MON]]
+|| [[2003 Canadian Grand Prix|CAN]]
+|| [[2003 European Grand Prix|EUR]]
+|| [[2003 French Grand Prix|FRA]]
+|| [[2003 British Grand Prix|GBR]]
+|| [[2003 German Grand Prix|GER]]
+|| [[2003 Hungarian Grand Prix|HUN]]
+|| [[2003 Italian Grand Prix|ITA]]
+|| [[2003 United States Grand Prix|USA]]
+|| [[2003 Japanese Grand Prix|JPN]]
+||
+||
+||
+|rowspan="3"|'''88'''
+|rowspan="3"|'''4th'''
+|-
+|| [[Jarno Trulli]]
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#CFCFFF"| <small>13</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFFFDF"| <small>7</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|
+|
+|
+|-
+|| [[Fernando Alonso]]
+|bgcolor="#DFFFDF"| <small>7</small>
+|bgcolor="#FFDF9F"| '''3'''
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|
+|
+|
+|-
+| rowspan="4"| {{F1|2004}}
+| rowspan="4"| [[Renault R24]]
+| rowspan="4"| Renault [[V10 engine|V10]]
+| rowspan="4"| {{Michelin}}
+||
+|| [[2004 Australian Grand Prix|AUS]]
+|| [[2004 Malaysian Grand Prix|MAL]]
+|| [[2004 Bahrain Grand Prix|BHR]]
+|| [[2004 San Marino Grand Prix|SMR]]
+|| [[2004 Spanish Grand Prix|ESP]]
+|| [[2004 Monaco Grand Prix|MON]]
+|| [[2004 European Grand Prix|EUR]]
+|| [[2004 Canadian Grand Prix|CAN]]
+|| [[2004 United States Grand Prix|USA]]
+|| [[2004 French Grand Prix|FRA]]
+|| [[2004 British Grand Prix|GBR]]
+|| [[2004 German Grand Prix|GER]]
+|| [[2004 Hungarian Grand Prix|HUN]]
+|| [[2004 Belgian Grand Prix|BEL]]
+|| [[2004 Italian Grand Prix|ITA]]
+|| [[2004 Chinese Grand Prix|CHN]]
+|| [[2004 Japanese Grand Prix|JPN]]
+|| [[2004 Brazilian Grand Prix|BRA]]
+||
+|rowspan="4" bgcolor="#FFDF9F"|'''105'''
+|rowspan="4" bgcolor="#FFDF9F"|'''3rd'''
+|-
+|| [[Jarno Trulli]]
+|bgcolor="#DFFFDF"| <small>7</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| <small>11</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#CFCFFF"| '''9'''
+|bgcolor="#CFCFFF"| <small>10</small>
+||
+||
+||
+|
+|-
+|| [[Jacques Villeneuve]]
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+||
+|bgcolor="#CFCFFF"| <small>11</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|
+|-
+|| [[Fernando Alonso]]
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFFFDF"| <small>7</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|
+|-
+| rowspan="3"| {{F1|2005}}
+| rowspan="3"| [[Renault R25]]
+| rowspan="3"| Renault [[V10 engine|V10]]
+| rowspan="3"| {{Michelin}}
+||
+|| [[2005 Australian Grand Prix|AUS]]
+|| [[2005 Malaysian Grand Prix|MAL]]
+|| [[2005 Bahrain Grand Prix|BHR]]
+|| [[2005 San Marino Grand Prix|SMR]]
+|| [[2005 Spanish Grand Prix|ESP]]
+|| [[2005 Monaco Grand Prix|MON]]
+|| [[2005 European Grand Prix|EUR]]
+|| [[2005 Canadian Grand Prix|CAN]]
+|| [[2005 United States Grand Prix|USA]]
+|| [[2005 French Grand Prix|FRA]]
+|| [[2005 British Grand Prix|GBR]]
+|| [[2005 German Grand Prix|GER]]
+|| [[2005 Hungarian Grand Prix|HUN]]
+|| [[2005 Turkish Grand Prix|TUR]]
+|| [[2005 Italian Grand Prix|ITA]]
+|| [[2005 Belgian Grand Prix|BEL]]
+|| [[2005 Brazilian Grand Prix|BRA]]
+|| [[2005 Japanese Grand Prix|JPN]]
+|| [[2005 Chinese Grand Prix|CHN]]
+|rowspan="3" bgcolor="#FFFFBF"|'''191'''
+|rowspan="3" bgcolor="#FFFFBF"|'''1st'''
+|-
+|| [[Fernando Alonso]]
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||<small>DNS</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#CFCFFF"| <small>11</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#FFDF9F"| '''3'''
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#FFFFBF"| '''1'''
+|-
+|| [[Giancarlo Fisichella]]
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#CFCFFF"| <small>12</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+||<small>DNS</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|-
+| rowspan="3"| {{F1|2006}}
+| rowspan="3"| [[Renault R26]]
+| rowspan="3"| Renault [[V8 engine|V8]]
+| rowspan="3"| {{Michelin}}
+||
+|| [[2006 Bahrain Grand Prix|BHR]]
+|| [[2006 Malaysian Grand Prix|MAL]]
+|| [[2006 Australian Grand Prix|AUS]]
+|| [[2006 San Marino Grand Prix|SMR]]
+|| [[2006 European Grand Prix|EUR]]
+|| [[2006 Spanish Grand Prix|ESP]]
+|| [[2006 Monaco Grand Prix|MON]]
+|| [[2006 British Grand Prix|GBR]]
+|| [[2006 Canadian Grand Prix|CAN]]
+|| [[2006 United States Grand Prix|USA]]
+|| [[2006 French Grand Prix|FRA]]
+|| [[2006 German Grand Prix|GER]]
+|| [[2006 Hungarian Grand Prix|HUN]]
+|| [[2006 Turkish Grand Prix|TUR]]
+|| [[2006 Italian Grand Prix|ITA]]
+|| [[2006 Chinese Grand Prix|CHN]]
+|| [[2006 Japanese Grand Prix|JPN]]
+|| [[2006 Brazilian Grand Prix|BRA]]
+||
+|rowspan="3" bgcolor="#FFFFBF"|'''206'''
+|rowspan="3" bgcolor="#FFFFBF"|'''1st'''
+|-
+|| [[Fernando Alonso]]
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFDFDF"| '''2'''
+|bgcolor="#FFFFBF"| <small>1</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|
+|-
+|| [[Giancarlo Fisichella]]
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#FFFFBF"| '''1'''
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#FFDF9F"| <small>3</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|
+|-
+| rowspan="3"| {{F1|2007}}
+| rowspan="3"| [[Renault R27]]
+| rowspan="3"| Renault [[V8 engine|V8]]
+| rowspan="3"| {{Bridgestone}}
+||
+|| [[2007 Australian Grand Prix|AUS]]
+|| [[2007 Malaysian Grand Prix|MAL]]
+|| [[2007 Bahrain Grand Prix|BHR]]
+|| [[2007 Spanish Grand Prix|ESP]]
+|| [[2007 Monaco Grand Prix|MON]]
+|| [[2007 Canadian Grand Prix|CAN]]
+|| [[2007 United States Grand Prix|USA]]
+|| [[2007 French Grand Prix|FRA]]
+|| [[2007 British Grand Prix|GBR]]
+|| [[2007 European Grand Prix|EUR]]
+|| [[2007 Hungarian Grand Prix|HUN]]
+|| [[2007 Turkish Grand Prix|TUR]]
+|| [[2007 Italian Grand Prix|ITA]]
+|| [[2007 Belgian Grand Prix|BEL]]
+|| [[2007 Japanese Grand Prix|JPN]]
+|| [[2007 Chinese Grand Prix|CHN]]
+|| [[2007 Brazilian Grand Prix|BRA]]
+||
+||
+|rowspan="3" bgcolor="#FFDF9F"|'''51'''
+|rowspan="3" bgcolor="#FFDF9F"|'''3rd'''
+|-
+|| [[Giancarlo Fisichella]]
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#000000" style="color: #ffffff"| <small>DSQ</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#CFCFFF"| <small>12</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#CFCFFF"| <small>12</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#CFCFFF"| <small>11</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|
+|
+|-
+|| [[Heikki Kovalainen]]
+|bgcolor="#CFCFFF"| <small>10</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#DFFFDF"| <small>7</small>
+|bgcolor="#CFCFFF"| <small>13</small>
+|bgcolor="#DFFFDF"| <small>4</small>
+|bgcolor="#DFFFDF"| <small>5</small>
+|bgcolor="#CFCFFF"| <small>15</small>
+|bgcolor="#DFFFDF"| <small>7</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#DFFFDF"| <small>6</small>
+|bgcolor="#DFFFDF"| <small>7</small>
+|bgcolor="#DFFFDF"| <small>8</small>
+|bgcolor="#DFDFDF"| <small>2</small>
+|bgcolor="#CFCFFF"| <small>9</small>
+|bgcolor="#EFCFFF"| <small>Ret</small>
+|
+|
+|}
+
+==References==
+{{reflist}}
+
+==External links==
+{{commons|Renault F1}}
+*[http://www.ing-renaultf1.com/en/ ING Renault F1 Team's official website in English]
+*[http://www.ina.fr/archivespourtous/index.php?vue=notice&from=themes&cs_page=3&cs_order=0&code=C0524222302&num_notice=23&total_notices=31 French Grand Prix 1979, INA archives video (French soundtrack)]
+
+{{start box}}
+{{s-sports}}
+{{succession box|title=[[List of Formula One World Constructors' Champions|Formula One Constructors' Champion]] |before=[[Scuderia Ferrari|Ferrari]]|after=[[Scuderia Ferrari|Ferrari]]|years={{f1|2005}}-{{f1|2006}}}}
+{{s-ach|aw}}
+{{succession box |
+  | before = [[Greece national football team|Greece Men's National Football Team]]
+  | after = [[Italy national football team|Italy Men's National Football Team]]
+  | title = [[Laureus World Sports Award for Team of the Year|Laureus World Team of the Year]]
+  | years = 2006
+|}}
+{{end box}}
+
+{{Formula_One_teams}}
+{{Renault F1}}
+{{Formula One constructors}}
+{{Formula One World Constructors' Champions}}
+
+[[Category:Formula One engine manufacturers]]
+[[Category:Formula One constructors]]
+[[Category:Formula One entrants]]
+[[Category:Renault]]
+[[Category:Laureus World Sports Awards winners]]
+[[Category:French auto racing teams]]
+[[Category:French racecar constructors]]
+
+[[bg:Рено (отбор)]]
+[[ca:Renault F1]]
+[[cs:Renault F1]]
+[[da:Renault F1]]
+[[de:Renault F1]]
+[[et:Renault F1]]
+[[es:Renault F1]]
+[[fr:Renault F1 Team]]
+[[hr:Renault F1]]
+[[it:Renault F1]]
+[[lv:Renault F1]]
+[[lt:Renault F1]]
+[[nl:Renault F1]]
+[[ja:ルノーF1]]
+[[no:Renault F1]]
+[[nn:Renault F1]]
+[[pl:Renault F1]]
+[[pt:Renault F1 Team]]
+[[ro:Renault F1]]
+[[ru:Рено (команда Формулы-1)]]
+[[sl:Renault F1]]
+[[sr:Рено Ф1]]
+[[fi:Renault F1 Team]]
+[[sv:Renault F1]]
+[[tr:Renault F1]]
+[[zh:雷诺车队]]

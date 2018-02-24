@@ -1,0 +1,74 @@
+[[Image:Martian face viking.jpg|thumb|200 px|right|The Cydonia Region taken by the Viking 1 orbiter and released by NASA/JPL on July 25, 1976 (north is to the upper right).]]
+'''Cydonia Mensae''' is an [[albedo feature]] (region) on [[Mars]]. It lies in the planet's northern [[Northern Hemisphere|hemisphere]] in a transitional zone between the heavily [[Impact crater|crater]]ed regions to the South, and relatively smooth [[plains]] to the North.  Some [[planetary science|planetologists]] believe that the northern plains may once have been [[seabed|ocean bed]]s<ref>Head, J.W., Kreslavsky, M., Hiesinger, H., Ivanov, M., Pratt, S., Seibert, N., Smith, D.E. and Zuber, M.T. (1998).  [http://www.agu.org/pubs/abs/gl/1998GL900116/1998GL900116.html Oceans in the past history of Mars: Tests for their presence using Mars Orbiter Laser Altimeter (MOLA) data].  ''Geophysical Research Letters'' '''25''', 4401-4404.</ref> and that Cydonia may have been a [[coast]]al zone (though this is still uncertain).<ref>[[Michael C. Malin|Malin, M. C.]] and Edgett, K. S. (1999).  [http://www.agu.org/pubs/abs/gl/1999GL002342/1999GL002342.html Oceans or seas in the Martian northern lowlands: High resolution imaging tests of proposed coastlines].  ''Geophysical Research Letters'' '''26''', 3049-3052.</ref> Cydonia is covered in numerous [[mesa]]s, some of which have attracted both scientific<ref name="carlotto88">Carlotto, M. J. (1988) [http://www.newfrontiersinscience.com/martianenigmas/Papers/AO1888.pdf Digital Imagery Analysis of Unusual Martian Surface Features].  ''Applied Optics'' '''27''', 1926-1933.</ref> and popular attention.<ref>Whitehouse, D., [http://news.bbc.co.uk/1/hi/sci/tech/1351319.stm Nasa: No face - honest], [[BBC]], [[25 May]] [[2001]].  Retrieved [[9 November]] [[2007]].</ref><ref>Britt, R.R., [http://www.cnn.com/2006/TECH/space/09/22/mars.face/index.html Face on Mars gets makeover], [[CNN]], [[22 September]] [[2006]].  Retrieved [[9 November]] [[2007]].</ref>
+
+==The Face on Mars==
+[[Image:Martian face viking cropped.jpg|thumb|200 px|right|Cropped version of the original batch-processed photo (#35A72) of the 'Face on Mars'. The black dots that give the image a speckled appearance are data errors.]]
+[[Image:viking moc face 20m.gif|thumb|200 px|right|The second 1976 Viking image (left, image #70A13) compared with the 2001 Mars Global Surveyor image (right). 20 meters per pixel resolution.]]
+[[Image:Mars face.png|thumb|200 px|right|Mars Global Surveyor high-resolution photo of the "Face on Mars" (North is to the upper left)]]
+
+One of the Cydonian mesas, situated at 40°75' north [[latitude]] and 9°46' west [[longitude]], took on the striking appearance of a [[humanoid]] Face on Mars in a photo taken by [[Viking 1]] on [[July 25]], [[1976]].  This discovery was made independently by two computer engineers named at [[NASA]]'s [[Goddard Space Flight Center]], Vincent DiPietro and Gregory Molenaar.{{Fact|date=November 2007}} While searching through NASA archives they discovered two misfiled images, Viking frames 35A72 and 70A13.  When the images were originally acquired in 1976, Viking chief scientist Gerry Soffen dismissed the "face" in image 35A72 as "a trick of light and shadow" which "disappeared several hours later"{{Fact|date=November 2007}}.  However, the second "face" image, 70A13, was acquired 35 Viking orbits later and at a different "sun-angle" to the 35A72 image.  Subsequently, DiPietro and Molenaar developed an [[image processing]] technique (Starburst Pixel Interleaving Technique) to [[Super-resolution|increase the resolution]] of the original images (the technique was validated using [[Landsat]] images){{Fact|date=November 2007}}.
+
+Some commentators, most notably [[Richard C. Hoagland]], believe it to be evidence of a long-lost [[life on Mars|Martian civilization]] along with other features they believe are present, such as apparent [[pyramid]]s, which they argue are part of a [[ruins|ruined city]]. [[Image analysis]] of the early Viking images led a few researchers to suggest that the features of the Face might not be an accidental consequence of viewing conditions<ref name="carlotto88"/>. 
+
+However, today it is generally accepted to be an [[optical illusion]], an example of [[pareidolia]]<ref>Britt, R.R., [http://www.cnn.com/2004/TECH/space/03/17/alien.debunk/index.html Scientist attacks alien claims on Mars], [[CNN]], [[18 March]] [[2004]].  Retrieved [[12 October]] [[2007]].</ref>. After analysis of the higher resolution [[Mars Global Surveyor]] data [[NASA]] stated that "a detailed analysis of multiple images of this feature reveals a natural looking Martian hill whose illusory face-like appearance depends on the viewing angle and angle of [[illumination]]"<ref>{{cite web | url=http://www.nasa.gov/multimedia/imagegallery/image_feature_60.html | title=The Face on Mars, Viking Project | publisher= [[NASA]] website | accessdate=2007-04-26}}</ref>.  Similar optical illusions can be found in the geology of [[Earth]]; an example is the [[Badlands Guardian]], which resembles a human head wearing a [[Native Americans in the United States|Native American]] [[headgear|headress]]<ref>{{cite web | url=http://maps.google.com/maps?z=16&ll=50.010083,-110.113006&spn=0.009363,0.020084&t=k&iwloc=addr | title=Badlands Guardian Geological Feature | publisher=[[Google Maps]] | accessdate=2007-04-26}}</ref>.
+
+Originally, eighteen images of the Cydonia Mensae region were taken by the [[Viking 1]] and [[Viking 2|2]] [[orbiter]]s, but only seven have resolutions better than 250 m/[[pixel]] (820 ft/pixel). The other eleven images have resolutions worse than 550 m/pixel (1800 ft/pixel) and are virtually useless for studying the feature. Of the seven good images, the lighting and time at which two pairs of images were taken are so close as to reduce the number to five usable, distinct images. The ''Mission to Mars: Viking Orbiter Images of Mars'' CD-ROM image numbers are: 35A72 (VO-1010), 70A13 (VO-1011), 561A25 (VO-1021), 673B56 & 673B54 (VO-1063), and 753A33 & 753A34 (VO-1028)<ref>[http://pds-imaging.jpl.nasa.gov/Admin/resources/cd_viking.html ''Mission to Mars: Viking Orbiter Images of Mars'' website], [[NASA]] [[Jet Propulsion Laboratory]]; raw data in [[Alphabetical_list_of_file_extensions#I|IMQ (ImageQ) format]] can be downloaded from these links: [http://pds-geosciences.wustl.edu/geo/vo1_vo2-m-vis-2-edr-v2/vo_1010/f035axx/f035a72.imq 35A72], [http://pds-geosciences.wustl.edu/geo/vo1_vo2-m-vis-2-edr-v2/vo_1011/f070axx/f070a13.imq 70A13], [http://pds-geosciences.wustl.edu/geo/vo1_vo2-m-vis-2-edr-v2/vo_1021/f561axx/f561a25.imq 561A25], [http://pds-geosciences.wustl.edu/geo/vo1_vo2-m-vis-2-edr-v2/vo_1063/f673bxx/f673b56.imq 673B56], 
+[http://pds-geosciences.wustl.edu/geo/vo1_vo2-m-vis-2-edr-v2/vo_1063/f673bxx/f673b54.imq 673B54], 
+[http://pds-geosciences.wustl.edu/geo/vo1_vo2-m-vis-2-edr-v2/vo_1028/f753axx/f753a33.imq 753A33], 
+[http://pds-geosciences.wustl.edu/geo/vo1_vo2-m-vis-2-edr-v2/vo_1028/f753axx/f753a34.imq 753A34].  Retrieved on [[20 September]] [[2007]].</ref>.
+
+Since September [[2006]], a succession of new data from the Cydonia region have been published by the [[European Space Agency]] and the [[HiRISE]] team.  These have included photographs taken by the [[Mars Express|Mars Express probe]]<ref>{{cite web | url=http://www.esa.int/esaCP/SEM09F8LURE_index_0.html | title=Cydonia - the face on Mars, 3D rendering of Mars Express imagery | publisher=[[ESA]] website | accessdate=2007-04-26}}</ref> and the [[Mars Reconnaissance Orbiter]],<ref>{{cite web | url=http://hiroc.lpl.arizona.edu/images/PSP/diafotizo.php?ID=PSP_003234_2210 | title=Popular Landform in Cydonia Region | publisher=[[HiRISE]] website | accessdate=2007-04-26}}</ref> and a 3D animation of the "Face on Mars" using a combination of digital data from the High Resolution Stereo Camera (HRSC) on the [[Mars Express]] probe and the Mars Orbiter Camera (MOC) on board NASA's [[Mars Global Surveyor]].<ref>{{cite web | url=http://www.esa.int/SPECIALS/Mars_Express/SEMINCO7BTE_0.html | title=Cydonia's 'Face on Mars' in 3D animation using Mars Global Surveyor imagery | publisher=[[ESA]] website | accessdate=2007-04-26}}</ref>  In contrast to the relatively low resolution of the Viking images of Cydonia, these new platforms afford much improved resolution.  For instance, the Mars Express images are at a resolution of 14 m/pixel (46 ft/pixel) or better.
+
+Cydonia and the Face on Mars appear frequently in [[popular culture]], including [[feature film]]s, [[television series]], [[video game|videogames]] and even [[popular music|music]]<ref>For example: Film - ''[[Mission to Mars]]'' (2000); TV series - ''[[The X-Files]]'' ("[[Space (The X-Files)|Space]]", 1993), ''[[Futurama]]'' ("[[Where The Buggalo Roam]]", 2002); Videogames - ''[[Zak McKracken]]'' (1988), ''[[X-COM: UFO Defense]]'' (1993); Music - ''[[Telemetry of a Fallen Angel]]'' by [[Cruxshadows]] (1995), "[[Knights of Cydonia]]" by [[Muse (band)|Muse]] (2006).</ref>.  Astronomer [[Carl Sagan]] criticized many conclusions people have made about it in his book ''[[The Demon Haunted World]]''.
+
+== See also ==
+* [[Galle (Martian crater)|Galle]], a Martian crater also known as the "Happy face" or "Smile" of Mars.
+* [[Life on Mars]]
+* [[Richard C. Hoagland]]
+
+==References==
+{{reflist}}
+
+== External links ==
+{{commonscat|Face of Mars}}
+===Astronomy===
+* [http://nssdc.gsfc.nasa.gov/planetary/viking.html Viking Project], NASA
+* [http://www.esa.int/esaMI/Mars_Express/index.html Mars Express], ESA ([http://mars.jpl.nasa.gov/express/ NASA page])
+* [http://mars.jpl.nasa.gov/mgs/ Mars Global Surveyor], NASA
+* [http://www.geoinf.fu-berlin.de/eng/projects/mars/hrsc300-Cydonia.php High-resolution images of Cydonia], Mars Express orbiter
+* [http://antwrp.gsfc.nasa.gov/apod/ap060925.html Astronomy Picture of the Day 25-9-06], recent visual of the Face on Mars
+* [http://antwrp.gsfc.nasa.gov/apod/ap060926.html Astronomy Picture of the Day 26-9-06], recent visual of the Cydonia region (including the Face on Mars)
+* [http://www.msss.com/education/facepage/face_discussion.html Discussion of MOC and "Face on Mars"], Malin Space Science Systems (also, [http://www.msss.com/education/facepage/face.html Face on Mars])
+* [http://www.google.com/mars/#lat=40.757660&lon=-9.492187&zoom=9&map=visible&q=The%20Face%20on%20Mars ''Cydonia Mensae''] at [[Google Mars]]
+* [http://www.keithlaney.net/ Independently processed Cydonia Images]
+<!-- * [http://www.amarsodyssey.com Mars Exploration Blog] NOTHING ABOUT CYDONIA -->
+
+==="Face on Mars" as artifact===
+* [http://www.enterprisemission.com The Enterprise Mission], Hoagland's official website
+* [http://www.thehiddenrecords.com/mars.htm ''The Hidden Records''], official website of a book by Wayne Herschel
+* [http://www.skepdic.com/faceonmars.html Face on Mars], entry in the ''[[Skeptic's Dictionary]]''
+* [http://www.badastronomy.com/bad/misc/hoagland/ Hoagland debunking at Bad Astronomy], a discussion of the science and pseudoscience of Cydonia
+<!-- * [http://video.google.com/videoplay?docid=5148275944870937384&q=cydonia Hoagland at UN - Cydonia Connection], video of a conference held at the UN building about the Cydonia area and its connection with structures here on Earth in Egypt; the Pyramids, Sphinx and more DEAD LINK (26/04/07) -->
+* [http://www.geody.com/geolook.php?world=mars&lat=41.347994&lon=-9.238214 The exact position of the Face on Mars on Geody, linked to [[NASA World Wind]]]
+
+[[Category:Albedo features on Mars]]
+[[Category:Mars]]
+[[Category:Surface features of Mars]]
+
+[[cs:Cydonia Mensae]]
+[[de:Cydonia Mensae]]
+[[es:Cydonia Mensae]]
+[[eo:Cydonia Mensae]]
+[[fr:Cydonia Mensae]]
+[[is:Cydonia (Mars)]]
+[[it:Volto su Marte]]
+[[he:הפנים במאדים]]
+[[lt:Marso sfinksas]]
+[[nl:Cydonia (Mars)]]
+[[ja:火星の人面岩]]
+[[pl:Marsjańska Twarz]]
+[[ru:Марсианский Сфинкс]]
+[[sk:Cydonia Mensae]]
+[[sl:Obraz na Marsu]]
+[[fi:Kasvot Marsissa]]
+[[th:ใบหน้าบนดาวอังคาร]]

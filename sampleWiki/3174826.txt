@@ -1,0 +1,157 @@
+{{refstyle}}
+The '''2005 Sony BMG CD copy prevention scandal''' concerns the [[copy prevention]] measures included by [[Sony BMG]] on several [[compact disc]]s in 2005. Sony BMG included the [[Extended Copy Protection]] (XCP) and [[MediaMax CD-3]] software on music CDs. XCP was put on 52 titles<ref>[http://cp.sonybmg.com/xcp/english/titles.html "CD’s Containing XCP Content Protection Technology"], Sony/BMG web site, retrieved [[November 22]], [[2006]].</ref> and MediaMax was put on 50 titles.<REF>[http://news.bbc.co.uk/1/hi/technology/4511042.stm "Anti-Piracy CD Problems Vex Sony"], BBC News, retrieved [[November 22]], [[2006]].</REF> This software was automatically installed on Windows desktop computers when customers tried to play the CDs. The software interferes with the normal way in which the [[Microsoft Windows]] [[operating system]] plays CDs, opening security holes that allow viruses to break in, and causing other problems. It is [[#Legal situation|widely described]] as [[spyware]].
+
+As a result, a number of parties have filed lawsuits against Sony BMG; the company ended up [[product recall|recalling]] all the affected CDs; and greater public attention was drawn to the issue of commercially-backed spyware.
+== History & technical information ==
+<!-- If you can find a better heading than this one, then please remove it and re-phrase it. this is just here for the purposes of easy navigation -->
+
+===Background===
+In August 2000, statements by [[Sony Pictures Entertainment]] US senior VP [[Steve Heckler]] foreshadowed the events of late 2005. Heckler told attendees at the Americas Conference on Information Systems "The industry will take whatever steps it needs to protect itself and protect its revenue streams...It will not lose that revenue stream, no matter what...Sony is going to take aggressive steps to stop this. We will develop technology that transcends the individual user. We will firewall Napster at source - we will block it at your cable company, we will block it at your phone company, we will block it at your [[Internet service provider|ISP]]. We will firewall it at your PC...These strategies are being aggressively pursued because there is simply too much at stake."<ref>Anastasi, M. A. [http://www.nyfairuse.org/sony.xhtml "Sony Exec: We Will Beat Napster,"] ''New Yorkers For Fair Use'' web site,  [[August 17]], [[2000]], retrieved [[November 13]], [[2006]].</ref> BMG in Europe experienced a similar scandal in 2002 when CDs were sold with copy protection measures, but without any warning labels. They were eventually replaced by BMG,<ref>Smith, Tony. [http://www.theregister.co.uk/2001/11/19/bmg_to_replace_antirip_natalie/ "BMG to replace anti-rip Natalie Imbruglia CDs,"] ''The Register, '' [[November 19]], [[2001]], retrieved [[November 13]], [[2006]].</ref> but the company made clear intentions to continue copy-protection innovations.<ref>Lettice, John. [http://www.theregister.co.uk/2002/11/06/no_more_music_cds_without/ "'No more music CDs without copy protection,' claims BMG unit,"] ''The Register,'' [[November 6]], [[2002]], retrieved [[November 13]], [[2006]].</ref><ref>Lettice, John. [http://www.theregister.co.uk/2002/11/21/all_cds_will_be_protected/ "All CDs will be protected '''and''' you are a filthy pirate,"] ''The Register,'' [[November 21]], [[2002]], retrieved [[November 13]], [[2006]].</ref>
+
+=== Sony BMG software issues ===
+On [[October 31]] [[2005]], [[Mark Russinovich]] posted to his [[blog]] a detailed description and technical analysis of the characteristics of the software contained on Sony BMG music CDs. Called "Sony, Rootkits and Digital Rights Management Gone Too Far", the article asserts vocally that the software is illegitimate and that [[digital rights management]] had "gone too far."<REF>Russinovich, Mark. [http://blogs.technet.com/markrussinovich/archive/2005/10/31/sony-rootkits-and-digital-rights-management-gone-too-far.aspx "Sony, Rootkits and Digital Rights Management Gone Too Far,"], ''Mark's Blog,'' [[October 31]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+==== Security holes ====
+Russinovich stated that there were shortcomings in the software design that manifest themselves as security holes that can be exploited by malicious software such as [[computer worm|worms]] or [[computer virus|viruses]]. He also mentioned that the XCP software installed silently before the [[EULA]] appeared, that the EULA does not mention the XCP software, and that there was no uninstaller, all of which are illegal in various ways in various jurisdictions.
+
+[[Edward Felten|Ed Felten]]'s ''Freedom to tinker'' blog featured an article by J. Alex Halderman discussing the SunnComm DRM also found on some Sony BMG CDs, which is very similar to the F4I software in that it installs without authorization or notification, and does not have an uninstaller.<REF>Halderman, J. Alex. [http://www.freedom-to-tinker.com/?p=925 "Sony Shipping Spyware from SunnComm, Too"], ''Freedom To Tinker,'' [[November 12]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+====Resource drain====
+The article also asserts that the software runs in the background and consumes system resources, slowing down the user's computer, regardless of whether there is a protected CD playing.
+
+====Poor design====
+Russinovich presented evidence that the software employs unsafe procedures to start/stop the rootkit, which could lead to system crashes (the infamous [[Blue Screen of Death|BSoD]]) and that inexpert attempts to uninstall the software can lead to the [[Microsoft Windows|Windows]] operating system failing to recognize existing drive(s). The Sony rootkit is designed to hide any files, registry keys and processes starting with the string $sys$, making it very easy for writers of worms and other malware to also hide their files by simply using the same name. Within weeks there were several trojans and worms taking advantage of this functionality in machines already compromised by the Sony rootkit.
+
+Anti-virus firm [[F-Secure]] asserted, "Although the software isn't directly malicious, the used rootkit hiding techniques are exactly the same used by malicious software to hide themselves. The DRM software will cause many similar false alarms with all AV software that detect rootkits. ... Thus it is very inappropriate for commercial software to use these techniques."<REF>Larvala, Samuli. [http://www.f-secure.com/v-descs/xcp_drm.shtml "F-Secure Rootkit Information : XCP DRM Software"], ''F-secure Computer Rootkit Information Pages,'' [[November 29]], [[2005]], retrieved [[November 1]], [[2006]].</REF> After public pressure, [[Symantec]]<REF>[http://www.symantec.com/security_response/writeup.jsp?docid=2005-110615-2710-99  "SecurityRisk.First4DRM"], ''Symantec Security Response,'' November 2005, retrieved [[November 22]], [[2006]].</REF> and other anti-virus vendors included detection for the rootkit in their products as well, and Microsoft announced it would include detection and removal capabilities in their security patches.<REF>[http://www.schneier.com/blog/archives/2005/11/sonys_drm_rootk.html "Sony's DRM Rootkit: The Real Story"], ''Shneier On Security,'' [[November 17]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+=== Rootkit removal program ===
+Sony BMG [http://cp.sonybmg.com/xcp/english/updates.html released a software utility] to remove the rootkit component of XCP from affected Microsoft Windows computers, but this removal utility was soon analyzed by Russinovich again in his [[November 5]], [[2005]], blog and revealed as only exacerbating the privacy and security concerns.<REF>[http://blogs.technet.com/markrussinovich/archive/2005/11/04/more-on-sony-dangerous-decloaking-patch-eulas-and-phoning-home.aspx  "More on Sony: Dangerous Decloaking Patch, EULAs and Phoning Home"], ''Mark's Blog,'' [[November 4]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+In fact, the Sony BMG removal program merely unmasked the hidden files installed by the rootkit, but did not actually remove the rootkit. In addition, this program was reported to install additional software that cannot be uninstalled. In order to download the uninstaller, it is necessary to provide an e-mail address (which the Sony BMG Privacy Policy implies to be added to various bulk e-mail lists), and to install an [[ActiveX|ActiveX control]] containing backdoor methods (marked as "safe for scripting", and thus prone to exploits).<REF>Nikki, Matti. [http://hack.fi/~muzzy/sony-drm/  "Muzzy's research about Sony's XCP DRM system"],  [[December 6]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+On [[November 18]] [[2005]], Sony BMG provided a "new and improved" removal tool to remove the rootkit component of XCP from affected Microsoft Windows computers. 
+
+Opponents of Sony BMG's actions, including [[Slashdot.org|Slashdot]] and [[Digg]] contributors, later accused Sony BMG of violating the privacy of its customers to create a backdoor onto their machine using code that itself violates an [[open-source license]]. They claimed that this DRM program, designed to give Sony BMG control over the customer's machine in the name of copyright protection, is itself infringing copyright by including code from the [[LAME]] MP3 library.<REF>CMDR Taco [http://yro.slashdot.org/yro/05/11/15/1250229.shtml?tid=117&tid=188&tid=17  "Sony Rootkit Allegedly Contains LGPL Software"], ''Slashdot,'' [[November 15]], [[2005]], retrieved [[November 22]], [[2006]].</REF>.
+
+== Legal and financial problems ==
+=== Product recall ===
+On [[November 15]], 2005 [[vnunet.com]] announced<ref>{{cite web
+|url=http://www.vnunet.com/vnunet/news/2146053/sony-backs-root-kit-anti-piracy
+|title=Sony backs out of rootkit anti-piracy scheme
+|author=vunet.com
+|date=2005-11-15
+}}</ref> that Sony BMG was backing out of its copy-protection software, recalling unsold CDs from all stores, and offering consumers to exchange their CDs with versions lacking the software. The [[Electronic Frontier Foundation]] compiled [http://www.eff.org/deeplinks/archives/004144.php a partial list of CDs with XCP]. Sony BMG was quoted as maintaining that "there were no security risks associated with the anti-piracy technology", despite numerous virus and malware reports. On [[November 16]], 2005, [[US-CERT]], part of the [[United States Department of Homeland Security]], issued an advisory on XCP DRM. They said that XCP uses rootkit technology to hide certain files from the computer user, and that this technique is a security threat to computer users. They also said one of the uninstallation options provided by Sony BMG introduces further vulnerabilities to a system. US-CERT advised, "Do not install software from sources that you do not expect to contain software, such as an audio CD."<REF>[http://www.us-cert.gov/current/archive/2005/11/17/archive.html#xcpdrm  "First 4 Internet XCP DRM Vulnerabilities"], ''US-CERT Activity Archive,'' [[November 15]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+Sony BMG announced that it had instructed retailers to remove any unsold music discs containing the software from their shelves.<REF>Taylor, Paul. [http://news.ft.com/cms/s/e9e41f72-56f4-11da-b98c-00000e25118c.html  "Sony BMG bows to pressure"], ''Financial Times,'' [[November 17]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+It was estimated by internet expert Dan Kaminsky that XCP was in use on more than 500,000 networks. <REF>[http://news.bbc.co.uk/2/hi/technology/4445550.stm  "More pain for Sony over CD code"], ''BBC News,'' [[November 17]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+CDs with XCP technology can be identified by the letters "XCP" printed on the back cover of the jewel case for the CD.
+
+On [[November 18]], 2005 [[Reuters]] [http://today.reuters.com/investing/financeArticle.aspx?type=governmentFilingsNews&storyID=URI:urn:newsml:reuters.com:20051118:MTFH53938_2005-11-18_20-35-33_L18167933:1 reported that] Sony BMG would exchange affected insecure CDs for new unprotected disks  as well as unprotected MP3 files. 
+
+Information about the swap can be found at [http://cp.sonybmg.com/xcp/ the Sony BMG swap program website]. As a part of the swap program, consumers can mail their XCP-protected CDs to Sony BMG and would be sent an unprotected disc via return mail.
+ 
+On [[November 29]] then-New York Attorney General [[Eliot Spitzer]] found through his investigators that despite the recall of [[November 15]] Sony BMG CDs with XCP were still for sale in New York City music retail outlets. Spitzer said "It is unacceptable that more than three weeks after this serious vulnerability was revealed, these same CDs are still on shelves, during the busiest shopping days of the year, [and] I strongly urge all retailers to heed the warnings issued about these products, pull them from distribution immediately, and ship them back to Sony."<REF>Hesseldahl, Arik. [http://businessweek.com/technology/content/nov2005/tc20051128_573560.htm  " Spitzer Gets on Sony BMG's Case "], ''BusinessWeek Online,'' [[November 29]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+The next day, Massachusetts Attorney General [[Tom Reilly]] [http://www.ago.state.ma.us/sp.cfm?pageid=986&id=1540 issued a statement] saying that Sony BMG CDs with XCP were still available in Boston despite the Sony BMG recall of [[November 15]]. Attorney General Reilly advised consumers not to purchase the Sony BMG CDs with XCP and said that he was conducting an investigation of Sony BMG.
+
+As of [[January 26]], [[2006]] Sony BMG's website offered consumers no reference to this issue and no way to locate Sony BMG's explanation or list of affected CD's. 
+
+As of [[May 11]], 2006 [http://www.sonybmg.com/ Sony BMG's website] offered consumers a link to [http://web.archive.org/web/20061221221411/http://www.sonybmgcdtechsettlement.com/ "Class Action Settlement Information Regarding XCP And Mediamax Content Protection."] It has online claim filing and links to software updates/uninstallers. The deadline for submitting a claim was June 30, 2007.
+
+==== Texas state action ====
+
+On [[November 21]], 2005, Texas Attorney General [[Greg Abbott]] [http://www.oag.state.tx.us/oagnews/release.php?id=1266 sued Sony BMG]. Texas is the first state in the United States to bring legal action against Sony BMG in this matter. The suit is also the first filed under the state’s 2005 spyware law. It alleges the company surreptitiously installed the spyware on millions of compact music discs (CDs) that consumers inserted into their computers when they play the CDs, which can compromise the systems.
+
+On [[December 21]], 2005, Abbott [http://www.oag.state.tx.us/oagnews/release.php?id=1370 added new allegations to his lawsuit] against Sony-BMG, regarding MediaMax. The new allegations claim that MediaMax violates the state's spyware and deceptive trade practices laws, because the MediaMax software is installed even if users decline the license agreement that would authorize its installation. Abbott said "We keep discovering additional methods Sony used to deceive Texas consumers who thought they were simply buying music", and "Thousands of Texans are now potential victims of this deceptive game Sony played with consumers for its own purposes." In addition to violations of the Consumer Protection Against Computer Spyware Act of 2005, which allows for civil penalties of $100,000 for each violation of the law, the alleged violations added in the updated lawsuit, on [[2005-12-21]], carry maximum penalties of $20,000 per violation.<!-- cited news sources no longer online -->
+
+==== New York and California class action suits ====
+
+[[Class action suit]]s have been filed against Sony BMG in New York and California.<REF>[http://news.bbc.co.uk/1/hi/technology/4424254.stm  "Sony sued over copy-protected CDs; Sony BMG is facing three lawsuits over its controversial anti-piracy software"], ''BBC News,'' [[November 10]], [[2005]], retrieved [[November 22]], [[2006]].</REF> 
+
+On [[December 30]], 2005, the [[New York Times]] reported that [[Sony BMG]] has reached a tentative settlement of the lawsuits, proposing two ways of compensating consumers who have purchased the affected recordings.<REF>[http://www.nytimes.com/2005/12/30/technology/30soft.html  "Sony BMG Tentatively Settles Suits on Spyware"], Associated Press report in ''The New York Times,'' [[December 30]], [[2005]], retrieved [[November 22]], [[2006]]. (Free web registration required to view content.)</REF> According to the proposed settlement, those who purchased an XCP CD will be paid $7.50 per purchased recording and given the opportunity to download a free album, or be able to download three additional albums from a limited list of recordings if they give up their cash incentive. District Judge Naomi Reice Buchwald entered an order tentatively approving the settlement on [[January 6]], 2006. <!-- cited reference on SONYSUIT.COM no longer available -->
+
+The settlement is designed to compensate those whose computers were infected, but not otherwise damaged. Those who have damages that are not addressed in the class action are able to opt out of the settlement and pursue their own litigation.
+
+A fairness hearing was held on [[May 22]], 2006 at 9:15 am at the [[Daniel Patrick Moynihan]] United States Courthouse for the Southern District of New York.
+
+Claims must have been submitted by [[December 31]], 2006. Class members who wished to be excluded from the settlement must have filed before [[May 1]], 2006. Those who remained in the settlement could attend the fairness hearing at their own expense and speak on their own behalf or be represented by an attorney.
+
+==== Other actions ====
+
+It was reported on [[December 24]], 2005 that then-Florida Attorney General [[Charlie Crist]] was investigating Sony BMG spyware.<REF>[http://www.sptimes.com/2005/12/24/State/Crist_s_office_joins_.shtml  "Crist's office joins Sony BMG spyware probe"], ''St. Petersburg Times Online,'' [[December 24]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+In Italy, [[ALCEI]] (an association similar to [[Electronic Frontier Foundation|EFF]]) also reported the rootkit to the Financial Police, asking for an investigation under various computer crime allegations, along with a technical analysis of the rootkit.<REF>[http://www.theinquirer.net/?article=27508  "Crist's office joins Sony BMG spyware probe"], ''The Inquirer,'' [[November 7]], [[2005]], retrieved [[November 22]], [[2006]].</REF> On [[November 21]], EFF announced that they were also pursuing a lawsuit over both [[XCP]] and the [[SunnComm]] [[MediaMax]] DRM technology. On [[December 6]], 2005 Sony-BMG said that 5.7 million of its CDs were shipped with SunnComm MediaMax that requires a new software patch to prevent a potential security breach in consumers' computers. The security vulnerability was discovered by EFF and brought to the attention of Sony BMG.<!-- cited source no longer available --> The MediaMax Version 5 software was loaded on 27 Sony BMG titles. All these suits are regarding security threats and other damage to customer computers, not copyright issues in the code. The EFF lawsuit also involves 
+issues concerning the Sony BMG [[end user license agreement]].
+Despite the numerous civil lawsuits that were spawned or threatened, the US Department of Justice (DOJ) refused to make any comment on whether it would take any criminal action against Sony. This despite the fact that the company seems to have violated several sections of Federal cybersecurity law. Instead, the DOJ initiated a new bill to Congress called The Intellectual Property Protection Act of 2005 that would formally criminalize the act of file sharing, thus showing support for Sony's efforts to protect its copyrights.  However Sony did receive a public admonishment from the Bush Administration who told Sony BMG, "It's your intellectual property -- it's not your computer".
+
+On [[January 30]], 2007, the U.S. [[Federal Trade Commission]] (FTC) announced a settlement with Sony BMG on charges that their CD copy protection had violated Federal Law. The settlement requires Sony BMG to reimburse consumers up to $150 to repair damage that resulted directly from their attempts to remove the software installed without their consent.  The settlement also requires them to provide clear and prominent disclosure on the packaging of future CDs of any limits on copying or restrictions on the use of playback devices, and bars the company from installing content protection software without obtaining consumers’ authorization.<ref>{{cite web
+| url=http://www.ftc.gov/opa/2007/01/sony.htm
+| date=[[January 30]] [[2007]]
+| title=Sony BMG Settles FTC Charges
+| publisher=[http://www.ftc.gov/ Federal Trade Commission]
+| accessdate=2007-06-20
+}}</ref>  FTC chairwoman [[Deborah Platt Majoras]] added that, "Installations of secret software that create security risks are intrusive and unlawful.  Consumers' computers belong to them, and companies must adequately disclose unexpected limitations on the customary use of their products so consumers can make informed decisions regarding whether to purchase and install that content."<ref>{{cite web
+| url=http://www.consumeraffairs.com/news04/2007/01/ftc_sony_bmg.html
+| date=[[January 31]] [[2007]]
+| title=Sony BMG Settles FTC "Rootkit" Charges
+| publisher=[http://www.consumeraffairs.com/ ConsumerAffairs.Com]
+| accessdate=2007-06-20
+}}</ref>
+
+== Company & press reports ==
+[[National Public Radio]] [http://www.npr.org/templates/story/story.php?storyId=4989260 was one of the first to report on the scandal] on [[November 4]], 2005. [[Thomas Hesse]], Sony BMG's Global Digital Business President, told reporter [[Neda Ulaby]],  "Most people, I think, don't even know what a [[rootkit]] is, so why should they care about it?"
+
+In a [[November 7]], 2005 article, vnunet.com [http://www.vnunet.com/vnunet/news/2145617/sony-cd-rootkit-spell-doom summarised Russinovich's findings], and urged consumers to avoid buying Sony BMG music CDs for the time being. The following day, ''[[The Boston Globe]]'' ([http://www.boston.com/ boston.com]) classified the software as [[spyware]] and Computer Associates' eTrust Security Management unit VP [[Steve Curry]] confirmed that it communicates personal information from consumers' computers to Sony BMG (namely the CD being played and the user's [[IP address]]).<ref>Bray, Hiawatha. [http://www.boston.com/business/technology/articles/2005/11/08/security_firm_sony_cds_secretly_install_spyware/  "Security firm: Sony CDs secretly install spyware"], ''The Boston Globe,'' [[November 8]], [[2005]], retrieved [[November 22]], [[2006]].</REF> The methods used by the software to avoid detection were likened to those used by data thieves.
+
+The first virus which made use of Sony BMG's stealth technology to make malicious files invisible to both the user and anti-virus programs surfaced on [[November 10]].<REF>Sanders, Tom, and Thompson, Iain. [http://www.vnunet.com/vnunet/news/2145874/virus-writers-exploit-sony-drm  "Virus writers exploit Sony DRM; Sony doomsday scenario becomes reality"], ''vnunet.com,'' [[2005-11-10]], retrieved [[2006-11-22]].</REF> One day later ''[[Yahoo! News]]''  announced that Sony BMG had suspended further distribution of the controversial technology.
+
+According to [http://news.zdnet.com/2100-1009_22-5961560.html ZDNet News]:
+"The latest risk is from an uninstaller program distributed by [[SunnComm]] Technologies, a company that provides copy protection on other Sony BMG releases." The uninstall program obeys commands sent to it allowing others "to take control of PCs where the uninstaller has been used."<REF>Halderman, J. Alex [http://www.freedom-to-tinker.com/?p=931  "Not Again! Uninstaller for Other Sony DRM Also Opens Huge Security Hole"], ''Freedom to Tinker,'' [[November 17]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+According to [[BBC News]] on [[November 14]], 2005, [[Microsoft AntiSpyware|Microsoft]] decided to classify Sony BMG's software as "[[spyware]]" and provide tools for its removal. "Speaking about the suspension <nowiki>[Mark]</nowiki> Russinovich said: 'This is a step they should have taken immediately.'"<REF>[http://news.bbc.co.uk/1/hi/technology/4434852.stm  "Microsoft to remove Sony CD code; Sony's controversial anti-piracy CD software has been labelled as spyware by Microsoft."], ''BBC News,'' [[November 14]], [[2005]], retrieved [[November 22]], [[2006]].</REF>
+
+In perhaps a reaction to possible loss of sales, Sony BMG in Australia has a message on the front page of its website indicating that no Sony BMG titles manufactured in Australia have copy protection."<REF>[http://www.sonybmg.com.au/news/details.do?newsId=20030829002668 "No Copy Protection on Australian Sony BMG CDs"], retrieved [[18 January]], [[2007]]</REF>
+
+==See also==
+* [[Extended Copy Protection]]
+* [[Digital rights management]]
+* [[OpenMG]], DRM used by Sony BMG's [[SonicStage]] software for [[Sony Connect]] on-line music store
+* [[Rootkit]]
+* [[File sharing and the law]]
+
+==Footnotes==
+<div class="references-small">
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
+{{reflist}}
+
+==References==
+# [http://www.npr.org/templates/story/story.php?storyId=4989260 "Sony Music CDs Under Fire from Privacy Advocates"], [[National Public Radio]], [[2005-11-04]]
+# Bergstein, Brian ([[2005-11-18]]). [http://seattlepi.nwsource.com/business/1310AP_Music_Copy_Protection.html "Copy protection an experiment in progress"]. ''Seattlepi.com''.
+# Halderman, J. Alex, and Felten, Edward. [http://itpolicy.princeton.edu/pub/sonydrm-ext.pdf "Lessons from the Sony CD DRM Episode"] ([[Portable Document Format|PDF]] format), ''Center for Information Technology Policy,'' Department of Computer Science, Princeton University, [[2006-02-14]]. 
+# [[n:Sony's DRM protected CDs install Windows rootkits|Wikinews: Sony's DRM protected CDs install Windows rootkits]]
+# Gartner: [http://www.gartner.com/DisplayDocument?doc_cd=136331 Sony BMG DRM a Public-Relations and Technology Failure]
+# [http://www.mp3newswire.net/stories/5002/admonish.html Bush Administration to Sony: It's your intellectual property -- it's not your computer] - [[2005-11-12]] [[MP3 Newswire]] article
+
+==External links==
+{{wikinews|Sony faces class action lawsuits for DRM}}
+* [http://www.ivirtuaforums.com/sony-confirms-rootkit-problem-t10834.html Article on the recent Sony USB Controversies]
+* [http://www.sonybmg.com/mediamax/titles.html List of titles affected by MediaMax]
+* [http://cp.sonybmg.com/xcp/english/titles.html List of titles affected by XCP]
+* [http://web.archive.org/web/20061212230348/www.sonybmgcdtechsettlement.com/CDList.htm List of titles included in settlement]
+* [http://www.sonysuit.com/ SonySuit.Com - Tracking The Sony BMG XCP and SunComm Lawsuits]
+* [http://www.boingboing.net/2005/11/14/sony_anticustomer_te.html "Sony anti-customer technology roundup and time-line"], ''Boing Boing.''
+* [http://cp.sonybmg.com/xcp/ Sony's Legal and Software Update Notice for XCP Music CDs]
+* [http://www.sonybmgcdtechsettlement.com/ Information Web Site for the Sony BMG CD Technologies Settlement]
+* [http://www.sonybmg.com/labels.html Sony BMG: List of record labels in the Sony BMG family]
+* [http://www.groklaw.net/staticpages/index.php?page=20051122010323323 In depth analysis and references], [[Groklaw]]
+
+[[Category:Digital rights management]]
+[[Category:Malware]]
+[[Category:Sony]]
+[[Category:Scandals]]
+[[Category:Business ethics cases]]
+[[Category:Corporate crime]]
+[[Category:Rootkits]]
+
+[[ja:ソニーBMG製CD XCP問題]]

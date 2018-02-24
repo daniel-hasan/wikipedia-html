@@ -1,0 +1,326 @@
+<onlyinclude><!-- See [[Wikipedia talk:Featured lists]] for an explanation of this and other inclusion tags below -->
+This page lists all the '''winners of the [[Eurovision Song Contest]]''', an annual competition organised by member countries of the [[European Broadcasting Union]]. The Contest, which has been broadcast every year since its debut in 1956, is one of the longest-running television programmes in the world. The Contest's winner has been determined using numerous [[Voting at the Eurovision Song Contest|voting techniques]] throughout its history; centre to these have been the awarding of points to countries by juries or [[televoting|televoters]]. The country awarded the most points is declared the winner.</onlyinclude><ref>[http://www.eurovision.tv/addons/files/Extract_ESC2007Rules.pdf Extract from the rules for the 2007 Eurovision Song Contest]. Eurovision.tv. Retrieved on [[22 August]] [[2007]].</ref><onlyinclude>
+
+The Contest has produced fifty-five winners in fifty-two Contests: one every year except the tied [[Eurovision Song Contest 1969|1969 Contest]], which had four winners. Twenty-four different countries have won the Contest; the most recent addition to this list is [[Serbia in the Eurovision Song Contest|Serbia]], which won the Contest on its debut appearance in [[Eurovision Song Contest 2007|2007]].</onlyinclude><ref>Serbia were participating for the first time as an independent nation, previously they had competed as part of [[Serbia and Montenegro]] and [[Yugoslavia]]. [[Switzerland in the Eurovision Song Contest|Switzerland]] also won the Contest on their debut—the first Contest, in 1956.</ref><onlyinclude> The country with the highest number of wins is [[Ireland in the Eurovision Song Contest|Ireland]], with seven. [[Portugal in the Eurovision Song Contest|Portugal]] is the country with the longest history in the Contest without a win; it made its fortieth appearance at the 2007 Contest. The only person to have won more than once is [[Johnny Logan (singer)|Johnny Logan]], who won the Contest three times for  Ireland; once as a singer, in 1980; once as a singer-songwriter, in 1987; and once as a songwriter for [[Linda Martin]], in 1992.  
+
+</onlyinclude>==Winners==<onlyinclude>
+{| class="wikitable" style="font-size: 95%"
+|- style="background:#efefef"
+! Year !! Country !! Song !! Performer !! Points !! Margin !! Second place !! Date !! Host city
+|-
+| [[Eurovision Song Contest 1956|1956]] || {{SUI}} || "[[Refrain (song)|Refrain]]" || [[Lys Assia]] ||colspan="3"| <center>N/A</onlyinclude><ref name="1956result">The full results of the 1956 Contest were never released; only the winner is known.</ref><onlyinclude></center>||[[24 May]] [[1956]] || [[Lugano]]
+|-
+| [[Eurovision Song Contest 1957|1957]] || {{NED}} || "[[Net Als Toen]]" || [[Corry Brokken]] || 31 ||14||[[France]]|| [[3 March]] [[1957]]|| [[Frankfurt|Frankfurt am Main]]
+|-
+| [[Eurovision Song Contest 1958|1958]] || {{flagicon|France}} France || "[[Dors, Mon Amour]]" || [[André Claveau]] || 27 ||3||Switzerland||[[12 March]] [[1958]]|| [[Hilversum]]
+|-
+| [[Eurovision Song Contest 1959|1959]] || {{flagicon|Netherlands}} Netherlands  || "[[Een Beetje]]" || [[Teddy Scholten]] || 21 ||5||[[United Kingdom]]||[[11 March]] [[1959]]||[[Cannes]]
+|-
+| [[Eurovision Song Contest 1960|1960]] || {{flagicon|France}} France || "[[Tom Pillibi]]" || [[Jacqueline Boyer]] || 32 ||7||United Kingdom||[[25 March]] [[1960]]|| [[London]]
+|-
+| [[Eurovision Song Contest 1961|1961]] || {{LUX}}  || "[[Nous Les Amoureux|Nous les amoureux]]" || [[Jean-Claude Pascal]] || 31 ||6||United Kingdom|| [[18 March]] [[1961]]|| Cannes
+|-
+| [[Eurovision Song Contest 1962|1962]] || {{flagicon|France}} France  || "[[Un Premier Amour|Un premier amour]]" || [[Isabelle Aubret]] || 26 ||13||[[Monaco]]||[[18 March]] [[1962]]|| [[Luxembourg City|Luxembourg]]
+|-
+| [[Eurovision Song Contest 1963|1963]] || {{DEN}}  || "[[Dansevise]]" || [[Grethe & Jørgen Ingmann]] || 42 || 2||Switzerland||[[23 March]] [[1963]]|| London<includeonly>
+|}</includeonly></onlyinclude>
+|-
+| [[Eurovision Song Contest 1964|1964]] || {{ITA}}  || "[[Non Ho L'Età|Non ho l'età (per amarti)]]" || [[Gigliola Cinquetti]] || 49 ||32||United Kingdom||[[21 March]] [[1964]]||[[Copenhagen]]
+|-
+| [[Eurovision Song Contest 1965|1965]] || {{flagicon|Luxembourg}} Luxembourg  || "[[Poupée de cire, poupée de son]]" || [[France Gall]] || 32 ||6||United Kingdom||[[20 March]] [[1965]]|| [[Naples]]
+|-
+| [[Eurovision Song Contest 1966|1966]] || {{AUT}}  || "[[Merci Chérie]]" || [[Udo Jürgens]] || 31 ||15||[[Sweden]]||[[5 March]] [[1966]]|| Luxembourg
+|-
+| [[Eurovision Song Contest 1967|1967]] || {{flagicon|United Kingdom}} United Kingdom  || "[[Puppet on a String]]" || [[Sandie Shaw]] || 42 ||25||Ireland||[[8 April]] [[1967]]|| [[Vienna]]
+|-
+| [[Eurovision Song Contest 1968|1968]] || {{flagicon|Spain|1939}} [[Spain]]  || "[[La La La|La, la, la]]" || [[Massiel]] || 29 ||1||United Kingdom||[[6 April]] [[1968]]|| London
+|-
+| rowspan="4"| [[Eurovision Song Contest 1969|1969]] || {{flagicon|Spain|1939}} Spain || "[[Vivo Cantando]]" || [[Salomé (singer)|Salomé]] || rowspan="4"| 18 ||rowspan="4"|N/A || rowspan="4"|N/A|| rowspan="4"| [[29 March]] [[1969]]|| rowspan="4"|[[Madrid]]
+|-
+| {{flagicon|United Kingdom}} United Kingdom  || "[[Boom Bang-a-Bang]]" || [[Lulu (singer)|Lulu]]
+|-
+| {{flagicon|Netherlands}} Netherlands  || "[[De Troubadour]]" || [[Lennie Kuhr]]
+|-
+| {{flagicon|France}} France || "[[Un Jour, Un Enfant|Un jour, un enfant]]" || [[Frida Boccara]]
+|-
+| [[Eurovision Song Contest 1970|1970]] || {{IRL}}  || "[[All Kinds of Everything]]" || [[Dana Rosemary Scallon|Dana]] || 32 ||6||United Kingdom||[[21 March]] [[1970]]|| [[Amsterdam]]
+|-
+| [[Eurovision Song Contest 1971|1971]] || {{flagicon|Monaco}} Monaco || "[[Un Banc, Un Arbre, Une Rue|Un banc, un arbre, une rue]]" || [[Séverine (singer)|Séverine]] || 128 ||12||Spain|| [[3 April]] [[1971]]||[[Dublin]]
+|-
+| [[Eurovision Song Contest 1972|1972]] || {{flagicon|Luxembourg}} Luxembourg || "[[Après Toi]]" || [[Vicky Leandros]] || 128 ||14||United Kingdom||[[25 March]] [[1972]]|| [[Edinburgh]]
+|-
+| [[Eurovision Song Contest 1973|1973]] || {{flagicon|Luxembourg}} Luxembourg  || "[[Tu Te Reconnaîtras]]" || [[Anne-Marie David]] || 129 ||4||Spain||[[7 April]] [[1973]]|| Luxembourg
+|-
+| [[Eurovision Song Contest 1974|1974]] || {{flagicon|Sweden}} Sweden  || "[[Waterloo (song)|Waterloo]]" || [[ABBA]] || 24 ||6||Italy||[[6 April]] [[1974]]|| [[Brighton]]
+|-
+| [[Eurovision Song Contest 1975|1975]] || {{flagicon|Netherlands}} Netherlands  || "[[Ding-A-Dong]]" || [[Teach-In]] || 152 ||14||United Kingdom||[[22 March]] [[1975]]|| [[Stockholm]]
+|-
+| [[Eurovision Song Contest 1976|1976]] || {{flagicon|United Kingdom}} United Kingdom || "[[Save Your Kisses for Me]]" || [[Brotherhood of Man (band)|Brotherhood of Man]] || 164 ||17||France||[[3 April]] [[1976]]|| [[The Hague]]
+|-
+| [[Eurovision Song Contest 1977|1977]] || {{flagicon|France}} France  || "[[L'Oiseau Et L'Enfant]]" || [[Marie Myriam]] || 136 ||15||United Kingdom||[[7 May]]<br/> [[1977]]|| London
+|-
+| [[Eurovision Song Contest 1978|1978]] || {{ISR}} || "[[A-Ba-Ni-Bi]]" || [[Izhar Cohen]] & [[Alphabeta]] || 157 ||32||[[Belgium]]||[[22 April]] [[1978]]|| [[Paris]]
+|-
+| [[Eurovision Song Contest 1979|1979]] || {{flagicon|Israel}} Israel || "[[Hallelujah (Eurovision song)|Hallelujah]]" || [[Gali Atari]] & [[Milk and Honey (artist)|Milk and Honey]] || 125 || 9||Spain||[[31 March]] [[1979]]|| [[Jerusalem]]
+|-
+| [[Eurovision Song Contest 1980|1980]] || {{flagicon|Ireland}} Ireland  || "[[What's Another Year?]]" || [[Johnny Logan (singer)|Johnny Logan]] || 143 ||15||Germany||[[19 April]] [[1980]]|| [[The Hague]]
+|-
+| [[Eurovision Song Contest 1981|1981]] || {{flagicon|United Kingdom}} United Kingdom  || "[[Making Your Mind Up]]" || [[Bucks Fizz (band)|Bucks Fizz]] || 136 || 4||Germany||[[4 April]] [[1981]]|| Dublin
+|-
+| [[Eurovision Song Contest 1982|1982]] || {{GER}} || "[[Ein Bisschen Frieden]]" || [[Nicole (artist)|Nicole]] || 161 ||61||Israel||[[24 April]] [[1982]]|| [[Harrogate]]
+|-
+| [[Eurovision Song Contest 1983|1983]] || {{flagicon|Luxembourg}} Luxembourg || "[[Si La Vie Est Cadeau|Si la vie est cadeau]]" || [[Corinne Hermès]] || 142 ||6||Israel||[[23 April]] [[1983]]|| [[Munich]]
+|-
+| [[Eurovision Song Contest 1984|1984]] || {{flagicon|Sweden}} Sweden || "[[Diggi-Loo Diggi-Ley]]" || [[Herreys]] || 145 ||8||Ireland||[[5 May]]<br/> [[1984]]|| Luxembourg
+|-
+| [[Eurovision Song Contest 1985|1985]] || {{NOR}} || "[[La det swinge]]" || [[Bobbysocks]] || 123 ||18||Germany||[[4 May]]<br/> [[1985]]|| [[Gothenburg]]
+|-
+| [[Eurovision Song Contest 1986|1986]] || {{flagicon|Belgium}} Belgium || "[[J'aime La Vie|J'aime la vie]]" || [[Sandra Kim]] || 176 ||31||Luxembourg||[[3 May]]<br/> [[1986]]|| [[Bergen]]
+|-
+| [[Eurovision Song Contest 1987|1987]] || {{flagicon|Ireland}} Ireland  || "[[Hold Me Now]]" || [[Johnny Logan (singer)|Johnny Logan]] || 172 ||31||Germany||[[9 May]]<br/> [[1987]]|| [[Brussels]]
+|-
+| [[Eurovision Song Contest 1988|1988]] || {{flagicon|Switzerland}} Switzerland  || "[[Ne Partez Pas Sans Moi|Ne partez pas sans moi]]" || [[Celine Dion|Céline Dion]] ||137 ||1||United Kingdom|| [[30 April]] [[1988]]|| Dublin
+|-
+| [[Eurovision Song Contest 1989|1989]] || {{YUG}}  || "[[Rock Me]]" || [[Riva (music group)|Riva]] || 137 ||7||United Kingdom||[[6 May]]<br/> [[1989]]|| [[Lausanne]]
+|-
+| [[Eurovision Song Contest 1990|1990]] || {{flagicon|Italy}} Italy || "[[Insieme: 1992]]" || [[Toto Cutugno]] || 149 ||17||Ireland, France<ref>Ireland and France tied for second place in the 1990 Contest.</ref>||[[5 May]]<br/> [[1990]] ||[[Zagreb]]
+|-
+| [[Eurovision Song Contest 1991|1991]] || {{flagicon|Sweden}} Sweden  || "[[Fångad av en stormvind]]" || [[Carola Häggkvist|Carola]] || 146 ||0<ref>Sweden won the 1991 Contest following a tie-break.</ref>||France||[[4 May]]<br/> [[1991]]||[[Rome]]
+|-
+| [[Eurovision Song Contest 1992|1992]] || {{flagicon|Ireland}} Ireland  || "[[Why Me? (song)|Why Me]]" || [[Linda Martin]] || 155 ||16||United Kingdom||[[9 May]]<br/> [[1992]]|| [[Malmö]]
+|-
+| [[Eurovision Song Contest 1993|1993]] || {{flagicon|Ireland}} Ireland   || "[[In Your Eyes (Niamh Kavanagh song)|In Your Eyes]]" || [[Niamh Kavanagh]] || 187 ||23||United Kingdom||[[15 May]] [[1993]]|| [[Millstreet]]
+|-
+| [[Eurovision Song Contest 1994|1994]] || {{flagicon|Ireland}} Ireland   || "[[Rock 'n' Roll Kids]]" || [[Paul Harrington]] & [[Charlie McGettigan]] || 226 ||60||[[Poland]]||[[30 April]] [[1994]]|| Dublin
+|-
+| [[Eurovision Song Contest 1995|1995]] || {{flagicon|Norway}} Norway || "[[Nocturne (Secret Garden)|Nocturne]]" || [[Secret Garden (duo)|Secret Garden]] || 148 ||29||Spain||[[13 May]] [[1995]]|| Dublin
+|-
+| [[Eurovision  Song Contest 1996|1996]] || {{flagicon|Ireland}} Ireland    || "[[The Voice (song)|The Voice]]" || [[Eimear Quinn]] || 162 ||48||Norway||[[18 May]] [[1996]]|| [[Oslo]]
+|-
+| [[Eurovision Song Contest 1997|1997]] || {{flagicon|United Kingdom}} United Kingdom || "[[Love Shine a Light]]" || [[Katrina and the Waves]] || 227 ||70||Ireland||[[3 May]]<br/> [[1997]]|| Dublin
+|-
+| [[Eurovision Song Contest 1998|1998]] || {{flagicon|Israel}} Israel || "[[Diva (song)|Diva]]" || [[Dana International]] || 172 ||6||United Kingdom||[[9 May]]<br/>[[1998]]|| [[Birmingham]]
+|-
+| [[Eurovision Song Contest 1999|1999]] || {{flagicon|Sweden}} Sweden || "[[Take Me to Your Heaven (song)|Take Me to Your Heaven]]" || [[Charlotte Perrelli|Charlotte Nilsson]] || 163 ||17||[[Iceland]]||[[29 May]] [[1999]]|| Jerusalem
+|-
+| [[Eurovision Song Contest 2000|2000]] || {{flagicon|Denmark}} Denmark || "[[Fly on the Wings of Love]]" || [[Olsen Brothers]] || 195 ||40||[[Russia]]||[[13 May]] [[2000]]|| Stockholm
+|-
+| [[Eurovision Song Contest 2001|2001]] || {{EST}} || "[[Everybody (Eurovision song)|Everybody]]" || [[Tanel Padar]], [[Dave Benton]] & [[Soul Militia|2XL]] || 198 ||21||Denmark||[[12 May]] [[2001]]|| Copenhagen
+|-
+| [[Eurovision Song Contest 2002|2002]] || {{LAT}} || "[[I Wanna]]" ||  [[Marie N]] || 176 ||12||[[Malta]]|| [[25 May]] [[2002]]|| [[Tallinn]]
+|-
+| [[Eurovision Song Contest 2003|2003]] || {{TUR}} || "[[Everyway That I Can]]"  || [[Sertab Erener]] || 167 ||2||Belgium||[[24 May]] [[2003]]||[[Riga]]
+|-
+| [[Eurovision Song Contest 2004|2004]] || {{UKR}} || "[[Wild Dances (single)|Wild Dances]]"  || [[Ruslana]] || 280 ||17||[[Serbia & Montenegro]]||[[15 May]] [[2004]]<ref name="semi final">Since 2004 the Contest has included a televised semi-final. In 2004 this was held on the Wednesday before the final, and since 2005 it has been held on the Thursday of "Eurovision Week".</ref>|| [[Istanbul]]
+|-
+| [[Eurovision Song Contest 2005|2005]] || {{GRE}} || "[[My Number One]]" || [[Elena Paparizou|Helena Paparizou]] || 230 ||38||Malta||[[21 May]] [[2005]]<ref name="semi final"/>|| [[Kiev]]
+|-
+| [[Eurovision Song Contest 2006|2006]] || {{FIN}} || "[[Hard Rock Hallelujah]]" || [[Lordi]] || 292 ||44|| Russia ||[[20 May]] [[2006]]<ref name="semi final"/>|| [[Athens]]
+|-
+| [[Eurovision Song Contest 2007|2007]] || {{SRB}} ||"[[Molitva]]" || [[Marija Šerifović]] || 268 ||33||Ukraine||[[12 May]] [[2007]]<ref name="semi final"/>|| [[Helsinki]]
+|-
+| [[Eurovision Song Contest 2008|2008]]|| || || || || || || [[24 May]] [[2008]]<ref>Date is provisional. [http://www.eurovision.tv/content/view/863/263/ EBU plans for future]. Eurovision.tv ([[9 May]] [[2007]]). Retrieved on [[19 August]] [[2007]].</ref>|| [[Belgrade]]<ref name="belgrade">Barry Viniker ([[13 May]] [[2007]]) [http://esctoday.com/news/read/8694 The Beogradska Arena. The home of ESC 2008?]. ESCtoday.com. Retrieved on [[19 August]] [[2007]].</ref>
+|}
+
+Eleven Eurovision winners featured at the ''[[Congratulations (Eurovision)|Congratulations]]'' concert in 2005, in which [[ABBA]]'s "[[Waterloo (song)|Waterloo]]" was voted the most popular song of the Contest's first fifty years.<ref name="escwaterloo">[http://news.bbc.co.uk/2/hi/entertainment/4366574.stm ABBA win 'Eurovision 50th' vote]. BBC News ([[23 October]] [[2005]]). Retrieved on [[22 August]][[2007]].</ref> The most successful countries never to have won the Contest are Malta and Russia, having both finished second twice and third twice. The highest number of points scored by a winning country at Eurovision was the 292 points achieved by [[Finland]]'s [[Lordi]] at the [[Eurovision Song Contest 2006|2006 Contest]]. The lowest total is the eighteen points scored by the four winning countries in [[Eurovision Song Contest 1969|1969]]. The largest margin of victory was that of [[Katrina and The Waves]] in [[Eurovision Song Contest 1997|1997]], who won by 70 points.
+
+The [[United Kingdom in the Eurovision Song Contest|United Kingdom]] has finished second fifteen times at Eurovision, more than any other country. Since the introduction of the current voting system in 1975, the winner of the Contest has been decided by the final voting nation on eleven occasions.<ref>1979, 1980, 1981, 1984, 1988, 1991, 1992, 1993, 1998, 2002 and 2003.</ref>
+
+==By country==
+[[Image:Eurovision winners map.png|thumb|Eurovision Winners|400px|right|Map showing each country's number of Eurovision wins:<ref>On this map, [[Croatia]] is credited with [[Socialist Federal Republic of Yugoslavia|Yugoslavia]]'s win, as the singer of that entry came from Croatia.</ref> {{legend|#034B03|Seven wins}}{{legend|#049F04|Five wins}}{{legend|#06C806|Four wins}}{{legend|#21F821|Three wins}}{{legend|#55F955|Two wins}}{{legend|#98FB98|One win}}{{legend|#DDDDDD|No wins}}]]
+{| class="wikitable" style="font-size:95%"
+|-
+!Wins
+!Country
+!Years
+|-
+|7
+|{{IRL}}
+|[[Eurovision Song Contest 1970|1970]], [[Eurovision Song Contest 1980|1980]], [[Eurovision Song Contest 1987|1987]], [[Eurovision Song Contest 1992|1992]], [[Eurovision Song Contest 1993|1993]], [[Eurovision Song Contest 1994|1994]], [[Eurovision Song Contest 1996|1996]]
+|-
+|rowspan="3"| 5
+|{{FRA}}
+|[[Eurovision Song Contest 1958|1958]], [[Eurovision Song Contest 1960|1960]], [[Eurovision Song Contest 1962|1962]], ''[[Eurovision Song Contest 1969|1969]]'', [[Eurovision Song Contest 1977|1977]]
+|-
+|{{LUX}}
+|[[Eurovision Song Contest 1961|1961]], [[Eurovision Song Contest 1965|1965]], [[Eurovision Song Contest 1972|1972]], [[Eurovision Song Contest 1973|1973]], [[Eurovision Song Contest 1983|1983]]
+|-
+|{{GBR}}
+|[[Eurovision Song Contest 1967|1967]], ''[[Eurovision Song Contest 1969|1969]]'', [[Eurovision Song Contest 1976|1976]], [[Eurovision Song Contest 1981|1981]], [[Eurovision Song Contest 1997|1997]]
+|-
+|rowspan="2"| 4
+|{{SWE}}
+|[[Eurovision Song Contest 1974|1974]], [[Eurovision Song Contest 1984|1984]], [[Eurovision Song Contest 1991|1991]], [[Eurovision Song Contest 1999|1999]]
+|-
+|{{NED}}
+|[[Eurovision Song Contest 1957|1957]], [[Eurovision Song Contest 1959|1959]], ''[[Eurovision Song Contest 1969|1969]]'', [[Eurovision Song Contest 1975|1975]]
+|-
+|3
+|{{ISR}}
+|[[Eurovision Song Contest 1978|1978]], [[Eurovision Song Contest 1979|1979]], [[Eurovision Song Contest 1998|1998]]
+|-
+|rowspan="5"| 2
+|{{DEN}}
+|[[Eurovision Song Contest 1963|1963]], [[Eurovision Song Contest 2000|2000]]
+|-
+|{{NOR}}
+|[[Eurovision Song Contest 1985|1985]], [[Eurovision Song Contest 1995|1995]]
+|-
+|{{ITA}}
+|[[Eurovision Song Contest 1964|1964]], [[Eurovision Song Contest 1990|1990]]
+|-
+|{{SUI}}
+|[[Eurovision Song Contest 1956|1956]], [[Eurovision Song Contest 1988|1988]]
+|-
+|{{ESP}}
+|[[Eurovision Song Contest 1968|1968]], ''[[Eurovision Song Contest 1969|1969]]''
+|-
+|rowspan="12"| 1
+|{{AUT}}
+|[[Eurovision Song Contest 1966|1966]]
+|-
+|{{MCO}}
+|[[Eurovision Song Contest 1971|1971]]
+|-
+|{{GER}}
+|[[Eurovision Song Contest 1982|1982]]
+|-
+|{{BEL}}
+|[[Eurovision Song Contest 1986|1986]]
+|-
+|{{YUG}}
+|[[Eurovision Song Contest 1989|1989]]
+|-
+|{{EST}}
+|[[Eurovision Song Contest 2001|2001]]
+|-
+|{{LVA}}
+|[[Eurovision Song Contest 2002|2002]]
+|-
+|{{TUR}}
+|[[Eurovision Song Contest 2003|2003]]
+|-
+|{{UKR}}
+|[[Eurovision Song Contest 2004|2004]]
+|-
+|{{GRE}}
+|[[Eurovision Song Contest 2005|2005]]
+|-
+|{{FIN}}
+|[[Eurovision Song Contest 2006|2006]]
+|-
+|{{SRB}}
+|[[Eurovision Song Contest 2007|2007]]
+|-
+|}
+Years in ''italics'' indicate joint wins.
+
+==By language==
+Between 1966 and 1973, and again between 1977 and 1998, countries were only permitted to perform in their own language; see the main [[Eurovision Song Contest#Language|Eurovision Song Contest]] article.
+
+[[Image:ESC 2007 Serbia - Marija Serifovic - Molitva.jpg|thumb|right|250px|[[Marija Šerifović]]'s "[[Molitva]]" became the first [[Serbian language|Serbian-language]] song to win the Contest, and the first winner since 1989 to be in a language that had never produced a winning song before.]]
+{| class="wikitable" style="font-size:95%"
+|- style="background:#efefef"
+|-
+!Wins
+!Language
+!Years
+!Countries
+|-
+|22
+|[[English language|English]]
+|[[Eurovision Song Contest 1967|1967]], [[Eurovision Song Contest 1969|1969]], [[Eurovision Song Contest 1970|1970]], [[Eurovision Song Contest 1974|1974]], [[Eurovision Song Contest 1975|1975]], [[Eurovision Song Contest 1976|1976]], [[Eurovision Song Contest 1980|1980]], [[Eurovision Song Contest 1981|1981]], [[Eurovision Song Contest 1987|1987]], [[Eurovision Song Contest 1992|1992]], [[Eurovision Song Contest 1993|1993]], [[Eurovision Song Contest 1994|1994]], [[Eurovision Song Contest 1996|1996]], [[Eurovision Song Contest 1997|1997]], [[Eurovision Song Contest 1999|1999]], [[Eurovision Song Contest 2000|2000]], [[Eurovision Song Contest 2001|2001]], [[Eurovision Song Contest 2002|2002]], [[Eurovision Song Contest 2003|2003]], [[Eurovision Song Contest 2004|2004]],<ref name="wilddances">This song was partially sung in [[Ukrainian language|Ukrainian]].</ref> [[Eurovision Song Contest 2005|2005]], [[Eurovision Song Contest 2006|2006]]
+|[[United Kingdom]], [[Republic of Ireland|Ireland]], [[Sweden]], [[Netherlands]], [[Denmark]], [[Estonia]], [[Latvia]], [[Turkey]], [[Ukraine]],<ref name="wilddances"/> [[Greece]], [[Finland]]
+|-
+|14
+|[[French language|French]]
+|[[Eurovision Song Contest 1956|1956]], [[Eurovision Song Contest 1958|1958]], [[Eurovision Song Contest 1960|1960]], [[Eurovision Song Contest 1961|1961]], [[Eurovision Song Contest 1962|1962]], [[Eurovision Song Contest 1965|1965]], [[Eurovision Song Contest 1969|1969]], [[Eurovision Song Contest 1971|1971]], [[Eurovision Song Contest 1972|1972]], [[Eurovision Song Contest 1973|1973]], [[Eurovision Song Contest 1977|1977]], [[Eurovision Song Contest 1983|1983]], [[Eurovision Song Contest 1986|1986]], [[Eurovision Song Contest 1988|1988]]
+|[[Switzerland]], [[France]], [[Luxembourg]], [[Monaco]], [[Belgium]]
+|-
+|rowspan="2"| 3
+|[[Dutch language|Dutch]]
+|[[Eurovision Song Contest 1957|1957]], [[Eurovision Song Contest 1959|1959]], [[Eurovision Song Contest 1969|1969]]
+|[[Netherlands]]
+|-
+|[[Hebrew language|Hebrew]]
+|[[Eurovision Song Contest 1978|1978]], [[Eurovision Song Contest 1979|1979]], [[Eurovision Song Contest 1998|1998]]
+|[[Israel]]
+|-
+|rowspan="5"| 2
+|[[Norwegian language|Norwegian]]
+|[[Eurovision Song Contest 1985|1985]], [[Eurovision Song Contest 1995|1995]]
+|[[Norway]]
+|-
+|[[Swedish language|Swedish]]
+|[[Eurovision Song Contest 1984|1984]], [[Eurovision Song Contest 1991|1991]]
+|[[Sweden]]
+|-
+|[[Italian language|Italian]]
+|[[Eurovision Song Contest 1964|1964]], [[Eurovision Song Contest 1990|1990]]
+|[[Italy]]
+|-
+|[[German language|German]]
+|[[Eurovision Song Contest 1966|1966]], [[Eurovision Song Contest 1982|1982]]
+|[[Austria]], [[Germany]]
+|-
+|[[Spanish language|Spanish]]
+|[[Eurovision Song Contest 1968|1968]], [[Eurovision Song Contest 1969|1969]]
+|[[Spain]]
+|-
+|rowspan="3"| 1
+|[[Danish language|Danish]]
+|[[Eurovision Song Contest 1963|1963]]
+|[[Denmark]]
+|-
+|[[Serbo-Croatian language|Serbo-Croatian]]
+|[[Eurovision Song Contest 1989|1989]]
+|[[Yugoslavia]]
+|-
+|[[Serbian language|Serbian]]
+|[[Eurovision Song Contest 2007|2007]]
+|[[Serbia]]
+|}
+
+==Consecutive first-time winners==
+
+Currently, the greatest number of consecutive Contests in which each country's win was their first is seven:
+
+{| class="wikitable" style="font-size: 95%"
+|- style="background:#efefef"
+! Year !! Winning country !! Debut year
+|-
+| [[Eurovision Song Contest 2001|2001]] || {{inesc|EST}} || {{escyr|1994}}
+|-
+| [[Eurovision Song Contest 2002|2002]] || {{inesc|LAT}} || {{escyr|2000}}
+|-
+| [[Eurovision Song Contest 2003|2003]] || {{inesc|TUR}} || {{escyr|1975}}
+|-
+| [[Eurovision Song Contest 2004|2004]] || {{inesc|UKR}} || {{escyr|2003}}
+|-
+| [[Eurovision Song Contest 2005|2005]] || {{inesc|GRE}} || {{escyr|1974}}
+|-
+| [[Eurovision Song Contest 2006|2006]] || {{inesc|FIN}} || {{escyr|1961}}
+|-
+| [[Eurovision Song Contest 2007|2007]] || {{inesc|SRB}} || {{escyr|2007}}
+|}
+
+==Footnotes==
+{{reflist}}
+==References==
+*[http://www.eurovision.tv/content/view/171/152/ Eurovision Song Contest history]. Eurovision.tv. Retrieved on [[19 August]] [[2007]].
+*John Kennedy O'Connor (2005). ''The Eurovision Song Contest 50 Years The Official History''. [[London]]: Carlton Books Limited. ISBN 1-84442-586-X.
+*[http://www.esctoday.com/annual/contests.php?section=history History]. ESCtoday.com. Retrieved on [[19 August]] [[2007]].
+
+{{Portal|Eurovision}}
+{{commons|Category:Eurovision winners|Eurovision Song Contest winners}}
+
+{{Eurovision Song Contest}}
+{{EurovisionCountries}}
+{{Eurovision winners}}
+
+{{Featured list}}
+
+[[Category:Eurovision Song Contest]]
+[[Category:Eurovision winners|*]]
+
+[[ru:Победители конкурса песни Евровидение]]

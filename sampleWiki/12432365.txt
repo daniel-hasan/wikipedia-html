@@ -1,0 +1,178 @@
+{{Taxobox
+| color = pink
+| name = Greater Yellow-headed Vulture
+| image = Cathartes melambrotus flight.svg
+| status = LC
+| status_ref =<ref name="IUCN"/>
+| regnum = [[Animalia]]
+| phylum = [[Chordata]]
+| classis = [[Aves]]
+| ordo = [[Falconiformes]]
+| familia = [[Cathartidae]]
+| genus = ''[[Cathartes]]''
+| species = '''''C. melambrotus'''''
+| binomial = ''Cathartes melambrotus''
+| binomial_authority = [[Alexander Wetmore|Wetmore]], 1964
+| synonyms = 
+| range_map=GreaterYHvulturerange.png
+| range_map_width=200px
+| range_map_caption =
+Approximate range/distribution map of the Greater Yellow-headed Vulture, indicating countries of occurrence, rather than specific area occupied by the species. Based on [[World Conservation Union|IUCN data]].<ref name="IUCN"/>
+}}
+The '''Greater Yellow-headed Vulture''', ''Cathartes melambrotus'', also known as the '''Forest Vulture''', is a species of [[bird]] in the [[New World Vulture]] family Cathartidae. It was considered to be the same species as the [[Lesser Yellow-headed Vulture]] until they were split in 1964. It is found in [[South America]] in [[tropical]] moist lowland [[forest]]s. It is a large bird, with a wingspan of 166-178&nbsp;centimeters (65-70&nbsp;inches). The body [[plumage]] is black, and the head and neck, which are featherless, range in color from deep yellow to pale orange. It lacks a [[Syrinx (biology)|syrinx]], and its vocalizations are therefore limited to grunts or low hisses.
+
+The Greater Yellow-headed Vulture feeds on [[carrion]] and locates carcasses by sight and by smell, an ability which is rare in [[bird]]s. It is dependent on larger vultures, such as the [[King Vulture]], to open the hides of larger animal carcasses, as its bill is not strong enough to do this. Like other New World Vultures, the Greater Yellow-headed Vulture utilizes [[thermal]]s to stay aloft with minimal effort. It lays its [[Egg (biology)|eggs]] on flat surfaces, such as the floors of caves, or in the hollows of stumps. It feeds its young by [[Regurgitation (digestion)|regurgitation]].
+
+==Taxonomy==
+The Greater Yellow-headed and the [[Lesser Yellow-headed Vulture]] were distinguished as separate species and described in 1964 by [[Alexander Wetmore]]; both species had earlier been known as Yellow-headed Vultures. The Greater Yellow-headed Vulture's [[Binomial nomenclature|genus]] is ''Cathartes'', which means "purifier", and is [[Latin]]ized from the [[Ancient Greek|Greek]] ''kathartēs''/καθαρτης.<ref> {{cite book|last=Liddell| first=Henry George|coauthor=Robert Scott|year=1980|title=Greek-English Lexicon, Abridged Edition |publisher=Oxford University Press|location= Oxford|isbn= 0-19-910207-4}}</ref>  The [[common name]], vulture, is derived from the [[Latin]] word ''vulturus'', meaning "tearer," in reference to its feeding habits.<ref name= "Holloway">{{cite book
+  | last =Holloway
+  | first =Joel Ellis
+  | title =Dictionary of Birds of the United States: Scientific and Common Names
+  | publisher =Timber Press
+  | date =2003
+  | pages =59
+  | url = http://books.google.com/books?id=41knpiVqnKYC&pg=PA59&dq=Cathartes+aura+subject:%22Nature+/+Birds+%26+Birdwatching%22&as_brr=3&sig=YS_oepqlw59T9RxDny5KFtPliSQ 
+  | isbn =0881926000}}</ref> 
+
+The exact [[taxonomic]] placement of the Greater Yellow-headed Vulture and the remaining six species of [[New World Vulture]]s remains unclear.<ref name="SACC"/> Although they are similar in appearance and have similar [[Ecological niche|ecological roles]], the New World and [[Old World Vultures]] evolved from different ancestors in different parts of the world. Just how different the two are is currently under debate, with some earlier authorities suggesting that the New World vultures are more closely related to [[storks]].<ref>[[Charles Sibley|Sibley, Charles G.]] and Burt L. Monroe.  1990.  ''[http://books.google.com/books?vid=ISBN0300049692 Distribution and Taxonomy of the Birds of the World]''.  Yale University Press.  ISBN 0-300-04969-2.  Accessed 2007-04-11.</ref> More recent authorities assert their overall position in the order [[Falconiformes]] along with the Old World Vultures<ref>[[Charles Sibley|Sibley, Charles G.]], and [[Jon Edward Ahlquist|Jon E. Ahlquist]].  1991.  ''[http://books.google.com/books?vid=ISBN0300040857 Phylogeny and Classification of Birds: A Study in Molecular Evolution]''.  Yale University Press.  ISBN 0-300-04085-7.  Accessed 2007-04-11.</ref> or place them in their own order, Cathartiformes.<ref>Ericson, Per G. P.; Anderson, Cajsa L.; Britton, Tom; Elżanowski, Andrzej; Johansson, Ulf S.; Kallersjö, Mari; Ohlson, Jan I.; Parsons, Thomas J.; Zuccon, Dario & Mayr, Gerald (2006): Diversification of Neoaves: integration of molecular sequence data and fossils. ''[[Biology Letters]]'' online: 1-5. {{DOI|10.1098/rsbl.2006.0523}} [http://www.systbot.uu.se/staff/c_anderson/pdf/neoaves.pdf PDF preprint] [http://royalsociety.metapress.com/media/public/contributionsupplementalmaterials/0/5/8/3/058352377848735w/archive1.pdf Electronic Supplementary Material] (PDF)</ref> The [[South American Classification Committee]] has removed the New World Vultures from [[Ciconiiformes]] and instead placed them in ''[[Incertae sedis]]'', but notes that a move to Falconiformes or Cathartiformes is possible.<ref name="SACC">Remsen, J. V., Jr.; C. D. Cadena; A. Jaramillo; M. Nores; J. F. Pacheco; M. B. Robbins; T. S. Schulenberg; F. G. Stiles; D. F. Stotz & K. J. Zimmer. 2007. [http://www.museum.lsu.edu/~Remsen/SACCBaseline.html  ''A classification of the bird species of South America.''] South American Classification Committee. Retrieved on [[2007]]-[[October 15|10-15]]</ref>
+
+==Description==
+The Greater Yellow-headed Vulture is 64-75&nbsp;centimeters (25-30&nbsp;inches) in length, with a wingspan of 166-178&nbsp;centimeters (65-70&nbsp;inches) and a tail length of 25-29&nbsp;centimeters (10-11.5&nbsp;inches).<ref name= "Lees ">{{cite book
+  | last =Ferguson-Lees 
+  | first =James 
+  | coauthors =David A. Christie
+  | title =Raptors of the World
+  | publisher =Houghton Mifflin Field Guides
+  | date =2001
+  | pages =86
+  | url = http://books.google.com/books?id=hlIztc05HTQC&pg=PA86&dq=Cathartes+aura+subject:%22Nature+/+Birds+%26+Birdwatching%22&as_brr=3&sig=PXtI2FVjA_oKlMWeYoD7-msqZI0#PPA86,M1   | isbn =0618127623 }}</ref> Its [[plumage]] is black with a green or purple sheen. The throat and the sides of the head are featherless. The skin on the head ranges in color from deep yellow to pale orange with a blue crown.<ref>{{cite book
+  | last = Brown, Leslie and Dean
+Amadon
+  | title =Eagles, Hawks, and Falcons of the World
+  | publisher =McGraw-Hill
+  | date =1968
+  | pages =178
+  | url =http://books.google.com/books?id=fcM9AAAAIAAJ&q=%22Greater+Yellow-headed+Vulture%22+%2B+nest&dq=%22Greater+Yellow-headed+Vulture%22+%2B+nest&ie=ISO-8859-1&pgis=1
+  | isbn =155521472X }}</ref> The nape and the area near the nostrils are pale pinkish. The undersides of the wings are black, while the [[Flight feather|flight feathers]] are a lighter shade. The quills of the eleven [[primary feather]]s appear to be white when seen from above.<ref name= "Hilty">{{cite book
+  | last =Hilty
+  | first =Stephen L.
+  | title =A Guide to the Birds of Colombia
+  | publisher =Princeton University Press 
+  | date =1977
+  | pages =88
+  | url =http://books.google.com/books?id=1k5fV_hQqE8C&pg=PA88&dq=Cathartes+melambrotus&as_brr=0&sig=tFHSOoZQy1Tc2nFxnoV3f8lj2Cs
+  | isbn =069108372X }}</ref> The tail is rounded and long for a vulture, extending to or slightly beyond the tip of the closed wing. The sexes are outwardly similar.<ref>{{cite book
+  | last =Blake
+  | first =Emmett Reid
+  | title =Manual of Neotropical Birds
+  | publisher =University of Chicago Press
+  | date =1977
+  | pages =262
+  | url =http://books.google.com/books?id=YP0AX3LW8jYC&pg=RA2-PA262&dq=Cathartes+melambrotus+%2B+black&ie=ISO-8859-1&sig=h4ARGewxVhakCgLiJQcZwCF_iho
+  | isbn =0226056414 }}</ref> The head is dull greyish in [[Juvenile (organism)|juveniles]], which otherwise resemble adults.
+
+The [[Iris (anatomy)|irises]] of its eyes are red, its feet are black, and its [[beak]] is flesh-colored.<ref name="Channing">{{cite web
+  | last =Channing
+  | first =Keith
+  | title =Greater Yellow-headed Vulture
+  | publisher =The Hawk Conservancy
+  | url =http://www.hawk-conservancy.org/priors/greateryellowheadedvulture.shtml
+  | accessdate = 2007-10-02 }}</ref> The eye has a single incomplete row of [[eyelash]]es on the upper lid and two rows on the lower lid.<ref name=" Pterylosis ">{{Citation| last = Fisher| first = Harvey I.| title = The Pterylosis of the Andean Condor | journal = Condor| volume = 44  | issue = 1| pages = 30-32| date = February| year = 1942| url = http://links.jstor.org/sici?sici=0010-5422%28194201%2F02%2944%3A1%3C30%3ATPOTAC%3E2.0.CO%3B2-1&size=LARGE&origin=JSTOR-enlargePage}}</ref> Its beak is thick, rounded, and hooked at the tip.<ref name="Terres">{{cite book| last =Terres| first =J. K.| authorlink =John Kenneth Terres| title =The Audubon Society Encyclopedia of North American Birds| publisher =Knopf| date =1980| location =New York, NY| pages = 957| isbn = 0394466519 }}</ref> Because of its habit of [[urohidrosis]], the scaly portions of its legs are often streaked white with [[uric acid]].
+The front toes are long with small webs at their bases and are not adapted to grasping. The opening of the nostril is longitudinal and set in a soft [[cere]], and the nostril lack a [[septum]]. Like all New World Vultures, the Greater Yellow-headed Vulture lacks a [[Syrinx (biology)|syrinx]], and is therefore unable to make any sound other than grunts or a low hiss.<ref name ="Feduccia">{{cite book
+  | last =Feduccia
+  | first =J. Alan
+  | title =The Origin and Evolution of Birds
+  | publisher =Yale University Press
+  | date =1999
+  | pages =300
+  | url = http://books.google.com/books?id=8QRKV7eSqmIC&pg=PA300&dq=Cathartes+melambrotus+%2B+black&as_brr=0&ie=ISO-8859-1&sig=BjxPgGtWEdfcd3N3O9WBACwOiDk#PPA300,M1
+  | isbn =0226056414 }}</ref>
+
+It differs in appearance from the similar Lesser Yellow-headed Vulture in several ways. It is larger than the [[Lesser Yellow-headed Vulture]], with a longer, broader tail. The plumage is a dark, glossy black in contrast to the Lesser Yellow-headed Vulture's browner plumage. Its legs are darker in color and its head is more yellow and less orange/pink than that of the Lesser Yellow-headed Vulture. Its wings are broader and its flight is also steadier.<ref name= "Lees "/>. Unlike the other members of the genus ''[[Cathartes]]'', the Greater Yellow-headed Vulture has relatively dark inner [[Flight_feather#Primaries|primaries]], which contrast slightly with the paler [[Flight_feather#Secondaries|secondaries]] and outer primaries. The Greater Yellow-headed Vulture prefers to live in forests while the Lesser Yellow-headed Vulture prefers to inhabit savannas, and it is more heavily built than the Lesser Yellow-headed Vulture.<ref name=" taxonomy ">{{Citation| last = Amadon| first = Dean| title = Notes on the Taxonomy of Vultures| journal = Condor| volume = 79  | issue =4| pages = 413-416| year = 1977 | url = http://elibrary.unm.edu/sora/Condor/files/issues/v079n04/p0413-p0416.pdf }}</ref>
+
+==Distribution and habitat ==
+[[Image:River in the Amazon rainforest.jpg|right|thumb|River in the [[Amazon rainforest|Amazon]], which the Greater Yellow-headed Vulture inhabits]]
+The Greater Yellow-headed Vulture is found in the [[Amazon Basin]] of [[tropical]] [[South America]]; specifically in south-eastern [[Colombia]], southern and eastern [[Venezuela]], [[Guyana]], [[French Guiana]], [[Suriname]], northern and western [[Brazil]], northern [[Bolivia]], eastern [[Peru]] and eastern [[Ecuador]]. It is not found in the [[Andes]], in the lowlands west or north of the Andes, in the relatively open regions of northern South America, eastern South America, or in the southern subtropical regions. It has a large range, with an estimated global extent of occurrence of {{convert|6700000 |sqkm|sqmi|1|lk=on|sp=us}}. Its natural [[habitat]] is [[Tropical and subtropical moist broadleaf forests|tropical moist lowland forest]]s. It is not generally found in high-altitude regions.<ref name="IUCN">{{cite web
+  | author =BirdLife International
+  | title =Cathartes melambrotus
+  | publisher =IUCN Red List of Threatened Species
+  | date= 2004
+  | url =http://www.iucnredlist.org/search/details.php/49650/all
+  | accessdate = 2007-10-02 }}</ref> It is common in heavily forested regions. It may wander over grasslands, but rarely strays far from forested areas, which provide shelter and nesting areas.<ref name= "Hilty"/>
+
+==Ecology and behavior==
+The Greater Yellow-headed Vulture roosts on high, exposed dead trees to observe surrounding terrain. When flying, it travels in pairs or alone and is rarely found in groups. Flight is heavy and steady. It flies with its wings held flat or very slightly above horizontal, in what is called the [[dihedral]] position.<ref name= "Hilty"/> The flight of the Greater Yellow-Headed is an example of static soaring flight, which uses [[thermals]] to maintain altitude without the need to flap its wings.<ref name="Terres"/>
+The Greater Yellow-headed Vulture also has the unusual habit of [[urohidrosis]], in which it urinates or defecates on its  legs to cool them [[evaporative cooling|evaporatively]]. This behavior is exhibited by [[stork]]s and [[New World vulture]]s.<ref>{{cite book
+  | last =Sibley, Charles G. and Jon E. Ahlquist
+  | title =Phylogeny and Classification of Birds: A Study in Molecular Evolution
+  | publisher =Yale University Press
+  | date =1991
+  | url= http://books.google.com/books?vid=ISBN0300040857 
+  | isbn = 0-300-04085-7}}</ref>
+===Diet===
+The Greater Yellow-headed Vulture is a [[scavenger]] and subsists entirely on [[carrion]].<ref name="Channing"/> It will eat roadkill or other animal carcasses. It prefers fresh meat, but often cannot make the first cut into the carcass of a larger animal as its beak is not strong enough to tear into the tough hide. After a few days, the Greater Yellow-headed Vulture will no longer feed on a piece of carrion, as the meat will begin to decay and become contaminated with [[Microorganism|microbial toxins]].<ref name="snyder"/> It will drink water from a pool, pond, or any receptacle provided.<ref name="Terres"/> Like other vultures, they play an important role in the [[ecosystem]] by disposing off carrion which could otherwise be a breeding ground for disease.<ref name="cotton"/>
+
+The Greater Yellow-headed Vulture forages using its keen eyesight to locate carrion on the ground, but also uses its sense of smell, an ability which is uncommon in the avian world. It locates carrion by detecting the scent of [[Ethanethiol|ethyl mercaptan]], a gas produced by the beginnings of decay in dead animals.
+The [[Olfaction|olfactory lobe]] of its [[brain]] responsible for processing smells is particularly large compared to other animals.<ref name="snyder">{{cite book
+  | last = Snyder, Noel F. R. and Helen Snyder
+  | title =Raptors of North America: Natural History and Conservation
+  | publisher =Voyageur Press
+  | page=40
+  | date =2006
+  | url= http://books.google.com/books?id=g6aOgkIbEwEC&pg=PA40&dq=Cathartes+aura&as_brr=3&sig=Zc-vwBBgjWSMDx56CatOgteVOtI#PPA40,M1
+  | isbn = 0760325820}}</ref> This characteristic of New World Vultures has been used by humans: ethyl mercaptan is injected into pipelines, and engineers looking for leaks then follow the vultures.<ref>{{cite web
+  | title =Avian Olfaction
+  | publisher =[[Cornell University]]
+  | url =http://instruct1.cit.cornell.edu/courses/psych396/student2002/hcs7/
+  | accessdate = 2007-10-25 }}</ref>
+
+[[King Vulture]]s, which lack the ability to smell carrion, follow the Greater Yellow-headed Vultures to carcasses, where the King Vulture tears open the skin of the dead animal. This allows the smaller Greater Yellow-headed Vulture access to food, as it does not have a bill strong enough to tear the hide of larger animals. This is an example of [[mutual dependence]] between species.<ref>{{cite book
+  | last =Muller-Schwarze 
+  | first =Dietland 
+  | title =Chemical Ecology of Vertebrates
+  | publisher =Cambridge University Press
+  | page=350
+  | date =2006
+  | url= Chemical Ecology of Vertebrates
+  | isbn = 0521363772}}</ref> It is generally displaced from carcasses by both [[Turkey Vulture]]s and [[King Vulture]]s, due to their larger size.<ref name="cotton">{{cite journal
+  | last =Gomez, LG; Houston, DC; Cotton, P; Tye, A 
+  | title = The role of greater yellow-headed vultures Cathartes melambrotus as scavengers in neotropical forest 
+  | journal = Ibis
+  | volume =136
+  | issue =2
+  | pages =193-196
+  | publisher =
+  | location =
+  | date =1994
+  | url =http://md1.csa.com/partners/viewrecord.php?requester=gs&collection=ENV&recid=3646491&q=Cathartes+melambrotus&uid=791396595&setcookie=yes
+  | accessdate =  2007-10-03 }}</ref>
+
+===Reproduction===
+Greater Yellow-headed Vultures do not build [[Bird nest|nests]], but rather lay their [[Egg (biology)|eggs]] directly on cliffs, the floors of caves, the ground, or in the hollows of stumps. Eggs are cream-colored and blotched with brown spots, particularly around the larger end.<ref name= "Hilty"/> [[Clutch (eggs)|Clutch]] size ranges from one to three, though two is the norm.<ref name="Terres"/> The chicks are [[altricial]]&mdash;blind, naked and relatively immobile upon hatching, and grow [[down feather]]s later. The parents feed their young by [[Regurgitation (digestion)|regurgitating]] pre-digested food into their beak, where the chicks then drink it.<ref name="Terres"/> Young [[fledge]] after two to three months.<ref>Howell, Steve N.G., and Sophie Webb (1995). ''A Guide to the Birds of Mexico and Northern Central America.'' New York: Oxford University Press, page 174.  ISBN 0-19-854012-4.</ref>
+
+==Conservation==
+The Greater Yellow-headed Vulture is listed as a species of Least Concern by the [[World Conservation Union]] (IUCN). It has an estimated global range of 6,700,000&nbsp;square kilometers (2,586,884.5&nbsp;square&nbsp;miles) and a population of between 100,000 and 1,000,000 individuals.<ref name="birdlife">BirdLife International (2007) Species factsheet: Cathartes melambrotus. Downloaded from http://www.birdlife.org on 6/10/2007</ref> There is evidence that suggests a decline in the species' population, but it is not significant enough to warrant an upgrade in conservation status.<ref name="IUCN"/>
+
+==Sources==
+{{reflist|2}}
+
+[[Category:Cathartes]]
+[[Category:Cathartidae]]
+[[Category:Birds of South America|Vulture, Greater Yellow-headed]]
+[[Category:Birds of Colombia|Vulture, Greater Yellow-headed]]
+[[Category:Birds of Venezuela|Vulture, Greater Yellow-headed]]
+[[Category:Birds of Guyana|Vulture, Greater Yellow-headed]]
+[[Category:Birds of French Guiana|Vulture, Greater Yellow-headed]]
+[[Category:Birds of Suriname|Vulture, Greater Yellow-headed]]
+[[Category:Birds of Brazil|Vulture, Greater Yellow-headed]]
+[[Category:Birds of Bolivia|Vulture, Greater Yellow-headed]]
+[[Category:Birds of Peru|Vulture, Greater Yellow-headed]]
+[[Category:Birds of Ecuador|Vulture, Greater Yellow-headed]]
+[[Category:Birds of the Amazon Basin|Vulture, Greater Yellow-headed]]
+
+==External links==
+*[http://www.arthurgrosset.com/sabirds/greater%20yellow-headed%20vulture.html Greater Yellow-headed Vulture‎ pictures]
+
+{{Wikispecies|Cathartes melambrotus|Greater Yellow-headed Vulture}}
+[[es:Cathartes melambrotus]]
+[[hu:Nagy sárgafejű keselyű]]

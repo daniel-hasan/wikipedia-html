@@ -1,0 +1,58 @@
+{{Infobox ballistic missile 
+| weapon_name = DF-4/CSS-3
+| weapon_image = 
+| weapon_type = LRBM (PRC), [[IRBM]] (U.S.)
+| range = 5,550km<ref name="FAS">The Federation of American Scientists & The Natural Resources Defense Council ''Chinese Nuclear Forces and U.S. Nuclear War Planning'' p. 202 [http://www.fas.org/nuke/guide/china/Book2006.pdf]</ref>
+| warheads = One<ref name="FAS" />
+| yield = 3.3 Mt<ref name="FAS" />
+| propulsion = Liquid fueled
+| guidance = [[Inertial guidance system|Inertial]]
+| cep = ~1,500 m
+| max_speed = ?
+| length = 28.05 m
+| diameter = 2.24 m
+| weight = 82,000 kg
+| payload = 3300 kt
+| manufacturer = China Academy of Launch Vehicle Technology
+| unit_cost = ?
+| in_service_date = 1975<ref>PRC Defense Policy and Armed Forces, National Intelligence Estimate 13-76, November 11, 1976, p. 47.</ref>, 1980<ref name="FAS" />
+| out_service_date = ?
+| states = [[PRC]]
+}}
+The '''Dong Feng 4''' or DF-4 (also known as the CSS-3) is a long-range two-stage [[People's Republic of China|Chinese]] [[Intermediate-range ballistic missile]] with liquid fuel ([[Nitric acid]]/[[UDMH]]).  It was thought to be deployed in limited numbers in underground silos beginning in the 1970s and early 1980s.  The Dong Feng 4 has a takeoff thrust of 1,224.00 kN, a takeoff weight of 82000 kg, a diameter of 2.25 m, a length of 28.05 m and a fin span of 2.74 m. The range of the Dong Feng 4, which is equipped with a 2,190 kg [[nuclear weapon|nuclear warhead]] with 3.3 Mt yield, with a nominal range of 4,750km. The missile uses an [[inertial guidance]] system, resulting in a [[Circular error probable|CEP]] of 1,500 meters.
+
+== History ==
+The decision to develop the DF-4 was made in 1965<ref>U.S. Department of Defense, Office of the Secretary of Defense, The Military Power of the People’s Republic of China, 2005, 2005, p. 28</ref> in response to the U.S. ballistic missile submarine patrols that began operating out of Guam.  
+
+There were two versions of the missile developed<ref>U.S. Department of Defense, Office of the Secretary of Defense, The Military Power of the People’s Republic of China, 2000, 2000, p. 17.</ref>, one version housed in caves or garages to be rolled out on launch and another silo based version.    
+
+The U.S. DoD estimates that the missile will continue to serve as a regional deterrence instrument until they can be replaced by the [[DF-31]]<ref>U.S. Department of Defense, Office of the Secretary of Defense, Military Power of the People’s Republic of China, 2006, May 22, 2006, p. 50.</ref>.
+
+==Notes==
+<div class="references-small">
+<references />
+</div>
+
+
+== Operators ==
+
+* {{CHN}}:  The [[People's Liberation Army]] is the only operator of the Dong-Feng 4.
+
+== External links ==
+
+* [http://www.astronautix.com/lvs/df4.htm Astronautix]
+* [http://www.sinodefence.com/strategic/missile/df4.asp]
+
+
+{{start box}}
+{{succession box|title=DF-4 |before=[[DF-3]] |after=[[DF-5]] |years=}}
+{{end box}}
+
+{{Missile-stub}}
+
+[[Category:Intercontinental ballistic missiles of the People's Republic of China]]
+[[Category:People's Liberation Army guided missiles]]
+
+<!-- The below are inter language links. -->
+[[de:Dong-Feng 4]]
+[[he:DF-4]]

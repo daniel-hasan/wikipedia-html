@@ -1,0 +1,1497 @@
+[[Image:United Kingdom A road zones.jpg|thumb|200px|The numbering zones for A-roads in Great Britain]]
+
+List of [[A road]]s beginning with 1 in [[Great Britain]] beginning north of the [[River Thames|Thames]], east of the [[A1 road|A1]].
+
+{| class="wikitable"
+! Road
+! From
+! To
+! Notes
+|-
+| {{ukroadsmall|1}}
+| [[Central London]]
+| [[Edinburgh]]
+| Often called the "Great North Road".  London sections of road covered by separate [[A1 road (London)]] article
+|-
+| {{ukroadsmall|10}}
+| [[Central London]]
+| [[King's Lynn]]
+| Section round [[Cambridge]] overlaps [[M11 motorway|M11]] and [[A14 road|A14]]
+|-
+| {{ukroadsmall|11}}
+| [[Central London]]
+| [[Norwich]]
+| Section between [[Bow, London|Bow]] and Stump Cross (M11 J9) superseded by [[A12 road|A12]] and M11. Section round [[Newmarket]] overlaps [[A14 road|A14]]
+|-
+| {{ukroadsmall|12}}
+| [[Central London]]
+| [[Great Yarmouth]]
+| Section round [[Ipswich]] overlaps [[A14 road|A14]]
+|-
+| {{ukroadsmall|13}}
+| [[Central London]]
+| [[Shoeburyness]]
+|
+|-
+| {{ukroadsmall|14}}
+| [[M6 motorway]]
+| [[Felixstowe#The Port of Felixstowe|Felixstowe Port]]
+|
+|-
+| {{ukroadsmall|15}}
+| [[Peterborough]]
+| [[Hessle]]
+|
+|-
+| {{ukroadsmall|16}}
+| [[Grimsby]]
+| [[Stamford, Lincolnshire|Stamford]]
+|
+|-
+| {{ukroadsmall|17}}
+| [[Newark on Trent]]
+| [[Kings Lynn]]
+|
+|-
+| {{ukroadsmall|18}}
+| [[Doncaster]]
+| [[Ludborough]]
+|
+|-
+| {{ukroadsmall|19}}
+| [[Doncaster]]
+| [[Seaton Burn]]
+|
+|-
+| {{ukroadsmall|100}}
+| [[Central London]]
+| [[City of London]]
+| Part of the [[London Inner Ring Road]]
+|-
+| {{ukroadsmall|101}}
+| [[Limehouse]]
+| [[Rotherhithe]]
+| [[Rotherhithe Tunnel]]
+|-
+| {{ukroadsmall|102}}
+| [[Charlton]]
+| [[Lower Clapton|Clapton]]
+| Includes the [[Blackwall Tunnel]] and former [[A102(M) motorway]] south of the tunnel. Section between A13 and Hackney Wick redesignated as A12.
+|-
+| {{ukroadsmall|103}}
+| [[Highbury]]
+| [[Hornsey]]
+|
+|-
+| {{ukroadsmall|104}}
+| [[Islington Green]]
+| [[Epping]]
+|The northern section of this road, beyond Woodford Green, was originally [[A11]]
+|-
+| {{ukroadsmall|105}}
+| [[Canonbury]]
+| [[Enfield]]
+| 
+|-
+| {{ukroadsmall|106}}
+| [[Hackney Central|Hackney]]
+| [[Wanstead]]
+| Formerly ended at [[Leytonstone]], but according to some maps seems to have taken over bits of the old [[A11 road|A11]] and [[A12 road|A12]]. Originally, the number referred to the A12 [[Eastern Avenue, London|Eastern Avenue]] section.
+|-
+| {{ukroadsmall|107}}
+| [[Whitechapel]]
+| [[Hackney Central|Hackney]]
+| 
+|-
+| A108
+| Unused
+|
+| Was allocated twice. Firstly on what's now the [[A10 road|A10]] from the A1010 junction at [[Tottenham]] to the A1170 junction at [[Waltham Cross]]. Secondly, it was used for what's now the [[A19 road|A19]] from [[Seaham]] to [[Seaton Burn]].
+|-
+| {{ukroadsmall|109}}
+| [[New Southgate railway station]]
+| [[Tottenham]]
+|
+|-
+| {{ukroadsmall|110}}
+| Woodford Wells
+| [[Underhill]]
+| 
+|-
+| {{ukroadsign|111}}
+| [[Palmers Green]]
+| [[Potters Bar]]
+|
+|- 
+| {{ukroadsign|112}}
+| [[Waltham Abbey, Essex|Waltham Abbey]]
+| [[Woolwich Ferry]]
+|  
+|-
+| {{ukroadsign|113}}
+| [[Leytonstone]]
+| [[Chipping Ongar]]
+| 
+|-
+| {{ukroadsign|114}}
+| [[Plaistow, Newham|Plaistow]]
+| [[Whipps Cross]]
+| 
+|-
+| {{ukroadsign|115}}
+| [[Hackney Wick]]
+| [[Stratford, London|Stratford]]
+|
+|-
+| {{ukroadsign|116}}
+| [[Manor Park, London|Manor Park]]
+| [[Wanstead]]
+|
+|-
+| {{ukroadsign|117}}
+| [[Aldersbrook]]
+| [[Woolwich Ferry]]
+| 
+|-
+| {{ukroadsmall|118}}
+| [[Bow, London|Bow]]
+| [[Romford]]
+| Section between Bow and Stratford was [[A11 road|A11]], with the section east of [[Stratford, London|Stratford]] forming the original [[A12 road|A12]].
+|-
+| {{ukroadsign|119}}
+| [[Ware]]
+| [[Watton-at-Stone]]
+| See also [[A602 road|A602]]
+|-
+| {{ukroadsmall|120}}
+| [[Puckeridge]]
+| [[Harwich]]
+|-
+| {{ukroadsign|121}}
+| [[Waltham Cross]]
+| Woodford Wells
+| 
+|-
+| A122
+| Unused
+|
+| Ran from Epping to Chelmsford. Most was renumbered [[A414]]
+|-
+| {{ukroadsign|123}}
+| [[Chigwell]]
+| [[Barking]]
+| East of Barking town centre (Ripple Road) was the original [[A13 road|A13]]. A13 still uses much of the original (albeit dualled) Ripple Road towards [[Dagenham]].
+|-
+| {{ukroadsmall|124}}
+| [[Canning Town]]
+| [[Upminster]]
+| Western section was the original [[A13 road|A13]] as far as Barking.
+|-
+| {{ukroadsign|125}}
+| [[Romford]]
+| [[Rainham, London|Rainham]]
+|
+|-
+| {{ukroadsign|126}}
+| [[West Thurrock]]
+| [[Tilbury]]
+| seems to have two western termini, on the [[A13]] and A1090
+|-
+| {{ukroadsmall|127}}
+| [[Romford]]
+| [[Southend]]
+| Known as the [[Southend Arterial Road]]
+|-
+| {{ukroadsign|128}}
+| [[Orsett]]
+| [[Chipping Ongar]]
+| used to run from [[Tilbury]]
+|-
+| {{ukroadsmall|129}}
+| [[Shenfield]]
+| [[Hadleigh, Essex]]
+|-
+| {{ukroadsmall|130}}
+| [[Great Dunmow]]
+| [[Canvey Island]]
+| Used to start at Trumpington, near [[Cambridge]]. Originally ended on the [[A129 road|A129]] near [[Rayleigh]] until extended to the [[A127 road|A127]] and then Canvey Island.
+|-
+| {{ukroadsign|131}}
+| Little Waltham
+| [[Sudbury, Suffolk|Sudbury]]
+|
+|-
+| {{ukroadsign|132}}
+| [[Basildon]]
+| [[South Woodham Ferrers]]
+| Originally allocated to the road from [[Colchester]] to [[Huntingdon]].    
+|-
+| {{ukroadsign|133}}
+| [[Colchester]]
+| [[Clacton-on-Sea]]
+| 
+|-
+| {{ukroadsign|134}}
+| [[King's Lynn]]
+| [[Colchester]]
+|
+|-
+| {{ukroadsmall|135}}
+| [[Stockton-on-Tees]]
+| [[Egglescliffe]]
+| 
+|-
+| {{ukroadsign|136}}
+| [[Harwich]]
+| [[Harwich International Port]]
+|
+|-
+| {{ukroadsign|137}}
+| [[Ipswich]]
+| [[Colchester]]
+|
+|-
+| {{ukroadsign|138}}
+| [[Chelmsford]]
+| 
+| The [[Chelmsford]] ring road. Previously allocated to a road between [[Ipswich]] and [[Shotley, Suffolk|Shotley Gate]].
+|-
+| {{ukroadsign|139}}
+| [[Stockton-On-Tees]]
+| [[Billingham]]
+| Previously allocated to a road between [[Ipswich]] and [[Felixstowe]].
+|-
+| {{ukroadsmall|140}}
+| [[Needham Market]]
+| [[Cromer]]
+| 
+|-
+| {{ukroadsign|141}}
+| [[Guyhirn]]
+| [[Huntingdon]]
+| 
+|-
+| {{ukroadsign|142}}
+| [[Chatteris]]
+| [[Newmarket]]
+|
+|-
+| {{ukroadsmall|143}}
+| [[Great Yarmouth]]
+| [[Haverhill, Suffolk|Haverhill]]
+|
+|- 
+| {{ukroadsign|144}}
+| [[Darsham]]
+| [[Bungay, Suffolk|Bungay]]
+|
+|-
+| {{ukroadsign|145}}
+| [[Blythburgh]]
+| [[Beccles]]
+|
+|-
+| {{ukroadsmall|146}}
+| [[Norwich]]
+| [[Lowestoft]]
+|
+|-
+| {{ukroadsign|147}}
+| [[Norwich]]
+| [[Norwich]]
+| Part of the Norwich ring road
+|-
+| {{ukroadsmall|148}}
+| [[King's Lynn]]
+| [[Cromer]]
+| 
+|-
+| {{ukroadsmall|149}}
+| [[Great Yarmouth]]
+| [[Kings Lynn]]
+|
+|-
+| A150
+| Unused
+|
+| Previously allocated to a road between [[Wisbech]] and [[Long Sutton]].
+|-
+| {{ukroadsmall|151}}
+| [[Colsterworth]]
+| [[Holbeach]]
+|
+|-
+| {{ukroadsign|152}}
+| [[Donington, Lincolnshire|Donington]]
+| [[Surfleet]]
+|
+|-
+| {{ukroadsmall|153}}
+| [[Honington, Lincolnshire|Honington]]
+| [[Louth, Lincolnshire|Louth]]
+|
+|-
+| {{ukroadsign|154}}
+| [[Felixstowe]]
+| Felixstowe
+| 
+|-
+| {{ukroadsign|155}}
+| [[Tunby]]
+| [[West Keal]]
+| 
+|-
+| {{ukroadsmall|156}}
+| [[Saxilby]]
+| [[Gainsborough, Lincolnshire|Gainsborough]]
+|
+|-
+| {{ukroadsmall|157}}
+| [[Wragby]]
+| [[Maltby le Marsh]]
+|
+|-
+| {{ukroadsmall|158}}
+| [[Lincoln, Lincolnshire|Lincoln]]
+| [[Skegness]]
+| 
+|-
+| {{ukroadsmall|159}}
+| [[Scunthorpe]]
+| [[Gainsborough, Lincolnshire|Gainsborough]]
+|
+|-
+| {{ukroadsmall|160}}
+| [[Ulceby]]
+| [[Immingham]]
+| Previously allocated to a road between [[Croxton, Lincolnshire|Croxton]] and [[Barrow upon Humber, Lincolnshire|Barrow upon Humber]]
+|-
+| {{ukroadsign|161}}
+| [[Beckingham, Nottinghamshire|Beckingham]]
+| [[Goole]]
+|
+|-
+| {{ukroadsign|162}}
+| [[Brotherton]]
+| [[Tadcaster]]
+|
+|-
+| {{ukroadsign|163}}
+| [[Selby]]
+| [[Driffield]]
+|
+|-
+| {{ukroadsign|164}}
+| [[Hessle]]
+| [[Driffield]]
+|
+|-
+| {{ukroadsmall|165}}
+| [[Kingston upon Hull]]
+| [[Scarborough, North Yorkshire|Scarborough]]
+|
+|-
+| {{ukroadsign|166}}
+| [[York]]
+| [[Bridlington]]
+|
+|-
+| {{ukroadsmall|167}}
+| [[Topcliffe, North Yorkshire|Topcliffe]]
+| [[Kenton Bar]]
+|
+|-
+| {{ukroadsign|168}}
+| [[Walshford]]
+| [[Northallerton]]
+|
+|-
+| {{ukroadsign|169}}
+| [[Malton, North Yorkshire|Malton]]
+| [[Whitby]]
+|
+|-
+| {{ukroadsmall|170}}
+| [[Thirsk]]
+| [[Scarborough, North Yorkshire|Scarborough]]
+|
+|-
+| {{ukroadsmall|171}}
+| [[Middlesbrough]]
+| [[Scarborough, North Yorkshire|Scarborough]]
+|
+|-
+| {{ukroadsign|172}}
+| [[Tontine]]
+| [[Middlesbrough]]
+|
+|-
+| {{ukroadsign|173}}
+| [[Stokesley]]
+| [[Skelton-In-Cleveland]]
+|
+|-
+| {{ukroadsmall|174}}
+| [[Thornaby-On-Tees]]
+| [[Whitby]]
+|
+|-
+| A175
+| Unused
+|
+| Previously a road between [[Teesport]] and [[Normanby, Middlesbrough|Normanby]] 
+|-
+| {{ukroadsign|176}}
+| Vange, near [[Basildon]]
+| [[Billericay]]
+| Also previously allocated to a road between [[Thornaby-On-Tees]] and [[Middlesbrough]]
+|-
+| {{ukroadsign|177}}
+| [[Stockton]]
+| [[Durham]]
+|
+|-
+| {{ukroadsign|178}}
+| [[Port Clarence]]
+| [[Hartlepool]]
+|
+|-
+| {{ukroadsmall|179}}
+| [[A19 road|A19]]
+| [[Hartlepool]]
+|
+|-
+| {{ukroadsmall|180}}
+| [[Barnetby-le-Wold]]
+| [[Cleethorpes]]
+| Also previously a road between [[Durham]] and Byers Garth.
+|-
+| {{ukroadsign|181}}
+| [[Durham]]
+| [[Castle Eden]]
+|
+|-
+| {{ukroadsign|182}}
+| [[A194(M) motorway|A194(M)]]
+| [[Easington Village]]
+| 
+|-
+| {{ukroadsign|183}}
+| [[Chester-le-Street]]
+| [[South Shields]]
+| 
+|-
+| {{ukroadsmall|184}}
+| [[Sunderland]]
+| [[Gateshead]]
+| 
+|- 
+| {{ukroadsign|185}}
+| [[Felling (UK)|Felling]]
+| [[South Shields]]
+| 
+|-
+| {{ukroadsign|186}}
+| [[Newcastle upon Tyne]]
+| [[North Shields]]
+|
+|-
+| {{ukroadsign|187}}
+| [[Heaton, Newcastle|Heaton]]
+| [[North Shields]]
+|
+|-
+| {{ukroadsign|188}}
+| [[Heaton, Newcastle|Heaton]]
+| [[Foest Hall]]
+|
+|-
+| {{ukroadsmall|189}}
+| [[Newcastle upon Tyne]]
+| [[Ashington]]
+|
+|-
+| {{ukroadsign|190}}
+| Dudley bypass, North [[Tyneside]] 
+| [[Seaton Sluice]]
+|
+|-
+| {{ukroadsign|191}}
+| [[Kenton Bar, Tyne and Wear|Kenton Bar]]
+| [[Whitley Bay]]
+|
+|-
+| {{ukroadsign|192}}
+| [[North Shields]]
+| [[Morpeth, Northumberland|Morpeth]]
+| 
+|-
+| {{ukroadsign|193}}
+| [[Bedlington]]
+| [[Byker]]
+| 
+|-
+| {{ukroadsmall|194}}
+| [[Washington]]
+| [[South Shields]]
+| 
+|-
+| {{ukroadsign|195}}
+| [[Washington, Tyne and Wear|Washington]]
+| [[Wardley, Gateshead|Wardley]]
+|-
+| {{ukroadsign|196}}
+| [[Morpeth, Northumberland|Morpeth]]
+| [[Ashington]]
+| 
+|-
+| {{ukroadsign|197}}
+| [[Clifton, Northumberland]]
+| [[Newbiggin-by-the-Sea]]
+|
+|-
+| {{ukroadsign|198}}
+| Tyninghame
+| [[Trenant, East Lothian|Trenant]]
+| 
+|-
+| {{ukroadsign|199}}
+| [[Leith]]
+| [[West Barns]]
+|-
+| {{ukroadsmall|1000}}
+| [[Highgate]]
+| [[Welwyn]]
+|
+|-
+| {{ukroadsign|1001}}
+| Near [[Hatfield, Hertfordshire|Hatfield]]
+| Hatfield
+|
+|-
+| {{ukroadsign|1003}}
+| [[Southgate]]
+| [[North Finchley]]
+|
+|-
+| {{ukroadsign|1004}}
+| [[Southgate]] 
+| [[Palmers Green]]
+|
+|-
+| {{ukroadsign|1005}}
+| [[Potters Bar]]
+| [[World's End]]
+|
+|-
+| {{ukroadsign|1006}}
+| [[Leyton]]
+| [[Walthamstow]]
+| 
+|-
+| {{ukroadsign|1008}}
+| [[Snaresbrook]]
+| [[Wanstead]]
+|
+|-
+| {{ukroadsign|1009}}
+| South [[Chingford]]
+| [[Woodford]]
+|
+|-
+| {{ukroadsign|1010}}
+| [[Tottenham]]
+| [[Waltham Cross]]
+| Former [[A10 road|A10]] alignment
+|-
+| {{ukroadsign|1011}}
+| [[West Ham]]
+| [[Silvertown]]
+| significant portion is now A1020
+|-
+| {{ukroadsign|1012}}
+| [[North Stifford]]
+| [[Grays]]
+| 
+|-
+| {{ukroadsign|1013}}
+| [[Stanford-le-Hope]]
+| [[Grays]]
+| Former [[A13 road|A13]] alignment (pre-1980s) between Stanford and Lodge Lane, Grays. Section between Lodge Lane and Grays town centre possibly the original A13 alignment. Lodge Lane between A1013 and [[A1306 road|A1306]] is presently unclassified but was also part of the A13 till the 1980s. 
+|-
+| {{ukroadsign|1014}}
+| [[Stanford-le-Hope]]
+| [[Coryton Refinery]]
+| 
+|-
+| {{ukroadsign|1015}}
+| [[Rayleigh, Essex|Rayleigh]]
+| [[Eastwood]]
+|
+|-
+| {{ukroadsign|1016}}
+| North [[Shoeburyness]]
+| Shoeburyness
+|
+|-
+| {{ukroadsign|1017}}
+| [[Haverhill]]
+| [[Gosfield]]
+|
+|-
+| {{ukroadsmall|1018}}
+| [[South Shields]]
+| [[A19 road|A19]] near [[Seaham]]
+| Former [[A19 road|A19]] alignment
+|-
+| {{ukroadsign|1019}}
+| [[Harlow]]
+| Harlow
+|
+|-
+| {{ukroadsign|1020}}
+| [[East India Docks]]
+| [[Beckton]]
+| 
+|-
+| {{ukroadsign|1021}}
+| [[Felixstowe]]
+| Felixstowe
+|
+|-
+| {{ukroadsign|1022}}
+| [[Ipswich]]
+| Ipswich
+|
+|-
+| {{ukroadsign|1023}}
+| Brook Street ([[Brentwood, Essex|Brentwood]])
+| [[Mountnessing]]
+| Former [[A12 road|A12]] alignment
+|-
+| {{ukroadsign|1024}}
+| [[Norwich]]
+| Norwich
+|
+|-
+| {{ukroadsign|1025}}
+| [[Harlow]] 
+| Harlow
+|
+|-
+| {{ukroadsign|1027}}
+| [[Hartburn, County Durham|Hartburn]]
+| [[Billingham]]
+|
+|-
+| {{ukroadsign|1028}}
+| [[Ulceby]]
+| [[Candlesby]]
+|
+|-
+| {{ukroadsign|1029}}
+| [[Scunthorpe]]
+| Scunthrope
+|
+|-
+| {{ukroadsign|1031}}
+| [[Cleethorpes]]
+| [[Mablethorpe]]
+| 
+|-
+| {{ukroadsign|1032}}
+| [[Hemlington]]
+| [[Middlesbrough]]
+| 
+|-
+| {{ukroadsign|1033}}
+| [[Kingston upon Hull]]
+| [[Withernsea]]
+|
+|-
+| {{ukroadsign|1034}}
+| [[A63 road|A63]] at [[South Cave]]
+| [[A1079 road|A1079]] at [[Market Weighton]]
+|
+|-
+| {{ukroadsign|1035}}
+| [[A165 road|A165]] at [[Leven, East Riding of Yorkshire|Leven]]
+| [[A1079 road|A1079]] near [[Beverley]]
+|
+|-
+| {{ukroadsign|1036}}
+| [[Copmanthorpe]]
+| [[Huntington, City of York|Huntington]]
+| Former [[A64 road|A64]] through York prior to the York By Pass
+|-
+| {{ukroadsign|1037}}
+| [[Chingford]]
+| Chingford
+|
+|-
+| {{ukroadsign|1038}}
+| [[Bridlington]]
+| Birdlington
+|
+|-
+| {{ukroadsign|1039}}
+| [[Staxton]]
+| [[Filey]]
+|
+|-
+| {{ukroadsign|1041}}
+| [[A614 road|A614]]
+| [[Selby]]
+| 
+|-
+| {{ukroadsign|1042}}
+| [[Kirkleatham]]
+| [[Redcar]]
+|
+|-
+| {{ukroadsign|1044}}
+| [[Yarm]]
+| [[Stainton]]
+| 
+|-
+| {{ukroadsign|1046}}
+| [[Stockton-on-Tees]]
+| [[Port Clarence]]
+|
+|-
+| {{ukroadsign|1047}}
+| [[Norfolk]]
+| 
+| 
+|-
+| {{ukroadsign|1048}}
+| [[Hartlepool]]
+| Hartlepool
+|
+|-
+| {{ukroadsign|1049}}
+| [[Hartlepool]]
+| Harlepool
+|
+|-
+| {{ukroadsign|1052}}
+| [[Houghton Gate]]
+| [[Houghton-le-Spring]]
+|
+|-
+| {{ukroadsign|1053}}
+| [[Lazenby]]
+| [[Grangetown, Yorkshire|Grangetown]]
+|
+|-
+| {{ukroadsign|1054}}
+| [[Norwich]]
+| Norwich
+| 
+|-
+| {{ukroadsign|1055}}
+| [[Tottenham Hale]]
+| [[Waltham Cross]]
+| 
+|-
+| {{ukroadsign|1056}}
+| [[Hazlerigg]]
+| [[Backworth]]
+|
+|-
+| {{ukroadsign|1057}}
+| [[Hatfield, Hertfordshire|Hatfield]]
+| [[St Albans]]
+| 
+|-
+| {{ukroadsmall|1058}}
+| [[Newcastle upon Tyne]]
+| [[Tynemouth]]
+|
+|-
+| {{ukroadsign|1060}}
+| [[Bishop's Stortford]]
+| [[Sandon]]
+| 
+|-
+| {{ukroadsign|1061}}
+| Shankhouse
+| South Beach, [[Blyth, Northumberland|Blyth]]
+|
+|-
+| {{ukroadsign|1062}}
+| [[Hoveton]]
+| [[Potter Heigham]]
+|
+|-
+| {{ukroadsign|1064}}
+| [[Acle]]
+| Near [[Caister-on-Sea]]
+|
+|- 
+| {{ukroadsign|1065}}
+| [[Mildenhall]]
+| [[Fakenham]]
+| 
+|-
+| {{ukroadsmall|1066}}
+| [[Thetford]]
+| [[Diss]]
+|
+|-
+| {{ukroadsign|1067}}
+| [[Norwich]]
+| [[Fakenham]]
+|
+|-
+| {{ukroadsmall|1068}}
+| [[Seaton Burn]]
+| [[Alnwick]]
+|
+|-
+| {{ukroadsign|1069}}
+| [[Chingford]]
+| [[Buckhurst Hill]]
+|
+|-
+| {{ukroadsign|1070}}
+| [[Stevenage]]
+| 
+|
+|-
+| {{ukroadsign|1071}}
+| [[Newton, Suffolk]]
+| [[Ipswich]]
+|
+|-
+| {{ukroadsign|1072}}
+| [[Stevenage]]
+| Stevenage
+|
+|-
+| {{ukroadsmall|1073}}
+| [[Eye, Cambridgeshire|Eye]]
+| [[Spalding]]
+| New road due to be built 2007
+|-
+| {{ukroadsign|1074}}
+| [[New Costessey]]
+| [[Norwich]]
+|
+|-
+| {{ukroadsign|1075}}
+| [[Thetford]]
+| [[East Dereham]]
+|
+|-
+| {{ukroadsign|1076}}
+| [[Gaywood]]
+| [[Kings Lynn]]
+|
+|-
+| {{ukroadsign|1077}}
+| [[Scunthorpe]]
+| [[Killinghome]]
+| 
+|-
+| {{ukroadsign|1078}}
+| [[Kings Lynn]]
+| [[South Wootton]]
+|
+|-
+| {{ukroadsmall|1079}}
+| [[York]]
+| [[Kingston upon Hull]]
+| 
+|-
+| {{ukroadsign|1080}}
+| [[Turnpike Lane tube station]]
+| [[Tottenham]]
+| 
+|-
+| {{ukroadsmall|1081}}
+| [[Luton]]
+| [[High Barnet]]
+| Previously allocated to present [[A1400 road|A1400]]
+|-
+| {{ukroadsmall|1082}}
+| [[A148 road|A148]]
+| [[A149 road|A149]] & [[Sheringham]]
+|
+|-
+| {{ukroadsign|1083}}
+| [[Beacontree Heath]]
+| [[Ilford]]
+|
+|-
+| {{ukroadsign|1084}}
+| [[Brigg]]
+| [[Caister]]
+|
+|-
+| {{ukroadsign|1085}}
+| [[Middlesbrough]]
+| [[A174 road|A174]] south of [[Marske-by-the-Sea]]
+|
+|-
+| {{ukroadsmall|1086}}
+| [[Easington, County Durham|Easington]]
+| [[Hartlepool]]
+| 
+|-
+| {{ukroadsign|1087}}
+| [[Beltonford]]
+| [[Broxburn]]
+|
+|-
+| {{ukroadsign|1088}}
+| [[Woolpit]]
+| [[Thetford]]
+| 
+|-
+| {{ukroadsign|1089}}
+| [[Orsett Heath]]
+| [[Tilbury Cruise Terminal]]
+| this is the Trunk Road into Tilbury (and not the [[A13 road|A13]]!)
+|-
+| {{ukroadsign|1090}}
+| [[Purfleet]]
+| [[West Thurrock]]
+| 
+|-
+| {{ukroadsign|1092}}
+| [[Baythorne End]]
+| [[Long Melford]]
+| 
+|-
+| {{ukroadsign|1094}}
+| [[A12 road|A12]] near [[Stratford St. Andrew]]
+| [[Aldeburgh]]
+| 
+|-
+| {{ukroadsign|1095}}
+| [[A12 road|A12]] near [[Blythburgh]]
+| [[Southwold]]
+| 
+|-
+| {{ukroadsign|1096}}
+| [[Galley Hill]]
+| [[St Ives, Cambridgeshire|St Ives]]
+| 
+|-
+| A1097
+| Westgate/B1200 (was A157) in [[Louth, Lincolnshire|Louth]]
+| Grimsby Road/B1502 (was A16) in Louth
+| Otherwise known as St Mary's Lane.  Route no longer exists.  Before the Louth bypass was opened in 1991, it directed traffic heading between the west and the north away from the town centre.  Designation removed at that time
+|-
+| {{ukroadsign|1098}}
+| [[New Waltham]]
+| [[Cleethorpes]]
+| 
+|-
+| {{ukroadsign|1099}}
+| [[Chelmsford]]
+| Chelmsford
+|
+|- 
+| {{ukroadsmall|1101}}
+| [[Bury St. Edmunds]]
+| [[Littleport, Cambridgeshire|Littleport]]
+|
+|-
+| {{ukroadsign|1103}}
+| [[West Rasen]]
+| [[Osgodby Moor]]
+|
+|-
+| {{ukroadsign|1104}}
+| [[Ulceby]]
+| [[Mablethorpe]]
+| 
+|-
+| {{ukroadsign|1105}}
+| [[Kingston upon Hull]]
+| Near [[Hessle]]
+|
+|-
+| {{ukroadsmall|1107}}
+| [[Cockburnspath]]
+| Near [[Burnmouth]]
+|
+|-
+| {{ukroadsign|1108}}
+| [[Chirton]]
+| [[Billy Mill]]
+|
+|-
+| {{ukroadsign|1110}}
+| [[New Southgate]]
+| [[A406 road|A406]]
+|
+|-
+| {{ukroadsign|1111}}
+| [[Alford, Lincolnshire|Alford]]
+| [[Sutton-on-Sea]]
+|
+|-
+| {{ukroadsign|1112}}
+| [[Abridge]]
+| [[Dagenham]]
+| Southern section used to follow what is now A1240, and formerly, north of the [[A12 road|A12]] it was B196 as far as Hainault Forest and north of there part of a much longer B174, while south of the [[A124]] it was part of a much longer B178.
+|-
+| {{ukroadsign|1114}}
+| Duplicated
+| 
+| See [[Anomalously numbered roads in Great Britain]]
+|-
+| {{ukroadsign|1117}}
+| [[Carlton Colville]]
+| [[Pleasurewood Hills]]
+| 
+|-
+| {{ukroadsign|1120}}
+| [[Combs Ford]]
+| [[Yoxford]]
+| 
+|-
+| {{ukroadsign|1121}}
+| [[Boston, Lincolnshire|Boston]]
+| [[Swineshead Bridge]]
+|
+|-
+| {{ukroadsign|1122}}
+| [[Outwell]]
+| [[Swaffham]]
+| 
+|-
+| {{ukroadsign|1123}}
+| [[Huntingdon]]
+| [[Soham]]
+| 
+|-
+| {{ukroadsign|1124}}
+| [[Sible Hedingham]]
+| [[Colchester]]
+| 
+|-
+| {{ukroadsign|1129}}
+| [[Fletton]]
+| [[Woodston]]
+| 
+|-
+| {{ukroadsign|1130}}
+| [[Stockton-on-Tees]]
+| [[Acklam]]
+| 
+|-
+| {{ukroadsign|1133}}
+| [[Winthorpe]]
+| [[Torksey]]
+|
+|-
+| {{ukroadsign|1134}}
+| [[Cambridge]]
+| Cambridge
+| Also the Cambridge Ring Road
+|-
+| {{ukroadsign|1136}}
+| [[Healing, Lincolnshire|Healing]]
+| [[Grimsby]]
+|
+|-
+| {{ukroadsign|1137}}
+| [[Boston, Lincolnshire|Boston]]
+| [[Boston]]
+|
+|-
+| {{ukroadsign|1139}}
+| [[Eye, Cambridgeshire|Eye]]
+| [[Orton]]
+| 
+|-
+| {{ukroadsign|1140}}
+| [[Edinburgh]]
+| Edinburgh
+|
+|-
+| {{ukroadsign|1141}}
+| [[Hoggard's Green]]
+| [[Hadleigh, Suffolk|Hadleigh]]
+|
+|-
+| {{ukroadsign|1144}}
+| [[Oulton]]
+| [[Lowestoft]]
+|
+|-
+| {{ukroadsign|1145}}
+| [[Carlton Colville]]
+| [[Lowestoft]]
+|
+|-
+| {{ukroadsign|1146}}
+| [[Hatfield, South Yorkshire|Hatfield]]
+| [[Thorne]]
+|
+|-
+| {{ukroadsign|1147}}
+| [[Bedlington]]
+| [[Stakeford]]
+|
+|-
+| {{ukroadsign|1148}}
+| [[Monkseaton]]
+| [[Whitley Bay]]
+|
+|-
+| {{ukroadsign|1149}}
+| [[North Shields]]
+| [[Chirton]]
+|
+|-
+| {{ukroadsign|1150}}
+| [[Harrowgate Village]]
+| [[Great Burndon]]
+|
+|-
+| {{ukroadsmall|1151}}
+| [[A147 road|A147]] [[Norwich]]
+| [[A149 road|A149]] near [[Stalham]]
+| Passes through [[Wroxham]], the 'capital' of the [[Norfolk Broads]]
+|-
+| {{ukroadsign|1152}}
+| [[A12 road|A12]] North of [[Woodbridge, Suffolk|Woodbridge]]
+| [[Rendlesham]]
+|
+|-
+| {{ukroadsign|1153}}
+| [[Barking]]
+| [[Becontree]]
+|
+|-
+| {{ukroadsign|1155}}
+| [[Stevenage]]
+| Stevenage
+|
+|-
+| {{ukroadsmall|1156}}
+| [[Ipswich]]
+| Ipswich
+| Former [[A45 road|A45]]
+|-
+| {{ukroadsign|1158}}
+| [[Westcliff-on-Sea]]
+| [[Prittlewell]]
+| 
+|-
+| {{ukroadsign|1159}}
+| [[Southend on Sea]]
+| [[Southend Airport]]
+| 
+|-
+| {{ukroadsign|1160}}
+| [[Southend on Sea]]
+| Seafront
+| Short link road from [[A13]]
+|-
+| {{ukroadsign|1165}}
+| [[A63 road|A63]] in [[Kingston upon Hull]]
+| [[A1079 road|A1079]] in Kingston upon Hull
+| 
+|-
+| {{ukroadsign|1166}}
+| [[Anlaby Park]]
+| [[Kingston-upon-Hull]]
+|
+|-
+| {{ukroadsign|1167}}
+| [[Berwick]]
+| [[Scremerston]]
+|
+|-
+| {{ukroadsign|1168}}
+| [[Rolls Park]], [[Chigwell]]
+| [[Loughton]]
+| Formerly B171
+|-
+| {{ukroadsign|1169}}
+| [[Harlow]]
+| Harlow
+|
+|-
+| {{ukroadsign|1170}}
+| [[Ware]]
+| [[Turnford]]
+| 
+|-
+| {{ukroadsign|1171}}
+| [[Annitsford]]
+| [[Cramlington]]
+|
+|-
+| {{ukroadsign|1172}}
+| [[Cramlington]]
+| Cramlington
+|
+|-
+| {{ukroadsign|1173}}
+| [[Caistor]]
+| [[Immingham]]
+|
+|-
+| {{ukroadsign|1174}}
+| [[Kingston upon Hull]]
+| [[Beverley]]
+|
+|-
+| A1178
+| Unused
+| 
+| Temporary designation for what is now the M25 between junctions 23 ([[South Mimms]]) and 24 ([[Potters Bar]]). Would have been part of the planned M16 ([[Ringway 3]]).
+|-
+| {{ukroadsign|1179}}
+| [[Peterborough]]
+| [[Longthorpe]]
+|
+|-
+| {{ukroadsign|1184}}
+| [[Bishops Stortford]]
+| [[Harlow]]
+| Most of this formed the old [[A11 road|A11]] route between the two towns
+|-
+| {{ukroadsign|1185}}
+| [[Wolviston]]
+| [[Seal Sands]]
+|
+|-
+| {{ukroadsign|1189}}
+| [[Rushmere St. Andrew]]
+| Nacton Heath
+| 
+|-
+| {{ukroadsmall|1198}}
+| [[Royston, Hertfordshire|Royston]]
+| [[Godmanchester]]
+| Original route of the [[A14 road|A14]]
+|-
+| {{ukroadsign|1199}}
+| [[Highbury Corner]]
+| [[Canonbury]]
+|
+|-
+| {{ukroadsmall|1200}}
+| [[Moorfields Eye Hospital]]
+| [[Highbury & Islington station]]
+|
+|-
+| {{ukroadsign|1201}}
+| [[Canonbury]]
+| [[Crouch End]]
+| 
+|-
+| {{ukroadsmall|1202}}
+| [[Central London]]
+| Central London
+| Part of the [[London Inner Ring Road]]
+|-
+| {{ukroadsign|1203}}
+| [[Tower Hill]]
+| [[Poplar, London|Poplar]]
+| Includes the [[Limehouse Link tunnel]] in [[Docklands]]. Number seems also to refer to Butcher Row, a spur that connects to the A13 at [[Limehouse]]
+|-
+| {{ukroadsmall|1205}}
+| [[South Hackney]]
+| [[Limehouse]]
+|
+|-
+| {{ukroadsign|1206}}
+| [[Limehouse, London|Limehouse]]
+| [[Blackwall, London|Blackwall]]
+|
+|-
+| {{ukroadsign|1207}}
+| [[Hackney]]
+| Central Hackney
+|
+|-
+| {{ukroadsign|1208}}
+| [[Shoreditch]]
+| [[Cambridge Heath]]
+|
+|-
+| {{ukroadsign|1209}}
+| [[Shoreditch]]
+| [[Bethnal Green]]
+| 
+|-
+| {{ukroadsign|1211}}
+| [[Barbican]]
+| [[Whitechapel]]
+|
+|-
+| {{ukroadsign|1214}}
+| [[Ipswich]]
+| [[Martlesham]]
+| Former route of [[A12 road|A12]], prior to Ipswich Southern/Eastern by-pass
+|-
+| {{ukroadsmall|1231}}
+| [[Washington, Tyne and Wear|Washington]]
+| Central [[Sunderland]]
+| 
+|-
+| {{ukroadsign|1232}}
+| [[Colchester]]
+| [[A12 road|A12]]
+| Former [[A12 road|A12]] alignment through northern Colchester
+|-
+| {{ukroadsign|1235}}
+| [[Basildon]]
+| Basildon
+|
+|-
+| {{ukroadsign|1237}}
+| [[Copmanthorpe]]
+| [[A64 road|A64]]
+| York Outer Ring Road (Western & Northern)
+|-
+| {{ukroadsign|1238}}
+| [[Thorpe Willoughby]]
+| [[Barlby]]
+|
+|-
+| {{ukroadsign|1240}}
+| [[Becontree]]
+| [[Dagenham]]
+| Formerly numbered A1112
+|-
+| {{ukroadsign|1242}}
+| [[Norwich]]
+| Norwich
+|
+|-
+| {{ukroadsign|1243}}
+| [[Great Yarmouth]]
+| Great Yarmouth
+|
+|-
+| {{ukroadsign|1245}}
+| [[Benfleet]]
+| [[Howe Green]]
+|
+|-
+| {{ukroadsign|1246}}
+| [[Selby Fork]]
+| [[Brotherton]]
+|
+|-
+| {{ukroadsign|1250}}
+| [[Bishops Stortford]]
+| Bishops Stortford
+|
+|-
+| {{ukroadsign|1251}}
+| [[Romford]]
+| Romford
+|
+|-
+| {{ukroadsign|1260}}
+| [[Peterborough]]
+| Peterborough
+|
+|-
+| {{ukroadsign|1261}}
+| [[Limehouse]]
+| Leamouth
+| ''Aspen Way'' and the East India Dock Link in [[Docklands]]
+|-
+| {{ukroadsign|1290}}
+| [[Sunderland]]
+| [[Monkwearmouth]]
+|
+|-
+| {{ukroadsign|1290]]
+| [[Sunderland]]
+| [[Boldon]]
+|
+|-
+| {{ukroadsign|1301}}
+| [[Trumpington, Cambridgeshire|Trumpington]]
+| Stump Cross
+| Former [[A130 road|A130]].
+|-
+| {{ukroadsign|1302}}
+| [[Westley]]
+| Southgate Bridge
+| 
+|-
+| {{ukroadsmall|1303}}
+| [[Hardwick, Cambridgeshire|Hardwick]]
+| [[Newmarket]]
+| Former [[A45 road|A45]]
+|-
+| {{ukroadsign|1304}}
+| [[Six Mile Bottom]]
+| Water Hall
+| Former [[A11 road|A11]]
+|-
+| {{ukroadsign|1305}}
+| [[Stockton-on-Tees]]
+| Stockton-on-Tees
+|
+|-
+| {{ukroadsign|1306}}
+| [[Dagenham]]
+| North Stifford
+| Former [[A13]] alignment, with unclassified Lodge Lane connecting to the [[A1013 road|A1013]]. Eastern section was the main route till the 1980s. Western section was the main route until as recently as the late 1990s.
+|-
+| {{ukroadsign|1307}}
+| [[Girton, Cambridgeshire|Girton]]
+| [[Haverhill, Suffolk|Haverhill]]
+| Formerly [[A604 road|A604]] and before that [[A132 road|A132]]
+|-
+| {{ukroadsign|1308}}
+| [[Stowmarket]]
+| Combs Ford
+|
+|-
+| {{ukroadsmall|1309}}
+| [[Trumpington, Cambridgeshire|Trumpington]]
+| [[Milton]]
+| Former A10 alignment
+|-
+| {{ukroadsign|1321}}
+| [[Basildon]]
+| Basildon
+|
+|-
+| {{ukroadsign|1358}}
+| [[Stowmarket]]
+| [[Combs Ford]]
+|
+|-
+| {{ukroadsign|1400}}
+| [[A406 road|North Circular]] Charlie Brown's Roundabout
+| [[Gants Hill]]
+| Formerly [[A406 road|A406]], but this section was only briefly considered part of the [[North Circular]], the latter historically using the A104/A114/A116/A117 until 1987.
+|-
+| {{ukroadsign|1421}}
+| [[Haddenham]]
+| [[Witcham]]
+|
+|-
+| {{ukroadsign|1434}}
+| [[Lincoln, Lincolnshire|Lincoln]]
+| [[South Hykeham]]
+|
+|-
+| {{ukroadsign|1500}}
+| [[Scampton]]
+| [[Marton]]
+|
+|}
+
+{{United Kingdom roads}}
+
+[[Category:Roads in England| ]]
+[[Category:Roads in Scotland| ]]
+[[Category:Lists of roads in the United Kingdom|1]]

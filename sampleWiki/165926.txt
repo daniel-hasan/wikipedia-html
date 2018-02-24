@@ -1,0 +1,332 @@
+{{Refimprove|date=December 2007}}
+{{Infobox Bridge
+|bridge_name= San Francisco-Oakland Bay Bridge
+|image=Sfbaybridge at night.jpg
+|caption=
+|official_name= [[James Rolph|James "Sunny Jim" Rolph]] Bridge
+|also_known_as= Emperor Norton Bridge (new eastern span)
+|carries= 10 lanes (5 WB on upper level, 5 EB on lower) of [[Interstate 80 (California)|I-80]]
+|crosses= [[San Francisco Bay]] via [[Yerba Buena Island]]
+|locale= [[San Francisco, California|San Francisco]], [[California]] and [[Oakland, California|Oakland]], [[California]]
+|maint= [[California Department of Transportation]]
+|id=
+|design= Double-decked [[Suspension bridge|Suspension]], [[Truss bridge|Truss]] & [[Cantilever Bridge]]s and [[Tunnel]]
+|mainspan= 2,310 feet (704 m) (2 spans) (west span)<br />1,400 feet (427 m) (east span)
+|length= 9,260 feet (2,822 m) (west span)<br />10,176 feet (3,102 m) (east span)<br />8.4 miles (14 km) (total bridge)
+|width= 5 traffic lanes ~65 feet (~20 m)
+|clearance= Westbound minimum 14 feet (4.27 m), with additional clearance in some lanes
+|below = 220 feet (67 m) (west span)<br />191 feet (58 m) (east span)
+|traffic= 280,000
+|open= [[November 12]], [[1936]]
+|closed=
+|toll= cars $4.00 (westbound) ([[FasTrak]])
+|map_cue= Connects:
+|map_image= San Francisco Bay bridges.svg
+|map_text= The eastern side of the city of San Francisco, CA with the western side of the city of Oakland, CA<br /><br />Location 3 on map
+|map_width= 180px
+|lat= 37.8168
+|long= -122.3519
+}}
+
+The '''San Francisco-Oakland Bay Bridge''' ({{Coor dms|37|49|5|N|122|20|48|W}}; known locally as the '''Bay Bridge''') is a [[toll bridge]] which spans [[San Francisco Bay]] and links the [[California]] cities of [[Oakland, California|Oakland]] and [[San Francisco, California|San Francisco]] in the [[United States]], as part of [[Interstate 80 (California)|Interstate 80]]. It is one of the busiest bridges in the United States, carrying approximately 280,000 vehicles per day.<ref name="newbaybridge">{{cite web
+ | title = NewBayBridge - History
+ | url = http://www.newbaybridge.org/history/
+ | accessdate = 2007-02-04
+}}</ref>
+
+The original bridge designs were by [[Ralph Modjeski]]. The Bay Bridge opened for traffic on [[November 12]], [[1936]], six months before San Francisco's other famous bridge, the [[Golden Gate Bridge]].
+
+The bridge consists of two major spans connecting each shore with [[Yerba Buena Island]], a natural outcropping located mid-bay. The western crossing, from San Francisco to the island, consists of two [[suspension bridge]]s end-to-end with an anchorage, plus three shorter truss spans connecting the San Francisco landing to the western cable anchorage located on [[Rincon Hill]]. The eastern span between Yerba Buena Island and Oakland consists of a double-tower [[cantilever bridge|cantilever span]], five medium-span [[truss bridge]]s, and a 14 section truss causeway. These east bay structures are scheduled to be replaced by an entirely new crossing now under construction. On Yerba Buena Island itself, the crossing consists of a short concrete [[viaduct]] at the west span's cable anchorage, a [[tunnel]] through the island's rocky central hill, another short concrete viaduct, and a longer high-level steel truss viaduct which leads to the eastern span.
+
+The toll plaza on the Oakland side (for westbound traffic only) has 20 toll lanes, of which several are dedicated [[FasTrak]] lanes. It is now followed by a set of [[ramp meter|metering lights]]. Two bus-only lanes bypass the toll booths and metering lights around the right (north) side of the toll plaza. [[HOV]]s carrying 3 or more persons, 2-seaters with 2 persons and [[motorcycle]]s are permitted to use the bus lanes during weekday morning and afternoon commute periods. The two far left toll lanes are operated as [[HOV]] (High Occupancy Vehicles) lanes during weekday morning and afternoon commute periods. There are no metering lights for eastbound traffic as there is no need to stop and pay tolls in this direction of travel. But since the number of lanes in the San Francisco approach is structurally restricted, backups are frequent in this direction during evening rush hour. During the morning commute hours, some of the Bay Area's worst traffic congestion stretches from the Oakland approach back onto [[MacArthur Maze|feeder highways]], especially [[Interstate 80 (California)|I-80]] toward [[Richmond, California|Richmond]], [[California]].<ref name="congestion">{{cite press release
+ | title = Rebounding Economy Prompts Rise in Freeway Congestion
+ | publisher = [[Metropolitan Transportation Commission (San Francisco Bay Area)|Metropolitan Transportation Commission]]
+ |date=2005-09-14
+ | url = http://www.mtc.ca.gov/news/press_releases/2005/rel325.htm
+ | accessdate = 2007-02-04
+}}</ref> The bridge is restricted to freeway traffic only; pedestrians, bicycles, and other non-freeway vehicles are not allowed. However, a Caltrans bicycle shuttle operates during peak commute hours for $1.00 each way.
+
+==History==
+===Pre-construction===
+San Francisco, located at the mouth of the bay, was in a perfect location to prosper during the [[California Gold Rush]]. Almost all goods not produced locally arrived by ship. After the [[first transcontinental railroad]] was completed in May 1869, the city found itself on the wrong side of the bay, separated from the new rail link. The fear of many San Franciscans was that the city would lose its position as the center of trade. The concept of a bridge spanning the San Francisco Bay had been considered since the Gold Rush days. Several newspaper articles during the early 1870s discussed the idea. In early 1872 a "Bay Bridge Committee" was hard at work on plans to construct a [[railroad]] bridge. The April 1872 issue of the ''San Francisco Real Estate Circular'' contained an item about the committee:
+<blockquote style="font-style:italic">
+The Bay Bridge Committee lately submitted its report to the Board of Supervisors, in which compromise with the Central Pacific was recommended; also the bridging of the bay at Ravenswood and the granting of railroad facilities at Mission Bay and on the water front. Wm. C. Ralston, ex-Mayor Selby and James Otis were on this committee. A daily newspaper attempts to account for the advice of these gentlemen to the city by hinting that they were afraid of the railroad company, and therefore made their recommendations to suit its interests. </blockquote>
+
+The self-proclaimed [[Joshua A. Norton|Emperor Norton I]] saw fit to decree several times that a suspension bridge be constructed to connect Oakland and San Francisco. Later in 1872, frustrated that nothing had happened Norton decreed:
+<blockquote style="font-style:italic">'''WHEREAS''', we issued our decree ordering the citizens of San Francisco and Oakland to appropriate funds for the survey of a suspension bridge from Oakland Point via [[Yerba Buena Island|Goat Island]]; also for a tunnel; and to ascertain which is the best project; and whereas the said citizens have hitherto neglected to notice our said decree; and whereas we are determined our authority shall be fully respected; now, therefore, we do hereby command the arrest by the army of both the Boards of City Fathers if they persist in neglecting our decrees.
+<br /><br />Given under our royal hand and seal at San Francisco, this 17th day of September, 1872.</blockquote>
+
+Unlike most of Emperor Norton's eccentric ideas, his decree to build a bridge had wide public and political appeal. Yet, the task seemed too daunting as the bay was deemed too wide and too deep. In 1921, over 40 years after Norton's death, an underwater tube was considered, but it became clear that it would be inadequate for vehicular traffic. Support for a transbay crossing finally grew in the 1920s with the increasing popularity and availability of the automobile. In 1929, the California Legislature established the [[California Toll Bridge Authority]] with the responsibility of bridging San Francisco and [[Alameda County, California|Alameda County]].
+
+[[Image:SF-Oakland-Bay-Bridge-Construction.jpg|thumb|left|350px|The Bay Bridge under construction at [[Yerba Buena Island]].]]
+To make the bridge design more feasible, the path was chosen to pass through [[Yerba Buena Island]], significantly reducing the amount of material needed to construct a transbay crossing. Yerba Buena was a U.S. Naval base at the time (and until 1996). So approval of the U.S. Congress, which regulates the armed services and supervises all naval and military bases, was necessary for the island to be used. After a great deal of lobbying, California received Congressional approval to use the island on [[February 20]], [[1931]].
+
+===Construction===
+[[Image:Yerba Buena Island tunnel.jpg|thumb|Traveling through the westbound Yerba Buena tunnel]]
+Construction began on [[July 9]], [[1933]]. The 1.78 mile (2.8&nbsp;km) western span of the bridge between San Francisco and Yerba Buena Island presented an enormous engineering situation. The bay was up to 100&nbsp;feet (30&nbsp;m) deep in places and the soil required new foundation-laying techniques. At the time of construction suspension bridges could not be made with more than a pair of towers owing to stability considerations, and a two tower span would be longer than practical. The solution was to construct a massive concrete anchorage halfway between San Francisco and the island and to build two complete suspension bridges, one on either side of the middle anchorage. (Modern [[cable-stayed bridge]]s may have any number of towers. The design for the now cancelled [[Chacao Channel bridge]] included an innovative suspension bridge with two main spans connected by a single rigid central tower composed of two '''A''' frames instead of two additional towers and a concrete anchorage.)
+
+The eastern span was a marvellous engineering feat as well. The crossing from Yerba Buena Island to Oakland was spanned by a 10,176&nbsp;foot (3.1&nbsp;km) combination of double cantilever, five long-span through trusses and a truss causeway, forming the longest bridge of its kind at the time, with the cantilever portion being the most massive yet constructed.
+
+Much of the original eastern span is actually founded upon treated wood. Owing to very deep muds on the bay bottom it was not practical to reach bedrock, although lower levels of mud are quite firm. Long wooden pilings were crafted from entire old growth [[Douglas Fir]] trees and were driven through the soft mud to firmer bottom.
+
+Connecting the two halves of the bridge is Yerba Buena Tunnel measuring 76&nbsp;feet (23&nbsp;m) wide, 56&nbsp;feet (18&nbsp;m) high, and 539&nbsp;feet (164.4&nbsp;m) long. It was the largest diameter tunnel in the world. The enormous amount of rock and dirt excavated from the tunnel was used in part to create [[Treasure Island, California|Treasure Island]].
+
+===Opening Day===
+The bridge was opened to traffic on [[November 12]], [[1936]], at 12:30 p.m. Among those in attendance were former [[U.S. President]] [[Herbert Hoover]], Senator [[William G. McAdoo]] and [[Governor of California]] [[Frank Merriam]].  Governor Merriam officially opened the bridge by cutting gold chains across the traffic lanes with an [[acetylene]] [[blowtorch]].<ref name="Two Bay Area Bridges">{{cite web
+ | title = Two Bay Area Bridges - The Other Bridge-The San Francisco-Oakland Bay Bridge
+ | url = http://www.fhwa.dot.gov/infrastructure/2bridges.htm
+ | accessdate = 2007-08-28
+}}</ref>   The ''[[San Francisco Chronicle]]'' report of [[November 13]], [[1936]], read; <blockquote style="font-style:italic">"the greatest traffic jam in the history of S.F., a dozen old-fashioned New Year's eves thrown into one &mdash; the biggest and most good-natured crowd of tens of thousands ever to try and walk the streets and guide their autos on them &mdash; This was the city last night, the night of the bridge opening with every auto owner in the bay region, seemingly, trying to crowd his machine onto the great bridge.
+And those who tried to view the brilliantly lighted structure from the hilltops and also view the fireworks display were numbered also in the thousands.
+Every intersection in the city, particularly those near the San Francisco entrance to the bridge, was jammed with a slowly moving auto caravan.
+Every available policeman in the department was called to duty to aid in regulating the city's greatest parade of autos.
+One of the greatest traffic congestions of the evening was at Fifth and Mission streets, with down town traffic and bridgebound traffic snarled in an almost hopeless mass. To add to the confusion, traffic signals jammed and red and green lights did not synchronize.
+Police reported that there was no lessening of the traffic over the bridge, all lanes being crowded with Oakland or San Francisco bound machines far into the night." </blockquote>
+
+[[Image:sfbaybridge.jpg|thumb|right|350px|The Bay Bridge at night.]]
+The total cost of construction for the bridge was $79.5 million (equivalent to $1.07 billion in 2005 dollars<ref name="inflation">http://www.westegg.com/inflation/ Inflation calculator</ref>). Prior to its opening, the bridge was blessed by [[Cardinal Secretary of State]] [[Eugene Cardinal Pacelli]], who later became [[Pope Pius XII]].<ref name="blessed">{{cite web
+ | title = Caltrans Facts/Information
+ | publisher = [[Caltrans]]
+ | url = http://www.dot.ca.gov/dist4/trivia.htm#Little_known_facts
+ | accessdate = 2007-02-04
+}}</ref> At completion, the bridge became the longest suspended-deck bridge in the world and the longest cantilever bridge in the world. Because it was in effect two bridges strung together, the western spans were ranked the second and third [[List of largest suspension bridges|largest suspension bridges]]. Only the [[George Washington Bridge]] had a longer span between towers.
+
+===Roadway Plan===
+[[Image:SF and Bay Bridge.JPG|thumb|right|350px|The western end of the bridge from the air.]]
+The original west approach to (and exit from) the upper deck of the bridge was a long ramp which began at Fifth and Bryant Streets. There were also ramps for the upper deck on [[Rincon Hill]] at Fremont Street, and ramps for the lower deck at Essex and First Streets. The lower deck ramps, utilized mainly by trucks, were terminal points for the lower deck highway. Beyond them, the tracks of the bridge railway (see below) also left the lower deck, curving northward into a loop through the [[Transbay Terminal]].
+
+There were three original eastern approaches: a viaduct from the end of Cypress Street ([[State Route 17 (California)|State Route 17]]) in Oakland; a viaduct from the end of 38th Street ([[U.S. Route 50 (California)|U.S. Route 50]]) at San Pablo Avenue in Oakland; and the [[Eastshore Highway]] which carried [[U.S. Route 40 (California)|U.S. Route 40]] along the shoreline of Albany, Berkeley and Emeryville.
+
+When the bridge first opened, the upper deck consisted of three lanes of traffic in each direction and was restricted to automobiles only. The lower deck carried three lanes of truck and auto traffic on the north side. The middle of these three lanes was reversed according to the commute direction utilizing traffic lights, but with no divider. Two railroad tracks were built on the south side of the lower deck for the electric commuter trains of the [[East Bay Electric Lines|Southern Pacific]], the [[Key System]], and the [[Sacramento Northern]], although train service across the bridge did not begin until January 15, 1939. An overhead [[catenary]] supplied power to the Southern Pacific and Sacramento Northern trains while a [[third rail]] was utilized by the Key trains. After 1941, only the Key System used these tracks. Rail service on the bridge ended in April of 1958.
+
+The bridge was reconfigured to have five westbound lanes on the upper deck and five eastbound lanes on the lower deck in 1963.  Tolls continued to be collected in both directions until 1969.  One-direction toll collection was implemented for westbound traffic in September, 1969.
+
+The highway on the bridge was originally designated [[U.S. Route 40 (California)|U.S. Routes 40]] and [[U.S. Route 50 (California)|50]]. This was replaced by [[Interstate 80 (California)|Interstate 80]] in [[1964]].
+
+The offramps for [[Treasure Island, California|Treasure Island]] and [[Yerba Buena Island]] are unusual as they are on the left-hand side both in the eastbound and westbound directions. Eastbound and westbound onramps are on the usual right-hand side, but are tricky as the onramps require acceleration from a dead stop to freeway speeds in a relatively short distance.
+
+===Modifications===
+Automobile traffic increased dramatically in the ensuing decades while the [[Key System]] declined, and in October 1963 the bridge was reconfigured with five lanes of westbound traffic on the upper deck and five lanes of eastbound traffic on the lower deck. Trucks were allowed on both decks and the railway was removed. Owing to a lack of clearance for trucks through the upper-deck portion of the Yerba Buena tunnel, it was necessary to lower the upper deck where it passed through the tunnel and to correspondingly excavate the lower portion. This was done while the bridge was in use by using a movable temporary span over the portion being lowered. On the lower deck of the tunnel and its eastern viaduct extension it was necessary to remove central supports, with each transverse beam being doubled to take the load across all lanes. It was also necessary to further reinforce each beam supporting the upper deck throughout the entire span, modifications still visible to the traveler.
+[[Image:Bay Bridge collapse 2.jpg|thumb|150px|right|Collapsed section of roadway deck of the Bay Bridge after the Loma Prieta earthquake in 1989.]]
+
+The series of lights adorning the suspension cables were added in 1987 as part of the bridge's 50th-anniversary celebration.
+
+==Earthquake damage==
+During the [[October 17]], [[1989]], [[Loma Prieta earthquake]], which measured 6.9 on the [[moment magnitude scale]],<ref>{{cite web |title=Historic Earthquakes |work=[[USGS]] |accessdate=2007-09-10 |url=http://earthquake.usgs.gov/regional/states/events/1989_10_18.php}}</ref> a 50-foot (15 m) section of the upper deck of the eastern [[Truss bridge|truss]] portion of the bridge at Pier E9 collapsed onto the deck below, indirectly causing one death (some people claim this was actually due to misdirection of traffic by the [[California Highway Patrol]]).<ref name="News 7 Video">{{cite news
+ | title = Channel 7 Sent wrong direction; witnesses other car driving off edge live
+ | publisher = [[KGO-TV]]
+ | url = http://www.youtube.com/watch?v=7Q0_Z-9839c
+ | accessdate = 2007-08-31
+}}</ref>
+
+The bridge was closed for just over a month as construction crews repaired the section. It reopened on [[November 18]] of that year.
+
+==Western span retrofitting==
+The western suspension span has undergone extensive [[seismic retrofit]]ting, almost all at a detail level that does not substantially affect (and in some cases improves) the overall appearance.  During the retrofit, much of the [[structural steel]] supporting the bridge deck was replaced while the bridge remained open to traffic.  Engineers accomplished this by using methods similar to those employed on the [[Chicago Skyway]] reconstruction project.
+{| align="left" style="clear: right"
+|[[Image:SFOakBBLaticeBeamsClose.jpg|left|168px|]]
+|[[Image:LatticeBeamRetrofit2.jpg|left|187px|]]
+|[[Image:SFOakBBRetrofit.jpg|223px|left|]]
+|}
+<div style="clear: both"></div>
+:'''Left:''' Obsolete hot riveted [[lattice girder|laced ties]] (eastern span, similar to those that were on western span)<br />
+:'''Center:''' Bolted box beam retrofit (western span). Earlier upper deck beam modifications can be seen on the lower edge of the upper deck beams.<br />
+:'''Right:''' Under-deck diagonals on both decks of western span<br />
+
+===Hot rivet replacement===
+The entire bridge was fabricated using hot steel rivets, which are impossible to heat treat and so remain relatively soft. Analysis showed that these could fail by shearing under extreme stress, and so at most locations each was removed by burning out with an [[Oxy-fuel welding and cutting|oxygen cutting]] torch, the hole precision [[reamer|reamed]] and where present, lacing was replaced with plates, and the old rivets replaced with heat-treated high-strength locator bolts and nuts. This work had to be performed with great care as the steel of the structure had for many years been painted with [[lead]] based paint, which had to be carefully removed and contained by workers with extensive protective gear.
+
+===Lattice beam conversion===
+Most of the beams were originally constructed of two plate I-beams joined with lattices of flat strip or angle stock, depending upon structural requirements. These have all been reconstructed by replacing the riveted lattice elements with bolted steel plate and so converting the lattice beams into box beams. This replacement included adding face plates to the large diagonal beams joining the faces of the main towers, which now have an improved appearance when viewed from certain angles.
+
+===Diagonal reinforcement===
+Diagonal box beams have been added to each bay of the upper and lower decks of the western spans. These add stiffness to reduce side-to-side motion during an earthquake and reduce the probability of damage to the decking surfaces.
+
+===Concrete overlays===
+Analysis showed that some massive concrete supports could burst and crumble under likely stresses. In particular the western supports were extensively modified. First, the location of existing reinforcing bar is determined using magnetic techniques. In areas between bars holes are drilled. Into these holes is inserted an '''L'''-shaped bar that protrudes 15 to 25&nbsp;centimeters (6 to 10&nbsp;inches). This bar is retained in the hole with a high-strength [[epoxy]] adhesive. The entire surface of the structure is thus covered with closely spaced protrusions. A network of horizontal and vertical reinforcing bars is then attached to these protrusions. Mold surface plates are then positioned to retain high-strength concrete, which is then pumped into the void. After removal of the forms work the surface appears similar to the original concrete. This technique has been applied elsewhere throughout California to improve freeway overpass abutments and some overpass central supports which have unconventional shapes. (Other techniques such as ''jacket and grout'' are applied to simple vertical posts; see the [[seismic retrofit]] article.)
+
+==Eastern span replacement==
+{{bridge under construction}}
+{{main|Eastern span replacement of the San Francisco-Oakland Bay Bridge}}
+[[Image:EasternSpanOfTheBayBridgeInTheEarlyMorningAtFiveOrSixAM.jpg|thumb|250px|The eastern span of the Bay Bridge in the early morning.]]
+[[Image:EasternSFO OAKBrFromTI.jpg|thumb|250px|right|Eastern span and replacement construction]]
+[[Image:Bay bridge construction.jpg|thumb|250px|right|Construction progress in January 2007]]
+[[Image:Between the two new spans.jpg|thumb|250px|right|Between the two new spans under construction]]
+[[Image:ProposedSFOBBEasternSpan.jpg|thumb|250px|right|Artist's concept of the replacement span]]
+Engineers knew for more than thirty years that a major earthquake on either the [[San Andreas fault|San Andreas]] or [[Hayward fault|Hayward]] faults would likely destroy the main cantilever span; however, there was no political will to act. The [[Loma Prieta Earthquake]] was a wake-up call for all concerned. The eastern span had to be either retrofitted or replaced.
+
+The initial proposal for the eastern span involved the construction of substantial concrete pylons to replace or supplement the existing supports. There would also be modifications to the lattice beams as is now complete for the western span. The original cost estimate for this refit was US $200 million. The overall appearance would be little changed.
+
+Engineering and economic analysis in 1999 suggested that a simple replacement bridge would cost only a few hundred million dollars more than a retrofit of the existing eastern span and that a replacement would have a far longer expected useful life &mdash; perhaps 75 to 100 years rather than 30, and would require far less maintenance. Remarkably, the number of traffic lanes was not increased in the proposed new span to anticipate growth in traffic through this core artery over this lengthy period, likely due to restrictions on the western span, which is expected to have a long useful life.
+
+Rather than retrofit the existing bridge, the authorities decided to replace the entire eastern span with an elevated viaduct described by critics as a "freeway on stilts". This was not received well by either the public or the politicians. A design contest was held for a "signature span" (a span with distinctive and dramatic appearance, unique to the site). A number of innovative proposals were examined and a winner was selected.
+
+After more than a decade of study, construction began on a replacement for the cantilever portion of the bridge on [[January 29]], [[2002]], with completion originally slated for 2007. As of June 2006, the estimated completion year is 2013.<ref name="completion date">{{cite web
+ | title = San Francisco - Oakland Bay Bridge Project - FAQs
+ | publisher = [[Caltrans]], [[Bay Area Toll Authority]], California Transportation Commission
+ | url = http://www.baybridgeinfo.org/Display.aspx?ID=21
+ | accessdate = 2007-02-04
+}}</ref>
+
+The authorities were shocked when they opened the bids on the proposed tower portion, as there was only a single bid and it was considerably more expensive than projected. The entire project is now expected to cost $6.2 billion (as of July 2005), up from a 1997 estimate of $1.1 billion (for a simple viaduct) and a March 2003 estimate of $2.6 billion that included a tower span.
+
+On [[December 10]], [[2004]], the Governor's office announced that the ''signature span'' concept had been scrapped, with the completion of the bridge to be by the construction of the simple viaduct originally proposed. The design, having gone full circle, remained expensive due to the continued high cost of materials.
+
+Construction was also delayed by an investigation into charges by 15 former welders and inspectors who had worked on the new eastern span. They claimed that welders were rushed to such an extent that it affected their performance on up to one-third of the welds, and that workers were ordered to cover up defective welds by re-welding in a superficial manner. Subsequent detailed investigation by three separate independent outside consultants did not support these charges (see the [[Eastern span replacement of the San Francisco-Oakland Bay Bridge|eastern span replacement article]] for detailed information).
+
+The controversy continued into the first half of 2005. In essence, the Governor did not believe that the entire state should share in the costs of building the bridge, as he considered it to be a local (Bay Area) problem. In late June 2005, an agreement was reached between the various parties (Governor, Legislature, Caltrans, and Bay Area politicians) to build the signature span, to be paid for by a one dollar toll increase from $3.00 to $4.00 beginning in 2007.
+
+After being approved by the Legislature, the compromise legislation was signed by the Governor on [[July 18]], [[2005]]. At the time of the signing, the skyway portion of the bridge was 75% complete, and the state was beginning to prepare to put the suspension span out for new bids. The entire project is scheduled to be completed in 2012 at a cost of $6.3 billion, making it the [[Most Expensive Public Works Projects (U.S.)|second]] most expensive public works project in the United States behind Boston's [[Big Dig (Boston, Massachusetts)|Big Dig]].
+
+New bids for the main span were opened on [[March 22]], [[2006]], with two submissions at 1.43 and 1.6 billion USD. On [[19 April]] 2006, the lower bid from [[American Bridge Company|American Bridge]] and [[Fluor Corp.]] [http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/21/BAGQ4ICELJ11.DTL&hw=eastern+span+bids&sn=001&sc=1000 was accepted].<ref name="bid accepted">{{cite news
+ | last = Cabanatuan
+ | first = Michael
+ | title = Bay Bridge contractor has quality reputation
+ | publisher = [[San Francisco Chronicle]]
+ |date=2006-04-21
+ | url = http://sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/04/21/BAGQ4ICELJ11.DTL
+ | accessdate = 2007-02-04
+}}</ref>
+
+The first section of the new East Span, the 300-foot (90 meter) span connecting the main cantilever section to the Yerba Buena Island Tunnel, was put into service on September 3, 2007.  Construction of the new connector span started in early 2007 alongside the existing span.  Caltrans closed the Bay Bridge during the Labor Day weekend so crews could demolish the old span.  Once the old section was removed the new span was rolled into place using a computer-guided system of hydraulic jacks and rollers.  The new section was secured into place and the bridge re-opened 11 hours ahead of schedule for the morning commute on the Tuesday (September 4) following the weekend.<ref>[http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2007/08/26/MNIRRP430.DTL Getting the word out on Bay Bridge closure over Labor Day weekend, San Francisco Chronicle August 26, 2007]</ref>
+<ref>[http://www.imakenews.com/circlepoint1/e_article000948226.cfm?x=b11,0,w San Francisco-Oakland Bay Bridge Seismic Safety Projects E-Newsletter Vol. 3, Accessed December 22, 2007]</ref>
+
+==Official name==
+Technically, the legal name of the bridge is '''The [[James Rolph|James "Sunny Jim" Rolph]] Bridge''' &mdash; but this name has rarely been used, and was not widely recognized until the bridge's 50th anniversary celebrations in 1986. The official name of the bridge for all functional purposes has always been the San Francisco-Oakland Bay Bridge.
+
+James Rolph, a [[Mayor of San Francisco]] from [[1912]] to [[1931]], was [[Governor of California]] at the time construction began. He died in office on [[June 2]], [[1934]], two years before the bridge opened, leaving the bridge to be named for him out of respect. However, due to the opposition of [[Joseph R. Knowland]], publisher of the ''[[Oakland Tribune]]'' at the time, recognition of Rolph was withheld.
+
+[[Emperor Norton]]'s early work at promoting a bridge between San Francisco and Alameda County was commemorated on Tuesday, [[December 14]], [[2004]], when the [[San Francisco Board of Supervisors]] approved a resolution calling for the new eastern span of the bridge to be named after Norton.<ref name="Norton Bay Bridge">{{cite news
+ | last = Herel
+ | first = Suzanne
+ | title = Emperor Norton's name may yet span the bay
+ | publisher = [[San Francisco Chronicle]]
+ |date=2004-12-15
+ | url = http://sfgate.com/cgi-bin/article.cgi?file=/c/a/2004/12/15/MNGUMAC6LN1.DTL
+ | accessdate = 2007-02-04
+}}</ref> The resolution was introduced by Supervisor [[Aaron Peskin]].
+
+Plaques honoring the contributions of both Rolph and Norton exist. The Rolph plaque, originally placed at the west end of the bridge in San Francisco, was moved to the corner of Fifth and Bryant Streets in 1986 and removed entirely by Caltrans in 2006. The plaque honoring Emperor Norton for the original idea graces the western archway of the Transbay Terminal, the public transit and Greyhound bus depot at the west end of the bridge in downtown San Francisco.
+
+Whatever the official name of the bridge may be, the bridge is virtually never called anything but "The Bay Bridge" by the people of the region.
+
+==Financing==
+<!--  Commented out because image was deleted: [[Image:BayBridge2007.jpg|300px|left]] -->
+
+When it opened in [[1936]], the toll was 65 cents, collected in each direction. Within months, it was lowered to 50 cents in order to compete with the ferry system, and finally to 25 cents as this was shown sufficient to pay off the original revenue bonds on schedule. As with other bridges of the era, passage was to be free after completion of the repayment of the original bonds.
+
+In the interest of reducing the cost of collecting tolls and of building additional toll booths, all bridges in the Bay Area were converted to collect tolls in only one direction, with the amount collected doubled.
+
+Tolls were subsequently raised to finance improvements to the bridge approaches, required to connect with new freeways, and to subsidize public transit in order to reduce traffic over the bridge.
+
+[[Caltrans]], the state highway transportation agency, maintains seven of the eight San Francisco Bay Area bridges (The Golden Gate Bridge is owned and maintained by the [[Golden Gate Bridge, Highway and Transportation District]]).
+
+The base toll (for automobiles) on the seven state bridges was raised to $1 by Regional Measure 1, approved by Bay Area voters in 1988. A $1 seismic retrofit surcharge was added in 1998 by the state legislature, originally for eight years, but since extended to December 2037 (AB1171, October 2001). On [[March 2]], [[2004]], voters approved Regional Measure 2, raising the toll by another dollar to a total of $3. An additional dollar was added to the toll starting [[January 1]], [[2007]] to cover cost overruns related to the replacement of the eastern span.
+
+The [[Metropolitan Transportation Commission (San Francisco Bay Area)|Metropolitan Transportation Commission]], a ''regional'' transportation agency, in its capacity as the Bay Area Toll Authority, administers RM1 and RM2 funds, a significant portion of which are allocated to public transit capital improvements and operating subsidies in the transportation corridors served by the bridges. Caltrans administers the "second dollar" seismic surcharge, and receives some of the MTC-administered funds to perform other maintenance work on the bridges.
+
+As of [[January 1]], [[2007]], the toll for autos is $4 (see [http://www.dot.ca.gov/dist4/tolls.htm Caltrans] for details and exceptions), collected only for westbound traffic, at a toll plaza on the eastern (Oakland) side. For comparison, the original $0.65 toll in 1936 would be $9.23 in 2006 dollars (see [http://www.westegg.com/inflation/] for CPI converter).
+
+==In fiction==
+The Bay Bridge has appeared in countless works of fiction and film. In [[William Gibson]]'s futuristic [[The Bridge trilogy|Bridge trilogy]] of novels, the Bay Bridge, closed to traffic after an [[earthquake]], has been taken over by the homeless and turned into a miniature city of the dispossessed. In the movie ''[[The Graduate]]'', [[Dustin Hoffman]] can be seen driving westbound on the upper deck, though, according to the storyline, he was headed in the eastbound direction to [[Berkeley, California|Berkeley]]. The eastbound direction normally travels on the less-photogenic lower deck. The bridge was closed for several hours so that filmmakers could get a helicopter shot of Hoffman's character driving on the upper deck towards the East Bay. In [[George R. Stewart]]'s novel [[Earth Abides]], Ish, the main character, tries to drive from Oakland to San Francisco several years after a plague has wiped out most of the Bay Area's population. He is stopped when he finds that, due to neglect, parts of the bridge have deteriorated and collapsed. The bridge also made prominent appearances in many other films including ''[[Shadow of the Thin Man|Shadow of the Thin Man (1941)]]'' (shows the Charles' driving eastbound on the upper deck, now westbound-only), ''[[The Maltese Falcon (1941 film)|The Maltese Falcon]]'' (visible from Sam Spade's office), ''[[Born to Kill (1947)|Born to Kill]]'', ''[[Vertigo (movie)|Vertigo]]'', ''[[The End of the World (film)|The End of the World]]'', ''[[George of the Jungle]]'', ''[[Star Trek IV: The Voyage Home]]'', ''[[Made in America]]'', ''[[Basic Instinct]]'', ''[[Sneakers (movie)|Sneakers]]'', ''[[Sudden Impact]]'', ''[[Sister Act|Sister Act I]] & [[Sister Act 2: Back in the Habit|II]]'', ''[[Hulk (film)|Hulk]]'', ''[[Bedazzled (2000)|Bedazzled]]'', and ''[[Sid & Nancy]]''. The bridge also appears in many television shows set in the Bay Area, including ''[[Nash Bridges]]'' and ''[[Journeyman]]''.
+
+==The Bay Bridge at a glance==
+[[Image:SFOakBrWestPartVEast.jpg|thumb|right|200px|Western portion viewed from [[San Francisco]] showing the four towers of two [[suspension bridge]]s and their central anchorage]]
+[[Image:SFOakBrEastPartVEast.jpg|thumb|right|200px|Eastern portion viewed from Yerba Buena Island at the entrance to the Coast Guard station]]
+:''Note: The following information and more can be found [http://www.dot.ca.gov/hq/esc/tollbridge/SFOBB/Sfobbfacts.html here]. Please note that Caltrans has some incorrect information in this document.''
+* Entire span
+** Location: [[Interstate 80 (California)|Interstate 80]] between San Francisco and Alameda Counties.
+** Length: 44,352&nbsp;ft (8.40&nbsp;miles, 13.52&nbsp;km)
+* Western suspension bridges
+** Length 9,260&nbsp;ft (2,822&nbsp;m)
+** Vertical clearance 220&nbsp;ft (67&nbsp;m)
+** Tower height 526&nbsp;ft (160&nbsp;m) from water level
+* Eastern cantilever bridge, truss bridges and truss causeway sections:
+** Length: 10,176&nbsp;ft (3,101&nbsp;m)
+** Vertical clearance 191&nbsp;ft (58&nbsp;m)
+** Deepest bridge pier: 242&nbsp;ft (74&nbsp;m) below water level &ndash; 396&nbsp;ft (120&nbsp;m) high
+* Traffic: 280,000 vehicles per day
+
+{{stub-sect}}
+
+==Gallery==
+<gallery>
+Image:SF Oakland Bay Bridge from the air.jpeg|The bridge from the air
+Image:Bay_bridge,_embarcadero.jpg|The Bay Bridge from The Embarcadero
+</gallery>
+
+==See also==
+* [[49-Mile Scenic Drive]]
+* [[Eastern_span_replacement of the San Francisco-Oakland Bay Bridge]]
+* [[MacArthur Maze]]
+* [[2007 San Francisco Bay oil spill]]
+
+==References==
+{{reflist}}
+* [http://www.dot.ca.gov/hq/esc/tollbridge/SFOBB/Sfobbfacts.html California Department of Transportation (Caltrans) facts page] Retrieved August 24, 2005
+* [http://www.sfmuseum.org/hist9/mcgloin.html Symphonies in Steel: Bay Bridge and the Golden Gate] The Virtual Museum of the City of San Francisco (Note: Some items that rank the bridge compared to other bridges are out of date) Retrieved August 24, 2005
+* [http://www.sfmuseum.org/hist2/bbridge.html Bridging San Francisco Bay] The Virtual Museum of the City of San Francisco Retrieved August 24, 2005
+* [http://www.dot.ca.gov/dist4/eastspans/index.html San Francisco-Oakland Bay Bridge East Span Seismic Safety Project] Retrieved August 24, 2005
+* [http://www.sfweekly.com/issues/2004-03-17/news/feature.html A Bridge Too Weak?] Retrieved August 24, 2005
+* [http://www.dot.ca.gov/dist4/eastspans/spring02.html East Span News, Spring 2002] California Dept. of Transportation newsletter Retrieved August 24, 2005
+* [http://www.caltrans.ca.gov/baybridge/MainSpanReportDraftDec10.1230.pdf Caltrans Alternatives report December 10, 2004 PDF download] (not a web page) Retrieved August 24, 2005
+* {{Structurae|id=s0000262|title=San Francisco Oakland Bay Bridge (West)}}. Retrieved August 24, 2005
+* {{Structurae|id=s0000564|title=San Francisco Oakland Bay Bridge (East)}}. Retrieved June 4, 2007
+</div>
+
+==External links==
+{{Commons|San Francisco-Oakland Bay Bridge}}
+* [http://www.baybridgeinfo.org/ baybridgeinfo.org] Site by Caltrans about all current construction on the bridge.
+* [http://www.dot.ca.gov/hq/esc/tollbridge/SFOBB/Sfobb.html California Department of Transportation (Caltrans) official Bay Bridge site]
+* [http://www.dot.ca.gov/hq/esc/tollbridge/SFOBB/Sfobbfacts.html Largest diameter tunnel in the world]
+* [http://www.sfmuseum.org/ The Virtual Museum of the City of San Francisco]
+* [http://rail.blu-streak.com Oakland Berkeley & Eastern]: Interurbans that used to run on the Bay Bridge.
+* [http://www.newbaybridge.org New Bay Bridge]
+
+{{SFBridges}}
+
+{{Crossings navbox
+|structure = Crossings
+|place = [[San Francisco Bay]]
+|bridge = San Francisco-Oakland Bay Bridge
+|bridge signs = [[Image:I-80 (CA).svg|20px|Interstate 80]]
+|upstream text = South
+|upstream = [[San Mateo-Hayward Bridge]]
+|upstream signs = [[Image:California 92.svg|20px|State Route 92]]
+|downstream text = North
+|downstream = [[Transbay Tube]]
+|downstream signs = ''BART''
+}}
+
+:''Note: The [[Transbay Tube]] crosses the San Francisco-Oakland Bay Bridge, so it is both upstream and downstream.''
+
+{{featured article}}
+{{San Francisco Attractions}}
+
+[[Category:Cantilever bridges]]
+[[Category:Suspension bridges]]
+[[Category:Self-anchored suspension bridges]]
+[[Category:Bridges completed in 1936]]
+[[Category:Bridges in California]]
+[[Category:Toll bridges in California]]
+[[Category:Tunnels in California]]
+[[Category:Transportation in Oakland, California]]
+[[Category:Transportation in San Francisco]]
+[[Category:Landmarks in San Francisco]]
+[[Category:Buildings and structures in Oakland, California]]
+[[Category:San Francisco Bay]]
+[[Category:Tolled sections of Interstate Highways]]
+[[Category:Registered Historic Places in California]]
+[[Category:U.S. Route 50]]
+[[Category:Interstate 80]]
+
+{{Link FA|de}}
+[[bg:Мост Сан Франциско-Оукланд]]
+[[de:Bay Bridge]]
+[[fr:Bay Bridge]]
+[[io:San Francisco-Oakland Bay Ponto]]
+[[ja:サンフランシスコ・オークランド・ベイブリッジ]]
+[[pt:Ponte São Francisco-Oakland]]
+[[sv:San Francisco-Oakland Bay Bridge]]
+[[vi:Cầu qua vịnh Oakland-San Francisco]]
+[[zh:舊金山-奧克蘭海灣大橋]]

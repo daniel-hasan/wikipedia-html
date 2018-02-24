@@ -1,0 +1,145 @@
+{{otheruses}}
+
+{{Infobox Album | <!-- See Wikipedia:WikiProject_Albums -->
+| Name        = Business as Usual
+| Type        = [[Album]]
+| Artist      = [[Men at Work]]
+| Cover       = Men_at_Work_-_Business_as_Usual.jpg
+| Released    = 1981 (AUS)<br>[[August 24]], [[1982]] (U.S.)
+| Recorded    = (October) 1981
+| Genre       = [[Rock music|Rock]]
+| Length      = 38:11
+| Label       = [[Columbia Records|Columbia]]
+| Producer    = [[Peter McIan]]
+| Reviews     = 
+* [[All Music Guide]] {{rating-5|4.5}} [http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:uauh6j3h7180~T1 link]
+*''[[Rolling Stone]]'' {{rating-5|4}} [http://www.rollingstone.com/artists/menatwork/albums/album/317826/review/6067698/business_as_usual link]
+| Last album  = 
+| This album  = '''''Business as Usual''''' <br /> (1982)
+| Next album  = ''[[Cargo (album)|Cargo]]'' <br /> (1983)
+}}
+'''''Business as Usual''''' is the first album by [[Australia]]n band [[Men at Work]], released in 1981 (see [[1981 in music]]).
+The Australian release of the album included a black and white cover design, whereas overseas releases had the same design but in yellow and black color scheme.
+
+The album was one of the most successful albums internationally by an Australian group. It spent an unprecedented 15 weeks at #1 in the American album charts from late 1982 to early 1983 and five weeks at #1 in the UK in early 1983. In Australia, It did [[List_of_Number_1_albums_in_Australia_during_the_1980s#1981|9 weeks at the top of the Australian album charts from Dec 1981 &#8212; Mar 1982]].
+
+The track "Who Can It Be Now" was first released as a single in Australia in June 1981, prior to the recording of the rest of the album. The single peaked at #2 in the Australian singles charts in August that year. 
+
+==Track listing==
+#"Who Can It Be Now?" (Hay) – 3:25
+#"I Can See It in Your Eyes" (Hay) – 3:32
+#"[[Down Under (song)|Down Under]]" (Hay, Strykert) – 3:45
+#"Underground" (Hay) – 3:07
+#"[[Helpless Automaton]]" (Ham) – 3:23
+#"People Just Love to Play With Words" (Stykert) – 3:33
+#"[[Be Good Johnny]]" (Ham, Hay) – 3:39
+#"Touching the Untouchables" (Hay, Strykert) – 3:41
+#"Catch a Star" (Hay) – 3:31
+#"Down by the Sea" (Hay, Strykert, Ham, Speiser) – 6:53
+===Re-Mastered Bonus Tracks===
+#<li value = 11>"Crazy (Non LP B-Side)"
+#"Underground (Live)"
+#"Who Can It Be Now? (Live)"
+#"F-19 (Non LP B-Side)"
+
+==Personnel==
+*Russell Deppeler - [[telephone]], calculator.
+*Greg Ham - [[flute]], [[keyboard instrument|keyboards]], [[saxophone]], background vocals, lead vocals on track 5
+*[[Colin Hay]] - [[guitar]], lead vocals  
+*Johnathan Rees - [[bass guitar|bass]], background vocals  
+*[[Jerry Speiser]] - [[drums]], background vocals
+*[[Ron Strykert]] - guitar, background vocals, lead vocals on track 11
+
+==Production==
+*Producer: Peter McIan
+*Engineers: Jim Barbour, Peter McIan, Paul Ray
+*Cover Illustration: Jon "JD" Dickson
+
+==Charts==
+===Album===
+{| class="wikitable"
+!Year
+!Chart
+!Position
+|-
+|1982
+|Billboard 200
+|1
+|-
+|1983
+|Black Albums
+|29
+|}
+
+===Singles===
+{| class="wikitable"
+!Year
+!Single
+!Chart
+!Position
+|-
+|1982
+|"Who Can It Be Now?/Down Under"
+|Club Play Singles
+|33
+|-
+|1982
+|"Who Can It Be Now?"
+|Mainstream Rock
+|46
+|-
+|1982
+|"[[Who Can It Be Now?]]"
+|Pop Singles
+|1
+|-
+|1983
+|"Be Good Johnny"
+|Mainstream Rock
+|3
+|-
+|1983
+|"Down Under"
+|Adult Contemporary
+|13
+|-
+|1983
+|"Down Under"
+|Pop Singles
+|1
+|-
+|1983
+|"Underground"
+|Mainstream Rock
+|20
+|-
+|1983
+|"Down Under"
+|Mainstream Rock
+|1
+|-
+|}
+
+{{start box}}
+{{succession box
+  | before = "[[Jack and Diane]]" by [[John Mellencamp|John Cougar]]
+  | title  = [[Billboard Hot 100]] [[List of number-one hits (United States)|number one single]]<br/>("Who Can It Be Now?")
+  | years  = [[October 30]] [[1982]]
+  | after  = "[[Up Where We Belong]]"<br/>by [[Joe Cocker]] and [[Jennifer Warnes]]
+}}
+{{succession box
+  | before = ''[[American Fool]]'' by John Cougar
+  | title  = [[Billboard 200]] [[Number-one albums of 1982 (U.S.)|number-one album]]
+  | years  = [[November 13]] [[1982]] - [[February 26]] [[1983]]
+  | after  = ''[[Thriller (album)|Thriller]]'' by [[Michael Jackson]]
+}}
+{{end box}}
+
+==Trivia==
+
+"[[Who Can It Be Now?]]" was used from this album to promote a contest for then-new radio station WHYW (now [[WRRK]]) Y-97 in Pittsburgh in the summer of 1982.  The television commercial featured disc jockey Sean McDowell on the mic asking listeners "the $100,000 question...who can it be now?" The intent was to take all caller information as the song played in a continuous loop up to caller number 97, and then hold a drawing for the prize.  Unfortunately, the station was forced to simply take the 97th caller after [[Bell of Pennsylvania]] officials complained of listener calls jamming the circuits.
+
+[[Category:Men at Work albums]]
+[[Category:1982 albums]]
+[[Category:Debut albums]]
+[[Category:Columbia Records albums]]

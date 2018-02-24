@@ -1,0 +1,37 @@
+{{Infobox Airport
+| name = Lake Rosseau/Arthurlie Bay Water Aerodrome
+| IATA = 
+| ICAO = 
+| LID = CPF9
+| type = Private
+| owner = 
+| operator = Donald S. Mills
+| city-served = 
+| location = [[Port Carling, Ontario]]
+| elevation-f = 742
+| elevation-m = 226
+| coordinates = {{coord|45|07|00|N|079|33|00|W|type:airport|display=inline}}
+| website = 
+| r1-number = N/A
+| r1-length-f = N/A
+| r1-length-m = N/A
+| r1-surface = [[Water]]
+}}
+
+'''Lake Rosseau/Arthurlie Bay Water Aerodrome''', {{Airport codes||||CPF9}}, is located adjacent to [[Port Carling, Ontario|Port Carling]], [[Ontario]], [[Canada]].
+
+==See also==
+* [[Windermere Airport]]
+* [[Lake Rosseau/Cameron Bay Water Aerodrome]]
+* [[Lake Rosseau/Windermere Water Aerodrome]]
+
+==References==
+*{{WAS}}
+
+{{List of airports in Canada}}
+[[Category:Airports in Ontario]]
+
+{{Ontario-airport-stub}}
+
+[[lmo:Lake Rosseau - Arthurlie Bay Water Aerodrome]]
+[[pms:Lake Rosseau - Arthurlie Bay Water Aerodrome]]

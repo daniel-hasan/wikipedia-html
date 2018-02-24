@@ -1,0 +1,28 @@
+{{Infobox Frankfurt Stadtteil |
+  name                    = Niederursel|
+  image_coat              = Niederursel coat of arms.jpg |
+  image_district          = Mk Frankfurt Karte Niederursel.png |
+  area                    = 8.023 |
+  population              = 16,100 |
+  density                 = 2,006 |
+  postal_code             = 60439 |
+  areacode                = 069 |
+  ortsbezirknumber=8|
+  ortsbezirk=Nord-West|
+  stadtbezirk=
+* 48<small>1</small> - Niederursel-Ost
+* 48<small>2</small> - Niederursel-West|
+website=http://www.niederursel.com/
+}}
+
+'''Niederursel''' is a district or ''Stadtteil'' of [[Frankfurt am Main]], [[Germany]].
+
+{{Stadtteile of Frankfurt am Main}}
+
+{{Hesse-geo-stub}}
+
+{{coor title dms|50|10|33|N|8|37|16|E|region:DE-HE_type:city_source:dewiki}}
+
+[[Category:Districts of Frankfurt]]
+
+[[de:Frankfurt-Niederursel]]

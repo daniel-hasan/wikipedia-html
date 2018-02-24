@@ -1,0 +1,66 @@
+A U.S. Civil Air Patrol Gippsland GA8 Airvan aircraft that carries the ARCHER payload
+__NOTOC__
+The Airborne Real-time Cueing Hyperspectral Enhanced Reconnaissance, also known by the acronym ARCHER, is an aerial imaging system that produces ground images far more detailed than plain sight or ordinary aerial photography can.;;
+It is the most sophisticated unclassified hyperspectral imaging system available, according to U.S. Government officials.;;
+ARCHER can automatically scan detailed imaging for a given signature of the object being sought (such as a missing aircraft),;;
+for abnormalities in the surrounding area, or for changes from previous recorded spectral signatures.;;
+It is has direct applications for search and rescue, counterdrug, disaster relief and impact assessment, and homeland security, and has been deployed by the Civil Air Patrol (CAP) in the United States on the Australian built Gippsland GA8 Airvan fixed-wing aircraft.; CAP, the civilian auxiliary of the United States Air Force, is a volunteer education and public service non-profit organization that conducts aircraft search and rescue in the U.S.
+
+Overview
+A CAP officer cleans the quartz glass portal of an ARCHER equipped GA8 prior to a mission.
+
+ARCHER is a daytime non-invasive technology, which works by analyzing an object’s reflected light. It cannot detect objects at night, underwater, under dense cover, underground, under snow or inside buildings.;; The system uses a special camera facing down through a quartz glass portal in the belly of the aircraft, which is typically flown at a standard mission altitude of 2500 feet (800 meters) and 100 knots (50 meters/second) ground speed.;
+
+The system software was developed by Space Computer Corporation of Los Angeles, California and the system hardware is supplied by NovaSol Corp. of Honolulu, Hawaii specifically for CAP.;;;The ARCHER system is based on hyperspectral technology research and testing previously undertaken by the United States Naval Research Laboratory (NRL) and Air Force Research Laboratory (AFRL).; 
+CAP developed ARCHER in cooperation with the NRL, AFRL and the United States Coast Guard Research &amp; Development Center in the largest interagency project CAP has undertaken in its 63-year history.;;
+
+Since 2003, almost US$5 million authorized under the 2002 Defense Appropriations Act has been spent on development and deployment.; As of January 2007 CAP reported completing the initial deployment of 16 aircraft throughout the U.S. and training over 100 operators, but had only used the system on a few search and rescue missions, and had not credited it with being the first to find any wreckage.;;
+In searches in Georgia and Maryland during 2007, ARCHER located the aircraft wreckage, but both accidents had no survivors, according to Col. Drew Alexa, director of advanced technology, and the ARCHER program manager at CAP.; An ARCHER equipped aircraft from the Utah Wing of the Civil Air Patrol was used in the search for adventurer Steve Fossett in September 2007.;;; As of September 11, 2007 it had not located Mr. Fossett, but was instrumental in uncovering eight previously uncharted crash sites in the high desert area of Nevada,;;;;
+some decades old.;;;;
+
+Col. Alexa described the system to the press in 2007: &quot;The human eye sees basically three bands of light. The ARCHER sensor sees 50. It can see things that are anomalous in the vegetation such as metal or something from an airplane wreckage.&quot;; Major Cynthia Ryan of the Nevada Civil Air Patrol, while also describing the system to the press in 2007, stated, &quot;ARCHER is essentially something used by the geosciences. It's pretty sophisticated stuff … beyond what the human eye can generally see,&quot;;;She elaborated further, &quot;It might see boulders, it might see trees, it might see mountains, sagebrush, whatever, but it goes 'not that' or 'yes, that'. The amazing part of this is that it can see as little as 10 per cent of the target, and extrapolate from there.&quot;;;
+
+In addition to the primary search and rescue mission, CAP has also tested additional uses for ARCHER.;; For example, an ARCHER equipped CAP GA8 was used in a pilot project in Missouri in August 2005 to assess the suitability of the system for tracking hazardous material releases into the environment,;; and one was deployed to track oil spills in the aftermath of Hurricane Rita in Texas during September 2005.;;
+
+Technical description
+A simplified HSI sensor diagram. The narrow beam from the slit is split into its spectra by the diffraction grating
+
+The major ARCHER subsystem components include:;;
+
+*advanced hyperspectral imaging (HSI) system with a resolution of one square meter per pixel.
+*panchromatic high-resolution imaging (HRI) camera with a resolution of 8 cm x 8 cm (3 in x 3 in) per pixel.
+*global positioning system (GPS) integrated with an inertial navigation system (INS)
+
+=Hyperspectral imager=
+The passive hyperspectral imaging spectroscopy remote sensor observes a target in multi-spectral bands. The HSI camera separates the image spectra into 52 &quot;bins&quot; from 500 nanometers&amp;nbsp;(nm) wavelength at the blue end of the visible spectrum to 1100&amp;nbsp;nm in the infrared, giving the camera a spectral resolution of 11.5&amp;nbsp;nm.;; Although ARCHER records data in all 52 bands, the computationalalgorithms only use the first 40 bands, from 500 nm to 960 nm because the bands above 960 nm are too Signal-to-noise ratio|noisy to be useful.;; For comparison, the normal human eye will respond to wavelengths from approximately 1 E-7 m|400 to 700&amp;nbsp;nm,;; and is trichromatic, meaning the eye's cone cells only sense light in three spectral bands.
+
+As the ARCHER aircraft flies over a search area, reflected sunlight is collected by the HSI camera lens. The collected light passes through a set of lenses that focus the light to form an image of the ground. The imaging system uses a pushbroom approach to image acquisition. With the pushbroom approach, the focusing slit reduces the image height to the equivalent of one pixel. This thin, wide beam is projection onto a diffraction grating, which is a very finely etched reflecting surface that disperses light into its spectra. 
+
+The dispersed light is spread across a charge-coupled device (CCD) similar to the image receptor in a typical digital camera, except that this CCD is also sensitive to the near infrared wavelengths up to 1100 nm. The CCD collects the spectral intensities of the dispersed light and converts them to electrical signals. The CCD output consists of electrical signals for 52 spectral bands for each of 504 image pixels. The on-board computer records the CCD output signal at a frame rate of sixty times each second. At an aircraft altitude of 2,500 ft AGL and a speed of 100 knots, a 60 Hz frame rate equates to a ground image resolution of approximately one square meter per pixel. Thus, every frame captured from the CCD contains the spectral data for a ground swath that is approximately one meter long and 500 meters wide.;
+
+A false color image from the ARCHER cockpit display combining the HSI and HRI data.
+=High-resolution imager=
+A high-resolution imaging (HRI) black-and-white, or panchromatic, camera is mounted adjacent to the HSI camera to enable both cameras to capture the same reflected light. The HRI camera uses a pushbroom approach just like the HSI camera with a similar lens and slit arrangement to limit the incoming light to a thin, wide beam. However, the HRI camera does not have a diffraction grating to disperse the incoming reflected light. Instead, the light is directed to a wider CCD to capture more image data. Because it captures a single line of the ground image per frame, it is called a line scan camera. The HRI CCD is 6,144 pixels wide and one pixel high. It operates at a frame rate of 720 Hz. At ARCHER search speed and altitude (100 knots over the ground at 2,500 ft AGL) each pixel in the black-and-white image represents a 3 inch by 3 inch area of the ground. This high resolution adds the capability to identify some objects.;
+
+=Processing=
+A monitor in the cockpit displays detailed images in real time, and the system also logs the image and Global Positioning System data at a rate of 30 Gigabytes (GB) per hour for later analysis.; The on-board data processing system performs numerous real-time processing functions including data acquisition and recording, raw data correction, target detection, cueing and chipping, precision image geo-registration, and display and dissemination of image products and target cue information.;;
+
+ARCHER has three methods for locating targets: 
+*''signature matching'' where reflected light is matched to spectral signatures
+*''anomaly detection'' using a statistical model of the pixels in the image to determine the probability that a pixel does not match the profile,;;and 
+*''change detection'' which executes a pixel-by-pixel comparison of the current image against ground conditions that were obtained in a previous mission over the same area. 
+
+In change detection, scene changes are identified, and new, moved or departed targets are highlighted for evaluation.; In spectral signature matching, the system can be programmed with the parameters of a missing aircraft, such as paint colors, to alert the operators of possible wreckage.; It can also be used to look for specific materials, such as petroleum products or other chemicals released into the environment,; or even ordinary items like commonly available blue polyethylene tarpaulins. In an impact assessment role, information on the location of blue tarps used to temporarily repair buildings damaged in a storm can help direct disaster relief efforts; in a counterdrug role, a blue tarp located in a remote area could be associated with illegal activity.;;
+
+References
+
+
+Category:Aviation terminology
+Category: Satellite meteorology and remote sensing
+Category:Spectroscopy
+Category:Civil Air Patrol
+
+External links
+* [http://www.cap.gov/ Civil Air Patrol]
+* [http://www.nova-sol.comNovaSol Corp.] 
+* [http://www.spacecomputer.com Space Computer Corporation]

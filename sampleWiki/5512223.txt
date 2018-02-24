@@ -1,0 +1,64 @@
+{{Taxobox
+| color = pink
+| name = Egyptian Mongoose
+| image = Egyptian mongoose.jpg
+| status = LR/lc
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[mammal|Mammalia]]
+| ordo = [[Carnivora]] 
+| familia = [[Herpestidae]]
+| subfamilia = [[Herpestinae]]
+| genus = ''[[Herpestes]]''
+| species = '''''H. ichneumon'''''
+| binomial = ''Herpestes ichneumon'' 
+| binomial_authority = [[Carolus Linnaeus|Linnaeus]], 1758
+}}
+
+The '''Egyptian Mongoose''' (''Herpestes ichneumon''), also known as the '''Ichneumon''', is a species of [[mongoose]]. It may be a [[natural reservoir|reservoir host]] for [[Visceral leishmaniasis]] in [[Sudan]]<ref>{{cite web | url = http://www.journals.cambridge.org/action/displayAbstract?fromPage=online&aid=82687 | title = ''The Egyptian mongoose, Herpestes ichneumon, is a possible reservoir host of visceral leishmaniasis in eastern Sudan'' | accessdate = 2007-04-17}}</ref>. 
+
+==Range and habitat==
+This mongoose may be found in [[Spain]], [[Portugal]], [[Israel]], and most of [[sub-Saharan Africa]], except for central [[Zaire]], western [[South Africa]], and [[Namibia]]. It has been introduced to [[Madagascar]] and [[Italy]].<ref name='animalDiversity'>{{cite web | url = http://animaldiversity.ummz.umich.edu/site/accounts/information/Herpestes_ichneumon.html | title = Animal Diversity Web: Herpestes ichneumon | accessdate = 2007-04-17}}</ref> 
+
+It prefers to live in forests, savanna, or scrub, never far from water.<ref name='bluePlanet'>{{cite web | url =  http://www.blueplanetbiomes.org/egyptian_mongoose.htm | title = Blue Planet Biomes | accessdate = 2007-04-17}}</ref>
+
+==Description==
+The largest of all African mongooses<ref name='bluePlanet' />, the Egyptian Mongoose has a body 48-60 cm long, and a 33-54 cm tail. It weighs 1.7-4 kg.<ref name='lionCrusher'>{{cite web | url = http://www.lioncrusher.com/animal.asp?animal=130 | title = Lioncrusher's Domain | accessdate =  2007-04-17 }}</ref>
+
+The Egyptian Mongoose has a slender body, with a pointed snout and small ears. It has 35-40 teeth, with highly developed [[carnassial]]s, used for shearing meat. Its long, coarse fur ranges in colour from grey to reddish brown and is ticked with brown or yellow flecks. Their tails have black tips. The hind feet and a small area around the eyes are furless.
+
+==Behaviour==
+Males and females become sexually mature at two years of age. Mating occurs in July or August, and after a [[gestation period]] of 11 weeks, the female gives birth to 2-4 young. Egyptian Mongooses are blind and hairless when born, but open their eyes after about a week.<ref name='bluePlanet' />
+
+The Egyptian Mongoose is [[Diurnal animal|diurnal]] and lives in small groups of 1-7 animals, usually consisting of a male, several females, and their young. Male offspring usually leave the group before they are a year old; females stay longer, and may not leave at all.<ref name='lionCrusher' />
+
+Most wild mongooses live for 12 years. The longest lived captive mongoose was over 20 years old.<ref name='animalDiversity' />
+
+Its diet consists mainly of meat, including rodents, fish, birds, reptiles, amphibians, and insects. Fruit and eggs are also popular food items; to crack it open, the latter is characteristically thrown between the legs against a rock or wall. Like other mongooses, the Egyptian Mongoose will attack and eat poisonous snakes. Contrary to popular opinion, they are not immune to [[snake venom]].<ref>{{cite web | url = http://itech.pjc.edu/sctag/Emongoose/Mongoose.htm | title = American Zoo and Aquarium Association: Small Carnivores | accessdate = 2007-04-17}}</ref>
+
+==Conservation==
+The Egyptian Mongoose is extremely numerous. While its numbers threaten other species, it is not at risk of extinction.<ref name='animalDiversity' />
+
+==Ephemera==
+[[John Greenleaf Whittier]], American poet, wrote a poem as an elegy for an ichneumon, which had been brought to Haverhill Academy in [[Haverhill, New Hampshire]], in 1830. The long lost poem was published in the November 20, 1902 issue of "The Independent" Magazine.
+
+==References==
+{{reflist}}
+{{wikispecies|Herpestes ichneumon}}
+{{commons|Herpestes ichneumon}}
+
+[[Category:Mammals of Egypt]]
+[[Category:Fauna of Zambia]]
+[[Category:Mammals of Europe]]
+[[Category:Fauna of Spain]]
+
+[[de:Ichneumon]]
+[[es:Herpestes ichneumon]]
+[[fr:Rat des pharaons]]
+[[it:Herpestes ichneumon]]
+[[he:נמייה מצויה]]
+[[nl:Egyptische ichneumon]]
+[[pl:Mangusta egipska]]
+[[pt:Sacarrabos]]
+[[ru:Египетский мангуст]]
+[[fi:Faaraorotta]]

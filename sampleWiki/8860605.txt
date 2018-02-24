@@ -1,0 +1,62 @@
+{{Infobox Australian Place | type = town
+| name     = Ganmain
+| state    = nsw
+| image    = GanmainYesteryearPhotographedToday.jpg
+| caption  = Main Street of Ganmain as it is today <br>- complete with vintage cars
+| lga      = [[Coolamon Shire Council]]
+| postcode = 2702
+| est      = 
+| pop      = 648
+| pop_footnotes = <ref name="ABS"/>
+| elevation= 
+| maxtemp  = 
+| mintemp  = 
+| rainfall = 
+| county = [[Bourke County, New South Wales|Bourke]]
+| stategov = [[Electoral district of Murrumbidgee|Murrumbidgee]]
+| fedgov   = [[Division of Riverina|Riverina]]
+| dist1    = 494
+| location1= [[Sydney]]
+| dist2    = 486
+| location2=[[Melbourne]]
+| dist3    = 57
+| location3= [[Wagga Wagga, New South Wales|Wagga Wagga]]
+| dist4    = 15
+| location4= [[Coolamon, New South Wales|Coolamon]]
+}}
+'''Ganmain''' is a town in the [[Riverina]] region of [[New South Wales]], [[Australia]].  Ganmain is located around 55 kilometres north west of [[Wagga Wagga, New South Wales|Wagga Wagga]], and 50 kilomtres east of [[Narrandera, New South Wales|Narrandera]].  Ganmain is in the [[Coolamon Shire Council|Coolamon Shire]] [[Local Government Areas in Australia|Local Government Area]] and had a population at the 2006 census of 648.<ref name="ABS">{{Census 2006 AUS
+|id=UCL131600 
+|name=Ganmain (L) (Urban Centre/Locality)
+|accessdate=2007-10-25
+|quick=on}}</ref>
+
+The town name is said to be an [[Indigenous Australian|Aboriginal]] word meaning "Crown scenes on the Moon for tribal reasons" or "native decorated with stars"<ref>[http://www.gnb.nsw.gov.au/name/extract?id=JPwGXtWAMa New South Wales Geographical Names Board]. - Retrieved [[11 January]] [[2007]].</ref>
+
+Ganmain is the self proclaimed "Sheaf Hay centre of Australia" and has produced [[chaff]] for many leading racehorse trainers in Australia.  The Big Haystack in Pioneer Park reflects this background.
+
+The town has two primary schools, Ganmain Public School and St. Brendan's Catholic Primary School.
+
+[[Australian rules football]] is the most popular sport with the local team, Ganmain-[[Grong Grong, New South Wales|Grong Grong]]-[[Matong, New South Wales|Matong]] playing in the [[Riverina Football League]].
+[[image:GanmainSilos.jpg|thumb|250px|left|<small>Coming into Ganmain from the direction of [[Matong, New South Wales|Matong]] these 30 metre high silos give an indication of the wheat country surrounding Ganmain</small>]]
+==Notable people from Ganmain==
+
+* Former Catholic [[Archbishop]] of [[Canberra]], [[Francis Carroll]].
+* Former [[Sydney Swans]] Australian rules footballer, [[Dennis Carroll]].
+
+==External links==
+*[http://www.travelmate.com.au/Places/Places.asp?TownName=Ganmain_%5C_NSW Travelmate] - Ganmain.  Tourist information site.
+*[http://www.coolamon.nsw.gov.au/about/1583/1587.html Coolamon Shire Council] - Official website.  Ganmain page.
+
+==References==
+{{reflist}}
+
+{{commons}}
+
+{{coor title dm|34|48|S|147|02|E|region:AU_type:city}}
+
+{{Riverina}}
+
+
+
+[[Category:Towns in the Riverina]]
+[[Category:Towns in New South Wales]]

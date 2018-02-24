@@ -1,0 +1,49 @@
+
+<p>In mathematics, the <b>replicator equation</b> is deterministic monotone non-linear and non-innovative game dynamic used in <a href="/wiki/Evolutionary_game_theory" id="w">evolutionary game theory</a>. The replicator equation differs from other equations used to model replication, such as the <a href="/wiki/Quasispecies" id="w">quasispecies</a> equation, in that it allows the <a href="/wiki/Fitness_landscape" id="w">fitness landscape</a> to incorporate the distribution of the population types rather than setting the fitness of a particular type constant. This important property allows the replicator equation to capture the essence of <a href="/wiki/Selection" id="w">selection</a>. Unlike the quasispecies equation, the replicator equation does not incorporate <a href="/wiki/Mutation" id="w">mutation</a> and so is not able to innovate new types or pure strategies. </p>
+<a id="Equational_forms" name="Equational_forms"></a><h2> Equational forms </h2>
+
+<p>The most general continuous form is given by the <a href="/wiki/Differential_equation" id="w">differential equation</a></p>
+<dl><dd><span class="math"> \dot{x_i} = x_i [ f_i(x) - \phi(x)], \quad \phi(x) = \sum_{i=1}^{n}{x_i f_i(x)}</span></dd></dl>
+<p>where <span class="math">x_i</span> is the proportion of type <span class="math"> i </span> in the population, <span class="math">x=(x_1, \ldots, x_n)</span> is the vector of the distribution of types in the population, <span class="math">f_i(x)</span> is the fitness of type <span class="math">i</span> (which is dependent on the population), and <span class="math">\phi(x)</span> is the average population fitness (given by the weighted average of the fitness of the <span class="math">n</span> types in the population). Since the elements of the population vector <span class="math">x</span> sum to unity by definition, the equation is defined on the n-dimensional <a href="/wiki/Simplex" id="w">simplex</a>.</p>
+<p>Analogously, there is a discrete version which is given by the following <a href="/wiki/Difference_equation" id="w">difference equation</a>:</p>
+<dl><dd><span class="math"> x_{i}^{'} = x_i \frac{f_i(x)}{\phi(x)}. </span></dd></dl>
+<p>The replicator equation assumes a uniform population distribution; that is, it does not incorporate population structure into the fitness. The fitness landscape does incorporate the population distribution of types, in contrast to other similar equations, such as the quasispecies equation.</p>
+<p>In application, populations are generally finite, making the discrete version more realistic. The analysis is more difficult and computationally intensive in the discrete formulation, so the continuous form is often used, although there are significant properties that are lost due to this smoothing. Note that the continuous form can be obtained from the discrete form by a limiting process.</p>
+<p>To simplify analysis, fitness is often assumed to depend linearly upon the population distribution, which allows the replicator equation to be written in the form:</p>
+<dl><dd><span class="math">\dot{x_i}=x_i\left(\left(Ax\right)_i-x^TAx\right),</span></dd></dl>
+<p>where the <a href="/wiki/Payoff_matrix" id="w">payoff matrix</a> <span class="math">A</span> holds all the fitness information for the population: the expected payoff can be written as <span class="math">\left(Ax\right)_i</span> and the mean fitness of the population as a whole can be written as <span class="math">x^TAx</span>.</p>
+<a id="Analysis" name="Analysis"></a><h2> Analysis </h2>
+
+<p>{{Main}}</p>
+<p>The analysis differs in the continuous and discrete cases: in the former, methods from differential equations are utilized, whereas in the latter the methods tend to be stochastic. Since the replicator equation is non-linear, an exact solution is difficult to obtain (even in simple versions of the continuous form) so the equation is usually analyzed in terms of stability. The replicator equation (in its continuous and discrete forms) satisfies the <a href="/wiki/Folk_theorem" id="w">folk theorem</a> of evolutionary game theory which characterizes the stability of equilibria of the equation. The solution of the equation is often given by the set of <a href="/wiki/Evolutionarily_stable_state" id="w">evolutionarily stable states</a> of the population.</p>
+<p>In general nondegenerate cases, there can be at most one interior evolutionary stable state (ESS), though there can be many equilibria on the boundary of the simplex. All the faces of the simplex are forward-invariant which corresponds to the lack of innovation in the replicator equation: once a strategy becomes extinct there is no way to revive it.</p>
+<p>Phase portrait solutions for the continuous linear-fitness replicator equation have been classified in the two and three dimensional cases. Classification is more difficult in higher dimensions because the number of distinct portraits increases rapidly.</p>
+<a id="Relationships_to_other_equations" name="Relationships_to_other_equations"></a><h2> Relationships to other equations </h2>
+
+<p>The continuous replicator equation on <span class="math">n</span> types is equivalent to the <a href="/wiki/Lotka-Volterra_equation" id="w">Lotka-Volterra equation</a> in <span class="math">n-1</span> dimensions. The transformation is made by the change of variables 
+</p><dl><dd><span class="math">x_i = \frac{y_i}{1 + \sum_{j=1}^{n-1}{y_j}} \quad i=1, \ldots,n-1 </span></dd></dl><dl><dd><span class="math">x_n = \frac{1}{1 + \sum_{j=1}^{n-1}{y_j}},</span></dd></dl>
+<p>where <span class="math">y_i</span> is the Lotka-Volterra variable.</p>
+<p>The continuous replicator dynamic is also equivalent to the <a href="/wiki/Price_equation" id="w">Price equation</a>.</p>
+<a id="Generalizations" name="Generalizations"></a><h2> Generalizations </h2>
+
+<p>A generalization of the replicator equation which incorporates mutation is given by the replicator-mutator equation, which takes the following form in the continuous version:</p>
+<dl><dd><span class="math"> \dot{x_i} = \sum_{j=1}^{n}{x_j f_j(x) Q_{ji}} - \phi(x)x_i, </span></dd></dl>
+<p>where the matrix <span class="math">Q</span> gives the <a href="/wiki/Transition_probabilities" id="w">transition probabilities</a> for the mutation of type <span class="math">j</span> to type <span class="math"> i </span>. This equation is a simultaneous generalization of the replicator equation and the quasispecies equation, and is used in the mathematical analysis of language.</p>
+<p>The replicator equation can easily be generalized to <a href="/wiki/Asymmetric_games" id="w">asymmetric games</a>. A recent generalization that incorporates population structure is used in <a href="/wiki/Evolutionary_graph_theory" id="w">evolutionary graph theory</a>.</p>
+<a id="References" name="References"></a><h2>References</h2>
+
+
+<ul>
+<li>Nowak, M. (2006) <i>Evolutionary Dynamics: Exploring the Equations of Life</i> Belknap Press.</li>
+<li>Cressman, R. (2003) <i>Evolutionary Dynamics and Extensive Form Games</i> The MIT Press.</li>
+<li>Hofbauer, J., and <a href="/wiki/Karl_Sigmund" id="w">Sigmund, K.</a> (2003) <i>Evolutionary game dynamics</i> Bull. Am. Math. Soc. 40, 479-519.</li>
+<li>Nowak, M and Page, K. (2002) <i>Unifying Evolutionary Dynamics</i> Journal of  Theoretical Biology 219: 93-98 .</li>
+<li>Bomze, I.M. (1983) <i>Lotka-Volterra equations and replicator dynamics: A two dimensional classification.</i> Biol. Cybern. 48:201-11.</li>
+<li>Bomze, I.M. (1995) <i>Lotka-Volterra equations and replicator dynamics: New issues in classification.</i> Biol. Cybern. 72:447-53.</li></ul>
+
+<p>{{game theory}}
+
+
+
+
+</p>

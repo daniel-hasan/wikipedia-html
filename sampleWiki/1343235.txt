@@ -1,0 +1,101 @@
+{|align="right" cellpadding=0 cellspacing=0
+|{{Infobox Mid-air accident|name=United Airlines Flight 826<br>Trans World Airlines Flight 266|
+Date=[[December 16]] [[1960]] |
+Type=[[Mid-air collision]]|
+Site=[[Brooklyn]] & [[Staten Island]]<br>[[New York City]], [[New York]]|
+Fatalities=134 (including 6 on the ground)|
+Injuries= 0 known|
+Aircraft Type=[[Douglas DC-8]]|
+Operator=[[United Airlines]]|
+Tail Number={{airreg|N|8031U|disaster}}|
+Ship name=''Mainliner Will Rogers''|
+Origin=[[Chicago O'Hare Airport]]|
+Destination=[[John F. Kennedy International Airport|Idlewild International Airport]]|
+Passengers=77|
+Crew=7|
+Survivors =0|
+Aircraft 2 Type=[[Lockheed Constellation|Lockheed L-1049]]|
+Operator 2=[[Trans World Airlines]]|
+Tail Number 2={{airreg|N|6907C|disaster}}|
+Ship name 2=''Star of Sicily''|
+Origin 2=[[Dayton International Airport]]|
+Destination 2=[[La Guardia Airport]]|
+Passengers 2=39|
+Crew 2=5|
+Survivors 2=0|
+}}
+|}
+[[Image:Syracuse-crash.jpg|thumb|December 17 front page of ''[[Syracuse Post-Standard]]'']]
+The '''1960 New York air disaster''' was a collision on December 16, 1960, between two [[airliner]]s over [[Staten Island]], [[New York City]], [[New York]], [[United States]], in which one plane crashed into Staten Island and the other airliner crashed into a [[Brooklyn]] neighborhood.  The crash killed all 84 people aboard Flight 826 and 44 on Flight 266 as well as six people on the ground.
+
+'''[[United Airlines]] Flight 826''', ''Mainliner Will Rogers'', registration N8031U, was a [[Douglas DC-8]] en route from [[O'Hare Airport]] in [[Chicago, Illinois|Chicago]] to [[John F. Kennedy International Airport|New York International (Idlewild) Airport]] in [[New York City, New York]], on [[December 16]], [[1960]]. '''[[Trans World Airlines]] Flight 266''', ''Star of Sicily'', registration N6907C, was a [[Lockheed Constellation|Lockheed Super Constellation]] en route from [[Dayton, Ohio|Dayton]] and [[Columbus, Ohio]], to New York's [[LaGuardia Airport]]. The two aircraft collided in mid-air in heavy clouds a mile west of [[Miller Field (Staten Island)|Miller Field]], a military airfield on [[Staten Island]], at 10:33 AM [[North American Eastern Time Zone|Eastern Time]]. All 84 people aboard Flight 826, 44 on Flight 266 and six people on the ground were killed.
+
+Weather conditions at the time were light rain and fog (which had been preceded by a snowfall)
+
+According to information from the United's [[flight recorder]] (the first time a "black box" had been used to provide extensive details in a crash investigation) the United plane was 12 miles off course and in 81 seconds had dove 3,600 feet a minute and dropped its speed from more than 500 miles per hour to 363 miles per hour when it slammed into the right side of the TWA plane at between 5,250 and 5,175 feet.<ref name="TimesHighSpeed">High Speed Laid to Jet in Crash - New York Times - January 10, 1961</ref>
+
+The collision occurred about a mile west of Miller Field.  The TWA plane spiraled down disintegrating and dropping at least one passenger into a tree in the [[New Dorp]] neighborhood.  The TWA plane crashed into an empty field at the northwest corner of the field -- although within a few feet of the neighborhood.<ref name="TimesHighSpeed"/>
+
+The United plane was supposed to have been circling a point called "Preston" off the New Jersey coast, was supposed to have been at 5,000 feet (and not diving down from 8,700 feet) and not traveling more than 240 miles per hour.  United was to say the ground beacon was not working (pilots testified on both sides of the issue).<ref name="TimesHighSpeed"/>
+
+At 10:21 AM, Flight 826 advised its company radio operator that one of its VOR receivers had stopped working (although they did not notify air traffic controllers of the problem) but it made it difficult to fly on [[Instrument flight rules|instrument conditions]]. At 10:25 AM, [[air traffic control]] issued a revised clearance for the flight to shorten its course to the Preston holding point by 12 miles. 
+
+The United Plane overshot the Preston holding point and at 10:33 AM they collided.
+
+Following the collision, the crippled United DC-8 careened into the [[Park Slope, Brooklyn|Park Slope]] section of [[Brooklyn]], setting fire to 10 brownstone apartment buildings, the [[Pillar of Fire Church]], the McCaddin Funeral Home, a Chinese laundry and a deli.  Wreckage was spewed over the [http://maps.google.com/maps?f=q&hl=en&geocode=&q=Seventh+Avenue+at+Sterling+Place,+Brooklyn,+New+York&sll=37.0625,-95.677068&sspn=26.951033,59.765625&ie=UTF8&ll=40.678409,-73.973694&spn=0.050251,0.11673&z=13&om=1 Seventh  Avenue at Sterling Place] intersection, killing six people on the ground including a sanitation worker shoveling snow.<ref>Disaster in Fog - New York Times - December 17, 1960</ref> 
+
+Although witnesses speculated at the time that United attempted an emergency landing in [[Prospect Park (Brooklyn)|Prospect Park]] or at [[LaGuardia Airport]], there is no evidence that the pilots had control of the DC-8 at any time after the mid-air collision.  There was no audible voice radio contact with traffic controllers from either plane after the collision although LaGuardia had begun tracking an incoming fast moving unidentified plane from Preston toward the LaGuardia "Flatbush" outer marker <ref>Excerpts of Tape Conversations at Time of Air Crash - New York Times - December 22, 1960</ref>
+
+TWA Flight 266 crashed into [http://maps.google.com/?ie=UTF8&ll=40.568002,-74.099436&spn=0.012584,0.029182&z=15&om=1 Miller Army Field], with some sections of the aircraft landing in [[New York Harbor]] on the [[Atlantic Ocean]] side.
+
+The only initial survivor of the tragedy was 11-year-old [[Stephen Baltz]] of [[Wilmette, Illinois]], a passenger on the United jet, who was thrown into a snowbank at impact.  He later died in Park Slope's New York Methodist Hospital a few blocks from crash.  Baltz told rescuers that moments before the collision he had looked out the window at the snow falling on the city.
+
+:It looked like a picture out of a fairy book.  It was a beautiful sight.<ref>Disaster in Fog - New York Times - December 17, 1960</ref>
+
+Pictures of Baltz appeared on many front pages around the world such as the [[Syracuse Post-Standard]] repeating a story from the Associated Press in which he expressed concern about his mother who was waiting for him at the airport.  He gave the only description of the crash:
+
+:I heard a big noise while we were flying.  The last thing I remember was the plane falling.<ref>Lone Survivor Worried About His Mother - Associated Press via Syracuse Post-Standard - December 17, 1960</ref>
+
+With a death toll of 134, the accident was the deadliest U.S. commercial aviation disaster at the time, topping the 1956 midair collision between [[United Airlines Flight 718]] and Trans World Airlines Flight 2 over [[Arizona]]'s [[Grand Canyon]] that killed 128.  
+
+Filmmaker and critic [[Hollis Frampton]] was scheduled to be on the flight, but decided to leave the next day in order to see a retrospective of the work of [[Edward Weston]] in Minneapolis; he said of this decision that he was "never...able to decide whether Weston tried to kill me, or saved my life." <ref> Frampton, Hollis. "Impromptus on Edward Weston: Everything in Its Place."  ''October'' 5 (Summer 1978): 48-69. </ref>
+
+United has not retired the use of 826 as a flight number.  However, as of October 2006 no United flights currently carry the designation.  The most recent route of United Flight 826 was on a San Francisco to Los Angeles route, and was last used on September 5, 2006.
+
+United had named the ill-fated DC-8 after well known American entertainer [[Will Rogers]]. Along with [[Wiley Post]] he was killed in a plane crash near [[Barrow, Alaska]] in 1935.
+
+Within two months there would be two more major air disasters involving Idlewild Airport.
+
+On January 19, 1961, an [[Aeronaves de Mexico]] DC-8 crashed on takeoff  into [[Rockaway Beach Boulevard]] from Idlewild in a snow storm killing four  – although 102 of the 106 passengers and crew escaped.
+
+On January 28, 1961 an [[American Airlines]] [[Boeing 707]] Flight 1502 (Flagship Oklahoma) from Idlewild on a training mission nosedived 300 yards off Atlantic coast at [[Napeague, New York]] killing all six aboard. 
+==See also==
+*[[List of notable accidents and incidents on commercial aircraft]]
+
+==Footnotes==
+<!--See http://en.wikipedia.org/wiki/Wikipedia:Footnotes for an explanation of how to generate footnotes using the <ref(erences/)> tags-->
+<div class="references-medium">
+<references/>
+</div>
+
+==References==
+*[http://psreader.com/article44.html Pillar of Fire: Recalling the Day the Sky Fell, December 16, 1960] by Nathaniel Altman, from the Park Slope Reader
+*[http://dotlibrary1.specialcollection.net/scripts/ws.dll?browse&rn=719%22 Civil Aeronautics Board Aircraft Accident Report on the collision] from the Department of Transport's Special Collections
+*[http://aviation-safety.net/database/record.php?id=19601216-0&lang=en Aviation Safety Network report on Flight 826]
+*[http://aviation-safety.net/database/record.php?id=19601216-1&lang=en Aviation Safety Network report on Flight 266]
+*[http://www.time.com/time/magazine/article/0,9171,895134,00.html Death in the Air], ''Time'', December 26, 1960.
+ *http://www.midair-collision-over-newyork.com
+
+ 
+{{coor title d|40.6772|N|73.9740|W|region:US-NY_type:landmark}}
+
+[[Category:Accidents and incidents on commercial airliners in the United States]]
+[[Category:Midair airliner crashes]]
+[[Category:Trans World Airlines flights]]
+[[Category:Transportation accidents in New York City]]
+[[Category:1960 in the United States|New York air disaster]]
+[[Category:Aviation accidents and incidents in 1960|New York]]
+[[Category:United Airlines flights]]
+[[Category:Park Slope, Brooklyn]]
+
+[[ja:1960年ニューヨーク空中衝突事故]]

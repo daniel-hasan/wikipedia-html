@@ -1,0 +1,276 @@
+{{Otheruses4|the straight-winged version of the F-84|the swept-winged version|F-84F Thunderstreak}}
+<!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. -->
+{{Infobox Aircraft
+  |name=F-84 Thunderjet
+  |type=[[Fighter-bomber]]
+  |manufacturer=[[Republic Aviation]]
+  |image=Image:F-84G.jpg
+  |caption=USAF F-84E Thunderjet
+  |designer=[[Alexander Kartveli]]
+  |first flight=[[28 February]] [[1946 in aviation|1946]] 
+  |introduced=November 1947
+  |retired=
+  |status=
+  |primary user=[[United States Air Force]]
+  |more users=
+  |produced=
+  |number built=7,524
+  |unit cost=US$237,247 (F-84G)<ref name="knaack">Knaack, Marcelle Size. ''Encyclopedia of US Air Force Aircraft and Missile Systems: Volume 1 Post-World War II Fighters 1945-1973''. Washington, DC: Office of Air Force History, 1978. ISBN 0-912799-59-5.</ref><br/>US$769,330 (F-84F)
+  |variants with their own articles= [[F-84F Thunderstreak]] <br/>[[XF-84H Thunderscreech]] <br/>[[XF-91 Thunderceptor]]
+}}
+
+The '''[[Republic Aviation|Republic]] F-84 Thunderjet''' was an [[United States|American]]-built [[turbojet]] fighter-bomber aircraft. Originating as a 1944 [[United States Air Force]] proposal for a daytime fighter, the F-84 flew in 1946. Although it entered service in 1947, the Thunderjet was plagued by so many structural and engine problems that a 1948 Air Force review declared it unable to execute any aspect of its intended mission and considered cancelling the program. The aircraft was not considered fully operational until the 1949 F-84D model and the design matured only with the definitive F-84G introduced in 1951. In 1954, the straight-wing Thunderjet was joined by the swept-wing '''[[F-84F Thunderstreak]]''' fighter and '''RF-84F Thunderflash''' [[photo reconnaissance]] aircraft.
+
+The Thunderjet became the Air Force's primary strike aircraft during the [[Korean War]], flying 86,408 missions and destroying 60% of all ground targets in the war as well as eight Soviet-built [[Mikoyan|MiG fighters]]. Over half of the 7,524 F-84s produced served with [[NATO]] nations, and it was the first aircraft to fly with the [[U.S. Air Force Thunderbirds]] demonstration team. The [[USAF]] [[Strategic Air Command]] had F-84 Thunderjets in service from 1948 through 1957. 
+
+The F-84 was the first production fighter aircraft to utilize in-flight refueling and the first fighter capable of carrying a nuclear bomb. Modified F-84s were used in several unusual projects, including the [[FICON project|FICON and Tom-Tom]] dockings to the [[B-29 Superfortress|B-29]] and [[Convair B-36|B-36]] bomber motherships, and the experimental [[XF-84H Thunderscreech]] supersonic [[turboprop]]. 
+
+==Design and development==
+[[Image:F-84g-51-1231-48fbg-chm-0853.jpg|thumb|right|An F-84G at Chaumont Air Base, France, in 1953]]
+In [[1944 in aviation|1944]], [[Republic Aviation]]'s chief designer, [[Alexander Kartveli]], began working on a [[turbojet]]-powered replacement for the [[P-47 Thunderbolt]] piston-engined fighter. The initial attempts to redesign the P-47 to accommodate a jet engine proved futile due to the large cross-section of the early [[centrifugal compressor]] turbojets. Instead, Kartveli and his team designed a brand-new aircraft with a streamlined fuselage largely occupied by an [[axial compressor]] [[turbojet]] engine and fuel stored in rather thick unswept wings.<ref name="knaack"/> On [[11 September]] [[1944]], the [[United States Army Air Forces]] released General Operational Requirements for a day fighter with a top speed of 600&nbsp;[[mph]] (521&nbsp;[[knot (speed)|knot]]s, 966&nbsp;km/h), combat radius of 705&nbsp;[[mile]]s (612&nbsp;[[nautical mile|nmi]], 1,135&nbsp;km), and armament of either six 0.50&nbsp;[[inch]] (12.7&nbsp;mm) or four 0.60&nbsp;inch (15.2&nbsp;mm) machine guns. In addition, the new aircraft had to use the [[General Electric]] TG-180 axial turbojet which entered production as [[Allison J35]]. On [[11 November]] [[1944]], Republic received an order for three prototypes of the new '''XP-84'''.<ref name="knaack"/> 
+
+Since the design promised superior performance to the [[P-80 Shooting Star]] and Republic had extensive experience in building single-seat fighters, no competition was held for the contract. The name '''Thunderjet''' was chosen to continue the Republic Aviation tradition started with the P-47 while emphasizing the new method of propulsion. On [[4 January]] [[1945]], even before the aircraft took to the air, the USAAF expanded its order to 25 service test '''YP-84A''' and 75 production '''P-84B''' (later modified to 15 YP-84A and 85 P-84B). Meanwhile, [[wind tunnel]] testing by the [[National Advisory Committee for Aeronautics]] revealed longitudinal instability and buckling of stabilizer skin at high speeds.<ref name="knaack"/> The weight of the aircraft, a great concern given the low thrust of early turbojets, was growing so quickly that the USAAF had to set a gross weight limit of 13,400&nbsp;[[Pound (mass)|pound]]s (6,080&nbsp;kg). The results of preliminary testing were incorporated into the third prototype, designated '''XP-84A''', which was also fitted with a more powerful J35-GE-15 engine with 4,000&nbsp;[[pound-force]] (17.8&nbsp;kN) of thrust.<ref name="knaack"/>
+
+The first prototype XP-84 was transferred to Muroc Army Air Field (present-day [[Edwards Air Force Base]]) where it flew for the first time on [[28 February]] [[1946 in aviation|1946]] with Major [[William A. Lien]] at the controls. It was joined by the second prototype in August; both aircraft flying with J35-GE-7 engines producing 3,745&nbsp;pound-force (16.66&nbsp;kN) of thrust. The fifteen YP-84As delivered to Patterson Field (present-day [[Wright-Patterson Air Force Base]]) for service tests differed from XP-84s in having an upgraded J35-A-15 engine, carrying six 0.50&nbsp;inch (12.7&nbsp;mm) [[M2 Browning machine gun|Browning machine gun]]s (four in the nose and one in each wing root), and having the provision for wingtip fuel tanks holding 226&nbsp;US&nbsp;[[gallon]] (870&nbsp;L) each. Due to delays with delivery of jet engines and production of the XP-84A, the Thunderjet had undergone only limited flight testing by the time production P-84Bs began to roll out of the factory in 1947. In particular, the impact of wingtip tanks on aircraft handling was not thoroughly studied which proved problematic later.<ref name="knaack"/>
+
+After creation of [[United States Air Force]] by the [[National Security Act of 1947]], the ''Pursuit'' designation was replaced with ''Fighter'', and P-84 became the '''F-84'''.
+
+F-84s were assigned to the [[27th Fighter Wing]],  27th Fighter Escort Wing, 27th Strategic Fighter Wing, 31st Fighter Escort Wing, 127th Fighter Day Wing, 127th Fighter Escort Wing,  127th  
+Strategic Fighter Wing, 407th Strategic Fighter Wing and the 506th Strategic Fighter Wing of the [[Strategic Air Command]] from 1947 through 1958.<ref name="McLaren">McLaren, David. ''Republic F-84 Thunderjet, Thunderstreak & Thunderflash: A Photo Chronicle''. New York: Schiffer Military/Aviation History, 1998. ISBN 0-7643-0444-5.</ref>
+
+==Operational history==
+
+The F-84B, which differed from YP-84A only in having faster-firing M3 machine guns, became operational with [[14th Fighter Group]] at [[Dow Field]], [[Bangor, Maine]] in December 1947. Flight restrictions followed immediately, limiting maximum speed to [[Mach number|Mach&nbsp;0.8]] due to control reversal, and limiting maximum acceleration to 5.5&nbsp;[[g force|''g'']] (54 m/s²) due to wrinkling of fuselage skin. To compound the problem, parts shortages and maintenance difficulties earned the aircraft the nickname "Mechanic's Nightmare".<ref name="knaack"/> On [[24 May]] [[1948]], the entire F-84B fleet was grounded due to structural failures. 
+
+A 1948 review of the entire F-84 program discovered that none of the F-84B or F-84C aircraft could be considered operational or capable of executing any aspect of their intended mission. The program was saved from cancellation by the fact that the F-84D, whose production was well underway, had satisfactorily addressed the major faults. A fly-off against the F-80 revealed that while the Shooting Star had a shorter takeoff roll, better low altitude climb rate and superior maneuverability, the F-84 could carry a greater warload, was faster, had better high altitude performance and greater range.<ref name="knaack"/> As a temporizing measure, the USAF in 1949, committed US$8 million to implement over 100 upgrades to all F-84Bs, most notably reinforcing the wings. Despite the resultant improvements, the F-84B was withdrawn from active duty by 1952.<ref name="knaack"/>
+
+The '''F-84C''' utilized a somewhat more reliable J35-A-13 engine and some engineering refinements. Being virtually identical to the F-84B, the C model suffered from all of the same defects and underwent a similar structural upgrade program in 1949. All F-84Cs were withdrawn from active service by 1952.<ref name="knaack"/>
+
+The structural improvements were factory-implemented in the '''F-84D''' which entered service in 1949. Wings were covered with thicker aluminum skin, the fuel system was winterized and capable of using [[JP-4]] fuel and a more powerful J35-A-17 engine with 5,000&nbsp;pound-force (22.2&nbsp;kN)  thrust was fitted. It was discovered that the untested wingtip fuel tanks contributed to wing structural failures by inducing excessive twisting during high-''g'' maneuvers.<ref name="knaack"/> To correct this, small triangular fins were added to the outside of the tanks. The F-84D was phased out of USAF service in 1952 and left [[Air National Guard]] service in 1957.<ref name="knaack"/>
+
+The first effective and fully-capable Thunderjet was the '''F-84E''' model which entered service in 1949. The aircraft featured the J35-A-17 engine, further wing reinforcement, a 12&nbsp;inch (305&nbsp;mm) fuselage plug in front of the wings and 3&nbsp;inch (76 mm) plug aft of the wings to enlarge the cockpit and the avionics bay, an A-1C gunsight with APG-30 radar and provision for an additional pair of 230&nbsp;[[US gallon]] (870&nbsp;L) fuel tanks to be carried on underwing pylons.<ref name="knaack"/> The latter increased the combat radius from 850 to 1,000&nbsp;miles (740 to 870&nbsp;nmi, 1,370 to 1,610&nbsp;km). Despite the improvements, the in-service rates remained poor with less than half of the aircraft operational at any given time.<ref name="knaack"/> This was primarily due to severe shortage of spares for the Allison engines. The expectation was that F-84Es would fly 25 hours per month, accumulating 100 hours between engine overhauls. The reality of Korean War and [[NATO]] deployments rapidly outpaced the supply and Allison's ability to manufacture new engines.<ref name="knaack"/> The F-84E was withdrawn from USAF service in 1956, lingering with ANG units until 1959.
+
+The definitive straight-wing F-84 was the '''F-84G''' which entered service in 1951. The aircraft introduced a refueling boom receptacle in the left wing, [[autopilot]], [[Instrument Landing System]], J35-A-29 engine with 5,560&nbsp;pound-force (24.7&nbsp;kN) of thrust, and the ability to carry a single [[Mark 7 nuclear bomb]].<ref name="knaack"/> The F-84G was retired from USAF in the mid-1960s.
+
+===Flying the Thunderjet===
+Typical of most early jets, the Thunderjet's takeoff performance left much to be desired. In hot Korean summers with a full combat load, the aircraft routinely required 10,000&nbsp;feet (3,000&nbsp;m) of runway for takeoff even with the help of [[JATO|RATO]] bottles (two or four of these were carried, each producing 1,000&nbsp;pound-force (4.4&nbsp;kN) of thrust for 14 seconds).<ref name="knaack"/> All but the lead aircraft had their visibility obscured by the thick smoke from the rockets. Early F-84s had to be pulled off the ground at 140&nbsp;knots (160&nbsp;mph, 260&nbsp;km/h) with the control stick held in the rearmost position. Landings happened at a similar speed (for comparison, the [[P-51 Mustang]] landed at approximately 100&nbsp;knots (120&nbsp;mph, 190&nbsp;km/h)). Despite the "hot" landing speeds, the Thunderjet was easy to fly on instruments and crosswinds did not present much of a problem.<ref name="Higham">Higham, R. and Williams, C. ''Flying Combat Aircraft of USAAF-USAF (Vol.1)''. Rockville, Maryland: Air Force Historical Foundation, 1975. ISBN 0-8138-0325-X.</ref>
+
+Thanks to the thick straight wing, the Thunderjet, which was otherwise blessed with good aerodynamics, rapidly reached its [[Mach number|Mach]] 0.82 limitation at full throttle and low altitude. The aircraft had sufficient power to fly faster but exceeding the Mach limit at low altitudes resulted in a violent pitch-up and structural failure causing the wings to break off.<ref name="Higham"/> Above 15,000&nbsp;feet (4,600&nbsp;m), the F-84 could be flown faster but at the expense of severe buffeting. Fortunately, the airspeed was sufficiently easy control to make safe dive bombing from 10,000&nbsp;[[foot (unit of length)|feet]] (3,000&nbsp;m) possible.<ref name="Higham"/> The top speed limitation proved troublesome against Soviet [[Mikoyan-Gurevich MiG-15]]s in Korea. Slower than the MiG, the F-84 was also unable to turn tightly with a maximum instantaneous-turn load of only 3&nbsp;Gs followed by rapid loss of airspeed. One F-84E pilot credited with two MiG kills achieved his second victory by intentionally flying his aircraft into pitch-up.<ref name="Higham"/> The MiGs chasing him were unable to follow the violent maneuver and one crashed into the ground. Luckily for the pilot, the aircraft did not disintegrate but the airframe did suffer heavy warping. The F-84 was a stable gun platform and the computing gunsight aided in accurate gunnery and bombing. Pilots praised the aircraft for Republic's legendary ruggedness.<ref name="Higham"/>
+
+Pilots nicknamed the Thunderjet "The Lead Sled."<ref name="McLaren"/> It was also called "The Iron Crowbar," "a hole sucking air," "The Hog " ("The Groundhog"), and "The World's Fastest Tricycle" as a testament to its long takeoff rolls.<ref name="McLaren"/>  F-84 lore stated that all aircraft were equipped with a "sniffer" device that, upon passing [[V speeds|''V''<sub>2</sub>]], would look for the dirt at the end of the runway. As soon as the device could smell the dirt, the controls would turn on and let the pilot fly off the ground. In the same vein, it was suggested a bag of dirt should be carried in the front landing gear well. Upon reaching ''V''<sub>2</sub>, the pilot would dump the dirt under the wheels, fooling the sniffer device.<ref name="McLaren"/>
+
+===Korean War===
+The Thunderjet had a distinguished record during the [[Korean War]]. Although the F-84B and F-84C could not be deployed because their J35 engines had a service life of only 40&nbsp;hours, the F-84D and F-84E entered combat with [[27th Fighter Escort Group]] on [[7 December]] [[1950 in aviation|1950]].<ref name="knaack"/> The aircraft were initially tasked with escorting the [[B-29 Superfortress]] bombers. The first Thunderjet air-to-air victory was scored on [[21 January]] [[1951 in aviation|1951]] at the cost of two F-84s.<ref name="McLaren"/> The F-84 was a generation behind the swept-wing Soviet [[Mikoyan-Gurevich MiG-15]] and outmatched, especially when the MiGs were flown by Soviet pilots, and the MiG counter-air mission was soon given to the [[F-86 Sabre]]. Like its famous predecessor, the P-47, the F-84 switched to the low-level interdiction role at which it excelled. 
+
+The F-84 flew a total of 86,408&nbsp;missions, dropping 111,171,000&nbsp;pounds (50,427&nbsp;[[metric ton]]s) of bombs and 12,258,000&nbsp;pounds (5,560&nbsp;metric tons) of [[napalm]].<ref name="McLaren"/> The USAF claimed F-84s were responsible for 60&nbsp;percent of all ground targets destroyed in the war. Notable F-84 operations included the 1952 [[attack on the Sui-ho Dam]]. During the war, the F-84 became the first USAF fighter to utilize [[aerial refueling]]. In aerial combat, F-84 pilots were credited with eight&nbsp;MiG-15 kills against a Soviet-claimed loss of 64&nbsp;aircraft. The total losses were 335&nbsp;F-84D, E and G models.<ref name="McLaren"/>
+
+===Notable achievements<ref name="knaack"/>===
+* The F-84 was the first aircraft flown by the [[U.S. Air Force Thunderbirds]], which operated F-84 G Thunderjets from 1953 to 1955 and F-84 F Thunderstreaks from 1955 to 1956. The F-84E was also flown by the [[Skyblazers]] team of [[United States Air Forces Europe]] (USAFE) from 1950 to 1955.
+*On [[7 September]] [[1946]], the second XP-84 prototype set a national speed record of 607.2 mph&nbsp; (527.6&nbsp;knots, 977.2&nbsp;km/h), a bit slower than the world record 612.2&nbsp;mph (532.0&nbsp;knots, 985.2&nbsp;km/h) held by the British [[Gloster Meteor]].
+*On [[22 September]] [[1950]], two EF-84Es flew across the [[Atlantic Ocean|North Atlantic]] from Great Britain to United States. One aircraft ran out of fuel over [[Newfoundland and Labrador|Newfoundland]] but the other successfully made the crossing which took 10 hours 2 minutes and three aerial refuelings. The flight demonstrated that large numbers of fighters could be rapidly moved across the Atlantic.
+*F-84G was the first fighter with built-in aerial refueling capability and the first single-seat aircraft capable of carrying a nuclear bomb.
+*On [[20 August]] [[1953]], 17 F-84Gs utilizing aerial refueling flew from United States to United Kingdom. The 4,485&nbsp;mile (3,900&nbsp;nmi, 7,220&nbsp;km) journey was the longest-ever nonstop flight by jet fighters.
+
+By the mid-1960s, the F-84/F-84F was replaced by the [[F-100 Super Sabre]] and the RF-84F by the [[F-101 Voodoo|RF-101 Voodoo]] in USAF units, being relegated to duty in the [[Air National Guard]]. The last F-84F Thunderflash retired from the ANG in [[1971 in aviation|1971]]. Three [[Hellenic Air Force]] RF-84Fs that were retired in [[1991]] were the last operational F-84s.
+
+===Costs===
+''The costs are in approximately 1950 [[United States dollar]]s and have not been adjusted for inflation.''<ref name="knaack"/>
+<!-- Approximately an eight-fold increase from 1950 to 2005 -->
+{|class="wikitable"
+!||F-84B||F-84C||F-84D||F-84E||F-84G||F-84F||RF-84F
+|-
+|Airframe||||||139,863||139,863||150,846||562,715||482,821
+|-
+|Engine||||||41,654||41,654||41,488||146,027||95,320
+|-
+|Electronics||||||7,165||7,165||4,761||9,623||21,576
+|-
+|Armament||||||23,559||23,559||37,433||41,713||63,632
+|-
+|Ordnance||||||||||2,719||9,252||4,529
+|-
+|Flyaway cost||286,407 for the first 100<br/>163,994 for the next 141||147,699||212,241||212,241||237,247||769,300||667,608
+|-
+|Cost per flying hour||||||||||||390||
+|-
+|Maintenance cost per flying hour||||||||||||185||185
+|}
+
+==Variants==
+===Straight-wing variants===
+;XP-84:The first two prototypes.
+;XP-84A:The third prototype with a more powerful J35-GE-15 engine.
+;YP-84A:Service test aircraft; 15 built.
+;P-84B (F-84B):First production version, J35-A-15 engine; 226 built.
+;EF-84B:Two F-84Bs converted into parasite fighters to be attached to the wingtips of an ETB-29 bomber as part of [[FICON project|Project Tom-Tom]].
+;F-84C:Reverted to the more reliable J35-A-13 engine, improved fuel, hydraulic and electrical systems; 191 built.
+;F-84D:J35-A-17 engine, various structural improvements. The [[pitot tube]] was moved from the tail fin to the splitter in the air intake with fins added to the wingtip fuel tanks; 154 built.
+;F-84E:J35-A-17D engine, [[Sperry Corporation|Sperry]] [[AN/APG-30]] radar-ranging gunsight, fuselage stretched 12 in (30 cm) to enlarge the cockpit, retractable attachements for [[JATO|RATO]] bottles, inboard wing hardpoints made "wet" to permit carrying an additional pair of 230 US gal (885 L) fuel tanks. Can be distinguished from earlier models by the presence of two fuel vents on ventral rear fuselage. Most aircraft were retrofitted with F-84G-style reinforced canopies; 843 built.
+;EF-84E:Two F-84Es were converted into test prototypes, to test various methods of air-to-air refuelling.
+;F-84G:Single-seat fighter-bomber capable of delivering the [[Mark 7 nuclear bomb]] using the LABS, J35-A-29 engine, autopilot, capable of in-flight refueling using both the boom (receptacle in left wing leading edge) and drogue (probe fitted to wingtip fuel tanks), introduced the multi-framed canopy which was later retrofitted to earlier straight-winged F-84s. 3,025 built (1,936 for [[NATO]] under MDAP).
+;EF-84G:[[Zero length launch]] version for point defense, used the booster rocket from [[MGM-1 Matador]] cruise missile, did not enter production.
+;F-84KX:80 ex-USAF F-84Bs converted into target drones for the [[United States Navy]].
+
+===Swept-wing variants===
+{{main|F-84F Thunderstreak|XF-84H Thunderscreech}}
+;YF-84F : Two swept-wing prototypes of the F-84F, initially designated '''YF-96'''.
+;F-84F Thunderstreak : [[Swept wing]] version with [[Wright J65]] engine.
+;RF-84F Thunderflash:Reconnaissance version of the F-84F, 715 built.
+;XF-84H Thunderscreech : experimental supersoninc-turboprop version 
+;YF-84J : 2 conversions with the [[General Electric J73]] engine.
+
+==Operators==
+[[Image:F-84 Portugues.jpg|thumb|Portuguese Air Force F-84 Thunderjet.]]
+;{{BEL}}
+*[[Belgian Air Force]]
+;{{ROC}}
+*[[Chinese Nationalist Air Force]]
+;{{DNK}}
+*[[Danish Air Force]]
+;{{FRA}}
+*[[French Air Force]]
+;{{GER}}
+*[[German Air Force]]
+;{{flag|Greece|old}}
+*[[Hellenic Air Force]]
+;{{flag|Iran|1925}}
+*[[Imperial Iranian Air Force]]
+;{{ITA}}
+*[[Italian Air Force]]
+;{{NLD}}
+*[[Netherlands Air Force]]
+;{{NOR}}
+*[[Norwegian Air Force]]
+;{{POR}}
+*[[Portuguese Air Force]]
+;{{THA}}
+*[[Royal Thai Air Force]]
+;{{TUR}}
+*[[Turkish Air Force]]
+;{{USA}}
+*[[United States Air Force]]
+;{{YUG}}
+*[[Yugoslavian Air Force]]
+
+==Specifications (F-84G Thunderjet)==
+{{aircraft specifications
+<!-- if you do not understand how to use this template, please ask at [[Wikipedia talk:WikiProject Aircraft]] -->
+
+<!-- please answer the following questions -->
+|plane or copter?=plane
+|jet or prop?=jet
+
+|ref=Encyclopedia of US Air Force Aircraft and Missile Systems<ref name="knaack"/>
+
+<!-- Now, fill out the specs.  Please include units where appropriate (main comes first, alt in parentheses). 
+If an item doesn't apply, like capacity, leave it blank. For additional lines, end your alt units with a right parenthesis ")" and start a new, fully-formatted line beginning with an asterisk "*" -->
+
+|crew=1
+|length main=38 ft 1 in
+|length alt=11.60 m
+|span main=36 ft 5 in
+|span alt=11.10 m
+|height main=12 ft 7 in
+|height alt=3.84 m
+|area main=260 ft²
+|area alt=24 m²
+|empty weight main=11,470 lb
+|empty weight alt=5,200 kg
+|loaded weight main=18,080 lb
+|loaded weight alt=8,200 kg
+|max takeoff weight main=23,340 lb
+|max takeoff weight alt=10,590 kg
+
+|engine (jet)=[[Allison J35]]-A-29
+|type of jet=[[turbojet]]
+|number of jets=1
+|thrust main=5,560 lbf
+|thrust alt=24.7 kN
+
+|max speed main=622 mph
+|max speed alt=540 knots, 1,000 km/h
+|cruise speed main=475 mph
+|cruise speed alt=413 knots, 770 km/h
+|range main=1,000 mi
+|range alt=870 nmi, 1,600 km
+|range more=combat
+|ferry range main=2,000 mi
+|ferry range alt=1,700 nmi, 3,200 km
+|ferry range more=with external tanks
+|ceiling main=40,500 ft
+|ceiling alt=12,350 m
+|climb rate main=3,765 ft/min
+|climb rate alt=19.1 m/s
+|loading main=70 lb/ft²
+|loading alt=342 kg/m²
+|thrust/weight=0.31 lbf/lb
+|armament=
+*6× [[.50 BMG|.50 in (12.7 mm)]] [[M2 Browning machine gun|Browning M3]] machine guns, 300 rounds/gun
+*Up to 4,450 lb (2,020 kg) of rockets and bombs, including one [[Mark 7 nuclear bomb]]
+
+|avionics=
+*A-1CM or A-4 gunsight with APG-30 or MK-18 ranging radar
+
+}}
+
+==References==
+;Notes
+{{reflist}}
+;Bibliography
+{{refbegin}}
+*Bowers, PM, Angellucci, E. ''The American Fighter''. New York: Orion Books, 1987. ISBN 0-517-56588-9.
+*Donald, David and Lake,  Jan, eds. ''Encyclopedia of World Military Aircraft''. London: AIRtime Publishing, 1996. ISBN 1-880588-24-2.
+*Forrer, F.''The Fun of Flying''. Hollands Glory, 1992 ISBN 0-9714490-3-1.
+*Keaveney, K. ''Republic F-84/Swept-Wing Variants (Aerofax Minigraph, No 15)''. London: Aerofax. 1987. ISBN 0-942548-20-5.
+*Swanborough, Gordon and Bowers, Peter. ''United States Military Aircraft Since 1909''. Washington, DC: Smithsonian, 1989. ISBN 0-87474-880-1.
+*Wagner, Ray. ''American Combat Planes, Third Enlarged Edition''. New York: Doubleday, 1982. ISBN 0-385-13120-8.
+{{refend}}
+
+==External links==
+*[http://www.f84thunderjet.com/ F-84 Thunderjet]
+*[http://www.edwards.af.mil/gallery/html_pgs/f-84-1.htm Edwards Air Force base F-84 site]
+
+==Related content==
+{{Commons|F-84 Thunderjet}}
+{{aircontent|
+
+|related=
+* [[F-84F Thunderstreak]] 
+* [[XF-84H Thunderscreech]]
+* [[XF-91 Thunderceptor]]
+
+|similar aircraft=
+*[[Dassault Ouragan]]
+*[[de Havilland Venom]]
+*[[Gloster Meteor]]
+*[[F9F Panther|Grumman F9F Panther]]
+*[[F9F Cougar|Grumman F9F Cougar]]
+
+|sequence=
+*''Pre-1948 USAAC/F:'' 
+** [[Convair XP-81|XP-81]] - [[F-82 Twin Mustang|P-82]]  - [[Bell XP-83|XP-83]] - P-84 - [[XF-85 Goblin|XP-85]] - [[F-86 Sabre|P-86]] - [[XF-87 Blackhawk|XP-87]]
+*''Post-1948 USAF:''
+** [[Consolidated Vultee XP-81|F-81]]  - [[F-82 Twin Mustang|F-82]] - [[Bell XP-83|XF-83]] - '''F-84''' - [[XF-85 Goblin|XF-85]] - [[F-86 Sabre|F-86]] - [[XF-87 Blackhawk|XF-87]]
+
+|lists=
+
+|see also=
+}}
+
+[[Category:Jet aircraft]]
+[[Category:Korean War aircraft]]
+[[Category:United States fighter aircraft 1940-1949]]
+
+[[de:Republic F-84]]
+[[el:F-84 Thunderjet]]
+[[fa:اف-۸۴ تاندرجت]]
+[[fr:F-84 Thunderjet]]
+[[it:Republic F-84]]
+[[nl:Republic F-84 Thunderjet]]
+[[ja:F-84 (戦闘機)]]
+[[no:Republic F-84 Thunderjet]]
+[[pl:Republic F-84 Thunderjet]]
+[[pt:F-84 Thunderjet]]
+[[ru:Republic F-84 Thunderjet]]
+[[fi:F-84 Thunderjet]]
+[[vi:F-84 Thunderjet]]

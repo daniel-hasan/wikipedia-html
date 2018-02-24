@@ -1,0 +1,64 @@
+[[Image:Soc-psych-scope.gif|275px|thumb|right|The scope of social psychological research. Adapted from Cote and Levine (2002).]]
+'''Social psychology''' is the study of how social conditions affect human beings. Scholars in this field are generally either [[psychology|psychologists]] or [[sociology|sociologists]], though all social psychologists employ both the [[individual]] and the [[group (sociology)|group]] as their [[Unit of analysis|units of analysis]].  Despite their similarity, the disciplines also tend to differ in their respective goals, approaches, methods, and terminology. They also favor separate [[academic journals]] and [[learned society|societies]]. 
+
+Like [[biophysics]] and [[cognitive science]], social psychology is an [[interdisciplinary]] area. The greatest period of collaboration between sociologists and psychologists was during the years immediately following World War II (Sewell, 1989). Although there has been increasing isolation and specialization in recent years, some degree of overlap and influence remains between the two disciplines.
+
+==Psychology==
+:''Main Article:'' '''[[Social psychology (psychology)]]'''
+
+Most social psychologists are trained within psychology. Their approach to the field focuses on the individual, and attempts to explain how the [[thought]]s, [[feeling]]s, and [[behavior]]s of individuals are influenced by other people. Psychologically oriented researchers emphasize the immediate social situation, and the interaction between person and situation variables. Their research tends to be highly [[empirical]] and quantitative, and it is often centered around laboratory [[experiment]]s.
+
+Psychologists who study social psychology are interested in such topics as attitudes, social cognition, [[cognitive dissonance]], social influence, and interpersonal behaviors such as altruism and aggression. Two influential journals for the publication of research in this area are the ''[[Journal of Personality and Social Psychology]]'', and the ''[[Journal of Experimental Social Psychology]]''. There are also many other general and specialized social psychology journals.
+
+==Sociology==
+:''Main Article:'' '''[[Social psychology (sociology)]]'''
+
+A significant number of social psychologists are sociologists. Their work has a greater focus on the behavior of the [[group (sociology)|group]], and thus examines such phenomena as [[Symbolic interactionism|interactions]] and [[Social exchange theory|exchanges]] at the micro-level, [[group dynamics]] and [[group development]], and [[Crowd psychology|crowds]] at the [[macroscopic|macro]]-level. Sociologists are interested in the individual, but primarily within the context of larger social structures and processes, such as social roles, race and class, and socialization. They use a combination of qualitative research designs and highly quantitative methods, such as procedures for sampling and surveys.
+
+Sociologists in this area are interested in a variety of demographic, social, and cultural phenomena. Some of their major research areas are social inequality, group dynamics, social change, socialization, social identity, reactance ([[Boomerang effect]]), and symbolic interactionism. The key sociological journal is ''Social Psychology Quarterly''.
+
+==References==
+*Cote, J. E. & Levine, C. G. (2002). ''[[Identity formation, agency, and culture]]''. Mahwah, New Jersey: Lawrence Erlbaum Associates. 
+*Sewell, W. H. (1989). Some reflections on the golden age of interdisciplinary social psychology. ''Annual Review of Sociology'', Volume 15. i
+
+==See also==
+*[[List of social psychologists]]
+
+[[Category:Social psychology| ]]
+[[Category:Branches of psychology]]
+[[Category:Psychology]]
+[[Category:Sociology]]
+[[Category:Social sciences]]
+[[Category:Human behavior]]
+
+[[af:Sosiale sielkunde]]
+[[ar:علم النفس الاجتماعي]]
+[[bs:Socijalna psihologija]]
+[[bg:Социална психология]]
+[[cs:Sociální psychologie]]
+[[da:Socialpsykologi]]
+[[de:Sozialpsychologie]]
+[[es:Psicología social]]
+[[fr:Psychologie sociale]]
+[[gl:Psicoloxía social]]
+[[hr:Socijalna psihologija]]
+[[is:Félagssálfræði]]
+[[it:Psicologia sociale]]
+[[he:פסיכולוגיה חברתית]]
+[[lt:Socialinė psichologija]]
+[[hu:Szociálpszichológia]]
+[[mk:Социјална психологија]]
+[[nl:Sociale psychologie]]
+[[ja:社会心理学]]
+[[no:Sosialpsykologi]]
+[[pl:Psychologia społeczna]]
+[[pt:Psicologia social]]
+[[ru:Социальная психология]]
+[[sk:Sociálna psychológia]]
+[[sl:Socialna psihologija]]
+[[sr:Социјална психологија]]
+[[sh:Socijalna psihologija]]
+[[fi:Sosiaalipsykologia]]
+[[sv:Socialpsykologi]]
+[[tr:Sosyal psikoloji]]
+[[zh:社会心理学]]

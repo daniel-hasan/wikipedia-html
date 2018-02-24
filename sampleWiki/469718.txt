@@ -1,0 +1,94 @@
+<!--This article uses the Cite.php citation mechanism. If you would like more information on how to add references to this article, please see http://meta.wikimedia.org/wiki/Cite/Cite.php (Please format according to [[:Template:Cite web]], and [[Wikipedia:Citing sources]])-->{{Infobox Skyscraper
+|building_name=AT&T Corporate Center
+|image=[[Image:P6110099.jpg|200px]]<br><small>View from above
+|location=227 West Monroe Street<br/>[[Chicago]], [[Illinois]]
+|antenna_spire=1,007 ft (307 m)
+|roof=886 ft (270 m)<ref name=NCS>{{cite web|url=http://www.newcityskyline.com/ATTCorporateCenter.html|accessmonthday=April 4 |accessyear=2007|publisher=NewcitySkyline, Inc.|date=2006|title=AT&T Corporate Center}}</ref>
+|top_floor=827 ft (252 m)
+|floor_count=60 aboveground<br/>2 belowground
+|Use=Mixed
+|construction_period=September 1986-April 1989
+|floor_area=158,000 m²<br/>1.7 million sq. ft.
+|developer=[[AT&T Co./Stein & Company]]
+|architect=[[Adrian D. Smith (S.O.M)]]
+|contractor=[[Stein & Company]] (Now Mesirow Stein)
+}}
+The '''AT&T Corporate Center''' is the [[List of tallest buildings in Chicago|4th tallest]] completed [[skyscraper]] in [[Chicago]] in [[Cook County, Illinois|Cook County]], [[Illinois]], [[United States]] and the [[List of tallest buildings in the United States|9th tallest in the United States]] at a height of 1,007 [[foot (unit of length)|ft]] (307 [[metre|m]]) containing 60 [[floor]]s.<ref name=SPD>{{cite web|url=http://skyscraperpage.com/diagrams/?c4|accessmonthday=April 4 |accessyear=2007|publisher=SkyscraperPage.com|title=Chicago diagram|date=2007}}</ref> Completed in 1989, the 1.7 million square foot (158,000 m²) [[supertall]] building stands two blocks east of the [[Chicago River]] and northeast of the [[Sears Tower]] at 227 West Monroe Street (100 South Franklin alternate address)<ref name=AoCL>Steiner, Frances H. "The Architecture of Chicago's Loop", 1998, Sigma Press</ref> in the [[Chicago Loop|Loop]] [[Community areas of Chicago|community area]] of downtown Chicago.<ref name=SS>{{cite web|url=http://www.skyscrapercity.com/showthread.php?t=5412|accessmonthday=April 5 |accessyear=2007|date=2002-10-09|author=D-Mac|title=AT&T Corporate Center, Chicago|publisher=Jelsoft Enterprises Ltd.}}</ref> Composed of retail and commercial office space, the tower is the tallest building constructed in Chicago in the last quarter of the 20th century.<ref name=Emp/><ref name=SP>{{cite web|url=http://skyscraperpage.com/cities/?buildingID=37|accessmonthday=April 4 |accessyear=2007|publisher=SkyscraperPage.com|title=AT&T Corporate Center|date=2007}}</ref> The building was built to consolidate [[American Telephone & Telegraph Company]] central regional headquarters offices.<ref name=MF>{{cite web|url=http://www.mesirowfinancial.com/pdfs/realestateprojects/att_usg.pdf|accessmonthday=April 5 |accessyear=2007|publisher=Mesirow Financial|title=AT&T Corporate Center/USG Building|date=|author=}}</ref>
+
+==History==
+In 1982, the American Telephone & Telegraph Company [[monopoly]] was dissolved by the court ordered divestiture of local phone companies. In the decade that followed, AT&T erected new buildings across the country including the [[AT&T Building]] in [[New York City]].<ref name=TStL>Saliga, Pauline A. (ed.), "The Sky's The Limit," pg. 278, 1990 (1992 reprint), Rizzoli International Publications, Inc.</ref>  On [[April 5]], [[1985]], AT&T issued a [[Request for Proposal|request for proposals]] that produced eleven respondents.<ref name=TStL> </ref> Stein and Co., the winning realtor, sought Skidmore, Owings and Merrill as designers for the purpose of distinguishing a proposal from the nearby Sears Tower. On [[April 3]], [[1989]], AT&T employees began to occupy the office space.<ref name=TStL> </ref>
+
+The building was built under a self-imposed comprehensive minority contracting and affirmative action package that met the city's 1985 30% hiring rule for public sector projects.<ref name=CCB19870323>{{cite web|url=http://proquest.umi.com/pqdweb?did=5454770&Fmt=3&clientId=11417&RQT=309&VName=PQD|title=Private Projects Echoing City's Hiring Quotas|author=Bayard, Aleen Z.|accessdate=2007-04-23|date=1987-03-23|publisher=ProQuest Information and Learning Company|work=Crain's Chicago Business}}</ref>  [[Chicago Mayor]] [[Harold Washington]]'s administration had passed an edict that 30% of the work for public sector projects be set aside for minority and women-owned businesses.<ref name=CCB19870323> </ref>  In a show of support for this rule Stein & Co. and AT&T adopted the rule for their private development.<ref name=CCB19870323> </ref>
+
+==Architecture==
+[[Image:20070415 AT&T Corporate Center.JPG|thumb|left|125px|AT&T Corporate Center and [[USG Building]]]]
+Designed by [[Adrian D. Smith (S.O.M)|Adrian D. Smith]] of [[Skidmore, Owings & Merrill]],<ref name=Emp/> the AT&T Corporate Center, named after [[AT&T]], is one of the most famous and recognized buildings in Chicago. The building's form features [[setback (architecture)|setbacks]] at the 15th, 30th and 45th floors, evolving from the pagoda shape of the same architect's [[Jin Mao Building]] in [[Shanghai]].<ref name=Emp>{{cite web|url=http://www.emporis.com/en/wm/bu/?id=117417 Emporis listing|accessmonthday=April 4 |accessyear=2007|publisher=Emporis|date=2007|title=AT&T Corporate Center}}</ref> Designed in the [[Postmodern architecture|postmodern architectural]] style, it is a [[granite]]-clad steel-framed building resting on [[pile]] foundations.<ref name=SP /> The structure is characterized by strong vertical lines, spiked roof pinnacles, granite cladding and setbacks.<ref name=AIA>''AIA Guide to Chicago'', 2nd edition, Alice Sinkevitch, ed., 2004, Harcourt Books Inc., pg. 86.</ref> The granite is a deep red color at the base, but changes shade to rose-beige at the top.<ref name=AIA /> Above the 5th floor, the lighter rose-beige granite is protected by silk-screened aluminum panels.<ref name=AoCL /> The building relies on [[Gothic architecture|Gothic]] detailing to showcase verticality.<ref>Saliga, Pauline A. (ed.), "The Sky's The Limit," pg. 287, 1990 (1992 reprint), Rizzoli International Publications, Inc.</ref> The building's verticality evokes images of 1920s buildings, and the sturdiness of the structure is reminiscent of the [[Chicago Board of Trade Building]].<ref name=TStL /> In addition to its design, the building relies on its location at the farthest corner from the Sears Tower to set it apart.<ref name=TStL />
+
+===Interior===
+The [[Otis Elevator Company|Otis elevators]] are spanned by series of neo-deco light bands extending wall to wall.<ref name=Emp /> The [[lobby (room)|lobby]] extends completely through the block, with a giant entrance hall at Monroe Street and a 16-story full-height [[atrium (architecture)|atrium]] in the link between the AT&T and USG towers (also designed by Smith)<ref name=Emp /> as both towers share a common appearance.<ref name=Emp /> The building boasts two public lobbies and a mezzanine-level lobby.<ref name=MF /> The lobbies are among the most lavish in Chicago, and they are all decorated with patterned [[marble]] floors and walls, [[bronze]], gold-leaf oak trim, and stylized [[lighting]] fixtures.<ref name=Emp /><ref name=MF />
+
+===Features===
+The building features an elaborate 60th floor conference center, a lobby-level 650-seat restaurant, a {{convert|23000|sqft|sqm|sing=on}} retail concourse on two levels, and a 170-car 24-hour parking facility on the lower two levels.<ref name=MF /><ref name=SS /> The building [[lobby]] extends all the way through the block to connect with the nearby [[USG Building]]. An [[atrium]] links between them. [http://www.emporis.com/en/wm/bu/?id=attcorporatecenter-chicago-il-usa]
+
+==Exterior lighting==
+As with other downtown buildings, the tower's setbacks and spires are accented by colored lights at night.<ref name=Emp /> The building's managers were praised for dimming their lights during bird migrations, reducing bird mortality 80%.<ref name=LOAud>{{cite web|url=http://lightsout.audubon.org/docs/September%2030%20release.doc
+|accessdate=September 1|accessyear=2007|publisher=audubon.org|title=Bird groups praise Chicago skyscrapers for "Lights Out"|date=}}</ref>
+
+==USG Building==
+The [[USG Corporation]] developed the 35-story {{convert|1100000|sqft|sqm|sing=on}} [[USG Building]] as its corporate headquarter building immediately adjacent to and connected to the AT&T Corporate Center in 1992.<ref name=MF /><ref name=SS /><ref>{{cite web|url=http://www.chi-athenaeum.org/land/land4.htm#|accessdate=April 7|accessyear=2007|title=Landmark Chicago|publisher=The Chicago Athenaeum|date=2001}}</ref> It is located at 125 South Franklin Street.<ref name=AoCL /><ref name=AIA /> The same developers, architects and design teams were chosen, and the two buildings were built jointly as a block long two building complex on an {{convert|85000|sqft|sqm|sing=on}} site.<ref name=SS /> They share a 16-story atrium which houses a grand arcade and serves as a common base to the two separate towers.<ref name=MF />
+
+==Proximity to transit==
+Positioned near the southwest corner of the Loop, the building is near two elevated stations of the [[Chicago 'L']]. The [[Quincy (CTA)|Quincy station]] is one block to the south and the [[Washington/Wells (CTA)|Washington and Wells station]] is located two blocks to the north, both on Wells Street. [[Union Station (Chicago)|Union Station]] stands three blocks to the west on Jackson Boulevard, providing [[terminal station|terminal service]] for [[Amtrak]] and select service for [[Metra]]. Additional Metra service is provided at the [[LaSalle Street Station]], four blocks to the south.
+
+==Awards==
+* 1990 - Award of Excellence for Urban Development, from the Chicago Chapter of the National Association of Industrial and Office Properties<ref name=NCS />
+* 1992 - Best New Building, from the Chicago civic group Friends of Downtown<ref name=NCS />
+* 1997 - Most Valuable Property National Top Ten, from ''[[The Wall Street Journal]]''<ref name=NCS />
+* 1998 - Prix d'Excellence, Office Properties Worldwide, from FIABCI International<ref name=NCS />
+
+==Position in Chicago's skyline==
+The Center is the 4th tallest completed building in Chicago, trailing the [[Sears Tower]], [[Aon Center (Chicago)|Aon Center]] and [[John Hancock Center]] in height, but will be surpassed in height by the [[Chicago Spire]], [[Trump International Hotel & Tower]] and the [[Waterview Tower]] should each be completed as planned.<ref name=SPD /> The building's official height measurement increased to from {{convert|886|ft|m}} to {{convert|1007|ft|m}} when the [[Council on Tall Buildings and Urban Habitat]] changed measurement conventions to include ornamental spires during the Sears Tower - [[Petronas Tower]] height controversy.<ref name=Emp />  
+{{wide image |Chicago Skyline Crop Labeled 2560 ver2.jpg|1700px|}}
+
+==See also==
+*[[List of buildings]]
+*[[List of tallest buildings in the world]]
+*[[List of tallest buildings in the world by continent]]
+*[[List of tallest buildings in Chicago]]
+*[[List of tallest buildings in the United States]]
+*[[List of tallest buildings and structures in the world]]
+*[[List of tallest buildings and structures in the world by country]]
+*[[List of tallest structures in the world]]
+*[[List of tallest structures in the world by type of use]]
+*[[List of tallest structures in the United States]]
+
+==External links==
+{{Geolinks-US-streetscale|41.880681|-87.634184}}
+
+==Notes==
+{{reflist|2}}
+
+{{Chicago}}
+{{Supertall skyscrapers}}
+{{Chicago Skyscrapers}}
+
+{{DEFAULTSORT:At&t Corporate Center}}
+[[Category:1989 architecture]]
+[[Category:AT&T]]
+[[Category:Skyscrapers between 300 and 349 meters]]
+[[Category:Skyscrapers in Chicago]]
+
+[[bg:Корпоративен център на АТ&Т]]
+[[de:AT&T Corporate Center]]
+[[es:AT&T Corporate Center]]
+[[fr:AT&T Corporate Center]]
+[[lt:AT&T Corporate Center]]
+[[nl:AT&T Corporate Center]]
+[[ja:AT&T・コーポレートセンター]]
+[[pl:AT&T Corporate Center]]
+[[pt:AT&T Corporate Center]]
+[[ro:AT&T Corporate Center]]
+[[ru:Здание корпорации AT&T]]
+[[fi:AT&T Corporate Center]]
+[[tr:AT&T Şirket Merkezi]]
+[[zh:美國電話電報企業中心]]

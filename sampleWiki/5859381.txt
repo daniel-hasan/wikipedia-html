@@ -1,0 +1,114 @@
+<!-- This article is a part of [[Wikipedia:WikiProject Aircraft]]. Please see [[Wikipedia:WikiProject Aircraft/page content]] for recommended layout. -->
+{{infobox Aircraft
+  |name =Fokker F24
+  |type =Airliner
+  |manufacturer =[[Fokker]]
+  |image =Image:Fokker F24.jpg
+  |caption =
+  |designer =
+  |first flight = 
+  |introduced =
+  |produced =
+  |retired =
+  |status =
+  |primary user = 
+  |more users =
+  |number built =
+  |unit cost =
+  |developed from = 
+  |variants with their own articles =
+}}
+The '''Fokker F24''' was a pre-war passenger airliner design by the [[Netherlands|Dutch]] [[aircraft]] manufacturer, [[Fokker]].
+
+==History==
+Due to the success of Douglas' [[Douglas DC-3|DC-3]], Fokker's role in the global market for passenger aircraft was severely diminished.  Whereas [[KLM]] was historically an important customer to Fokker, even they turned to other suppliers.  When in 1938 KLM ordered the [[Douglas DC-5]] in the USA and showed interest in the [[Douglas DC-4|DC-4C]], Fokker realised it had to come to terms with the new era. 
+
+In an attempt to revive the glory days, Fokker finally adopted an all-metal approach with a new design, dubbed Model 193.  Intended to replace the obsolete and outdated F22 and F36 models, Fokker had to use new technologies instead of designs based on wooden wings and few metal parts in the fuselage.  Later on this model became known as the F24.
+
+Whereas [[KLM]] was state-owned, Fokker used its political influence to force a sale from KLM.  Finally in October 1939, KLM ordered four F24s.  This sale was part of a broader package which also comprised of the [[Douglas DC-4]]C, the [[Lockheed Corporation|Lockheed]] 44 Excalibur and another Fokker design known as Model 180.
+
+The F24 as it was proposed, was a short-range all-metal twin-engine passenger aircraft.  It was supposed to be powered by two [[Wright Cyclone]] radial engines of 1600 hp each.  Its [[fuselage]] was designed for 26 passengers.  The single aisle [[Cabin (aircraft)|cabin]] layout had eight rows of two abreast on the right and eight rows of a single seat on the left.  A cargo bay was put between the passenger cabin and the [[cockpit]].  This cockpit had a layout for a crew of four.  In the middle of the passenger cabin was a [[Galley (kitchen)|galley]].  At the aft side of the cabin was a [[Washroom|toilet]] with another cargo bay.
+
+Although KLM ordered four aircraft, the project never materialised as [[World War II]] broke out.  During the war, design work was continued.  After the war, Fokker could not deliver the planes on short notice as its factories were largely destroyed.  Subsequently KLM turned to American suppliers like [[Convair]] and [[Douglas Aircraft Company|Douglas]].  The F24 design attracted no other airlines and the project ended as Fokker turned to more modern designs.
+
+==Retrospect==
+In retrospect the F24 was a direct predecessor of the [[Fokker F27]] Friendship built from the 1950s on.  Its basic design layout was similar with the engine type as the main difference as the F27 had [[turboprop]]s whereas the F24 was designed to have [[radial engine]]s.  The F27 also was considerably larger.
+
+==Specifications (Fokker F24)==
+{{aero-specs}}
+{{aircraft specifications
+<!-- if you do not understand how to use this template, please ask at [[Wikipedia talk:WikiProject Aircraft]] -->  
+|plane or copter?=<!-- options: plane/copter --> plane
+|jet or prop?=<!-- options: jet/prop/both/neither --> prop
+<!-- Now, fill out the specs. Please include units where appropriate (main comes first, alt in parentheses). If an item doesn't apply leave it blank. For instructions on using |more general=, |more performance=, |power original=, and |thrust original= see [[Template talk:Aircraft specifications]]. -->
+|ref=
+|crew= 
+|capacity=
+|length main= 20.70 m
+|length alt= 
+|span main= 28.50 m
+|span alt= 
+|height main= 5.20 m
+|height alt= 
+|area main= 
+|area alt= 
+|airfoil=
+|empty weight main= 8,500 kg
+|empty weight alt= 
+|loaded weight main= 
+|loaded weight alt= 
+|useful load main= <!--kg-->  
+|useful load alt= <!--lb-->  
+|max takeoff weight main= 13,250 kg
+|max takeoff weight alt= 
+|more general=
+    
+|engine (prop)=[[Wright Cyclone]]
+|type of prop= [[radial engine]]s
+|number of props=2
+|power main=1,600 hp
+|power alt= 
+|power original= 
+
+|max speed main= 
+|max speed alt= 
+|cruise speed main= 330 km/h
+|cruise speed alt= <!--knots,mph--> 
+|never exceed speed main= <!--km/h-->  
+|never exceed speed alt= <!--knots,mph--> 
+|stall speed main= <!--km/h-->  
+|stall speed alt= <!--knots,mph--> 
+|range main= 1,200 km
+|range alt= 
+|ceiling main= 
+|ceiling alt=
+|climb rate main= <!--m/s-->  
+|climb rate alt= <!--ft/min-->  
+|loading main= <!--kg/m²-->  
+|loading alt= <!--lb/ft²-->  
+|thrust/weight=<!--a unitless ratio-->  
+|power/mass main= <!--W/kg-->  
+|power/mass alt= <!--hp/lb-->  
+|more performance=
+|armament=
+
+|avionics=
+}}
+
+==References==
+{{reflist}}
+
+==See also==
+*[[Fokker]]
+*[[Fokker F27]]
+*[[Fokker F50]]
+*[[Fokker Model 180]]
+*[[Convair 240]]
+*[[Douglas DC-3]]
+[[Category:Fokker]]
+[[Category:Dutch airliners 1940-1949]]
+[[Category:Propeller aircraft]]
+[[Category:High wing aircraft]]
+[[Category:Multiple engine aircraft]]
+
+[[it:Fokker F24]]

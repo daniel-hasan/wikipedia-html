@@ -1,0 +1,70 @@
+{{French Navy}}
+[[Image:Aeronavale-IMG 1437.jpg|thumb|left|220px|[[Bastille Day Military Parade]] 2006, a [[E-2 Hawkeye]] and 3 [[Dassault Rafale]]]]
+The '''''Aviation navale''''' ([[Naval aviation]]) of the [[French Navy]] includes 162 airplanes (138 of them combat-capable) and 6,800 men, both civilians and military personnel. They operate from six airbases, 5 of them in Metropolitan France and one overseas.
+
+Born as a fusion of carrier squadrons and naval patrol air force, the ''Aviation navale'' was created on the [[19 June]] [[1998]]. The headquarter is under command of an admiral (ALAVIA) in [[Toulon]].
+
+It has four components:
+* The air complements of the aircraft carrier ''[[FS Charles de Gaulle|Charles de Gaulle]]'': [[Rafale]], [[Dassault Super Étendard|Super Étendard]] and [[E-2 Hawkeye]]
+* Naval patrol air units: [[Breguet Atlantique]]
+* On-board helicopters: [[Eurocopter Dauphin|Dauphin]], [[Eurocopter Panther|Panther]], [[Aérospatiale Super Frelon|Super Frelon]], [[Westland Lynx|Lynx]], [[Aérospatiale Alouette III|Alouette III]]
+* Support air units
+
+Carrier-borne pilots of the French navy do their initial training at [[Salon-de-Provence Air Base]], then within the [[US Navy]].
+
+[[Image:Cocarde-aviation-marine.svg|thumb|100px|right|Cocarde of the ''Aviation de Marine''; it is similar to the cocarde of the ''[[Armée de l'Air]]'', with a black anchor superimposed]]
+
+== Aircraft inventory ==
+
+French Naval Aviation operates 224 aircraft, including 60 combat jets and 89 helicopters.  79% of the Navy's aircraft were built in France.
+
+{{Standard table|0}}
+! style="text-align: left; background: #aacccc;"|Aircraft
+! style="text-align: left; background: #aacccc;"|Origin
+! style="text-align: left; background: #aacccc;"|Type
+! style="text-align: left; background: #aacccc;"|Versions
+! style="text-align: left; background: #aacccc;"|In service<ref name="awst_20070115">"World Military Aircraft Inventory", Aerospace Source Book 2007, ''[[Aviation Week & Space Technology]]'', [[January 15]] [[2007]].</ref>
+! style="text-align: left; background: #aacccc;"|Notes
+|-----
+| [[Aérospatiale Alouette III]] || {{FRA}} || utility helicopter || SA 316B<hr>SA 319B || 8<hr>14 || 
+|-----
+| [[Aérospatiale Super Frelon]] || {{FRA}} || transport helicopter || SA 321G || 9 || 
+|-----
+| [[Breguet Atlantique]] || {{FRA}} || maritime patrol || Atlantique 2 || 28 || 
+|-----
+| [[Dassault Falcon 20]] || {{FRA}} || maritime patrol || Falcon 20G Gardian || 5 || 
+|-----
+| [[Dassault Falcon 50]] || {{FRA}} || VIP transport || Falcon 50M || 4 || 
+|-----
+| [[Dassault Rafale]] || {{FRA}} || fighter || Rafale M || 15 (60)|| 
+|-----
+| [[Dassault-Breguet Super Étendard]] || {{FRA}} || attack ||  || 48 || 
+|-----
+| [[Embraer EMB 121 Xingu]] || {{BRA}} || trainer ||  || 12 || 
+|-----
+| [[Eurocopter Dauphin]] || {{FRA}} || naval helicopter || SA 365 || 11 || 
+|-----
+| [[Eurocopter Panther]] || {{FRA}} || naval helicopter || AS 565MA || 16 || 
+|-----
+| [[E-2 Hawkeye|Grumman E-2 Hawkeye]] || {{USA}} || airborne early warning || E-2C || 3 || Navy seeks a fourth
+|-----
+| [[Mudry CAP 10]] || {{FRA}} || trainer || CAP 10B || 8 || 
+|-----
+| [[Nord 262]] || {{FRA}} || transport ||  || 15 || 
+|-----
+| [[Westland Lynx]] || {{UK}} || antisubmarine helicopter || Lynx HAS 4 || 31 || 
+|}
+
+== References ==
+{{Reflist}}
+==External links==
+[[Image:Alouette 3 2.jpg|thumb|left|Markings of the ''Aviation de Marine'' are clearly visible on this [[Aérospatiale Alouette III|Alouette III]].]]
+{{Commons|Category:Aéronavale|Aviation navale}}
+* [http://www.ffaa.net French Fleet Air Arm ], about French naval aviation.
+
+[[Category:French naval components]]
+[[Category:Naval aviation services]]
+
+[[es:Aeronavale]]
+[[fr:Aviation navale]]
+[[it:Aviation navale]]

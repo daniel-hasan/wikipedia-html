@@ -1,0 +1,575 @@
+{| class="infobox bordered" style="width: 250px; font-size: 95%; float: right;" cellpadding="4" cellspacing="0"
+|-
+| bgcolor="#8B0000" align="center" colspan="2" | <font color=f9f9f9> '''Canadian Forces''' <br>''Forces canadiennes''</font> 
+|-
+| align="center" colspan="2" |[[Image:Canadian Forces emblem.svg|100px|]]<br> The tri-service badge
+|-
+| align="center" colspan="2" | '''Military Manpower'''
+|-
+| Availability <br>(males age 16-49)
+| 8,216,510 (2005 est.)<ref name="CIA">[https://www.cia.gov/library/publications/the-world-factbook/geos/ca.html CIA Factbook] - Canada factsheet</ref>
+|-
+| Availability <br>(females age 16-49)
+| 8,034,939 (2005 est.)<ref name="CIA"/>
+|-
+| Fit for military service <br>(males age 16-49)
+| 6,740,490 (2005 est.)<ref name="CIA"/>
+|-
+| Fit for military service <br>(females age 16-49)
+| 6,580,868 (2005 est.)<ref name="CIA"/>
+|-
+| [[Regular Force]] (2005)
+| approx. 62,000<ref name="DND/CF">[http://www.forces.gc.ca/site/about/index_e.asp About DND/CF Who We Are] - Canadian Forces</ref>
+|-
+| [[Primary Reserve]] (including Rangers) (2005)
+| approx. 25,000<ref name="DND/CF"/>
+|-
+| align="center" colspan="2" | '''Military expenditures'''
+|-
+| [[Canadian dollar|Dollar]] figure <br>(FY07/08)
+| CAN$16.9 billion<ref>[http://www.tbs-sct.gc.ca/est-pre/20072008/me-bd/part1/ME-030_e.asp - Expeditures]</ref>
+|-
+| Percent of [[Gross domestic product|GDP]] <br>(FY03/04)
+| 1.1% (128th in 2003)
+|-
+| align="center" colspan="2" | '''Military strength'''
+|-
+| align="center" colspan="2" | [[Image:Canadian Maritime Command.svg|90px]]<br /> [[Canadian Forces Maritime Command|Maritime Command]]
+|-
+| Fleet [[Submarine]]s
+|4
+|-
+| [[Destroyer]]s
+|3
+|-
+| [[Frigate]]s
+|12
+|-
+| [[Patrol boat|Coastal Defence Vessels]]
+|12
+|-
+| [[Replenishment Oiler|Operational Support Ships]]
+|2
+|-
+| align="center" colspan="2" | [[Image:Canadian Land Forces Command Badge.svg|90px]]<br /> [[Canadian Forces Land Force Command|Land Force Command]]
+|-
+| [[Main Battle Tank]]s
+| 66 [[Leopard tank|Leopard C2]], 100 [[Leopard 2]] entering service
+|-
+| [[Infantry fighting vehicle]]s
+| 650+
+|-
+| [[Armoured Personnel Carrier]]s
+| 1,000+
+|-
+| align="center" colspan="2" | [[Image:RCAF-Roundel.svg|90px]]<br /> [[Canadian Forces Air Command|Air Command]]
+|-
+| [[Fighter aircraft|Fighters]]
+| 98<ref>[http://www.airforce.forces.gc.ca/site/equip/cf18/specs_e.asp Air Command - CF-18 Hornet Technical Specifications]</ref>
+|-
+| [[Patrol bomber|Patrol aircraft]]
+| 21
+|-
+| [[Airlift (military)|Transport aircraft]]
+| 83
+|-
+| [[Helicopter]]s
+| 142
+|-
+| [[Trainer (aircraft)|Trainers]]
+| 64
+|-
+| [[Unmanned aerial vehicle|UAVs]]
+| 19
+|}
+
+The '''Canadian Forces''' (CF) ([[French language|French]]: '''''Forces canadiennes''''' [FC]) are the unified [[armed forces]] of [[Canada]], governed by the [[National Defence Act]], which states: "The Canadian Forces are the armed forces of Her Majesty raised by Canada and consist of one Service called the Canadian Armed Forces."<ref>National Defence Act; R.S.C. 1985, c. N-4, s.14</ref>
+
+The Canadian Forces was formed on [[February 1]], [[1968]], when the [[Government of Canada]] merged the [[Royal Canadian Navy]], [[Canadian Army]], and the [[Royal Canadian Air Force]] into a unified structure. Canada remains one of the few developed countries in the world using this model for organizing its military forces.
+
+==Command structure==
+By the [[Constitution of Canada|Canadian Constitution]], the [[Commander-in-Chief of Canadian Forces|Command-in-Chief of the Canadian Forces]] is vested in [[Elizabeth II of the United Kingdom|Elizabeth II]], [[Monarchy of Canada|Queen of Canada]].<ref>[http://www.solon.org/Constitutions/Canada/English/ca_1867.html Constitution Act, 1867]</ref> Since 1904 the monarch has allowed the Canadian [[viceroy]] to exercise the duties ascribed to that post, and since 1905 to hold the title [[Commander-in-Chief]].<ref>[http://www.gg.ca/gg/rr/cc/hist_e.asp Commander-in-Chief of the Canadian Forces].</ref>  The current [[Governor General of Canada|Governor General]] and Commander-in-Chief is [[Michaëlle Jean]].
+{{see|The Canadian Crown and the Canadian Forces}}
+
+Declarations of War must be granted [[Royal Assent]], thus they must be signed by either the [[Monarchy of Canada|Canadian monarch]] or [[Governor General of Canada|Governor General]].  Under the [[Westminster system]]'s parliamentary custom and practice, however, the [[Prime Minister of Canada]], who advises the viceroy or monarch on the exercise of their executive powers, holds ''de facto'' decision-making ability over the deployment and disposition of the Canadian Forces.  The Cabinet officer in charge of the Canadian Forces is the [[Minister of National Defence (Canada)|Minister of National Defence]] (MND), who answers to the Prime Minister.
+
+Below the Crown, the military head of the Canadian Forces is the [[Chief of Defence Staff (Canada)|Chief of Defence Staff]] (CDS), the highest ranking military officer in the nation, who commands the CF from [[Department of National Defence Headquarters (Canada)|National Defence Headquarters]] (NDHQ) in [[Ottawa, Ontario|Ottawa]], [[Ontario]].
+
+The environmental commands of the Canadian Forces, in order of precedence, are: 
+# [[Canadian Forces Maritime Command|Maritime Command]] (MARCOM), or the [[Navy]];
+# [[Canadian Forces Land Force Command|Land Force Command]] (LFC) or the [[Army]]; 
+# [[Canadian Forces Air Command|Air Command]] (AIRCOM), or the [[Air Force]].
+
+The operational commands of the Canadian Forces are:
+* [[Canada Command]] (CANCOM), responsible for all operations within Canada;
+* [[Canadian Expeditionary Force Command]] (CEFCOM), responsible for operations outside of Canada;
+* [[Canadian Special Operations Forces Command]] (CANSOFCOM), responsible for [[special forces]] operations within Canada and abroad.
+* [[Canadian Operational Support Command]] (CANOSCOM)
+
+The sovereign and a number of other members of the [[Monarchy of Canada#Canadian Royal Family|Canadian Royal Family]] act as [[Colonel-in-Chief|Colonels-in-Chief]] of Canadian Forces regiments, though these positions are ceremonial.
+
+==History==
+:''Main Articles: [[History of the Canadian Army]], [[Royal Canadian Navy]], [[Royal Canadian Air Force]]''
+
+=== Early days ===
+Prior to Confederation, local citizens served as regular members of French and British forces and in [[Colonial Militia in Canada|local militia groups]]. Local militias defended their homeland from raids conducted by aboriginals, and British and French invasions, and from American forces during the [[Seven Years' War]], [[American Revolution]], the [[War of 1812]] and in the [[Fenian Raids]].  Consequently, some army units in Canada can derive their lineage to before the War of 1812 when militia units were formed to assist in defending [[British North America]] from invasions by the [[United States]].
+
+Such land forces were organized under the [[Department of Militia and Defence (Canada)|Department of Militia and Defence]] as the Permanent Active Militia and Non-Permanent Active Militia, frequently shortened to simply "the Militia," from 1906-1940.  In 1923 the department was merged into the [[Department of National Defence (Canada)|Department of National Defence]], however land forces in Canada were not termed "the Canadian Army" until November 1940.
+
+Following Confederation in 1867, the responsibility for military forces in Canada remained under British command (the [[Commander-in-Chief, North America]] was headquartered for much of the time at [[Halifax, Nova Scotia|Halifax]]) until the final withdrawal of [[British Army]] and [[Royal Navy]] units at Halifax in 1906.
+
+Following the withdrawal of the Royal Navy in 1906, Canada eventually formed a naval service titled the [[Royal Canadian Navy]].  Similarly, the advent of military aviation saw the establishment of an air force, titled the [[Royal Canadian Air Force]].
+
+The first overseas deployment of Canadian military forces occurred during the [[Second Boer War]] when several Canadian units were raised to serve under [[United Kingdom|British]] command.  This led to subsequent [[Commonwealth of Nations|Commonwealth]] service in the [[First World War|First]] and [[World War II|Second World Wars]] as well as the [[Korean War]].
+
+Canadian soldiers, sailors and aviators came to be considered world-class professionals through conspicuous service during these conflicts, as well as Canada's integral participation in the [[North Atlantic Treaty Organization]] during the [[Cold War]], as well as [[United Nations]] Peacekeeping operations.
+
+Canada's military forces underwent extensive changes and modernization to command structures during the 1960s, culminating in unification of the three services in 1968 to create the Canadian Forces.
+
+=== Operations ===
+The Canadian Forces or its component regiments have served operationally in the [[War of 1812]], the [[Fenian Raids]] (1866-1871), [[North-West Rebellion]] (1885), the [[Second Boer War]] (1899-1902), the [[First World War]], the [[Second World War]], the [[Korean War]], the [[First Gulf War]], the [[Kosovo war]] (1999), and have contributed to UN and other peacekeeping missions and undeclared wars, notably the [[Suez Crisis]], [[Golan Heights]], [[Cyprus]], [[Croatia]], [[Bosnia and Herzegovina|Bosnia]], and [[Afghanistan]]. Canada is a charter member of [[NATO]] and a member of the North American Air Defence treaty ([[NORAD]]).
+
+Battles which are particularly notable to the Canadian military include the [[Battle of Vimy Ridge]] in the First World War and, in the Second World War, the [[Dieppe Raid]], the [[Battle of Ortona]], the [[Battle of Normandy|Normandy Landings]], the Battle for Caen, the [[Battle of the Scheldt]], the [[Battle of Britain]], the [[Second Battle of the Atlantic|Battle of the Atlantic]], and the [[Strategic Bombing During World War II|strategic bombing of German cities]]. The Canadian forces operated under overall British command in all these battles.
+
+At the end of the Second World War, areas of the Netherlands north of the rivers Rhine and Lek were liberated from the Nazi-German occupying forces almost solely by Canadian formations. After restoring law and order they left the countries within several months.
+
+Since 1947, Canadian military units have participated in more than 200 operations worldwide and has completed 72 international operations.{{Fact|date=April 2007}} Currently, more than 3,000 Canadian soldiers, sailors and airmen are deployed overseas on missions with 11 operations including the [[International Security Assistance Force]] in Afghanistan and the [[NATO stabilization force]] (SFOR) in Bosnia-Herzegovina. On any given day, about 8,000 Canadian Forces members - one third of the deployable force - are preparing for, engaged in or returning from an overseas mission.<ref>http://www.forces.gc.ca/site/Operations/current_ops_e.asp</ref>
+
+Canadian regular and reserve troops are active within Canada as well. In 2001 the Canadian Forces responded to more than 8,000 search-and-rescue incidents and helped save the lives of more than 4,500 people.<ref>http://www.forces.gc.ca/site/operations/current_ops_e.asp</ref>
+
+=== Postwar developments ===
+At the end of the Second World War, Canada possessed the third-largest navy and fourth-largest air force in the world, as well as the largest volunteer army ever fielded by Canada. ([[Conscription]] for overseas service was introduced only near the end of the war, and only 2400 conscripts actually made it into battle). Defence spending and troop strengths remained high during the early years of the [[Cold War]], but began to decline in the late 1960s and 1970s as the perceived threat from the [[Warsaw Pact]] diminished. Throughout the 1990s, successive budget cuts forced further reductions in the personnel, number of bases, and fighting ability of the Canadian Forces. Sizable Canadian air and land forces were maintained in West Germany under NATO command from the end of World War II until the early 1990s. There has been criticism of these budget cuts, as [[military spending]] has been reduced to only 1.4% of GDP; many{{Who|date=July 2007}} argue that these cuts have hindered modernization of the Canadian Forces.{{Fact|date=April 2007}}
+
+There has been a move by the recent Conservative Government to purchase new equipment and to expand funding for recruitment and training as well as the re-establishment of an airborne land force, now called the Canadian Special Operations Regiment.
+
+=== Modern reorganization - The "Unification" ===
+[[Image:canadian soldiers afghanistan.jpg|thumb|Canadian soldiers in Afghanistan]]
+The Canadian Forces is a single organization with a unified command structure, making Canada one of the few nations to have such an organization of its military forces.
+
+====Unification controversy====
+
+"The March 1964 [[White Paper on Defence]] outlined a major restructuring of the separate services. The White Paper described a reorganization that would include the integration of operations, logistics support, personnel and administration of the separate services under a functional command system."<ref>http://www.airforce.forces.ca/airfield_engineers/history/history_4_e.htm#integration</ref>
+
+Unification was strongly opposed by personnel in all three services and resulted in the firing of the navy's senior operational commander, Rear Admiral W.M. Landymore, as well as forced retirements of other senior officers in the nation's military forces.<ref>http://www.navalandmilitarymuseum.org/resource_pages/controversies/unification.html</ref>
+
+The protests of service personnel and their superiors failed and on [[February 1]], [[1968]], ''Bill C-243, The Canadian Forces Reorganization Act'' became law and the [[Royal Canadian Navy]] (RCN), the Canadian Army and the [[Royal Canadian Air Force]] (RCAF) were combined into one service - the Canadian Armed Forces, shortened to Canadian Forces.
+
+The public position was that unification was undertaken by the government to achieve cost savings and provide improved command and control and integration of military forces.  Contemporary rhetoric and accusations were made that the Liberal administration of Prime Minister [[Lester B. Pearson]] and his Minister of National Defence [[Paul Hellyer]] did not care for the traditions behind each service, and that the name of the new military force (in Canada's post-war [[Postmodernism|modernist]] fashion) was easily translated to [[French language|French]] and eliminated inconvenient [[monarchist]] references during a contentious period in Canadian history.{{Fact|date=April 2007}}
+
+The reorganization has been criticized, for example by [[J. L. Granatstein]] in ''Who Killed the Canadian Military?'' In particular, the wholesale replacement of traditional naval/army/air force identities with army-style ranks and rifle-green uniforms had done considerable damage to the ''esprit de corps'' of the Canadian Forces.  Paul Hellyer has since admitted that he made a mistake in taking away the distinctive uniforms.{{Fact|date=April 2007}}
+
+The controversy over unification has lessened over the 40 year history of the Canadian Forces, however infrequent protests crop up, largely in English Canada which seeks to reestablish the historic names of the three military services.
+
+On May 17, 2007, an [[online]] petition was issued seeking [[grassroots]] support for the [[Maritime Command (Canada)|Maritime Command]] and [[Air Command (Canada)|Air Command]] to be renamed as the [[Royal Canadian Navy]] and [[Royal Canadian Air Force]], respectively, for the navy's 100th anniversary in 2010.  The proposal does not include a "de-unification" of the forces, instead only seeking that the Air and Maritime Commands be renamed.<ref>[http://www.gopetition.com/online/12281.html Petition to restore the Royal designation to the Canadian navy and Canadian air force]</ref> The petition is to be sponsored by [[Parliament of Canada|Member of Parliament]] [[Laurie Hawn]], himself a former Air Force [[Lieutenant Colonel]].<ref>[http://rcn-rcaf.blogspot.com/ Correspondence with Laurie Hawn, CD, MP]</ref>
+
+====Unification implementation====
+
+On [[February 1]], [[1968]] the CF was composed of six commands, each envisioned to be vertically integrated with the complementary requirements of the other commands:
+
+* [[Canadian Forces Air Defence Command|Air Defence Command]]
+** Provided fighter interceptors and ground-based radar surveillance for defending Canadian and North American airspace under NORAD.
+
+* [[Canadian Forces Air Transport Command|Air Transport Command]]
+** Responsible for strategic airlift of troops and equipment.
+
+* [[Canadian Forces Land Force Command|Mobile Command]]
+** Provided combat-ready land forces and tactical air forces for deployment in defence of Canada, or for NATO or UN missions.  It consisted of former army units, as well as ground attack and tactical airlift aircraft as well as light and heavy transport and assault helicopters, through its Tactical Air Group.
+
+* [[Canadian Forces Maritime Command|Maritime Command]]
+** The only command which maintained its exclusive environmental control following unification (possibly due to protests from senior RCN officers).  Maritime Command also had control of the Maritime Air Group, which provided coastal patrol aircraft, ship-borne anti-submarine helicopters, and fighter interceptors, helicopters and patrol aircraft for Canada's only aircraft carrier, HMCS ''Bonaventure''.
+
+* [[Canadian Forces Materiel Command|Materiel Command]]
+** Provided logistical supply and maintenance services for all units.
+
+* [[Canadian Forces Training Command|Training Command]]
+** Responsible for training personnel serving in all units.
+
+In addition to these commands there were several independent organizations reporting to CF Headquarters:
+
+* Reserve and National Survival
+* Canadian Forces Communications System (CFCS)
+* [[Canadian Forces Europe]] (CFE)
+
+On [[September 1]], [[1970]], Communications System was elevated to command status and became [[Canadian Forces Communication Command|Communication Command]].
+
+On [[September 2]], [[1975]] the second environmental element was created when Air Defence Command and Air Transport Command and Training Command were disbanded and all air operations in the CF were grouped under a new command named [[Canadian Forces Air Command|Air Command]] (AIRCOM).  Training was still centralized for all services, however specialized training began to be provided by each environmental element.  Similarly, the third environmental command, Force Mobile Command (FMC) was created when Mobile Command was renamed (following the removal of its tactical air assets.
+
+Materiel Command was disbanded during the 1980s and Communications Command was disbanded during a mid-1990s reorganization, with its units reorganized into the Defence Information Services Organization (DISO), later renamed Information Management Group (IM Gp), reporting to NDHQ.  Force Mobile Command was also renamed at this time, becoming Land Force Command (LFC).
+
+On [[February 1]], [[2006]], the CF added four operational commands to the existing structure:
+* [[Canada Command]]
+* [[Canadian Expeditionary Force Command]]
+* [[Canadian Special Operations Forces Command]]
+* [[Canadian Operational Support Command]]
+
+==Commands of the CF==
+===Maritime Command (MARCOM)===
+[[Image:HMCS Victoria SSK-876 near Bangor.jpg|thumb|[[HMCS Victoria (SSK 876)|HMCS ''Victoria'']]]]
+[[Image:HMCS Algonquin (DDG 283).jpg|thumb|right|[[HMCS Algonquin (DDH 283)|HMCS ''Algonquin'']]]]
+[[Image:HMCS Regina (FFH 334) 1.jpg|right|thumb|HMCS ''Regina'']]
+{{main|Canadian Forces Maritime Command}}
+
+Canada's naval forces include 33 warships and submarines and many more auxiliary vessels. The ships are deployed in two fleets, [[Maritime Forces Pacific]] (MARPAC) at [[CFB Esquimalt]] on the west coast, and [[Maritime Forces Atlantic]] (MARLANT) at [[CFB Halifax]] on the east coast. There is no permanent naval presence on the Arctic coast at this time.
+
+MARCOM participates in [[NATO]] exercises, and ships are deployed all over the world in support of the Canadian military and in conjunction with multinational deployments.
+
+The Canadian fleet comprises:
+
+{| border=1 style="border-collapse: collapse;"
+|- bgcolor=cccccc
+!Class!!Type!!Number!!Commissioning Dates!!Details
+|-
+| [[Halifax class frigate|''Halifax'']] || [[frigate]] || 12 || 1992-96 || The backbone of MARCOM, the twelve ''Halifax''-class frigates carry the Sea King helicopters of the Air Force as well as anti-submarine torpedoes and anti-aircraft and anti-ship missiles.
+|-
+| [[Iroquois class destroyer|''Iroquois'']] || [[destroyer]] || 3 || 1972-73 || Area-air-defence and command-and-control destroyers with Sea King helicopters, refitted in the 1990s from anti-submarine role.
+|-
+| [[Kingston class patrol vessel|''Kingston'']] || [[Patrol boat|patrol]] || 12 || 1996-99 || Coastal surveillance, general naval operations and exercises, search and rescue, law enforcement, resource protection, fisheries patrols and mine countermeasure capabilities.
+|-
+| [[Protecteur class auxiliary vessel|''Protecteur'']] || [[Replenishment Oiler|auxiliary]] || 2 || 1969-70 || At-sea resupply of frigates and destroyers and medical support.
+|-
+| [[Victoria class submarine|''Victoria'']] || [[submarine]] || 4 || 2000-04 || Diesel-electric hunter-killer submarines with long-range patrol capability.
+|-
+| [[Orca class training vessel|''Orca'']] || [[Patrol boat|patrol]] || 5 in service, 2 being built, 1 more ordered|| 2006-08 || Training and inshore patrol.
+|-
+|}
+
+===Land Force Command (LFC)===
+[[Image:Leopard1 cfb borden 2.JPG|thumb|A [[Leopard C1]] tank]]
+{{main|Canadian Forces Land Force Command}}
+
+The Canadian Army is administered through five geographically determined formations called 'Areas':
+* [[Land Force Atlantic Area|LF Atlantic Area]] (LFAA) based in Halifax
+* [[Land Force Quebec Area|LF Quebec Area]] (LFQA) based in Montreal
+* [[Land Force Central Area|LF Central Area]] (LFCA) based in Toronto
+* [[Land Force Western Area|LF Western Area]] (LFWA) based in Edmonton.
+* [[Land Force Northern Area|LF Northern Area]] (LFNA) based in Yellowknife.
+
+Today, the [[Regular Force]] component of the Land Force Command (army) consists of three field-ready brigades, with elements of a fourth located at CFB Gagetown:
+*1 Canadian Mechanized Brigade Group in Edmonton, Alberta,
+*2 Canadian Mechanized Brigade Group in CFB Petawawa, Ontario, and
+*5 Canadian Mechanized Brigade Group in CFB Valcartier, Quebec (the Francophone brigade).
+Each brigade contains one regiment each of [[artillery]], [[Armoured forces|armour]], and [[combat engineers]] and three [[battalion]]s of [[infantry]] (all scaled in the British fashion), as well as a service battalion ([[logistics]]), a [[headquarters]]/[[Signals (military)|signals]] [[squadron]], and several minor organizations. A tactical helicopter squadron and a field ambulance are co-located with each brigade but not part of the brigade's command structure.
+
+Each Area has, in addition to [[Regular Force]] troops, [[Canadian Forces#Canadian Forces reserve force|reserve forces]] organized in a total of ten Reserve Brigade Groups. Each Area has three, with the exception of LFNA which has none and LFAA and LFQA which each have only two. 
+
+Major training establishments and non-brigaded troops exist at [[CFB Wainwright]], [[CFB Gagetown]] and [[ASU St-Jean]] (now attached to [[CFB Montreal]].) Each area also has an Area Training Centre.
+
+CFB Wainwright is home to the Canadian Manouevre Training Centre and provides state-of-the-art force on force training in preparation for overseas deployments.
+
+===Air Command (AIRCOM)===
+{{main|Canadian Forces Air Command}}
+
+Canada's air force is deployed at 13 bases across Canada under the overall direction of [[1 Canadian Air Division]] and constitutes the Canadian [[North American Aerospace Defense Command|NORAD]] Region. Major air bases are located in [[British Columbia]], [[Alberta]], [[Saskatchewan]], [[Ontario]], [[Quebec]], [[Nova Scotia]], and [[Newfoundland and Labrador]] while administrative and command-control facilities are located in [[Winnipeg, Manitoba|Winnipeg]] and [[North Bay, Ontario|North Bay]]. A Canadian component of the [[NATO]] Airborne Early Warning Force is based in Geilenkirchen, Germany. Wings vary in size from several hundred personnel to several thousand.
+
+Principal aircraft include (numbers are from CF official website except where noted):
+
+{| border=1 style="border-collapse: collapse;"
+|- bgcolor=cccccc
+!Builder!!Model!!Type!!Number!!Dates!!Details
+|-
+| [[McDonnell-Douglas]] || [[CF-18 Hornet|CF-18A/B Hornet]] || tactical fighter bombers || 98 || 1982-88 ||In Phase II of Incremental Modernization Project (IMP) 
+|-
+| [[Lockheed Corporation]] || [[CP-140 Aurora]] || surveillance and long range patrol aircraft || 18 || 1980 ||Also currently undergoing an Incremental Modernization Project (IMP)
+|-
+| [[Lockheed Corporation]] || [[CP-140A Arcturus]] || surveillance and long range patrol aircraft || 3 || 1991 ||
+|-
+| [[Sikorsky Aircraft]] || [[H-3 Sea King|CH-124 Sea King]] || maritime helicopters || 27 || 1963-69 || to be replaced by 28 [[CH-148 Cyclone|Sikorsky CH-148 Cyclone]] 
+|-
+| [[Agusta]] [[Westland Aircraft]] || [[AgustaWestland EH101|CH-149 Cormorant]] || maritime/search and rescue helicopters || 14 || 2001-2003 || replaced [[CH-113 Labrador]]
+|-
+| [[Bell Helicopter Textron]] || [[CH-146 Griffon]] || tactical transport/search and rescue helicopters || 85 || 1995-97 || 
+|-
+| [[Lockheed Corporation]] || [[C-130 Hercules|CC-130 Hercules]] || combat transport / search and rescue || 30 || 1960-1997 || 5 of these (C-130H (T)) have air-air refuelling capability) / new order for replacements
+|-
+| [[Boeing]] || [[C-17 Globemaster III|CC-177 Globemaster]] || Strategic transport || 4 || Delivery Date: 2007/08 || New strategic transport aircraft to augment CC-130's
+|-
+| [[Airbus]] || [[CC-150 Polaris]] || long range transport || 5 || 1992-93 || 2 of these have air-air refuelling capability
+|-
+| [[De Havilland Canada]] || [[De Havilland Canada DHC-5 Buffalo|CC-115 Buffalo]] || Short range transport/search and rescue aircraft || 6 || 1967
+ || soon to be retired and replaced by either [[Construcciones Aeronáuticas SA|EADS-CASA]] [[CASA C-295|C-295]] or [[Lockheed Corporation|Lockheed]]/[[Alenia]] [[C-27J Spartan]] 
+|-
+| [[Canadair]] || [[Bombardier Challenger|CC-144 Challenger]] || jet transport || 6 || 1982-85, 2002 || 4 for VIP and 2 for utility 
+|-
+| [[De Havilland Canada]] || [[De Havilland Canada DHC-6 Twin Otter|CC-138 Twin Otter]] || short transport || 4 || 1970 ||
+|-
+| [[Canadair]] || [[Canadair CL-41 Tutor|CT-114 Tutor]] || jet trainers || 25 || 1962-66 || trainers retired - used only by the Snowbirds and the Aerospace Engineering Test Establishment
+|-
+| [[Raytheon]] || [[CT-156 Harvard II]] || propeller trainers || 26 <ref>http://www.nftc.net/nftc/en/flash/nftc.jsp</ref> || 2000 || based on [[T-6 Texan II]] trainers (leased)
+|-
+| [[BAE Systems]] || [[BAE Systems Hawk|CT-155 Hawk]] || jet trainers || 20 <ref>http://www.nftc.net/nftc/en/flash/nftc.jsp</ref> || 2000 || leased from [[BAE Systems]] replaced CT-114's
+|-
+| [[De Havilland Canada]] || [[De Havilland Canada Dash 8|CT-142 Dash-8]] || electronic navigator training aircraft || 4 || 1987, 1989-90 || 
+|-
+| [[Sagem]] || [[SAGEM Sperwer|Sperwer Tactical UAV system]] || unmanned aerial vehicle || 19 <ref>http://www.defense-update.com/products/s/sperwer.htm</ref> || 2003-6 || Four surviving UAV's from [[Operation Athena]] augmented with 10 ex-Danish Sperwers plus follow-on order with [[Sagem]] for 5 more 
+|-
+|}
+
+===Canada Command (CANCOM)===
+[[Image:Canadian CF-18 2.jpg|thumb|right|250px|A CF-18A fighter jet.]]
+Canada Command is an operational element created [[January 31]], [[2006]], to improve response time to domestic terrorism and natural disasters. It is responsible for the management of the army, navy, and air force to ensure national security, both in emergency and routine situations. Canada Command is analogous to and works closely with the [[United States Northern Command]] as well as the United States [[Department of Homeland Security]].
+
+The Commander of Canada Command is currently [[Lieutenant-General]] [[M.J. Dumais]]. He reports directly to the [[Chief of Defence Staff]].
+
+===Canadian Expeditionary Force Command (CEFCOM)===
+Under a transformed CF structure, the Canadian Expeditionary Force Command (CEFCOM) is responsible for the planning, and conduct of all Canadian Forces (CF) international operations, with the exception of operations conducted solely by the Canadian Special Operations Forces Command (CANSOFCOM).
+
+CEFCOM will bring together, under one operational command, maritime, land, air and special operations forces assets to conduct humanitarian, peace support or combat operations wherever they are required internationally.
+           
+The creation of CEFCOM is based on the new international security environment. Understanding that security in Canada ultimately begins with stability abroad, CEFCOM will allow the CF to specifically meet and manage threats to Canadian security as far away from our borders as possible.
+
+Headquartered in Ottawa, CEFCOM will also be responsible for setting standards to ensure units and personnel selected for deployment are fully qualified and ready to conduct overseas duties.
+
+The organizations under command of CEFCOM include:
+*a Standing Contingency Force (SCF) capable of rapidly responding to international crises. This high-readiness task force will be comprised of maritime, land, and air elements organized under a single integrated command structure. It will be ready to deploy within 10 days’ notice and will provide an immediate CF presence to work with security partners to stabilize a situation or facilitate the deployment of larger, follow-on forces should circumstances warrant;
+*Mission-Specific Task Forces (MSTFs) task-tailored to meet mission-specific requirements drawing upon any CF capability and could be deployed as a follow-on force to the SCF or as stand-alone contribution. The MSTF will also be capable of lead-nation status in multinational peace support operations for limited periods; and
+*the [[Disaster Assistance Response Team]] (DART). An enhanced DART, or its component parts, will continue to provide humanitarian support and disaster relief to overseas missions, as directed.
+
+CEFCOM will help ensure the Canadian Forces are more:
+*relevant in the new international security environment, by providing a force better suited to adapt its capabilities and force structure to deal with threats that arise from the kind of instability found in failed and failing states around the world;
+*responsive, by enhancing their ability to act quickly in the event of international crises. The CF will arrive on the scene faster, move more effectively within theatre, and increase it’s capability to sustain deployments; and
+*effective, by providing the ability to deploy the right mix of forces – maritime, land, air and special operations forces – to the right place at the right time, in order to produce the desired result.
+
+The Commander of CEFCOM is Lieutenant-General Michel Gauthier. Reporting directly to the CDS, he is responsible for the conduct of all international operations – humanitarian, peace support and combat – and has the necessary authorities to perform these responsibilities.
+
+===Canadian Special Operations Forces Command (CANSOFCOM)===
+
+{{main|Canadian Special Operations Forces Command}}
+
+This command is responsible for special forces units. It includes Joint Task Force 2 ([[JTF2]]), the newly-formed Canadian Special Operations Regiment ([[CSOR]]), the Joint Nuclear, Biological and Chemical Defence (JNBCD) Company, and a special operations aviation unit based on [[427 Special Operations Aviation Squadron]] (SOAS) at [[CFB Petawawa]]. The force is headed by [[Colonel]] D. Michael Day, CD
+
+==Canadian Forces reserve force==<!-- This section is linked from [[Saint John, New Brunswick]] -->
+The CF reserve force has four components:
+
+* the [[Canadian Forces Primary Reserve|Primary Reserve]],
+* the [[Canadian Forces Supplementary Reserve|Supplementary Reserve]],
+* the [[Canadian Rangers]],
+* and the [[Cadet Instructors Cadre]].
+
+The reserve force is represented, though not commanded, at NDHQ by the Chief of Reserves and Cadets, usually a [[Major General]] or [[Rear Admiral]].
+
+===Primary Reserve===
+
+{{main|Canadian Forces Primary Reserve}}
+
+[[Image:Calgary Highlanders Exercise Black Bear 2004.jpg|right|thumb|200px|Reserve infantrymen train in urban operations circa 2004. Reserve training focuses on real world situations and the needs of the [[Regular Force]] who rely on the Reserves for augmentation on operational deployments.]]
+
+The primary reserve comprises citizen soldiers, sailors, and aircrew who train and are posted to CF operations or duties on a casual or on-going basis. Each reserve force is operationally and administratively responsible to its corresponding environmental command with a Naval Reserve (NAVRES), Land Force Reserve (LFR) and Air Reserve.  In addition there are two primary reserve forces that do not fall under an environmental command, these being the Communication Reserve (COMMRES) and the Health Services Reserve.
+
+Reservists number approximately 23,000 (all ranks, all services). The CF maintains a "total force" policy as outlined in both the 1987 and 1994 Defence [[White Paper]]s, where reservists are (in theory) trained to the level of and interchangeable with their [[Regular Force]] counterparts. It would be difficult to overstate the importance of the reserves to sustaining CF operations, particularly following the defence budget cuts and increased operational tempo of the 1990s.
+
+===Supplementary reserve===
+The supplementary reserve is part of the CF reserve and comprises a voluntary call-up list for former CF regular- and reserve-force personnel who can be considered for reactivation in the event of a national emergency.
+
+===Cadet Instructors Cadre===
+The [[Cadet Instructors Cadre]] (CIC) comprises those commissioned officers who are instructors with the [[Royal Canadian Sea Cadets]], [[Royal Canadian Army Cadets]], and the [[Royal Canadian Air Cadets]].
+
+===The Canadian Rangers===
+The [[Canadian Rangers]] are part of the CF reserve, provide surveillance and patrol services in Canada's [[Arctic]] and other remote areas, and are an essential component to Canada's exercise of [[sovereignty]] over its territory.
+
+==Current deployments==
+As of October 2007, Canadian Forces are in operations throughout the world, as part of Canada's obligations to [[NATO]] and the [[United Nations]], as well as in support of its international allies, chiefly the United States.
+
+Current notable deployments are:
+* [[Operation ATHENA]] (2001-present): 2500 troops in [[Afghanistan]] as part of the NATO-led International Security Assistance Force (ISAF)
+
+In addition to this deployment, small detachments of Canadian military are based in different countries for assistance, espionage and logistical work. One example is at [[Camp Mirage]].
+{{see|List of Canadian military operations}}
+
+==Military expenditures==
+{{main|Military budget of Canada}}
+Defence is an exclusive federal jurisdiction in Canada: defence spending in [[fiscal year]] 2004-5 was approximately CAN$14 billion.<ref>http://www.vcds.forces.gc.ca/dgsp/pubs/rep-pub/ddm/rpp/rpp05-06/sec3c_e.asp</ref> In the [[Canadian federal budget, 2005|2005 federal budget]], the government allocated an additional CAN$12.8 billion over five years to the [[Department of National Defence (Canada)|DND]] and committed to increasing troop levels by an additional 5,000 [[Regular Force]] and 3,000 [[Primary Reserve]] personnel in the CF over the same period.<ref>http://www.fin.gc.ca/budget05/speech/speeche.htm</ref>
+
+The [[Canadian federal budget, 2006|2006 federal budget]] saw the government commit to maintaining the 2005 budget increase to DND and provided an additional CAN$5.3 billion over five years to add 13,000 Regular Force and 10,000 Primary Reserve personnel as well as unspecified capital expenses for equipment purchases.  In late June 2006, the federal government made a series of announcements about the "Canada First" Defence Procurement program.<ref>http://www.forces.gc.ca/site/Focus/first/index_e.asp</ref> This plan allocated $17.1 billion from the budget for the purchase of new trucks for LF, transport aircraft and helicopters for AIRCOM, and [[Joint Support Ship Project|joint support ships]] for MARCOM.<ref>http://www.cbc.ca/story/canada/national/2006/02/23/defence060223.html</ref>
+
+==Canadian Forces bases==
+The Canadian Forces have a number of active installations across the country with some being branch-specific. There are also a number of facilities which have closed in various defence cutbacks since the 1970s.
+
+===Navy===
+* [[CFB Esquimalt]], [[British Columbia]]
+* [[CFB Halifax]], [[Nova Scotia]]
+* [[CFS St. John's]], [[Newfoundland and Labrador]]
+* [[CFMETR, Nanoose Bay]], British Columbia
+* [[NRS Aldergrove]], British Columbia
+* [[CFS Mill Cove]], Nova Scotia
+* [[NRS Newport Corner]], Nova Scotia
+
+===Army===
+
+* [[CFB Edmonton]], [[Alberta]]
+* [[CFB Gagetown]], [[New Brunswick]]
+* [[CFB Kingston]], [[Ontario]]
+* [[CFB Montreal]], [[Quebec]]
+* [[CFB Petawawa]], Ontario
+* [[CFB Shilo]], [[Manitoba]]
+* [[CFB Suffield]], Alberta
+* [[CFB Valcartier]], Quebec
+* [[CFB Wainwright]], Alberta
+
+* [[LFCATC Meaford]], Ontario
+
+===Air Force===
+* [[CFB Bagotville]] (3 Wing), Quebec
+* [[CFB Comox]] (19 Wing), British Columbia
+* [[CFB Cold Lake]] (4 Wing), Alberta
+* [[CFB Gander]] (9 Wing), Newfoundland and Labrador
+* [[CFB Goose Bay]] (5 Wing), Newfoundland and Labrador
+* [[CFB Greenwood]] (14 Wing), Nova Scotia
+* [[CFB Moose Jaw]] (15 Wing), [[Saskatchewan]]
+* [[CFB North Bay]] (22 Wing), Ontario
+* [[CFB Shearwater]] (12 Wing), Nova Scotia
+* [[CFB Trenton]] (8 Wing), Ontario
+* [[CFB Winnipeg]] (17 Wing), Manitoba
+
+Air Command and CF Northern Area also maintain a chain of Forward Operating Locations at various points across northern Canada, capable of supporting fighter operations. Elements of CF-18 squadrons periodically deploy to these FOLs for short training exercises or Arctic sovereignty patrols.
+
+===All services===
+* [[NDHQ Ottawa]], Ontario
+* [[CFS Alert]], [[Nunavut]]
+* [[CFS Leitrim]], Ontario
+* [[CFB Borden]], Ontario
+* [[CFNA HQ Whitehorse]], [[Yukon Territory]]
+* [[CFNA HQ Yellowknife]], [[Northwest Territories]]
+* [[CRPTC Connaught Range]], Ontario
+* [[LFAATC Aldershot]] , Nova Scotia
+
+==Uniforms==
+{{main|Uniforms of the Canadian Forces}}
+
+Today the Canadian Forces remains a single service, but each member now belongs to one of three "elements": land, air or sea, each with its distinctive uniform. The element is usually determined by the individual member's trade: for example, a pilot is automatically in the air element. However, for non-specific or [[purple trades|"purple" trades]], such as medical technician or military police, the element is assigned more or less at random. The element remains unchanged throughout the member's career, regardless of the member's unit or base.
+
+Although each element (sea, land and air) wears distinctive uniforms, the CF as a whole has generally been reduced to four orders of dress: No. 1 Ceremonial Dress, No. 2 Mess Dress, No. 3 Service Dress, and No. 5 Operational Dress. No. 4 Base Dress (Garrison Dress in the Army) was eliminated to reduce the number of uniforms members had to ship or pack when going on postings or taskings; either Operational Dress or Service Dress is substituted as appropriate to the situation. No.2 Mess dress is generally not paid for through public funds. Generally speaking, Operational Dress is now the daily duty uniform across the CF unless Service Dress is prescribed (such as at National Defence Headquarters, on parades, at public events, etc); for occasions of greater formality or dignity, Service Dress can be modified to suit the occasion. Also, most army and some other units have a regimental dress for very specific occasions, such as the [http://phmc.gc.ca/cmh/en/image_504.asp?page_id=548 scarlet uniforms] of the [[Royal Military College of Canada]] in [[Kingston, Ontario|Kingston]] .
+
+===Service Dress===
+For all elements, Service Dress consists of a [[Uniforms of the Canadian Forces#Distinct Environmental Uniform|Distinct Environmental Uniform]] (DEU) Jacket with rank insignia, national identifier, ribbons of medals, decorations and orders, metallic buttons (silver-coloured, brass-coloured, or black for Land element Rifle regiments), regimental or branch collar insignia (land and sea elements only), and trade insignia. Uniform trousers with belt (or kilt/trews and associated accoutrements); collared shirt and tie; ankle boots or shoes; and appropriate headgear with branch or regimental cap badge. Environmental distinctions are as follows for the three elements:
+*'''Sea'''. Black ("navy blue") tunic, trousers, tie, belt, and slip-ons. White-topped service cap (universal). White shirt. There is also a white naval uniform, generally referred to as "tropical", as follows:
+:*Tropical white long - white short-seeve shirt, white trousers (white skirt optional for female personnel), white dress shoes, white belt, white socks. Designated N3B in the Canadian Forces dress manual.
+:*Tropical semi-ceremonial - white tunic, white trousers, white dress shoes, white belt, white socks. Designated N1C when worn with medals or N1D when worn with ribbons. Officers' tunics have black shoulder boards with gold rank insignia; other ranks have standard rank insignia on white background. This order of dress is optional as the tunic is purchased at the service members' expense.
+:Note: This uniform is colloquially referred to as "whites" and the N1C/N1D order specifically as the "ice-cream suit".
+* '''Land'''. Rifle-green DEU Jacket, trousers (or kilt/trews per regimental custom), beret (except as noted below: see '''Beret'''), CF green tie (or regimental pattern), belt, and slip-ons. Linden green collared shirt with rank pins and slip-ons.
+*'''Air'''. Air Force blue tunic, trousers (or kilt of official air force plaid), wedge cap or beret (universal), and slip-ons. Black necktie and belt. Light blue shirt.
+
+*'''Rank Insignia''' is worn on the upper arms of the tunic for all ranks up to Sgt/PO2; on the forearms for all ranks from WO/PO1 to CWO/CPO1; and on the cuffs of all officers. Rank insignia is also worn on all slip-ons worn by Navy and Air Force personnel, but only by Army officers; Army NCMs wear miniature metal rank insignia on the shirt collar and plain epaulets.
+*'''Undress ribbons''' of orders, medals and decorations are worn over the left breast pocket of the tunic; '''qualification badges''' (such as a paratrooper's "wings" or submariner's "dolphins") are worn above the top row of ribbons. '''Command badges''' (worn by Army personnel, or by non-Army personnel in Army units or formations as ordered) are worn centred on the pleat of the right breast pocket.
+*'''Collar badges'''. Army personnel also wear collar badges (usually a miniature regimental or branch device but sometimes a separate pattern, depending on unit) on the lapels of the tunic. These badges are known colloquially as "collar dogs".   Navy personnel from the rank of Ordinary Seaman (OS) to Chief Petty Officer First Class (CPO1) have their trade badge on the collar of their DEU's.  Naval Officer do not have trade badges on their collars.
+*'''Shoulder badges'''. Brass regimental or branch shoulder titles are worn on the shoulder straps of the DEU/ceremonial dress. By regulation, only numerals and letters may be worn on these titles, the only exception being the [[Calgary Highlanders]] and [[Canadian Scottish Regiment (Princess Mary's)]] who wear a special badge in the shape of an oak leaf, as a commemorative of the Battle of Kitcheners' Wood (22 April 1915).
+*The '''National Identifier''' is the word "CANADA" in an arc, in gold thread on the environmental background, worn on the upper sleeve near the shoulder seam. This is universal, except for Air Force NCMs, whose device also includes a gold eagle in flight. Slip-ons bear the title "CANADA", except for the Army, which may wear approved regimental or branch titles.
+
+For less formal occasions, or when dictated by weather or other concerns, the uniform can be modified as follows:
+* removal of tunic, substitution of short-sleeve shirt (same colour), worn open-necked, with ribbons and qualification wings over the left breast pocket and name tag over right breast pocket
+* replacement of tunic with V-neck sweater (same colour as tunic) with shoulder straps; slip-ons as per shirt; short- or long- sleeved shirt (open-necked or with tie); shirt otherwise as normal
+
+There also exists Ceremonial Dress (e.g., the scarlet tunics and bearskin caps of the Canadian Grenadier Guards), worn on formal and solemn parades and ceremonies, such as change of command parades, remembrance ceremonies, royal ceremonies, etc.; and Mess Dress, or Mess Kit (e.g. dinner jackets, waistcoats or cummerbunds, box spurs, etc), for formal or ceremonial dinners (such as mess dinners). These uniforms generally conform to the traditions of a particular regiment or branch; they are not universally worn, however, as they are generally not provided at public expense. For these occasions, some minor additions or modifications are made to the Service Dress uniform:
+* '''Ceremonial Dress'''. Replace undress ribbons with full medals. Add white web belts, gloves, bayonet frogs and rifle slings, pistol holsters, etc (for NCMs) or black [[Sam Browne belt]]s with swords and scabbards (for officers).
+* '''Mess Dress'''. Replace undress ribbons with full medals. Replace shirt and tie with white dress shirt and black bow tie (males) or an approved Mess Dress blouse with gold buttons (females).
+
+===Operational Dress===
+'''Navy'''. The Naval operational dress is the Naval Combat Dress (NCD). It consists of a black zip-up jacket, trousers, and beret; medium blue shirt (optionally, a white crew-neck T-shirt may be worn underneath); and boots. Dress slip-ons are worn on the jacket and shirt. Black ball caps with ship's name and designation have been approved for shipboard wear. 
+
+The Navy is also occasionally required to wear [[CADPAT]]. The order of dress is identical to that of the Army operational dress. Starting in Feb 2007, the Naval CADPAT dress has several differences. Nametapes and rank slip-ons are in black embroidery with an anchor in place of crossed swords on the nametape. A black t-shirt is replacing the green t-shirt worn by the Army.<ref>CANFORGEN 027-07</ref>
+
+'''Army and Air Force'''. For daily wear in the Army and Air Force, this is the Temperate Woodland (TW) Canadian Disruptive Pattern ([[CADPAT]]) uniform. It consists of a shirt, trousers, combat boots, beret (see below), and olive-drab (army) or dark blue (air force) crew-neck T-shirt. The uniform is well-fitted but comfortably loose, with numerous and voluminous pockets, and drawstrings to adjust the fit. The shirt is worn outside the trousers, and the trouser cuffs are bloused over the boots. The shirt has an epaulet for a slip-on in the centre of the chest; this slip-on bears the rank of the bearer and an appropriate national, branch, or regimental title embroidered on it. The name tag is attached via [[Velcro]] fasteners, and bears the member's name, and environmental symbol (crossed swords for Army, eagle for Air Force). Embroidery thread for insignia etc is light green for Army and dark blue for the Air Force. The national identifier is the [[Flag of Canada]], in full colour for garrison wear or in olive drab for operational wear.
+
+Depending on the identified airforce occupation, work dress may also be olive-drab flight suit.
+
+During exercises and operations in the field, blue T-shirts are replaced with olive drab, and berets are replaced with more suitable (and camouflaged) headgear such as field hats, helmets, balaclavas, etc. CADPAT is also available in an Arid Region (AR) pattern, for use in environments such as Afghanistan. As well, for winter or Arctic operations, there are camouflaged (i.e. white) accoutrements and coverings for clothes and equipment.
+
+All personnel including recruits are now receiving an initial issue of the CADPAT uniform, with the olive-drab uniform officially replaced Forces-wide.
+
+===Berets===
+The [[beret]] is still the most widely worn headgear, and is worn with almost all orders of dress with the exception of the more formal orders of Naval and Air Force dress ( Ceremonial, Mess, and Service Dress). The colour of the beret is determined by the wearer's environment, branch, or mission, as follows:
+
+:*Navy — Black 
+:*All army — Rifle Green (except as noted below)
+:*Armoured — [[Black beret|Black]]
+:*Airborne — [[maroon beret|Maroon]]
+:*Military police — Scarlet
+:*Air force — Air Force Blue
+:*Search-and-rescue technicians — Blaze Orange
+:*Canadian Special Operations Regiment — [[Tan beret|Tan]]
+:*United Nations missions — U.N. Blue
+:*[[Multinational Force and Observers]] - [[Terracotta]]
+
+Soldiers in Highland, Scottish and Irish regiments generally wear alternate headdress, including the [[glengarry]], [[balmoral_bonnet|balmoral]], [[Tam o'shanter (hat)|tam o'shanter]] and [[caubeen]] instead of the beret. Approximately 1/3 of the Infantry Regiments in the Canadian Forces are designated Scottish, Highland or Irish, not because of the ethnic composition of Canada (though certainly reflecting the strong Scottish communities in Canada) as much as the belief, at the time the Regiments were raised, that units wearing the kilt and boasting pipe bands would be easier to recruit for.
+
+==See also==
+* [[26th Field Artillery Regiment, Royal Canadian Artillery]]
+* [[Canadian Forces Air Command]]
+* [[Canadian Forces Land Force Command]]
+* [[Canadian Forces Maritime Command]]
+* [[Canada]]
+* [[CADPAT]]
+* [[Canadian military history]]
+* [[Colonial Militia in Canada]]
+* [[Canadian Forces ranks and insignia]]
+* [[List of Canadian military operations]]
+* [[List of conflicts in Canada]]
+* [[List of infantry weapons and equipment of the Canadian military]]
+* [[Cadets Canada]]
+* [[Royal Canadian Army Cadets]]
+* [[Royal Canadian Sea Cadets]]
+* [[Royal Canadian Air Cadets]]
+* [[Royal Military College of Canada]]
+* [[Authorized marches of the Canadian Forces]]
+* [[:Category:Armouries in Canada]] 
+* [[:Category:Canadian Forces bases]]
+*[[Canadian military fur wedge cap]]
+
+Other countries with unified or partially unified armed forces:
+
+* [[Australia]] - [[Australian Defence Force]]
+* [[New Zealand]] - [[New Zealand Defence Force]]
+* [[Israel]] - [[Israeli Defense Force]]
+
+==References and notes==
+<div class="references-small">
+{{col-begin}}
+{{col-break}}
+<references/>
+{{col-break}}
+* [http://www.asithinktank.com/pdf/cafu.pdf#search='unification%20canadian%20forces' Unification of the Canadian Forces]
+* [http://www.forces.gc.ca/site/home_e.asp Department of National Defence site - Canadian Forces]
+* [http://www.canadiansoldiers.com/mediawiki-1.5.5/index.php?title=Main_Page canadiansoldiers.com]
+* [http://www.warmuseum.ca/cwm/cwme.asp The Canadian War Museum]
+* [http://www.sfu.ca/casr/ '''CASR:   An Illustrated Guide to the Canadian Forces''']
+* [http://www.warmuseum.ca/cwm/newspapers/canadawar/forces_e.html Canadian World War II Newspaper Archives - The Canadian Armed Forces]
+* [http://dgs.qc.ca/Tourism/NCSM_E.htm Maritime Coastal Defence Vessels, used by Canada's naval reserve]
+* [http://www.calgaryhighlanders.com/fulldress.htm Ceremonial dress of the Canadian army, with specific attention to the Calgary Highlanders]
+*[http://www.army.forces.gc.ca/caj/ The Canadian Army Journal]
+*[http://www.journal.forces.gc.ca/ The Canadian Military Journal]
+*[http://www.img.forces.gc.ca/commres/ Communication Reserve]
+*[http://www.CanadianAlly.Com CanadianAlly (Website of the Canadian Embassy to the United States)]
+*[http://www.themilitarywife.ca TMW ~ Support and Information for Spouses and Partners of Canadian Forces members.]
+{{col-end}}
+</div>
+
+==Further reading==
+*[http://www.collectionscanada.ca/faces-of-war/ Faces of War] at Library and Archives Canada
+
+==External links==
+* [http://www.sfu.ca/casr/ '''Canadian American Strategic Review (CASR)''' - Illustrated]
+* [http://www.army.gc.ca Official website of the Canadian Army]
+* [http://www.navy.gc.ca Official website of the Canadian Navy]
+* [http://www.airforce.forces.gc.ca Official website of the Canadian Air Force]
+
+
+{{Canadian Armed Forces}}
+{{Canadian Forces Maritime Command}}
+{{Canadian Forces Land Force Command}}
+{{Canadian Forces Air Command}}
+{{Canadian topics}}
+{{-}}
+{{NATO}}
+
+[[Category:Canadian Forces|*]]
+[[Category:Military of Canada| ]]
+
+[[de:Kanadische Streitkräfte]]
+[[fr:Forces canadiennes]]
+[[lt:Kanados karinės pajėgos]]
+[[hu:Kanada hadereje]]
+[[ja:カナダ軍]]
+[[no:Canadas forsvar]]
+[[pl:Kanadyjskie Siły Zbrojne]]
+[[pt:Forças Armadas do Canadá]]
+[[sl:Kanadske oborožene sile]]
+[[zh:加拿大軍隊]]

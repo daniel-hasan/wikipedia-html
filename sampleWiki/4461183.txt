@@ -1,0 +1,62 @@
+{{Userspace draft|source=ArticleWizard|date=April 2011}} 
+
+'''The Penn State College of Engineering''' 
+
+== Overview ==
+
+The Penn State College of Engineering is one of the oldest colleges in [[The Pennsylvania State University]]. It was established in 1896, under the leadership of [[George W. Atherton]]. Today, with 13 academic departments <ref name=factsheet>{{cite web|title=2009 College of Engineering factsheet|url=http://www.engr.psu.edu/AboutCOE/Facts2010.pdf|publisher=PSU|accessdate=7 April 2011}}</ref> , over 9,700 enrolled students <ref name=factsheet /> and research expenditures that exceed 100 million dollars annually, Penn State College of Engineering is one of the leading engineering schools in the United States. It is estimated that approximately one out of every fifty engineers in United States with a [[Bachelor's Degree]] in Engineering got that degree from Penn State <ref name=coe>{{cite web|title=College of Engineering|url=http://www.coe.psu.edu/|publisher=PSU|accessdate=7 April 2011}}</ref> .
+
+== Academic Departments and Rankings ==
+
+The Penn State College of Engineering was ranked 17th on the list of Best Engineering Undergraduate Schools and 25th on the list of Best Engineering Graduate Schools in 2011 by US News and World Report <ref name=ranking>{{cite web|title=Latest Rankings|url=http://colleges.usnews.rankingsandreviews.com/best-colleges/pennsylvania-state-university-university-park-214777/overall-rankings|publisher=US News and World Report|accessdate=7 April 2011}}</ref> . The college has 14 degree granting academic departments<ref name=factsheet/>, many of which are ranked in top 10 nationally <ref name=ranking/> :
+
+* Acoustics (grants only graduate degrees) 
+* Aerospace Engineering - undergraduate program ranked 13th nationally, graduate program ranked 12th <ref name=ranking2>{{cite web|title=College of Engineering Rankings|url=http://www.engr.psu.edu/AboutCOE/rankings.aspx|publisher=PSU|accessdate=7 April 2011}}</ref>.
+* Architectural Engineering
+* Agricultural and Biological Engineering - undergraduate program ranked 10th nationally, graduate program ranked 9th <ref name=ranking/>.
+* Bioengineering
+* Chemical Engineering - undergraduate program ranked 20th nationally, graduate program ranked 21st <ref name=ranking2/>.
+* Civil and Environmental Engineering - Civil Engineering undergraduate program ranked 13th nationally, graduate program ranked 19th <ref name=ranking2/>; Environmental Engineering graduate program ranked 16th nationally <ref name=ranking2/>.
+* Computer Science and Engineering - Computer Science graduate program ranked 28th nationally <ref name=ranking2/>; Computer Engineering graduate program ranked 20th nationally <ref name=ranking2/>.
+* Electrical Engineering - graduate program ranked 25th nationally <ref name=ranking2/>.
+* Engineering Science and Mechanics - undergraduate program ranked 6th nationally <ref name=ranking/>.
+* Industrial and Manufacturing Engineering - undergraduate program ranked 8th nationally, graduate program ranked 4th <ref name=ranking/>. 
+* Mechanical Engineering - undergraduate program ranked 15th nationally, graduate program ranked 16th <ref name=ranking2/>.
+* Nuclear Engineering - graduate program ranked 5th nationally <ref name=ranking/>.
+* Materials Science and Engineering - undergraduate program ranked 10th nationally, graduate program ranked 8th <ref name=ranking/>.
+
+== Student Body ==
+
+College of Engineering student body is relatively large, and in 2009 out of 9,736 enrolled students (8,278 undergraduate and 1,458 graduate), 1,480 were women and 545 minorities. First woman engineer to graduate from Penn State was [[Frances Barbara Hosfeld]] from Scranton who got a degree in Industrial Engineering in 1921 <ref name=NYT>{{cite web|title=PSU First Woman Engineer|url=http://query.nytimes.com/mem/archive-free/pdf?res=F30715FD3D5A1B7A93C0A8178DD85F458285F9|publisher=New York Times|accessdate=7 April 2011}}</ref> 
+
+== Research Centers ==
+
+In addition to intradepartmental research, Penn State College of Engineering faculty and students also conduct research through interdisciplinary research centers and institutes <ref name=research>{{cite web|title=College of Engineering Research|url=http://www.engr.psu.edu/Research/researchdev.aspx|publisher=PSU|accessdate=7 April 2011}}</ref> :
+
+* Applied Research Laboratory
+* Institute for Computational Science
+* Materials Research Institute
+* Penn State Institutes of Energy and the Environment
+
+== Alumni ==
+
+The College of Engineering has over 81,000 living engineering alumni <ref name=factsheet/>. The Penn State Engineering Alumni Society (PSEAS) is the oldest active alumni group at The Pennsylvania State University <ref name=factsheet/>. 
+
+== Notable Facts ==  
+
+* First accredited in 1936, Architectural Engineering program at Penn State is nation's oldest continuously accredited curriculum in this field.
+* In 1923, professor Paul Schweitzer started one of the first systematic research programs in diesel engineering in United States.
+* In 1909, the first Industrial Engineering academic department and baccalaureate program in the nation were established at Penn State.
+* In 1960, Penn State established the first national curriculum in solid-state technology and in 1962 created the interdisciplinary materials research laboratory.
+* In 1965, Penn State Aerospace engineer [[Barnes W. McCormick]] led a research team that made the first [[wake turbulence]] measurements behind a full-scale aeroplane.
+ 
+== References ==
+{{Reflist}}
+
+== External links ==
+* [http://www.engr.psu.edu/] 
+
+[[Category:Pennsylvania State University| ]]
+[[Category:Universities and colleges in Pennsylvania]]
+[[Category:Engineering universities and colleges in Pennsylvania]]
+[[Category:Universities and colleges in Centre County, Pennsylvania]]

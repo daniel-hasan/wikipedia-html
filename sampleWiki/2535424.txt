@@ -1,0 +1,35 @@
+{{Infobox Newspaper
+| name                = The Portland Mercury
+| image               = [[Image:The Portland Mercury front page.jpg|175px]]
+| caption             = The [[February 15]], [[2007]] front page of<br>''The Portland Mercury''
+| type                = [[Alternative weekly]]
+| format              = [[Tabloid]]
+| foundation          = June 2000
+| ceased publication  = 
+| price               = free
+| owners              = Index Publishing
+| publisher           = Rob Crocker
+| editor              = Steven Humphrey 
+| language            = English
+| circulation         = 42,387<ref>{{cite web |url=http://aan.org/alternative/Aan/ViewCompany?oid=oid%3A8252 |title=The Portland Mercury |accessdate=2007-02-21 |publisher=[[Association of Alternative Newsweeklies]] }}</ref>
+| headquarters        = 605 N.E. 21st Ave., Suite 200<br>[[Portland, Oregon|Portland]], [[Oregon|OR]] 97232<br>{{USA}} 
+| ISSN                = 
+| website             = [http://www.portlandmercury.com/ portlandmercury.com]
+}}
+
+'''''The Portland Mercury''''' is an [[alternative weekly]] newspaper published in [[Portland, Oregon]].  It serves to chronicle the ever-changing Portland music scene, and generally includes interviews, commentaries, reviews, and concert dates.  Popular features include the "I, Anonymous" section, in which local readers are encouraged to submit anonymous, usually impassioned, and often incendiary letters to the city at large and [[Dan Savage]]'s syndicated advice column [[Savage Love]].  The Mercury is similar in style to its sibling publication, [[Seattle, Washington]]'s [[The Stranger (newspaper)|''The Stranger'']].
+
+==References==
+<references/>
+
+==External links==
+* [http://www.portlandmercury.com/ PortlandMercury.com]
+
+{{DEFAULTSORT:Portland Mercury, The}}
+[[Category:Alternative weekly newspapers published in the United States]]
+[[Category:Newspapers published in Oregon]]
+[[Category:Media in Portland, Oregon]]
+
+
+{{US-newspaper-stub}}
+{{Oregon-stub}}

@@ -1,0 +1,26 @@
+{{Taxobox
+| color = lightgreen
+| name = Ghost Flower
+| image = Mohavea confertiflora 1.jpg
+| image_width = 240px
+| regnum = [[Plant]]ae
+| divisio = [[Flowering plant|Magnoliophyta]]
+| classis = [[Magnoliopsida]]
+| ordo = [[Lamiales]]
+| familia = [[Scrophulariaceae]]
+| genus = ''[[Mohavea]]''
+| species = '''''M. confertiflora'''''
+| binomial = ''Mohavea confertiflora''
+| binomial_authority = (Benth.) A.A. Heller
+}}
+The '''Ghost Flower''' (''Mohavea confertiflora'') is a plant of the family [[Scrophulariaceae]]. It is a native of the [[Americas]], growing in arid regions, semidesert conditions, below 1000 m. It flowers March to April.
+
+The name Ghost flower may also refer to ''[[Monotropa uniflora]]''.
+
+{{commons|Mohavea confertiflora}}
+
+==See also==
+* [[List of early spring flowers]]
+
+{{Scrophulariaceae-stub}}
+[[Category:Scrophulariaceae]]

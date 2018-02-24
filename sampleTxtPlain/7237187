@@ -1,0 +1,1977 @@
+This article provides a grammar sketch of the Nawat or Pipil language, an endangered language spoken by the Pipils of western El Salvador, belonging to the Nahua group within the Uto-Aztecan language family. There also exists a brief typological overview of the language that summarizes the language's most salient features of general typological interest in more technical terms.
+
+Sounds
+=Basic phonemes and word stress=
+{| class=&quot;wikitable&quot; style=&quot;text-align: center;&quot;
+|+ Basic vowels
+!
+! Front
+! Back
+|-
+! High
+| i
+|rowspan=&quot;2&quot;|u
+|-
+! Mid
+| e
+|-
+! Low
+|colspan=&quot;2&quot;|a
+|}
+
+*Realizations of the back vowel range betweenand , but the higher vowel allophones predominate.
+*Historically there was phonemic vowel length in Nawat, that is, words could have different meanings depending on whether each vowel in them was long or short. This distinction may be extinct for present-day speakers.
+
+{| class=&quot;wikitable&quot; style=&quot;text-align: center;&quot;
+|+ Basic consonants
+!
+! Bilabial
+! Alveolar
+! Palatal
+! Velar
+! Labiovelar
+! Glottal
+|-
+! Plosives
+| p
+| t
+|
+| k 
+| kw
+|
+|-
+! Affricates
+| 
+| tz 
+| ch 
+| 
+| 
+| 
+|-
+! Fricatives
+| 
+| s
+| sh 
+| 
+| 
+| j 
+|-
+! Nasals
+| m
+| n 
+| 
+| 
+| 
+| 
+|-
+! Liquids
+| 
+| l
+| 
+| 
+| 
+| 
+|-
+! Semivowels
+| 
+| 
+| y
+| 
+| w 
+| 
+|-
+
+|}
+
+The voiced allophones of /k/,and , are common but their distribution is subject to both dialect variation and phonological rules (and their exceptions).
+
+The /n/ phoneme has various allophones, as follows: 
+
+{| 
+| 
+*When followed by a vowel it is usually alveolar.
+| style=&quot;background:#efefef;&quot; | 
+''naja'' 'I, me', ''ini'' 'this', ''nunan'' 'my mother' 
+|-
+|
+*When followed by a plosive or affricate consonant its place of articulation assimilates.
+| style=&quot;background:#efefef;&quot; |
+''senpa'''once, again', ''Ken tinemi?'' 'How are you?' , ''inchan'''at their house', ''tenkal'' 'door, patio' 
+|-
+|
+*Preceding other consonants or a pause, the pronunciation of ''n'' is most often velar .
+| style=&quot;background:#efefef;&quot; |
+''Kan nemi?'' 'Where is (he/she/it)?', ''anyawit'' 'you (pl.) are going';
+
+''Ini ne apan'' 'This is the river', ''Shimutalikan!'' 'Sit down!' 
+|-
+|
+*In word-final position preceding a vowel, it is also velar .
+| style=&quot;background:#efefef;&quot; |
+''Ken ajsik?'' 'How did he/she arrive?', ''wan ini'' 'and this' 
+|-
+|
+*Velaroccurs intervocalically in some words; this may be represented in writing by ''nh''.
+| style=&quot;background:#efefef;&quot; |
+''nemanha'' 'later, straight away', ''kinhita'' 'sees them', ''tenhat'' 'river bank' 
+|}
+
+Most words are stressed on the second to last syllable. Some are stressed on the last syllable: these include a few lexical compounds such as ''tenkal'' 'door, patio' (from ''ten'' 'mouth' and ''kal'' 'house'), certain prefixed or reduplicated monosyllables such as (optionally) ''kajkal'' 'houses', and many diminutives in ''-tzin'' or ''-chin''. There are also words in these categories with regular penultimate stress.
+
+=Phonotactics=
+{|
+|
+* Syllables can have any of the shapes permitted by the formula (C)V(C), and words may have any number of such syllables.
+| style=&quot;background:#efefef;&quot; |
+''kal'' 'house', ''at'' 'water', ''ne'' 'there', ''nu-ish'' 'my eye', ''a-pan'' 'river', ''mis-tun'' 'cat', ''kat-ka'' 'was', ''uj-ti'' 'path', ''kwa-wit'' 'tree, wood, stick', ''nu-kwaj-kwach'' 'my clothes', ''metz-ti'' 'moon', ''nech-kwa'' 'he/she/it is eating me', ''tzak-tuk'' 'closed', ''shik-tzuj-tzun-ta-mej-ti-kan'' 'sharpen the ends! (pl.)'
+|-
+| 
+* Most Nawat consonants can occur in any position, but ''m'' and ''kw'' do not occur at the end of a syllable (or word), and there are no words ending in ''p'' either. Where morphological processes would place them in syllable-final position, ''m'' changes to ''n'' (for the pronunciation of which see above), and ''kw'' changes to ''k''.
+| style=&quot;background:#efefef;&quot; |
+''tekuma-t'' 'gourd' but ''nu-tekun'' 'my gourd', ''ki-tzakwa'' 'he closes it' but ''tzak-tuk'' 'closed'
+|-
+|
+* ''J'' has a limited distribution: it never follows another consonant and normally cannot begin a word either. ''J'' at the end of words is pronounced weakly and often disappears altogether.
+| style=&quot;background:#efefef;&quot; |
+''naja'' 'I, me', ''ujti'' 'path', ''nikwaj'' 'I ate it', ''shushukna(j)'' 'green'
+|}
+
+Secondary semivowels
+{| 
+|width=&quot;50%&quot;|
+When one vowel phoneme immediately follows another within a word a(the ''y'' sound) is often inserted between them ( if the first vowel is ''u''). This is common when the first of the two vowels is stressed.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; | 
+* ''miak'' 'many' → 
+* *''shikwa + -a'' → ''shikwaya'' 'eat it already!'
+* ''se-uk'' (from *''se + -uk'') 'other' → 
+* ''nu-ika-w'' 'my younger brother' → 
+|-
+| 
+In other cases, /i/ or /e/ preceding another vowel is often replaced by .
+| style=&quot;background:#efefef;&quot; | 
+* ''ki-pia-ya'' 'he already has it' →
+* ''seujti'' (from *''se + ujti'') 'once' → 
+|-
+|
+But thisis commonly dropped following ''sh'' or ''ch''. 
+| style=&quot;background:#efefef;&quot; | 
+* ''shiawa!'' (for *''shi-yaw-a'') 'go already!' → 
+* ''shi-k-chia-kan!'' 'wait! (pl.)' → 
+|-
+|
+Following alveolar ''n'' or /k/ = ,often combines to yield(like Spanish ''ñ'') or /y/respectively.
+| style=&quot;background:#efefef;&quot; | 
+* ''niajki'' (for *''ni-yaj-ki'') 'I went' → 
+* ''kielkawa'' 'he forgets' → 
+|}
+
+=Reduplication=
+Reduplication is a morphological process employed in several parts of the grammatical system, which is characterized in phonological terms. Nawat reduplication takes the form of repetition of a word's first syllable (actually only the (C)V part thereof). So for example, a reduplication of ''kunet'' 'child' is ''ku-kunet'' ''children'', and a derivative of the root ''petz-'' 'smooth' is ''pe-petz-ka'' 'a kind of small, silvery fish, local Spanish ''pepesca'.''
+
+Another more productive variety of reduplication involves adding a ''j'' after the reduplication, e.g. ''ku-j-kunet'' 'children', ''pe-j-petz-naj'' plural of ''petz-naj'' 'smooth, naked'. Generalizing, plain reduplication (without ''j'') is governed by lexical criteria. ''J''-reduplication, on the contrary, is used by grammatical rules which: 
+
+{|
+|-
+| 
+* generate noun or adjective plurals from singulars
+| style=&quot;background:#efefef;&quot; |
+''tamal'' 'tortilla' → ''taj-tamal'' 'tortillas'
+
+''mistun'' 'cat' → ''mij-mistun'' 'cats'
+
+''kal'' 'house' → ''kaj-kal'' 'houses'
+
+''apan'' 'river' → ''aj-apan'' 'rivers'
+|- 
+| 
+* produce iteratives from non-iterative verbs
+| style=&quot;background:#efefef;&quot; |
+''taketza'' 'he talks' → ''taj-taketza'' 'he converses'
+
+''nemi'' 'he is (somewhere)' → ''nej-nemi'' 'he walks about'
+
+''paki'' 'he is laughing' → ''paj-paki'' 'he is happy'
+
+''ki-ajwa'' 'he scolds him' → ''ki-aj-ajwa'' 'he tells him off'
+|}
+
+Noun phrase
+=Determiners and quantifiers=
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Common determiners and quantifiers
+|-
+! align=&quot;center&quot;|Some determiners
+! colspan=2 align=&quot;center&quot;|Some quantifiers
+|-
+| 
+* ''ne'' 'the'
+* ''se'' 'a(n)'
+* ''ini'' 'this'
+* ''uni'' 'that'
+|
+* ''se(j)se'' 'some, each'
+* ''miak'' 'many'
+* ''ch(i)upi'' 'few, a few'
+* ''muchi'' 'all'
+|
+* ''se'' 'one'
+* ''ume'' 'two'
+* ''yey'' 'three'
+* ''nawi'' 'four'
+* ''makwil'' 'five'
+|}
+The determiners (except for ''ne'') and quantifiers may be used pronominally, i.e. without a noun head, or preceding the noun they determine or quantify, e.g. ''ne takat'' 'the man', ''ini techan'' 'this village', ''miak kal'' 'many houses', ''ume siwat'' 'two women'.
+
+=Possession=
+
+The prefixes shown below are attached to nouns to express who they 'belong' to, e.g. ''nu-yak'' 'my nose', ''i-eltiw'' 'his/her sister', ''tu-mistun'' 'our cat', ''mu-techan'' 'your village'.
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Possessive indices
+|-
+! align=&quot;center&quot;|Singular possessor
+! align=&quot;center&quot;|Plural possessor
+|-
+| 
+''nu-'' 'my'
+
+''mu-'' 'your'
+
+''i-'' 'his/her/its'
+|
+''tu-'' 'our'
+
+''anmu-'' 'your'
+
+''in-'' 'their'
+|}
+
+Some nouns are always 'possessed', so that it is bad Nawat just to say *''se yak'' 'a nose' or *''ne eltiw'' 'the sister': instead one has to say ''se iyak'' 'one her-nose', ''ne nueltiw'' 'the my-sister', or whatever possessive form fits the context best. These include most nouns expressing either a part of the body or a member of one's family.
+
+Other nouns can occur either with or without a possessor. Some of these have two different forms, one (the absolute form) for use without a possessive prefix and the other (the construct form) for use with a possessive prefix. These 'states' may be indicated by different suffixes, e.g. ''ne kune-t'' 'the child' → ''ne nu-kune-w'' 'my child; ''ne sin-ti'' 'the maize' → ''ne nu-sin'' 'my maize'; ''ne es-ti'' 'the blood' → ''ne nu-es-yu'' 'my blood'. When both states of the noun are zero-marked (like ''mistun'' and ''techan''), we will say that the noun is 'invariable'.
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Absolute and construct suffixes
+|-
+! align=&quot;center&quot;|
+! align=&quot;center&quot;|Absolute
+! align=&quot;center&quot;|Construct
+|-
+! Singular
+| 
+* ''-t''
+* ''-ti''
+* zero
+|
+* ''-w''
+* zero
+|-
+! Plural
+| 
+* ''-met''
+* ''-ket''
+* zero
+|
+* ''-wan''
+* zero
+|}
+
+The possessive indices tell us the person and number of the possessor, which may be specified by a noun phrase following the construct noun. When that happens the construct will normally have the third-person index, e.g. ''ne i-mistun ne piltzin'' 'the boy's cat' (literally: 'his-cat the boy'). 
+
+There is an alternative way to express this, if the noun is alienable, using the preposition ''pal'' or the relational ''ipal'': ''ne mistun pal ne piltzin'' ('the cat of the boy'). Even with an inalienable possession, it is possible to say ''ne inan pal ne piltzin'' ('the his-mother of the boy').
+
+=The plural=
+Nouns may be made plural by two different procedures: 
+
+{|
+|
+through reduplication (see above)
+| style=&quot;background:#efefef;&quot; |
+* ''mistun'' 'cat' → ''mij-mistun'' 'cats'
+|-
+|
+using a plural suffix (-''met'', ''-ket'')
+| style=&quot;background:#efefef;&quot; |
+* ''taka-t'' 'man' → ''taka-met'' 'men'
+|}
+
+For constructs:
+
+{|
+|
+There is a special construct plural suffix, ''-wan'', used with certain nouns denoting family relations and similarly intimate 'possessions'.
+| style=&quot;background:#efefef;&quot; |
+* ''nu-elti-w'' 'my sister' → ''nu-elti-wan'' 'my sisters'
+* ''nu-kunpa'' 'my comrade or friend' → ''nu-kunpawan'' 'my comrades or friends'
+* ''nu-pal'' 'mine' → ''nu-pal-wan'' 'my possessions'
+|-
+|
+Otherwise the reduplicated form of the singular construct is used.
+| style=&quot;background:#efefef;&quot; |
+* ''nu-kune-w'' 'my child' → ''nu-kuj-kune-w'' 'my children'
+* ''nu-kwach'' 'my cloth'' → 'nu-kwaj-kwach'' 'my clothes'
+|-
+|
+Sometimes the possessive prefix is reduplicated instead.
+| style=&quot;background:#efefef;&quot; |
+* ''nu-ish'' 'my eye' → ''nuj-nu-ish'' 'my eyes'
+* ''i-kshi'' 'his foot' → ''ij-i-kshi'' 'his feet'
+|}
+
+Some word that may accompany a noun in the noun phrase, such as the determiners ''ne'', ''ini'', ''uni'', are invariable for number, e.g. ''uni mistun'' 'that cat', ''uni mijmistun'' 'those cats'. On the other hand, nouns accompanied by a quantifier that is plural in meaning need not themselves be pluralized morphologically, e.g. ''ume mistun'' 'two cats'.
+
+=Adjectives=
+
+Adjectives used attributively can precede or follow the noun, e.g. ''se selek iswat'' or ''se iswat selek'' 'a tender leaf' (''selek'' 'tender, fresh, green', ''iswat'' 'leaf').
+
+There is considerable variation regarding how to mark plural number in noun phrases containing an adjective. As long as some element or other in the noun phrase marks the phrase as plural, it seems not to matter which one, or even how many elements are (redundantly) pluralized, though there some speakers seem to indicate a preference for (1) marking plurality in the first possible component, and (2) avoiding redundancy, thus ''chijchiltik tzaput'' or ''tzajtzaput chiltik'', but ''ume chiltik tzaput'' or ''ume tzaput chiltik''.
+
+=Pronouns and adverbs=
+No noun phrase is marked for case, and this is just as true of the pronouns, which have each a single form that can perform any function in the sentence.
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Personal pronouns
+|-
+! align=&quot;center&quot;|Singular
+! align=&quot;center&quot;|Plural
+|-
+| 
+''naja'' 'I/me'
+
+''taja'' 'you'
+
+''yaja'' 'he/him, she/her, it'
+|
+''tejemet'' 'we/us'
+
+''anmejemet'' 'you'
+
+''yejemet'' 'they/them'
+|}
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Other pronouns and deictic adverbs
+|-
+!
+! align=&quot;center&quot;|Pronouns
+! align=&quot;center&quot;|Place adverbs
+! align=&quot;center&quot;|Other adverbs
+|-
+! align=&quot;center&quot;|Demonstrative
+| 
+*''ini, yajini'' 'this'
+*''uni, yajuni'' 'that'
+*''yaja ne'' 'that' (distant)
+|
+*''nikan'' 'here'
+*''unkan'' 'there'
+*''ne'' 'there' (distant)
+|
+*''ijkini'' 'like this'
+*''ijkiuni'' 'like that, so'
+*''ash(k)an'' 'now, today'
+*''kwakuni'' 'then'
+*''nemanha'' 'later'
+|-
+! align=&quot;center&quot;|Interrogative
+| 
+*''ká'' 'who?'
+*''tey/tay'' 'what?'
+*''katiawel?'' 'which one?'
+|
+*''kan?'' 'where?'
+|
+*''ken?'' 'how? what like?'
+*''keman?'' 'when?'
+|-
+! align=&quot;center&quot;|Indefinite
+| 
+*''aka'' 'anybody'
+*''inte aka'' 'nobody'
+*''tatka'' 'anything'
+*''inte tatka'' 'nothing'
+|
+*''kanaj'' 'somewhere else'
+*''inte kanaj'' 'nowhere'
+*''nujme'' 'everywhere'
+|
+*''inte keman'' 'never'
+|}
+
+=Case, prepositions and relationals=
+
+Noun phrases in core grammatical functions are not marked for case. To specify other roles, a preposition or a relational may precede a noun phrase. The main prepositions are:
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Prepositions
+| ka
+| 'to, at (etc.)'
+| 
+*''ka tiupan'' 'to the church'
+*''ka tayua'' 'at night'
+|-
+| tik
+| 'in, to, from (etc.)'
+| 
+*''tik ne techan'' 'in/to/from the village'
+*''tik Nawat'' 'in Nawat'
+|-
+| pak
+| 'on'
+| 
+*''pak ne metat'' 'on the grinding stone'
+|-
+| tech
+| 'at, by, near, to'
+| 
+*''tech ne apan'' 'by the river'
+*''tech ne siwat'' 'to the woman'
+|-
+| wan
+| 'with (etc.)'
+| 
+*''wan ne siwat'' 'with the woman'
+|-
+| chan
+| '' 'chez' ''
+| 
+*''chan ne siwat'' 'at/to/from the woman's house'
+|-
+| pal
+| 'of, for'
+| 
+*''pal nunan'' 'for my mother'
+*''se siwat pal nutechan'' 'a woman from my village'
+|}
+
+All the above prepositions derive diachronically from relationals. In some cases the preposition merely represents an abbreviation of the relational by omitting the ''i-'' prefix.
+
+Relationals are quasi-nouns expressing some relationship (sometimes spatial, but not always) to their possessive complement. For example, ''nu-jpak'', meaning 'on or over me', consists of the relational ''(i)jpak'' conveying 'position above' with a first person singular possessor. Some relationals are shown in third-person-singular forms in the following table:
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+! colspan=&quot;2&quot; align=&quot;center&quot;|Some relationals
+|-
+! align=&quot;center&quot;|Spatial relations
+! align=&quot;center&quot;|Other relations
+|-
+| 
+* ''ijtik'' 'in, inside'
+* ''ijpak'' 'on, over'
+* ''itan'' 'under'
+* ''ishpan'' 'in front of'
+* ''ipan'' 'behind'
+* ''itech'' 'near, alongside'
+|
+* ''iwan'' 'with'
+* ''ichan'' 'at/to/from the house of'
+* ''ipal'' 'for, belonging to'
+* ''ipanpa'' 'on account of, instead of'
+|}
+
+Basic verb morphology
+=Subject and object indices=
+
+The following table shows the prefixes that serve to index the subject and object, respectively. (Note that in the subjunctive mood the second-person subject prefix takes the special form ''shi-''.)
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Subject and object indices
+|-
+! align=&quot;center&quot;|Number
+! align=&quot;center&quot;|Person
+! align=&quot;center&quot;|Subject 
+
+prefixes
+! align=&quot;center&quot;|Object 
+
+prefixes
+|-
+! rowspan=3 | Singular
+! 1
+| ''ni-''
+| ''nech-''
+|-
+! 2
+| ''ti-, shi-''
+| ''metz-''
+|-
+! 3
+| ''-''
+| ''ki- / -k-''
+|-
+! rowspan=3 | Plural
+! 1
+| ''ti-''
+| ''tech-''
+|-
+! 2
+| ''an(h)-, shi-''
+| ''metzin(h)-''
+|-
+! 3
+| ''-''
+| ''kin(h)-''
+|}
+
+Verbs with a plural subject take a plural suffix: basically ''-t'' except in the subjunctive when ''-kan'' is used:
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Subject person and number indices
+|-
+! 
+! 
+! colspan=2 align=&quot;center&quot;|Indicative
+! colspan=2 align=&quot;center&quot;|Subjunctive
+|-
+! align=&quot;center&quot;|Number
+! align=&quot;center&quot;|Person
+! align=&quot;center&quot;|Prefix
+! align=&quot;center&quot;|Suffix
+! align=&quot;center&quot;|Prefix
+! align=&quot;center&quot;|Suffix
+|-
+! rowspan=3 | Singular
+! 1
+| ''ni-''
+| rowspan=3 | ''-''
+| ''ni-''
+| rowspan=3 | ''-''
+|-
+! 2
+| ''ti-''
+| ''shi-''
+|-
+! 3
+| ''-''
+| ''-''
+|-
+! rowspan=3 | Plural
+! 1
+| ''ti-''
+| rowspan=3 | ''-t''
+| ''ti-''
+| rowspan=3 | ''-kan''
+|-
+! 2
+| ''an-''
+| ''shi-''
+|-
+! 3
+| ''-''
+| ''-''
+|}
+
+Transitive verbs take, in addition, an object prefix after the subject prefix. The third-singular object prefix ''ki-'' is shortened to ''-k-'' when preceded by any of the subject prefixes ''ni-'', ''ti-'' or ''shi-''. This is illustrated here by the present (indicative) and subjunctive of an intransitive verb (''panu'' 'pass') and a transitive verb with a third-person-singular object (''-pia'' 'have'):
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Sample verbs
+|-
+! 
+! 
+! colspan=2 align=&quot;center&quot;|''panu'' (intransitive)
+! colspan=2 align=&quot;center&quot;|''-pia'' (transitive)
+|-
+! align=&quot;center&quot;|Number
+! align=&quot;center&quot;|Person
+! align=&quot;center&quot;|Present
+! align=&quot;center&quot;|Subjunctive
+! align=&quot;center&quot;|Present
+! align=&quot;center&quot;|Subjunctive
+|-
+! rowspan=3 | Singular
+! 1
+| ''nipanu''
+| ''ma nipanu''
+| ''nikpia''
+| ''ma nikpia''
+|-
+! 2
+| ''tipanu''
+| ''ma shipanu''
+| ''tikpia''
+| ''ma shikpia''
+|-
+! 3
+| ''panu''
+| ''ma panu''
+| ''kipia''
+| ''ma kipia''
+|-
+! rowspan=3 | Plural
+! 1
+| ''tipanut''
+| ''ma tipanukan''
+| ''tikpiat''
+| ''ma tikpiakan''
+|-
+! 2
+| ''anpanut''
+| ''ma shipanukan''
+| ''ankipiat''
+| ''ma shikpiakan''
+|-
+! 3
+| ''panut''
+| ''ma panukan''
+| ''kipiat''
+| ''ma kipiakan''
+|}
+
+A few examples follow:
+
+{|
+|
+Intransitive:
+| style=&quot;background:#efefef;&quot; |
+* ''Nuteku tekiti tik ne mil.'' 'My father works in the cornfield.'
+* ''Taika tichuka?'' 'Why are you crying?'
+* ''Ne kujkunet kuchit.'' 'The children are sleeping.'
+|-
+| 
+Third-person-singular object:
+| style=&quot;background:#efefef;&quot; |
+* ''(Naja) nikpia se tiltik mistun.'' 'I have a black cat.'
+* ''(Tejemet) tiktemuat kwawit tik ne kujtan.'' 'We are looking for wood in the forest.'
+|-
+| 
+Non-third-person-singular object:
+| style=&quot;background:#efefef;&quot; |
+* ''Taika tinechtemua?'' 'Why are you looking for me?'
+* ''(Naja) nikinnutza ne kujkunet.'' 'I am calling the children.'
+|-
+| 
+Transitive with third-person (zero-prefix) subject:
+| style=&quot;background:#efefef;&quot; |
+* ''Nuteku kipia chiupi tumin.'' 'My father has some money.'
+* ''Te nechkakit ne kujkunet.'' 'The children cannot (do not) hear me.'
+|}
+
+=Tenses=
+Tenses (so called for convenience although they include aspect or mood categories) are characterized by distinct suffixes. The plural suffix ''-t'' combines with each tense suffix to give us plural tense endings, also shown here. 
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Tense endings
+|-
+! align=&quot;center&quot;|
+! align=&quot;center&quot;|Singular ending
+! align=&quot;center&quot;|Plural ending
+|-
+! Present
+| ''-''
+| ''-t''
+|-
+! Past
+| ''-ki, -k, -, -j''
+| ''-ket''
+|-
+! Perfect
+| ''-tuk''
+| ''-tiwit''
+|-
+! Future
+| ''-s''
+| ''-sket''
+|-
+! Conditional
+| ''-skia''
+| ''-skiat''
+|-
+! Perfect Conditional
+| ''-tuskia''
+| ''-tuskiat''
+|-
+! Imperfect/Pluperfect
+| ''-tuya''
+| ''-tuyat''
+|-
+! Subjunctive/Imperative
+| ''-''
+| ''-kan''
+|-
+! Participle
+| colspan=2 | ''-tuk''
+|}
+
+{|
+|
+The present (despite its name), perfect and subjunctive are not time-specific, but may refer to events before, at or later than the time of speaking as determined by the context. They express an ongoing or habitual, completed and potential action or state, respectively.
+| style=&quot;background:#efefef;&quot; |
+* Present: ''Nemik se takat munamiktijtuk kipiatuya ne isiwaw, wan inte kimati katka ka kisa ka tayua.'' 'There was a married man who had a wife, and didn't know that she ''used to go out'' at night.'
+* Perfect: ''Yaja pejki kikwa ne tortaj kimakatuk inan.'' 'He started to eat the bun his mother ''had given'' him.'
+* Subjunctive: ''Kilwij ma walmukwepa.'' 'He told her to come back (or: ''that she should come back'').'
+|-
+|
+The imperative only differs from the subjunctive by the absence of the particle ''ma''.
+| style=&quot;background:#efefef;&quot; |
+* Subjunctive: ''Yawi metzilwia ma shimutali.'' 'She will tell you ''to sit down''.'
+* Imperative: ''Shikalaki wan shimutali!'' '' 'Come in'' and ''sit down''!'
+|-
+|
+The participle acts like a noun or adjective: it does not take object prefixes and is pluralized by reduplication rather than suffixation.
+| style=&quot;background:#efefef;&quot; |
+* ''Nikpia se kumit tentuk wan et.'' 'I have a pot ''full'' of beans.'
+* ''Nikpia yey kumit (tej)tentuk wan et.'' 'I have three pots ''full'' of beans.'
+|}
+
+=Conjugation classes=
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Regular conjugation classes
+|-
+! align=&quot;center&quot;|
+! align=&quot;center&quot;|Present
+! align=&quot;center&quot;|Past
+! align=&quot;center&quot;|Perfect
+! align=&quot;center&quot;|Subjunctive
+|-
+! I
+| ''kuchi'' 'sleep'
+| ''kuchki''
+| ''kuchtuk''
+| ''ma kuchi''
+|-
+! II
+| ''panu'' 'pass'
+| ''panuk''
+| ''panutuk''
+| ''ma panu''
+|-
+! III
+| ''tajtani'' 'ask'
+| ''tajtan''
+| ''tajtantuk''
+| ''ma tajtani''
+|-
+! IV
+| ''mutalua'' 'run'
+| ''mutaluj''
+| ''mutalujtuk''
+| ''ma mutalu''
+|}
+
+The verbs classified as Class I in this table end in ''a'' or ''i'' in the present and subjunctive, but that vowel is lost in the past (which ends in ''-ki'' in this class) and in the perfect (all perfects are in ''-tuk''). Class II verbs, which end in ''a'', ''i'' or ''u'', retain this in all forms, and form their past in ''-k''. Class III differs from Class I only in that there is no past suffix at all, only the bare stem. Class IV verbs end in ''-ia'' or ''-ua'' in the present, but lose their final ''a'' in all the other tenses (including the subjunctive), and add a ''j'' in the past and perfect.
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Mutating Class I verbs
+! align=&quot;center&quot;|Present
+! align=&quot;center&quot;|Past
+! align=&quot;center&quot;|Perfect
+! align=&quot;center&quot;|Subjunctive
+|-
+| ''pew-a'' 'begin'
+| ''pej-ki''
+| ''pej-tuk''
+| ''ma pew-a'' 
+|-
+| ''-inay-a'' 'hide'
+| ''-inash-ki''
+| ''-inash-tuk''
+| ''ma -inay-a'' 
+|-
+| ''-ku-a'' 'buy'
+| ''-kuj-ki''
+| ''-kuj-tuk''
+| ''ma -ku-a'' 
+|-
+| ''-pi-a'' 'have'
+| ''-pish-ki''
+| ''-pish-tuk''
+| ''ma -pi-a'' 
+|}
+
+Class I includes a sub-class of mutating stems which end in the present and subjunctive in ''-wa'', ''-ua'', ''-ya'' or ''-ia''. These change to ''-j-'', ''-uj-'', ''-sh-'' and ''-ish-'', respectively, in the past and perfect. 
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ Irregular verbs
+! align=&quot;center&quot;|Present
+! align=&quot;center&quot;|Past
+! align=&quot;center&quot;|Perfect
+! align=&quot;center&quot;|Subjunctive
+|-
+| ''yaw(i)'' 'go'
+| ''yajki''
+| ''yajtuk''
+| ''ma yaw(i)'' 
+|-
+| ''witz'' 'come'
+| ''walaj''
+| ''walajtuk''
+| ''ma wiki''
+|-
+| ''-kwa'' 'eat'
+| ''-kwaj''
+| ''-kwajtuk''
+| ''ma -kwa''
+|-
+| ''-kwi'' 'take'
+| ''-kwij''
+| ''-kwijtuk''
+| ''ma -kwi''
+|}
+
+There are very few truly irregular verbs. The present and subjunctive of ''yawi'' 'go' and ''witz'' 'come' are given in full here:
+
+{| border=&quot;1&quot; cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; class=&quot;wikitable&quot; style=&quot;margin: 1em auto 1em auto&quot;
+! 
+! 
+! colspan=3 align=&quot;center&quot;|''yawi'' 'go'
+! colspan=3 align=&quot;center&quot;|''witz'' 'come'
+|-
+! align=&quot;center&quot;|
+! align=&quot;center&quot;|
+! align=&quot;center&quot;|Present
+! align=&quot;center&quot;|Subjunctive
+! align=&quot;center&quot;|Past
+! align=&quot;center&quot;|Present
+! align=&quot;center&quot;|Subjunctive
+! align=&quot;center&quot;|Past
+|-
+! rowspan=3 | Singular
+! 1
+| ''niyaw''
+| ''ma niyaw''
+| ''niajki''
+| ''niwitz''
+| ''ma niwiki''
+| ''niwalaj''
+|-
+! 2
+| ''tiyaw''
+| ''ma shu''
+| ''tiajki''
+| ''tiwitz''
+| ''ma shiwi''
+| ''tiwalaj''
+|-
+! 3
+| ''yawi''
+| ''ma yawi''
+| ''yajki''
+| ''witz''
+| ''ma wiki''
+| ''walaj''
+|-
+! rowspan=3 | Plural
+! 1
+| ''tiawit''
+| ''ma tiawit''
+| ''tiajket''
+| ''tiwitzet''
+| ''ma tiwikikan''
+| ''tiwalajket''
+|-
+! 2
+| ''anyawit''
+| ''ma shumet / sh(i)akan''
+| ''anyajket''
+| ''anwitzet''
+| ''ma shiwimet / shiwikan''
+| ''anwalajket''
+|-
+! 3
+| ''yawit''
+| ''ma yawit''
+| ''yajket''
+| ''witzet''
+| ''ma wikikan''
+| ''walajket''
+|}
+
+=Directional prefix=
+
+The directional prefix ''wal-'' 'towards the speaker' follows subject indices but precedes object indices (in transitive verbs) except for ''ki-''. It has the morphological peculiarity that when preceded by ''ni-'', ''ti-'', ''shi-'' or ''ki-'' both ''i'' and ''w'' are omitted, leaving ''nal-'', ''tal-'', ''shal-'' and ''kal-''. When ''ni-/ti-/shi-'', ''ki-'' and ''wal-'' would all come together, the ''ki-'' component disappears altogether, so that ''nal-'', ''tal-'' and ''shal-'' do double duty as transitive (= ''ni- + ki- + wal-'', etc.) markers as well as intransitive (= ''ni- + wal-'', etc.) ones. The plural object marker ''kin-'' is split in two when combined with ''wal-''. The following examples illustrate.
+
+{| class=wikitable style=&quot;margin: 1em auto 1em auto&quot;
+| ''kiski'' 'went/came out' 
+| ''walkiski'' 'came out (towards me)'
+|-
+| ''nitemuk'' 'I went down'
+| ''naltemuk'' 'I came down (here)'
+|-
+| ''kiwikak'' 'he took (it)'
+| ''kalwikak'' 'he brought (it)'
+|-
+| ''nikwikak'' 'I took (it)'
+| ''nalwikak'' 'I brought (it)'
+|-
+| ''kinnutzki'' 'he called them'
+| ''kalinnutzki'' 'he called them here'
+|-
+| ''nikinnutzki'' 'I called them'
+| ''nalinnutzki'' 'I called them here'
+|}
+
+Syntax
+=Non-verbal predicates=
+
+{|
+|width=&quot;50%&quot;|
+Non-verbal phrases may be employed as predicates, with no verbal element at all in the sentence.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Ini Carlos.'' 'This ''is Carlos''.'
+* ''Carlos tumak.'' 'Carlos ''is fat''.'
+* ''Yejemet tuj-tumak.'' 'They ''are fat''.'
+|-
+|
+Non-verbal predicates do not have most of the morphological categories of verbs (such as tense), but some of them do take the subject indices. As usual there is no prefix for third-person subjects, hence ''Ini Carlos''.
+| style=&quot;background:#efefef;&quot; |
+* ''Naja ni-Carlos.'' 'I ''am Carlos''.'
+* ''Taja ti-tumak.'' 'You (sg.) ''are fat''.'
+* ''Tejemet ti-tuj-tumak.'' 'We ''are fat''.' 
+|-
+|
+Subjunctive non-verbal predicates are possible.
+| style=&quot;background:#efefef;&quot; |
+* ''Ma ijkia!'' '' 'Let it be so''!'
+* ''Naja niknekiskia ma nupal.'' 'I wish ''it were mine''.'
+|-
+|
+Non-verbal predicates may be followed (like verbal ones) by an invariable ''katka'' which establishes a past time-frame. In a non-verbal context ''katka'' can thus be translated as ''was'' or ''were''.
+| style=&quot;background:#efefef;&quot; |
+* ''Naja ni-tumak katka.'' 'I ''was fat / used to be fat''.'
+|}
+
+=Intransitive and transitive=
+Most Nawat verbs belong clearly to one of two major formal types: intransitive or transitive. 
+
+Here, intransitive verbs are understood to be those which cannot have an object and corresponding object prefixes, while transitive verbs are those which must have an object and object prefixes. Neither subject nor object noun phrases need be present in the sentence, but whether explicit or implicit, the corresponding subject and object indices must. (This statement rests on the convention of considering the index for a third-person subject to take the form of 'zero'.)
+
+Some of the most common intransitive and transitive Nawat verbs are given below:
+
+{| cellpadding=&quot;4&quot; cellspacing=&quot;0&quot; style=&quot;margin: 1em auto 1em auto&quot;
+|+ ''Some common Nawat verbs (by transitivity and conjugation class)''
+| colspan=6 | Intransitive:
+|-
+| style=&quot;background:#efefef;&quot; | chuka (II)
+| cry
+| style=&quot;background:#efefef;&quot; | ina (II)
+| say
+| style=&quot;background:#efefef;&quot; | kalaki (III)
+| enter
+|-
+| style=&quot;background:#efefef;&quot; | kisa (I)
+| go/come out
+| style=&quot;background:#efefef;&quot; | kuchi (I)
+| sleep
+| style=&quot;background:#efefef;&quot; | miki (II)
+| die
+|-
+| style=&quot;background:#efefef;&quot; | naka (II)
+| stay
+| style=&quot;background:#efefef;&quot; | nemi (II)
+| be (in a place or state), exist
+| style=&quot;background:#efefef;&quot; | nesi (II)
+| be seen, be born
+|-
+| style=&quot;background:#efefef;&quot; | paki (II)
+| be happy, laugh
+| style=&quot;background:#efefef;&quot; | panu (II)
+| pass
+| style=&quot;background:#efefef;&quot; | pewa (I)
+| begin
+|-
+| style=&quot;background:#efefef;&quot; | taketza (I)
+| talk
+| style=&quot;background:#efefef;&quot; | takwika (II)
+| sing
+| style=&quot;background:#efefef;&quot; | tami (II)
+| end
+|-
+| style=&quot;background:#efefef;&quot; | tekiti (I)
+| work
+| style=&quot;background:#efefef;&quot; | temu (II)
+| go down
+| style=&quot;background:#efefef;&quot; | chuka (II)
+| cry
+|-
+| style=&quot;background:#efefef;&quot; | weli (II)
+| be able, know (how to)
+| style=&quot;background:#efefef;&quot; | witz (irr.)
+| come
+| style=&quot;background:#efefef;&quot; | yawi (irr.)
+| go
+|-
+| colspan=6 | Transitive:
+|-
+| style=&quot;background:#efefef;&quot; | -chia (I)
+| wait (for)
+| style=&quot;background:#efefef;&quot; | -chiwa (I)
+| make, do
+| style=&quot;background:#efefef;&quot; | -ilpia (IV)
+| tie
+|-
+| style=&quot;background:#efefef;&quot; | -ilwia (IV)
+| tell (someone)
+| style=&quot;background:#efefef;&quot; | -ishtia (IV)
+| take out
+| style=&quot;background:#efefef;&quot; | -ita (II)
+| see
+|-
+| style=&quot;background:#efefef;&quot; | -kaki (II, IV)
+| hear, listen to
+| style=&quot;background:#efefef;&quot; | -kua (I)
+| buy
+| style=&quot;background:#efefef;&quot; | -kwa (irr.)
+| eat
+|-
+| style=&quot;background:#efefef;&quot; | -maka (II)
+| give (to someone)
+| style=&quot;background:#efefef;&quot; | -mana (I)
+| cook
+| style=&quot;background:#efefef;&quot; | -mati (I)
+| know, understand
+|-
+| style=&quot;background:#efefef;&quot; | -neki (II)
+| want, love
+| style=&quot;background:#efefef;&quot; | -nutza (I)
+| call, speak to
+| style=&quot;background:#efefef;&quot; | -paka (II)
+| wash
+|-
+| style=&quot;background:#efefef;&quot; | -palewia (IV)
+| help
+| style=&quot;background:#efefef;&quot; | -pia (I)
+| have
+| style=&quot;background:#efefef;&quot; | -talia (IV)
+| put
+|-
+| style=&quot;background:#efefef;&quot; | -temua (IV)
+| look for
+| style=&quot;background:#efefef;&quot; | -uni (II)
+| drink
+| style=&quot;background:#efefef;&quot; | -wika (I)
+| take, carry
+|}
+
+=Valency changes=
+There are a number of means, grammatical or lexical, for changing a verb's valency (the number of arguments it takes) and thereby effectively 'converting' it to a different transitivity type. A considerable number of lexical pairs exist consisting of two related verbs, one intransitive and the other transitive:
+
+{|
+|width=&quot;50%&quot;|
+The ''-i'' (intr.) ~ ''-a'' or ''-ia'' (tr.) alternation is very frequent in the lexicon, but is not productive, and does not constitute a hard-and-fast rule.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''kelun-i'' (II) 'break' (intr.) ~ ''-kelun-a'' (I) 'break' (tr.)
+* ''tem-i'' (II) 'become full' (intr.) ~ ''-tem-a'' (I) 'fill' (tr.)
+* ''shin-i'' (II) 'be sprinkled' (intr.) ~ ''-shini-a'' (IV) 'sprinkle' (tr.)
+* ''tam-i'' (II) 'end' (intr.) ~ ''-tami-a'' (IV) 'end' (tr.)
+|-
+|width=&quot;50%&quot;|
+A more productive lexical derivation that increases valency is the causative suffix ''-tia''.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''kalak-i'' (II) 'enter' (intr.) ~ ''-kalak-tia'' (IV) 'put in, bring in' (tr.)
+* ''mik-i'' (II) 'die' (intr.) ~ ''-mik-tia'' (IV) 'kill' (tr.)
+* ''panu'' (II) 'pass' (intr.) ~ ''-panul-tia'' (IV) 'cause to pass' (tr.)
+* ''tawan-i'' (II) 'get drunk' (intr.) ~ ''-tawan-tia'' (IV) 'get (someone) drunk' (tr.)
+|}
+
+Apart from such purely lexical alternations, there are two prefixes with specific grammatical functions which, attached to transitive verbs, reduce their surface valency (when they are used, there is no object prefix): 
+
+{|
+|width=&quot;50%&quot;|
+The unaccusative prefix ''ta-'' indicates that the object is indefinite or unspecified. Compare: ''Yaja ki-kwa'' 'He eats it', ''Yaja ki-kwa ne et'' 'He eats the beans', but ''Yaja ta-kwa'' 'he eats'.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''-kwa'' 'eat' (tr.) → ''ta-kwa'' (unspecified object)
+* ''-mana'' 'cook' (tr.) → ''ta-mana'' (unspecified object)
+* ''-paka'' 'wash' (tr.) → ''ta-paka'' (unspecified object)
+|-
+|width=&quot;50%&quot;|
+The unergative prefix ''mu-'' avoids mentioning the agent, and the underlying object gets re-encoded as surface subject, e.g. ''Mu-kwa'' 'It gets eaten', ''Mu-kwa ne et'' 'The beans get eaten'.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''-kwa'' 'eat' (tr.) → ''mu-kwa'' 'get eaten'
+* ''-mana'' 'cook' (tr.) → ''mu-mana'' 'get cooked'
+|-
+|width=&quot;50%&quot;|
+''Mu-'' has three other possible meanings, all involving a survace valency decrease: reflexive, reciprocal and middle.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* Reflexive: ''-paka'' 'wash' (tr.) → ''mu-paka'' 'wash oneself'
+* Reciprocal: ''-ita'' 'see' (tr.) → ''mu-ita'' 'see each other'
+* Middle: ''-namiktia'' 'marry (tr.) → ''mu-namiktia'' 'get married'
+|}
+
+=Unmarked oblique complements=
+Some Nawat verbs have a complement which does not correspond to any index in the verb. These include the following: 
+
+{|
+|width=&quot;50%&quot;|
+Intransitive verbs taking a locative complement. In this case the complement may optionally be replaced by a prepositional or relational phrase.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Naja niyaw Sentzunat.'' 'I am going ''to Sonsonate''.'
+(also: ''Naja niyaw ka Sentzunat.'')
+* ''Yaja nemi Awachapan.'' 'She is ''in Ahuachapán''.'
+(also: ''Yaja nemi tik Awachapan.'')
+|-
+|width=&quot;50%&quot;|
+Ditransitive verbs, i.e. transitive verbs with two 'objects'. Generally one of these has the semantic role of recipient or affected party, and this will be encoded as grammatical object in Nawat. The other complement, normally in a patient role, is made the unmarked oblique complement. 
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Ne siwat nechmakak ne tumin.'' 'The woman gave me ''the money''.'
+* ''Yaja kinmachtia Nawat.'' 'He teaches them ''Nawat''.' 
+* ''Nechishtilijket ne nupiltzin.'' 'They took ''my son'' from me.'
+|-
+|width=&quot;50%&quot;|
+Valency-reduced ditransitives, i.e. verbs of the preceding type that undergo valency-reduction with ''ta-'' or ''mu-'', thereby becoming two-argument verbs without a grammatical object. For example, ''ta-machtia'' 'teach (something)' (without saying whom we teach).
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Yaja tamachtia Nawat.'' 'He teaches ''Nawat''.'
+* ''Ne siwat tamakak tumin.'' 'The woman gave ''money''.' 
+|-
+|width=&quot;50%&quot;|
+With ''mu-'' we have ''mu-machtia'' 'learn, study' (i.e. 'teach oneself').
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Yejemet mumachtiat Nawat.'' 'They learn (or study) ''Nawat''.' 
+|}
+
+=Verb sequences=
+There are several ways for a verb to be subordinated to another (preceding) verb. 
+
+* If the verbs have different subjects: 
+
+{|
+|width=&quot;50%&quot;|
+the subordinate verb may be in the subjunctive (always introduced by ''ma'')...
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Nikneki ma shinaka.'' 'I want you to stay.'
+|-
+| ...or in the present tense introduced by ''pal'' or ''ka''.
+| style=&quot;background:#efefef;&quot; |
+* ''Niwalajtuk nikan pal titaketzat.'' 'I have come here so that we may talk.' (literally 'I have come here for we talk')
+* ''Ken tikchiwki ka yawi ne tawanani?'' 'How did you get the drunkard to go away?' (lit. 'How did you make that (he) goes away the drunkard?')
+|-
+| But if the first object is the same as the second subject, there may be no subordinator with the present (serial verb construction).
+| style=&quot;background:#efefef;&quot; |
+* ''Inte nechajkawa nikalaki.'' 'She won't let me in.' (literally 'She doesn't let me I enter')
+|}
+
+* When both verbs share the same subject:
+
+{|
+|width=&quot;50%&quot;|
+''Pal'' may again be used, with both verbs indexed for the same subject:
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Niwalaj ka nikan pal nitaketza muwan.'' 'I came here in order to talk to you.' (lit. 'I came here for I talk with you')
+|-
+| The two verbs may be juxtaposed with no intervening subordinator, again with both verbs indexed for the same subject and the second in the present (i.e. unmarked) tense. Called the serial verb construction, this pattern is very pervasive and has many uses in Nawat.
+| style=&quot;background:#efefef;&quot; |
+* ''Niajki nitaketza iwan.'' 'I went to speak to him.' (literally 'I went I speak with him')
+* ''Nikistuk nipashalua.'' 'I have come out for a stroll.' (lit. 'I have gone out I stroll')
+* ''Nimuketzki niktatia tit.'' 'I got up to light the fire.' (lit. 'I got up I light the fire')
+* ''Nimukwepki nikita.'' 'I turned around to see.' (lit. 'I turned round I see')
+* ''Yaja mutalia chuka.'' 'He is sitting (there) crying.' (lit. 'He sits he cries')
+|}
+
+=Periphrastic TAM constructions=
+The serial construction also serves as the structure for a number of compound expressions of tense, aspect and modality, e.g.
+
+{| 
+| width=&quot;50%&quot; |
+''yawi'' (present) + V (periphrastic future)
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Naja niyaw nimumachtia Nawat.'' 'I am going to (''or'' I will) learn Nawat.'
+|-
+| ''nemi'' + V 'be V-ing'
+| style=&quot;background:#efefef;&quot; |
+* ''Tejemet tinemit titakwat.'' 'We are eating.' ''
+|-
+| ''pewa'' + V 'start V-ing'
+| style=&quot;background:#efefef;&quot; |
+* ''Ne piltzin pejki chuka.'' 'We boy started to cry.' ''
+|-
+| ''-neki'' + V 'want to V'
+| style=&quot;background:#efefef;&quot; |
+* ''Naja niknekiskia nimetzpalewia.'' 'I would like to help you.' ''
+|-
+| ''weli'' + V 'can/be able to/know how to V'
+| style=&quot;background:#efefef;&quot; |
+* ''Taja tiweli titaketza yek.'' 'You can speak well.' ''
+|}
+
+But there are also constructions, or variant expressions, that depart from this pattern somewhat. 
+
+The invariable word ''katka'', which means 'was' or 'before, in the past', may occur following a verb form to establish past or habitual reference, e.g. ''inte kimati katka'' 'he didn't know'.
+
+=Negation=
+
+Negative particles immediately precede either a verb or a non-verbal predicate. Basically there are three of them:
+
+{| 
+| width=&quot;50%&quot; |
+the ordinary negator ''inte'' (with a shorter form: ''te'' and a dialect variant ''tesu''),
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Ne siwatket inte walajtiwit.'' 'The women have not come.' 
+* ''Tesu nikmati.'' 'I do not know.'
+* ''Naja te ni-Carlos.'' 'I am not Carlos.'
+|-
+| the less frequent ''nian'' or ''nan'', which is conjunctive or emphatic, 
+| style=&quot;background:#efefef;&quot; |
+* ''Yejemet inte takwajket nian atiket.'' 'They neither ate nor drank.' 
+|-
+| and the prohibitive ''maka'' or ''má''. 
+| style=&quot;background:#efefef;&quot; |
+* ''Maka shalmukwepa!'' 'Don't come back!' 
+|}
+
+They also combine with pronouns and adverbs to yield other negative expressions, e.g. ''(in)te (t)atka'' 'nothing', ''(in)te aka'' 'no one', ''(in)te keman'' 'never', ''nian aka'' 'no one at all, and no one', ''maka keman'' 'never ever!', etc.: ''Inte nikmati tatka (datka)'' 'I know nothing', ''Maka shikilwi aka!'' 'Do not tell anyone!'
+
+=Phase=
+Two suffixes, ''-a'' and ''-uk'', lend different phasal nuances to a predicate, i.e. they add certain temporal (or related) notions, expressing that a situation has already been reached (with ''-a'') or that it still obtains (with ''-uk''). The more common phasal suffix, ''-a'', is also used simply to place emphasis on the predicate so marked. Compare for example:
+
+{| style=&quot;margin: 1em auto 1em auto&quot; 
+| style=&quot;background:#efefef;&quot; |
+* ''Nemi takwal.'' 'There is some food.'
+* ''Nemia takwal.'' 'There is food now.' (implies there wasn't any before)
+* ''Nemiuk takwal.'' 'There is still food.' (implies there was food before too)
+|}
+
+In negative sentences, the phasal suffixes are added to the negative particle, for example:
+
+{| style=&quot;margin: 1em auto 1em auto&quot; 
+| style=&quot;background:#efefef;&quot; |
+* ''Inte (te, tesu) nemi takwal.'' 'There is no food.'
+* ''Intea (teya, teya su) nemi takwal.'' 'There is no more food.'
+* ''Inteuk (teyuk) nemi takwal.'' 'There is no food yet.'
+|}
+
+=Questions=
+Yes-no questions are not differentiated grammatically from the corresponding statements. They may be affirmative, e.g. ''Taja tikmati?'' 'Do you know?', or negative, e.g. ''Inte tikitak kanka witz?'' 'Didn't you see where he was coming from?'
+
+For replying affirmatively to yes-no questions, one may use ''E / Ej / Eje'' 'Yes', and sometimes ''Kia'' 'That's right' (literally 'So'). But it is equally common to respond using the appropriately inflected form of the main verb of the question, e.g. (offering a cookie, for example) ''Tikneki se? - Nikneki'' 'Would you like one? - I would', ''Weli titaketza Nawat? - Weli'' 'Can you speak Nawat? - I can'. The standard negative answer is ''Inte / Te / Tesu'' 'No', or again, the verb of the question negated: ''Tikitak uni takat ka ne? - Te nikitak'' 'Did you see that man over there? - I did not'. Other idiomatic responses include ''Nusan'' 'Also', ''Teika inte!'' or ''Taika te!'' 'Why not!' and ''Inte / Te / Tesu nikmati'' 'I don't know'.
+
+Wh-questions are formed with a wh-word which usually immediately precedes the predicate (verbal or non-verbal.
+
+Indirect questions are introduced by either ''(a)su'' 'if, whether' or a wh-expression, depending on the kind of question.
+
+=Coordination=
+
+''Wan'' or ''iwan'' (which is also the preposition and relational 'with') serves as an all-purpose coordinating conjunction. There seem not to be any specialised native words for 'but' and 'or' (unless ''ush'' 'or' is one), and the Spanish words ''pero'' and ''o'' are sometimes used. ''N(i)an'' 'nor' may be used to coordinate negative statements. ''Mal'' or ''melka'' 'although, even though' can form adversative clauses, e.g. ''Niyaw niyaw, mal-te/melka te nikneki'' 'I will go, although I don't want to'. ''Nusan'' 'also' is common, e.g. ''Yaja nusan walaj'' 'She also came'; its negative counterpart is simply ''nusan te...'' 'not...either', e.g. ''Naja nusan te nikneki nitakwa'' 'I don't want to eat either'.
+
+=Subordination=
+
+subordinate clauses are introduced by subordinators; the following table illustrates some of the most common:
+
+{| class=wikitable
+! subor-dinator
+! translation
+! use
+! example
+|-
+| ka
+| 'that', 'because'
+| general complementizer, reason
+| 
+* ''Yaja ina ka te kimati tatka.'' 'He says that he doesn't know anything (about it).'
+* ''Ne ejekat witz sesek ka ne mishti kitzakwa ne tunal.'' 'The wind comes cold because clouds cover the sun.'
+|-
+| ma (subjunc-tive)
+| 'that', 'to'
+| unrealized different-subject complements, purpose
+| 
+* ''Nikneki ma shitakwika.'' 'I want you to sing.'
+* ''Yek ma mumachtikan.'' 'It is good that they should learn.'
+* ''Shikajkawa ne at ma seseya.'' 'Leave the water to cool.'
+|-
+| pal
+| '(in order) to', 'for...to'
+| purpose
+| 
+* ''Ne tujtutut welit patanit pal kitemuat takwal.'' 'Birds are able to fly in order to seek food.'
+* ''Nalwikatuk ini pal tikwa.'' 'I have brought this for you to eat.'
+|-
+| (a)su
+| 'if'
+| condition, indirect question
+| 
+* ''Su te nitekiti, te tiawit titakwat.'' 'If I do not work we will not eat.'
+* ''Shiktajtanili su weli metzmaka chiupi at.'' 'Ask her if she can give you some water.'
+|-
+| kwak
+| 'when'
+| time clause
+| 
+* ''Kwak niajsik, te nemituya aka.'' 'When I arrived, there wasn't anybody there.'
+|}
+
+Relative clauses, which always follow (rather than precede) their head, may be simply juxtaposed clauses, or introduced by the article ''ne'', the general complementizer ''ka'' or the interrogative pronoun ''ká'' (the last two being distinguished phonologically in various ways in the dialects). Headless relative clauses are introduced by interrogative pronouns.
+
+Lexicon
+=General=
+As regards origin, the Pipil lexicon consists of the following components:
+
+* the central component (by far the largest): native or inherited vocabulary, nearly all shared (with minor variations) with Mexican Nahuatl, though the lexeme pool is patently smaller than that of Classical Nahuatl)
+* a small number of loans from surrounding indigenous languages
+* loans from Spanish, the proportion of which fluctuates depending on the speaker and register, and which includes loans of varying antiquity and degree of integration
+* neologisms proposed by some speakers or writers based on extending the native vocabulary component
+* loans from Mexican Nahuatl varieties proposed by some speakers or writers
+
+There exist mechanisms of native origin for the creation of derived and compound words. No doubt these were more actively used in the language's past, since some such mechanisms are only attested in fossilized form. In more recent periods of the language, use of such procedures appears to have decreased, and with them the productivity of the procedures themselves.
+
+=Derivation=
+A selection of well-attested derivational affixes follows:
+
+{| class=wikitable
+! affix
+! function
+! meaning
+! examples
+|-
+| -k or -tik suffix
+| adjectives
+| general adjective suffix
+| 
+* ''ista-t'' 'salt' → ''ista-k'' 'white'
+* ''-kukua'' 'hurt' → ''kuku-k'' 'painful, spicy-hot'
+* ''chil'' 'pepper' → ''chil-tik'' 'red'
+|-
+| -tuk suffix
+| adjectives from verbs
+| participle or stative adjective
+| 
+* ''wak-i (verb)'' 'dry' → ''wak-tuk'' 'dry (adj.)'
+* ''mik-i'' 'die' → ''mik-tuk'' 'dead'
+|-
+| -na(j) suffix
+| adjectives
+| cf. '-ish', '-y'
+| 
+* ''chil-tik'' 'red' → ''chi-chil-naj'' 'reddish'
+* ''petz-tik'' 'bare, naked' → ''petz-naj'' 'smooth'
+|-
+| -yu suffix
+| nouns from nouns
+| 'special' inalienables (non-productive)
+| 
+* ''a-t'' 'water' → ''-a-yu'' 'juice, sauce, soup'
+* ''-teku'' 'father' → ''-tekuyu'' 'master'
+|-
+| te- prefix
+| nouns from nouns
+| alienable from inalienable (non-productive)
+| 
+* ''-nan'' 'mother' → ''te-nan'' '(somebody's) mother'
+* ''-pal'' 'property' → ''te-pal'' 'belonging to somebody (else)'
+|-
+| -tzin/chin suffix
+| nouns from nouns
+| diminutive (or honorific) suffix
+| 
+* ''te-t'' 'stone, rock' → ''te-chin'' 'little stone'
+* ''-nan'' 'mother' → ''nan-tzin'' 'lady'
+|-
+| -pala suffix
+| nouns from nouns
+| old, pejorative suffix
+| 
+* ''kwach-ti'' 'cloth' → ''kwach-pala / kwech-pala'' 'rag'
+* ''siwa-t'' 'woman' → ''siwa-pala'' 'whore'
+|-
+| -tal suffix
+| nouns from nouns
+| collective suffix, plantation
+| 
+* ''chapulin'' 'locust' → ''chapulin-tal'' 'swarm of locusts'
+* ''kamuj'' 'cassava' → ''kamuj-tal'' 'cassava patch'
+|-
+| -l suffix
+| nouns from verbs
+| object of action
+| 
+* ''ta-kwa'' 'eat' → ''ta-kwa-l'' 'food, animal'
+|-
+| -ni suffix
+| nouns from verbs
+| agent
+| 
+* ''ta-machtia'' 'teach' → ''ta-machtia-ni'' 'teacher'
+* ''miki'' 'die' → ''miki-ni'' 'dead body'
+|-
+| -lis suffix
+| nouns from verbs
+| action or result
+| 
+* ''ta-kaki'' 'hear' → ''ta-kaki-lis'' 'hearing'
+* ''takwika'' 'sing' → ''takwika-lis'' 'song'
+|-
+| -ya suffix
+| intransitive verbs from adjectives
+| inchoative
+| 
+* ''sese-k'' 'cold' → ''sese-ya'' 'get cold'
+|-
+| -tia suffix
+| transitive verbs from verbs
+| causative
+| 
+* ''miki'' 'die' → ''-mik-tia'' 'kill'
+* ''kalaki'' 'enter' → ''-kalak-tia'' 'put in, bring in'
+|-
+| -(i)lia suffix
+| ditransitive verbs from transitive verbs
+| applicative
+| 
+* ''-ishtia'' 'take out/away' → ''-ishti-lia'' 'take out/away from (someone)'
+* ''-chiwa'' 'do' → ''-chiw-ilia'' 'do (something) to (someone)'
+|-
+| mu- prefix
+| intransitive verbs from transitive verbs
+| reflexive or medio-passive
+| 
+* ''-talia'' 'put' → ''mu-talia'' 'sit'
+* ''-altia'' 'bath (trans.)' → ''m-altia'' (for *''mu-altia'') 'bathe (intrans.)'
+|-
+| ta- prefix
+| verbs from transitive verbs
+| unaccusative (though sometimes re-transtivized)
+| 
+* ''-chia'' 'wait for' → ''ta-chia'' 'look, see'
+* ''-mutia'' 'scare' → ''ta-mutia'' 'be scary'
+|}
+
+=Ideophones=
+Ideophones are a distinct set of lexical items, often denoting some process that is directly perceived by the senses (such as a kind of sound or visual experience), which enter into a special range of language-specific grammatical patterns. Nawat is one of many languages possessing such items and the associated patterns, which in this case are 'expressive' verb formations. The root form of a typical Nawat ideophone is a CVCV sequence, e.g. ''-chala-, -china-, -kelu-, -kina-, -kumu-, -kwala-, -tapa-, -tikwi-, -tzaya-, -tzili-, -tzutzu-''.These roots are not words and only acquire full meaning when they enter into one or another of the derivational patterns for Nawat ideophones. Some at least are probably onomatopoeic in origin.
+
+The four most common morphological patterns for such Nawat verb formations are the following (R represents the ideophone root, rR a reduplicated root without ''j''):
+
+{| class=wikitable
+! pattern
+! type of formation
+! examples
+|-
+| Rni
+| intransitive diffusion verbs
+|
+* ''kelu-ni'' 'break (intr.)'
+* ''kumu-ni'' 'swarm'
+* ''kwala-ni'' 'get angry'
+* ''tapa-ni'' 'explode'
+* ''tikwi-ni'' 'thunder'
+* ''tzili-ni'' 'ring'
+|-
+| -Rna or -Rnia
+| transitive diffusion verbs
+| 
+* ''kelu-na'' 'break (tr.)'
+* ''tapa-na'' 'cause to explode'
+* ''tzaya-na'' 'cause to split'
+* ''tzutzu-na'' 'play a musical instrument'
+* ''kumu-nia'' 'excite'
+|-
+| rRka
+| intransitive repetitive verbs
+|
+* ''cha-chala-ka'' 'chatter'
+* ''chi-china-ka'' 'burn'
+* ''ki-kina-ka'' 'complain'
+* ''kwa-kwala-ka'' 'boil'
+|-
+| -rRtza
+| transitive repetitive verbs
+| 
+* ''-ke-kelu-tza'' 'stir, shake'
+|}
+
+=Incorporation=
+
+Classical Nahuatl is characterized by widespread use of the device of incorporation. This is a grammatical and lexical phenomenon found in different guises in many languages. The Nahuatl system is quite well known to linguists because it is often cited as an example in linguistic literature. 
+
+Briefly, in incorporation a lexeme potentially representing one of a verb's semantic arguments or adjuncts, rather than forming a separate grammatical constituent is allowed to be attached directly to the verb itself thereby forming a compound verb. In Nahuatl this incorporated lexeme is prefixed to the verb.
+
+In Pipil, examples of this kind of structure also occur. However, their use is far less widespread than in Classical Nahuatl, and the process is barely (if at all) productive. Therefore existing examples rather resemble ordinary lexicalized compounds. Furthermore, most of those used involve one of a specific, limited range of incorporating elements which show considerable grammaticalization and are therefore perhaps best viewed, in the Pipil context at least, simply as derivational prefixes.
+
+The grammaticalization of these elements manifests itself in form, meaning and function. The Pipil forms of some of these incorporating stems are somewhat specialized phonologically; moreover, some of the forms used for incorporation no longer have corresponding full-word counterparts. 
+
+Most of the narrow set of widely-used incorporating elements belong to a single semantic set, that of body parts. While in some compounds the literal meanings of such elements subsists, in many others they only retain a broadly metaphorical sense, while in some it is quite difficult to perceive any particular meaning at all.
+
+A selection of Pipil 'incorporation prefixes' with illustrations of some of their uses follows:
+
+{| class=wikitable
+! prefix
+! meaning(s)
+! full word
+! examples
+|-
+| a-
+| water
+| ''a-t'' 'idem'
+|
+* ''-a-pachua'' 'immerse in water' (cf. ''-pachua'' 'press, flatten')
+* ''-a-paka'' 'wash (in water)' (cf. ''-paka'' 'wash')
+* ''-a-kalaki'' 'enter in water' (cf. ''-kalaki'' 'enter')
+|-
+| ek-
+| good / well
+| ''yek'' 'idem'
+|
+* ''-ek-chiwa'' 'arrange, prepare' (cf. ''-chiwa'' 'make, do')
+|-
+| el-
+| chest, mind
+| (none)
+|
+* ''-el-namiki'' 'remember' (cf. ''-namiki'' 'meet')
+* ''-el-kawa'' 'forget' (cf. ''-(aj)kawa'' 'leave')
+|-
+| ish-
+| eye / face / front
+| ''-ish'' 'eye'
+|
+* ''-ish-mati'' 'know, be familiar with, recognize' (cf. ''-mati'' 'know')
+* ''-ish-kwepa'' 'turn around, turn over' (cf. ''-kwepa'' 'turn')
+|-
+| ku- (1)
+| tree / wood / stick
+| ''kwawit'' 'idem' (construct ''-kwaw'')
+|
+* ''ku-temu'' 'climb down' (cf. ''temu'' 'descend')
+|-
+| ku- (2)
+| head
+| (none)
+|
+* ''-ku-pachua'' 'hold down (by the head?)' (cf. ''-pachua'' 'press, flatten')
+|-
+| ma-
+| hand
+| ''-mey, -may'' 'idem'
+|
+* ''-ma-paka'' 'wash hands' (cf. ''-paka'' 'wash')
+|-
+| sen-
+| one / together
+| ''se'' 'one'
+|
+* ''sen-ta-kwa'' 'eat together' (cf. ''(ta)-kwa'' 'eat')
+|-
+| ten-
+| mouth / opening / door
+| ''-ten'' 'idem'
+|
+* ''-ten-namiki'' 'kiss, revere' (cf. ''-namiki'' 'meet')
+* ''-ten-tzakwa'' 'close' (cf. ''-tzakwa'' 'cover, close')
+|-
+| tzin-
+| bottom / base
+| (none)
+|
+* ''-tzin-kutuna'' 'cut down' (cf. ''-kutuna'' 'cut')
+|-
+| tzun-
+| head
+| ''-tzuntekun'' 'head'
+|
+* ''-tzun-teki'' 'wound' (cf. ''-teki'' 'cut')
+|-
+| yul-
+| heart, mind, life
+| ''-yulu'' 'heart', ''yultuk'' 'alive'
+|
+* ''yul-taketza'' 'think' (cf. ''taketza'' 'speak')
+* ''mu-yul-kwepa'' 'revive, come back to life' (cf. ''-kwepa'' '(re)turn')
+|}
+
+Examples of sentences containing incorporation compounds:
+
+{| style=&quot;margin: 1em auto 1em auto&quot; 
+| style=&quot;background:#efefef;&quot; |
+* ''Ne isiwaw mukechkupina kisa pashalua.'' 'His wife would divide in two at the neck [and the head would] go out and have fun.' (''mu-kech-kupina'' 'REFLEXIVE + neck + separate')
+* ''Pejki kitzinkutuna muchi ne ijikshi tatuk.'' 'He started to cut down all the corn stalks.' (''ki-tzin-kutuna'' 'OBJECT + base + cut')
+* ''Kan kitak ka mutalujket, kutemuk wan kianki ne tumin.'' 'When he saw that they had run away, he climbed down the tree and picked up the money.' (''ku-temu-k'' 'tree + descend + PAST')
+* ''Yejemet kikwit ne at pal kiunit wan pal mumapakat.'' 'They use the water for drinking and washing (their hands).' (''mu-ma-paka-t'' 'REFLEXIVE + hand + wash + PLURAL)'
+|}
+
+=Other compounds=
+
+Lexical stems may combine to form other kinds of lexical compounds. Compounding mechanisms may still exist in the spontaneous language use of some speakers (to the extent that they still have spontaneous language use) but there is limited evidence for their natural, productive application. 
+
+Where traditional compounds are concerned, much of what has beensaid about incorporation is equally applicable. In fact, the same lexical combining forms that predominate in incorporation verbs often reappear in other compounds. Since these tend to be monosyllables with a low level of semantic specificity, we may call them 'light elements' and the compounds they form 'light compounds'.
+
+{| class=wikitable
+|+ Some 'light' compounds
+! first element
+! second element
+! compound
+! meaning of compound
+|-
+| ''a-'' 'water'
+| ''kua-'' 'snake'
+| ''a-kua-t''
+| 'eel'
+|-
+| ''ish-'' 'eye, face'
+| ''kal'' 'house'
+| ''ish-kal-yu''
+| 'face'
+|-
+| ''ma-'' 'hand'
+| ''-kwi'' 'take'
+| ''ma-kwi-l''
+| 'five'
+|-
+| ''ma-'' 'hand'
+| ''pipil'' 'child, diminutive'
+| ''ma-pipil''
+| 'finger'
+|-
+| ''sen-'' 'one'
+| ''-pua'' 'count'
+| ''sen-pua-l''
+| 'five, twenty (lit. one-count)'
+|-
+| ''ten-'' 'mouth, opening'
+| ''kal'' 'house'
+| ''ten-kal''
+| 'patio, door'
+|-
+| ''ten-'' 'mouth, opening'
+| ''-tzun-'' 'hair'
+| ''-ten-tzun''
+| 'beard, moustache'
+|-
+| ''tzin-'' 'bottom, base'
+| ''kal'' 'house'
+| ''tzin-kal''
+| 'corner'
+|-
+| ''tzun-'' 'head'
+| ''-tukay'' 'name'
+| ''-tzun-tukay''
+| 'surname'
+|}
+
+Compounds containing more than one 'heavy' lexeme are rather rarer, and when new ones are proposed it is perhaps most often in response to the pressure of Spanish, i.e. in attempts to find a 'native' equivalent to a Spanish word in order to avoid a loanword. In the following table, '%' preceding a word indicates a neologism (proposed by at least one native speaker).
+
+{| class=wikitable
+|+ Some 'heavy' compounds
+! first element
+! second element
+! compound
+! meaning of compound
+|-
+| ''achtu'' 'first, before'
+| ''-ish'' 'eye'
+| %''achtu-ish''
+| 'spectacles' (cf. Spanish 'ante-ojos')
+|-
+| ''kujtan'' 'forest, countryside'
+| ''kuyam-et'' 'pig'
+| ''kujtan-kuyam-et''
+| 'peccary' (cf. Spanish '' 'tunco de monte' '')
+|-
+| ''kujtan'' 'forest, countryside'
+| ''techan'' 'village'
+| ''kujtan-techan''
+| 'hamlet' (Spanish '' 'cantón' '')
+|-
+| ''naka-'' 'meat'
+| ''tamal'' 'tortilla'
+| ''naka-tamal''
+| 'tamale (with meat filling)'
+|-
+| ''siwa-'' 'female'
+| ''mistun'' 'cat'
+| ''siwa-mistun''
+| 'female cat'
+|-
+| ''tajku'' 'middle, half'
+| ''tunal'' 'day'
+| ''tajku-tunal''
+| 'noon'
+|-
+| ''tepus-'' 'iron'
+| ''patani'' 'fly'
+| %''tepus-patani''
+| 'plane'
+|-
+| ''tzupelek'' 'sweet'
+| ''kisa'' 'come out'
+| ''tzupelek-kisa''
+| 'become sweet'
+|-
+| ''ujti'' 'road, way'
+| ''patawak'' 'wide'
+| ''ujti-patawak''
+| 'main road'
+|-
+| ''ukich'' 'male'
+| ''tijlan'' 'hen, chicken'
+| ''ukich-tijlan''
+| 'rooster'
+|}
+
+=Loanwords=
+
+When speakers fail to find an adequate word or expression in Nawat they may (1) employ a circumlocution (for example, they could call the kitchen ''kan titamanat'' '(the place) where we cook'), (2) borrow a Spanish word or expression (e.g. ''ne kosina'' 'the ''cocina' ''), or (3) simply code-switching|code-switch. However, when we speak of loanwords we have in mind items of foreign origin that have become habitual elements of Nawat usage and may also have undergone adaptation as a result.
+
+{| 
+| width=&quot;50%&quot; |
+Spanish loans into Nawat include some very common words indeed, such as ''mas'' 'more' or ''pero'' 'but'. Some loans, particularly older ones, may adopt forms or meanings which differentiate them from their Spanish source, e.g. ''pelu'' 'dog' (Spanish ''perro''), ''mesaj'' 'table' (Sp. ''mesa''), ''noya'' 'grandmother' (from Spanish ''señora'' 'lady'). There are also cases where the source form or meaning has become less common or disappeared from contemporary Spanish usage (at least in the standard varieties) but lives on in Nawat, e.g. ''tumin'' 'coin, money' (older Spanish ''tomín''). In such cases as these, speakers may be unaware of a word's historical origin and simply view it as 'typical Nawat', even preferring it to a neologism created with an intention of greater 'authenticity'.
+| width=&quot;50%&quot;; style=&quot;background:#efefef;&quot; |
+* ''Tiut tiawit aber su timuchiwa alegrar chupi.'' 'We'll go ''and see'' if you ''cheer up'' a little.'
+* ''Pero kenemej tesu mawiltia ka afuera, muchijki entristecer.'' '' 'But'' in this way he didn't play ''outside'', he ''became sad''.'
+* ''Nu amiguj ikustuj na nikchiwa contar cuentos.'' 'My ''friend likes'' me to ''tell stories''.'
+* ''Ashkan tiksajsakat chikwasen pual kushtal aros.'' 'Today we'll carry a hundred and twenty ''sacks'' of ''rice''.'
+* ''Musta tiu-tiawit ashta ne tatzinu.'' 'Tomorrow we'll go ''towards'' the south.'
+* ''Tesu kimati katka ka ne isiwaw se brujaj.'' 'He didn't know that his wife was a ''witch''.'
+* ''Ne musiwapiltzin yaja mas selek.'' 'Your daughter is young''er''.'
+* ''Tay ora tinemit?'' 'What time is it?' (literally 'What ''hour'' are we (at)?'
+|}
+
+With one possible exception (''pashalua'' 'go for a walk, take time off work' <; *pasyarua <; Spanish ''pasear'' + the non-productive verb suffix ''-ua''), verbs can only be borrowed into Nawat from other languages in an invariable form based on the Spanish infinitive. Such forms cannot be conjugated directly. Instead, they must be preceded by the Nawat verb ''-chiwa'' 'make, do' to form compound expressions, e.g. from Spanish ''escribir'' 'write' we have Nawat ''nikchiwa escribir'' (contracted to ''nikcha escribir'') 'I write' (literally 'I do ''escribir' ''), ''tikchiwket'' or ''tikchijket escribir'' 'we wrote' (lit. 'we did ''escribir' ''), etc.
+
+Dialect variation
+=Dialects=
+Pipil internal dialect variation is incompletely documented at present. While recognising the existence of important gaps in our knowledge (which or may or may not ever be filled, as the last native speakers pass on), we do know of two well-defined dialect areas, at least as far as the department of Sonsonate is concerned which may tentatively be called Upland and Lowland respectively. The Upland dialect area includes the towns of Izalco and Nahuizalco, the Lowland area those of Santo Domingo de Guzmán and Cuisnahuat. Present knowledge also includes some points of differentiation between Santo Domingo and Cuisnahuat. Thus for practical purposes we are chiefly able to speak of three known varieties: Izalco, Cuisnahuat and Santo Domingo.
+
+=Phonological variation=
+* The /k/ phoneme has voiced allophones more frequently in Lowland, especially in Santo Domingo.
+* Syllable-final /l/ (as in ''kal'' 'house', ''chiltik'' 'red') is sometimes devoiced; no clear dialect distribution can be formulated for this trait, however.
+* Pre-consonantal /s/ following /i/ (as in ''mistun'' 'cat') is often palatalized; again no precise distribution can be stated.
+* In some areas the evolution of secondary semivowels described above for unstressed syllables also takes place in stressed syllables, the stress then falling on the vowel following the semivowel giving rise to word-final stress, e.g. /maltia/ 'bathes' → [mal'tja] (rather than [mal'tija]), and /kuat/ 'snake' → ['kwat] (instead of ['kuwat], ['guwat]). This feature has been attested for Nahuizalco and for the department of Ahuachapan, but a complete isogloss remains to be drawn.
+
+=Morphological variation=
+* The plural prefixes with a nasal element (''in(h)-'', ''kin(h)-'') tend to be avoided by some speakers in Santo Domingo, but this appears to be a new development.
+* The sequence /nm/ in second person plural forms (''anmejemet'', ''anmu-'') is variously altered: ''amejemet'', ''amu-'', ''anhejemet'', ''awmejemet'', ''mejemet''...).
+* For Izalco ''nikan'' 'here', ''ashan'' 'now, today', ''nemá'' 'later', ''kwakuni'' 'then' and ''ijkiuni'' 'like that', Santo Domingo has ''nin'', ''an'', ''nemanha'', ''kunij'' ([g-]) and ''kiunij'' ([k-]).
+* 'What' and 'who':
+{| class=wikitable style=&quot;margin: 1em auto 1em auto&quot;
+! 
+! Izalco/Upland
+! Cuisnahuat
+! Santo Domingo
+|-
+! 'what'
+| tey
+| ta
+| tay
+|-
+! 'who'
+| ka
+| ka
+| gaj
+|}
+* There are many differences between the assignment of individual verbs to one or another conjugation class, most noticeably affecting past tense formation.
+* The verb ''yawi'' 'go' possesses both longer and shorter forms (e.g. ''niyaw'' versus ''niu, nu...''), but the latter vary between dialects.
+* The verb ''-chiwa'' 'make, do' possesses full and short forms (e.g. ''nikchiwa'' versus ''nikcha''), but ''-cha'' is more general in Upland dialects.
+* The verb ''-maka'' 'give' and derivatives (such as ''-namaka'' 'sell') are normally contracted to monosyllabic ''-ma'' in Upland speech.
+* Some sporadic differences in verb valencies, e.g. in Izalco ''tajtani'' 'ask' is intransitive, in Santo Domingo transitive.
+* General negative particle: Upland ''inte'', Lowland ''te(su)''.
+* Miscellaneous differences in the forms of some words, e.g.
+{| class=wikitable style=&quot;margin: 1em auto 1em auto&quot;
+! 
+! Izalco/Upland
+! Cuisnahuat
+! Santo Domingo
+|-
+! 'arrive'
+| ''asi''
+| ''ajsi''
+| ''ajsi''
+|-
+! 'tell'
+| ''-ilia''
+| ''-ilwia''
+| ''-ilwia''
+|-
+! 'forest, country'
+| ''kujtan''
+| ''kujtan''
+| ''kojtan''
+|}
+
+=Syntactic variation=
+* Somewhat different periphrastic tense constructions are found in Upland and Lowland dialects.
+* Izalco dialect often adds ''ne'' to subordinators, e.g. ''kwak ne'' 'when', ''kan ne'' 'where', ''tay ne'' 'what', ''pal ne'' 'in order for'.
+*
+
+=Lexical variation=
+A few examples of inter-dialectal lexical differences follow:
+{| class=wikitable style=&quot;margin: 1em auto 1em auto&quot;
+! 
+! Izalco/Upland
+! Cuisnahuat
+! Santo Domingo
+|-
+! 'be born'
+| ''takati''
+| ''waltakati''
+| ''nesi''
+|-
+! 'brother (older)'
+| ''-echkaw''
+| ''-man''
+| ''-manuj'' (<; Sp. ''hermano''
+|-
+! 'high'
+| ''wejkapan''
+| ''kujtik''
+| ''kojtik''
+|-
+! 'laugh'
+| ''wetzka''
+| ''wetzka''
+| ''paki''
+|-
+! 'party, fiesta'
+| ''yualu''
+| ''ilwit''
+| ''ilwit''
+|-
+! 'remain'
+| ''mukawa''
+| ''naka''
+| ''naka''
+|-
+! 'send, order'
+| ''-titania''
+| ''-tuktia''
+| ''-tuktia''
+|}
+
+Spelling systems
+
+Among the works published since the early twentieth century until the present in which the Pipil language is described or transcribed at any length, rarely do two authors fully coincide in the spelling conventions they use. The spelling system used in this article is that employed in recently produced materials associated with the Nawat language recovery initiative [http://www.compapp.dcu.ie/~mward/irin/index.htm IRIN]. The following table allows this to be compared to with other spelling systems, ordered approximately in reverse chronological order.
+
+{| class=wikitable
+|+ Comparison of spelling systems
+! IRIN/
+this article
+! Geoffroy Rivas/
+Lemus
+! Campbell
+! Schultze Jena
+! Spanish-based
+|-
+! a
+| a
+| a
+| a
+| a
+|-
+! e
+| e
+| e
+| e
+| e
+|-
+! i
+| i
+| i
+| i
+| i
+|-
+! u
+| u
+| u
+| u
+| u, o
+|-
+! p
+| p
+| p
+| p
+| p
+|-
+! t
+| t
+| t
+| t
+| t
+|-
+! k
+| k
+| k
+| k
+| k, c, qu
+|-
+! k
+| k
+| k
+| g
+| g, gu
+|-
+! kw
+| q
+| kw
+| ku
+| ku, cu
+|-
+! tz
+| z
+| ts
+| ts
+| tz, ts
+|-
+! ch
+| c
+| ch
+| č
+| ch
+|-
+! s
+| s
+| s
+| s
+| s, z, c
+|-
+! sh
+| x
+| x
+| š
+| sh
+|-
+! j
+| h
+| h
+| χ
+| j
+|-
+! m
+| m
+| m
+| m
+| m
+|-
+! n
+| n (m)
+| n (m)
+| n, ń, m
+| n (m)
+|-
+! l
+| l
+| l
+| l
+| l
+|-
+! y
+| y
+| y
+| y (i)
+| y (i)
+|-
+! w
+| w
+| w
+| u
+| u, hu, gu, gü
+|}
+
+See also
+
+*Pipil language
+*Pipil language (typological overview)
+
+References
+
+* Arauz, Próspero (1960). ''El pipil de la región de los Itzalcos.'' (Edited by Pedro Geoffroy Rivas.) San Salvador: Ministerio de Cultura.
+* Calvo Pacheco, Jorge Alfredo (2000). ''Vocabulario castellano-pipil pípil-kastíyan.'' Izalco, El Salvador.
+* Campbell, Lyle. (1985). ''The Pipil language of El Salvador''. Mouton grammar library (No. 1). Berlin: Mouton Publishers. ISBN 0-89925-040-8 (U.S.), ISBN 3-11-010344-3.
+* Geoffroy Rivas, Pedro (1969). ''El nawat de Cuscatlán: Apuntes para una gramática.'' San Salvador: Ministerio de Educación.
+* King, Alan R. (2004a). ''¡Conozcamos el náhuat!'' El Salvador: IRIN.
+* King, Alan R. (2004b). ''Gramática elemental del náhuat.'' El Salvador: IRIN.
+* King, A.R. (typescript). ''Léxico básico náhuat.''
+* Lemus, Jorge Ernesto (1997a). &quot;Formación de palabras y léxico pipil.&quot; In: ''Estudios lingüísticos.'' San Salvador: Concultura.
+* Lemus, Jorge Ernesto (1997b). &quot;Alfabeto pipil: una propuesta.&quot; In: Estudios lingüísticos. San Salvador: Concultura.
+* Lemus, Jorge Ernesto (1998). &quot;Fonología métrica del pipil.&quot; In: ''Memoria: IV Congreso Lingüístico/I Simposio &quot;Pueblos Indígenas de El Salvador y sus fronteras&quot;.''San Salvador: Concultura.
+* Lemus, Jorge Ernesto ([1988]). &quot;A sketch grammar of the Nahuat spoken in Santo Domingo de Guzmán.&quot; Bachelor's thesis, Universidad Evangélica de El Salvador. (unpublished typescript)
+* Ramírez Vázquez, Genaro (undated typescript). &quot;Pequeña guía para introducción al náhuat.&quot;
+* Todd, Juan G. (1953). ''Notas del náhuat de Nahuizalco.'' San Salvador: Editorial &quot;Nosotros&quot;.
+Category:Pipil|Grammar
+Category:Indigenous languages of Mesoamerica
+Category:Grammars of specific languages
+Category:Endangered languages

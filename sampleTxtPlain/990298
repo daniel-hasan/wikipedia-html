@@ -1,0 +1,308 @@
+
+Ubuntu ( in English;http://www.ubuntu.com/aboutus/faq;,in Zulu) is a predominantly desktop-oriented Linux distribution based on Debian GNU/Linux. Ubuntu aims to use only free software to provide an up-to-date yet stable operating system for the average user, and features a strong focus on usability, regular releases, and ease of installation at the expense of platform diversity. Ubuntu is sponsored by Canonical Ltd, owned by South African entrepreneur Mark Shuttleworth. The name of the distribution comes from the southern African concept of ''ubuntu'' which may be rendered roughly as &quot;humanity toward others&quot;, &quot;we are people because of other people&quot;, or &quot;I am who I am because of who we all are,&quot; though other meanings have been suggested.;;
+
+Kubuntu and Xubuntu are official subprojects of the Ubuntu project, aiming to bring the KDE and Xfce desktop environments, respectively, to the Ubuntu core. Edubuntu is an official subproject designed for school environments, and should be equally suitable for children to use at home.;; Gobuntu is an official subproject that is aimed at adhering strictly to the Free Software Foundation's Free software#Definition| Four Freedoms.;; The newest official subproject is JeOS. Ubuntu JeOS (pronounced &quot;Juice&quot;) is an efficient variant of the popular desktop and server operating system, configured specifically for virtual appliances.
+
+Ubuntu releases new versions every six months, and supports those releases for 18 months with daily security fixes and patches to critical bugs. There are also Long Term Support (''LTS'') releases, which have three years support for the desktop version and five years for the server version.The most recent LTS version, Ubuntu 6.06 ''(Dapper Drake)'', was released on June 1 2006 (updated to Ubuntu 6.06.1 on August 10 2006); the next LTS version will be 8.04 ''(Hardy Heron)'', scheduled for release in April 2008. The most recent version, Ubuntu 7.10 ''(Gutsy Gibbon)'', was released on 18 October 2007.
+
+History and development process
+Ubuntu's first release was on October 20, 2004, which began by making a temporary fork of the Debian GNU/Linux project.;; This was done so that a new version of Ubuntu could be released every six months;[https://wiki.ubuntu.com/TimeBasedReleases Time Based Releases];, resulting in a more frequently updated system. Ubuntu releases always include the most recent GNOME release, and are scheduled to be released about a month after GNOME.;[https://wiki.ubuntu.com/Releases Releases]; In contrast with previous general-purpose forks of Debian—such as MEPIS, Xandros, Linspire, Progeny and Libranet, many of which relied on proprietary and closed source add-ons as part of their business model—Ubuntu has stayed closer to Debian's philosophy and uses free (''libre'') software most of the time.;;
+
+The Ubuntu logo and typography has remained the same since that first release. The hand-drawn;[http://ubuntuforums.org/archive/index.php/t-23773.html Anyone know what font the Ubuntu Logo uses?];, lower case OpenType font used is called Ubuntu-Title and was created by Andy Fitzsimon.;[https://wiki.ubuntu.com/UbuntuTitle UbuntuTitle]; The font is distributed under the Lesser General Public License and use with logos derived from the Ubuntu logo is encouraged.; The font is availableas a package for Ubuntu.;
+
+Ubuntu packages have generally been based on packages from Debian's Debian#Development versions|unstable branch: both distributions use Debian's deb package format and APT/Synaptic to manage installed packages. 
+
+Ubuntu cooperates with Debian - to some extent pushing changes back to Debian,;; although there has been criticism that this is not happening enough;; and Debian and Ubuntu packages are not necessarily 'binary compatible' with each other.;; Many Ubuntu developers are also maintainers of key packages within Debian itself. However, Ian Murdock, the founder of Debian, criticized Ubuntu for incompatibilities between its packages and those of Debian, saying that Ubuntu had diverged too far from Debian Sarge to remain compatible.;
+
+There are plans for a branch codenamed Grumpy Groundhog. It will be a permanently unstable development and testing branch, pulling the source directly out of the revision control of the various programs and applications that are shipped as part of Ubuntu. This will allow power users and upstream developers to test up-to-the-minute versions of individual programs as they would appear if packaged for the distribution today, without needing to build packages themselves; it will be able to provide early warning of build failures on various architectures.;; It is intended that Grumpy Groundhog should merge with Debian Unstable every six months.;; Grumpy Groundhog has not been made available to the public yet.
+
+Ubuntu is currently funded by Canonical Ltd. On July 8, 2005, Mark Shuttleworth and Canonical Ltd announced the creation of the Ubuntu Foundation and provided an initial funding of US$10 million. The purpose of the foundation is to ensure the support and development for all future versions of Ubuntu, but as of 2006, the foundation remains dormant. Mark Shuttleworth describes the foundation as an emergency fund in case Canonical's involvement ends.;;
+
+On 1 May 2007, Dell announced they would sell desktops and laptops with Ubuntu installed and on 24 May 2007 these computers went on sale in the United States.;; They also stated that customers would be able to buy support for Ubuntu through Dell, with the support coming from Canonical. On 8 August 2007 these computers went on sale in the UK, France and Germany as well.;; In October, Tesco followed in Dell's footsteps and started to sell desktop computers with #Releases|Ubuntu 6.06 LTS pre-installed on them .;;;; However unlike Dell, they do not offer Canonical's support program. Select Dell machines now include Ubuntu 7.10 with DVD playback using LinDVD software.;http://www.desktoplinux.com/news/NS7924076658.html;
+
+During July 2007 at Ubuntu Live 2007, Mark Shuttleworth announced that Ubuntu 8.04 (out April 2008) would be the next LTS (Long Term Support) release. He also added that Canonical is committed to releasing a new LTS version every two years.
+
+Features
+A screenshot of Ubuntu 6.06 LTS, showing the ''Dawn of Ubuntu'' wallpaper, one from the selections available.
+Ubuntu focuses on usability,;; including the widespread use of the sudo tool for administrative tasks.;; The Ubiquity installer;; allows installing Ubuntu to the hard disk from within the Live CD environment without the need for restarting the computer prior to installation. Ubuntu furthermore emphasizes accessibility and internationalization, to reach as many people as possible. As of version 5.04, UTF-8 is the default character encoding. The default appearance of the user interface in the current version is called ''Human'' and is characterized by shades of brown and orange. 
+
+Besides standard system tools and other small applications, Ubuntu comes installed with the following software: the OpenOffice.org productivity suite, the Internet browser Firefox, the instant messenger Pidgin (formerly known as Gaim), and the raster graphics editor GIMP. Several lightweight card and puzzle games are pre-installed, including Sudoku and Chess. Ubuntu has all ports closed by default adding to security, although some people choose to run a firewall in order to keep tabs of incoming and outgoing connections.
+
+Ubuntu offers a fully featured set of applications that work straight from the standard install, but nonetheless fits on a single CD. The live CD allows users to see whether their hardware is compatible before installation to the hard disk.The live CD is then used to install Ubuntu.;; CDs are mailed free to anyone who requests them, and CD images are available for download. The Ubuntu live CD requires 256 megabytes of RAM, and once installed on the hard disk, Ubuntu needs four gigabytes of hard-disk space.;; An alternate install disc using the standard debian-installer in text mode is available for download only, and is aimed at people with lower system specifications, computer dealers selling systems already installed with Ubuntu, and for complex partitioning including the use of LVM.;;
+
+With the release of Ubuntu 7.04 in April 2007, the Ubuntu installation process changed slightly.It now supports migration from Windows.;;The new migration tool imports Windows users' bookmarks, desktop background (wallpaper), and settings for immediate use in the Ubuntu installation.
+
+For Ubuntu there are tools available to create a specific installation CD/DVD. With Wubi, it is possible to install Ubuntu on a Windows partition. It also makes use of the migration tool which imports Windows users' configurations.
+
+=Multilingual=
+Ubuntu is available in many languages. For example, GNOME 2.20 - the default desktop environment of Ubuntu 7.10 -offers support for 48 languages [http://www.gnome.org/start/2.20/notes/en/index.html#rni18].
+
+Package classification and support
+Ubuntu 7.10 CD
+
+Ubuntu divides all software into four components,;; to reflect differences in licensing and level of support available. Packages are assigned to components as follows:
+
+{| class=&quot;wikitable&quot;
+| || free software || non-free software
+|-
+| supported || Main || Restricted
+|-
+| unsupported || Universe || Multiverse
+|}
+
+&quot;Free&quot; software here includes only that which meets the Ubuntu license requirements,;; which correspond roughly to the Debian Free Software Guidelines.There is one caveat for Main however; it &quot;also may contain binary firmware and selected fonts (which are used by free components of Main) that cannot be modified without permission from their authors&quot; so long as their &quot;redistribution is unencumbered.&quot;
+
+Non-free software is usually unsupported (Multiverse), but some exceptions (Restricted) are made for very important non-free software, such as non-free device drivers, without which users might be prevented from running Ubuntu on their system, particularly binary-only graphics card drivers. The level of support is more limited than for ''main'', since the developers may not have access to the source code.
+
+It is intended that ''Main'' and ''Restricted'' should contain all software needed for a general-use Linux system. Alternative programs for the same tasks and programs for specialised applications are placed in ''Universe'' and ''Multiverse''.
+
+Beyond the official repositories is ''Ubuntu Backports'',;; which is an officially recognized project to backport newer versions of certain software that are available in later versions of Ubuntu. The repository is not comprehensive; it mostly consists of user-requested packages, which are approved if they meet quality guidelines.
+
+Availability of proprietary software
+
+Ubuntu has a certification system for third party software.;; Ubuntu-certified proprietary software should work well in Ubuntu. However, many programs familiar to users of non-free operating systems, such as Microsoft Windows, are incompatible and are not Ubuntu-certified. Some proprietary software that does not limit distribution is included in Ubuntu's ''multiverse'' component.
+
+Some examples of software not distributed by Ubuntu include:
+
+* Software that enables the playback of region-locked;The library is needed even when watching a DVD in the target region ; video DVDs, due to the questionable legal status of the Libdvdcss open-source DVD-decoding library in some parts of the world. Libdvdcss, as well as much other software that might be forbidden in certain parts of the world, is readily available for Ubuntu through Medibuntu.
+* Some popular proprietary web-browser plugins, such as Adobe's (formerly Macromedia's) Shockwave (there is no Linux version) and Flash. (One workaround to the specific prohibition against redistribution in the Flash EULA is the multiverse package &quot;flashplugin-nonfree&quot; which automatically downloads the Linux Flash plugin directly from Adobe's site and then installs it.)
+
+Releases
+
+Each release has both a code name and a version number. The version number is based on the year and month of release. For example, the very first release of Ubuntu 4.10 was released on October 20, 2004.;;
+
+;
+{| class=&quot;wikitable&quot; style=&quot;width:100%;&quot;
+! Version !! Code name !! Testing name !! Release date!! Supported until !! Features and Changes
+|----
+|4.10
+|:wikt:warty|Warty&amp;nbsp;Warthog
+|Sounder
+|2004-10-20;;
+|style=&quot;background-color:#fa8072;&quot;|2006-04-30;;
+|[https://shipit.ubuntu.com/ ShipIt]
+|----
+|5.04
+|:wikt:hoary|Hoary&amp;nbsp;Hedgehog
+|Array
+|2005-04-08;;
+|style=&quot;background-color:#fa8072;&quot;|2006-10-31;;
+|Update Manager; Upgrade Notifier; readahead; grepmap; laptop suspend, hibernate andstandby; dynamic frequency scaling; Ubuntu hardware database; Kickstart; installation from USB devices; UTF-8 by default; APT authentication
+|----
+|5.10
+|:wikt:breezy|Breezy&amp;nbsp;Badger
+|Colony
+|2005-10-13;;;;
+|style=&quot;background-color:#fa8072;&quot;|2007-04-13;;
+|Usplash (graphical boot sequence); &quot;Add/Remove...&quot; application tool; language selector; logical volume management support; Hewlett-Packard printer support; OEM installer support; Launchpad integration
+|----
+|rowspan=&quot;2&quot;|6.06 LTS
+|rowspan=&quot;2&quot;|:wikt:dapper|Dapper&amp;nbsp;Drake
+|rowspan=&quot;2&quot;|Flight
+|rowspan=&quot;2&quot;|2006-06-01;;;;
+|style=&quot;background-color:#00ff7f;&quot;|2009-06 (desktops)
+|rowspan=&quot;2&quot;|Long Term Support (LTS) release. LiveCD and Install CD merged onto one disc; Ubiquity graphical installer on LiveCD; Usplash on shutdowns; Network Manager for easy switching of multiple wired and wireless connections; 'Humanlooks' theme implemented using Tango guidelines, based on Clearlooks and featuring orange colours instead of brown; LAMP installation option; installation to USB devices; GDebi graphical installer for package files
+|----
+|style=&quot;background-color:#00ff7f;&quot;|2011-06 (servers)
+|----
+|6.10
+|:wikt:edgy|Edgy&amp;nbsp;Eft
+|Knot
+|2006-10-26;;;;
+|style=&quot;background-color:#f0e68c;&quot;|2008-04
+|Ubuntu 'Human' theme heavily modified; Upstart; automated crash reports (Apport); Tomboy notetaking application; F-spot photo manager
+|----
+|7.04
+|:wikt:Feisty|Feisty&amp;nbsp;Fawn
+|Herd
+|2007-04-19;;
+|style=&quot;background-color:#f0e68c;&quot;|2008-10
+|Migration assistant; Kernel-based Virtual Machine support; easy codec and restricted drivers installation; Compiz desktop effects; Wi-Fi Protected Access support; PowerPC support dropped; Sudoku and chess games added; 'baobab' disk usage analyzer added; GNOME Control Center; Zeroconf for many devices
+|----
+|7.10
+|:wikt:Gutsy|Gutsy&amp;nbsp;Gibbon
+|Tribe
+|2007-10-18;;;;
+|style=&quot;background-color:#00ff7f;&quot;|2009-04
+|Compiz Fusion by default;;http://www.ubuntu.com/testing/tribe2; AppArmor security framework;;http://www.ubuntu.com/testing/tribe3; fast desktop search;;http://www.ubuntu.com/testing/tribe4; fast user switching;; improvements in plug-in handling for Mozilla Firefox (Ubufox);;http://www.ubuntu.com/testing/tribe5; graphical configuration tool for X.org;; a revamped printing system with PDF printing by default;
+|----
+|rowspan=&quot;2&quot;|8.04 LTS
+|rowspan=&quot;2&quot;|:wikt:hardy|Hardy&amp;nbsp;Heron;;
+|rowspan=&quot;2&quot;|Alpha
+|rowspan=&quot;2&quot;|2008-04-24;;
+|style=&quot;background-color:#87ceeb;&quot;|2011-04 (desktops)
+|rowspan=&quot;2&quot;|Long Term Support (LTS) release;;[https://wiki.ubuntu.com/UbuntuWeeklyNewsletter/Issue36#head-1999d566299f6428162eb2f60acf5d12ad93f5d9 Ubuntu Weekly Newsletter: Issue 36];;[http://news.com.com/2100-7344_3-6175365.html?part=rss&amp;tag=2547-1_3-0-5&amp;subj=news Ubuntu's new Linux sports debugging tool]; Planned features include: revamped theme and artwork, better Tango compliance;;; robustness; compiz usability improvements; tracker integration;;
+|----
+|style=&quot;background-color:#87ceeb;&quot;|2013-04 (servers)
+|}
+Ubuntu 7.04 CD jackets
+;
+
+Releases are timed to be approximately one month after GNOME releases, which are in turn about one month after releases of X.org.Consequently, every Ubuntu release comes with a newer version of both GNOME and X.
+
+Release 6.06—and recently 8.04—have been labeled as a Long Term Support (LTS);, to indicate that it will be supported with updates for three years on the desktop and five years on the server, with paid technical support available from Canonical Ltd.;;
+
+ShipIt
+Canonical offers Ubuntu installation CDs at no cost, including postage paid for destinations anywhere in the world, via a service called ShipIt;;: after a request for CDs is made at shipit.ubuntu.com and approved, disks are sent to the user's postal address in the mail without charge. Delivery is estimated at six to ten weeks;;.
+
+All Ubuntu releases have been available via ShipIt, except 6.10, which had less development time due to it being released immediately after a LTS release (6.06), so 6.06 was offered in its place. As of December 2007, the most recent release available for order via ShipIt is 7.10
+
+Variants
+Xubuntu 7.04 default desktop.
+
+There are several variants besides Ubuntu, both official and unofficial. Of the official variants, Kubuntu;; and Edubuntu;; are also available free of charge via mail order through Ubuntu's ShipIt service, but Xubuntu is not.;[https://bugs.launchpad.net/shipit/+bug/62318 No shipit for xubuntu]; These Ubuntu variants simply install a set of packages different from the original Ubuntu, but since they draw additional packages and updates from the same Software_repository|repositories as Ubuntu, all of the same software is available for each of them. These different versions correspond to development efforts run by largely separate groups of people who try to bring different functionalities to the distribution. The official sister distributions are:;;
+* Edubuntu, a distribution designed for classrooms using GNOME
+* Gobuntu, a free software distribution
+* Kubuntu, a desktop distribution using KDE rather than GNOME
+* Xubuntu, a &quot;lightweight&quot; distribution based on the Xfce desktop environment instead of GNOME
+* Ubuntu Studio, a multimedia-creation flavor of Ubuntu.
+* Ubuntu JeOS (pronounced as juice), &quot;an efficient variant [...] configured specifically for virtual appliances&quot;;;
+
+Unofficial variants and derivatives are not controlled or guided by Canonical and are generally forks with different goals in mind.
+
+System requirements
+The most recent stable version of Ubuntu is officially supported for the Intel x86 and AMD64 architectures in the Desktop release and for the Intel x86, AMD64 and SPARC architectures in the Server release.;http://releases.ubuntu.com/7.04/;;[http://www.eweek.com/article2/0,1759,1969424,00.asp Ubuntu to Support Sun 'Niagara' Platform];
+
+There are also unsupported ports for the PowerPC (note however that prior to version 7.04, Ubuntu officially supported the PowerPC architecture),;;IA-64 (Itanium) and the PlayStation 3.;[http://cdimage.ubuntu.com/ports/releases/7.04/release/ Ubuntu 7.04 (Feisty Fawn)];
+
+For older computers which do not meet the system requirements listed below, there is also Xubuntu, based on Xfce, which requires roughly half of the RAM and disk space.
+
+=Server Edition=
+While it is possible to install the Server release on a &quot;legacy machine&quot; (e.g. a 75 MHz Pentium with 32 MB of RAM),;[https://help.ubuntu.com/community/Installation/LowMemorySystems Installation/LowMemorySystems]; the &quot;minimum requirements&quot;;[https://help.ubuntu.com/community/Installation/SystemRequirements Ubuntu System Requirements]; for good performance are:
+*300 MHz x86 processor
+*64 MB of RAM ;[https://help.ubuntu.com/7.10/server/C/preparing-to-install.html#id2581089];
+*500MB of disk space ;
+*VGA graphics card capable of 640x480 resolution
+*CD-ROM drive
+
+=Desktop Edition=
+For the Desktop release, the &quot;recommended minimum requirements&quot;; for good performance are:
+*500 MHz x86 processor
+*192 MB of system memory (RAM)
+*8 GB of disk space (although only 4 GB are required);[http://www.ubuntu.com/products/whatisubuntu/desktopedition Ubuntu Desktop Edition];
+*Graphics card capable of 1024x768 resolution
+*Sound card (optional)
+*A network or Internet connection
+
+Install and Live CDs
+For the Desktop release, there are two different types of install CD offered:;http://releases.ubuntu.com/7.10/;
+*Desktop CD (a Live CD)
+
+&quot;''The desktop CD allows you to try Ubuntu without changing your computer at all, and at your option to install it permanently later. This type of CD is what most people will want to use. You will need at least 320MB of RAM to install from this CD.''&quot;
+*Alternate Install CD
+
+&quot;''The alternate install CD allows you to perform certain specialist installations of Ubuntu. It provides for the following situations: creating pre-configured OEM systems; setting up automated deployments; upgrading from older installations without network access; LVM and/or RAID partitioning; installs on systems with less than about 320MB of RAM (although note that low-memory systems may not be able to run a full desktop environment reasonably). It can also install on systems with a graphics environment not suitable to Ubuntu (which needs to be changed later) i.e. virtual PC''&quot;
+*Server CD
+
+&quot;''The Server Install CD allows you to install Ubuntu permanently on a computer for use as a server. It will not install a graphical user interface.''&quot;
+
+Response
+Ubuntu's popularity has climbed steadily since its 2004 release. It is currently the second most viewed Linux distribution on Distrowatch.com[http://distrowatch.com/], and was the most accessed on the site in 2005;[http://distrowatch.com/index.php?dataspan=2005 DistroWatch 2005]; and 2006.;[http://distrowatch.com/index.php?dataspan=2006 DistroWatch]; This popularity is borne out by a rise in Google searches for &quot;Ubuntu&quot; since 2004 as compared to a shrinking or plateauing number for terms related to other major desktop Linux distributions such as &quot;Fedora&quot;, &quot;Debian&quot; or &quot;SUSE&quot; over the same period.;Google Trends, comparing [http://www.google.com/trends?q=Fedora|RHEL|Red+Hat,+Debian,+Ubuntu,+SUSE|OpenSUSE,+Mandrake|Mandriva&amp;ctab=0&amp;geo=all&amp;date=all&amp;sort=2 Fedora|RHEL|Red Hat, Debian, Ubuntu, SUSE|OpenSUSE, Mandrake|Mandriva]; In a 2007 survey of 38,500 visitors on DesktopLinux.com, Ubuntu was the most popular distribution with 30.3 percent of respondents using it.;;
+
+Ubuntu was awarded the Reader Award for best Linux distribution at the 2005 LinuxWorld Conference and Expo in London.;; It has been favorably reviewed in online and print publications.;;;;;; Ubuntu won InfoWorld's 2007 Bossie Award for Best Open Source Client OS.;[http://www.infoworld.com/article/07/09/10/37FE-boss-platforms_1.html Best of open source in platforms and middleware];
+
+Mark Shuttleworth indicates that there were at least 8 million Ubuntu users at the end of 2006.;[http://www.redherring.com/Home/20497 Linux: Ubuntu Founder On Desktop Innovation];
+
+References
+
+
+* [http://www.xyzcomputing.com/index.php?option=content&amp;task=view&amp;id=492&amp;Itemid=0&amp;limit=1&amp;limitstart=0What is it About Ubuntu?] - by Sal Cangeloso, XYZ Computing, Monday, December 5, 2005, retrieved December 21, 2005
+* [http://www.ubuntu.com/support/faq#head-5d258da97e700cf78c82c09dcd0c6a401ee51ca5 Once I have installed Ubuntu, will I be able to upgrade to the next release?] by Viktorija, April 10, 2005, retrieved December 21, 2005.
+* [http://www.communitymx.com/content/article.cfm?page=2&amp;cid=C5776 Ubuntu &amp; You, Part 1: Trying Today's Most Popular Linux Distribution] by Thomas Pletcher, CommunityMX, August 15, 2005, retrieved December 21, 2005
+* [https://help.ubuntu.com/community/RestrictedFormats Restricted Formats] last edited 2005-12-16 02:24:00 by RichRudnick, Ubuntu Wiki, retrieved December 21, 2005
+* 
+* 
+* [http://vig.prenhall.com:8081/catalog/academic/product/0,1144,0132435942-FDOC,00.html The Official Ubuntu Book]
+
+
+See also
+ 
+* List of Ubuntu-based distributions
+* List of Linux distributions
+* Comparison of Linux distributions
+* System 76
+
+External links
+
+* [http://www.ubuntu.com/ Official website of ''Ubuntu'']
+* [http://www.ubuntuforums.org/ Ubuntu Forums] - Official web forums
+* [http://www.ubuntugeek.com Ubuntu Geek] - Ubuntu Tips,Articles and How's
+* 
+* 
+* [http://blip.tv/file/543673 Tour of the Ubuntu applications (Screencast Video)]
+* [http://interviews.slashdot.org/article.pl?sid=05/04/04/1859255 Interview with Mark Shuttleworth about ''Ubuntu'']
+* [http://www.cio.com/article/155753 Mark Shuttleworth explains the Top Ten Reasons Why Ubuntu Is Best for Enterprise Use (CIO.com article)]
+* [http://www.ubuntutips.net Ubuntu Tips] - A site maintaining a collection of tips and tricks for Ubuntu
+* [http://www.defeatingthehacker.com/securitysavvy/ubuntu_server_howto.htm Ubuntu Server 7.10 Howto] - How to turn a legacy PC into a Web server running Ubuntu Server 7.10
+
+
+
+
+Category:Debian-based distributions
+Category:LiveCD
+
+
+
+
+af:Ubuntu Linux
+als:Ubuntu Linux
+ar:أوبونتو
+ast:Ubuntu
+bn:উবুন্টু (লিনাক্স ডিস্ট্রিবিউশন)
+zh-min-nan:Ubuntu
+bs:Ubuntu (Linux distribucija)
+bg:Ubuntu Linux
+ca:Ubuntu
+cv:Ubuntu
+cs:Ubuntu
+da:Ubuntu
+de:Ubuntu
+et:Ubuntu
+el:Ubuntu
+es:Ubuntu (distribución Linux)
+eo:Ubuntu linukso
+eu:Ubuntu Linux
+fa:لینوکس اوبونتو
+fr:Ubuntu
+fy:Ubuntu Linux
+ga:Ubuntu
+gl:Ubuntu
+zh-classical:Ubuntu
+ko:우분투 (리눅스 배포판)
+hr:Ubuntu
+id:Ubuntu
+is:Ubuntu
+it:Ubuntu
+he:אובונטו לינוקס
+kn:ಉಬುಂಟು
+csb:Ubuntu Linux
+ku:Ubuntu GNU/Linux
+lv:Ubuntu Linux
+lt:Ubuntu
+hu:Ubuntu (Linux-disztribúció)
+nl:Ubuntu (Linuxdistributie)
+ne:उबुन्टु
+ja:Ubuntu
+no:Ubuntu
+nn:Ubuntu Linux
+oc:Ubuntu
+uz:Ubuntu (Linux distributivi)
+nds:Ubuntu
+pl:Ubuntu (dystrybucja Linuksa)
+pt:Ubuntu Linux
+ro:Ubuntu
+ru:Ubuntu Linux
+si:උබුන්ටු (ලිනක්ස් බෙදා හැරීම)
+simple:Ubuntu
+sk:Ubuntu
+sl:Ubuntu
+sr:Ubuntu
+sh:Ubuntu (Linux distribucija)
+fi:Ubuntu
+sv:Ubuntu
+ta:உபுண்டு லினக்ஸ்
+th:อูบุนตู
+vi:Ubuntu
+tr:Ubuntu
+uk:Ubuntu Linux
+zh:Ubuntu

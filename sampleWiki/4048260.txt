@@ -1,0 +1,46 @@
+{{otherpeople2|Rafiqul Islam}}
+{{Infobox Cricketer |
+flag = Flag of Bangladesh.svg |
+nationality =  Bangladeshi |
+country = Bangladesh |
+country abbrev =  Ban |
+name = Rafiqul Islam |
+picture = Cricket_no_pic.png |
+batting style = Right-hand bat |
+bowling style = - |
+balls = true |
+tests = 1 |
+test runs = 7 |
+test bat avg = 3.50 |
+test 100s/50s = -/- |
+test top score = 6 |
+test overs = - |
+test wickets = - |
+test bowl avg = - |
+test 5s = - |
+test 10s = - |
+test best bowling = - |
+test catches/stumpings = -/- |
+ODIs = 1 |
+ODI runs = - |
+ODI bat avg = - |
+ODI 100s/50s = -/- |
+ODI top score = - |
+ODI overs = - |
+ODI wickets = - |
+ODI bowl avg = - |
+ODI 5s = - |
+ODI 10s = - |
+ODI best bowling = - |
+ODI catches/stumpings = -/- |
+date = 12 February |
+year = 2006 |
+source = http://content-aus.cricinfo.com/ci/content/player/56077.html}}
+'''Mohammad Rafiqul Islam Khan''' (born [[November 7]], [[1977]], [[Rajshahi]]) is a Bangladeshi [[cricket]]er who played a Test and ODI match for [[Bangladesh national cricket team|Bangladesh]] in 2002. He plays domestic [[first-class cricket]] for Rajshahi Division.
+
+
+[[Category:1977 births|Islam, Rafiqul]]
+[[Category:Living people|Islam, Rafiqul]]
+[[Category:Bangladeshi Test cricketers|Rafiqul Islam]]
+[[Category:Bangladeshi ODI cricketers|Rafiqul Islam]]
+[[Category:Bangladeshi cricketers|Rafiqul Islam]]

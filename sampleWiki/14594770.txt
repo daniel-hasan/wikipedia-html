@@ -1,0 +1,43 @@
+{{Football player infobox
+ | playername = Jeronimo Barrales
+ | image = 
+ | fullname =   
+ | height =  {{height|m=1.84}} 
+ | nickname = 
+ | dateofbirth =   {{birth date and age|1986|1|28}}         
+ | cityofbirth = [[Adrogué]] 
+ | countryofbirth = [[Argentina]]
+ | currentclub  = [[Club Atlético Banfield|Banfield]] 
+ | clubnumber = 14
+ | position = [[Striker|Forward]]
+ | youthyears = 
+ | youthclubs =  
+ | years = 2006-present 
+ | clubs = [[Club Atlético Banfield|Banfield]] 
+ | caps(goals) = 30 (4)
+ | nationalyears       = 
+ | nationalteam        = 
+ | nationalcaps(goals) = 
+ | pcupdate = 7 December 2007
+}}
+'''Jeronimo Barrales''' (born [[January 28]] [[1986]] in [[Adrogué]]) is an [[Argentina|Argentine]] [[football (soccer)|footballer]] currently playing for [[Club Atlético Banfield]].
+
+Barrales made his first team debut in 2006, and has since gone on to establish himself as a key member of the first team squad.
+
+
+==External links==
+
+* [http://www.football-lineups.com/footballer/4754 Football-Lineups player profile]
+
+
+{{Banfield squad}}
+
+{{DEFAULTSORT:Barrales, Jeronimo}}
+[[Category:1986 births]]
+[[Category:Living people]]
+[[Category:People from Adrogué]]
+[[Category:Argentine footballers]]
+[[Category:Football (soccer) strikers]]
+[[Category:Banfield footballers]]
+
+{{Argentina-footybio-stub}}

@@ -1,0 +1,94 @@
+
+<p>{{Infobox_Software2}}</p>
+<p>{{Firefox TOC}}
+<b>Swiftfox</b> is a freely downloadable, <a href="/wiki/Proprietary" id="w">proprietary</a> <a href="/wiki/Graphical_user_interface" id="w">graphical</a> <a href="/wiki/Web_browser" id="w">web browser</a>.  Swiftfox is a <a href="/wiki/Software_build" id="w">build</a> of the <a href="/wiki/Open_source" id="w">open source</a> <a href="/wiki/Mozilla_Firefox" id="w">Mozilla Firefox</a> <a href="/wiki/Web_browser" id="w">web browser</a> for <a href="/wiki/Linux" id="w">Linux</a> made by Jason Halme.  Not all Firefox <a href="/wiki/Extension_(Mozilla)" id="w">extensions</a> and <a href="/wiki/Plugins" id="w">plugins</a> are fully compatible with Swiftfox. The name Swiftfox comes from the animal <a href="/wiki/Swift_Fox" id="w">Swift Fox</a>. </p>
+<a id="Optimization" name="Optimization"></a><h2> Optimization </h2>
+<p>Swiftfox is optimized using the following methods:</p>
+<p><b>Binary code optimization</b>
+</p>
+<ul>
+<li>Compiled with the highest level of compiler optimization, rather than optimization for binary size.
+<ul>
+<li>Swiftfox is compiled -O3,<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup><sup id="_ref-build20_a" class="reference"><a href="#_note-build20" title="">[2]</a></sup> (the highest level)
+<ul>
+<li>The resulting Swiftfox binary is larger than Firefox. It should be noted that -O3 is not necessarily faster than -O1, -O2, or -Os as many factors such as the CPU&#39;s cache and overall design. On certain architectures -Os is significantly faster than -O3, specifically old computers.{{Fact}}</li></ul></li>
+<li>Firefox is compiled -Os<sup id="_ref-build20_b" class="reference"><a href="#_note-build20" title="">[2]</a></sup>(which is for binary size<sup id="_ref-gccopt_a" class="reference"><a href="#_note-gccopt" title="">[3]</a></sup>).</li></ul></li>
+<li><a href="/wiki/Binary_file" id="w">Binaries</a> incorporate additional <a href="/wiki/Instruction_set" id="w">instruction sets</a>.<sup id="_ref-change20_a" class="reference"><a href="#_note-change20" title="">[4]</a></sup>
+<ul>
+<li><a href="/wiki/Intel" id="w">Intel</a> and <a href="/wiki/AMD" id="w">AMD</a>: <a href="/wiki/SSE2" id="w">SSE2</a>, <a href="/wiki/SSE" id="w">SSE</a>, <a href="/wiki/MMX" id="w">MMX</a>, (not generally <a href="/wiki/SSE3" id="w">SSE3</a><sup id="_ref-5" class="reference"><a href="#_note-5" title="">[5]</a></sup>).</li>
+<li><a href="/wiki/AMD" id="w">AMD</a> only: <a href="/wiki/3DNow!" id="w">3DNow!</a></li></ul></li>
+<li>Optimization specific to the build microprocessor architecture.<sup id="_ref-change20_b" class="reference"><a href="#_note-change20" title="">[4]</a></sup>
+<ul>
+<li><a href="/wiki/Intel" id="w">Intel</a>: <a href="/wiki/Pentium_4" id="w">Pentium 4</a>, <a href="/wiki/Pentium_III" id="w">Pentium 3</a>, <a href="/wiki/Pentium_M" id="w">Pentium M</a>, <a href="/wiki/Pentium_III" id="w">Pentium 3M</a>, <a href="/wiki/Pentium_2" id="w">Pentium 2</a>, <a href="/wiki/Pentium_4#Prescott" id="w">Prescott</a>.</li>
+<li><a href="/wiki/AMD64" id="w">AMD64</a>: <a href="/wiki/Athlon64" id="w">Athlon64</a> (32bit binary).</li>
+<li><a href="/wiki/AMD" id="w">AMD</a>: <a href="/wiki/Athlon_XP" id="w">Athlon XP</a>, <a href="/wiki/Athlon" id="w">Athlon</a>, <a href="/wiki/K6-2" id="w">K6-2</a>.</li></ul></li>
+<li>Compiled with newer version of <a href="/wiki/GNU_Compiler_Collection" id="w">GCC</a> (Firefox 2.0 uses 3.3.2, Swiftfox 2.0 uses 4.0.4).<sup id="_ref-build20_c" class="reference"><a href="#_note-build20" title="">[2]</a></sup></li></ul>
+<p><b>Increased Security</b>
+</p>
+<ul>
+<li>Better protection from <a href="/wiki/Buffer_overflow" id="w">Buffer overflow</a> attacks<sup id="_ref-fortify_a" class="reference"><a href="#_note-fortify" title="">[6]</a></sup> (Swiftfox 2.0 uses -D_FORTIFY_SOURCE=2; Firefox 2.0 uses gcc 3.x, which does not support this).<sup id="_ref-build20_d" class="reference"><a href="#_note-build20" title="">[2]</a></sup></li></ul>
+<p><b>Simplify</b>
+</p>
+<ul>
+<li><a href="/wiki/Pango" id="w">Pango</a> is not included in the build {{Fact}}. This means that <a href="/wiki/Unicode_typefaces" id="w">Unicode fonts</a> remain supported (see <a href="/wiki/Unicode_and_HTML" id="w">Unicode and HTML</a>), but without certain extra features<sup id="_ref-pangoexample_a" class="reference"><a href="#_note-pangoexample" title="">[7]</a></sup> provided by <a href="/wiki/Pango" id="w">Pango</a>. This simplification reduces the binary size, and reduces rendering.</li></ul>
+<p><b>Changed default preference values</b>
+</p>
+<ul>
+<li><a href="/wiki/IPv6" id="w">IPv6</a> <a href="/wiki/Domain_name_system" id="w">DNS</a> lookups are disabled.<sup id="_ref-change15_a" class="reference"><a href="#_note-change15" title="">[8]</a></sup><sup id="_ref-change20_c" class="reference"><a href="#_note-change20" title="">[4]</a></sup> preventing slowdowns experienced<sup id="_ref-ipv6dns_a" class="reference"><a href="#_note-ipv6dns" title="">[9]</a></sup></li>
+<li><a href="/wiki/HTTP_pipelining" id="w">HTTP pipelining</a> is enabled by default.<sup id="_ref-change15_b" class="reference"><a href="#_note-change15" title="">[8]</a></sup><sup id="_ref-change20_d" class="reference"><a href="#_note-change20" title="">[4]</a></sup> Note that <a href="/wiki/Fasterfox" id="w">Fasterfox</a> provides a <a href="/wiki/GUI" id="w">GUI</a> to adjust these settings.</li>
+<li>For full details, see <a class="externallink" href="http://getswiftfox.com/source/swiftfox-1.8branch.patch" rel="nofollow" title="http://getswiftfox.com/source/swiftfox-1.8branch.patch">http://getswiftfox.com/source/swiftfox-1.8branch.patch</a>.</li></ul>
+<a id="Speed" name="Speed"></a><h2> Speed </h2>
+<p>{{update}}
+</p><a id="Firefox_speed" name="Firefox_speed"></a><h3> Firefox speed </h3>
+<p>Firefox has been criticised for slow startup compared with other browsers <sup id="_ref-10" class="reference"><a href="#_note-10" title="">[10]</a></sup>, a criticism confirmed by pre-Firefox 2.0 speed tests.<sup id="_ref-11" class="reference"><a href="#_note-11" title="">[11]</a></sup><sup id="_ref-benchgeneral_a" class="reference"><a href="#_note-benchgeneral" title="">[12]</a></sup> A speed comparison of various Linux (and other) browsers has been done.<sup id="_ref-benchgeneral_b" class="reference"><a href="#_note-benchgeneral" title="">[12]</a></sup></p>
+<a id="Swiftfox_speed" name="Swiftfox_speed"></a><h3> Swiftfox speed </h3>
+<p>A superficial test done by APC Magazine, exhibits a slightly faster startup time together with a 1.7% webpage rendering speedup has been reported on the 1.5.0.6 version.<sup id="_ref-benchswift_a" class="reference"><a href="#_note-benchswift" title="">[13]</a></sup> The details of this test are a page rendering in 4.79 seconds for Firefox and 4.67 seconds for Swiftfox, both 32bit on 64bit system. A caveat in this test was that there was no benchmarking on different processors, so builds optimized for different processors were not evaluated, nor discussed.</p>
+<a id="Additional_options" name="Additional_options"></a><h2> Additional options </h2>
+<p>Swiftfox is bundled with the following freely available Firefox plugins and extensions: 
+</p>
+<ul>
+<li><a href="/wiki/XForms" id="w">XForms</a> extension is installed and enabled</li>
+<li>libunixprintplugin.so plugin is installed</li></ul>
+<a id="Downloads_available" name="Downloads_available"></a><h2> Downloads available </h2>
+
+<ul>
+<li>The latest released version of Firefox 2.0 - separate builds are available for each processor type covering <a href="/wiki/Intel" id="w">Intel</a> and <a href="/wiki/AMD" id="w">AMD</a> processors:
+<ul>
+<li>packaged as a <a href="/wiki/Tar_(file_format)" id="w">tar</a> file</li>
+<li>packaged for <a href="/wiki/Debian" id="w">Debian</a> installs that can&#39;t be redistributed by Debian because of the Swiftfox license restricts redistribution.<sup id="_ref-license_a" class="reference"><a href="#_note-license" title="">[14]</a></sup><sup id="_ref-DSFG2_a" class="reference"><a href="#_note-DSFG2" title="">[15]</a></sup></li></ul></li>
+<li>Recent snapshots of development versions of Firefox 2.0 and 3.0 (trunk) - separate builds for <a href="/wiki/AMD" id="w">AMD</a> <a href="/wiki/Athlon_XP" id="w">Athlon XP</a> processors and <a href="/wiki/Intel" id="w">Intel</a> <a href="/wiki/Pentium_4" id="w">Pentium 4</a> (and compatible).</li></ul>
+<a id="License" name="License"></a><h2> License </h2>
+<p>The same as Firefox, the Swiftfox source code is <a href="/wiki/Open_source" id="w">open source</a>, with the source code under <a href="/wiki/Mozilla_Public_License" id="w">MPL 1.1</a> except for parts relating to branding.<sup id="_ref-license_b" class="reference"><a href="#_note-license" title="">[14]</a></sup>
+Unlike Firefox, the Swiftfox binaries have a proprietary license<sup id="_ref-license_c" class="reference"><a href="#_note-license" title="">[14]</a></sup> which does not allow redistribution. According to the author, this is to prevent the possibility of any confusion with tainted versions (see the Firefox branding argument <a href="/wiki/Mozilla_Firefox#Trademark and logo issues" id="w">Mozilla Firefox</a>). The name Swiftfox is trademarked by Jason Halme, and accordingly can not be used on other 3rd party Firefox builds without his permission.</p>
+<p>The open source compliance of Swiftfox has been a questioned by some<sup id="_ref-dispute_a" class="reference"><a href="#_note-dispute" title="">[16]</a></sup>, as the MPL requires source code for custom binary distributions to be distributed and specifically licensed under the MPL, GPL, or LGPL. Further all source code changes, including changes related to branding, must be distributed. To date, the Swiftfox developer has released only changes to default Firefox system settings.</p>
+<a id="Debian" name="Debian"></a><h3> Debian </h3>
+<p>Swiftfox is offered in the form of <a class="externallink" href="http://getswiftfox.com/debian.htm" rel="nofollow" title="http://getswiftfox.com/debian.htm">Debian packages</a> in the Debian section at the official site. The repository offered by the site is listed as non-free in the Debian sense, as its URL, &#34;deb http://getswiftfox.com/builds/debian unstable non-free&#34;, is appended with the words &#39;non-free&#39;. Another reason Swiftfox hosts its own repositories is that the Swiftfox license restricts redistribution of its binaries.<sup id="_ref-license_d" class="reference"><a href="#_note-license" title="">[14]</a></sup> This license also restricts use of the name Swiftfox and its corresponding branding.<sup id="_ref-license_e" class="reference"><a href="#_note-license" title="">[14]</a></sup> The license effectively stops Debian and other Linux distributions from having Swiftfox available as part of a distribution and from including it in a distribution&#39;s package repository.<sup id="_ref-cantshare_a" class="reference"><a href="#_note-cantshare" title="">[17]</a></sup></p>
+<a id="Alternatives" name="Alternatives"></a><h2> Alternatives </h2>
+
+<ul>
+<li>Firefox source code and Swiftfox changes are freely available for download, allowing anyone to create their own build.</li>
+<li><a href="/wiki/Swiftweasel" id="w">Swiftweasel</a> is an optimized build of the Mozilla Firefox code that is licensed under the <a href="/wiki/Mozilla_Public_License" id="w">MPL 1.1</a>.</li></ul>
+<a id="References" name="References"></a><h2>References</h2>
+<p /><ol class="references">
+<li id="_note-1"><b><a href="#_ref-1" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-build20">&uarr; <a href="#_ref-build20_a" title=""><sup><i><b>a</b></i></sup></a> <a href="#_ref-build20_b" title=""><sup><i><b>b</b></i></sup></a> <a href="#_ref-build20_c" title=""><sup><i><b>c</b></i></sup></a> <a href="#_ref-build20_d" title=""><sup><i><b>d</b></i></sup></a> Using url of <i>about:buildconfig</i> to check the details of the 2.0 builds</li><li id="_note-3"><b><a href="#_ref-3" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-change20">&uarr; <a href="#_ref-change20_a" title=""><sup><i><b>a</b></i></sup></a> <a href="#_ref-change20_b" title=""><sup><i><b>b</b></i></sup></a> <a href="#_ref-change20_c" title=""><sup><i><b>c</b></i></sup></a> <a href="#_ref-change20_d" title=""><sup><i><b>d</b></i></sup></a> {{cite web}}</li><li id="_note-5"><b><a href="#_ref-5" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-6"><b><a href="#_ref-6" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-7"><b><a href="#_ref-7" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-change15">&uarr; <a href="#_ref-change15_a" title=""><sup><i><b>a</b></i></sup></a> <a href="#_ref-change15_b" title=""><sup><i><b>b</b></i></sup></a> {{cite web}}</li><li id="_note-9"><b><a href="#_ref-9" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-10"><b><a href="#_ref-10" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-11"><b><a href="#_ref-11" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-benchgeneral">&uarr; <a href="#_ref-benchgeneral_a" title=""><sup><i><b>a</b></i></sup></a> <a href="#_ref-benchgeneral_b" title=""><sup><i><b>b</b></i></sup></a> {{cite web}}</li><li id="_note-13"><b><a href="#_ref-13" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-license">&uarr; <a href="#_ref-license_a" title=""><sup><i><b>a</b></i></sup></a> <a href="#_ref-license_b" title=""><sup><i><b>b</b></i></sup></a> <a href="#_ref-license_c" title=""><sup><i><b>c</b></i></sup></a> <a href="#_ref-license_d" title=""><sup><i><b>d</b></i></sup></a> <a href="#_ref-license_e" title=""><sup><i><b>e</b></i></sup></a> {{cite web}}</li><li id="_note-15"><b><a href="#_ref-15" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-16"><b><a href="#_ref-16" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-17"><b><a href="#_ref-17" title="">&uarr;</a></b> {{cite web}}</li></ol><a id="See_also" name="See_also"></a><h2> See also </h2>
+
+<ul>
+<li><a href="/wiki/Mozilla_Firefox" id="w">Mozilla Firefox</a></li>
+<li><a href="/wiki/Fasterfox" id="w">Fasterfox</a> - An extension for Firefox</li>
+<li><a href="/wiki/Swiftweasel" id="w">Swiftweasel</a> - A 100% Free build of the Mozilla Firefox code, without proprietary graphics and license like Swiftfox.</li></ul>
+<a id="External_links" name="External_links"></a><h2>External links</h2>
+
+<ul>
+<li><a class="externallink" href="http://getswiftfox.com/" rel="nofollow" title="http://getswiftfox.com/">Swiftfox site</a></li>
+<li><a class="externallink" href="http://www.apcstart.com/node/3097" rel="nofollow" title="http://www.apcstart.com/node/3097">APC Magazine: &#34;Fastest browser in the world&#34;</a></li>
+<li><a class="externallink" href="http://pykeylogger.sourceforge.net/wiki/index.php/Ubuntu:Chronicles#Install_Swiftfox" rel="nofollow" title="http://pykeylogger.sourceforge.net/wiki/index.php/Ubuntu:Chronicles#Install_Swiftfox">Ubuntu site</a></li>
+<li><a class="externallink" href="http://madpenguin.org/cms/index.php/?m=show&#38;id=7505" rel="nofollow" title="http://madpenguin.org/cms/index.php/?m=show&#38;id=7505">madpenguin.org</a></li>
+<li><a class="externallink" href="http://www.linuxextremist.com/?p=100" rel="nofollow" title="http://www.linuxextremist.com/?p=100">linuxextremist</a></li></ul>
+<p>
+</p>
+<p><a href="http://ca.wikipedia.org/wiki/Swiftfox">ca:Swiftfox</a>
+<a href="http://cs.wikipedia.org/wiki/Swiftfox">cs:Swiftfox</a>
+<a href="http://de.wikipedia.org/wiki/Swiftfox">de:Swiftfox</a>
+<a href="http://fr.wikipedia.org/wiki/Swiftfox">fr:Swiftfox</a>
+<a href="http://es.wikipedia.org/wiki/Swiftfox">es:Swiftfox</a>
+</p>

@@ -1,0 +1,31 @@
+'''"Rashōmon"''' (羅生門) is a short story by [[Ryūnosuke Akutagawa|Akutagawa Ryūnosuke]] based on tales from the ''[[Konjaku Monogatarishu|Konjaku Monogatarishū]]''.
+
+The story was first published in 1915 in ''[[Teikoku Bungaku]]''. Despite its name, it provided no direct plot material for the [[Akira Kurosawa]] movie ''[[Rashomon (movie)|Rashōmon]]'', which was based on Akutagawa's 1921 short story, ''[[In a Grove]]''.  However, the framing sequence of the film reflects certain elements of the story, such as the theft of a kimono and the discussion of the moral ambiguity of thieving to survive.
+
+==Plot summary==
+
+The story recounts the encounter between a servant and an old woman in the dilapidated [[Rashomon Gate|Rashōmon Gate]], where unclaimed corpses were sometimes dumped. 
+
+The man, recently fired, is contemplating whether to starve to death or to become a thief to survive in the barren times.  When he goes upstairs to get some sleep, he encounters the woman, who is stealing hair from the dead bodies in the second floor.  He is disgusted, and decides then that he would rather take the path of righteousness even if it meant starvation.  He is furious with the woman.
+
+But the old woman tells him that she steals hair to make wigs so she can survive.  In addition, the woman whose body she is currently robbing cheated people in her life by selling snake meat and claiming it was fish.  The old woman says that this was not wrong because it allowed the woman to survive -- and so in turn this entitles her to steal from the dead person, because if she doesn't, she too will starve.  The man responds "Then, you won't mind if I strip you of your clothes.  If I don't, I too will starve."  He then brutally robs the woman of her [[kimono]] and disappears into the night.
+
+In later versions of the story, the last line is "Where the servant went to, nobody knows."
+
+The book itself also plays a part in the 1999 movie [[Ghost Dog]].
+
+==External links==
+
+* {{gutenberg|no=1982|name=Rashōmon'' (in Japanese)}}
+* [http://www.aozora.gr.jp/cards/000879/files/127_15260.html ''Rashōmon'' (in Japanese)], better-known, later version, available freely at [[Aozora Bunko]]
+* [http://rene.malenfant.googlepages.com/rashomon Free copy of the story in English]
+* [http://www.speaking-japanese.com/breaking/lite_rashomon.html Free MP3s of the story, read by a professional Japanese actress (In Japanese)]
+*{{cite book|author=Murray, Giles|year=2003|title=Breaking into Japanese Literature|publisher=Kodansha|id=ISBN 4-7700-2899-7}} A bilingual book with "In a Grove" & "Rashomon"
+
+[[Category:1915 short stories]]
+[[Category:Japanese short stories]]
+
+{{story-stub}}
+
+[[ja:羅生門 (小説)]]
+[[zh:羅生門 (小說)]]

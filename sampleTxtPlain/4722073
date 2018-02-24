@@ -1,0 +1,282 @@
+Customer Configuration Updating (CCU) is a production method developed by researchers of the Utrecht University. This method should help product software developers in structuring the process of providing customers with new versions of products and updates. This article is about the delivery phase of the CCU method. Delivery concerns the process which starts at the moment a product is finished until the actual shipping of the product to the customer. 
+
+This entry has been constructed as an element of the Method Engineering Encyclopedia of the Utrecht University.
+
+Introduction to the delivery process
+Figure 1: CCU model, delivery phase.
+As described in the general entry of CCU, the delivery phase is the second phase of the CCU method. In figure one the CCU method is depicted. The phases of CCU that are not covered in this article are concealed by a transparent grey rectangle.
+
+As can be seen in figure one, the delivery phase is in between the release phase and the deployment phase. A software vendor develops and releases a software product and afterwards it has to be transported to the customer. This phase is the delivery process. This process is highly complex because the vendor often has to deal with a product which has multiple versions, variable features, dependency on external products, and different kinds of distribution options. The CCU method helps the software vendor in structuring this process.
+
+In figure 2, the process-data diagram of the delivery phase within CCU is depicted. This way of modeling was invented by Saeki (2003). On the left side you can see the meta-process model and on the right side the meta-data model. The two models are linked to each other by the relationships visualized as doted lines. The meta-data model (right side) shows the concepts involved in the process and how the concepts are related to each other. For instance it is visible that a package consists of multiple parts, being the: software package, system description, manual, and license and management information. The numbers between the relations indicate in what quantity the concepts are related. For example the “1..1” between package and software package means that a package has to contain at least 1 software package and at the most 1 software package. So in this case a package just has to contain 1 software package. On the left side of the picture the process-data model is depicted. This consists of all the activities within the delivery process. This article is based on this process-data model. The meta-process model (left side of the process-data diagram) is divided into several parts which are presented along with the corresponding paragraphs throughout the article to make it easier to understand.
+
+The tables that describe the concepts of the meta-data model and the activities of the process-data model are presented beneath figure 2.
+
+Image:CCU_delivery_process_data_model.jpg|thumb|center|500px|Figure 2: CCU model, delivery phase.
+
+= Table of concepts=
+The table of concepts contains all concepts used in the meta-data model with their explanations along with the source from which the explanations are derived.
+
+''Table 1: Table of concepts''
+{| class=&quot;wikitable&quot; width=&quot;70%&quot; align=&quot;center&quot;
+|- bgcolor=&quot;c0c0c0&quot;
+|Concept
+|Definition (Source)
+|-
+|REPOSITORY
+|Also called a vault. A repository contains only one complete version of a configuration item (CI). Differences between versions are usually stored using a delta algorithm.
+
+Collection of records describing resources (Crnkovic, Asklund &amp; Persson-Dahlqvist, 2003 and W3C 2006)
+|-
+|PACKAGE
+|A collection of different related items combined for transferring purposes to the customer.(Carzaniga ''et al.'', 1998)
+|-
+|SOFTWARE PACKAGE
+|A collection of different related software components combined for transferring purposes to the customer. (Carzaniga ''et al.'', 1998)
+|-
+|SOFTWARE COMPONENTS
+|The different components of which software consists related through dependencies.(Carzaniga ''et al.'', 1998)
+|-
+|VERSION
+|A version is a state of an object or concept that varies from its previous state or condition.(Wikipedia, 2006)
+|-
+|SYSTEM DESCRIPTION
+|Description of the system including its requirements and the dependencies on other external components. (Carzaniga ''et al.'', 1998)
+|-
+|MANUAL
+|A technical communication document intended to give assistance to people using a particular system. (Wikipedia, 2006)
+|-
+|LICENSE
+|Type of proprietary or gratuitous license as well as a memorandum of contract between a producer and a user of computer software that specifies the perimeters of the permission granted by the owner to the user. (Wikipedia, 2006)
+|-
+|MANAGEMENT INFORMATION
+|All the information that is relevant for the management of the system at the customer site. (Carzaniga ''et al.'', 1998)
+|-
+|CUSTOMER RELATIONSHIP MANAGEMENT SYSTEM
+|A system which maintains all information about the customers. (Jansen ''et al.'', 2005)
+|-
+|CUSTOMER
+|A company or person that bought some product or made use of one of your companies services before. (Jansen ''et al.'', 2005)
+|-
+|LICENSE TYPE
+|In this case it can either be a long term license, an expired license or a temporary license.
+|-
+|CUSTOMER DATA
+|All known information about the customers in the customer relationship management system. 
+|-
+|CONFIGURATION MANAGEMENT SYSTEM
+|A system maintaining information about the software configurations at the customer’s sites. (Prince2 CCTA, 2002)
+|-
+|PRODUCT
+|An element of software or a document placed under version control. (Crnkovic ''et al.'', 2003)
+|-
+|UPDATES
+|An update also called a patch is a small piece of software designed to update or fix problems with a computer program. (Wikipedia, 2006)
+|-
+|CONFIGURATION
+|A configuration is an arrangement of functional units according to their nature, number, and chief characteristics. (Wikipedia, 2006)
+|-
+|MODIFICATION
+|Modification is the act of applying change to an original. (Wikipedia, 2006)
+|-
+|FEEDBACK
+|Feedback allows a vendor to gather large amounts
+of data about its customers and its product as it acts in the field. (Jansen, S. &amp; Ballintijn, G. &amp; Brinkkemper, S., 2005)
+|-
+|BUG REPORT
+|A report of the problems users encountered using the product. This can mean a problem with a certain function or dead links within the system. This information is collected manually. (Jansen ''et al.'', 2005)
+|-
+|PRODUCT USAGE DATA
+|This data contains information about the actual product usage. This reflects on options that are most used within the program. (Jansen ''et al.'', 2005)
+|-
+|ERROR REPORT
+|When the software product gets an error it will automatically send an error report to the vendor.(Jansen ''et al.'', 2005)
+|-
+|USAGE QUESTIONS
+|Questions users have about handling the product etc. (Jansen ''et al.'', 2005)
+|}
+
+= Activity table=
+The activity table contains the explanations of the activities along with the source from which the explanations are derived. Because the method is quite innovative a lot of the activity’s are designed especially for this model and therefore the explanations do not have a source.
+
+''Table 2: Activity Table''
+
+{| class=&quot;wikitable&quot; width=&quot;70%&quot; align=&quot;center&quot;
+|- bgcolor=&quot;c0c0c0&quot;
+|Activity
+|Sub-Activity
+|Description (Source)
+|-
+|colspan=2 |Package
+|Packaging the system so that it can be transferred to the customers’ site. (Jansen ''et al.'', 2005)
+|-
+|rowspan=6|
+|Package software
+|Combining different software components into one package that can be delivered to the customer. (Jansen ''et al.'', 2005)
+|-
+|Package system description
+|Add a system description to the package. (Jansen ''et al.'', 2005)
+|-
+|Package manual
+|Add a manual to the package. (Jansen ''et al.'', 2005)
+|-
+|Package license
+|Add a license to the package. (Jansen ''et al.'', 2005)
+|-
+|Package management information
+|Add a management information document to the package. (Jansen ''et al.'', 2005)
+|-
+|Check package
+|Make sure that the package is complete and ready for deployment at the customer’s site. (Jansen ''et al.'', 2005)
+|-
+|colspan=2 |Advertise update
+|When a vendor wishes to provide updates to its customers, the customers first need to be informed through the available communication channels. (Jansen ''et al.'', 2003)
+|-
+|colspan=2 |Preparedistribution
+|Prepare measures be able to get the software to the customer.
+|-
+|rowspan=2|
+|Set package in repository
+|A finished software component will be made available in some release repository. (Jansen ''et al.'', 2003)
+|-
+|Create transfer channels
+|The vendor needs to create channels through which the software can be transferred to the customer.
+|-
+|colspan=2 |Distribute
+|Getting the software to the different customers. (Crnkovic, Asklund &amp; Persson-Dahlqvist, 2003)
+|-
+|rowspan=5|
+|Customer request
+|A customer makes the vendor aware of his interest for a certain product or update. (Jansen ''et al.'', 2005)
+|-
+|Determine configuration needs
+|It is determined which software components are needed for a successful configuration update. (Jansen ''et al.'', 2005)
+|-
+|Determine configuration constraints
+|It is determined to which constraints the infrastructure of the customer has to suffice in order to run the new product or update. (Jansen ''et al.'', 2005)
+|-
+|Check customers license
+|It is checked if the customer is in possession of the right license for the new configuration update. (Jansen ''et al.'', 2005)
+|-
+|Deliver update
+|Getting the software components at the customer’s site. (Jansen ''et al.'', 2005)
+|-
+|colspan=2 |Inform customer
+|Providing the customer with information about in this case the status of its request. (Jansen ''et al.'', 2005)
+|-
+|colspan=2 |Update CRM
+|Add information to the CRM system so that it contains the most current information available. (Jansen ''et al.'', 2005)
+|-
+|colspan=2 |Receive delivery and deployment report
+|Getting a report (automatically or manually) about the success of the delivery and deployment from the customer. (Jansen ''et al.'', 2005)
+|-
+|colspan=2 |Update license type
+|Add information about the license obtained by the customer so that the system contains the most current information available. (Jansen ''et al.'', 2005)
+|-
+|colspan=2 |Update configuration management
+|Add recent information in the configuration management system, so that the customer’s most recent configuration is stored. (Jansen ''et al.'', 2005)
+|-
+|
+|Update product properties
+|Renew the information about the products in use by the customer so that the system contains the most current information available. (Jansen ''et al.'', 2005)
+|}
+
+Package software
+
+Image:CCU_delivery_package.jpg|frame|center|Figure 3: CCU, package.
+
+In order to deliver the developed product to the customer, the vendor needs to package the different components of its product into a package. By doing this, the customer will receive all the information and software components at once fulfilling al its needs. After combining all elements into one package the software vendor will carefully have to check if the package is complete. The package will have to provide the customer with all the tools and information to use the product. When this is not the case the software vendor will get a lot of questions from its customers which will consume a lot of time. It is therefore very important that the package is checked carefully before it is shipped. The package can be a physical combination of different elements packed into for example a box, but it can also be a digital combination of files which contain all the elements. Within the CCU process it is stated that a package will consist of five elements, being: software package, system description, manual, and license and management information. In the following paragraphs is explained how these elements fit into the CCU delivery phase.
+
+= Software package=
+
+One of the elements of the package will be the software package. The software package is a package in itself, because it consists of the different software components that together form the product. In contrast with the overall package, the software package is always a technical package in which all the files needed are combined in order to run the software product. Examples of tools which can perform this packaging are: [http://www.lokigames.com/ Loki-Update], [http://www.kleemann.org/rpm-update/oldindex.html/ RPM-update], [http://swup.trustix.org/ SWUP] and [http://www.gentoo.org/doc/en/portage-manual.xml/ Portage]. Another concept of the software package is the version. This keeps track of the modifications made to the software product. By relating it to the software package the vendor and the customer are able to keep track of the functionality and properties of the product the customer is using.
+
+= System description=
+
+It is a general description of what the product and its functionalities. In addition it will also describe of what components, the product consists and how these are related to other product software already in place. In case of a software update it will for example describe how the previous version of the software is modified by this product. Besides this, it will also describe the requirements needed to run the software product properly. For example what other products and configurations need to be in place in order to let this product run properly.
+
+= Manual=
+
+The manual is the document that will provide the customer with guidance in deploying and using the product.
+
+= License=
+
+The license is in this case a Software license agreement in which is stated how the customer is permitted to use the product. For example it can state how many users are permitted to use the software product. In this situation the license agreement is a contract or a certificate which is the customers prove of its using permits. The software vendor has its own part of the agreement which in most cases is stored in a system. An elaboration of this part can be found at the receive feedback section of this article. The license agreement shipped to the customer can be a digital document as well as a physical document.
+
+= Management information=
+
+This piece of information should contain the information that is relevant for managing the system at the customer’s site. In many cases this information is already part of the manual. However in particular situations this information is meant only for the management of the system and not for the users of the system and is therefore supplied as a separate document.
+
+Distribution
+
+After the package is assembled it needs to be distributed to the customers. This section within the delivery process is about the actual delivery of the package to the customers.
+
+= Offline vs Online=
+The software distribution of a product can be done offline as well as online. In an offline situation the package is a physical package which contains all the elements. The software is stored on a data carrier such as a CD or a DVD, and the documents might also be stored in a digital form on this data carrier, or they might be in physical form such as a booklet. The package as a whole is a physical product. In an online situation the entire package needs to be in a digital form. The consequences on the distribution process are described in the following paragraphs. CCU is designed to fit both situations but as bandwidth is growing it is making more sense to distribute especially updates and new versions to existing customers online. In this article both ways are discussed. In the process-data model it is assumed that the software vendor conducts both distribution channels. As a practical example: HISComp, a provider of medical information systems distributes its software straightforward via CDs. However they use their website to distribute patches for the software products.
+
+= Preparation of distribution=
+
+Image:CCU_delivery_prepare_distribution.jpg|frame|center|Figure 4: CCU, Preparation of distribution.
+
+After a new package is assembled, the customer needs to be made aware of the new release. In the process-data model this is being depicted as a loop which states advertising the update until the customers are being properly informed. Besides this, the package ready for delivery, needs to be stored in a repository for the online distribution. In addition the vendor needs to create transfer channels. For the online distribution this means that the vendor needs to create online channels to its repository. In most cases this means that a link to the product on the website of the vendor is created. In case of updates it is largely applicable that the current version of the software product at the customer’s site automatically checks the repository for new updates of the product. In case of offline distribution, the vendor needs to create physical transfer channels. This can be shops or just a contract with a courier company.
+
+= The actual distribution=
+
+Image:CCU_delivery_actual_distribution.jpg|frame|center|Figure 5: CCU, The actual distribution.
+
+The distribution begins with the request for a product by the customer. This can be done automatically when the current product of the customer searches for an update at the online repository. The customer can also manually do a request for a product via the website of the vendor. A third option is that the customer does the request via telephone or e-mail.
+
+When the vendor is aware of the customer’s request it will determine the customer’s needs. By checking what the customer’s current configuration is and what the customer desires. This process can also take place automatically by checking the customer’s configuration in the configuration management system. More information on this system is provided in the next chapter. When it is clear what product the customer needs and the possible modifications to this product it is necessary to determine if the customer’s current configuration suits the new product. The current configuration is compared to the constraints of the new product. This can also be done automatically by the configuration management system. When the configuration of the customer appears to be insufficient the customer is informed about this. For example the vendor can make clear to the customer that it will need an external product for this new product to run properly. Besides this the Customer Relationship Management (CRM) system of the vendor is updated. There is more information about this in the chapter about CRM.
+
+When the customer’s configuration is sufficient the vendor will check the current license of the customer. If the customer does not have a proper license for the requested product the license needs to be obtained. The customer will be informed about this and the CRM system will be updated again. If the customer has the proper license or wants to buy the proper license along with the product, the product is delivered to the customer.
+
+Software configuration management
+
+The Software Configuration Management system, is a system at the vendor’s site which keeps track of the configurations at the customer’s site. By storing this in a system the vendor will be able to give the customer particular service when it needs a new product. In the software configuration management system information about the products used by the customer, the version of these products, as well as which updates are already being done, is stored. In some cases it is possible that the vendor did some modifications to the product particularly for this customer. This will also have to be stored in the system. Also there needs to be configuration data, some generic information about the configuration the customer is using. For example what operating platform the customer uses for its software. What also should be stored in this system is information about the feedback that the vendor gets from the customer. This includes bug reports, product usage data, error reports and usage questions. More information about this feedback can be found in the CCU phase activation and usage.
+
+By storing all this information the vendor can determine the customer’s needs very precisely whenever a customer requests a product or an update. As already stated the vendor can also easily inform the customer about some adaptations the customer needs to make to its configuration in order to let the product function properly. Another advantage of storing this information in a system is that it will ease the process of online delivery. The checking of the configuration needs and constraints can all be done automatically when a customer does a request.
+
+CRM system
+
+The customer relationship management system contains all kinds of data about the customers of a company. In this article we will discuss the function of this customer data in the CCU delivery process. Information about the license agreement between the customer and the software vendor is stored in the CRM system. In the meta-data model this is called the license type. This information is being consulted by the vendor when a customer does a request for a product. When the repository and online distribution is linked to the CRM system this can again be done automatically. The system will check if the license of a customer is sufficient to obtain a certain product or update.
+
+Receiving feedback and updating the systems
+
+Image:CCU_delivery_feedback.jpg|frame|center|Figure 6: CCU, Feedback and updating.
+
+In order to keep all the described systems up-to-date at the vendor site it is important that the vendor receives a lot of feedback from the customer. As already mentioned in the previous chapters there will have to be feedback when a customer tries to obtain a product but the current license appears to be insufficient. By updating the CRM system the vendor will store the customer’s request for a certain product or update. In this way the vendor will be aware of the interests of a customer in a certain product and could use this in the future for example in doing an offer. The same accounts when the customer’s configuration does not meet the constraints of a requested product. The vendor could use the information in the future to inform the customer for example about an update which overcomes the constraints to which the customer couldn’t suffice. Besides this it is also important that the vendor receives a delivery report after delivery and deployment. This report could be automatically generated and sent by the installed software product. In this way the vendor can (automatically) update the product properties in its customer configuration management system so that it has information about the products running at the customer’s site. Besides this, the information can be used as input for development improvement. Microsoft and Exact are already using these kinds of feedback techniques in their products. 
+
+As already stated in the chapter about the configuration management system it is also important that the vendor receives information about the usage of the product. More information about this feedback can be found in the CCU phase activation and usage.
+
+Example
+
+An example of a successful application of the CCU method can be found at Exact Software (ES). ES is a manufacturer of accounting and enterprise resource planning software based in the Netherlands. ES has combined Product 
+Data Management (PDM), Customer Relationship Management (CRM) and Software Configuration Management (SCM) in order to maintain the configuration at the customer’s site in a better and less complex way. ES has a module in its CRM software that contains all contracts of each customer. This is linked to their PDM system. Every contract corresponds to files that can be downloaded for a new version or update of a previous version. In the delivery phase this means that the customers are able to obtain all the products through an online connection. So ES sells contracts (licenses) and stores them into their CRM system, the delivery of the actual products can be done by the customers themselves completely automated requiring little effort. The PDM system is on its turn linked to the SCM system which keeps track of the configurations the customers are using. In the delivery phase this means that ES is able to automatically determine the customer's needs whenever a customer does a request.
+
+See also
+
+#Method Engineering Encyclopedia
+#Customer Configuration Updating
+#Customer Configuration Updating:Activation and usage
+#Release Management
+
+External links
+
+#[http://www.productsoftware.nl/ Product software]
+#[http://www.lokigames.com/ Loki-Update]
+#[http://www.kleemann.org/rpm-update/oldindex.html/ RPM-update]
+#[http://swup.trustix.org/ SWUP]
+#[http://www.gentoo.org/doc/en/portage-manual.xml/ Portage]
+#[http://www.exactsoftware.com/ Exact Software]
+
+References
+
+# Krishnan M. S., (1994). Software release management: a business perspective, Proceedings of the 1994 conference of the Centre for Advanced Studies on Collaborative research, p.36, October 31-November 03, 1994, Toronto, Ontario, Canada 
+# Jansen, S. &amp; Ballintijn, G. &amp; Brinkkemper, S., (2003). A process model and typology for software product updaters. Conference on Software Maintenance and Reuse. IEEE, 2005.
+# Jansen, S. &amp; Ballintijn, G. &amp; Brinkkemper, S., (2005). Integrated SCM/PDM/CRM and delivery of software products to 160.000 customers. CWI. Software Engineering [SEN] 2004.
+# Jansen, S. &amp; Ballintijn, G. &amp; Brinkkemper, S., (2005). Definition and validation of the key process areas of release, delivery and deployment for product software vendors: turning the gly duckling into a swan. In Technical Report CWI, 2005.
+# Jansen, S., Ballintijn, G., &amp; Brinkkemper, S. (2004). Software Release and Deployment At Exact: A Case Study Report. Retrieved February 8, 2006 from Computer science University Utrecht database.
+# Carzaniga, A. &amp; Fugetta, A. &amp; Hall, R. &amp; van der Hoek, A. &amp; Heimbigner, D. &amp; Wolf, A. (1998) A characterization framework for software deployment technologies. 
+# Saeki M. (2003). Embedding Metrics into Information Systems Development Methods: An Application of Method Engineering Technique. CAiSE 2003, 374-389.
+
+Category:Business terms

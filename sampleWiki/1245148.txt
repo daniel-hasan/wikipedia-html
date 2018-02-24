@@ -1,0 +1,235 @@
+{{Infobox_Company 
+| company_name     = International Speedway Corporation|
+| company_logo     = [[Image:Iscmotorsportslogo.jpg]]
+| company_type     = [[Public company|Public]] ({{nasdaq|ISCA}}, {{otcbb|ISCB}})|
+| foundation       = [[1953]] (as Bill France Racing, Inc.)|
+| location         = [[Daytona Beach, Florida]]|
+| key_people       = [[Bill France, Sr.]], founder<br/>[[Jim France]], CEO<br/>[[Lesa Kennedy]], president|
+| industry         = [[Auto racing|Motorsports]]|
+| products         = Sporting events|
+| revenue          = {{profit}} $798.4 million [[United States dollar|USD]] (2006, November)| 
+| operating_income = {{profit}} $199.2 million USD (2006, November)|
+| net_income       = {{profit}} $116.8 million USD (2006, November)|
+| num_employees    =  1,000 (full time) |
+| homepage         = [http://www.iscmotorsports.com/ www.iscmotorsports.com]|
+}}
+
+'''International Speedway Corporation''' ('''ISC''') is a [[corporation]] whose primary business is the ownership and management of [[NASCAR]] race tracks. ISC was founded by NASCAR founder [[Bill France, Sr.]] in 1953 for the construction of [[Daytona International Speedway]] and in 1999 they merged with Penske Motorsports to become one of the largest [[motorsports]] companies in North America.<ref name="ischistory"/><ref name="answershistory"/> The company has played an important, though controversial, role in the modernization of the sport. It has worked with NASCAR to create new tracks and update older ones in an effort to improve the racing and the experience for spectators (though because both companies have several members of the [[France family]] in top positions, ISC's competitors have filed multiple lawsuits on [[antitrust]] grounds) and has constructed popular new tracks in regions previously thought uninterested in NASCAR (though this has upset some residents of nearby towns who do not want a NASCAR track [[NIMBY|in their back yard]]).<ref name="ischistory"/><ref name="ferko"/><ref name="jilted"/>
+
+==History==
+===Bill France Racing===
+ISC was founded as Bill France Racing, Inc. (later Daytona International Speedway Corporation) in 1953 and in 1957 the company signed a contract for the use of land on which to build Daytona International Speedway, one of the world's first [[superspeedway]]s.<ref name="ischistory">{{cite web |url=http://www.iscmotorsports.com/about_history.html |title=About ISC: History |work=iscmotorsports.com |accessdate=2006-12-23}}</ref> A decade later, France decided to build another superspeedway, this time on a 2,000-acre (8&nbsp;km²) site near [[Talladega, Alabama]] and after its completion [[Talladega Superspeedway]] became NASCAR's fastest track. Indeed, these two tracks were the fastest on the series schedule until the advent of [[restrictor plate]]s in 1988. In 1968, the company assumed its current name to reflect its more ambitious scope.<ref name="answershistory"/> Two years later, ISC created the [[Motor Racing Network]], a play-by-play [[radio network]] for NASCAR races, with MRN's first race coverage coming at the 1970 [[Daytona 500]].<ref name="isctimeline"/>
+
+===Transition===
+The early 1980s saw NASCAR's popularity increase, not only among fans, but also with [[sponsor]]s. Companies like [[Ford Motor Company|Ford]], [[General Motors]], [[Winston (cigarette)|Winston]] and [[Gatorade]] were willing enough to put up advertising dollars that holding auto races became a much more profitable venture.<ref name="answershistory"/> To capitalize on this, the company began pursuing expansion through the purchase of existing tracks. In 1982, the company bought one of the series' most popular and traditional ones, [[Darlington Raceway]] which has been in operation since 1950, as well as [[Tucson Raceway Park]], a 3/8 mile (600 m) dirt oval (since paved) in [[Arizona]].<ref name="ischistory"/><ref name="answershistory">{{cite web |url=http://www.answers.com/topic/international-speedway-corporation |title=International Speedway Corporation |work=Encyclopedia of Company Histories |accessdate=2007-01-05}} </ref> The following year they parterned with [[Corning Glass Works]] to purchase the [[Watkins Glen International]] [[Road racing|road course]] in [[upstate New York]].<ref name="ischistory"/> In 1987, Bill France, Sr. stepped down as president of the company with [[Jim France]] replacing him.<ref name="isctimeline">{{cite web |url=http://www.iscmotorsports.com/about_timeline.html |title=About ISC: Timeline |work=iscmotorsports.com |accessdate=2006-12-23}}</ref> Two years later, ISC incorporated its food service company, Americrown.<ref name="isctimeline"/>
+
+===Penske merger===
+By this time ISC was profitable, but most of their races were still in the [[Southern United States|South]] and in mostly rural areas, with many of the country's major cities like [[Los Angeles]], [[Detroit]], [[Miami]] and [[Chicago]] lacking a nearby track. ISC began looking for ways to change this in the late 1990s. [[Homestead-Miami Speedway]] was built in 1995 by Ralph Sanchez and [[Wayne Huizenga]] and in 1997 ISC and Penske Motorsports (owned by motorsports magnate [[Roger Penske]]) partnered with the track's owners.<ref name="hmshistory">{{cite web |url=http://www.racingone.com/track.aspx?trackID=20&seriesID=1&subID=1 |title=Homestead-Miami Speedway |work=RacingOne.com |accessdate=2007-01-11 }}</ref> In 1999, the company continued its push into the country's urban centers when it merged with Penske, who at the time owned four speedways: [[Nazareth Speedway]], [[North Carolina Speedway]] in [[Rockingham, North Carolina]], [[Michigan International Speedway]] and the newly-constructed [[California Speedway]].<ref name="penskemerger"/> Chairman [[Bill France, Jr.]] cited the company's "attractive markets" as one of the major reasons for going ahead with the deal.<ref name="penskemerger">{{cite web |url=http://www.speedcenter.com/news99/sc_n0510_99.html |title=Penske Motorsports and International Speedway Corporation to Merge |work=Speedcenter |accessdate=2007-01-09 |date=1999-05-10}}</ref> The new company retained the ISC name, with Penske's son [[Gregory Penske]] joining the board of directors.<ref name="penskemerger"/> Not all of the new tracks from the Penske merger fit into the company's plans however, as Nazareth was soon closed down and Rockingham was sold. The merger also gave ISC a 90% stake in Homestead-Miami Speedway and the company soon bought out the final 10% to acquire complete control over the track.
+
+In the same year, ISC formed the Motorsports Alliance with the owners of the historic [[Indianapolis Motor Speedway]]; this company would go after another huge market in [[Chicago]] by building the new [[Chicagoland Speedway]] in nearby [[Joliet, Illinois]] and by buying out the smaller [[Route 66 Raceway]] dragstrip.<ref name="ischistory"/> In 2007, ISC bought out its partners in the company to take control of both tracks.<ref name="rabuyout">{{cite web |url=http://www.abcmoney.co.uk/news/08200720606.htm |title=International Speedway Buys Raceway |work=abcmoney.co.uk |accessdate=2007-12-12 |date=2007-02-08}}</ref>
+
+In 2001, ISC would continue its trend towards modern facilities by constructing [[Kansas Speedway]] near [[Kansas City, Kansas|Kansas City]]. In 2003, [[Lesa Kennedy]] took over from Jim France the role of president of the company.<ref name="isctimeline"/>
+
+==Today==
+Today, the company owns 13 active tracks which collectively hold 19 of the 36 events on the schedule of NASCAR's premier competition, the [[Sprint Cup Series]].<ref name="nascarschedule"> {{cite web |url=http://www.nascar.com/races/cup/2007/data/schedule.html |title=2007 Nextel Cup Schedule |work=NASCAR.com |accessdate=2006-12-23}}</ref> Twelve of the thirteen host a Nextel Cup race (the thirteenth being Route 66 Raceway, a [[dragstrip]]).<ref name="nascarschedule"/> In addition to the [[stock car racing]] that NASCAR is famous for, ISC tracks also host [[Indy Racing League|IRL]] IndyCar races, [[Grand American Road Racing Association|Grand-Am]], [[International Motor Sports Association|IMSA]] [[IMSA GT Championship|GT]] and [[Sports Car Club of America|SCCA]] [[sports car]] races, [[World Karting Association|WKA]] [[Kart racing|go-kart]] races and [[American Motorcycle Association|AMA]] motorcycle races. Besides NASCAR, other stock car series like [[International Race of Champions|IROC]] and [[Automobile Racing Club of America|ARCA]] use their tracks.<ref name="ischistory"/>
+
+The company's other holdings include the [[Motor Racing Network]], a [[radio network]] that broadcasts NASCAR events, Americrown, a [[Foodservice|food service]] business that operates concession stands at its tracks, and [[Daytona USA (museum)|Daytona USA]], a NASCAR-themed attraction just outside Daytona International Speedway.<ref name="ischistory"/> In 2005, ISC partnered with [[Speedway Motorsports, Inc.]] to form Motorsports Authentics, a company that markets and distributes NASCAR-related souvenirs and collectibles.<ref name="authentics">{{cite web |url=http://www.americanventuremagazine.com/news.php?newsid=620 |title=Motorsports Authentics completes merger with Action Performance |work=American Venture Magazine |accessdate=2007-01-08 |date=2005-12-12}}</ref>
+
+Although ISC is controlled by the [[France Family|France family]], it is separate from NASCAR. About 35% of the [[stock]] in ISC is owned by the heirs of NASCAR founder [[Bill France]] and the remainder trades on the [[stock market]].<ref name="usnews">{{cite web |url=http://www.usnews.com/usnews/biztech/articles/041122/22nascar.htm |work=US News and World Report |accessdate=2007-01-17 |date=2004-11-22 |last=Benjamin |first=Matthew |title=Life in the Fast Lane }}</ref> [[Lesa Kennedy]] is president and [[Jim France]] is [[CEO]].<ref name="ischistory"/>
+
+ISC is still headquartered in [[Daytona Beach, Florida]] across the street from [[Daytona International Speedway]] (and in the same "Speedplex" [[office park]] as NASCAR). ISC is working with the [[Cordish Company]] to replace the current complex with a development called "Daytona Live!" which will include a movie theater, restaurants, a hotel and an office tower for NASCAR, ISC and other related companies.<ref name="daytonalive">{{cite web |url=http://orlando.bizjournals.com/orlando/stories/2007/05/07/daily13.html?surround=lfn |title=ISC, Cordish to build Daytona Live |accessdate=2007-11-08 |work=Orlando Business Journal |date=2007-05-08 }}</ref>
+
+===ISC tracks===
+{|class="wikitable"
+|-bgcolor="#cccccc"
+!Track Name
+!Location
+!Length
+!Seating
+!Year Opened
+!Year Acquired{{ref label|acquired|A|A}}
+|-
+|[[California Speedway]]
+|[[Fontana, California|Fontana, CA]]
+|{{convert|2|mi|km|0}}
+|92,000
+|1997
+|1999
+|-
+|[[Chicagoland Speedway]]
+|[[Joliet, Illinois|Joliet, IL]]
+|1.5 miles
+|75,000
+|2001
+|2007
+|-
+|[[Darlington Raceway]]
+|[[Darlington, South Carolina|Darlington, SC]]
+|1.366 miles
+|63,000
+|1950
+|1982
+|-
+|[[Daytona International Speedway]]
+|[[Daytona Beach, Florida|Daytona Beach, FL]]
+|2.5 miles
+|168,000
+|1959
+|1959
+|-
+|[[Homestead-Miami Speedway]]
+|[[Homestead, Florida|Homestead, FL]]
+|1.5 miles
+|65,000
+|1995
+|1999
+|-
+|[[Kansas Speedway]]
+|[[Kansas City, Kansas|Kansas City, KS]]
+|1.5 miles
+|81,687
+|2001
+|2001
+|-
+|[[Martinsville Speedway]]
+|[[Ridgeway, Virginia|Ridgeway, VA]]
+|.526 miles
+|65,000
+|1947
+|2004
+|-
+|[[Michigan International Speedway]]
+|[[Brooklyn, Michigan|Brooklyn, MI]]
+|{{convert|2|mi|km|0}}
+|137,243
+|1968
+|1999
+|-
+|[[Phoenix International Raceway]]
+|[[Avondale, Arizona|Avondale, AZ]]
+|{{convert|1|mi|km|0}}
+|76,812
+|1964
+|1997
+|-
+|[[Richmond International Raceway]]
+|[[Richmond, Virginia|Richmond, VA]]
+|.75 miles
+|107,097
+|1946
+|1999
+|-
+|[[Route 66 Raceway]]
+|[[Joliet, Illinois|Joliet, IL]]
+|.25-mile dragstrip
+|30,000
+|1998
+|2007
+|-
+|[[Talladega Superspeedway]]
+|[[Talladega, Alabama|Talladega, AL]]
+|2.66 miles
+|143,231
+|1969
+|1969
+|-
+|[[Watkins Glen International]]
+|[[Watkins Glen, New York|Watkins Glen, NY]]
+|2.45-mile road course
+|41,000
+|1948
+|1997
+|}
+
+===Former/Inactive ISC tracks===
+{|class="wikitable"
+|-bgcolor="#cccccc"
+!Track Name
+!Location
+!Length
+!Seating
+!Year Opened
+!Year Acquired{{ref label|acquired|A|A}}
+!Last Year
+|-
+|[[Nazareth Speedway]]
+|[[Nazareth, Pennsylvania|Nazareth, PA]]
+|{{convert|1|mi|km|0}}
+|37,424
+|1966
+|1999
+|2004{{ref label|nazareth|B|B}}
+|-
+|[[North Carolina Speedway]]
+|[[Rockingham, North Carolina|Rockingham, NC]]
+|{{convert|1|mi|km|0}}
+|60,122
+|1965
+|1999
+|2004{{ref label|rockingham|C|C}}
+|-
+|[[Pikes Peak International Raceway]]
+|[[Fountain, Colorado|Fountain, CO]]
+|{{convert|1|mi|km|0}}
+|62,000
+|1997
+|2005
+|2005{{ref label|pikespeak|D|D}}
+|-
+|[[Tucson Raceway Park]]
+|[[Tucson, Arizona|Tucson, AZ]]
+|.375 miles
+|N/A
+|1968
+|1982
+|2002{{ref label|tucson|E|E}}
+|}
+
+<div class="references-small">
+*{{note label|acquired|A|A}}Lists the year the company gained a controlling interest (>50%) in the track.
+*{{note label|nazareth|B|B}}ISC ceased operations at Nazareth Speedway in 2004 and the track is currently up for sale.<ref name="nazareth"> {{cite web |url=http://www.truckseries.com/cgi-script/NCTS_06/articles/000061/006159.htm |title=ISC Reports Record Results in 2005 |work=TruckSeries.com |accessdate=2006-12-28 |date=2006-01-27}}</ref>
+*{{note label|rockingham|C|C}}ISC sold North Carolina Speedway to [[Speedway Motorsports, Inc.]] as part of a settlement in the [[Ferko lawsuit]],<ref name="rockingham">{{cite web |url=http://www.theautochannel.com/news/2004/05/14/194764.html |title=Settlement Reached In Ferko/Vaughn Litigation, North Carolina To Be Sold |work=The Auto Channel |accessdate=2006-12-28 |date=2004-05-14}}</ref> who subsequently auctioned the track to former racer [[Andy Hillenburg]]. Hillenburg renamed the track Rockingham Speedway and is planning to hold several stock car events there in an attempt to revive the track.<ref name="hillenburg">{{cite web |url=http://www.roanoke.com/sports/racing/wb/134347 |title=Racing lives in Rockingham |work=Roanoke Times |accessdate=2007-12-10 |date=2007-10-03}}</ref>
+*{{note label|pikespeak|D|D}}ISC shut down Pikes Peak International Raceway shortly after purchasing it, with NASCAR moving the track's [[Busch Series]] date to Martinsville. The track is currently for sale, although ISC has said they will not sell to anyone who would host spectator racing at the facility.<ref name="denver">{{cite web |url=http://www.rockymountainnews.com/drmn/sports_columnists/article/0,1299,DRMN_83_4258072,00.html |archiveurl=http://web.archive.org/web/20060207124044/http://rockymountainnews.com/drmn/sports_columnists/article/0,1299,DRMN_83_4258072,00.html |archivedate=2006-02-07 |title=Benton: Denver still might appeal to NASCAR |work=Rocky Mountain News |date=2005-11-22 |last=Benton |first=Jim }}</ref>
+*{{note label|tucson|E|E}}ISC sold Tucson Raceway Park to David Deery, the track's general manager, in 2002.<ref name="tucson"> {{cite web |url=http://www.azstarnet.com/sn/printDS/130720 |title=Phoenix man seeking takeover of TRP lease |work=Arizona Daily Star |accessdate=2007-01-05 |date=2006-05-25}}</ref>
+</div>
+
+==Future expansion==
+ISC and NASCAR have both made public their desire to have a presence in areas it sees as having the potential for growth, most notably the [[Pacific Northwest]] and [[New York City]]. ISC has said that the earliest either of these tracks would be operating is 2011.<ref name="2011target">{{cite web |url=http://www.scenedaily.com/stories/2006/07/03/scene_daily18.html |title=ISC now targets 2011 for New York, Northwest |accessdate=2006-12-20 |work=SceneDaily.com |date=2006-07-07 }}</ref>
+
+===Pacific Northwest===
+====Marysville====
+[[Image:Map of Washington highlighting Kitsap County.svg|thumb|150px|left|Kitsap County lies across Puget Sound from Seattle]]In 2003, ISC began scouting sites in [[Washington]] and [[Oregon]] for a new track to attract fans from around the Pacific Northwest, eventually settling on a site near [[Marysville, Washington]] in [[Snohomish County]] north of [[Seattle]]. Although the plan was met with some resistance from residents &ndash; particularly those living near the site for the planned speedway &ndash; local business owners and other residents were in favor of the plan, believing that the track would be good for the area's economy and would create jobs. Unlike ISC's later proposal in New York, the Marysville proposal would be supported by public funds raised through [[taxes]], in much the same way as other sports venues in the area ([[KeyArena]], [[Safeco Field]], [[Qwest Field]]). The track would have been publicly owned and leased to ISC.<ref name="washingtonsite">{{cite web |url=http://www.nascar.com/2005/news/headlines/cup/06/24/bc.car.nascartrack.ap/index.html |title=Washington site chosen for NASCAR racetrack |accessdate=2006-12-20 |work=NASCAR.com |date=2005-06-24 }}</ref> In November 2004, local officials and ISC announced that they could not go through with the deal, saying that the costs for that particular site would be too high.<ref name="heraldtimeline">{{cite web |url=http://www.heraldnet.com/article/20041123/NEWS01/411230744 |title=NASCAR deal's off |accessdate=2007-12-12 |work=HeraldNet |date=2004-11-23 }}</ref>
+
+====Bremerton====
+After the deal in Marysville fell through, ISC courted another site, this time near [[Bremerton, Washington|Bremerton]], [[Kitsap County]] just across [[Puget Sound]] from Seattle.<ref name="washingtonsite"/> Although like the Marysville proposal the proposal in Kitsap County will be partially funded with public money, the money will not come directly from taxes but instead from [[Bond (finance)|bonds]] funded by taxes, in a scheme similar to the one used to fund Kansas Speedway.<ref name="question">{{cite web |url=http://www.kitsapsun.com/bsun/local/article/0,2403,BSUN_19088_4722036,00.html |title=Commissioners Question ISC's Speedway Deal |accessdate=2006-12-20 |work=Kitsap Sun |date=2006-05-24 |last= Dunagan |first=Christopher }}</ref> Also like the Marysville proposal, the Kitsap track would be publicly owned and leased to ISC for three races per year.<ref name="washingtonsite"/> ISC's current proposal was met with a lukewarm response from area lawmakers and citizens, but the company has promised to present an improved offer for early 2007.<ref name="offtrack">{{cite web |url=http://www.theolympian.com/101/story/57563.html |title=State legislators say NASCAR proposal is off track |accessdate=2006-12-27 |work=The Olympian |date=2006-05-26 }}</ref>
+
+In March of 2007, [[Washington House of Representatives|Washington state representative]] [[Larry Seaquist]] caused a minor controversy when he was quoted as saying, "These people are not the kind of people you would want living next door to you. They'd be the ones with the junky cars in the front yard and would try to slip around the law."<ref name="seaquist">{{cite web |url=http://www.nascar.com/2007/news/headlines/cup/03/05/washington.state.track/ |title=Seaquist opposes ISC track deal, not NASCAR |accessdate=2007-03-16 |work=NASCAR.com |date=2007-03-05 }}</ref> The quote was assumed to be an attack on NASCAR fans but Seaquist later claimed that it was directed at ISC.<ref name="seaquist"/>
+
+In April 2007, this plan was also abandoned by ISC after failing to get their bill out of committee in the Washington State Legislature or to gain the full support of the Kitsap County Commissioners.<ref name="pullplug">{{cite web |url=http://www.thatsracin.com/nascar_news/story/3612.html |title=Developers drop proposal for Washington track |accessdate=2007-12-12 |work=ThatsRacin.com |date=2007-04-04 |last= Byrd |first=Jennifer }}</ref>
+
+===New York City===
+In 2004, ISC purchased {{convert|600|acre|sqkm|1}} on [[Staten Island]] in [[New York]] for the construction of a 4/5 mile (1.3 km) [[short track]] that would hold 80,000 fans and have the New York City skyline as its backdrop.<ref name="usatoday">{{cite web |url=http://www.usatoday.com/sports/motor/nascar/2006-12-04-staten-island_x.htm |title=ISC pulls up stakes, nixes proposed Staten Island track for NASCAR |accessdate=2006-12-20 |work=USA Today |date=2006-12-04 |last=Fryer |first=Jenna }}</ref> The proposal was met with fierce resistance from many of the island's residents. At a public meeting in April 2006, police had to end the meeting early for fears of rioting and safety concerns. One report had a local councilman being put in a headlock after one particularly provoking speech (though one ISC official called it merely a "hug for the TV cameras").<ref name="riot">{{cite web |url=http://www.nascar.com/2006/news/headlines/cup/04/28/isc_statenisland/index.html |title=ISC: Reports of Staten Island 'riot' overblown |accessdate=2006-12-20 |work=NASCAR.com |date=2006-05-01 |last=Smith |first=Marty }}</ref> In December 2006, ISC dropped their pursuit of the project.<ref name="nytimes">{{cite web |url=http://www.nytimes.com/2006/12/05/nyregion/05nascar.html |title=Plan for Nascar Speedway Is Scrapped on Staten Island |accessdate=2006-12-20 |work=New York Times |date=2006-12-05 |last=Feuer |first=Alan }}</ref>
+
+===Colorado===
+On [[February 13]], [[2007]], the company announced that they were looking into building a track in [[Colorado]]. The 75,000-seat track would be built on one of two locations in [[Adams County, Colorado|Adams County]], just east of [[Denver]]. The company would also be looking to use the same type of combination of public and private funds for the race track as in Kansas and Washington.<ref name="coloradopr">{{cite web |url=http://www.abcmoney.co.uk/news/13200722939.htm |title=Daytona Owner Considers Building Track |accessdate=2007-02-14 |work=abcmoney.co.uk |date=2007-02-13 }}</ref> 
+
+==Antitrust lawsuits==
+===Ferko lawsuit===
+{{main|Ferko lawsuit}}
+Francis Ferko, a stockholder in [[Speedway Motorsports, Inc.]], sued NASCAR and ISC in 2002 for violating federal [[antitrust]] laws and [[breach of contract]] for not awarding a second Winston Cup (now Nextel Cup) series date to [[Texas Motor Speedway]], claiming that the second race was "promised" to the SMI track by NASCAR.<ref name="ferko">{{cite web |url=http://www.dfw.com/mld/dfw/13059399.htm |title=Fan wishes he hadn't filed suit |work=Dallas-Fort Worth Star-Telegram |accessdate=2006-12-28 |archiveurl=http://web.archive.org/web/20060708031401/http://www.thatsracin.com/mld/thatsracin/13059399.htm |archivedate=2006-07-08 |last=Wilson |first=Jeff}}</ref> After an attempt by NASCAR to get the case dismissed, another shareholder, Rusty Vaughn, joined the case as co-defendant in 2003. Although NASCAR CEO [[Brian France]] initially said he was going to fight the case in the courts, in April 2004 it was announced that the case had been [[Settlement (law)|settled out of court]] with Texas getting the Cup date previously belonging to [[North Carolina Speedway]] and, as part of the deal, agreeing to purchase North Carolina &ndash; which now had no dates at all &ndash; from ISC for $100 million.<ref name="ferko"/> Other races on the schedule were also moved around as a result (see [[NASCAR Realignment]]).
+
+===Kentucky Speedway lawsuit===
+[[Image:Daytona-International-Speedway-July-1-2005.jpg|right|thumb|300px|ISC own 12 NASCAR venues, including [[Daytona International Speedway]], home of NASCAR's marquee race, the [[Daytona 500]].]]In 2005, [[Kentucky Speedway]] filed a similar lawsuit against ISC and NASCAR, claiming that NASCAR violated antitrust laws by not awarding them a Sprint Cup Series race, noting the close relationship between NASCAR, ISC, and the France Family.<ref name="antitrustsuit">{{cite web |url=http://sports.espn.go.com/rpm/news/story?series=wc&id=2107173 |title=Track's suit centers around antitrust laws |accessdate=2006-12-20 |work=ESPN.com |date=2005-07-13 }}</ref> NASCAR sought to have the case thrown out by arguing that the speedway wasn't trying to end the alleged anticompetitive practices, they were merely trying to benefit from them as well. This [[Motion (legal)|motion]] was denied, however.<ref name="jilted">{{cite web |url=http://sports.espn.go.com/rpm/news/story?series=wc&id=2308978 |title=Speedway says it was jilted in NASCAR conspiracy |accessdate=2006-12-20 |work=ESPN.com |date=2006-01-27 }}</ref> A motion to [[Change of venue|move the case]] from [[Kentucky]] to [[Florida]] &ndash; home of NASCAR and ISC &ndash; was also rejected.<ref name="changeofvenue">{{cite web |url=http://news.enquirer.com/apps/pbcs.dll/article?AID=/20051215/NEWS0103/512150398/1062/SPT |archiveurl=http://web.archive.org/web/20051230064156/http://news.enquirer.com/apps/pbcs.dll/article?AID=/20051215/NEWS0103/512150398/1062/SPT |archivedate=2005-12-30 |title=First lap in trial goes to speedway |work=Cincinnati Enquirer |date=2005-12-15 |last=Crowley |first=Patrick }}</ref> ISC, for its part, said it shouldn't be involved in the case at all as it conducts no business in the state. Lawyers for Kentucky Speedway contended that the company does business online and is just as responsible for the lack of competition in granting the races as NASCAR is.<ref name="asktodismiss">{{cite web |url=http://sports.yahoo.com/nascar/news;_ylt=AmyP5c0GDbU.OvKlPRFdb0jov7YF?slug=ap-kentuckysuit011206&prov=ap&type=lgns |archiveurl=http://web.archive.org/web/20060305063041/http://sports.yahoo.com/nascar/news;_ylt=AmyP5c0GDbU.OvKlPRFdb0jov7YF?slug=ap-kentuckysuit011206&prov=ap&type=lgns |archivedate=2006-03-05 |title=NASCAR asks judge to dismiss suit by Kentucky Speedway |work=Yahoo! Sports |date=2006-01-12 |last=McMurray |first=Jeffrey }}</ref> 
+
+Initially, Kentucky had wanted the jury to force NASCAR to grant the speedway a Sprint Cup Series event but in 2007 they changed their demand to instead force the France family to sell either NASCAR or ISC. The track is also demanding that NASCAR develop objective standards for the awarding of their race events and [[damages]] of $200 million. A [[trial (law)|trial]] in the case will not begin until September 2007 at the earliest.<ref name="kentuckydemand">{{cite web |url=http://www.scenedaily.com/stories/2007/04/16/scene_daily162.html |title=Ky. Speedway wants Frances to sell either NASCAR or ISC |work=SceneDaily.com |date=2007-04-21 |last=Pockrass |first=Bob }}</ref>
+
+==References==
+<div class="references-small"><references/></div>
+
+[[fr:International Speedway Corporation]]
+
+[[Category:NASCAR]]
+[[Category:Entertainment companies of the United States]]
+[[Category:Companies based in Florida]]
+[[Category:Volusia County, Florida]]
+[[Category:Companies established in 1953]]

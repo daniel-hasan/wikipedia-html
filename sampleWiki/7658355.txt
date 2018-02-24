@@ -1,0 +1,92 @@
+{{Infobox Automobile
+ | image            = [[Image:Ferrari P45 front right.jpg|At the [[Concours d'Elegance]]|300px]]
+ | name             = Ferrari P4/5 by Pininfarina
+ | aka              = Ferrari P4/5
+ | manufacturer     = [[Ferrari]] / [[Pininfarina]]
+ | parent_company   = 
+ | production       = 2006<br> 1&nbsp;unit
+ | production cost  = $4,000,000.00&nbsp;[[USD]]
+ | assembly         = [[Turin]], [[Italy]] (Pininfarina)
+ | predecessor      = N/A
+ | successor        = N/A
+ | class            = [[Supercar]]
+ | layout           = [[RMR layout|Mid-Rear]]
+ | platform         = 
+ | body_style       = [[Berlinetta]]
+ | engine           = 6&nbsp;[[Litre|L]] [[Ferrari Dino engine#V12|Ferrari F140 V12]]<ref name="supercars">{{web cite|url=http://www.supercars.net/cars/3456.html|title=2006 Ferrari P4/5 by Pininfarina|publisher=Supercars.net|accessdate=2006-11-21|first=Richard|last=Owen}}</ref>
+ | transmission     = 6&nbsp;Speed [[Semi-automatic transmission|Semi-automatic]], [[Clutch|Twin plate clutch]]<ref name="supercars"/>
+ | suspension       = [[Double wishbone suspension|Double wishbone]]<ref name="supercars"/>
+ | steering         = 
+ | brakes           = [[Brembo]] carbon-ceramic [[Disc brakes|discs]]<br>Front/Rear: 340&nbsp;[[Millimetre|mm]] (13.4&nbsp;[[Inch|in]]) with [[ABS]]<ref name="supercars"/>
+ | safety           =
+ | wheelbase        = 2650&nbsp;mm (104.3&nbsp;in)<ref name="supercars"/>
+ | length           = 4630&nbsp;mm (182.3&nbsp;in)<ref name="supercars"/>
+ | width            = 2042&nbsp;mm (80.4&nbsp;in)<ref name="supercars"/>
+ | height           = 1126&nbsp;mm (44.3&nbsp;in)<ref name="supercars"/>
+ | ground_clearance = 
+ | front_track      = 1691&nbsp;mm (66.6&nbsp;in)<ref name="supercars"/>
+ | rear_track       = 1707&nbsp;mm (67.2&nbsp;in)<ref name="supercars"/>
+ | weight           = 1200&nbsp;[[Kilogram|kg]] (2645&nbsp;[[Pound (mass)|lb]])<ref name="supercars"/>
+ | fuel_economy     =
+ | fuel_capacity    =
+ | luggage_capacity = 
+ | related          = [[Enzo Ferrari (car)|Enzo Ferrari]]<br>[[Ferrari 330 P4]]<ref name="supercars"/>
+ | trim             = 
+ | similar          = 
+ | designer         = [[Jason Castriota]] at [[Pininfarina]]<ref name="supercars"/>
+ | produced for     = [[James Glickenhaus]]
+
+}}
+
+The '''Ferrari P4/5''' (officially known as the '''Ferrari P4/5 by Pininfarina''') is a [[Wiktionary:one-off|one-off]] [[supercar]] made by [[Italy|Italian]] [[sports car]] manufacturer [[Ferrari]] but redesigned by [[Pininfarina]] for [[film director]] and stock exchange [[Business magnate|magnate]] [[James Glickenhaus]]. The car was an [[Enzo Ferrari (car)|Enzo Ferrari]] but the owner James Glickenhaus preferred the styling of Ferrari's 1960s [[race car]]s, the [[Ferrari P|P Series]].<ref name="supercars"/> The project cost Glickenhaus [[US Dollar|US$]] 4&nbsp;million and was officially presented to the public in August 2006 at the [[Pebble Beach Concours d'Elégance]], but in July 2006 some images were leaked and Glickenhaus allowed [[Ultimate Car Page]] to show the early designs.<ref name="autoblog">{{web cite|url=http://www.autoblog.com/2006/08/02/autoblog-qanda-james-glickenhaus-owner-of-the-ferrari-p4-5/|title=Q&A: James Glickenhaus|publisher=Auto Blog|accessdate=2006-11-23|first=John|last=Neff}}</ref><ref>{{web cite|url=http://www.ultimatecarpage.com/frame.php?file=news_archive.php&date=20060701|title=News Archive|date=2006-07-19|publisher=Ultimate Car Page|accessdate=2007-04-17}}</ref><ref name="pininfarina">{{web cite|url=http://www.pininfarina.com/index/storiaModelli/ultimi/p4_5|title=A Dream Come True|publisher=[[Pininfarina]]|accessdate=2006-11-21}}</ref>
+
+==Development==
+In March 2005 [[James Glickenhaus]], stock exchange magnate and known car collector, was approached by [[Pininfarina]] who asked if he was interested in commissioning a one-off car.<ref name="autoblog" /> [[Andrea Pininfarina]], grandson of the company’s founder later said "The Ferrari 612 Kappa and this P4/5 are the first. But we want to grow this business." indicating that Pininfarina is interested in producing other unique cars.<ref name="cardriver" /> Glickenhaus replied that he would like a modern [[Ferrari P]] and in June of that year he signed a contract with Pininfarina to produce the car including the price, approximately [[US dollar|US]]$4 million though in an interview he said "I feel they gave me more than I expected".<ref name="autoblog" /><ref name="p45">{{web cite|url=http://web.archive.org/web/20060901084306/http://www.ferrarip45.com/|title=Ferrari P 4/5 by Pininfarina and James Glickenhaus|publisher=ferrarip45.com|accessdate=2007-08-18}}</ref> Glickenhaus purchased the last unsold [[Enzo Ferrari (car)|Enzo Ferrari]] and upon receipt of the car he took it to Pininfarina to be redesigned similar to the 1967 [[Ferrari 330 P4]] which he also delivered to Pininfarina.<ref name="supercars"/><ref name="cardriver">{{web cite|url=http://www.caranddriver.com/features/11352/pininfarina-ferrari-p45.html|title=Pininfarina Ferrari P4/5|publisher=Car and Driver|accessdate=2006-11-21|first=Ted|last=West}}</ref><ref name="ultimate" /> Pininfarina's styling team leader, [[Ken Okuyama]] said that "[[Pininfarina]] wanted to stay away from retro design and move towards a more forward thinking supercar" as they were excited by the opportunity to build the car, not just design it.<ref name="supercars"/><ref name="pininfarina"/>
+
+Its design began in September 2005 with sketches by [[Jason Castriota]] moving through computer aided sculpture and stringent wind tunnel testing.<ref name="pininfarina"/><ref name="cardriver"/> More than 200 components were designed especially for the car though the engine, drivetrain and many other components are simply modified from the original [[Enzo Ferrari (car)|Enzo Ferrari]].<ref name="pininfarina"/> The [[Vehicle Identification Number]] (VIN) is unchanged from the Enzo it was derived from.<ref name="cardriver" /> The P4/5 was publicly revealed on [[August 18]], [[2006]] at the [[Pebble Beach Concours d'Elégance]] and shown again at the [[Paris Motor Show]] in late September.<ref name="qv500" />
+
+Upon seeing P 4/5 Luca di Montezemolo felt that the car deserved to be officially badged as a Ferrari and along with Andrea Pininfarina and James Glickenhaus agreed that it's official name would be "Ferrari P 4/5 by Pininfarina". Ted West wrote an article in "Car and Driver" about how this came to be: "The Beast of Turin".
+
+==Specifications==
+The Ferrari P4/5 can accelerate from 0-100&nbsp;[[Kilometres per hour|kilometres&nbsp;per&nbsp;hour]] (0-62&nbsp;[[mph]]) in 3.55&nbsp;seconds (0.1&nbsp;seconds quicker than the Enzo).<ref name="qv500"/> It has a top speed of 362&nbsp;kilometres&nbsp;per&nbsp;hour (225&nbsp;mph) also slightly quicker than the Enzo Ferrari.<ref name="ultimate"/> The car has a frontal area of 1.906&nbsp;[[Square meter|square&nbsp;metres]] (20.52&nbsp;sq&nbsp;ft) but the sharp nose and smooth curves mean it has a [[drag coefficient]] of only 0.34.<ref name="p45"/> 
+
+===Interior===
+[[Image:Ferrari P4-5.jpg|thumb|300px|right|The P4/5]]
+The interior of the P4/5 was designed by Glickenhaus himself with an [[iPod nano]] stereo and a tablet PC which features not only [[Global positioning system|GPS]] but a [[Three-dimensional space|3D]] model of the car as well as a complete parts list and manual for easy servicing. The P4/5 also sports improved air conditioning over the Enzo and a high-strength alloy roll bar redesigned because the original was too thick and obstructed Glickenhaus' view.<ref name="p45"/><ref name="ultimate">{{web cite|url=http://www.ultimatecarpage.com/frame.php?file=car.php&carnum=2830|title=Ferrari P4/5 by Pininfarina|publisher=Ultimate Car Page|accessdate=2006-11-21}}</ref> The seats are custom built, Glickenhaus' and his son's bodies were scanned so Pininfarina could mould the seats for their comfort, accessibility and view of the road (as with [[race car]]s). With a frame of [[Carbon fiber reinforced plastic|carbon fibre composite]], the seats are covered with a black rubber mesh and red leather as selected by Glickenhaus' daughter.<ref name="autoblog" /><ref name="p45" /> Pininfarina rearranged the wiring of the Enzo so as to make the car easier to service and 270&nbsp;kilograms (595&nbsp;[[pound (mass)|lb]]) lighter than the Enzo.<ref name="p45" /><ref name="qv500">{{web cite|url=http://www.qv500.com/ferrarienzop2.php|title=Ferrari Enzo P4/5|publisher=QV500|accessdate=2006-11-21}}</ref>
+
+===Exterior===
+The exterior of the car is made entirely of [[Carbon fiber reinforced plastic|carbon fibre reinforced plastic]] and is similar in shape to the [[Ferrari 330 P4]] as Glickenhaus requested, however it has been called a "rolling history of Ferrari-racing-DNA" sharing elements from several historic Ferrari vehicles, not just the 330 P4. The rear window is similar to that of the [[Ferrari 512S]], the side vents are similar to the [[Ferrari P|Ferrari 330 P3]] and the nose is similar to that of the [[Ferrari 333SP]] which improves cooling and the car's frontal crash safety.<ref name="p45"/><ref name="cardriver"/> The [[butterfly doors]] (similar to those of the [[McLaren F1]]) are designed such that even at 260&nbsp;kilometres per hour (160&nbsp;mph) there is no wind noise.<ref name="p45"/> The improved aerodynamics have proven themselves, giving the car greater downforce at the same time as less drag than the Enzo also making the car more stable than the Enzo at high speeds.<ref name="p45"/>
+
+===Powertrain===
+[[Image:Ferrari P45 plate.jpg|thumb|right|200px|The P4/5's New York license plate]]
+The P4/5 has the same engine as the Enzo Ferrari it was built on, a 65°&nbsp;[[Ferrari Dino engine#V12|Dino F140]] [[V12]].<ref name="ultimate" /> The 12&nbsp;cylinders have a total capacity of 5998&nbsp;[[cubic centimetres]], each with 4&nbsp;[[Poppet valve|valves]].<ref name="ultimate"/> The [[redline rpm]] at 8200 and the torque of 657 [[newton metre]]s (485&nbsp;ft&nbsp;[[pound-force|lbf]]) at 5500&nbsp;rpm are both the same as the Enzo, but it produces marginally more power with 492&nbsp;[[Kilowatt|kW]] (660&nbsp;[[Horsepower|bhp]]) at 7800&nbsp;[[rpm]].<ref name="ultimate"/><ref name="p45"/>The P4/5 uses the 6&nbsp;speed [[semi-automatic transmission]] of the Enzo but instead of paddles behind the wheel, it has [[Formula 1]] style, steering wheel mounted shift buttons. 
+
+{| class=wikitable
+!Gear!!1!!2!!3!!4!!5!!6!!Final Drive
+|-
+|'''Ratio'''||3.15:1||2.18:1||1.57:1||1.19:1||0.94:1||0.76:1||4.9:1
+|}
+
+===Chassis===
+Much of the suspension was unchanged from the original Enzo, with the same [[double wishbone suspension]] at the front and rear, and the same [[Brembo]] carbon-ceramic [[Anti-lock braking system|anti-lock]] [[disc brakes]] with diameter of 340&nbsp;millimetres (13.4&nbsp;in) at the front and rear.<ref name="supercars"/> The [[alloy wheels|aluminium alloy wheels]] are 510&nbsp;millimetres (20&nbsp;in) in diameter, the front tyres have [[Tire code|codes]] of ZR&nbsp;255/35 and the rear, ZR&nbsp;335/30.<ref name="pininfarina"/> 
+
+==References==
+<div class="references-small"><references/></div>
+
+==External links==
+*[http://www.pininfarina.com/index/storiaModelli/ultimi/p4_5 Pininfarina Press Release]
+
+[[Category:Ferrari vehicles|P4/5]]
+[[Category:Concept automobiles]]
+[[Category:Supercars]]
+[[Category:Rear wheel drive vehicles]]
+[[Category:Sports cars]]
+[[Category:Pininfarina]]
+[[Category:One-off automobiles]]
+[[Category:2000s automobiles]]
+[[Category:Vehicles introduced in 2006]]
+
+[[fr:Ferrari P4/5]]
+[[it:Ferrari P4/5]]
+[[hu:Ferrari P4/5]]
+[[nl:Ferrari P4/5 by Pininfarina]]

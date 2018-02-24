@@ -1,0 +1,18 @@
+{{VictorianClosedRailwayStation
+| NAME= Dalmore
+| IMAGE=[[Image:Dalmore-railway-station.jpg|300px]]
+| LINE=[[South Gippsland railway line, Victoria|South Gippsland]]
+| DISTANCE=61km
+| PLATFORMS= 1
+| TRACKS= 1
+| STATUS='''Closed'''
+| OPENED=November 11th, [[1890]]
+| CLOSED=1970's
+| MAP=[http://maps.google.com/maps?f=l&hl=en&q=Cranbourne+Station&ie=UTF8&near=&om=1&ll=-38.195646,145.443621&spn=0.011838,0.020084&z=16 Link]
+|}}
+'''Dalmore''' was a railway station on the South Gippsland line in [[South Gippsland]], [[Victoria (Australia)|Victoria]], [[Australia]]. The station was originally known as ''Koo Wee Rup West'' until around 1910, it operated until the late 1970s. All that remains of this station now is the platform mound, however the track is still in reasonable condition.  
+
+{{VictorianClosedStations|Line=[[South Gippsland railway line, Victoria|South Gippsland]] line|Previous=Tooradin|Here=Dalmore|Next=Koo Wee Rup}}
+{{Victoria-rail-stub}}
+
+[[Category:Closed railway stations in Victoria (Australia)]]

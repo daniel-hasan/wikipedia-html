@@ -1,0 +1,230 @@
+{{Infobox Stadium |
+  stadium_name      = Kingston Communications Stadium |
+  nickname          = The Circle |
+  image = [[Image:KC North Stand.JPG|250px]]|
+  location          = 	 The Circle, Walton Street, Anlaby Road, [[Kingston upon Hull|Hull]], [[England]] HU3 6HU |
+  broke_ground      = [[2001]] |
+  opened            = [[2002]] |
+  owner             = [[Hull City Council]] |
+  operator          = Stadium Management Company |
+  surface           = Grass interwoven with astro-turf|
+  construction_cost = £44m [[Great Britain Pound|GBP]] |
+  architect         =  The Miller Partnership |
+  former_names      =  |
+    tenants           = Hull City A.F.C. ([[Football League Championship|The Championship]]) (2003–present)<br>Hull FC ([[Super League (Europe)|Rugby League Super League]]) (2003–present) |
+  seating_capacity  = 25,404 ([[Football (soccer)|Football]] and [[rugby league]]) <ref name="facts">{{ cite web | title = The Kingston Communications Stadium - Facts | url = http://www.kcstadium.co.uk/feature.asp?catid=10&subcatid=1 | work = Kingston Communications Stadium | publisher = Stadium Management Company |date = 2007 | accessdate = 2007-06-01}} </ref> |
+}}
+
+The '''Kingston Communications Stadium''', often shortened to '''KC Stadium''' or just the '''KC''', is a multi-purpose facility in the city of [[Kingston upon Hull]] (Hull), [[England]]. Conceived as early as the late 1990s,<ref name="hull_in_print">{{cite web
+  | title =Full  Circle
+  | publisher =Kingston upon Hull City Council
+  | work = Hull in print
+  | date = 2003
+  | url = http://www.hullcc.gov.uk/hullinprint/archive/december2002/full_circle.php
+  | accessdate =2007-08-12}}</ref> it was completed in [[2002]] at a cost of approximately [[pound sterling|GB£]]44 million. It is named after the stadium's sponsors, telecommunications provider [[Kingston Communications]]. The stadium is owned by [[Hull City Council]] and operated by the Stadium Management Company (SMC).<ref name="facts"/>
+
+The bowl-shaped stadium contains a continuous single tier of seats with a second tier on the west side.<ref name="facts"/> Its current capacity is 25,404.<ref name="facts"/> The stadium accommodates fans of its two tenants, [[Football (soccer)|association football]] club [[Hull City A.F.C.]], which moved there from [[Boothferry Park]],<ref name="History Of The Tigers"/> and [[Rugby league|rugby league football]] club [[Hull FC]], relocated from [[The Boulevard (stadium)|the Boulevard]].<ref name="hullfchistory"/> The ground also hosts international [[Football (soccer)|association football]] and [[Rugby league|rugby league football]] competitions<ref name="u21"/><ref name="gbnz"/><ref name="ashes"/> and acts as a venue for concerts by musical artists, such as [[Elton John]]<ref name="kcpics"/> and [[The Who]].<ref name="who"/>
+
+==History==
+[[Image:KC Stadium.JPG|left|thumb|240px|The [[Kingston Communications]] Stadium]]
+The idea of a new stadium for [[Kingston upon Hull]] was first mooted in 1997, but funds to finance such a project only became available when the [[Hull City Council|city council]] sold a portion of its holdings in [[Kingston Communications]].<ref name="hull_in_print"/> The council provided most of the funds, more than GB£42 million, with the rest stemming from government single regeneration budget grants and from the Football Stadium Improvement Fund.<ref name="hull_in_print"/>
+
+The council appointed John Topliss to head the stadium construction project.<ref name="hull_in_print"/> He and his team partnered with consulting firm [[Drivers Jonas]] to explore preliminary issues such as stadium location, seating capacity, and facilities offered. Stated Mr. Topliss: "We had a totally blank canvas and, working with consultants, made a thorough assessment of what was needed."<ref name="hull_in_print"/>
+
+The project team considered over a dozen sites, inside and outside of the city, before settling on The Circle in West Park.<ref name="hull_in_print"/> Factors contributing to the decision include transport guidance, central government planning guidelines, existing athletic facilities, isolation from residential areas, and council ownership.<ref name="hull_in_print"/>
+
+The final recommendation of [[Drivers Jonas]] included additional facilities for both indoor and outdoor sports for the people of West Hull in addition to the main stadium, planned to seat from 25,000 to 30,000 spectators.<ref name="hull_in_print"/> Professional services firm [[Arup|Arup Associates]] provided initial concept proposals for the stadium.<ref name="facts"/> The Miller Partnership, an architectural and interior design firm, adopted these proposals during the stadium's design.<ref name="facts"/>
+
+Outline planning permission for the project was granted in December 2000, with Birse Construction Limited named as the main contractor the following year.<ref>{{ cite web | title = New Stadium | url = http://www.ambernectar.com/index2.htm?http&&&www.ambernectar.com/content/stadium/stadium_orig.shtml | publisher = Amber Nectar | accessdate = 2007-08-30}}</ref> 
+
+In spite of a number of obstacles during the course of the project, including [[Hull City A.F.C.]]'s receivership in 2001 (just after the granting of planning permission),<ref name="hull_in_print"/> the stadium complex was completed on time (in fourteen months)<ref name="facts"/> and on budget (at approximately [[pound sterling|GB£]]44 million).<ref name="facts"/> The stadium opened its doors on [[December 18]] [[2002]]. Hull City beat [[Sunderland A.F.C.]] 1&ndash;0 in a [[Exhibition game|friendly match]] to mark the occasion.<ref name="hfh">{{ cite web | title = Home From Home | url = http://www.hullcityafc.premiumtv.co.uk/page/Stadium/0,,10338,00.html | publisher = Hull City AFC | accessdate = 2007-06-01}}</ref> [[Steve Melton]] scored the goal, the first at the KC Stadium.<ref name="History Of The Tigers">{{cite web
+| title = History Of The Tigers
+| url = http://www.hullcityafc.premiumtv.co.uk/page/History/0,,10338,00.html
+| work = Hull City afc: the tigers: Official Site
+| publisher = Hull City Football Club & FL Interactive Ltd.
+| date = [[2007-05-18]]
+| accessdate = 2007-06-16}}</ref>
+
+==Structure and facilities==
+{| class="wikitable" style="text-align:center;margin-left:1em;float:right"
+|+ '''Stand names and capacities'''
+|-
+! Stand !! Location !! Capacity
+|-
+| [[Smith & Nephew]]<ref name="stand_names">{{cite web
+  | title =Tickets
+  | publisher =Stadium Management Company
+  | date = 2007
+  | url =http://www.kcstadium.co.uk/feature.asp?catid=1&subcatid=1
+  | work=Kingston Communications Stadium
+  | accessdate =2007-08-19  }}</ref> || North || 4,000<ref name="facts"/>
+|-
+| [[Ideal Standard]]<ref name="stand_names"/> || East || 6,000<ref name="facts"/>
+|-
+| MKM<ref name="stand_names"/> || South || 4,000<ref name="facts"/>
+|-
+| rowspan=2 | deVries Honda<ref name="stand_names"/> || Lower West || 6,000<ref name="facts"/>
+|-
+| Upper West || 5,000<ref name="facts"/>
+|}
+The all-seater stadium consists of a single-tier, asymmetrical bowl that can seat approximately 20,000,<ref name="facts"/> with a second tier on the deVries Honda West Stand that can seat approximately 5,000.<ref name="facts"/> Current capacity is 25,404.<ref name="facts"/> Plans provide for future expansion to a capacity of approximately 30,000 by the addition of a second tier on the Ideal Standard East Stand.<ref name="facts"/> Each stand has a name for corporate sponsorship purposes.<ref name="stand_names"/>
+
+Corporate hospitality is provided by 28 executive boxes located between the two tiers of the deVries Honda West Stand,<ref name="facts"/>  while security of the stadium is handled using 57 closed-circuit television (CCTV) cameras that cover the stadium.<ref name="facts"/> Over the summer of 2007, SMC installed an LCD screen in the Smith & Nephew North Stand to replace the old electronic scoreboard.<ref name="big_screen">{{cite web
+  | title =Big Screen Installed
+  | publisher =Hull City Football Club & FL Interactive Ltd.
+  | date = [[2007-08-09]]
+  | url =http://www.hullcityafc.premiumtv.co.uk/page/NewsDetail/0,,10338~1088153,00.html
+  | work=Hull City afc: the tigers: Official Site
+  | accessdate =2007-08-19  }}</ref> The screen has an area of approximately 40&nbsp;m² (430&nbsp;ft.²) and displays such content as live home game feeds, match highlights, interviews, and action replays.<ref name="big_screen"/>
+
+[[Image:KC Stadium 1.jpg|left|thumb|240px|The stadium's blue and gold accents brighten a grey day]]
+The stadium's seats are mostly black, with a band of white and amber seats around the circumference.<ref name="facts"/> White and amber seats  form the word ''[[Kingston upon Hull|Hull]]'' in the north and south stands. In the Ideal Standard East Stand, the seats form an image of a [[coronet]],<ref name="hfh"/> a symbol of the city that also appears in the club crest for [[Hull FC]]<ref name="hullfchistory"/> and in the [[coat of arms]] of the city council.<ref name="college_of_arms">{{cite web
+  | title =College of Arms Newsletter, August 2004: Recent Grants of Arms
+  | publisher =The College of Arms
+  | date = August 2004
+  | url =http://www.college-of-arms.gov.uk/Newsletter/002.htm
+  | accessdate =2007-08-10  }}</ref> Black, white, and amber were chosen in order to remain neutral toward the colours of its two tenants: black and white for [[Hull FC]] and  black and amber for [[Hull City A.F.C.]]<ref name="facts"/> The blue and gold of owner [[Hull City Council]] appear in the stadium's four external columns.<ref name="facts"/>
+
+The size of the playing surface is 114&nbsp;x&nbsp;74&nbsp;metres (125&nbsp;x&nbsp;81&nbsp;[[yard|yd]])<ref name="facts"/> and made of rye grass with a 3% additive of artificial grass.<ref name="bbcfacts"/> This provides ample room for a [[FIFA]]-regulation [[association football]] pitch of 105&nbsp;x&nbsp;68&nbsp;metres (115&nbsp;x&nbsp;74&nbsp;[[yard|yd]])<ref name="facts"/> and a standard [[rugby league football]] pitch of 100&nbsp;x&nbsp;68&nbsp;metres (109&nbsp;x&nbsp;74&nbsp;[[yard|yd]]).<ref name="facts"/> The playing surface has an automated watering system and below-surface heating.<ref name="facts"/>
+
+Set within Hull's West Park,  the stadium is the first in [[England]] to be built in a parkland setting.<ref name="bbcfacts">{{ cite web | title = About the stadium | url = http://www.bbc.co.uk/humber/sport/stadium/new_stadium/about.shtml | work = BBC - Humber Sport - Stadium Facts | publisher = The British Broadcasting Corporation | date = 2007 | accessdate = 2007-06-01}}</ref> The stadium complex also includes the 1,500 seat [[Gemtec Arena]], a [[skate park]], two multi-use all weather pitches, a community learning zone complete with classrooms, a health & fitness suite, a [[cyber cafe]], and a [[library]].<ref name="facts"/>
+
+The KC Stadium has received several honours. It was named the chief new development in Yorkshire at the [[Royal Institution of Chartered Surveyors]] Pro-Yorkshire Awards <ref name="hull_in_print_2">{{cite web
+  | title =Another award goes to...
+  | publisher =Kingston upon Hull City Council
+  | work = Hull in print
+  | date = 2003
+  | url = http://www.hullcc.gov.uk/hullinprint/archive/decjan20034/another_award_goes.php
+  | accessdate =2007-08-19}}</ref> It was also on the shortlist for the Prime Minister's Award for Better Public Building<ref name="hull_in_print_2"/> and received a high commendation in the British Construction Industry Awards in the Best Value category.<ref name="hull_in_print_2"/> In a 2005 poll that was carried out by [[Drivers Jonas]] and decided by football fans from across the country, the KC Stadium was rated highest in comfort, services and view among all grounds in the Football League<ref name="highest_rated">{{ cite web | title =City has 'best' football stadium  | url = http://news.bbc.co.uk/1/hi/england/humber/4206582.stm | publisher = The British Broadcasting Corporation |date = [[2005-09-02]] | accessdate = 2007-08-05}}</ref> and was also rated the most-improved venue.<ref name="highest_rated"/>
+
+==Tenants== 
+{| class="wikitable" style="text-align:center;margin-left:1em;float:right"
+|+ '''Hull City A.F.C. average attendances'''
+|-
+! Season !! League !! Attendance
+|-
+| 2006&ndash;07 || [[Football League Championship|Championship]] || 18,583<ref name="stats0607"/>
+|-
+| 2005&ndash;06 || [[Football League Championship|Championship]] || 19,841<ref name="stats0506">{{ cite web | title = Football League: FLC Attendance, 2005-2006 | url = http://www.football-league.premiumtv.co.uk/page/DivisionalAttendance/0,,10794~20057,00.html | publisher = The Football League | accessdate = 2007-08-05}}</ref>
+|-
+| 2004&ndash;05 || [[League One]] || 18,027<ref name="stats0405">{{ cite web | title = Football League: FL1 Attendance, 2004-2005 | url = http://www.football-league.premiumtv.co.uk/page/DivisionalAttendance/0,,10794~200425,00.html | publisher = The Football League | accessdate = 2007-08-05}} </ref>
+|-
+| 2003&ndash;04 || [[Division Three]] || 16,846<ref name="stats0304">{{ cite web | title = Football League: FLD3 Attendance, 2003-2004 | url = http://www.football-league.premiumtv.co.uk/page/DivisionalAttendance/0,,10794~200326,00.html | publisher = The Football League | accessdate = 2007-08-05}} </ref>
+|}
+===Hull City A. F. C.===
+The stadium replaced [[Boothferry Park]] as home to [[Hull City A.F.C.]], and was the backdrop for the club's recent climb through the English [[The Football League|Football League]].<ref name="History Of The Tigers"/> It first hosted the club's home games during the second half of the [[2002-03 in English football|2002–03]] season; the first competitive match was against [[Hartlepool United F.C.|Hartlepool United]], a game that Hull City won by a score of 2&ndash;0.<ref name="first_match">{{cite web
+| title = 2002/2003: Hull City: Match: Fixtures & Results
+| url = http://www.hullcityafc.premiumtv.co.uk/page/Fixtures/0,,10338~2002,00.html
+| work = Hull City afc: the tigers: Official Site
+| publisher = Hull City Football Club & FL Interactive Ltd.
+| date = 2003
+| accessdate = 2007-08-06}}</ref> Hull City, nicknamed ''the Tigers'', attracted an average attendance of almost 17,000 in their first season at the KC Stadium.<ref name="stats0203">{{ cite web | title = Football League: FLD3 Attendance, 2002-2003 | url = http://www.football-league.premiumtv.co.uk/page/DivisionalAttendance/0,,10794~200326,00.html | publisher = The Football League | accessdate = 2007-08-10}}</ref> This figure is more than three times the average Division Three attendance for that season, and was only matched or exceeded by clubs in the [[FA Premier League|Premiership]] and the [[Football League Championship|First Division]].<ref name="political_economy">{{ cite web | title = Average Attendances - English Football Divisions - 1994/95-2005/06 | url = http://www.footballeconomy.com/stats/stats_att_01.htm | | work = The Political Economy of Football | publisher = Jez Booker | date = 2007 | accessdate = 2007-08-10}}</ref> However, the level of support was not matched by on-field performances; the Tigers finished thirteenth in their first season at the KC Stadium.<ref name="finish0304">{{cite web
+| title = 2002/2003: Hull City: Match: Table
+| url = http://www.hullcityafc.premiumtv.co.uk/page/LeagueTable/0,,10338~20030617,00.html
+| work = Hull City afc: the tigers: Official Site
+| publisher = Hull City Football Club & FL Interactive Ltd.
+| date = 2003
+| accessdate = 2007-08-06}}</ref>
+
+However, in [[2003-04 in English football|2003&ndash;04]] (their first full season at the new ground), the Tigers won promotion as [[Football League Third Division|Division Three]] runners-up, securing their place in the newly-named [[Football League One]] (previously Division Two).<ref name="History Of The Tigers"/> A second successive promotion, again as runners-up, followed in [[2004-05 in English football|2004&ndash;05]]; as a result, the KC Stadium currently hosts matches between clubs in the [[Football League Championship]].<ref name="History Of The Tigers"/>
+
+Attendances for Hull City's league games at the KC Stadium have averaged above 16,000 in each full season they have played there, peaking just short of 20,000 in their first season in the Championship.<ref name="stats0607">{{ cite web | title = Football League: FLC Attendance, 2006-2007 | url = http://www.football-league.premiumtv.co.uk/page/DivisionalAttendance/0,,10794~20067,00.html | publisher = The Football League | accessdate = 2007-06-01}} </ref> The record attendance, for a league match, was 24,311 on [[30 January]] [[2007]] for the visit of local rivals [[Leeds United A.F.C.|Leeds United]].<ref name="stats0607"/>
+
+{| class="wikitable" style="text-align:center;margin-left:1em;float:right"
+|+ '''Hull FC average attendances'''
+|-
+!width="100" | Season !!width="100" | Attendance
+|-
+| 2007 || 14,606<ref name="SLS"/>
+|-
+| 2006 || 10,866<ref name="SLS">{{ cite web | title = Super League Statistics - Hull FC | url = http://www.slstats.org/t9/Hull%20FC/ | publisher = RLFANS.COM | accessdate = 2007-08-10}} </ref>
+|-
+| 2005 || 10,604<ref name="SLS"/>
+|-
+| 2004 || 11,458<ref name="SLS"/>
+|-
+| 2003 || 11,598<ref name="SLS"/>
+|}
+
+===Hull FC===
+[[Hull FC]] play their home games at the stadium, having relocated from [[The Boulevard (stadium)|the Boulevard]].<ref name="hullfchistory"/> During their time at the KC Stadium, they have consistently ended each season on a high note: in  2003, the team just missed play-off qualification; in 2004, the club finished third.<ref name="hullfchistory"/> They finished fourth in 2005, and enjoyed even greater success in the [[Rugby League Challenge Cup|Challenge Cup]], in which they beat the [[Leeds Rhinos]] in the final.<ref name="hullfchistory">{{ cite web | title = Hull FC History | url = http://www.hullfc.com/index.php?/history | work = Welcome to the Official Hull FC Website | publisher = Hull FC | date = 2007 | accessdate = 2007-06-01}}</ref> Hull FC reached the [[Super League (Europe)|Super League]] Grand Final in 2006.<ref name="hullfcgf">{{ cite web | title = 2006 Super League Grand Final | url = http://www.hullfcpics.com/pics_3550/2006-Super-League-Grand-Final.html | work = Hull FC Photo Prints | publisher = Hull FC | date = 2007 | accessdate = 2007-08-06}}</ref> Attendances average around 11,000,<ref>{{ cite web | title = Club-by-club guide: Hull | url = http://www.sportinglife.com/rugbyleague/news/story_get.cgi?STORY_NAME=rleague/07/01/24/manual_161405.html | publisher = Sporting Life | accessdate = 2007-06-01}}</ref> but are often more than double that figure when the club hosts local rivals [[Hull Kingston Rovers]].<ref name="RL 2007">{{ cite web | title = Fixtures/Results 2007 | url = http://www.hullfc.com/index.php?/fixtures | publisher = Hull FC | accessdate = 2007-06-01}} </ref> This [[local derby]] producing a record crowd of 23,004 for the [[2 September]] [[2007]] fixture.<ref name="RL 2007"/>
+
+==Other sporting events==
+The stadium has hosted several [[England national under-21 football team|England Under-21s]] association football games; in fact, a crowd of 25,280 attended one under-21 match between England and the [[Netherlands national under-21 football team|Netherlands]] in early 2004.<ref name="u21">{{ cite web | title = Football Ground Guide: Hull City | url = http://dspace.dial.pipex.com/town/park/yfh45/hull.htm | work = The Internet Football Grounds Guide | publisher = Duncan Adams | date = [[2007-04-06]] | accessdate = 2007-08-06}} </ref> The KC Stadium is now also a regular venue for international [[rugby league]] games, and has hosted [[Great Britain national rugby league team|Great Britain]] matches in both the [[Rugby League Tri-Nations|Tri-Nations]]<ref name="gbnz"/> and the [[Rugby League Ashes|Ashes]]<ref name="ashes">{{cite web
+  | title = What are the Ashes all about?
+  | work = BBC Sport Academy
+  | publisher = The British Broadcasting Corporation
+  | url = http://news.bbc.co.uk/sportacademy/hi/sa/rugby_league/features/newsid_3197000/3197488.stm
+  | accessdate = 2007-08-05 }}</ref> competitions. The stadium hosted the 2004 Tri-nations match in which New Zealand lost by a score of 26&ndash;24.<ref name="gbnz">
+{{cite web
+  | title = Gillette Rugby League Tri-Nations 2004
+  | work = Virtual Rugby League Hall of Fame
+  | publisher = Rugby League Hall of Fame
+  | date = 2004
+  | url = http://www.rlhalloffame.org.uk/tri04.htm
+  | accessdate = 2007-08-05 }}</ref> The stadium also hosted the Tri-Nations game between Great Britain and Australia in 2005; the final score was 26&ndash;14 to Australia.<ref name="gbau">
+{{cite web
+  | title = Gillette Rugby League Tri-Nations 2005
+  | work = Virtual Rugby League Hall of Fame
+  | publisher = Rugby League Hall of Fame
+  | date = 2005
+  | url = http://www.rlhalloffame.org.uk/tri05.htm
+  | accessdate = 2007-08-05 }}</ref>
+
+==Concerts==
+As well as serving as a sporting venue, the KC Stadium also hosts musical events, including such artists as [[Sir Elton John]],<ref name="kcpics">{{cite web
+  | title = Concert Gallery
+  | work = Kingston Communications Stadium
+  | publisher = Stadium Management Company
+  | date = 2006
+  | url = http://www.kcstadium.co.uk/feature.asp?catid=22&subcatid=47
+  | accessdate = 2007-08-05  }}</ref> [[Bryan Adams]],<ref name="kcpics"/> [[R.E.M. (band)|R.E.M.]]<ref name="kcpics"/> and [[The Who]].<ref name="who">{{cite web
+  | title = The Who Return To Rock Europe
+  | work = Kingston Communications Stadium
+  | publisher = Stadium Management Company
+  | date = [[2007-02-14]]
+  | url = http://www.kcstadium.co.uk/newsstory.asp?id=636
+  | accessdate = 2007-08-05  }}</ref> However, while performances by such artists as Elton John and [[Neil Diamond]] have sold out, other acts, such as R.E.M. and [[Bon Jovi]], have failed to play to capacity crowds.<ref name="concerts2">{{cite web
+  | title = Who Enjoyed the Gig?
+  | publisher = Mail News & Media Ltd
+  | work = thisishullandeastriding.co.uk
+  | date = [[2007-05-28]]
+  | url = http://www.thisishullandeastriding.co.uk/displayNode.jsp?nodeId=136242&command=displayContent&sourceNode=228411&home%20=yes&more_nodeId1=136251&contentPK=17423976
+  | accessdate =2007-09-01}}</ref> As a result, stadium management is considering an end to the KC Stadium as a concert venue.<ref name="concerts2"/>
+ 
+==Photo gallery==
+<gallery>
+Image:KC South Stand.JPG|MKM South Stand
+Image:KC West Stand.JPG|deVries Honda West Stand
+Image:KC North Stand.JPG|[[Smith & Nephew]] North Stand
+</gallery>
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{commonscat|Kingston Communications Stadium|KC Stadium}}
+*[http://www.kcstadium.co.uk/ Kingston Communications Stadium  (kcstadium.co.uk)]
+*[http://www.kcstadium.com/ Kingston Communications Stadium (kcstadium.com)]
+*[http://www.worldstadia.com/stadium/england/kingston_communications/130.php KC Stadium at Worldstadia.com]
+
+{{fb start}}
+{{Hull City A.F.C.}}
+{{Football League Championship Venues}}
+{{fb end}}
+
+{{Super League (Europe) Venues}}
+
+<!-- Coordinates of centre of pitch -->
+{{coor title dms|53|44|46.34|N|0|22|3.43|W|type:landmark_scale:2000_region:GB}}
+
+[[Category:Rugby league stadiums in the United Kingdom]]
+[[Category:Sport in Hull]]
+[[Category:Buildings and structures in Hull]]
+[[Category:Football venues in England]]
+[[Category:Hull City A.F.C.]]
+[[Category:Hull FC]]
+
+[[de:KC Stadium]]
+[[no:Kingston Communications Stadium]]
+[[pl:KC Stadium]]

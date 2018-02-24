@@ -1,0 +1,42 @@
+{{Infobox Diocese|
+country = Thailand|
+name = Ubon Ratchathani|
+jurisdiction = Diocese|
+latin = Dioecesis Ubonratchathaniensis|
+local = สังฆมณฑลอุบลราชธานี|
+metropolitan = [[Archdiocese of Thare and Nonseng|Thare and Nonseng]]|
+bishop = [[Philip Banchong Chaiyara]]|
+cathedral = Cathedral of the Immaculate Conception<br>Ubon Ratchathani|
+rite = [[Latin Rite|Latin]]|
+area = 53,917|
+population = 7.7 million|
+population_as_of = 2006|
+catholics = 24,760|
+catholics_percent = 0.3|
+map = [[Image:Thailand Diocese Ubon Ratchathani.png|Map]]
+}}
+The ([[Roman Catholic]]) '''[[Diocese]] of [[Ubon Ratchathani]]''' (''Dioecesis Ubonratchathaniensis'', {{lang-th|สังฆมณฑลอุบลราชธานี}}) is located in the north-east of [[Thailand]]. It is a suffragan diocese of the [[archdiocese of Thare and Nonseng]].
+
+The diocese covers an area of 53,917 [[square kilometer|km²]], covering seven [[provinces of Thailand]] - [[Amnat Charoen Province|Amnat Charoen]], [[Maha Sarakham Province|Maha Sarakham]], [[Roi Et Province|Roi Et]], [[Sisaket Province|Sisaket]], [[Surin Province|Surin]], [[Ubon Ratchathani Province|Ubon Ratchathani]] and [[Yasothon Province|Yasothon]]. As of 2001, of the 7.7 million citizen 24,760 are member of the Catholic Church. It is divided into 55 parishes, having 42 priests altogether.
+
+==History==
+The [[Vicariate Apostolic]] of Ubon was created on  [[May 7]] [[1953]], when the [[archdiocese of Thare and Nonseng|Vicariate Apostolic of Thare]] was split. In 1965 the western part of the territory was split off and became the [[Diocese of Nakhon Ratchasima|Vicariate Apostolic of Nakhon Ratchasima]]. On [[December 18]] [[1965]] the Vicariate Apostolic was elevated to a diocese.
+
+==Cathedral==
+The [[cathedral]] of the diocese is the ''Cathedral of the Immaculate Conception''<!--อาสนวิหารแม่พระนิรมล-->, located in Ubon Ratchathani.
+
+==Bishops==
+*[[Philip Banchong Chaiyara]], [[Redemptorist|C.Ss.R]]: appointed March 25, 2006
+*[[Michael Bunluen Mansap]]:  May 21 1976  - March 25, 2006 (retired)
+*[[Claude Germain Berthold]], [[Missions Etrangères de Paris|M.E.P.]]: April 9 1970 - May 24 1976 (resigned)
+*[[Claudius Philippe Bayet]], [[Missions Etrangères de Paris|M.E.P.]]: May 7 1953 - August 13 1969 (resigned)
+
+==External links==
+*[http://www.catholicubon.org Website of diocese] 
+*[http://www.catholic-hierarchy.org/diocese/dubon.html catholic-hierarchy.org]
+
+{{Catholic church of Thailand}}
+[[Category:Roman Catholic dioceses in Thailand|Ubon Ratchathani]]
+
+[[de:Bistum Ubon Ratchathani]]
+[[it:Diocesi di Ubon Ratchathani]]

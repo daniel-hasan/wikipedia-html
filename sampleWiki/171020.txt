@@ -1,0 +1,247 @@
+{{otheruses1|the insect}}
+{{Taxobox
+| color = pink
+| name = Gypsy Moth
+| image = Lymantria dispar01.jpg
+| image_width = 240px
+| image_caption = Adult male gypsy moth
+| regnum = [[Animal]]ia
+| phylum = [[Arthropod]]a
+| classis = [[Insect]]a
+| ordo = [[Lepidoptera]]
+| unranked_familia = [[Macrolepidoptera]]
+| superfamilia = [[Noctuoidea]]
+| familia = [[Lymantriidae]]
+| subfamilia = [[Lymantrinae]]
+| tribus = [[Lymantrini]]
+| genus = ''[[Lymantria]]''
+| species = '''''L. dispar'''''
+| binomial = ''Lymantria dispar''
+| binomial_authority = [[Carolus Linnaeus|Linnaeus]], [[1758]]
+}}
+
+The '''gypsy moth''', '''''Lymantria dispar''''',  is a [[Lepidoptera|moth]] in the family [[Lymantriidae]] of Eurasian origin. Originally ranging from Europe to Asia, it was introduced to North America in the late 1860s and has been expanding its range ever since.
+== Life cycle of the gypsy moth ==
+There is one generation per year.
+
+===Eggs of the gypsy moth===
+Gypsy moth [[Egg (biology)|egg]] masses are typically laid on branches and trunks of trees, but egg masses may be found in any sheltered location. During outbreaks they have been known to fly to ships in port and lay their eggs on the ships. Four to six weeks later, embryos develop into larvae.
+
+The egg is the overwintering stage. After an acclimation stage, eggs can withstand freezing temperatures. The longer they are chilled in winter, the less heating is required for their hatch in spring.
+
+Egg masses are buff colored when first laid but may bleach out over the winter months when exposed to direct sunlight and weathering. As the female lays them, she covers them with hair-like setae from her abdomen. Many individuals find these hairs irritating, and they may offer the eggs some protection. Egg masses contain from a couple of hundred to about 1200 eggs.
+
+===Larvae of the gypsy moth===
+The hatching of gypsy moth eggs coincides with budding of most hardwood trees. Larvae ([[caterpillar]]s) emerge from egg masses from early spring through mid-May.
+
+Gypsy moths are dispersed in two ways. Natural dispersal occurs when newly hatched larvae hanging from host trees on silken threads are carried by the wind for a distance of up to about 1 mile, although most go less than 50 meters. Eggs can be carried for longer distances. Artificial dispersal occurs when people transport gypsy moth eggs thousands of miles from infested areas on cars and recreational vehicles, firewood, household goods, and other personal possessions. Females are flightless in most varieties, so these are the only means of spreading.
+[[Image:Gypsy moth larva.jpg|thumb|right|232px|Young gypsy moth caterpillar]]
+Larvae develop into adults by going through a series of progressive moults through which they increase in size. Instars are the stages between each molt. Male larvae normally go through five instars (and females, six) before entering the pupal stage. Newly hatched larvae are black with long hair-like setae. Older larvae have five pairs of raised blue spots and six pairs of raised brick-red spots along their backs, and a sprinkling of setae.
+
+During the first three instars, larvae remain in the top branches or crowns of host trees. The first stage or instar chews small holes in the leaves. The second and third instars feed from the outer edge of the leaf toward the center.
+
+When population numbers are sparse, the movement of the larvae up and down the tree coincides with light intensity. Larvae in the fourth instar feed in the top branches or crown at night. When the sun comes up, larvae crawl down the trunk of the tree to rest during daylight hours. Larvae hide under flaps of bark, in crevices, or under branches - any place that provides protection. When larvae hide underneath leaf litter, mice, shrews, and ''Calosoma'' beetles can prey on them. At dusk, when the sun sets, larvae climb back up to the top branches of the host tree to feed.
+When population numbers are dense, however, larvae feed continuously day and night until the foliage of the host tree is stripped. Then they crawl in search of new sources of food.
+
+===Pupae of the gypsy moth===
+The larvae reach maturity between mid-June and early July. They enter the pupal stage. This is the stage during which larvae change into adults or moths. Pupation lasts from 7 to 14 days. When the population is spread out and running low, pupation can take place under flaps of bark, in crevices, under branches, on the ground, and in other places where larvae rested. During periods when population numbers are dense, pupation is not restricted to locations where larvae rested. Pupation will take place in sheltered and non-sheltered locations, even exposed on the trunks of trees or on foliage of nonhost trees. Usually the caterpillars create flimsy cocoons made of silk strands holding the leaf together, while others do not cover their pupae in cocoons, but rather hang from a twig or tree bark, like butterfly pupae do.
+
+===Adults of the gypsy moth===
+[[Image:Lymantria dispar 8-8-2006 19-20-14.JPG|thumb|left|300px|Adult white female gypsy moth ]]
+The brown male gypsy moth emerges first, flying in rapid zigzag patterns searching for females. The male gypsy moths are [[Diurnal animal|diurnal]] unlike most moths, which are [[nocturnal]]. When heavy, black-and-white egg-laden females emerge, they emit a chemical substance called a [[pheromone]] that attracts the males. After mating, the female lays her eggs in July and August close to the spot where she pupated. Then, both adult gypsy moths die. The European and most Russian forms of the gypsy moth have flightless females. Although they have large wings, the musculature is not developed. However, the Japanese gypsy moth females do fly and are attracted to lights.
+
+Gypsy moths (at least of the introduced American population) fly all day and night, with the possible exception of the late morning. They are most active soon after dusk and in the latter hours of the night (Fullard & Napoleone 2001).
+
+==North American Introduction of the gypsy moth==
+[[Image:IC Caterpillar2.JPG|thumb|left|200px|Older gypsy moth caterpillar in frontal view]]
+[[Image:IC Caterpillar1.JPG|thumb|right|232px|Older gypsy moth caterpillar]]
+The gypsy moth was introduced into the United States in 1868 by a French scientist, [[Leopold Trouvelot]], living in Medford, Massachusetts. The native silk spinning caterpillars were proving to be susceptible to disease. So Trouvelot brought over gypsy moth eggs to try an make a caterpillar hybrid, that could resist diseases. When some of the moths escaped from his lab, they started to multiply. They eventually grew to be gypsy moths as we know them today. 
+
+It is now one of the most notorious pests of hardwood trees in the Eastern United States. The first outbreak there occurred in 1889. By 1987, the gypsy moth had established itself throughout the Northeast USA and southern Quebec and Ontario. The insect has spread south into Virginia and West Virginia, and west into Michigan, Wisconsin and Minnesota. Small, isolated infestations have also occurred sporadically in Utah, Oregon, Washington, California, and British Columbia but these have all been successfully eradicated.
+
+Since 1980, the gypsy moth has defoliated over 1,000,000 acres (4,000 km²) of forest each year. In 1981, a record 12,900,000 acres (52,200 km²) were defoliated. This is an area larger than Rhode Island, Massachusetts, and Connecticut combined.
+In wooded suburban areas, during periods of infestation when trees are visibly defoliated, gypsy moth larvae crawl up and down walls, across roads, over outdoor furniture, and even inside homes. During periods of feeding they leave behind a mixture of small pieces of leaves and frass, or excrement. During outbreaks, the sound of chewing and frass dropping is a continual annoyance.
+Gypsy moth populations usually remain at very low levels but occasionally populations increase to very high levels which can result in partial to total defoliation of host trees for 1-3 years.
+
+== Hosts of the gypsy moth ==
+Gypsy moth larvae generally prefer [[oak]]s, but may feed on several hundred different species of trees and shrubs, both hardwood and conifer. In the East the gypsy moth prefers oaks, [[aspen]], [[apple]]s, [[sweetgum]], [[speckled alder]], [[basswood]], [[gray birch|gray]] and [[paper birch]], [[poplar]]s, [[willow]]s, and [[Crataegus|hawthorn]]s, although other species are also affected. The list of hosts will undoubtedly expand as the insect spreads south and west. The gypsy moth avoids [[ash tree]]s, [[tulip-tree]], [[American sycamore]], [[butternut (tree)|butternut]], [[black walnut]], [[catalpa]], [[flowering dogwood]], [[balsam fir]], [[arborvitae]], [[American holly]], and shrubs such as [[mountain laurel]] and [[rhododendron]]s, but will feed on these in late instars when densities are extremely high. Older larvae feed on several species of hardwood that younger larvae avoid, including [[cottonwood]], [[Tsuga|hemlock]], [[Atlantic white cypress]], and the [[pine]]s and [[spruce]]s native to the East.
+
+== Effects of defoliation on trees ==
+[[Image:Tree damage gypsy larvae.jpg|thumb|right|A tree stripped by gypsy moth larvae]]
+[[Image:Gypsy Moth Defoliation Snow Shoe PA.jpg|thumb|Aerial photo showing gypsy moth defoliation of [[hardwood]] trees along the [[Allegheny Front]] near [[Snow Shoe, Pennsylvania]] in July of 2007.]]
+The effects of defoliation depend primarily on the amount of foliage that is removed, the condition of the tree at the time it is defoliated, the number of consecutive defoliations, available soil moisture, and the species of host.
+If less than 50 percent of their crown is defoliated, most hardwoods will experience only a slight reduction (or loss) in radial growth.
+If more than 50 percent of their crown is defoliated, most hardwoods will refoliate or produce a second flush of foliage by midsummer. Healthy trees can usually withstand one or two consecutive defoliations of greater than 50 percent. Trees that have been weakened by previous defoliation or been subjected to other stresses such as droughts are frequently killed after a single defoliation of more than 50 percent.
+Trees use energy reserves during refoliation and are eventually weakened. Weakened trees exhibit symptoms such as dying back of twigs and branches in the upper crown and sprouting of old buds on the trunk and larger branches. Weakened trees experience radial growth reduction of approximately 30 to 50 percent.
+Trees weakened by consecutive defoliations are also vulnerable to attack by disease organisms and other insects. For example, the Armillaria fungus attacks the roots, and the two-lined chestnut borer attacks the trunk and branches. Affected trees will eventually die 2 or 3 years after they are attacked.
+Although not preferred by the larvae, pines and hemlocks are subject to heavy defoliation during gypsy moth outbreaks and are more likely to be killed than hardwoods. A single, complete defoliation can kill approximately 50 percent of the pines and 90 percent of the mature hemlocks. This is because conifers do not store energy in their roots; an exception is larch.
+
+== Factors that affect gypsy moth populations ==
+Natural enemies play an important role during periods when gypsy moth populations are sparse. Natural enemies include parasitic and predatory insects such as [[wasps]], [[flies]], [[ground beetles]], and [[ants]]; many species of [[spider]]; several species of birds such as [[chickadees]], [[blue jay|blue jays]], [[nuthatches]], [[towhees]], and [[robins]]; and approximately 15 species of common woodland mammals, such as the [[white-footed mouse]], [[shrews]], [[chipmunks]], [[squirrels]], and [[raccoons]]. Predation by small mammals (mice and shrews) is the largest source of mortality in low density gypsy moth populations and this mortality is apparently critical in preventing outbreaks.
+''[[Calosoma]]'' (ground beetles of European origin), [[cuckoos]], and flocking birds, such as [[starling]], [[grackle|grackles]], and [[red-winged blackbird|red-winged blackbirds]], are attracted to infested areas in years when gypsy moth populations are dense.
+Diseases caused by bacteria, fungi, or viruses contribute to the decline of gypsy moth populations, especially during periods when gypsy moth populations are dense and are stressed by lack of preferred foliage.
+Wilt disease caused by a particular [[nucleopolyhedrosis virus]] (NPV) that is specific to the gypsy moth is the most devastating of the natural diseases. NPV causes a dramatic collapse of outbreak populations by killing both the larvae and pupae. Larvae infected with wilt disease are shiny and hang limply in an inverted "V" position. Infection with NPV is the most common source of mortality in high density populations and NPV epizootics usually cause the collapse of populations.
+Since the 1980s, the fungus ''[[Entomophaga maimaiga]]'' has also had a large impact on gypsy moth populations in North America.
+Weather affects the survival and development of gypsy moth life stages regardless of population density. For example, temperatures of -20°F, (-29°C.) lasting from 48 to 72 hours can kill exposed eggs; alternate periods of freezing and thawing in late winter and early spring may prevent the over wintering eggs from hatching; and cold, rainy weather inhibits dispersal and feeding of the newly hatched larvae and slows their growth.
+
+== Managing the gypsy moth ==
+A number of tactics have the potential to minimize damage from gypsy moth infestations and to contain or maintain gypsy moth populations at levels considered tolerable. These tactics include monitoring gypsy moth populations, maintaining the health and vigor of trees, discouraging gypsy moth survival, and treating with insecticides to kill larvae and protect tree foliage. The tactic or combination of tactics used will depend on the condition of the site and of the tree or stand and the level of the gypsy moth population. Tactics suggested for homeowners are probably too costly and too labor intensive for managers to use in forest stands.
+The gypsy moth currently occupies less than 1/3 of its potential range in N. America and considerable resources are directed at minimizing the expansion of its range into these areas. Every year, over 100,000 pheromone traps are placed in uninfested portions of the US in order to detect new infestations that occasionally arise when people inadvertently transport life stages into uninfested areas (e.g., egg masses on recreational vehicles). When captures are positive for several consecutive years, this indicates that a population is establishing and these populations are eradicated, usually via the application of the bacterial pesticide, ''[[Bacillus thuringiensis]]'' ('Bt').
+
+=== Maintaining and enhancing the health of trees ===
+
+* Enhance growth conditions for isolated trees by encircling them with mulch or ground cover plants that do not compete for moisture and nutrients the way dense grass layers do.
+* Water shade and ornamental trees in periods of drought to maximize recovery during refoliation.
+* Fertilize shade trees.
+* Avoid stressing trees. For example, construction projects tend to compact soil and prevent moisture from penetrating to small feeder roots.
+* Avoid applying lime or weed killers around trees. These chemicals can seriously damage shallow tree roots.
+* Thin woodlot trees and groups of shade trees between outbreaks to reduce competition.
+
+===Natural gypsy moth control===
+Gypsy moth larvae have several predators/parasites which can help decrease their population. Lack of predation is one reason they can go from a normal part of the ecosystem to an actual threat to trees. Among their predators are:
+
+* [[Peromyscus|deer mice]] -- are considered the most important predator of low-density gypsy moth populations and their abundance may be critical in deteriming whether populations go into an outbreak mode.  Their abundance is strongly affected by the amount of mast (e.g., acorns) in the previous year. 
+* [[tachinid fly|tachinid flies]] -- parasitize gypsy moth populations. While they may become quite abundant during a gypsy moth outbreak, they apparently have little effect on the population dynamics
+* [[braconid wasp]]s -- also parasitize gypsy moths but play a minor role in their dynamics
+
+There is not any evidence that releasing or enhancing gypsy moth predators or parasites can reduce gypsy moth populations.  Manual removal of gypsy moths may be a viable method for reducing damage on small, open-grown trees and shrubs.
+
+=== The use of pesticides against the gypsy moth ===
+The decision to use pesticides is influenced by a number of factors:
+
+* The number of visible egg masses.
+* The percentage of preferred hosts in a mixed stand of trees (50 percent or more of oak).
+* Whether trees already have dead or dying branches, especially near the top branches or crown.
+* Whether the property is located adjacent to wooded areas heavily infested with gypsy moths. 
+
+During periods when numbers of gypsy moth larvae are dense, pesticides may be the most effective method of reducing the number of larvae and protecting the foliage of host trees. Application of pesticides should be done by a certified applicator, because special equipment is required. Large areas, such as wooded residential areas and forests, should be treated by aircraft.
+
+Available pesticides fall into two broad groups: microbial or biological and chemical (table 1).
+
+Microbial and biological pesticides contain living organisms that must be consumed by the pest. Microbials include bacteria, viruses, and other naturally occurring organisms; biologicals include manmade synthetics of naturally occurring organisms. These pesticides should be applied before the larvae reach the third stage or instar of development. As they mature, larvae become more resistant to microbial pesticides and are, therefore, more difficult to kill.
+
+Low dose pheromone systems are being employed in some areas (Jersey, Channel Islands, UK) to flood areas with synthetic pheromone and effectively 'blind' males so they are unable to locate females.
+
+[[Baculovirus|Nucleopolyhedrosis]] virus (NPV), a naturally occurring organism, has been developed as a microbial pesticide. It is presently registered under the name "[[Gypchek]]" and is available for use in [[United States Department of Agriculture|USDA]] Forest Service sponsored suppression programs. NPV and Gypcheck are specific to the gypsy moth.
+
+''[[Bacillus thuringiensis]]'' (Bt) is microbial and biological. It is the most commonly used [[pesticide]]. In addition to being used against the gypsy moth, Bt is used against a number of other pests, including the [[western spruce budworm]] and other ''[[Choristoneura]]'', and [[tent caterpillar]]. When Bt is taken internally, the insect becomes paralyzed, stops feeding, and dies of starvation or disease.
+
+Chemical pesticides are contact poisons in addition to being stomach poisons. The timing of the chemical application is less critical to the successful population reduction of the pest than the timing of the application of the microbials and biologicals. Chemical pesticides can affect non-target organisms and may be hazardous to human health.
+
+'''Table 1''' - ''Microbial and chemical pesticides commonly used for gypsy moth control''
+
+<table border="1" cellpadding="3" cellspacing="3">
+<tr>
+<th bgcolor="#ffecf5"><font size="-1">Active ingredient</font></th>
+<th bgcolor="#ffecf5"><font size="-1">Representative trade names</font></th>
+
+<th bgcolor="#ffecf5"><font size="-1">Remarks</font></th> </tr>
+<tr>
+<td bgcolor="#ffecf5"><font size="-1">''[[Bacillus thuringiensis]]''</font></td>
+<td bgcolor="#ffecf5"><font size="-1">Dipel Thuricide</font></td>
+<td bgcolor="#ffecf5"><font size="-1">Registered for aerial and ground application. Available under a variety of trade names. Toxic to other moth and butterfly larvae. Can be used safely near water.</font></td>
+</tr>
+<tr>
+<td bgcolor="#ffecf5"><font size="-1">[[Acephate]]</font></td>
+<td bgcolor="#ffecf5"><font size="-1">Orthene</font></td>
+<td bgcolor="#ffecf5"><font size="-1">Registered for aerial and ground application. Available under a variety of trade names. Toxic to bees and some gypsy moth parasites. Commonly used from the ground to treat individual trees.</font></td>
+</tr>
+<tr>
+<td bgcolor="#ffecf5"><font size="-1">[[Carbaryl]]</font></td>
+<td bgcolor="#ffecf5"><font size="-1">[[Sevin]]</font></td>
+<td bgcolor="#ffecf5"><font size="-1">Registered for aerial and ground application. Available under a variety of trade names. Toxic to bees and gypsy moth parasites. At one time, the most widely used chemical in gypsy moth control programs.</font></td>
+</tr>
+<tr>
+<td bgcolor="#ffecf5"><font size="-1">[[Diflubenzuron]]</font></td>
+<td bgcolor="#ffecf5"><font size="-1">Dimilin</font></td>
+<td bgcolor="#ffecf5"><font size="-1">A restricted-use pesticide that can be applied only by certified applicators.</font></td> </tr>
+</table>
+
+The most commonly used chemical pesticides currently registered by the U.S. Environmental Protection Agency (EPA) for use against the gypsy moth contain carbaryl, diflubenzuron, and acephate. [[Malathion]], methoxychlor, phosmet, trichlorfon, and synthetic pyrethroids ([[permethrin]]) have also been registered by EPA for control of gypsy moth, but are used infrequently.
+
+Several studies done by [[Peter G. Kevan]] and associates of the University of Guelph, between 1975 and 1995 in eastern [[Canada]] have shown serious reduction in [[blueberry]] and other crop [[pollination]] due to [[forest]] aerial applications of [[insecticide]]s that killed [[non-target]] wild [[bee]]s.
+
+Diflubenzuron represents a new class of pesticides called insect growth regulators. It kills gypsy moth larvae by interfering with the normal molting process. Diflubenzuron has no effect on adult insects. Aquatic crustaceans and other immature insects that go through a series of molting stages are often sensitive to this pesticide.
+
+== Silvicultural guidelines for forest stands and woodlots ==
+Several interrelated factors determine the vulnerability of forest stands and woodlots to gypsy moth defoliation. An awareness of these factors will enable land managers and woodlot owners to prescribe silvicultural actions that will minimize the impact caused by gypsy moth defoliation. Three of these factors include the abundance of favored food species (mainly oaks), site and stand factors, and tree conditions.
+
+Stands of trees that are predominantly oak and grow on poor, dry sites (such as sand flats or rock ridges) are frequently stressed and often incur repeated, severe defoliations. Trees growing under these conditions frequently possess an abundance of structural features such as holes, wounds, and deep bark fissures that provide shelter and habitats for gypsy moth larvae and aid their survival.
+
+Stands of trees that are predominantly oak but grow on protected slopes or on sites with adequate moisture and organic matter are more resistant to defoliation by the gypsy moth.
+
+Slow-growing trees on poor sites frequently survive a single, severe defoliation better than fast-growing trees typically found on well-stocked better sites.
+
+More trees are killed in stands that contain mainly oak species than in oak-pine or mixed hardwood stands. Subdominant trees are killed more rapidly and more often than dominant trees.
+
+=== Silvicultural treatment-what and when? ===
+Appropriate silvicultural treatment will be determined by an anticipated occurrence of gypsy moth defoliation, by characteristics of the stand, and by the economic maturity of the stand. Foresters refer to treatments discussed here as "thinnings." Thinnings are cuttings made in forest stands to remove surplus trees (usually dominant and subdominant size classes) in order to stimulate the growth of trees that remain.
+
+Predefollation treatments: When gypsy moth defoliation is anticipated, but not within the next 5 years, predefoliation thinning to selectively remove preferred-host trees can reduce the severity of defoliation, increase the vigor of residual trees, and encourage seed production and stump sprouting. Thinnings should not be conducted in fully stocked stands that will reach maturity within the next 6 to 15 years. Thinning results in a short-term "shock effect" to residual trees. This shock effect, coupled with defoliation-caused stress, renders trees vulnerable to attack by disease organisms such as Armillaria.
+
+In fully stocked stands that will reach maturity within the next 16 or more years, two kinds of thinning can be applied. The method of thinning should depend on the proportion of preferred host species present.
+
+If more than 50 percent of the basal area in a stand is preferred host species (mainly oaks), presalvage thinning should be applied. Presalvage thinning is designed to remove the trees most likely to die (trees with poor crown condition) from stress caused by gypsy moth defoliation.
+
+If less than 50 percent of the basal area in a stand is in preferred host species, sanitation thinning can be applied to reduce further the number of preferred host trees. This will result in fewer refuges for gypsy moth larvae and in improved habitats for the natural enemies of the gypsy moth.
+
+Treatment during outbreaks: If defoliation is current or is expected within the next 5 years, thinnings should be delayed because of potential "shock effect." High-value stands can be protected by applying pesticides. In low-value stands or those that are at low risk (less than 50 percent basal area in preferred host species), protective treatments are optional.
+
+Post-outbreak treatments: After a defoliation episode, the land manager or woodlot owner should pursue efficient salvage of dead trees, but should delay decisions about additional salvage, regeneration, or other treatments for up to 3 years. At the end of 3 years, most defoliation-caused mortality will be complete and the need for treatments can be assessed on the basis of damage level, current stocking conditions, and stand maturity.
+
+== See also==
+*[[List of companion plants]]
+*[http://www.fs.fed.us/ne/morgantown/4557/gmoth/ Gypsy moth in North America; world range map]
+*[http://www.inra.fr/dpenv/ld-dyn-e.htm Gypsy moth in Morocco]
+*[http://www.nysaes.cornell.edu/ent/biocontrol/pathogens/e_maimaiga.html About ''Entomophaga maimaiga'']
+*[http://www.gmsts.org/ Gypsy Moth Slow the Spread Foundation, Inc.]
+
+== References ==
+{{commons|Lymantria dispar}}
+{{USGovernment | sourceURL=http://www.na.fs.fed.us/spfo/pubs/fidls/gypsymoth/gypsy.htm}}
+* {{aut|Andreadis, T.G. & Weseloh, R.M.}} (1990) Discovery of ''Entomophaga maimaiga'' in North American gypsy moth, ''Lymantria dispar.'' ''[[Proceedings of the National Academy of Sciences|PNAS]]'' '''87'''(7): 2461-2465.
+
+* {{aut|Barbosa, P. & Greenblatt, J.}} (1979): Suitability, digestibility and assimilation of various host plants of the gypsy moth ''Lymantria dispar'' L. (Lepidoptera, Lymantriidae). ''[[Oecologia]]'' '''43'''(1): 111-119.
+
+* {{aut|Barbosa, P.; Waldvogel, M.; Martinat, P.}} ''et al.'' (1983): Developmental and reproductive performance of the gypsy moth, ''Lymantria dispar'' (L) (Lepidoptera, Lymantriidae), on selected hosts common to mid-atlantic and southern forests. ''Environmental Entomology'' '''12'''(6): 1858-1862.
+
+* {{aut|Bogdanowicz, S.M.; Wallner, W.E.; Bell, J.}} ''et al''. (1993): Asian gypsy moths (Lepidoptera, Lymantriidae) in North America - evidence from molecular data. ''Annals of the Entomological Society of America'' '''86'''(6): 710-715.
+
+* {{aut|Dwyer, G. & Elkinton, J.S.}} (1993): Using simple-models to predict virus epizootics in gypsy-moth populations. ''Journal of Animal Ecology'' '''62'''(1): 1-11.
+
+* {{aut|Elkinton, J.S.; Healy, W.M.; Buonaccorsi, J.P.; Boettner, G.H.; Hazzard, A.M.; Smith, H.R. & Liebhold, A.M.}} (1996): Interactions among gypsy moths, white-footed mice, and acorns. ''Ecology'' '''77'''(8): 2332-2342.
+
+* {{aut|Fullard, James H. & Napoleone, Nadia}} (2001): Diel flight periodicity and the evolution of auditory defences in the Macrolepidoptera. ''Animal Behaviour'' '''62'''(2): 349–368. <small>{{doi|10.1006/anbe.2001.1753}}</small> [http://www.erin.utoronto.ca/~w3full/reprints/FullNapolDielAB.pdf PDF full
+
+* {{aut|Gansner, D.A.; Herrick, O.W.; Mason, G.N. & Gottschalk, K.W.}} (1987) Coping with the gypsy moth on new frontiers of infestation. ''Southern Journal of Applied Forestry Research'' '''11''': 201-209.
+
+* {{aut|Gould, J.R.; Elkinton, J.S. & Wallner, W.E.}} (1990): Density-dependent suppression of experimentally created gypsy moth, ''Lymantria dispar ''(Lepidoptera, Lymantriidae), populations by natural enemies. ''Journal of Animal Ecology'' '''59'''(1): 213-233.
+
+* {{aut|Liebhold, A.M.; Halverson, J.A. & Elmes, G.A.}} (1992): Gypsy moth invasion in North America - a quantitative analysis. ''Journal of Biogeography'' '''19'''(5): 513-520.
+
+* {{aut|McManus, Michael L.; Houston, David R. & Wallner, William E.}} (1979): The homeowner and the gypsy moth: Guidelines for control. Home and Gard. Bull. 227: 4-33. U.S. Department of Agriculture, Washington DC.
+
+* {{aut|McManus, M.; Schneeberger, N.; Reardon, R. & Mason, G.}} (1992): [http://www.na.fs.fed.us/spfo/pubs/fidls/gypsymoth/gypsy.htm ''Gypsy Moth''. Forest Insect & Disease Leaflet 162] U.S. Department of Agriculture Forest Service.
+
+* {{aut|Myers, Judith H.}} (1993): Population Outbreaks in Forest Lepidoptera. ''American Scientist'' '''81''': 240-251.
+
+* {{aut|Podgwaite, J.D.}} (1979): Diseases of the gypsy moth: How they help to regulate populations. Agric. Handb. 539: 2-15. U.S. Department of Agriculture, Washington DC.
+
+* {{aut|Rossiter, M.C.}} (1991): Maternal effects generate variation in life-history - consequences of egg weight plasticity in the gypsy moth. ''Functional Ecology'' '''5'''(3): 386-393.  
+
+* {{aut|Weseloh, R.M. & Andreadis, T.G.}} (1992): Epizootiology of the fungus ''Entomophaga maimaiga'', and its impact on gypsy moth populations. ''Journal of Invertebrate Pathology'' '''59'''(2): 133-141.
+
+
+[[Category:Lymantriidae]]
+[[Category:Agricultural pest insects]]
+[[Category:Invasive animal species]]
+
+[[cs:Bekyně velkohlavá]]
+[[de:Schwammspinner]]
+[[eo:Lana tineo]]
+[[fr:Bombyx disparate]]
+[[nl:Plakker]]
+[[no:Løvskognonne]]
+[[pl:Brudnica nieparka]]
+[[pt:Mariposa-cigana]]
+[[sr:Губар]]

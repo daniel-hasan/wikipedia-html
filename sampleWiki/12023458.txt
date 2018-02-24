@@ -1,0 +1,89 @@
+The '''1918 Swan by-election''' was a [[by-election]] for the [[Division of Swan]] in the [[Australian House of Representatives]], following the death of the sitting member Sir [[John Forrest]]. Held on [[26 October]] [[1918]], the by-election not only led to the election of the youngest person ever to be elected to the [[Parliament of Australia]], [[Edwin Corboy]], but saw the conservative vote split by the [[National Party of Australia|Country Party]] and the [[Nationalist Party of Australia|Nationalist Party]], directly prompting the introduction of [[instant-runoff voting]] in [[Australia]].
+
+==Background==
+
+Sir [[John Forrest]], who had been the first [[Premier of Western Australia]], was elected to the [[Australian House of Representatives]] for the [[Division of Swan]] at the [[Australian federal election, 1901|first federal election]] on [[29 March]] 1901.
+
+On [[6 February]] 1918, Forrest was offered a place in the British peerage (he was to be created Baron Forrest of [[Bunbury, Western Australia|Bunbury]]), though the relevant [[letters patent]] had not at the time been issued. Forrest set out for England to accept the offer and take up his place in the [[House of Lords]], but he died en route on [[2 September]] 1918, off the coast of [[Sierra Leone]], from [[cancer]]. Thus, a by-election was called to replace Forrest as the representative for Swan.
+
+===Electoral system and political parties in Australia===
+
+By 1909, Australia had a stable [[two-party system]] at the federal level, with the conservative [[Commonwealth Liberal Party]] and the progressive [[Australian Labor Party]] alternating terms in power. This system was upset in November 1916, when the Labor party split over the issue of [[conscription in Australia|conscription]]; then [[Prime Minister of Australia|Prime Minister]] [[Billy Hughes]] and his pro-conscription supporters leaving the Labor party and forming a [[minority government]] as the "[[National Labor Party]]", before merging with the Liberals in February 1917 to form the [[Nationalist Party of Australia]] with Hughes as their leader.<ref name="green">{{cite web | last = Green | first = Antony | authorlink = Antony Green | title = History of Preferential Voting in Australia | work = Antony Green Election Guide: Federal Election 2004 | publisher = Australian Broadcasting Corporation | date = 2004 | url = http://www.abc.net.au/elections/federal/2004/guide/prefhistory.htm | accessdate = 2007-07-01 }}</ref>
+
+However, Hughes was distrusted by some on the conservative side of politics for his past involvement in [[socialism|socialist]] politics as Labor leader, and disaffected conservative farmers were moved to support the new Country Party, now known as the [[National Party of Australia]], which had been formed in Western Australia in 1913 (and would be formed federally in 1922 from an amalgamation of state-based parties).<ref name="green" />
+
+At the time of the 1918 Swan by-election, Australia used a "[[plurality voting system|first past the post]]" [[voting system]], as was used in the [[United Kingdom]], in all elections at the federal level.<ref name="green" /> Under this system, the winner was simply the candidate with the greatest number of votes.
+
+==Election==
+
+Candidates from both the conservative parties contested the election — [[William Hedges (Australian politician)|William Hedges]] from the Nationalist Party and Basil Murray from the Country Party — against [[Edwin Corboy]] from Labor and [[independent (politician)|independent]] candidate [[William Watson (Australian politician)|William Watson]]. Hedges was previously a member of the House of Representatives for the [[Division of Fremantle]], from 1906 to 1913.<ref name="curtin hedges">{{cite web  | last = Black | first = David | title = William Hedges | work = The Federal Electorate of Fremantle: A history since 1901 | publisher = John Curtin Prime Ministerial Library | date = 2006 | url = http://john.curtin.edu.au/fremantle/hedges.html | accessdate = 2007-07-01 }}</ref>
+
+===Results===
+
+In the end, the Nationalist and Country candidates split the conservative vote, Hedges achieving 29.6% and Murray gathering 31.4% of the total; however, both were beaten by the Labor candidate Corboy, who received 34.4% of the total vote.<ref name="election archive 1917by">{{cite web | last = Carr | first = Adam | title = BY-ELECTIONS 1917-19 | work = Adam Carr's Election Archive | url = http://psephos.adam-carr.net/countries/a/australia/1917/1917repsby.txt | format = [[text file]] | accessdate = 2007-07-01 }}</ref> Corboy was duly elected as the member for Swan.
+
+{{Election box begin | title=Swan by-election, 1918 }}
+{{Election box candidate AU party
+  |party      = Labor
+  |candidate  = [[Edwin Corboy]]
+  |votes      = 6,540
+  |percentage = 34.4
+  |change     = N/A
+}}
+{{Election box candidate AU party
+  |party      = Country
+  |candidate  = Basil Murray
+  |votes      = 5,975
+  |percentage = 31.4
+  |change     = N/A
+}}
+{{Election box candidate AU party
+  |party      = Nationalist
+  |candidate  = [[William Hedges (Australian politician)|William Hedges]]
+  |votes      = 5,635
+  |percentage = 29.6
+  |change     = N/A
+}}
+{{Election box candidate AU party
+  |party      = Independent
+  |candidate  = [[William Watson (Australian politician)|William Watson]]
+  |votes      = 884
+  |percentage = 4.6
+  |change     = N/A
+}}
+{{Election box turnout
+ |votes = 19,213
+ |percentage = 64.3%
+ |change = 
+}}
+{{Election box gain with party link
+ |winner = Australian Labor Party
+ |loser = Nationalist Party of Australia
+ |swing = N/A
+}}
+{{Election box end}}
+
+==Consequences==
+
+Corboy, who at the time of the by-election was just twenty-two years and two months old, remains the youngest person ever to be elected to either house of the [[Parliament of Australia]].<ref name="election archive records">{{cite web | last = Carr | first = Adam | title = RECORDS AND MISCELLANEOUS FACTS | work = Adam Carr's Election Archive | url = http://psephos.adam-carr.net/countries/a/australia/statistics/records.txt | format = [[text file]] | accessdate = 2007-07-01 }}</ref><ref name="aph selected records">{{cite web | author = Lundie, Rob & Lumb, Martin | title = Update on Selected Australian Political Records | work = Parliamentary Library | publisher = Parliament of Australia | date = 1999-02-09  | url = http://www.aph.gov.au/library/pubs/rn/1998-99/99rn13.htm | accessdate = 2007-07-01 }}</ref>
+
+Shocked by the loss of a previously safe Nationalist seat to Labor, the Nationalist government was moved to initiate electoral reform and replace the first past the post system with [[instant-runoff voting]] (typically referred to as preferential voting in Australia), as part of a rewrite of the electoral legislation with the ''[[Commonwealth Electoral Act 1918]]''.<ref name="aec history">{{cite web | title = A Short History of Federal Election Reform in Australia | work = Australian electoral history | publisher = Australian Electoral Commission | date = 2007-06-08 | url = http://www.aec.gov.au/Elections/Australian_Electoral_History/history.htm | accessdate = 2007-07-01 }}</ref> While preferential voting had already been introduced at the [[states and territories of Australia|state level]] in [[Western Australia]] (1907) and [[Victoria (Australia)|Victoria]] (1911), and had been considered at the federal level by Sir [[Joseph Cook]]'s government (1913-1914), it was only these "considerations of partisan advantage [and not] the finer points of electoral theory" which provided the impetus for the change.<ref name="reilly">{{cite book | last = Reilly | first = Benjamin | title = Democracy in Divided Societies: Electoral Engineering for Conflict Management | publisher = Cambridge University Press | date = 2001 | location = Cambridge | pages = 36 | id = 2007-07-01 }}</ref>
+
+Preferential voting was first put to use in the [[Corangamite by-election, 1918|Corangamite by-election]] for the Victorian seat of [[Division of Corangamite|Corangamite]] two months later, where Labor candidate and future Prime Minister [[James Scullin]] topped the primary vote, only to be defeated after distribution of preferences by [[William Gibson (Australian politician)|William Gibson]] of the [[Victorian Farmers Union]].<ref name="green" /> The preferential voting system remains in place to this day, and has helped to support a fairly stable three-party system, albeit with the non-Labor parties (presently the [[Liberal Party of Australia]] and the since-renamed National Party) regularly forming coalition governments.<ref name="green" />
+
+At the [[Australian federal election, 1919|1919 election]], Corboy once again polled the highest percentage of the primary vote, with two conservative candidates again splitting the conservative vote; yet with the introduction of preferential voting, Corboy was easily defeated by [[John Prowse]] of the [[Farmers' and Settlers' Association]] on preferences.<ref name="election archive 1919">{{cite web | last = Carr | first = Adam | title = LEGISLATIVE ELECTION OF 13 DECEMBER 1919: VOTING BY CONSTITUENCY: WESTERN AUSTRALIA | work = Adam Carr's Election Archive | url = http://psephos.adam-carr.net/countries/a/australia/1919/1919repswa.txt | format = [[text file]] | accessdate = 2007-07-01 }}</ref>
+
+In a twist of fate [[William Watson (Australian politician)|William Watson]], who finished a distant fourth in this by-election with just 4.6% of the vote, was successfully elected to the House of Representatives for the [[Division of Fremantle]] at the [[Australian federal election, 1922|1922 election]] on the back of preferences from Nationalist candidate William Hedges, the same man who had also contested this by-election, and who had previously been the member for Fremantle.<ref name="curtin watson">{{cite web  | last = Black | first = David | title = William Watson | work = The Federal Electorate of Fremantle: A history since 1901 | publisher = John Curtin Prime Ministerial Library | date = 2006 | url = http://john.curtin.edu.au/fremantle/watson.html | accessdate = 2007-07-01 }}</ref>
+
+==See also==
+
+* [[List of Australian federal by-elections]]
+
+==References==
+
+<div class="references-small" {{#if: {{{colwidth|}}}| style="-moz-column-width:{{{colwidth}}}; column-width:{{{colwidth}}};" | {{#if: {{{1|}}}| style="-moz-column-count:{{{1}}}; column-count:{{{1}}} }};" |}}>
+<references /></div>
+
+[[Category:Australian federal by-elections]]
+[[Category:1918 elections]]
+[[Category:1918 in Australia]]

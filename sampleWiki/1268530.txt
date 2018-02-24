@@ -1,0 +1,110 @@
+{{Infobox Album | <!-- See Wikipedia:WikiProject_Albums -->
+  Name        = Even in the Quietest Moments... |
+  Type        = studio |
+  Artist      = [[Supertramp]] |
+  Cover       = Supertramp - Even in the Quietest Moments.jpg |
+  Released    = April 1977 |
+  Recorded    = November 1976-January 1977, [[Caribou Ranch]], [[Nederland, Colorado|Nederland, CO]] and [[Record Plant Studios]], [[Los Angeles, California|Los Angeles]] |
+  Genre       = [[Progressive Rock]] |
+  Length      = 43:24 |
+  Label       = [[A&M Records|A&M]]|
+  Producer    = [[Supertramp]]|
+  Reviews     = 
+*[[All Music Guide]] {{rating-5|4.5}}[http://www.allmusic.com/cg/amg.dll?p=amg&sql=10:bc8n1vyjzzpa~T1 link] |
+  Last album  = ''[[Crisis? What Crisis?]]''<br />(1975) |
+  This album  = '''''Even in the Quietest Moments'''''<br />(1977) |
+  Next album  = ''[[Breakfast in America]]''<br />(1979) |
+}}
+
+'''''Even in the Quietest Moments...''''' is the fifth [[album]] by [[progressive rock]] band [[Supertramp]], released in April of 1977 (see [[1977 in music]]).
+
+The album was recorded mainly at Caribou Studios in Colorado with overdubs, vocals and mixing completed at The Record Plant in Los Angeles and was Supertramp's first album to use engineer Peter Henderson whom would work with the band for the rest of Roger Hodgson's tenure with the band.
+
+Even in the Quietest Moments reached #16 on the Billboard Pop Albums Charts in 1977 and within a few months of release became Supertramp's first Gold (500,000 copies or more) selling album in the US thanks to "Give a Little Bit" being a US Top 20 single.
+
+A remastered CD version of the album with full original artwork, lyrics and credits restored (including the inner sleeve picture of the band absent from the original CD) was released on June 11, 2002 on A&M Records in the US. The cover photo is not doctored - a grand piano was placed on a mountain top at Caribou Studios, covered with snow and photographed.
+
+While "Give a Little Bit" was the big hit, both "Fool's Overture" and "Even in the Quietest Moments" got a fair amount of FM album-rock play.
+
+__NOTOC__
+==Track listing==
+All songs written by Rick Davies and Roger Hodgson.
+
+#"[[Give a Little Bit]]" – 4:08
+#*''Lead vocals: [[Roger Hodgson]]
+#"Lover Boy" – 6:49
+#*''Lead vocals: [[Rick Davies]]
+#"Even in the Quietest Moments" – 6:28
+#*''Lead vocals: [[Roger Hodgson]]
+#"Downstream" – 4:01
+#*''Lead vocals: [[Rick Davies]]
+#"[[Babaji (song)|Babaji]]" – 4:51
+#*''Lead vocals: [[Roger Hodgson]]
+#"[[From Now On (Supertramp song)|From Now On]]" – 6:21
+#*''Lead vocals: [[Rick Davies]]
+#"[[Fool's Overture]]" – 10:52
+#*''Lead vocals: [[Roger Hodgson]]
+
+==Personnel==
+*[[Rick Davies]] - [[keyboard instrument|keyboard]], [[vocals]]
+*[[John Helliwell]] - [[saxophone]]s, vocals, woodwind, [[melodica]] on From Now On 
+*[[Roger Hodgson]] - [[guitar]], keyboards, vocals
+*[[Bob Siebenberg]] (credited as ''C. Benberg'') - [[percussion instrument|percussion]], [[drum kit|drums]]
+*[[Dougie Thomson]] - [[bass guitar|bass]]
+*Gary Mielke - [[oberheim]]
+
+==Trivia==
+*This album is unique in the Supertramp discography as none of the songs feature the band's trademark [[Wurlitzer electric piano]].
+*The sheet music on the album cover is labelled "Fool's Overture", but the notes play "The Star Spangled Banner."
+*"Fool's Overture" was used for many years as the theme song on the Canadian television show "W5" [http://www.ctv.ca/servlet/ArticleNews/show/CTVShows/20031017/wfive-history/20030924]
+
+==Production==
+*Producer: Supertramp
+*Engineers: Peter Henderson, Russel Pope
+*Assistant engineers: Tom Anderson, Tom Likes, Steve Smith
+*Mixing engineer: Geoff Emerick
+*Remixing: Tom Anderson
+*Mastering on original LP: Frank DeLuna
+*Re-mastering: Greg Calbi, Jay Messina
+*Programming: Gary Mielke
+*Orchestral arrangements: Michel Colombier, Supertramp
+*Art direction: Mike Doud
+*Design: Mike Doud
+*Photography: Kenneth McGowan, Bob Seidemann
+'''2002 A&M reissue:'''<br/>
+The 2002 [[A&M Records]] reissue was mastered from the original master tapes by Greg Calbi and Jay Messina at Sterling Sound, New York, 2002. The reissue was supervised by Bill Levenson with art direction by Vartan and design by Mike Diehl, with production coordination by Beth Stempel.
+
+==Charts==
+'''Album''' - [[Billboard magazine|Billboard]] (North America)
+{| border=1 cellspacing=0 cellpadding=2 width="550px"
+!align="left"|Year
+!align="left"|Chart
+!align="left"|Position
+|-
+|align="left"|1977
+|align="left"|Pop Albums
+|align="left"|16
+|-
+|}
+
+'''Singles''' - Billboard (North America)
+{| border=1 cellspacing=0 cellpadding=2 width="550px"
+!align="left"|Year
+!align="left"|Single
+!align="left"|Chart
+!align="left"|Position
+|-
+|align="left"|1977
+|align="left"|"Give A Little Bit"
+|align="left"|Pop Singles
+|align="left"|15
+|-
+|}
+{{Supertramp}}
+
+[[Category:Supertramp albums]]
+[[Category:1977 albums]]
+[[Category:A&M Records albums]]
+
+[[bs:Even in the Quietest Moments (album)]]
+[[fr:Even in the Quietest Moments]]

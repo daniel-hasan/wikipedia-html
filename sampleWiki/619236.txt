@@ -1,0 +1,128 @@
+{{Infobox Dogbreed
+<!-- Put article text AFTER this infobox markup. See: -->
+<!-- Wikipedia:WikiProject Dog breeds/Templates for more info.-->
+| image = BostonTerrierBrindleStand w.jpg
+| image_caption = Boston Terrier with brindle coat
+| name = Boston Terrier
+| altname = Boston Bull <br> Boston Bull & Terrier <br> Boxwood
+| country = [[United States]]
+| fcigroup = 9
+| fcisection = 11
+| fcinum = 140
+| fcistd = http://www.google.com/search?q=cache:kjjj1gFExNkJ:www.fci.be/uploaded_files/140gb98_en.doc+site:www.fci.be+%22140+/+20.04.1998%22&hl=en
+| akcgroup = Non-sporting
+| akcstd = http://www.akc.org/breeds/boston_terrier/index.cfm
+| ankcgroup = Group 7 (Non-Sporting)
+| ankcstd = http://www.ankc.aust.com/bostterr.html
+| ckcgroup = Group 6 - Non-Sporting
+| ckcstd = http://www.ckc.ca/en/Default.aspx?tabid=99&BreedCode=BST
+| kcukgroup = Utility
+| kcukstd = http://www.thekennelclub.org.uk/item/154
+| nzkcgroup = Non-sporting
+| nzkcstd = http://www.nzkc.org.nz/br704.html
+| ukcgroup = Companion Breeds
+| ukcstd = http://mail.ukcdogs.com/UKCweb.nsf/80de88211ee3f2dc8525703f004ccb1e/ecff37fe735931f685257044004d144e?OpenDocument
+}}<!-- End Infobox -->
+The '''Boston Terrier''' is a [[dog breed|breed]] of [[dog]] originating in the [[United States of America]].<ref name=Meade>Meade, Scottee (2000). ''The Boston Terrier: An Owner's Guide to a Happy Healthy Pet''. Howell Book House. ISBN 1-58245-159-1. </ref>
+
+==Appearance==
+Boston Terriers are typically small, compactly built, well proportioned [[dog]]s with erect ears, short [[Tail (anatomy)|tails]], and a short [[snout|muzzle]] that should be free of [[wrinkle]]s.<ref name=CKC>[http://www.ckc.ca/en/Default.aspx?tabid=99&BreedCode=BST Canadian Kennel Club: Boston Terrier standard]. Retrieved March 11, 2007</ref> They usually have a square sort of face.  According to international breed standard, the dog should weigh no less than 10 pounds and no more than 25 pounds. Boston Terriers usually stand 15-17 inches at the [[withers]].<ref name=AKC/>  
+
+The Boston Terrier is characteristically marked with white in proportion to either black, [[brindle]], seal, or a combination of the three. Seal is a color specifically used to describe Boston Terriers and is defined as a black color with red highlights when viewed in the sun or bright light. If all other qualities are identical, brindle is the preferred color according to most breed standards.<ref name=CKC/><ref name=AKC>[http://www.akc.org/breeds/boston_terrier/index.cfm American Kennel Club: Boston Terrier standard]. Retrieved March 11, 2007</ref>
+
+Ideally, white should cover its chest, muzzle, band around the neck, half way up the [[forelimb|forelegs]], up to the [[Hock (zoology)|hocks]] on the [[hind limb|rear legs]], and a white blaze between but not touching the eyes. In [[show dog]]s, symmetrical markings are preferred.<ref name=AKC/>  Due to the Boston Terrier's markings resembling [[formal wear]], in addition to its refined and pleasant personality, the breed is commonly referred to as the "American Gentleman." <ref name=Meade/> 
+The breed is known for its gentle, alert, and intelligent expression. 
+
+Frequently, variations on the standard are seen depending on the ancestry of the individual dog. At various times, the [[Bulldog]], [[American Pit Bull Terrier]], [[English Mastiff]], [[Staffordshire Bull Terrier]], and [[French Bulldog]]&mdash;among other breeds&mdash;have been crossbred with Boston Terrier lines to minimize inbreeding in what is necessarily a small gene pool.
+
+==Temperament==
+While originally bred for fighting, they were later down bred for companionship. The modern Boston Terrier can be gentle, alert, expressive, and well-mannered. Many still retain the spunky attitude of the typical terrier. It must be noted however, that they are not considered terriers by the American Kennel Club, but are part of the non-sporting group.<ref name=AKC/>  Boston Terrier is something of a misnomer. They were originally a cross-breed between the [[Old English Bulldog]] and the [[English White Terrier]].<ref name=Cline/>  Both of these breeds are now extinct.
+
+Some Bostons enjoy having another one for companionship. Both females and males generally bark only when necessary.<ref name=Cline>Cline, Mrs. Charles D. (1995). Boston Terriers. T.F. H. Publications, Inc. ISBN 0-7938-2397-8.</ref>  Having been bred as a companion dog, they enjoy being around people, and, if properly socialized, get along well with children, the elderly, other canines, and non-canine pets. Boston Terriers can be very cuddly, while others are more independent. <ref name=Meade/>
+
+==Health==
+[[Image:NewBornBostenTerrier01a.jpg|thumb|right|A newborn Boston Terrier]]
+[[Image:Blah_004.jpg|thumb|right|6 month old Boston Terrier]]
+Several health issues are of concern in the Boston Terrier:  [[cataracts]] (both juvenile and adult type), [[cherry eye]], [[luxating patella]]s, [[deafness]], [[heart murmur]], and [[allergies]].
+Curvature of the back, called roaching, might be caused by [[patella]] problems with the rear legs, which in turn causes the dog  to lean forward onto the forelegs.<ref name=Meade/> This might also just be a structural fault with little consequence to the dog. Many Bostons cannot tolerate excessive heat and also extremely cold weather, due to the shortened muzzle, so hot or cold weather combined with demanding exercise can bring harm to a Boston Terrier.
+
+They can live up to 15 years or more, but the average is around 13 years.
+
+{{howto}}
+The Boston, like other short-snouted breeds have an elongated [[palate]]. When excited, they are prone to a "[[Reverse sneezing|reverse sneeze]]" where the dog will quickly, and seemingly laboriously, gasp and snort. This is caused by fluid or debris getting caught under the palate and irritating the throat or limiting breathing. "[[Reverse sneezing]]" episodes won't hurt a Boston in the least, but it will scare the dog, and maybe its owners, a good deal.<ref>{{cite web | title = Health Concerns: Respiratory System | work = Animal Health Center | publisher = New Jersey Veterinary Medical Association | url = http://www.njvma.org/new/health/concerns-respiratory.asp | accessdate = 2007-04-06 }}</ref>
+
+Because of their short snouts, they do tend to snort and [[snore]]. These can be signs of serious health issues. Due to the Boston's prominent eyes, some are prone to [[corneal ulcers in animals|ulcers]] or minor injuries to their [[cornea]].
+
+When a boston terrier gets stressed they tend to lick their paws turning them into a crimson brown color which tends to decrease when they stop licking.
+
+==History==
+The Boston Terrier breed originated around 1870, when Robert C. Hooper of Boston purchased a dog known as Hooper's Judge, a cross between the [[Old English Bulldog]] and the [[English White Terrier]].<ref name=Cline/> (Both of these breeds are extinct)
+
+Judge weighed over 30 pounds (13.5 kilos). He was bred down in size with a smaller female and one of his male pups was bred to yet a smaller female. Their offspring interbred with one or more [[French Bulldogs]], providing the foundation for the Boston Terrier. Bred down in size from pit-fighting dogs of the bull and terrier types, the Boston Terrier originally weighed up to 44 pounds (20 kg.) (Olde Boston Bulldogge).<ref name=Meade/> Their weight classifications were once divided into lightweight, middleweight, and heavyweight.
+
+The breed was first [[dog show|shown]] in Boston in 1870. By 1889 the breed had become sufficiently popular in Boston that fanciers formed the American Bull Terrier Club, but this proposed name for the breed was not well received by the Bull Terrier Fanciers. The breed's nickname, "roundheads", was similarly inappropriate. Shortly after, at the suggestion of James Watson (a noted writer and authority), the club changed its name to the Boston Terrier Club and in 1893 it was admitted to membership in the American Kennel Club. <ref name=Cline/>
+
+In 1893, the [[American Kennel Club]] (AKC) admitted the Boston Terrier breed and gave the club membership status, making it the first US breed to be recognized. It is one of a small number of breeds to have originated in the United States that the AKC recognizes.
+
+The Boston Terrier was the first non-sporting dog bred in the US.
+
+In the early years, the color and markings were not very important, but by the 1900s the breed's distinctive markings and color were written into the standard, becoming an essential feature. Terrier only in name, the Boston Terrier has lost most of its ruthless desire for mayhem, preferring the company of humans, although some males will still challenge other dogs if they feel their territory is being invaded.
+
+Boston Terriers were particularly popular during the 1920's in the US.
+
+==Miscellaneous==
+{{Trivia|date=October 2007}}
+* In 1979, the state legislature recognized the Boston Terrier as the [[List of U.S. state mammals|state dog]] of [[Massachusetts]]. <ref>"[http://www.mass.gov/statehouse/funfacts.htm History Resources: Massachusetts Fun Facts]", ''Interactive State House''.  Retrieved on [[2007-02-27]].</ref>
+* [[Rhett the Boston Terrier]] is the well-known mascot of [[Boston University]]. <ref>"Rhett," ''[http://www.bu.edu/athletics/fans/rhett.html The BU Fan Zone]''.  Retrieved on [[2007-02-28]].</ref>
+*[[Buster Brown]] and his Boston Terrier dog Tige, a comic strip character created in 1902 by [[Richard Felton Outcault]]. 
+* [[Sergeant Stubby]], a  possible [[Pit Bull]]-Boston Terrier cross, was the most decorated [[war dog]] of [[World War I]], and the only [[dog]] to be promoted to [[sergeant]] through combat.  Stubby also served as one of [[Georgetown University]]'s earliest mascots (before the [[Bulldog]] was adopted as the official breed of the university's mascots). <ref>Richmond, Derek (4 November 2003), "[http://www.thehoya.com/sports/110403/sports12.cfm From Mascot to Military, Stubby Left Pawprints on Hilltop and Beyond]", ''The Hoya'' of [[Georgetown University]].  Retrieved on [[2007-02-26]].</ref>
+* The Boston Terrier is the mascot of [[Wofford College]]. Mascots currently include "Boss the Terrier" and "Lil' Ruff" (both Boston Terrier characters) and Blitz (a purebred Boston Terrier). <ref>''[http://www.wofford.edu/athletics/sportsMarketing/content.aspx?id=18528 Wofford Sports Marketing]''.  Retrieved on [[2007-02-28]].</ref>
+* Redlands High School in Redlands, California has the (Boston) Terrier as their mascot.
+* [[Toto (dog)|Toto]] is drawn as a Boston Terrier in several [[Oz Books]].
+* [[Helen Keller]] was given a Boston Terrier named Phiz by some of her classmates from [[Radcliffe College]]. <ref name=About>"[http://boston.about.com/od/glossary/p/bostonterrier.htm Boston Terriers]", ''About: Boston, MA''.  Retrieved on [[2007-02-28]].</ref> <ref>"[http://www.afb.org/braillebug/hkgallery.asp?frameid=28#main Education 1894-1904]", ''The Helen Keller Kids Museum Online''.  Retrieved on [[2007-02-28]].</ref>
+*United States President [[Warren G. Harding]] owned a Boston Terrier. <ref name=Meade/>
+*[[Charmed]] actress [[Rose McGowan]] is a known Boston Terrier lover. She herself owns two, Bug and Fester. She is also an animal rights activist and works closely with rescue centres to help improve the lives of mistreated Boston Terriers. Rose also donates money to the [[Boston Terrier Rescue Net]], an organisation that helps raise money to rescue and re-home neglected Boston Terriers.
+*A Boston Terrier named Bruiser is the mascot of [[Fat Wreck Chords]].[http://www.fatwreck.com/community/bruiser]
+*The [[NOFX]] record [[13 Stitches]] features a Boston Terrier on the cover.[http://www.nofxwiki.net/w/Image:Nofx_13_cover.jpg]
+* [[Denise Richards]] has a Boston Terrier named Lucy, which was seen on an episode of [[National Geographic Channel|National Geographic Channel's]] ''[[The Dog Whisperer]]''.[http://www.starpulse.com/news/index.php/2006/03/02/denise_richards_consults_dog_whisperer]
+* [[Dom Howard]], drummer for the rock band Muse, and his girlfriend own a Boston terrier named Hendrix.
+* [[Boss Hogg]] of 'Dukes of Hazzard' fame owns a Boston Terrier.
+
+==References==
+* Bulanda, Susan (1994). ''Boston Terriers''. Barron's Educational Series, Inc. ISBN 0-8120-1696-3.
+
+==Notes==
+{{reflist}}
+
+==External links==
+{{commons|Boston Terrier}}
+* [http://www.bostonterrierclubofamerica.org/ Boston Terrier Club of America, Inc.]
+* [http://www.bostonterrierclubofcanada.com/ Boston Terrier Club of Canada]
+* {{gutenberg|no=18033|name=The Boston Terrier and All About It}} (First published 1910)
+* [http://www.helium.com/tm/170944/ An article on Helium about the Boston Terrier]
+* [http://www.bostonrescue.net/ Boston Terrier Rescue Net is a non-profit organization set up to rescue and rehome neglected Boston Terriers]
+* [http://www.abtr.net/ American Boston Terrier Rescue located in North Texas]
+* [http://www.bostonbuddies.org/ Boston Terrier Rescue located in Southern California]
+{{Toy dogs}}
+{{Terriers}}
+
+[[Category:Dog breeds]]
+[[Category:Dog fighting breeds]]
+[[Category:Terriers]]
+[[Category:Toy dogs]]
+[[Category:Dog breeds originating in the United States]]
+[[Category:Symbols of Massachusetts]]
+
+[[de:Boston Terrier]]
+[[es:Boston terrier]]
+[[fr:Terrier de Boston]]
+[[nl:Bostonterriër]]
+[[ja:ボストン・テリア]]
+[[no:Bostonterrier]]
+[[pl:Boston Terrier]]
+[[pt:Boston Terrier]]
+[[ru:Бостон-терьер]]
+[[simple:Boston Terrier]]
+[[sr:Бостон теријер]]
+[[fi:Bostoninterrieri]]
+[[sv:Bostonterrier]]

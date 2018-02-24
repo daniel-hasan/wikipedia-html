@@ -1,0 +1,295 @@
+The Information Services Procurement Library (ISPL) is a best practice library intended to manage acquisition processes related to Information Services: all services that are related to Information Technology. It provides tools and heuristics to plan acquisitions, risk management, the involved contracts and does this for both customer and supplier organizations, focusing on creating and maintaining a healthy relationship between the parties involved. ISPL is a method in the field of Information Technology, because it does not focus on the development (e.g. DSDM, RUP) or management of the IT (e.g. ITIL), but focuses on the procurement of IT related services. More on the basics of ISPL can be found in Wikipedia.
+
+Acquisition Initiation
+The acquisition initiation is the first process within ISPL and is executed by the customer organization, intending to procure Information Services.
+Two main activities lie within this process: the making of the acquisition goal definition and the making of the acquisition planning. During the Acquisition Initiation an iterative process will arise in which questions about the goal of the acquisition will be brought up, which can be answered by detailing the requirements, looking at costs, feasibility, timelines etc. I.e.: planning the acquisition, possibly leading to more questions about the acquisition goal. Thus, a relation exists between the acquisition goal and acquisition planning.
+
+The process-data model below shows a model of the acquisition initiation stage. It shows both the process and the data ensuing from the process.
+Parts of the image will be used to illustrate the chapters and paragraphs of this article. The image was made by the author of this article for the Method Engineering course of Utrecht University. The concepts and data found in the model are explained in separate tables, which can be found immediately after the model.
+A textual, and more thorough explanation of the activities and concepts can be found in the remainder of the entry.
+
+Process-data Model
+Image:AcquisitionInitiation.procesdata.mcalukin.jpg
+
+Tables of activities and concepts
+= Table of activities:=
+Image:AcquisitionInitiation.activities.mcalukin.jpg
+
+= Table of concepts:=
+Image:AcquisitionInitiation.concepts.mcalukin.jpg
+
+Draft Acquisition Goal
+Partial process-data diagram for the draft acquisition goalThe draft acquisition goal is the description of the global goal that is to be achieved by starting procurement. It is inspired by the business needs or business strategy. It is similar, though simpler, to the concept of the PRINCE2#Starting up a project|project brief in PRINCE2. It is the first draft of the acquisition goal, containing at least a (short) problem definition and a (short) goal definition. The draft acquisition goal is meant to give the main reasons and the main goals to those people who will have to make the decision to actually start of the acquisition or not. It may thus also encapsulate items like a cost-benefit analysis, stakes &amp; stakeholders and other items that will be further refined during the actual Acquisition Initiation.
+It is, in this sense, ''not'' an activity of the acquisition initiation process, but it is the input for starting the process.
+
+The problem definition is a statement about the problem that could be resolved by starting the acquisition process. 
+:E.g.: The production process is becoming increasingly inefficient, in part because of aged software
+The goal definition is a statement about the goal that will have to be reached when the acquisition is executed:
+:E.g.: The production process will see a 20% increase in both cost and time efficiency, when the software that is used in the process is updated
+
+The draft acquisition goal can be made as short or as long as is needed by the organization, as long as it serves to be a good basis to make the initial decision to start of an acquisition process.
+
+Acquisition Goal Definition
+Partial process-data diagram for the refining of the acquisition goalWhen the decision is made to start an acquisition process, the first activity of the Acquisition Initiation is to define the Acquisition Goal.
+
+The acquisition goal is the whole of defined systems and services requirements, attributed by costs &amp; benefits and stakes &amp; stakeholders, with a defined target domain serving as the boundary. The acquisition goal is the basis of the acquisition process and for formulating the acquisition strategy during the acquisition planning. Input can be the draft acquisition goal and the business needs (of the target domain). The business needs can be derived from strategic business plans or information system plans. 
+
+= Defining the target domain=
+The target domain is that part of the customer organization that is involved in, or influenced by an information service. It is defined in terms of business processes, business actors, business information, business technology and the relations between these four aspects. The target domain is identified to ensure a fitting acquisition goal with fitting requirements for the systems and services to be acquired.
+
+;''Business processes'' :are a set of activities within the organization to realize some sort of output or goal.
+::E.g.: the marketing-processes, intended to create and maintain a market for the products or services of the organization.
+
+;''Business information'' :is the information that is used as input in the business process, the output or results of the process or the information concerning a method to execute the business process. 
+::E.g.: sales figures, market researches etc; the marketing theories and methods used in the marketing process; a result of the process in the form of a new marketing strategy involving new types of advertising.
+
+;''A business actor'' :is either a person or a computer system (or a part of it) that operates within an information system or in relation to that system, executing certain processes within that system, using the information needed for the process. 
+::E.g.: a marketing-employee using a computer with tools used to execute the marketing-process.
+
+;''Business technology'' :consists of all information systems, tools, software and methods, used by business actors to execute his processes. 
+::E.g.: a marketing theory on how to approach new customers, a graphical tool to make posters, etc.
+
+''A limited description of a target domain can thus be, for example:'';The part of customer organization that uses the software program MarketingUnlimited (fictional), involving the marketing-process, several types of information related to the marketing-department of the customer organization, the employees working in the marketing department and the production platform for MarketingUnlimited consisting of an application server, several workstations, and tools related to MarketingUnlimited.
+
+= Refining the acquisition goal=
+;The acquisition goal :the deliverables, systems and services should be delivered within the acquisition and with what requirements they will have to comply. 
+;A requirement :A documented representation of an essential condition that has to be satisfied by the system or service, in favor of an actor’s need to achieve an objective. 
+::E.g.: the new marketing software package will have to have a response time of between 0 and 3 seconds for a database query. 
+The acquisition goal is then described by system descriptions and service descriptions:
+
+;System description :A description of a system, documenting the requirements of a system. 
+:A system is an integrated composite that consists or one or more of the processes, hardware, software, facilities and people that provide a capability to satisfy a stated need or objective (definition by ISO/IEC 12207).
+
+;Service description :A description of a service, documenting the requirements that describe the service. 
+:A service is a process that a person or organization executes in favor of another. ISPL defines two types of services:
+:*projects, which are limited by time (e.g.: the implementation of an ERP package), and
+:*ongoing services, which are unlimited by time (e.g.: helpdesk services).
+
+::Projects are described by documenting:
+::*''the initial state'': what descriptive and operational items are already presents, and what items should be present at the start of the project
+::*''the final state'': describe which descriptive and operational items will be required and used after the project has been completed
+
+::Ongoing services are described by documenting:
+::*''the type of process'' that will be performed in the ongoing service,
+::*''the operational items'' that are object of the service,
+::*''the service properties'': the properties that characterize the service:
+:::*investment properties: the properties that provide the rationale or the goals for attracting the service.Relates to the costs &amp; benefits analysis,
+:::*functional properties: the properties of the business process and work practices that are executed in the service,
+:::*quality properties: the service level required by the users or the organization’s strategy.
+
+:When the requirements set in the (initial) system and service descriptions do not offer enough basis for:
+:* the customer organization to accurately estimate costs &amp; benefits or 
+:* for the supplier organization to produce a satisfactory proposal, 
+:a more thorough requirements analysis, using an acknowledged method, may be necessary.
+
+Other information on how Information Services Procurement Library#Specifying Deliverables|ISPL defines the deliverables of the acquisition can be found in the general ISPL entry.
+
+= Costs &amp; benefits analysis=
+Cost-benefit analysis|Costs &amp; benefits analysis concerns the analysis of:
+;Costs :resources to be spent on the information services to be procured and 
+;Benefits :the resources to be gained from acquiring the information services,
+to successfully evaluate the investment issues of the acquisition.
+
+:Benefits must be evaluated, even if they are not quantifiable, but preferably identified by using financial terms or other quantifiable metrics.
+::e.g.: The software to be acquired will enable the marketing department to handle the data of past activities at a 10% more efficient rate as with the current system.
+:Costs must be evaluated thoroughly, depending mostly, but not solely, on the systems and services requirements and the acquisition strategy that will be adopted. Costs are thus not only related to hardware or software purchase (or development), but with the costs of all activities within the acquisition.
+::e.g.: Acquisition management, quality assurance and trainings for actors.
+
+= Stakes &amp; stakeholders analysis=
+;A stakeholder :is an actor within the organization or target domain that will be affected by the acquisition at hand. 
+It is important to identify all actors affected, and in what way they are affected (their stake), because a negative attitude of actors may negatively influence the success of the acquisition. ISPL proposes to perform a SWOT Analysis (Strengths, Weaknesses, Opportunities and Threats) for the actors involved to properly and thoroughly identify the stakes of the actors. The results of this analysis can serve as input for the situation &amp; risk analysis.
+
+Acquisition planning
+Partial process-data diagram for the Acquisition Planning stageThe information contained within the Acquisition Goal is used to produce the Acquisition Plan. The Acquisition Plan is the master plan of the entire acquisition. In this plan delivery scenario’s are determined and the situation and risks evaluated. And upon the basis of the scenario’s, situation and risks, a strategy is formed to manage the acquisition, its situation and risks. Furthermore, the acquisition plan will hold the main decision points, in which decisions are made about the deliverables within the acquisition and the acquisition organization (similar to a project organization) is formed.
+
+= Service delivery scenario=
+On the basis of the Acquisition Goal, which contains among others the systems and services requirements and descriptions, scenarios can be formed for the deliveries of the information services to be acquired. Multiple scenarios may be built, which will then be evaluated and used in the design of the acquisition strategy. The scenarios are built with the priorities and interdependence of the deliverables in mind.
+
+Priority
+Priorities are related to the importance of each delivery: which delivery has time-preference over another. 
+:Priorities can flow from:
+:*''Strategy'': some deliverables may give a competitive advantage to the organization;
+:*''Finances'': deliverables may lead reduce the costs of organizational operation;
+:*''Politics'': some departments may have more political power within the organization, enabling them to influence the priority of the deliveries related or important to that department.
+
+Dependency
+Some deliveries may be dependent on each other, requiring one services to be delivered before the next one can be. 
+:These dependencies may be:
+:*''Technological'': some deliverables have to be delivered before other can be. 
+::E.g.: New hardware must installed before the software can be.
+:*''Functional'': some functions of one deliverable have to be delivered before another deliverable is able to function. 
+::E.g.: Core-functionality of an ERP package has to be configured before modules can be activated and configured.
+:*''Related to reuse'': If a deliverable is reusable in multiple situations and another that is related to it is not, than it would make sense to produce the reusable deliverable first, because of it’s wider uses. 
+::E.g.: When the USB-port was thought up, the USB-port was probably first developed, before computers were developed that could make use of it.
+
+Example of a scenario for a product software implementation''Example:''
+During a project to make ISPL more specific for generic product software implementations, a number of scenario’s was made. One of these was for an approach of a one-shot implementation. The below picture shows a diagram of the scenario that was made. An example of a scenario for the implementation of software is shown through the thumbnail on the right.
+
+In this example, the general deliverables within an implementation of software are mentioned, being executed and delivered differently as time goes by, mainly because of dependencies between deliverables. For instance, the actual go for the delivery of the software and the other related deliverables are dependent on the outcome of the deliverable “Proeftuin”. “Proeftuin” is an agreed period in which the software is extensively tested by the customer organization, provided and supported by the supplier. The customer organization can get a feel for the use of the software in the target domain, to guarantee that the software is a “fit” within the organization.
+
+= Situation &amp; risk analysis=
+ISPL adheres to a situational approach to manage an acquisition. The situational approach takes into account properties of the problem situation, which are called situational factors. ISPL provides a number of these situational factors. Some of these situational factors have an impact on events that have adverse consequences: the risks. Thus, the situational factors and risks within ISPL are related to each other. This makes it possible to provide a number of heuristics on which factors have an influence on certain risks.
+First the situation is analysed, then ISPL proposes a number of risks which may arise from the situation at hand. With this information, an acquisition strategy can be formed to mitigate both the situation and risks in a number of areas.
+Other information of the Information Services Procurement Library#Managing Risks and Planning Deliveries|situation &amp; risk analysis of ISPL can be found in the ISPL entry.
+
+Situation
+:The situation of the acquisition is first assessed. ISPL provides a checklist of situational factors to analyze the situation, the knowledge about the situation to effectively use the checklist is gained by the analysis of documents and by interviewing key actors within the acquisition. The checklist that ISPL provides is, of course, neither definitive nor exhaustive but gives an idea of some main points that may describe the situation at hand.
+
+:The situation is described with two dimensions, which together can be used to assess the situation:
+:*Knowledge dimension: this dimension groups the knowledge about the situation into:
+:**''Complexity'': the difficulty to manage the available knowledge, scaled into three values: simple  moderate  complex
+:**''Uncertainty'': ;a lack of available knowledge, scaled into three values: certain  moderate  uncertain
+:*Domain dimension: which determines what (part of the) organization has to be investigated and considered. Two domains are identified within ISPL:
+:**''Target domain'': the part of the (customer) organization affected by the acquisition
+:**''Service domain'': the organization that delivers the services to be acquired
+::Both are grouped into four classes: process, information, actors, technology.
+
+:An example of a situational factor related the complexity of processes in the target-domain (taken from the ISPL book: Managing risks and planning deliveries (see external links)) is found in the image below.
+::An example of a situational factor
+
+:After all situational factors have been analyzed for their measure or complexity or uncertainty, the overall situation must be evaluated:
+:*All factors with ‘complex’ and ‘uncertain’ values are listed, and their influence on the overall complexity and uncertainty is determined;
+:*The moderate factors are listed and their influence on the overall complexity and uncertainty is determined;
+:*The factors with ‘simple’ and ‘certain’ values are listed, and the amount in which they counteract overall complexity and uncertainty is determined.
+:The overall uncertainty and complexity is determined with expertise present within the organization.
+
+= Service domain definition=
+::For the situation analysis to work and properly identify all possible risks concerned with the acquisition, knowledge is needed about the complexity and uncertainty involved with the service domain: the service provider. This is because the service domain may influence the success of the acquisition. The service domain is identified in a similar way as the target domain.
+::It may be difficult in this early stage of the ISPL process to thorougly identify the service domain though, because it may be that external suppliers will be attracted to deliver some of the deliverables. External suppliers are, at this point unknown. This is why, during the course of the acquisition, the situation &amp; risk analysis must be repeated for re-evaluation.
+
+Risk
+:;A risk :A risk is the possible occurrence of the adverse consequences of an event. 
+::Risk analysis is:
+::*the ''identification'' of risks, 
+::**the assessment of their ''probability'' of occurrence, 
+::**the assessment of the ''impact'' of an eventual occurrence,
+::*the determination of critical risks.
+
+:ISPL has determined a set of risks, divided over two classes:
+:*''Risks for the business'': influencing the performance of the business as a whole;
+:*''Risk for the service'': influencing the performance the services (to be) acquired.
+:The risks are related to the situational factors that ISPL provides. 
+
+:''Example of a risk'' that is related to the example of the situational factor given above:
+:When 
+:*the “complexity of quality properties of the business processes” within the target domain is assessed as ‘High’, 
+::then possible risks may be:
+:**Poor quality of service/system
+:**Service/system not accepted by business actors
+:**Non-attainment of business stakes
+: (taken from the ISPL book: Managing risks and planning deliveries (see external links))
+
+= Acquisition Strategy=
+Partial process-data diagram for the Acquisition Strategy (part of the Acquisition Planning)The acquisition strategy within ISPL acts as the design of a risk management strategy. The risk management strategy provides choices for options that reduce the probability and/or impact of risks. ISPL provides several options, divided over four classes: 
+#options for customer situation, 
+#supplier relations, 
+#project and 
+#services. 
+Options are chosen based on their efficiency, costs and the related delay for delivery.
+:The following is very much a summary of ISPL, which is much more extensive in its explanations. For these, see the external links. 
+
+Options for customer situation
+:Three main options:
+:*''Change situational factors within the target domain''
+::If possible, the organization may decide to change its situation, to delete possible risks related to the current situation
+:*''Change or refine the requirements'' that were set up within the Acquisition Goal
+::The requirement may have been too complex or too simple, or otherwise ineffective for the situation of the acquisition.
+:*''Define a strategy regarding standards''
+::The customer organization may adopt certain standards to, for example, ensure openness within the organization and towards external parties, maximizing interoperability between services/systems, etc.
+
+Options for supplier relations
+:Five main options:
+:*''Choice between external or internal suppliers''
+::The choice depends, among others, the knowledge about the service, costs and time-efficiency of delivery, the actors needed and possible benefits of contracting. 
+:*''Determine types of tendering''
+::Particular types of tendering may be chosen related to the required type of relationship with a supplier. Types of tendering are: 
+:**open procedure, 
+:**restricted procedure, 
+:**negotiated procedure, 
+:**design contest.
+:::For more elaborate explanations of these types of tendering, see the external links.
+:*''Determine the interaction with suppliers''
+::Within complex and/or uncertain situations regarding the service domain, certain choices in the communications with a supplier may be made. 
+:::E.g.: Decide to require information from a suppliers about its services before a ‘request for proposal’ is made.
+:*''Determine the flexibility of contracts''
+::When the situation for the service domain is complex or uncertain, certain contractual elements may be made less (or more) flexible to accommodate a healthy relationship with the supplier.
+:*''Identify contracts and sequence constraints''
+::A decision may be made to split the acquisition into multiple contracts to make the situation for the customer organization more certain (although a bit more complex).
+
+Options for projects
+:Two main options:
+:*''Decide to buy or develop''
+::Decide to buy when for example: sufficient products are available, complexity of requirements are not high and/or the ability of actors is low. 
+:::E.g.: buy a ERP product software like SAP.
+:*''Determine requirements of project delivery strategy''
+::The project delivery strategy concerns four approaches: installation, construction, description and project control. During the acquisition, at least the installation strategy can be set, the construction approach may also be set. The approaches for construction and installation that ISPL identifies are:
+:**''One shot'': Construct/install in one try. This approach is somewhat related to the 'big bang' approach for the adoption of software.
+:::E.g.: Develop a program in one try and no successive installation are needed.
+:**''Incremental'': Construct/install in parts. 
+:::E.g.: An ERP package is bought for which the most basis module is first installed, after which successive functional modules are (bought and) installed when they are needed. This approach is somewhat related tothe 'phased' approach for the adoption of software.
+:**''Evolutionary'': Construct/install in full, but multiple versions. 
+:::E.g.: A program is fully developed and installed. Then a second version of it is fully constructed (or the first version completely revised) and installed. This approach is somewhat related tothe 'phased' approach for the adoption of software.
+
+Options for ongoing services
+:Two main options:
+:*''Determine service arrangements''
+::Choices are made concerning the services in relation to the supplier. 
+::E.g.: Agreement with supplier to share a service with other organization (helpdesk from supplier), the ownership of application server can be determined to lie with the supplier giving the responsibility for the machine with them. 
+:*''Determine requirements of service control approach''
+::Choices are made in what degree the customer organization want to have control over the delivery of ongoing services. 
+::E.g.: The required hours of availability of the helpdesk service are determined and set within a Service Level Agreement over which the customer organization can take control.
+----
+
+= Decision points planning=
+Based upon all the previous activities, the decision points planning is made. This is a time-set planning of decision points.
+
+Decision point
+;A decision point 
+:A decision point is a set point in time where the customer, with or without the supplier, makes a decision about the services and the deliverables bound to the services.
+A decision point is described by:
+:*The deliverables serving as the preconditions for the making of the decision
+:*The organization and time schedule
+:*The costs involved with the decision point
+:*The roles involved with the decision
+:*The purpose of the decision
+
+An example of a decision point planning for a product software implementationAn example of a decision points planning can be found through the thumbnail on the right. In this planning the decisions points are planned through time (top to bottom, left to right). This planning was taken from a study to make ISPL more specific for product software implementations. The decision points planning is thus aimed at a part of the process of a software implementation.
+
+A shortened example of a decision point description can be found in the image below. This description was taken from the same study to make ISPL more specific for product software implementations.
+A short decision point description for a product software implementation
+
+= Acquisition organization=
+The acquisition organization is set, which is similar to a project organization.Although the acquisition organization is more focused on the (legal) relationship that it has to maintain with the supplier organization.
+
+;Contract authority
+:Person with the authority to resolve issues with(in) a contract
+
+;Service authority
+:Person with the authority to resolve issues with a (delivered) service
+
+;Legal advisor
+:Person or group that, based on their expertise and abilities, can aid the authorities within the acquisition to form and founded opinion on legal matters.
+
+;Financial advisor
+:Person or group that, based on their expertise and abilities, can aid the authorities within the acquisition to form a founded opinion on financial matters.
+
+;Technological advisor
+:Person or group that, based on their expertise and abilities, can aid the authorities within the acquisition to form a founded opinion on technological matters.
+
+----
+
+External links
+External literature links:
+* (ISPL1) ISPL Consortium (1999). Managing Acquisition Processes.Den Haag (NL): Ten Hagen Stam
+* (ISPL2) ISPL Consortium (1999). Managing Risks and Planning Deliveries.Den Haag (NL): Ten Hagen Stam
+* (ISPL3) ISPL Consortium (1999). Specifying Deliverables. Den Haag (NL): Ten Hagen Stam
+* (ISPL4) ISPL Consortium (1999). Dictionary. Den Haag (NL): Ten Hagen Stam
+* (Verhoef) = Verhoef, D., Kermmerling, G., van der Meulen, E. &amp; Schutte, H. (2004). IT Services Procurement, een introcutie op basis van ISPL. Zaltbommel (NL), van Haren publishing
+
+External web-links:
+*[http://www.ispg.com]
+*[http://projekte.fast.de/ISPL/]
+*[http://en.wikipedia.org/wiki/ISPL]
+*[http://www.ispl.org www.ispl.org: An ISPL webtool}
+
+Category:Business terms

@@ -1,0 +1,239 @@
+{{Infobox_State_of_Origin_series
+ | year = 2005
+ | image = 2006_State_of_Origin_logo.PNG
+ | count = 12th
+ | imagesize = 150px
+ | caption = Logo of the [[ Rugby League State of Origin | State of Origin]] series
+ | winners = [[Image:NewSouthWalescolours.png|16px]] [[New South Wales rugby league team|New South Wales]]
+ | margin = 2-1
+ | points = 140
+ | attendance = 187309
+ | top points scorer =  [[Image:Queensland_colours.svg|16px]] [[Cameron Smith]] (18 points)
+ | top try scorer =   [[Image:Queensland_colours.svg|16px]] [[Matt Bowen]]  [[Image:NewSouthWalescolours.png|16px]] [[Matt King]] (3 tries)
+}}
+'''The 2005 [[Rugby League State of Origin|State of Origin]] series''' was the 26th annual Australian interstate representative series between [[New_South_Wales_state_rugby_league_team|New South Wales]] and [[Queensland_state_rugby_league_team|Queensland]]. The three matches drew a total attendance of 187,309. New South Wales won the series 2-1, their third consecutive series victory. 
+
+The [[Wally Lewis]] Medal for Player of the series was awarded to [[Anthony Minichiello]]. The [[Ron McAuliffe]] Medal for Queensland player of the series was awarded to [[Cameron Smith]]. The [[Brad Fittler]] Medal for New South Wales player of the series was awarded to [[Matt King]].
+
+__TOC__ 
+<br style="clear:both;" />
+==Games==
+===Game One===
+{{rugbyleaguebox |
+bg = #eeeeee |
+date = [[May 25]], [[2005]] |
+team1 = [[Image:Queenslandcolours.png|16px]] [[Queensland State of Origin Team|Queensland]] |
+score = 24&ndash;20 |
+report = [http://news.bbc.co.uk/sport2/hi/rugby_league/international_and_australian/4579137.stm (Report)] |
+team2 = [[Image:NewSouthWalescolours.png|16px]] [[New South Wales rugby league team|New South Wales]] |
+points1 = [[Cameron Smith]] ('''10''' - 5g)<br>[[Matt Bowen]] ('''4''' - 1t)<br>[[Michael Crocker]] ('''4''' - 1t)<br>[[Ty Williams]] ('''4''' - 1t)<br>[[Darren Lockyer]] ('''1''' - 1fg)<br>[[Johnathan Thurston]] ('''1''' - 1fg) |
+points2 = ('''4''' - 1t) [[Danny Buderus]]<br>('''4''' - 1t) [[Craig Fitzgibbon]]<br>('''4''' - 2g) [[Mark Gasnier]]<br> ('''4''' - 1t)[[Ben Kennedy]]<br> ('''4''' - 1t) [[Luke Rooney]] |
+stadium = [[Suncorp Stadium]], [[Brisbane]] |
+attendance = 52,484 |
+referee= Paul Simpkins |
+manofmatch= [[Steve Price]] }}
+
+After fifty minutes, Queensland had raced away to a 19-0 lead. However New South Wales, under new coach [[Ricky Stuart]] made a strong comeback, bringing the score to 20-19 in their favour. A field goal from [[Johnathan Thurston]] saw the game go into Golden Point extra time. [[Brett Kimmorley]], playing halfback in place of an injured [[Andrew Johns]] threw a pass intended for [[Matt King]], but was instead intercepted by [[Matt Bowen]], who snatched a 24-20 victory for the Maroons.
+<br/>
+
+===Game Two=== 
+{{rugbyleaguebox |
+bg = #eeeeee |
+date = [[June 15]], [[2005]] |
+team1 = [[Image:NewSouthWalescolours.png|16px]] [[New South Wales rugby league team|New South Wales]] |
+score = 32&ndash;22 |
+report = [http://news.bbc.co.uk/sport2/hi/rugby_league/international_and_australian/4095478.stm (Report)] |
+team2 = [[Image:Queenslandcolours.png|16px]] [[Queensland State of Origin Team|Queensland]] |
+points1 = [[Anthony Minichiello]] ('''8''' - 2t)<br>[[Craig Fitzgibbon]] ('''6''' - 3g)<br>[[Andrew Johns]] ('''6''' - 3g)<br>[[Danny Buderus]] ('''4''' - 1t)<br>[[Matt Cooper (rugby league footballer)|Matt Cooper]] ('''4''' - 1t)<br>[[Steven Menzies]] ('''4''' - 1t) |
+points2 = ('''6''' - 3g) [[Cameron Smith]]<br> ('''4''' - 1t)[[Matt Bowen]]<br>('''4''' - 1t) [[Petero Civoniceva]]<br>('''4''' - 1t) [[Billy Slater]]<br>('''4''' - 1t) [[Brad Thorn]] |
+stadium = [[Telstra Stadium]], [[Sydney]] |
+attendance = 82,389 |
+referee= Steven Clark |
+manofmatch= [[Andrew Johns]] }}
+<br/>
+Andrew Johns made his comeback for Game II with a man-of-the-match performance after making made his [[National Rugby League|NRL]] reappearance from injury just ten days earlier.
+
+===Game Three=== 
+{{rugbyleaguebox |
+bg = #eeeeee |
+date = [[July 5]], [[2005]] |
+team1 = [[Image:Queenslandcolours.png|16px]] [[Queensland State of Origin Team|Queensland]] |
+score = 10&ndash;32 |
+report = [http://news.bbc.co.uk/sport2/hi/rugby_league/international_and_australian/4653353.stm (Report)] |
+team2 = [[Image:NewSouthWalescolours.png|16px]] [[New South Wales rugby league team|New South Wales]] |
+points1 = [[Matt Bowen]] ('''4''' - 1t)<br>[[Johnathan Thurston]] ('''4''' - 1t)<br>[[Cameron Smith]] ('''2''' - 1g) |
+points2 = ('''12''' - 3t) [[Matt King]]<br>('''6''' - 3g) [[Andrew Johns]]<br>('''4''' - 1t) [[Braith Anasta]]<br>('''4''' - 1t) [[Mark Gasnier]]<br>('''4''' - 1t)[[Timana Tahu]]<br>('''2''' - 1t) [[Craig Fitzgibbon]] |
+stadium = [[Suncorp Stadium]], [[Brisbane]] |
+attendance = 52,436 |
+referee= Paul Simpkins |
+manofmatch= [[Anthony Minichiello]] }}
+
+The crowd of 52,596 people at Suncorp Stadium for Game III was a record for the gound at the time. After an hour New South Wales had raced away to a 32-0 lead and late tries to Queensland proved too little too late.
+
+
+
+==Teams==
+===New South Wales===
+
+{| class="wikitable"
+!width="125"|Position
+!width="125"|Game 1
+!width="25" |
+!width="125"|Game 2
+!width="25" |
+!width="125"|Game 3 
+!width="25" |
+ 
+|-
+! Fullback
+| colspan="6" | [[Image:Eastern_Suburbs_colours.png|16px]] [[Anthony Minichello]]
+|-
+! Wing
+| colspan="6" | [[Image:Melbourne_colours.png|16px]] [[Matt King]]
+|-
+! Centre
+| colspan="6" | [[Image:St._George_Illawarra_colours.svg|16px]] [[Mark Gasnier]]
+|-
+! Centre
+| colspan="6" | [[Image:St._George_Illawarra_colours.svg|16px]] [[Matt Cooper (rugby league footballer)|Matt Cooper]]
+|-
+! Wing
+| colspan="4" | [[Image:Penrith_colours.png|16px]] [[Luke Rooney]]
+| colspan="2" | [[Image:Parramatta_colours.png|16px]] [[Timana Tahu]]
+|-
+! Five-Eighth
+| colspan="2" | [[Image:St._George_Illawarra_colours.svg|16px]] [[Trent Barrett]]
+| colspan="4" | [[Image:Canterbury_colours.png|16px]] [[Braith Anasta]]
+|-
+! Halfback
+| colspan="2" | [[Image:Cronulla_colours.png|16px]] [[Brett Kimmorley]]
+| colspan="4" | [[Image:Newcastle_colours.png|16px]] [[Andrew Johns]]
+|-
+! Prop
+| colspan="2" | [[Image:St._George_Illawarra_colours.svg|16px]] [[Luke Bailey (rugby league)|Luke Bailey]]
+| colspan="2" | [[Image:Newcastle_colours.png|16px]] [[Steve Simpson (rugby league footballer)|Steve Simpson]]
+| colspan="2" | [[Image:St._George_Illawarra_colours.svg|16px]] [[Luke Bailey (rugby league)|Luke Bailey]]
+|-
+! Hooker
+| colspan="6" | [[Image:Newcastle_colours.png|16px]] [[Danny Buderus]] (c)
+|-
+! Prop
+| colspan="6" | [[Image:St._George_Illawarra_colours.svg|16px]] [[Jason Ryles]]
+|-
+! Second Row
+| colspan="6" | [[Image:Parramatta_colours.png|16px]] [[Nathan Hindmarsh]]
+|-
+! Second Row
+| colspan="6" | [[Image:Eastern_Suburbs_colours.png|16px]] [[Craig Fitzgibbon]]
+|-
+! Lock
+| colspan="6" | [[Image:Manly_colours.png|16px]] [[Ben Kennedy]]
+|-
+! Interchange
+| colspan="4" | [[Image:Eastern_Suburbs_colours.png|16px]] [[Craig Wing]]
+| colspan="2" | [[Image:Penrith_colours.png|16px]] [[Craig Gower]]
+|-
+! Interchange
+| colspan="2" | [[Image:Newcastle_colours.png|16px]] [[Steve Simpson (rugby league footballer)|Steve Simpson]]
+| colspan="4" | [[Image:Manly_colours.png|16px]] [[Steve Menzies]]
+|-
+! Interchange
+| colspan="2" | [[Image:Manly_colours.png|16px]] [[Anthony Watmough]]
+| colspan="2" | [[Image:St._George_Illawarra_colours.svg|16px]] [[Luke Bailey (rugby league)|Luke Bailey]]
+| colspan="2" | [[Image:Newcastle_colours.png|16px]] [[Steve Simpson (rugby league footballer)|Steve Simpson]]
+|-
+! Interchange
+| colspan="6" | [[Image:Canterbury_colours.png|16px]] [[Andrew Ryan]]
+|-
+! Coach
+| colspan="6" | [[Image:Eastern_Suburbs_colours.png|16px]] [[Ricky Stuart]]
+|-
+|}
+
+===Queensland===
+{| class="wikitable"
+!width="125"|Position
+!width="125"|Game 1
+!width="25" |
+!width="125"|Game 2
+!width="25" |
+!width="125"|Game 3 
+!width="25" |
+|-
+! Fullback
+| colspan="4" | [[Image:Melbourne_colours.svg|16px]] [[Billy Slater]]
+| colspan="2" | [[Image:North_Queensland_colours.svg|16px]] [[Matt Bowen]]
+|-
+! Wing
+| colspan="6" | [[Image:North_Queensland_colours.svg|16px]] [[Ty Williams]]
+|-
+! Centre
+| colspan="6" | [[Image:Brisbane_colours.svg|16px]] [[Shaun Berrigan]]
+|-
+! Centre
+| colspan="6" | [[Image:North_Queensland_colours.svg|16px]] [[Paul Bowman (rugby league)|Paul Bowman]]
+|-
+! Wing
+| colspan="6" | [[Image:North_Queensland_colours.svg|16px]] [[Matt Sing]]
+|-
+! Five-Eighth
+| colspan="6" | [[Image:Brisbane_colours.svg|16px]] [[Darren Lockyer]] (c)
+|-
+! Halfback
+| colspan="6" | [[Image:North_Queensland_colours.svg|16px]] [[Johnathan Thurston]]
+|-
+! Prop
+| colspan="2" | {{leagueicon|New Zealand Warriors|size=16}} [[Steve Price]]
+| colspan="2" | [[Image:Brisbane_colours.svg|16px]] [[Brad Thorn]]
+| colspan="2" | [[Image:Eastern_Suburbs_colours.svg|16px]] [[Danny Nutley]]
+|-
+! Hooker
+| colspan="6" | [[Image:Melbourne_colours.svg|16px]] [[Cameron Smith]] 
+|-
+! Prop
+| colspan="6" | [[Image:Brisbane_colours.svg|16px]] [[Petero Civoniceva]]
+|-
+! Second Row
+| colspan="6" | [[Image:Eastern_Suburbs_colours.svg|16px]] [[Michael Crocker]]
+|-
+! Second Row
+| colspan="2" | [[Image:Brisbane_colours.svg|16px]] [[Brad Thorn]]
+| colspan="2" | [[Image:North_Queensland_colours.svg|16px]] [[Carl Webb]]
+| colspan="2" | [[Image:Brisbane_colours.svg|16px]] [[Brad Thorn]]
+|-
+! Lock
+| colspan="6" | [[Image:Eastern_Suburbs_colours.svg|16px]] [[Chris Flannery]]
+|-
+! Interchange
+| colspan="6" | {{leagueicon|Penrith|size=16}} [[Ben Ross]]
+|-
+! Interchange
+| colspan="2" | [[Image:North_Queensland_colours.svg|16px]] [[Carl Webb]]
+| colspan="2" | [[Image:Brisbane_colours.svg|16px]] [[Dane Carlaw]]
+| colspan="2" | [[Image:Brisbane_colours.svg|16px]] [[Corey Parker (rugby league)|Corey Parker]]
+|-
+! Interchange
+| colspan="4" | [[Image:Brisbane_colours.svg|16px]] [[Casey McGuire]]
+| colspan="2" | {{leagueicon|South Sydney|size=16}} [[Ashley Harrison]]
+|-
+! Interchange
+| colspan="4" | [[Image:North_Queensland_colours.svg|16px]] [[Matt Bowen]]
+| colspan="2" | [[Image:Brisbane_colours.svg|16px]] [[Tonie Carroll]]
+|-
+! Coach
+| colspan="6" | [[Image:Newcastle_colours.png|16px]] [[Michael Hagan]]
+|-
+|}
+
+==See also==
+*[[Rugby League State of Origin]]
+*[[National Rugby League season 2005]]
+
+==Footnotes==
+{{reflist}}
+
+{{StateofOrigin}}
+
+[[Category:2005 in rugby league|State]]
+[[Category:Rugby League State of Origin]]
+[[Category:2005 in Australia|State of Origin]]

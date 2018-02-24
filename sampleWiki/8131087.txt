@@ -1,0 +1,52 @@
+{{Football player infobox |
+  playername = Antonio Ribeiro |
+  image    = |
+  fullname = Antonio Ribeiro |
+  nickname =   |
+  height = {{height|ft=5|in=9}} |
+  dateofbirth = {{birth date and age|1980|10|8}} |
+  cityofbirth = [[Montreal]], [[Quebec]] |
+  countryofbirth = [[Canada]] |
+  currentclub  = [[Montreal Impact]] |
+  clubnumber = 23 |
+  position = [[Midfielder (soccer)|Midfield]]|
+  youthyears = |
+  youthclubs =  |
+  years = 2000&ndash;2001<br>2002<br>2003&ndash;present |
+  clubs = [[Montreal Impact]]<br>[[Panellinios]]<br>Montreal Impact |
+  caps(goals) = 12 (0)<br><br>86 (9) |
+  nationalyears = 2007&ndash; |
+  nationalteam = [[Canada national soccer team|Canada]] |
+  nationalcaps(goals) = 1 (0) |
+  pcupdate = August 12, 2006 |
+  ntupdate = June 5, 2006 |
+}}
+{{for|the Portuguese cardinal|António Ribeiro}}
+'''Antonio Ribeiro''' (born [[October 8]], [[1980]] in [[Montreal]], [[Quebec]], [[Canada]]) is a Canadian [[football (soccer)|soccer]] player, currently playing for the [[Montreal Impact]].  
+
+Antonio began his soccer career with the [[Montreal Impact]] in 2000, but didn't play a major role with the Impact that year. In 2002 he was released by the Impact and signed with [[Panellinios]] winning the Canadian national championship title at the senior amateur level in 2002. 
+
+In 2004 he returned to the Impact and helped the team win the League Championship as well the [[Voyageurs Cup]]. In 2005 he scored the winning goal against the [[Vancouver Whitecaps (USL)|Vancouver Whitecaps]] to clinch the Regular-Season Title for the Impact. He also helped impact to a 15-game undefeated streak a league record. 
+
+In 2006 he had his best season yet offensively with the Impact, scoring three goals and three assists for a total of nine points. Played his 80th career game with the Impact on August 4 at Virginia Beach, giving him sole possession of 15th place in club history in that respect, ahead of [[Rudy Doliscat]]. He helped the impact win the Regular-Season Title for the third straight year as well helped the team win the Voyageurs Cup. Though the Impact failed to capture the League Championship for the second straight year. 
+Got his first international cap for Canada as he appeared for the first time on the Canadian National mens team against Venezuela in a friendly match this June.
+
+==References==
+<references/>
+*[http://www.impactmontreal.com/Team/Player.aspx?language=EN&PlayerID=57 Antonio Ribeiro profile on Montreal Impact]
+
+
+
+{{Montreal Impact squad}}
+
+{{DEFAULTSORT:Ribeiro, Antonio}}
+[[Category:1980 births]]
+[[Category:Canadian men's international soccer players]]
+[[Category:Canadian soccer players]]
+[[Category:Living people]]
+[[Category:Montreal Impact players]]
+[[Category:People from Montreal]]
+[[Category:Portuguese Canadians]]
+[[Category:USL First Division players]]
+
+[[fr:Antonio Ribeiro]]

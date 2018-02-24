@@ -1,0 +1,92 @@
+{{Unreferenced|date=December 2007}}
+
+In [[Japan]], the ''[[Mega Man (series)|Mega Man]]'' series is known as ''Rockman''.  This refers to [[rock music]], and is one of many musical puns in the series.  Possible confusion over the name (i.e. believing it meant [[rock (geology)|stone]]) is the main reason cited for the name change upon English release; many character name changes followed suit.
+
+Japanese names are listed first.  [[English language|English]] names are listed second, if they differ.
+
+==Main characters==
+===Mega Man===
+{{main|Mega Man (character)}}
+Mega Man is hero of the games, created by Dr. Light.  Originally created as a lab assistant named "Rock", he was modified for battle after Dr. Wily reprogrammed the original [[Robot Master]]s.  Due to his Variable Weapons System, he can copy the weapon of any Robot Master he defeats in combat and use it as his own.
+
+===Dr. Light===
+'''Dr. Thomas Light''' is depicted as an aged scientist, who is a peerless [[roboticist]] and winner of the [[Nobel prize]].  He is the creator of protagonist [[Mega Man (character)|Mega Man]], several other [[robot]]s, and ultimately [[Mega Man X (character)|X]], whose design revolutionizes the world.  While a [[pacifism|pacifist]], he reluctantly recognizes that the use of force can be a necessity.  He plays a supporting role, often developing and distributing new gear.  In the ''Mega Man X'' series, Dr. Light resumes his supporting role through enhancement capsules that contain upgrades to X's systems together with messages relayed by silver, slightly translucent [[holography|holographic]] projections. 
+
+Dr. Light graduates from Robert University's engineering department, where he meets his colleague Dr. Albert Wily.  He soon creates Proto man, Mega Man, Roll and the several other robots.  While his robots are masterworks, they are still [[automaton|automata]], programmable tools.  The last creation of the aging doctor is Mega Man X, the first robot capable of genuinely independent thought and decisions.  Fearful of what might happen should X go wrong, Dr. Light seals him for extensive diagnostics, knowing that they will exceed his own remaining lifespan.  When X is found roughly a century later, his design is used as a basis for the [[reploid]] race of machine life.
+
+Dr. Light's name is a play for [[Thomas Edison]], the scientist who invented the [[lightbulb]], which is the basis of his last name.
+
+===Dr. Wily===
+'''Doctor Albert W. Wily''' is the prime [[antagonist]] of the original ''[[Mega Man (original series)|Mega Man]]'' series of [[video game]]s.  His goal is usually [[world domination]] and he constructs [[robot]]s to carry out his plans.  As the rival of Doctor Light, he constantly tries to defeat him and Mega Man by stealing his ideas and designs, and working them into his own robots.  In various games, Wily disguises his intentions by blackmailing Russian scientist [[Dr. Cossack]], framing Proto Man, impersonating a tournament sponsor, having an [[extraterrestrial life|alien]] attempt to conquer the world, or making cover with a fake invasion leader robot.
+
+After failing this plan several times, Wily builds a new robot based on Mega Man in ''Mega Man 7'': [[Bass (character)|Bass]].  As powerful as Mega Man, Bass confronts the former several times, only to lose each time.  Wily is also responsible for creating [[Zero (Mega Man)|Zero]], one of the main protagonists of the ''[[Mega Man X series|Mega Man X]]'' series, and the main character of the ''[[Mega Man Zero series|Mega Man Zero]]'' series.  Wily recognizes that Bass is too unstable and difficult to control, so he decides to build Zero using the most powerful energy in the world.  This energy, Bassnium, is first used to create Bass, and is refined even more for Zero.<ref>{{cite video game|title=''[[Mega Man 2: The Power Fighters]]'' |developer=Capcom |publisher=Capcom |date=1996 |platform=[[Arcade game]]}}</ref>  Though Wily makes no concrete appearance in the ''Mega Man X series'', he is still linked with many of the events occurring, most notably the creation of Zero and the Maverick Virus.
+
+===Proto Man===
+'''Proto Man''' (Blues) is the early prototype of [[Mega Man]] that made his first appearance in ''[[Mega Man 3]]'', under the name of Break Man to help train Mega Man by fighting him.  Beyond their armor and personality, Proto Man and Mega Man are supposedly completely identical.  At the end of ''[[Mega Man 2: The Power Fighters]]'', it is revealed by [[Dr. Light]] that Proto Man's body has a fatal defect in his energy system, and as a result, is in great pain and has a more limited lifespan.
+
+As Proto Man's design is similar to Mega Man's, he has similar capabilities, with his primary weapon being an arm cannon.  In his playable appearances, it has been shown to have heavier firepower than the Mega Buster, firing large, orange rounds.  He also is able to produce a larger variety of charged shots than Mega Man as well the "Big-Bang Blast", a large concentration of Proto Man's remaining energy so powerful that it can damage Proto Man's body.  He has also been shown to have the same weapon-copying powers as Mega Man, with his body changing color in a similar fashion depending on the weapon acquired.  His signature ability, the Proto Shield, however, is not shared with his brother (the only exception being an optional series of events in ''Mega Man 7'').  This portable, solid shield can deflect projectile attacks.
+
+===Bass===
+{{nihongo|'''Bass'''|フォルテ|Forute|Forte}} is a robot designed by Dr. Wily.  He was constructed based on research conducted on Mega Man with the intention of matching his power.  Wily makes mention of discovering the energy that powers Bass, Bassnium, the most powerful form of energy on Earth, entirely by mistake.  Despite being created by Wily, Bass frequently rebels against his creator when he feels Wily is standing between him and defeating Mega Man.
+
+Bass's weapon is the powerful Bass Buster, which originally functioned similarly to the Mega Buster, albeit with slightly different shots.  As of ''[[Mega Man & Bass]]'', however, the Bass Buster has lost its ability to charge its shots in favor of a drastically increased rate of fire, as well as the capacity for upgrades that may make the shots stronger or pierce walls. Like Mega Man and Proto Man, Bass can also copy the weapons of Robot Masters, his body changing color to reflect the weapon currently equipped.  He can also combine with Treble, allowing Bass to take flight and shoot more powerful projectiles from his buster.
+
+==Supporting characters==
+===Auto===
+'''Auto''' was created by Dr. Light as a lab assistant, due to Rock being unable to fulfill that role after his adoption of the [[superhero]] identity "Mega Man".  He provides Mega Man with many useful upgrades and parts.  In ''[[Mega Man 8]]'', Auto assists Mega Man in the Rush Jet scenes, using a rocket launcher as well as a propeller in his head that allows him to fly.
+
+===Beat===
+'''Beat''' is a robotic bird that has appeared continuously in many Mega Man games.  He was created by both Dr. Cossack and Dr. Light to provide additional support to Mega Man during the events of ''Mega Man 5''.  Beat homes in on enemies, providing damage by physical contact.  In ''Mega Man 7'', he rescues Mega Man from pits and in ''Mega Man 8'', assists Mega Man during the Rush Jet scenes.  He also provides Mega Man with an energy barrier in ''[[Mega Man & Bass]]''.
+
+===Bio-Devil===
+The '''Bio Devil''' is a mechaniloid first created by Dr. Wily.  Other versions appear in the various series of the ''Mega Man'' [[metaseries]].  All of the devils consist of a ball-shaped body with over-proportionate hands and feet.  At the center of the body is a single, mechanical eye.  This eye is what keeps the devil together and is also its one and only weakness.  Each utilizes its malleable body substance and brute strength to lash out at intruders.  Each version has a different name, including the ''Yellow Devil'', ''Green Devil'', ''Shadow Devil'', ''Rainbow Devil'', and ''Lava Devil''.
+
+===Dr. Cossack===
+'''Dr. Mikhail Sergeyevich Cossack''' is a [[Russia]]n colleague of Dr. Light.  He only appeared in ''Mega Man 4'' as the game's main adversary; however, it turns out he was being [[blackmail]]ed, as Wily had kidnapped his daughter Kalinka.  When Kalinka was rescued by Proto Man and the truth was revealed, Dr. Cossack turned on Wily and joined Mega Man's side.  He is the inventor of Beat and the Super Mega Buster, as well as numerous industrial and military robots.
+
+===Duo===
+'''Duo''' is a [[robot]] made on an alien planet, designed to eradicate "Evil Energy".  Duo was formally introduced in ''[[Mega Man 8]]'', chasing the adult stage of evil energy in its final form.  After crashing to Earth, he is repaired by Dr. Light, and soon becomes an ally of Mega Man.  After finally defeating the evil energy on Earth, he thanks Mega Man and leaves Earth to resume his search.  He later appears in ''[[Mega Man 2: The Power Fighters]]'', which was actually released before ''Mega Man 8'', ''[[Mega Man Battle & Chase]]'', and ''[[Rockman Strategy]]''.
+
+The bulk of Duo's offensive abilities are attributed to his powerful left arm, with a fist nearly as large as his own torso, and his large spiked body.  He attacks primarily by punching, though he is capable of using projectile weapons, the most powerful of which is a blast in the shape of his own hand.  He also appears to have the same weapon copying abilities displayed by Mega Man and Proto Man, and like them his body changes color in accordance with the weapon he has equipped.  Also, having been created for the purpose of destroying evil energy, he seems to have the unique ability to purge said energy from an infected victim's body, as demonstrated when saving Mega Man.
+
+===Eddie===
+'''Eddie "Flip Top"''' was created by Dr. Light as a "walking suitcase", he is usually sent to help Mega Man by providing recovery items during the game.  He is also able to fire bombs out of his head while assisting Mega Man in the Rush Jet sections of ''Mega Man 8''.  Eddie first appeared in ''[[Mega Man 4]]''.
+
+===Mega Man Killers===
+The '''Mega Man Killers''' are a series of robots appearing in the [[Game Boy]] series.  The Mega Man Killers are robots created by [[Dr. Wily]] to destroy [[Mega Man (character)|Mega Man]], who in turn defeats each of them and foils Wily's latest plot.  All three reappear as bosses in ''[[Mega Man V (Game Boy)|Mega Man V]]''.
+
+*'''Enker''' is the Mega Man Killer of ''[[Mega Man in Dr. Wily's Revenge]]''.  He wields a javelin, but his main attack is his "Mirror Buster", which allows him to absorb Mega Man's buster shots and fire them back through his javelin, though by doing this, he damages himself.  In addition to the later group appearances, Enker also appears in ''[[Wily and Right's RockBoard: That's Paradise]]'' and as the first fortress boss in ''[[Mega Man Soccer]]''.
+
+*'''Punk''' is the Rockman Killer of ''[[Mega Man III (Game Boy)|Mega Man III]]''.  He is armed with the "Screw Crusher", a weapon that flings blades at [[Mega Man (character)|Mega Man]], but he can also hurl himself bodily to strike with his embedded blades.  Punk (under the name '''Punk.EXE''') also appears as a [[NetNavi]] in ''[[Mega Man Battle Network 3]]''.
+
+*'''Ballade''' is the Mega Man Killer of ''[[Mega Man IV (Game Boy)|Mega Man IV]]''.  His weapon is the "Ballade Cracker", which can lay immobile timed mines or fire smaller explosives from the tops of his arms.  Ballade, after being defeated, seems to turn against Dr. Wily, and self-destructs to destroy a wall obstructing Mega Man's progress.
+
+===Met===
+The '''Met''' (short for the '''Metall,''' '''Metool,''' and '''Mettaur''' variants of the name) is a flagship enemy of the series.  Appearing in nearly every game, the average Met is a tiny construction [[robot]] wearing a disproportionately-sized [[hard hat]] with a "plus" sign marked on it.  Mets usually wait below their helmet before attacking, as it is [[Wikt:impervious|impervious]] to nearly all of [[Mega Man (character)|Mega Man]]'s weapons.  They appear in the various series of the ''Mega Man'' [[metaseries]], with many different variations and forms. A reoccurion joke within the megaman fan community concerns how Dr. Wily has the knowledge to create the impervious alloy used in the "hard hats" but fails to use them in his robot masters. However in reality it would make the games impossible to complete(as each and every boss is invincible).
+
+===Quint===
+'''Quint''' is a recurring antagonist in the ''[[Mega Man (series)|Mega Man]]'' game series.  He is a villain of ''[[Mega Man II (Game Boy)|Mega Man II]]'' and ''[[Mega Man V (Game Boy)|Mega Man V]]'' for the [[Game Boy]].  He later makes minor appearances in ''[[Mega Man & Bass]]'' and ''[[Rockman & Forte: Challenger from the Future]]''.  He is armed with a [[jackhammer]]/[[pogo-stick]] weapon, called the Sakugarne.  He is created after [[Dr. Wily]] travels to the future and kidnaps [[Mega Man (character)|Mega Man]].  He reprograms his captive and brings him back to the present, in the hopes that the reprogrammed Mega Man, now going by the name "Quint", can defeat his past self.  It is possible that this time loop explains what happened to Mega Man prior to the X Series.
+
+===Reggae===
+'''Reggae''' is a robotic bird who is the pet of Dr. Wily.  He is featured in an [[anime]] featured only in Japan.  He was featured in [[Wily & Right no RockBoard: That's Paradise]] (Or RockBoard for short).  Its only known cameo outside of Japan is in [[Mega Man 7]], in which if you type in an incorrect password at the pass word screen, it shows an image of Reggae.<ref>[http://www.interordi.com/mega_man_pc/truth_corner.php#reggae Mega Man PC Website: Dr. Cossack's Lab]</ref>
+
+===Roll===
+{{nihongo|'''Roll'''|ロール|Rooru}} is a female robot designed for housekeeping instead of fighting.  She's the younger counterpart of [[Mega Man (character)|Mega Man]], and plays a supporting role in the games.  Roll first appears very briefly during the ending of the very first game of the series.  Because so, her name was never mentioned until ''[[Mega Man 3]]'', where her entry in Dr. Light's robot list is shown during the ending.
+
+While she was not designed for fighting, she is a combatant in the [[fighting games]], ''[[Marvel vs. Capcom series|Marvel vs. Capcom]]'' and ''[[Marvel vs. Capcom series|Marvel vs. Capcom 2]]''.  In those games, she proves that she has about the same fighting qualities of Mega Man, only much weaker and softer.  In those games, she possessed an external "Roll Buster".  She is also a playable character in ''[[Mega Man Powered Up]]'', the ''[[Mega Man (video game)|Mega Man]]'' [[remake]], as a different sort of "joke character", where she uses a [[broom]] as a default weapon with her skill, the Roll Swing, which she uses to swing a close range weapon.  Roll can be played in several unlockable outfits, each with its own variation of the broom weapon.
+
+===Rush===
+'''Rush''' is a robotic dog belonging to [[Mega Man (character)|Mega Man]].  He was introduced in ''[[Mega Man 3]]'', and has appeared in many games since.  Created by [[Dr. Light]] and [[Dr. Wily]] to be an all around support unit, Rush has the ability to transform into at least two different forms; Rush Marine and Rush Jet.  As Rush Marine, Rush becomes a small, one-seated [[submarine]] while Rush Jet transforms his legs into [[jet engines]] that let him take flight.  Rush also has the Rush Coil, which is a spring that pops out of his back and helps Mega Man reach higher platforms that he normally couldn't.  Other games have him transform into a motorcycle and a drill car.  In later games, he can attach himself to Mega Man and make a Jet Adapter, which lets Mega Man perform a [[double jump]], a Power Adapter, which lets Mega Man fire a very strong Mega Buster blast, and a Super Adapter, which is a somewhat fusion of the previous two, allowing Mega Man to double jump as well as launch his arm like a projectile (similar to the "Mega Arm" of ''[[Mega Man V (Game Boy)|Mega Man V]]'').
+
+===Tango===
+'''Tango''' is a robotic cat and one of Mega Man's more useful allies. Tango can change itself into a buzzsaw and dive into enemies.  Tango only appears in ''[[Mega Man V (Game Boy)|Mega Man V]]'' for the ([[Nintendo Game Boy|Game Boy]]).
+
+===Treble===
+'''Treble''' is Bass' equivalent to Mega Man's dog, Rush, Treble is Bass' robot wolf, or lion depending on the source.  Like Rush, Treble can assume a jet-like form (as seen in ''Mega Man 8'') and fly.  After Bass stole designs for the Rush Adapter during the events of ''[[Mega Man 7]]'', Treble has been able to transform into an armored suit for Bass, the "Treble Boost" (although it is called "Gospel Boost" in ''[[Mega Man & Bass]]'', named after Treble's Japanese name for unknown reasons).  This gives Bass limited flight capability and increased firepower.
+
+==References==
+{{reflist|2}}
+
+{{megamanclassic}}
+
+[[Category:Lists of Mega Man characters|Mega Man]]

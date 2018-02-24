@@ -1,0 +1,484 @@
+{{otheruses|Goldeneye (disambiguation)}}
+{{Infobox_Film_Bond | name = GoldenEye
+| image = 007GEposter.jpg
+| caption = Promotional poster for ''GoldenEye''
+| bond = [[Pierce Brosnan]]
+| stars = [[Sean Bean]]<br>[[Izabella Scorupco]]<br>[[Famke Janssen]] <br> [[Gottfried John]]
+| writer = [[Michael France]]
+| screenplay = Jeffrey Caine<br>[[Bruce Feirstein]]
+| director = [[Martin Campbell]]
+| producer = [[Barbara Broccoli]]<br>Tom Pevsner<br>[[Anthony Waye]]<br>[[Michael G. Wilson]]
+| cinematography = [[Phil Meheux]]
+| music = [[Éric Serra]]
+| main theme = [[GoldenEye (song)|GoldenEye]]
+| composer = [[Bono]] <br /> [[The Edge]]
+| performer = [[Tina Turner]]
+| distributor = [[MGM/UA Distribution Co.]]
+| released = [[November 17]], [[1995 in film|1995]]
+| runtime = 130 min
+| preceded_by = [[Licence To Kill]] (1989)
+| followed_by = [[Tomorrow Never Dies]] (1997)
+| budget =
+| worldgross = [[United States dollar|$]]350.7 million
+| admissions =
+| imdb_id =
+}}
+
+'''''GoldenEye''''', released in [[1995 in film|1995]], is the seventeenth [[spy film]] of the [[Cinema of the United Kingdom|British]] [[James Bond]] [[James Bond (films)|series]], and the first to star [[Pierce Brosnan]] as the [[fictional character|fictional]] [[Secret Intelligence Service|MI6]] agent [[James Bond (character)|James Bond]]. Unlike previous James Bond films, it was not related to the works of novelist [[Ian Fleming]],<ref>{{cite web | url=http://www.bbc.co.uk/dna/h2g2/A817823 | title =The James Bond Films - 1994-2002 | date=2002-11-10 | accessdate = 2007-10-22 | work =BBC News }}</ref>  although the name "GoldenEye" was taken from his estate in [[Jamaica]]. The original story was conceived and written by [[Michael France]], with later collaboration by several other writers, and was directed by [[Martin Campbell]]. In the film, Bond fights to prevent an arms syndicate from using the GoldenEye satellite weapon against [[London]] in order to cause a global financial meltdown.
+
+''GoldenEye'' was released in 1995 after legal disputes forced a six-year hiatus in the series, during which [[Timothy Dalton]] resigned from the role of James Bond and was replaced by Pierce Brosnan. [[M (James Bond)|M]] was also recast (last played by [[Robert Brown (actor)|Robert Brown]] in ''[[Licence to Kill]]'') with actress [[Judi Dench]], becoming the first female to portray the character. ''GoldenEye'' was the first Bond film made after the downfall of the [[Soviet Union]] and the end of the [[Cold War]], which provided a background for the plot.
+
+The film was lauded by most critics and performed well at the box office, considerably better than Dalton's films, without taking inflation into account.<ref name="nos">{{cite web | url =http://www.the-numbers.com/movies/series/JamesBond.php | title =Box Office History for James Bond Movies | accessdate = 2007-10-18 | work =The Numbers | publisher= Nash Information Service }}</ref> Some critics viewed the film as a modernisation of the series, and felt Brosnan was a definite improvement over his predecessor.<ref name="QNetwork">{{cite web | title=GoldenEye | publisher=Qnetwork | url=http://www.qnetwork.com/?page=review&id=348 | accessdate=2007-04-27 |last= Kendrick|first= James}}</ref><ref name="variety">{{cite web | title=GoldenEye | publisher=[[Variety (magazine)|Variety]] | first=Todd | last=McCarthy | url=http://www.variety.com/review/VE1117904690.html?categoryid=31&cs=1 | date= [[1995-11-15]] | accessdate=2006-11-18}}</ref><ref>{{cite web | title=GoldenEye | publisher=Filmcritic.com | url=http://www.filmcritic.com/misc/emporium.nsf/ddb5490109a79f598625623d0015f1e4/9503ab99be3b464086256275001adc5a?OpenDocument | accessdate=2007-04-27 |last= Null|first= Christopher}}</ref> It also received two [[British Academy of Film and Television Arts|BAFTA]] nominations &ndash; "Best Achievement in Special Effects" and "Best Sound".<ref>{{cite web | title = Film Winners 1990-1999 PDF | publisher = BAFTA.org | url = http://www.bafta.org/site/webdav/site/myjahiasite/shared/import/Film_Winners_1990-1999.pdf | accessdate = 2007-05-25}}</ref>
+
+==Plot==
+In the prologue, [[MI6]] agents [[James Bond]] and [[Alec Trevelyan]] infiltrate an illicit [[Soviet Union|Soviet]] [[chemical weapons]] facility at [[Arkhangelsk]] and plant explosive charges. During the operation, Trevelyan is captured and shot by [[List of James Bond henchmen in GoldenEye#General_Ourumov|Colonel Arkady Ourumov]], while Bond steals an airplane and escapes the exploding facility.
+
+[[Image:GE-Bond-and-Trevelyan.jpg|thumb|left|[[Alec Trevelyan]] and [[James Bond]] infiltrate the Arkhangelsk facility]]
+
+Nine years later, Bond arrives in [[Monte Carlo]] to follow Xenia Onatopp, a suspected member of the [[Janus]] crime syndicate. The next day, she and Ourumov (now a Russian general) steal a French Tiger helicopter and fly it to a bunker in [[Severnaya]], where they massacre the staff and steal the control disk for the '''GoldenEye''' satellite weapon. The two program Goldeneye to target and destroy the complex with an [[electromagnetic pulse]], while they escape with programmer Boris Grishenko, another Janus operative. [[Natalya Simonova]], the lone survivor and witness to the massacre, later escapes from the ruins and arranges to meet Grishenko in [[St. Petersburg]], where he betrays her to Janus agents.
+
+In [[London]], [[M (James Bond)|M]] assigns Bond to investigate the attack, and he flies to St. Petersburg to meet CIA agent [[Jack Wade]], who drives him to meet [[Valentin Zukovsky#Valentin Dmitrovich Zukovsky|Valentin Zukovsky]], a local [[Russian Mafia]] head. Zukovsky arranges a meeting between Bond and Janus, who reveals himself as Trevelyan. A [[Betrayal of the Cossacks|Lienz Cossac]], Trevelyan faked his death at Archangelsk and vows revenge against Britain for their involvement in his family's death. Trevelyan captures Bond and ties him up with Simonova in the Tiger helicopter, now programmed to self-destruct, which the two narrowly escape using its ejection system. Bond and Simonova are immediately arrested by the Russian police and interrogated by the Minister of Defence, [[Dmitri Mishkin]]. Just as Simonova reveals Ourumov's involvement in the massacre at Severnaya, Ourumov bursts into the room, shooting Mishkin and dragging Simonova into a waiting car.[[Image:GE-BondandSimonovainCuba.jpg|right|thumb|[[James Bond]] and [[Natalya Simonova]] in Cuba.]] Bond steals a [[T-55]] tank and audaciously pursues Ourumov through St. Petersburg to Janus' train, where he kills Ourumov as Trevelyan escapes, locking Bond in the train with Simonova. As the train's self-destruct countdown begins, Bond slices through the floor with his laser watch while Simonova locates Grishenko's satellite dish in Cuba. The two escape just before the train explodes.
+
+In Cuba, Bond and Simonova fly a plane over the jungle before they are shot down. As they stumble out of the wreckage, Onatopp rappels down from a helicopter and attacks, knocking out Simonova and torturing an already enfeebled Bond, who resists and narrowly kills her. Minutes later, he and Simonova watch a lake being drained of its water, uncovering Grishenko's satellite dish. They infiltrate the control station, where Bond is captured by Trevelyan, who reveals his plan of stealing money from the [[Bank of England]] before destroying it with the GoldenEye, concealing the theft and destroying England's economy. 
+
+[[Image:Gold9.jpg|thumb|left|[[Xenia Onatopp]] fighting [[James Bond]] in the Cuban jungle.]]
+
+Meanwhile, an unnoticed Simonova programs the satellite to initiate [[atmospheric reentry]] and destroy itself. As Trevelyan captures Simonova and orders Grishenko to save the satellite, Bond triggers an explosion with his [[Parker Jotter]] pen grenade and escapes to the antenna cradle with Simonova, followed by Trevelyan. Bond sabotages the antenna, preventing Grishenko from regaining control of the satellite, before turning and facing Trevelyan. In the ensuing fight, Bond shoves Trevelyan off the antenna and into the dish hundreds of feet below, before escaping aboard a helicopter commandeered by Simonova. The cradle malfunctions and collapses, crushing Trevelyan and rupturing [[liquid nitrogen]] tanks in the station that freeze Grishenko to death. Meanwhile on the surface, while finding solace in each others arms, Bond and Simonova are rescued by Wade and his platoon of U.S. Marines.
+
+==Cast==
+* '''[[Pierce Brosnan]]''' as '''[[James Bond (character)|James Bond]] (007)''': An MI6 Agent assigned to stop the Janus crime syndicate from acquiring "GoldenEye", a clandestine satellite weapon designed and launched by the Soviets during the Cold War.
+* '''[[Sean Bean]]''' as '''[[Alec Trevelyan]] (006)''': Initially another double-0 Agent and Bond's friend, he fakes his death at Arkangel and then establishes Janus in the following nine years. 
+* '''[[Izabella Scorupco]]''' as '''[[Natalya Simonova]]''': The only innocent survivor and eyewitness of the attack of GoldenEye on its own control center at Severnaya. A skilled programmer, she helps Bond in his mission and follows him to Cuba to disarm the GoldenEye.
+* '''[[Famke Janssen]]''' as  '''[[Xenia Onatopp]]''': A lust murderer and Trevelyan's henchwoman. A sadist and masochist, she enjoys crushing and asphyxiating her enemies between her strong thighs.
+* '''[[Joe Don Baker]]''' as '''[[List of James Bond allies in GoldenEye#Jack Wade|Jack Wade]]''': A veteran CIA agent on the same mission as Bond. He later appears in ''[[Tomorrow Never Dies]]''.
+* '''[[Judi Dench]]''' as '''[[M (James Bond)|M]]''': The strict head of MI6.
+* '''[[Gottfried John]]''' as '''[[List of James Bond henchmen in GoldenEye#General_Ourumov|General Arkady Grigorovich Ourumov]]''': A renegade Russian general who nefariously misuses his authority and position for helping Janus gain access to the GoldenEye. He is forsaken to die at Bond's hands on learning that Trevelyan is a [[Cossacks|Cossack]].
+* '''[[Robbie Coltrane]]''' as '''[[List of James Bond allies in GoldenEye#Valentin Dmitrovich Zukovsky|Valentin Dmitrovich Zukovsky]]''': a Russian [[gangster]] and ex-[[KGB]] agent through whom Bond uses to arrange a meeting with Janus (Trevelyan). 
+* '''[[Alan Cumming]]''' as '''[[List of James Bond henchmen in GoldenEye#Boris Grishenko|Boris Grishenko]]''': a computer programmer at Severnaya secretly affiliated to Janus.
+* '''[[Tchéky Karyo]]'''  as '''[[List of James Bond allies in GoldenEye#Dmitri Mishkin|Defense Minister Dmitri Mishkin]]''': The Defense Minister and the person to whom Ourumov had to report. Ourumov shoots him when Simonova reveals the events at Severnaya.
+* '''[[Desmond Llewelyn]]''' as '''[[Q (James Bond)|Q]]''': Llewelyn was the only actor to reprise a role from a previous Bond film.
+* '''[[Samantha Bond]]''' as '''[[Miss Moneypenny]]''': M's secretary. Samantha Bond made her first of four appearances as Moneypenny.
+
+==Production==
+The preceding Bond film, ''[[Licence to Kill]]'', had underperformed at the American box office.<ref>{{ cite web | url=http://www.boxofficemojo.com/yearly/chart/?yr=1989&p=.htm | title=1989 Domestic Grosses | work=Box Office Mojo | accessdate=2007-10-21 }}</ref> Also, in 1989, MGM/UA was sold to the Australian based broadcasting group Quintex, who wanted to merge the company with [[Pathé]]. Danjaq, the Swiss based parent company of EON, sued [[MGM/UA]] because the Bond back catalogue was being licensed to Pathé, who intended to broadcast the Bond series on television in several countries across the world without the approval of Danjaq.<ref name="Production notes"/> These legal disputes delayed the film for several years.<ref>{{cite web | title=GoldenEye - The Road To Production | publisher=mi6.co.uk | url=http://www.mi6.co.uk/sections/articles/ge_roadtoproduction.php3 | date=2003-06-23 | accessdate=2007-01-04}}</ref>
+
+While the legal disputes went on, [[Timothy Dalton]] was still expected to play Bond in the new film, as he had originally signed up for a three-film contract. In an interview in 1993, Dalton said that Michael France was writing the story for the film, which was due to begin production in January or February 1994.<ref>{{cite news |title = Interview with Dalton |work = [[The Daily Mail]] | date = [[1993-08-06]]}}</ref> However, the deadline was not met, and in April 1994, Dalton officially abdicated from the role.<ref>{{cite video
+ |people     = Michael G. Wilson, Martin Campbell, Pierce Brosnan, Judi Dench, Desmond Llewelyn
+ |date2      = 
+ |month2     = 
+ |year2      = 1999
+ |title      = The Making of 'GoldenEye': A Video Journal
+ |url        = 
+ |format     = 
+ |medium     = DVD
+ |publisher  = MGM Home Entertainment
+ |location   = 
+ |accessdate = 17
+ |accessmonth= 10
+ |accessyear = 2007
+ |time       = 
+ |quote      = 
+}}</ref><ref>{{cite web | title= Biography: Timothy Dalton | publisher=IanFleming.org | url=http://www.ianfleming.org/mkkbb/guide/timothydalton/ | accessdate=2007-05-07}}</ref> To replace Dalton, the producers cast Pierce Brosnan, who had been prevented from taking over the role from [[Roger Moore]] in 1985 because of his contract with ''[[Remington Steele]]''.<ref>{{cite news | first = Maggie | last = Fox | title = Pierce Brosnan Is New James Bond | url = http://www.klast.net/bond/ge_news2.html | publisher = [[Reuters]] | date = [[1994-06-08]] | accessdate = 2006-11-12}}</ref><ref>{{cite news | first = Kimberly | last = Last | title = Pierce Brosnan's Long and Winding Road To Bond | url = http://www.klast.net/bond/pb_road.html | work = GoldenEye (magazine) | date = 1995| accessdate = 2006-11-12}}</ref> Judi Dench was cast as M, thus making ''GoldenEye'' the first film of the series featuring a female M. The decision is widely believed to be inspired by [[Stella Rimington]] becoming head of [[MI5]] in 1992.<ref>{{cite web | url = http://www.bookpage.com/0502bp/stella_rimington.html | title = Her majesty's not-so-secret service | accessdate = 2006-11-14 | first = Jay | last = MacDonald }}</ref><ref>{{cite news | url = http://www.findarticles.com/p/articles/mi_qn4158/is_20020430/ai_n12622913 | title = Woman tipped to head MI5 in footsteps of Stella Rimington | work=Independent, The (London) | accessdate = 2006-11-14 | first = Nigel | last = Morris | date=[[2002-04-30]]}}</ref>
+
+''GoldenEye'' was produced by [[Albert R. Broccoli]]'s [[EON Productions]]. With Albert Broccoli's health deteriorating (he died seven months after the film's release), his daughter [[Barbara Broccoli]] described him as taking "a bit of a back seat" in the production of the film, but still having a lot of influence.<ref name="ashton">{{cite web | url = http://www.hmss.com/films/mgw/mgw95.html | title =Richard Ashton Interview Michael G. Wilson | accessdate = 2006-11-12 | last = Ashton | first = Richard | date = 1995}}</ref> In his stead, Barbara and [[Michael G. Wilson]] took the lead roles in production. The producers then chose [[New Zealand]]er [[Martin Campbell]] as the director. Brosnan later described Campbell as "warrior-like in his take on the piece" and that "there was a huge passion there on both our parts".<ref>{{cite news | url = http://film.guardian.co.uk/interview/interviewpages/0,,922395,00.html | title = 'My heavens, I haven't been found out yet' | accessdate = 2006-12-11 | last = Jobson | first = Richard | date = [[2003-03-18]] | work = [[The Guardian]]}}</ref> Campbell would go on to direct [[Casino Royale (2006 film)|''Casino Royale'']] in 2006. The producers also chose not to use  [[Richard Maibaum]], long-time writer for the series.<ref name="Production notes">{{cite web | title=Production Notes - GoldenEye | publisher=MI6.co.uk | url=http://www.mi6.co.uk/sections/movies/ge_production.php3 | accessdate=2007-05-19}}</ref><ref>{{cite news | title = Hollywood mogul puts $200m price on James Bond's head; Albert "Cubby" Broccoli | work = [[The Sunday Times (UK)|The Sunday Times]] | date =[[1990-08-12]]}}</ref> After Michael France wrote the original screenplay, Jeffrey Caine was brought in to rewrite it.<ref>{{cite news | url = http://www.creativescreenwriting.com/csdaily/trenches/9_30_05_Caine.html | title = The Spirit of the Story: The Constant Gardener's Jeffrey Caine | work=CreativeScreenwriting| accessdate = 2006-11-12 | last = Birren | first = Nick | date = [[2005-09-30]]}}</ref> Caine kept many of France's ideas but added the prologue prior to the credits. Kevin Wade polished the script and [[Bruce Feirstein]] added the finishing touches.<ref>{{cite web | url = http://www.leisuresuit.net/Webzine/articles/bruce_feirstein.shtml | publisher=LeisureSuit.net | title = His Word is Bond: An Interview With 007 Screenwriter Bruce Feirstein | accessdate = 2006-11-12 | last = Dye | first = Kerry Douglas | date = [[1999-11-15]]}}</ref> In the film, the writing credit was shared by Caine and Feirstein, while France was credited with only the story, an arrangement he felt was unfair,<ref>{{cite news | url = http://uk.movies.ign.com/articles/424/424582p1.html | title = Screenwriting Punishment with Michael France | accessdate = 2006-11-12 | author = Reg Seeton and Dayna Van Buskirk }}</ref> particularly as he believed the additions made were not an improvement on his original version.<ref>{{cite web | url = http://uk.movies.ign.com/articles/424/424582p1.html | title = 10 Questions: Mike France | publisher=IGN | accessdate = 2006-04-27 | author = Stax | date = [[2003-06-19]]}}</ref> Wade did not receive an official credit, but was acknowledged in the naming of Jack Wade, the CIA character he created. 
+
+While the story was not based on a work by Ian Fleming, the title ''GoldenEye'' traces its origins to the name of Fleming's Jamaican estate where he wrote the Bond novels. Fleming gave a number of origins for the name of his estate, including [[Carson McCullers]]' ''[[Reflections in a Golden Eye]]''<ref>{{cite book | author = [[John Pearson (author)|Pearson, John]] | year = 1966 | title = [[The Life of Ian Fleming]] | publisher = Vintage/Ebury | id = ISBN 0-224-61136-4}}</ref> and [[Operation Goldeneye]], a contingency plan Fleming himself developed during [[World War II]] in case of a [[Nazi]] invasion through [[Spain]].<ref>{{cite web | title= The Real James Bond | url=http://www.channel4.com/history/microsites/R/real_lives/james_bond.html | publisher=[[Channel 4]]  | accessdate=2006-11-19}}</ref><ref>{{cite news | title= Adultery, Cambridge spies, a Jamaican idyll — Ian Fleming's biographer Andrew Lycett traces the origins of James Bond  | url=http://www.timesonline.co.uk/article/0,,2101-2432127,00.html | publisher=[[The Times]] | first=Andrew |last=Lycett | date=[[2006-11-05]] | accessdate=2006-11-19}}</ref> 
+
+Since ''Licence to Kill'', the world had changed drastically. ''GoldenEye'' was the first James Bond film to be produced since the fall of the [[Berlin Wall]] and the collapse of the Soviet Union. This cast doubt over whether James Bond was still relevant in the modern world, as many of the previous films pitted him against Soviet villains trying to take advantage of the Cold War.<ref>{{cite book
+ | last = Comentale
+ | first = Edward P.
+ | authorlink = 
+ | coauthors = Stephen Watt, Skip Willman
+ | editor = 
+ | others = 
+ | title = Ian Fleming and James Bond: The Cultural Politics of 007
+ | origdate = 
+ | origyear = 
+ | origmonth = 
+ | url = 
+ | format = 
+ | accessdate = October 21
+ | accessyear = 2007
+ | accessmonth = 
+ | edition = 
+ | series = 
+ | date = 
+ | year = 2005
+ | month = 
+ | publisher = Indiana University Press
+ | location = 
+ | language = 
+ | isbn = 978-0253345233
+ | oclc = 
+ | doi = 
+ | id = 
+ | pages = 
+ | chapter = 
+ | chapterurl = 
+ | quote = 
+ | ref =
+ }}</ref> Much of the film industry felt that it would be "futile" to make a comeback for the Bond series, and that it was best left as "an icon of the past"<ref>{{cite book |last=Pfeiffer |first=Lee |coauthors=Worrall, Dave |title=The Essential Bond: The Authorized Guide to the World of 007 |origyear=1998 |accessdate=2007-05-20 |publisher=[[Macmillan Publishers|Boxtree]] |language=English |isbn=0752215620 |pages=169 |chapter=''GoldenEye''}}</ref> However, when released, the film was viewed as a successful revivification and it effectively adapted the series for the 1990s.<ref name="variety">{{cite web | title=GoldenEye | publisher=[[Variety (magazine)|Variety]] | first=Todd | last=McCarthy | url=http://www.variety.com/review/VE1117904690.html?categoryid=31&cs=1 | date= [[1995-11-15]] | accessdate=2006-11-18}}</ref><ref name="Premiere & Press"/> One of ''GoldenEye's'' more modern aspects was the casting of a female as M, the first James Bond film to do so. In the film, the new M quickly establishes her authority, remarking that Bond is a "sexist, misogynist dinosaur" and a "relic of the Cold War". This is an early indication that Bond is portrayed as far less tempestuous than Timothy Dalton's Bond from 1989.<ref>{{cite web | url = http://notcoming.com/reviews.php?id=417 | title = GoldenEye | publisher = Notcoming.com | accessdate = 2007-04-28}}</ref>
+
+===Filming===
+[[Image:Arecibo Overview.jpg|thumb|left|Location of the satellite dish actually filmed at the [[Arecibo Observatory]] in [[Puerto Rico]]]]
+[[Principal photography]] for the film began on [[January 16]], [[1995]] and continued till [[June 6]], [[1995]].<ref name="make">{{cite book
+ | last = Pearce
+ | first = Garth
+ | authorlink = 
+ | coauthors = 
+ | editor = 
+ | others = 
+ | title = The Making of GoldenEye
+ | origdate = 
+ | origyear = 
+ | origmonth = 
+ | url = 
+ | format = 
+ | accessdate = October 22
+ | accessyear = 2007
+ | accessmonth = 
+ | edition = 
+ | series = 
+ | date = October 31, 1995
+ | year = 
+ | month = 
+ | publisher = Boxtree
+ | location = 
+ | language = 
+ | isbn = 978-1852834845
+ | oclc = 
+ | doi = 
+ | id = 
+ | pages = 
+ | chapter = 
+ | chapterurl = 
+ | quote = 
+ | ref =
+ }}</ref>  The producers were unable to film at [[Pinewood Studios]], the usual location for Bond films, because it had been reserved. Instead, an old [[Rolls-Royce plc|Rolls Royce]] factory at the Leavesden Aerodrome in [[Hertfordshire]] was converted into a [[Leavesden Film Studios|new studio]].<ref name="secret">{{cite video
+ | people     = Peter Aston, Pierce Brosnan, Martin Campbell
+ | year       = 1995
+ | date       = December 26
+ | title      = GoldenEye: The Secret Files
+ | url        = 
+ | format     = 
+ | medium     = TV Documentary
+ | publisher  = Carlton Television
+ | location   = 
+ | accessdate = 17
+ | accessmonth= 10
+ | accessyear = 2007
+ | time       = 
+ | quote      = 
+}}</ref> The producers later said Pinewood would have been too small.<ref name="ashton"/> The film's casino scenes were shot in [[Monte Carlo]], as was the Tiger helicopter's demonstration. Reference footage for the tank chase was shot on location in [[St. Petersburg]] and matched to the studio at Leavesden. The climactic scenes on the satellite dish were shot at [[Arecibo Observatory]] in [[Puerto Rico]].<ref>{{cite video
+ |people     = Michael G. Wilson, Andrew Ackland-Snow, Peter Lamont, Chris Corbould
+ |date2      = July 17
+ |month2     = 
+ |year2      = 2006
+ |title      = Location Scouting with Peter Lamont: GoldenEye
+ |url        = 
+ |format     = 
+ |medium     = TV Documentary
+ |publisher  = Cloverland Productions
+ |location   = 
+ |accessdate = 17
+ |accessmonth= 10
+ |accessyear = 2007
+ |time       = 
+ |quote      = 
+}}</ref> M's office was located at [[SIS Building|MI6's headquarters]], next to the [[River Thames]] in London.<ref>{{cite book |last=Pfeiffer |first=Lee |coauthors=Worrall, Dave |title=The Essential Bond: The Authorized Guide to the World of 007 |origyear=1998 |accessdate=2007-05-20 |publisher=[[Macmillan Publishers|Boxtree]] |language=English |isbn=0752215620 |pages=171 |chapter=''GoldenEye''}}</ref>
+
+The producers gained the assistance of the [[French Navy]], which provided full use of the frigate [[La Fayette (F710)|FS ''La Fayette'']] and the navy's newest helicopter, the [[Eurocopter Tiger]]. The French government also allowed the use of Navy logos as part of the promotional campaign for the film. However, the producers had a dispute with the [[Minister of Defence (France)|Ministry of Defence]] over Brosnan's opposition to French nuclear weapons testing and his involvement with [[Greenpeace]]; as a result, the French premiere of the film was cancelled.<ref>{{cite news | title =  Bond drops a bomb | work = [[The Sunday Times (UK)|The Sunday Times]] | date = [[1995-12-03]] | author = Lang, Kirsty}}</ref>
+
+The tank chase scene was performed with the use of a Russian [[T-55]] tank from a British military rental firm and modified with the addition of fake [[explosive reactive armor]] panels (chronologically appropriate to a modern upgraded T55 equipping the [[Russian Army|Russian Army Reserve]] of the period, such as the [[T-55#Modernization|T-55M5]]). In order to avoid destroying the pavement on the city streets of St. Petersburg, the steel off-road tracks of the T-55 were replaced with the rubber-shoed tracks from a British [[Chieftain tank]]. A rectangular viewport was cut in the [[glacis plate]] and covered with tinted [[Perspex]], allowing a trained driver to maneuver the tank from a [[prone]] position inside the driver's compartment while Pierce Brosnan sat in the (modified) driver's seat with his head protruding from the driver's hatch, creating the illusion he was driving the tank "unbuttoned".<ref>''"T55 Main Battle Tank - The "Goldeneye Tank"'', Tanks For Hire Inc. , http://www.tanks4hire.co.uk/T55armouredmilitarytank.html, accessed 11-02-07</ref>
+
+The sequences involving the armoured train were filmed on [[Nene Valley Railway]], near [[Peterborough]] in the UK. The train comprised a [[British Rail Class 20]] diesel-electric locomotive and a pair of [[British Rail Mark 2|BR Mk 2]] coaches. All three were heavily disguised to resemble a Soviet [[armoured train]].<ref>{{cite book |last=Pfeiffer |first=Lee |coauthors=Worrall, Dave |title=The Essential Bond: The Authorized Guide to the World of 007 |origyear=1998 |accessdate=2007-05-20 |publisher=[[Macmillan Publishers|Boxtree]] |language=English |isbn=0752215620 |pages=176 |chapter=''GoldenEye''}}</ref><ref>{{cite web | last=Wright | first=Andrew  | title=Licensed to Thrill | work=Historic James Bond Diesel Locomotive to star in evocative branch line weekend | publisher=[[Swanage Railway]] | date=[[4 May]] [[2006]] | url=http://www.swanagerailway.co.uk/news298.htm | accessdate = 2007-06-23}}</ref>
+
+The opening 220&nbsp;m bungee jump at Archangel, shot at the [[Verzasca Dam]] in [[Switzerland]] and performed by [[Wayne Michaels]], was voted the best movie stunt of all time as of 2002 and set a record for the highest bungee jump off a fixed structure.<ref>{{cite news | title = 007's bungee jump tops best movie stunt poll | url = http://www.breakingnews.ie/2002/11/17/story77136.html | publisher=Breaking News | date = [[2002-11-17]] | accessdate = 2006-11-12}}</ref> The largest stunt sequence in the film was the tank chase, which took around six weeks to film, partly on location in St. Petersburg and partly at Leavesden.<ref>{{cite web | url = http://www.mi6.co.uk/sections/articles/interview_steve_street1.php3?t=&s=articles | title = Interview - Steve Street (Part 1) | publisher= MI6.co.uk | accessdate = 2006-12-11 | date = [[2003-08-26]]}}</ref> The tank used in the chase was on loan from the East England Military Museum.<ref name="make"/>
+
+===Effects===
+[[Image:Kleinman titlecredits.jpg|right|290px|thumb|''Goldeneye's'' opening title sequence featured a woman destroying the [[hammer and sickle]].]]
+The fall of [[communism]] in Russia is the main focus of the opening titles, designed by [[Daniel Kleinman]] (who took over from [[Maurice Binder]] after his death in 1991). They show the collapse and destruction of several structures associated with the Soviet Union, such as the [[red star]] and [[hammer and sickle]]. In an interview, Kleinman said they were meant to be "a kind of story telling sequence" showing that "what was happening in Communist countries was Communism was falling down".<ref>{{cite web | url = http://web.archive.org/web/20060204162919/http://www.jamesbond.com/bond20/newsflash/newsflash_27.php | title = Opening Sequence W/ Daniel Kleinman | accessdate = 2007-01-18}}</ref>
+
+===Product placement===
+''GoldenEye'' was the first film bound by [[BMW]]'s three picture deal,<ref>{{cite video
+ |people     = Michael G. Wilson, Barbara Broccoli, Martin Campbell, Chris Corbould, Pierce Brosnan, Famke Janssen, Izabella Scorupco, Peter Lamont
+ |date2      = 
+ |month2     = 
+ |year2      = 1994
+ |title      = GoldenEye: Building a Better Bond
+ |url        = 
+ |format     = 
+ |medium     = Theatrical Teaser
+ |publisher  = [[MGM Home Entertainment]]
+ |location   = 
+ |accessdate = 17
+ |accessmonth= 10
+ |accessyear = 2007
+ |time       = 
+ |quote      = 
+}}</ref> so the producers were offered BMW's latest [[roadster]], the [[BMW Z3]]. It was featured in the film months before its release, and a limited edition "007 model" sold out within a day of being available to order. As part of the car's marketing strategy, several Z3's were used to drive journalists from a complimentary meal at the [[Rainbow Room]] restaurant to ''GoldenEye's'' premiere at Radio City Music Hall.<ref>{{cite book |last=Pfeiffer |first=Lee |coauthors=Worrall, Dave |title=The Essential Bond: The Authorized Guide to the World of 007 |origyear=1998 |accessdate=2007-05-20 |publisher=[[Macmillan Publishers|Boxtree]] |language=English |isbn=0752215620 |pages=177 |chapter=''GoldenEye''}}</ref> For the film, a [[convertible]] Z3 is equipped with the usual Q refinements, including a [[self-destruct]] feature and [[FIM-92 Stinger|Stinger missile]]s behind the headlights.<ref>{{cite web | title= BMW Z3 | url=http://www.jamesbondmm.co.uk/vehicles/bmw-z3-roadster.php | publisher= James Bond multimedia |  | accessdate=2007-01-03}}</ref> 
+
+The Z3's appearance in ''GoldenEye'' stands out as the most successful promotion through [[product placement]] in 1995.<ref>{{cite book
+ | last = Kinney
+ | first = L
+ | authorlink = 
+ | coauthors = Barry Sapolsky 
+ | editor = 
+ | others = 
+ | title =  Product Placement
+ | origdate = 
+ | origyear = 
+ | origmonth = 
+ | url = 
+ | format = 
+ | accessdate = 
+ | accessyear = 
+ | accessmonth = 
+ | edition = 
+ | series = 
+ | date = 
+ | year = 
+ | month = 
+ | publisher = University of Alabama, Florida State University
+ | location = 
+ | language = English
+ | isbn = 
+ | oclc = 
+ | doi = 
+ | id = 
+ | pages = 
+ | chapter = 
+ | chapterurl = 
+ | quote = 
+ | ref =
+ }}</ref> Ten years later, ''[[The Hollywood Reporter]]'' listed it as one of the most successful product placements in recent years.  The article quoted Mary Lou Galician, head of media analysis and criticism at [[Arizona State University]]'s [[Walter Cronkite School of Journalism and Mass Communication]], as saying that the news coverage of Bond's switch from [[Aston Martin]] to BMW "generated hundreds of millions of dollars of media exposure for the movie and all of its marketing partners."<ref>{{cite news | title = A look at some of the biggest hits in film and TV product placement | url = http://www.hollywoodreporter.com/thr/film/feature_display.jsp?vnu_content_id=1000901395 |publisher = [[The Hollywood Reporter]] | date = 2005-04-28 | accessdate = 2007-11-12}}</ref>
+
+''GoldenEye'' was the first James Bond film in which Bond does not wear a [[Rolex]]. Brosnan wore an [[Omega SA|Omega]] watch to help modernise Bond's image. Lindy Hemming, the film's costume designer, told ''The European Magazine'' Rolex had "become a bit ordinary".<ref>{{cite journal | title="The Names Bond, Euro Bond" | journal=The European Magazine | date=1995-07-07}}</ref> The producers also wanted to work with a company that would cooperate in cross promotions, which Rolex did not wish to do. Omega produced a limited edition "James Bond" variation of the watch used in ''GoldenEye''.<ref>{{cite web | title=The 007 Connection | publisher=Chronocentric | url=http://chronocentric.com/omega/bond.shtml | accessdate=2007-05-27}}</ref> In the film, Bond's watch, standard issue for MI6 agents, can remotely detonate mines and has a built-in [[laser]] that can cut through metal.
+
+{{see|List of James Bond vehicles|List of James Bond gadgets|List of James Bond firearms}}
+
+===Music===
+{{main|GoldenEye (soundtrack)}}   
+
+The theme song, "[[GoldenEye (song)|GoldenEye]]", was written by [[Bono]] and [[The Edge]], and was performed by [[Tina Turner]].<ref>{{cite news | title = Tina Turner performs theme song to new James Bond movie, 'GoldenEye.' | url =http://www.findarticles.com/p/articles/mi_m1355/is_n2_v89/ai_17755938 | publisher = [[Jet (magazine)|Jet]] | date = [[1995-11-20]] | accessdate = 2006-11-20}}</ref> As the producers did not collaborate with Bono or The Edge, alternate versions of the song did not appear throughout ''GoldenEye'', as was the case in previous James Bond films.<ref>{{cite book |last=Pfeiffer |first=Lee |coauthors=Worrall, Dave |title=The Essential Bond: The Authorized Guide to the World of 007 |origyear=1998 |accessdate=2007-05-20 |publisher=[[Macmillan Publishers|Boxtree]] |language=English |isbn=0752215620 |pages=175 |chapter=''GoldenEye''}}</ref> 
+
+The soundtrack to ''GoldenEye'' was composed by [[Éric Serra]]. Prolific Bond composer [[John Barry (composer)|John Barry]] said he was offered it by Barbara Broccoli, but turned it down.<ref>{{cite web | title=John Barry The Gstaad Memorandum | publisher=Film Score | url=http://www.filmscoremonthly.com/features/barry.asp | date=November 1996 | accessdate=2006-11-18|last=Hoshowsky |first=Robert}}</ref> Serra's score has been heavily criticised: [[Richard von Busack]], in ''[[Metro Silicon Valley|Metro]]'', wrote that it was "more appropriate for a ride on an elevator than a ride on a roller coaster",<ref>{{cite web | title= Bond for Glory | url=http://www.metroactive.com/papers/metro/11.22.95/bond-9547.html | publisher=[[Metro, Silicon Valley's Weekly Newspaper|Metro]] | date=[[1995-11-22]] | accessdate=2006-11-19| last=von Busack | first=Richard}}</ref> and Filmtracks said Serra "failed completely in his attempt to tie Goldeneye to the franchise's past."<ref>{{cite web | title= Filmtracks Editorial Review | work=filmtracks.com | url=http://www.filmtracks.com/titles/goldeneye.html | accessdate=2006-11-19}}</ref> 
+
+Later, John Altman provided the music for the tank chase in St. Petersburg. Serra's original track for that sequence can still be found on the soundtrack as "A Pleasant Drive In St. Petersburg".<ref>{{cite video
+ |people     = 
+ |date2      = 
+ |month2     = 
+ |year2      = 1995
+ |title      = GoldenEye
+ |url        = 
+ |format     = 
+ |medium     = Audio CD
+ |publisher  = Virgin Records
+ |location   = London
+ |accessdate = October 19, 2007
+ |accessmonth= 
+ |accessyear =
+ |time       = 26 minutes
+ |quote      = 
+}}</ref> Serra composed and performed a number of synthesizer tracks, including the version of the [[James Bond Theme]] that plays during the [[James Bond gun barrel sequence|gun barrel sequence]],<ref>{{cite video
+ |people     = 
+ |date2      = February 25
+ |month2     = February
+ |year2      = 2003
+ |title      = GoldenEye
+ |url        = 
+ |format     = 
+ |medium     = Audio CD
+ |publisher  = EMI Capitol
+ |location   = London
+ |accessdate = October 19
+ |accessmonth= October
+ |accessyear = 2007
+ |time       = 
+ |quote      = 
+}}</ref> while John Altman and David Arch provided the more traditional symphonic music.<ref>{{cite cd notes | first= | last= |title=EMI proudly presents: GoldenEye |date=February 25, 2003 |cddesc=Composers: John Altman, David Arch |publisher=EMI Capitol |catalognumber=72435-41423-2-1 }}</ref>
+
+==Release and reception==
+''GoldenEye'' premiered on [[November 13]], [[1995]], at the [[Radio City Music Hall]] in [[New York City]], and went on general release in the [[USA]] on [[November 17]] [[1995]]. The [[UK]] premiere, attended by [[Prince Charles]], followed on [[November 22]] [[1995]] at the [[Odeon Leicester Square]], with general release two days later.<ref>{{cite web | url = http://www.mi6.co.uk/sections/articles/ge_premiere.php3?t=ge&s=ge | title = GoldenEye - Première & Press | accessdate = 2006-11-15 | date = [[2003-11-13]]}}</ref> Brosnan boycotted the French premiere to support [[Greenpeace]]'s protest against the French nuclear testing program, causing the premiere to be abrogated.<ref>{{cite news | title = Pierce Brosnan boycotts French premiere of GoldenEye to support Greenpeace protests | url = http://www.klast.net/bond/ge_news3.html#boycott | date = [[1995-12-01]] | publisher=PRNewswire | accessdate = 2006-11-16}}</ref> The film was later released in a further 31 countries, under three alternate titles.<ref>{{cite web | title=Release Information - GoldenEye | publisher=MI6.co.uk | url=http://www.mi6.co.uk/sections/movies/ge_releases.php3?t=ge&s=ge | accessdate=2007-05-26}}</ref>
+
+The film earned over $26 million during its opening across 2,667 theaters in the USA. Its worldwide sales were about $350 million.<ref>{{cite web | url = http://www.boxofficemojo.com/movies/?page=main&id=goldeneye.htm | title = GoldenEye | accessdate = 2006-11-15 | publisher = [[Box Office Mojo]]}}</ref> It had the fourth highest worldwide gross of all films in [[1995 in film|1995]]<ref>{{cite web | url = http://www.boxofficemojo.com/yearly/chart/?view2=worldwide&yr=1995&p=.htm | title = 1995 Worldwide Grosses | accessdate = 2006-11-24 | publisher = [[Box Office Mojo]]}}</ref> and, was the most successful Bond film since ''[[Moonraker (film)|Moonraker]]'', taking inflation into account.<ref name="nos"/>
+
+The critical reception of the film was mostly positive with the film review collection website ''[[Rotten Tomatoes]]'' giving it an 84% Fresh approval,<ref name="rt">{{cite web | work=rottentomatoes.com | title=GoldenEye (1995) | url=http://uk.rottentomatoes.com/m/goldeneye/ | accessdate=2006-11-16}}</ref> although a similar site, [[Metacritic]], gave it only 65%.<ref name="mc">{{cite web | work=metacritic.com | title=GoldenEye | url=http://www.metacritic.com/video/titles/goldeneye | accessdate=2006-11-24}}</ref> In the [[Chicago Sun-Times]], [[Roger Ebert]] gave the film 3 stars out of 4, and said Brosnan's Bond was "somehow more sensitive, more vulnerable, more psychologically complete" than the previous ones, also commenting on Bond's "loss of innocence" since previous films.<ref>{{cite news | title=GoldenEye  | url=http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/19951117/REVIEWS/511170303/1023 |date=[[1995-11-17]] | last=Ebert | first = Roger|work=Chicago Sun-Times | accessdate=2006-11-16}}</ref> [[James Berardinelli]] described Brosnan as "a decided improvement over his immediate predecessor" with a "flair for wit to go along with his natural charm", but added that "fully one-quarter of ''Goldeneye'' is momentum-killing padding."<ref>{{cite web | title=GoldenEye  | work=www.reelviews.net | url=http://www.reelviews.net/movies/g/goldeneye.html  |date= 1995 | accessdate=2006-11-16 |last=Berardinelli |first=James}}</ref> 
+
+Several reviewers lauded M's appraisal of Bond as a "sexist, misogynist dinosaur",<ref>{{cite news | title=14-Karat ‘GoldenEye’: A Polished New Bond | work=[[Washington Post]] | first=Hal | last= Hinson |url=http://www.washingtonpost.com/wp-srv/style/longterm/movies/videos/goldeneye.htm#hinson | date= [[1995-11-17]] | accessdate=2006-11-18}}</ref><ref name="variety"/><ref>{{cite web | title=New Bond More Action Than Style | work=San Francisco Gate | publisher=SFGate.com | first=Peter | last=Stack | url=http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/1995/11/17/DD71044.DTL | date= [[1995-11-17]] | accessdate=2006-11-18}}</ref> with Todd McCarthy in ''[[Variety (magazine)|Variety]]'' saying ''GoldenEye'' "breathes fresh creative and commercial life" into the series.<ref name="variety"/> John Puccio of DVD Town said that ''GoldenEye'' was "an eye and ear-pleasing, action-packed entry in the Bond series" and that the film gave Bond "a bit of humanity, too".<ref>{{cite news | title=DVD review of GoldenEye | publisher=DVD Town | first= John J.| last=Puccio | url=http://www.dvdtown.com/reviewspec.asp?reviewid=505 | accessdate=2007-05-20}}</ref> Ian Nathan of ''[[Empire (magazine)|Empire]]'' said that ''GoldenEye'' "revamps that indomitable British spirit" and that the ''[[Die Hard]]'' movies "don't even come close to 007". Tom Sonne of the ''[[Sunday Times]]'' considered ''GoldenEye'' the best Bond film  since ''The Spy Who Loved Me''. Jose Arroyo of ''[[Sight & Sound]]'' considered the greatest success of the film in modernising the series.<ref name="Premiere & Press"/>
+
+However, the film elicited several negative reviews. [[Richard Schickel]] of ''[[Time (magazine)|Time]]'' wrote that after "a third of a century's hard use", Bond's conventions survived on "wobbly knees",<ref>{{cite news | title=Shaky, Not Stirring | work=[[Time (magazine)|Time]] | first=Richard| last=Schickel| url=http://www.time.com/time/magazine/article/0,9171,983763,00.html | date= [[1995-11-27]] | accessdate=2006-11-18}}</ref> while in ''[[Entertainment Weekly]]'', Owen Gleiberman thought the series had "entered a near-terminal state of exhaustion."<ref>{{cite news | title= GoldenEye | work=[[Entertainment Weekly]] | first=Owen| last=Gleiberman| url=http://www.ew.com/ew/article/review/movie/0,6115,299672_1||365612|0_0_,00.html | date= [[1995-11-18]] | accessdate=2006-11-18}}</ref> Dragon Antulov said that ''GoldenEye'' had a "standard (and rather predictable) series of scenes",<ref>{{cite web | title = Retrospective: GoldenEye (1995) | publisher = Retrospective | url = http://groups.google.com/group/rec.arts.movies.reviews/msg/2de00780acc1af5d | date = [[2002]] | accessdate = 2007-04-28 | last = Antulov | first = Dragon}}</ref> and [[Kenneth Turan]] of the ''[[Los Angeles Times]]'' said that the film was "a middle-aged entity anxious to appear trendy at all costs".<ref>{{cite news | title= GoldenEye - MOVIE REVIEW | work=[[Los Angeles Times]] | last=Turan| first=Kenneth| url=http://www.calendarlive.com/movies/reviews/cl-movie960406-47,0,1420920.story | date= [[1995-11-17]] | accessdate=2007-04-28}}</ref> David Eimer of ''[[Premiere (magazine)|Premiere]]'' wrote that "the trademark humour is in short supply" and that "Goldeneye isn't classic Bond by any stretch of the imagination."<ref name="Premiere & Press">{{cite web | title=GoldenEye - Premiere & Press | publisher=MI6.co.uk | url=http://www.mi6.co.uk/sections/articles/ge_premiere.php3?t=ge&s=ge | accessdate=2007-05-26}}</ref> Madeleine Williams said that "there are plenty of stunts and explosions to take your mind off the plot."<ref>{{cite web | title = GoldenEye film review | work=Cinematter.com | url=http://www.cinematter.com/movie.php3?goldeye | accessdate = 2007-07-25 }}</ref>
+
+''GoldenEye'' was edited in order to be guaranteed a [[MPAA film rating system|PG-13]] rating from the [[Motion Picture Association of America|MPAA]] and a 12 rating from the [[British Board of Film Classification|BBFC]]. The cuts included the visible bullet impact to Trevelyan's head when he is shot in the prologue, several additional deaths during the sequence in which Onatopp guns down the workers at the Severnaya station, more explicit footage and violent behaviour in the Admiral's death, extra footage of Onatopp's death, and Bond giving her a [[rabbit punch]] in the car.<ref name="secret"/>In 2006, the film was remastered and re-edited for the James Bond Ultimate Edition DVD in which the cuts including headbutts and violent sound effects were restored, causing the rating to be changed to 15.<ref>{{cite video
+ | people     = 
+ | year       = 2006
+ | date       = 
+ | title      = GoldenEye: James Bond Ultimate Edition 
+ | url        = 
+ | format     = 
+ | medium     = DVD
+ | publisher  = 
+ | location   = 
+ | accessdate = 25
+ | accessmonth= 09
+ | accessyear = 2007
+ | time       = 
+ | quote      = 
+}}</ref>
+
+==Appearances in other media==<!-- This section is linked from [[James Bond]] -->
+{{See also|GoldenEye 007|GoldenEye: Rogue Agent}}
+[[Image:GE-Virtual-Boy-screenshot-1.png|255px|thumb|right|The only declassified screenshot of the cancelled Virtual Boy version of ''GoldenEye 007''.]]
+''GoldenEye'' was the second and final Bond film to be adapted to a novel by novelist [[John Gardner (thriller writer)|John Gardner]], and was to be his penultimate Bond novel. The book closely follows the film's storyline, but Gardner added a violent sequence prior to the opening bungee jump in which Bond kills a group of Russian guards, a change that the video game ''GoldenEye 007'' retained.<ref>{{cite book
+ | last = 
+ | first = 
+ | authorlink = 
+ | coauthors = 
+ | editor = 
+ | others = 
+ | title = Goldeneye 007 Official Player's Guide
+ | origdate = 
+ | origyear = 
+ | origmonth = 
+ | url = 
+ | format = 
+ | accessdate = October 25
+ | accessyear = 2007
+ | accessmonth = 
+ | edition = 
+ | series = 
+ | date = 
+ | year = 1997
+ | month = 
+ | publisher = Nintendo Power 
+ | location = 
+ | language = 
+ | isbn = 
+ | oclc = 
+ | doi = 
+ | id = ASIN: B000B66WKA
+ | pages = 
+ | chapter = 
+ | chapterurl = 
+ | quote = 
+ | ref =
+ }}</ref>
+
+In late 1995, [[Topps Comics]] began publishing a three-issue comic book adaptation of ''GoldenEye''. The script was adapted by [[Don McGregor]] with art by Rick Magyar. The first issue carried a January 1996 cover date.<ref>{{cite book
+ | last = McGregor
+ | first = Don
+ | authorlink = Don McGregor
+ | coauthors = 
+ | editor = 
+ | others = Artwork by Rick Magyar and Claude St. Aubin; Cover art by Brian Stelfreeze
+ | title = James Bond 007: GoldenEye
+ | origdate = 
+ | origyear = 1995
+ | origmonth = 
+ | url = 
+ | format = 
+ | accessdate = [[October 18]]
+ | accessyear = [[2007]]
+ | accessmonth = October
+ | edition = 
+ | series = 
+ | date = 
+ | year = [[1996]]
+ | month = January
+ | publisher = [[Topps Comics]]
+ | location = [[New York City]]
+ | language = 
+ | isbn = 
+ | oclc = 
+ | doi = 
+ | id = Direct Sales 61114 00257
+ | pages = 
+ | chapter = 
+ | chapterurl = 
+ | quote = 
+ | ref = }}</ref> For unknown reasons, Topps cancelled the entire adaptation after the first issue had been published, and to date the adaptation has never been released in its entirety.<ref>{{cite web | url = http://commanderbond.net/cw.cgi?action=Story&SID=2744 | title = When Bond Battled Dinosaurs | publisher = commanderbond.net | accessdate = 2006-11-20 | last = Cox | first = John |date =[[2005-05-19]]}}</ref>
+
+The film was the basis for ''[[GoldenEye 007]]'', a successful [[video game]] for the [[Nintendo 64]] developed by [[Rare (company)|Rare]] and published by [[Nintendo]].<ref name="gamerankings">{{cite web|title=GoldenEye 007 Reviews|publisher=gamerankings.com|url=http://www.gamerankings.com/htmlpages2/197462.asp|accessdate=2006-01-29}}</ref><ref name="8million">{{cite web|date=[[2002-09-24]] | url=http://www.rareware.com/company/press-microsoft1.html | title=Microsoft Acquires Video Game Powerhouse Rare Ltd | publisher=Microsoft | accessdate=2006-05-13}}</ref> It was considered a flagship game for the console, and viewed as revolutionary in its development of the [[first-person shooter]] format. In a January 2000 [[opinion poll|poll]], readers of the [[United Kingdom|British]] [[video game magazine]] ''[[Computer and Video Games (magazine)|Computer and Video Games]]'' voted ''GoldenEye 007'' to first place in a list of "the hundred greatest video games".<ref name="cvgpoll">{{cite journal | title=100 Greatest Games Of All Time | journal=Computer and Video Games | year=2000 | month=January | issue=218|pages=53–67}}</ref> In ''[[Edge (games magazine)|Edge's]]'' 10th anniversary issue in 2003, the game was included as one of their top ten [[shooter game|shooter]]s of all time,<ref name="edge10">{{cite journal | title=Ten Top Tens: Shooters | journal=Edge | year=2003 | month=October | issue = 128 | pages=73}}</ref> and in 2005, a "Best Games of All-Time" poll at [[GameFAQs]] placed it at 7th.<ref name="gamefaqspoll">{{cite web | url=http://www.gamefaqs.com/features/contest/top10 | title=The 10 Best Games Ever | publisher=GameFAQs | accessdate=2006-09-29}}</ref> It is based upon the film, but many of the missions were extended or modified.<ref name="hollis-speech">{{cite web | last=Hollis | first=Martin | authorlink=Martin Hollis|date=[[2004-09-02]] | title=The Making of GoldenEye 007 | url=http://www.zoonami.com/briefing/2004-09-02.php | title=The Making of GoldenEye 007 | publisher=Zoonami | accessdate=2006-05-13}}</ref> 
+  
+''GoldenEye 007'' was modified into a racing game intended to be released for the [[Virtual Boy]] console. However, the game was cancelled before release.<ref>{{cite web | date=[[2007-01-11]] | url=http://www.mi6.co.uk/sections/articles/gaming_goldeneye_virtual_boy.php3?t=&s=articles | title=The Lost GoldenEye Videogame | publisher=MI6.co.uk | accessdate=2007-04-27}}</ref> 
+
+In 2004, [[Electronic Arts]] released ''[[GoldenEye: Rogue Agent]]'' for several platforms. This is the first game of the James Bond series in which the player does not take on the role of Bond. Instead the protagonist is an aspiring Double-0 agent named [[GoldenEye (character)|GoldenEye]] recruited by a villain of the Bond universe, [[Auric Goldfinger]].<ref>{{cite book
+ | last = 
+ | first = 
+ | authorlink = 
+ | coauthors = Kaizen Media Group
+ | editor = 
+ | others = 
+ | title = Golden Eye: Rogue Agent (Prima Official Game Guide)
+ | origdate = 
+ | origyear = 
+ | origmonth = 
+ | url = 
+ | format = 
+ | accessdate = October 25
+ | accessyear = 2007
+ | accessmonth = 
+ | edition = 
+ | series = 
+ | date = November 23
+ | year = 
+ | month = November 2004
+ | publisher = [[Prima Games]]
+ | location = [[Roseville, California]]
+ | language = 
+ | isbn = 0761546332
+ | oclc = 
+ | doi = 
+ | id = 
+ | pages = 
+ | chapter = 
+ | chapterurl = 
+ | quote = 
+ | ref =
+ }}</ref> Except the appearance of Xenia Onatopp, the game was unrelated to the film and ''GoldenEye 007'', and was released to mediocre review scores for all its versions &mdash; PlayStation 2,[http://www.metacritic.com/games/platforms/ps2/goldeneyerogueagent?q=goldeneye%20rogue%20agent] GameCube,[http://www.metacritic.com/games/platforms/cube/goldeneyerogueagent?q=goldeneye%20rogue%20agent] and Xbox.[http://www.metacritic.com/games/platforms/xbx/goldeneyerogueagent?q=goldeneye%20rogue%20agent] It was excoriated by several critics including Eric Qualls<ref>{{cite web | last=Qualls| first=Eric| url=http://xbox.about.com/od/reviews/fr/goldeneyerarev.htm | title=GoldenEye: Rogue Agent| work=About.com: Xbox Games| publisher=[[The New York Times Company]]| accessdate=2007-01-21}}</ref> for using the name "GoldenEye" as an attempt to ride on the success of Rare's game.<ref>{{cite web | last=Turner| first=Benjamin| url=http://ps2.gamespy.com/playstation-2/james-bond-007-goldeneye-2/568337p1.html | title=GoldenEye: Rogue Agent (PS2)| work=Gamespy: PS2| publisher=[[IGN Entertainment]]|accessdate=2007-01-21}}</ref>
+
+==References==
+{{reflist|2}}
+
+==External links==
+{{wikiquote}}
+* [http://www.mgm.com/title_title.php?title_star=GOLDENEY MGM's official ''GoldenEye'' website]
+* {{imdb title|id=0113189|title=GoldenEye}}
+* {{amg movie|id=1:135622|title=GoldenEye}}
+* {{rotten-tomatoes|id=GoldenEye|title=GoldenEye}}
+* {{mojo title|id=goldeneye|title=GoldenEye}}
+
+{{Bond movies}}
+
+
+[[Category:1995 films]]
+[[Category:British films]]
+[[Category:Pinewood films]]
+[[Category:Cold War films]]
+[[Category:James Bond films]]
+[[Category:Action thriller films]]
+[[Category:Films shot anamorphically]]
+
+[[bg:Златното око]]
+[[ca:007: Goldeneye]]
+[[da:GoldenEye]]
+[[de:GoldenEye]]
+[[es:GoldenEye (película)]]
+[[et:007 ja Kuldsilm]]
+[[eo:GoldenEye]]
+[[fr:GoldenEye]]
+[[hr:Zlatno oko]]
+[[id:GoldenEye]]
+[[it:Agente 007 - GoldenEye]]
+[[he:גולדן איי]]
+[[nl:GoldenEye]]
+[[ja:007 ゴールデンアイ]]
+[[no:GoldenEye]]
+[[pl:GoldenEye]]
+[[pt:GoldenEye]]
+[[ru:Золотой глаз (фильм)]]
+[[sr:Златно око]]
+[[fi:007 ja kultainen silmä]]
+[[sv:Goldeneye]]
+[[th:พยัคฆ์ร้าย 007 รหัสลับทลายโลก]]
+[[zh:新鐵金剛之金眼睛]]

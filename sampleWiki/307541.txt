@@ -1,0 +1,532 @@
+{{Infobox VG
+|title = Descent: FreeSpace &mdash; The Great War
+|image = [[Image:freespace1box.jpg|256px|]]
+|caption = Box cover art for ''Descent: FreeSpace &mdash; The Great War''
+|developer = [[Volition, Inc.]]<br />'''Amiga version'''<br />[[Hyperion Entertainment]]
+|publisher = [[Interplay Entertainment]]<br />'''Amiga version'''<br />Haage & Partner Computer
+|designer = Adam Pletcher<br />The FreeSpace Team
+|engine = FreeSpace engine
+|version = 1.06 ([[January 05]], [[1999]])
+|released = [[March 19]], [[1998]]<br />'''Amiga version'''<br />December 2001<ref>{{cite web
+  | author = Amiga Flame staff
+  | title = Released Games of 2001
+  | publisher = Amiga Flame
+  | date = n.d.
+  | url = http://www.amigaflame.com/amipast01.htm
+  | accessdate = 2007-11-13 }}
+</ref><br />'''''Silent Threat'''''<br />[[October 01]], [[1998]]<br />'''''Battle Pack'''''<br />[[January 01]], [[2003]]
+|genre = [[Space combat simulator]]
+|modes = [[Single player]], [[Multiplayer game|multiplayer]]
+|ratings = [[Entertainment Software Rating Board|ESRB]]: Everyone (6+)<br />[[Unterhaltungssoftware Selbstkontrolle|USK]]: 12+<br />[[Entertainment and Leisure Software Publishers Association|ELSPA]]: 3+<br />[[Office of Film and Literature Classification (Australia)|OFLC]]: G8+
+|platforms = [[Microsoft Windows|Windows]], [[Amiga]]
+|media = 2 [[CD-ROM]]s
+|requirements = 133 [[Hertz|MHz]] [[Central processing unit|CPU]], 32 [[Megabyte|MB]] [[Random access memory|RAM]], 8X CD-ROM drive, [[DirectX]] 5.0, 240 MB available [[hard disk]] space, [[Windows 95]]<br />'''Amiga version'''<br />[[PowerPC]] or [[Motorola 68060|68060]] [[microprocessor|processor]], 64 [[Megabyte|MB]] (min. 48 MB free) [[Random access memory|RAM]], 8X CD-ROM drive, [[3D computer graphics|3D]] [[Graphics processing unit#Graphics accelerators|accelerated graphics card]] (Warp3D supported)
+|input = [[Keyboard (computing)|Keyboard]], [[Mouse (computing)|mouse]], (optional) [[joystick]]
+}}
+'''''Descent: FreeSpace &mdash; The Great War''''' is a 1998 [[Space combat simulator|space combat simulation]] [[IBM PC compatible]] [[Personal computer game|computer game]] developed by [[Volition, Inc.]] when it was split off from [[Parallax Software]]. Published by [[Interplay Entertainment]], it is also known as '''''Conflict: FreeSpace &mdash; The Great War''''' in [[Europe]]. In 2001, it was [[Porting|ported]] to the [[Amiga]] platform as '''''FreeSpace &mdash; The Great War''''' by [[Hyperion Entertainment]].
+
+The story has the player taking up the role of a human pilot in the Galactic Terran Alliance as it engages in war with the [[Extraterrestrial life in popular culture|alien]] Vasudan empire. Their feud is interrupted by the enigmatic Shivans who slaughter anyone in their sights. Putting aside their differences, the humans and Vasudans form an alliance, and the player is assigned to missions to stop the Shivan's [[Genocide|genocidal]] advance. Featuring huge [[capital ship]]s which explode spectacularly on destruction, the player pilots a [[starfighter]] and fights massive battles alongside competent [[Wingman|wingmen]] amongst the stars to determine the fate of two races.
+
+''Descent: FreeSpace'' was well received as a single player space simulation which integrated all the desired features of its genre, but its multiplayer mode was plagued by lag and inaccurate statistic tracking. Its expansion, '''''Silent Threat''''' which comprised of additional missions was also released in 1998. The sequel ''[[FreeSpace 2]]'' was released a year later in 1999.
+
+==Gameplay==
+''Descent: FreeSpace &mdash; The Great War'' (hereafter simply called ''FreeSpace'') puts the player in a [[starfighter]] flying out on missions to destroy or protect certain targets. It has been categorized more as a simulator for its many controls and commands than an arcade game.<ref name="alamode" /> Its flight model is however simple, akin to that of the game, ''[[Star Wars: TIE Fighter|TIE Fighter]]'' though it incorporates a bit of [[Classical mechanics|Newtonian physics]] such as precise collision physics.<ref name="forcegood" /><ref name="gamewant" /> In the single player mode, the player flies through a series of missions in a [[wikt:campaign|campaign]].
+
+[[Image:FS Asteroids Combat.jpg|thumbnail|200px|left|The HUD-only interface of ''FreeSpace'']]Before flying a mission, the player goes through a briefing which details the background information and objectives. Ships and weapons can also be selected at this stage, which adds an element of strategy to the missions.<ref name="sharky" /> The main view when flying, is a [[First-person shooter|first-person-look]] from within the [[cockpit]], but the only visible interface is that of the [[head-up display]] (HUD). The player can customize the HUD by changing its color, or toggling the information displays.<ref name="allgame" /><ref name="combat" />
+
+Missions must be successfully completed for the campaign to advance.<ref name="agdb" />  A mission however can be considered successful if only a few of the primary objectives are completed.<ref name="forcegood" /> Results of a mission can be persistent, an enemy capital ship allowed to flee may turn up in a later mission.<ref name="skoar" /> Completed missions can be replayed on the in-game mission simulator.<ref name="agdb" /> Training missions are mixed in with the regular missions (and can be skipped), gradually introducing players to advanced commands and techniques as more sophisticated missions come up next.<ref name="agdb" /><ref name="combat" /> The game has been said to be well playable with the keyboard alone, or together with a mouse or joystick.<ref name="sharky" /><ref name="gameover" />
+
+The game features multiplayer matches over [[local area network]] (LAN) or [[Internet|online]]. The modes offered are for players to band together to complete [[Cooperative gameplay|cooperative missions]], or to split up into teams and eliminate the other team.<ref name="gamespot" /> [[Voice chat]] is available, though advised to be only used on [[broadband]] or LAN.<ref name="gamerevo" /> Online gameplay was free over the services offered by Parallax Online, which also kept track of players' statistics and rankings.<ref name="gameover" />
+
+==Plot and setting==
+''FreeSpace'' takes place in a fictional future where humans have discovered how to travel long distances by jumping into [[Hyperspace (science fiction)|subspace]], and have spread among the stars as the Galactic Terran Alliance (GTA).<ref>{{cite web
+  | author = Volition staff
+  | title = FreeSpace Reference Bible
+  | publisher = [[Volition, Inc.]]
+  | pages = pp. 4
+  | date = 1998-02-26
+  | url = http://www.volition-inc.com/fs/downloads/fsrefbible.zip
+  | format = Word 97
+  | accessdate = 2007-11-09 }}
+</ref> The player is thrust into the game during the fourteenth year of war between the GTA and the [[Extraterrestrial life in popular culture|alien]] Parliamentary Vasudan Empire. The history behind this war is never explained to keep opportunities open for unrestricted development of the story in sequels and expansions.<ref name="bibintro">{{cite web
+  | author = Volition staff
+  | title = FreeSpace Reference Bible
+  | publisher = [[Volition, Inc.]]
+  | pages = pp. 2
+  | date = 1998-02-26
+  | url = http://www.volition-inc.com/fs/downloads/fsrefbible.zip
+  | format = Word 97
+  | accessdate = 2007-11-09 }}
+</ref> The plotline was described by Volition as multi-pathed, which would branch out depending on the player's mission performance.<ref name="pletcher" /> This was intended to enhance the replayability value of the game.
+
+[[Image:FS Concept Art.jpg|thumbnail|200px|left|Clockwise from top left: Vasudans, Shivans, Terrans]]Players are given the hint of the story from the start as the introduction movie serves as a [[Exposition (literary technique)#Prologue|prologue]], establishing a Terran-Vasudan war, and giving a short glimpse of the fearsome alien Shivans. The player initially flies several combat missions against the Vasudans, before encountering the Shivan advance elements who indiscriminately attacks the two races. Unable to even target or damage the Shivans with the primary weapons, the player has to embark on several missions for the new Terran-Vasudan alliance to catch up with the Shivan's technological superiority,<ref>{{cite web
+  | author = Matt
+  | title = Descent Freespace Review
+  | publisher = Coolinfo.com
+  | date = n.d.
+  | url = http://www.coolinfo.com/gameinfo/reviews/freespace/freespace.htm
+  | accessdate = 2007-11-13 }}
+</ref> while fending off a Vasudan [[Destructive cult|death cult]], the Hammer of Light.<ref>'''Hammer of Light:''' We are the Hammer of Light.  The prophecy is your doom. {{cite video game
+  | title = Descent: FreeSpace &mdash; The Great War
+  | developer = Volition, Inc.
+  | publisher = Interplay Entertainment
+  | date = 1998-03-19
+  | platform = PC }}
+</ref> The player becomes instrumental in capturing the Shivan cruiser SC Taranis.<ref>'''Admiral Wolf:''' Congratulations, Alpha 1. You were instrumental in the first capture of a major Shivan vessel! {{cite video game
+  | title = Descent: FreeSpace &mdash; The Great War
+  | developer = Volition, Inc.
+  | publisher = Interplay Entertainment
+  | date = 1998-03-19
+  | platform = PC }}
+</ref> The promise of rewards from capturing the Taranis turns out to be a [[MacGuffin]]. Its capture only serves as an introduction for the game's main [[boss (video games)|boss]], the Shivan superdestroyer SD Lucifer. The Lucifer makes its entrance by destroying the captured Taranis and many other allied ships, putting a stop to the encouraging mood which was being built up till then.<ref>'''Admiral Shima:''' I wish your reassignments could have come under better circumstances. The loss of the Galatea is a great blow to all of us.  We've lost many friends and loved ones.  We also lost many great pilots. {{cite video game
+  | title = Descent: FreeSpace &mdash; The Great War
+  | developer = Volition, Inc.
+  | publisher = Interplay Entertainment
+  | date = 1998-03-19
+  | platform = PC }}
+</ref>
+
+At certain points during the campaign, [[monologue]]s by an extinct race, the Ancients, are told in [[Cut scene#Animated cut scenes|pre-rendered cutscenes]].<ref name="gamepow">{{cite web
+  | author = GamePower staff
+  | title = GamePower talks to FreeSpace producer
+  | publisher = GamePower
+  | date = 1998-01-29
+  | url = http://www.descent2.com/archives/articles/art0042.html
+  | accessdate = 2007-11-18 }}
+</ref> Evoking sadness, they detail the Ancients' encounters with the Shivans [[wikt:millennium|millennia]] ago, suggesting the long history of the Shivans' actions, and their effects on developing [[Sentience|sentient]] species.<ref>{{cite web
+  | author = Volition staff
+  | title = FreeSpace Reference Bible
+  | publisher = [[Volition, Inc.]]
+  | pages = pp. 25
+  | date = 1998-02-26
+  | url = http://www.volition-inc.com/fs/downloads/fsrefbible.zip
+  | format = Word 97
+  | accessdate = 2007-11-09 }}
+</ref> They also [[Foreshadowing|foreshadow]] the destruction of a homeworld and key of all, reveal the [[plot coupon|method]] to destroy the Lucifer.<ref name="gameworl">{{cite web
+  | author = Brett Quinton
+  | title = Descent: FreeSpace &mdash; The Great War
+  | publisher = PC Gameworld
+  | date = 2002-09-20
+  | url = http://www.gwn.com/reviews/gamereview.php/id/106/p/0/title/Descent_FreeSpace_-_The_Great_War.html
+  | accessdate = 2007-11-09 }}
+</ref> The destruction of the Lucifer in the subspace between the [[Solar System|Sol]] and [[Delta Serpentis]] jump nodes, however marks a [[twist ending|twist in the ending]]; the subspace corridor is destroyed and Sol is cut off from the Terran survivors outside who have to face the possibility of meeting the Shivans again.<ref>'''Protagonist:''' All the jump points from Earth have been destroyed. But the Shivans can rebuild them. I’m told we can expect them again. But not in my lifetime. Such is liberation. May you live to see your home. {{cite video game
+  | title = Descent: FreeSpace &mdash; The Great War
+  | developer = Volition, Inc.
+  | publisher = Interplay Entertainment
+  | date = 1998-03-19
+  | platform = PC }}
+</ref> The expansion ''Silent Threat'' continues the story in a straight-forward manner. The player joins the Galactic Terran Intelligence (GTI) while the Terran-Vasudan alliance is in a fragile state, and is told to preserve the alliance by ruthlessly pacifying rebellious elements, and fending off remnants of the Shivan forces.<ref name="stwant">{{cite web
+  | author = Warren Liu
+  | title = Review: Descent: Freespace - Silent Threat
+  | publisher = GamersWanted.com
+  | date = 1998-10-14
+  | url = http://www.gamerswanted.com/PC/318/news/65/
+  | accessdate = 2007-11-13 }}
+</ref> However it all turns out to be a [[cover-up]],<ref>'''Admiral Scott:''' Therefore, we suspect the Loki-class fighters were engaged in a GTI cover up.  The attack on your wing in the Beta Aquilae system may have been a botched attempt to cover up the Einstein's existence. {{cite video game
+  | title = Descent: FreeSpace &mdash; Silent Threat
+  | developer = Volition, Inc.
+  | publisher = Interplay Entertainment
+  | date = 1998-10-01
+  | platform = PC }}
+</ref> as the GTI is plotting a [[Coup d'état|coup]],<ref>'''GTA Commander:''' The conspiracy is not confined to a rogue element within the GTI, but involves officers in the highest echelon of the intelligence directorate.  Although their objectives remain unclear, command believes the conspirators intend to overthrow the GTA government and dissolve the GTA treaty. {{cite video game
+  | title = Descent: FreeSpace &mdash; Silent Threat
+  | developer = Volition, Inc.
+  | publisher = Interplay Entertainment
+  | date = 1998-10-01
+  | platform = PC }}
+</ref> and has constructed a Terran-Shivan hybrid superdestroyer of their own, which the player must destroy.<ref>'''GTA Commander:''' Reconnaissance also has evidence of a large-scale prototype construction involving Shivan technology, but no data regarding the configuration and capability of this vessel could be gathered. {{cite video game
+  | title = Descent: FreeSpace &mdash; Silent Threat
+  | developer = Volition, Inc.
+  | publisher = Interplay Entertainment
+  | date = 1998-10-01
+  | platform = PC }}
+</ref>
+
+==Development==
+''FreeSpace'' was Volition's first project after [[Parallax Software]]{{'}}s split into them and Outrage Entertainment.<ref name="pletcher">{{cite news
+  | author = Mike Fine
+  | title = Descent: Free "Speech". An Interview with Adam Pletcher
+  | publisher = 3D Gamers
+  | date = [[1998-05-01]]
+  | url = http://www.3dgamers.com/articles/more/7/
+  | accessdate = 2007-10-31 }}
+</ref> It is not part of the ''[[Descent (computer game)|Descent]]'' computer game series, and contained none of the ideas or the materials from them.<ref name="asrale">{{cite web
+  | author = Asrale
+  | title = Volition Interview
+  | publisher = PlanetDescent
+  | date = 2000-09-11
+  | url = http://www.planetdescent.com/site/articles/asrale/9-11-00-asrale-volition.asp
+  | accessdate = 2007-10-31 }}
+</ref><ref>{{cite web
+  | author = [[Tom Chick]]
+  | title = FreeSpace Preview
+  | publisher = GamePower
+  | date = 1998-01-29
+  | url = http://www.descent2.com/archives/articles/art0041.html
+  | accessdate = 2007-11-18 }}
+</ref> It was only prefixed with ''Descent'' to avoid trademark issues with Mijenix Corporation's "FreeSpace", a [[disk compression]] utility.<ref name="volchat">{{cite web
+  | author = Michael Diedrich (Zarathud)
+  | title = Chat with Volition
+  | publisher = FreeSpace Watch
+  | date = 1998-11-20
+  | url = http://freespace.volitionwatch.com/editorials/11-20-98.shtml
+  | accessdate = 2007-10-30 }}
+</ref><ref name="danint">{{cite web
+  | author = Gwar
+  | title = Interview with Dan Wentz
+  | publisher = Descentia
+  | date = 1998-01-03
+  | url = http://www.descent2.com/archives/articles/art0039.html
+  | accessdate = 2007-11-18 }}
+</ref> Volition also used the term "FreeSpace" in the game to initially describe what became later known as subspace.<ref name="bibintro" /> The game was conceived by Adam Pletcher to create the best space simulator ever, with all the features of space simulator games his team had found to be fun. Their primary inspirations, the games ''[[Star Wars: TIE Fighter|TIE Fighter]]'' and ''[[Wing Commander (video game)|Wing Commander]]'' made their way into the game's flight model,<ref name="pletcher" /> along with the influence of historical [[World War II|WWII]] [[dogfight]]s. Themes from the fiction of [[Star Wars]], [[Space: Above and Beyond]], and [[Ender's Game]] form a part in shaping the background and story of the ''FreeSpace'' world. The chaotic battles between masses of ships commonly found in science-fiction [[anime]] became one of the features of ''FreeSpace''.<ref>{{cite web
+  | author = Chris Jensen
+  | title = FreeSpace Preview
+  | publisher = Ogr.com
+  | date = 1998-01-28
+  | url = http://www.descent2.com/archives/articles/art0040.html
+  | accessdate = 2007-11-18 }}
+</ref>
+
+[[3D Realms|Apogee Software]] announced on [[December 12]], [[1997]] they would be exclusively publishing ''FreeSpace'' for the first three months before handing the publishing rights back to [[Interplay Entertainment]].<ref>{{cite news
+  | author = PC Gamer staff
+  | title = Apogee has rights on FreeSpace
+  | publisher = ''[[PC Gamer]]''
+  | date = [[1997-12-12]]
+  | url = http://www.descent2.com/archives/articles/art0027.html
+  | accessdate = 2007-11-18 }}
+</ref> This was part of their agreement with Interplay for the latter's purchase of the rights to ''Descent'', and Apogee decided to release ''FreeSpace'' as [[shareware]] with them as the merchant of the registered version. Interplay however bought the full rights to ''FreeSpace'' from Apogee in late April, 1998, keeping the ownership of the game solely to themselves.<ref>{{cite web
+  | author = Samuel Stoddard
+  | title = The Apogee FAQ
+  | publisher = Hall of Light Amiga database
+  | date = 2005-09-30
+  | url = http://www.rinkworks.com/apogee/
+  | accessdate = 2007-11-13 }}
+</ref>
+
+Initially staffed with a crew of five, the project grew to encompass 17 people.<ref name="danint" /> The game's code was built from scratch. Most of the software modules were interlinked with each other, increasing the job's complexity and difficulty. The code incorporated little portions of ''Descent''{{'}}s code for specific functions.<ref name="asrale" /> Kulas, who had worked on several versions of ''[[Microsoft Flight Simulator|Flight Simulator]]'' and ''Descent'', brought his experience into the game's [[artificial intelligence]] (AI). The game's difficulty levels are based on advancing the AI rather than simply increasing damage and "[[Health (game mechanism)|hit points]]" of enemies.<ref>{{cite web
+  | author = Jason Ocampo
+  | title = FreeSpace Preview
+  | publisher = ''[[Computer Games Magazine|Strategy Plus]]''
+  | date = 1998-01-03
+  | url = http://www.descent2.com/archives/articles/art0039.html
+  | accessdate = 2007-11-18 }}
+</ref> Realism was incorporated into the game's physics such that an impact on one part of a [[starfighter]]'s body will send it spinning, unlike the "sphere-based collision nonsense". Due to time and budget constraints, many of the initially planned cutscenes and stories were cut from the final product.<ref>{{cite web
+  | author = Volition staff
+  | title = FreeSpace Reference Bible
+  | publisher = [[Volition, Inc.]]
+  | pages = pp. 7
+  | date = 1998-02-26
+  | url = http://www.volition-inc.com/fs/downloads/fsrefbible.zip
+  | format = Word 97
+  | accessdate = 2007-11-09 }}
+</ref> Examples of such cuts include a campaign path where the Terran-Vasudan alliance goes on a retreat, and scenes of racial tension within the alliance.<ref>{{cite web
+  | author = Volition staff
+  | title = FreeSpace Reference Bible
+  | publisher = [[Volition, Inc.]]
+  | pages = pp. 19-21
+  | date = 1998-02-26
+  | url = http://www.volition-inc.com/fs/downloads/fsrefbible.zip
+  | format = Word 97
+  | accessdate = 2007-11-09 }}
+</ref> Despite the promise of a [[deathmatch (gaming)|deathmatch]] mode for multiplayer,<ref name="gamepow" /> it was cut from the final product.<ref name="gamespot" /> The expansion ''Silent Threat'' also suffered the same fate of cuts due to budgetary and time concerns.<ref name="volchat" />
+
+Volition aimed for a quality release and promised to deliver a product without major bugs. Minor [[Software bug|bugs]] would be fixed in a prompt manner.<ref name="pletcher" /> The shipped game however had deficiencies admitted by the team, such as the multiplayer code, and a few design issues.<ref name="volchat" /> The game underwent four patches, which rid much of the bugs and improved the multiplayer performance.<ref name="chronic" /> Complaints about an online mission giving unfair scores led to Volition removing the mission from scoring play.<ref>{{cite web
+  | author = Volition staff
+  | title = The Meeting
+  | publisher = [[Volition, Inc.]]
+  | date = 1999-01-15
+  | url = http://www.volition-inc.com/fs/
+  | accessdate = 2007-11-13 }}
+
+</ref> Another patch allowed [[Environmental audio extensions|EAX]] capability to be enabled for [[Creative Technology|Creative]] [[Sound Blaster]] [[sound card]]s.<ref>{{cite web
+  | author = GameSpot staff
+  | title = Descent Freespace v1.06 EAX Sound Patch
+  | publisher = [[GameSpot]]
+  | date = 1999-02-25
+  | url = http://www.gamespot.com/pc/sim/descentfreespacethegw/download_2539859.html
+  | accessdate = 2007-11-13 }}
+</ref> Interplay played its part in drumming up the community's interest by holding contests, and expanding material for the ''FreeSpace'' universe.<ref name="chronic">{{cite web
+  | author = Michael Diedrich (Zarathud)
+  | title = FreeSpace Chronicled - The First Three Months
+  | publisher = FreeSpace Watch
+  | date = 1999-09-13
+  | url = http://freespace.volitionwatch.com/editorials/09-13-98.shtml
+  | accessdate = 2007-11-14 }}
+</ref> While Volition created official star maps, and released Vasudan voice clips and story development notes. Interplay hired science-fiction writers such as [[Fred Saberhagen]], [[Simon Hawke]], and [[Jeff Grubb]] to write weekly ''FreeSpace'' stories for two months.<ref>{{cite web
+  | author = Interplay staff
+  | title = FreeSpace Stories
+  | publisher = [[Interplay Entertainment]]
+  | date = 1998-11-17
+  | url = http://web.archive.org/web/20010306081600/http://www.interplay.com/FreeSpace/stories.html
+  | accessdate = 2007-11-14 }}
+</ref> Prepping the way for ''Silent Threat''{{'}}s release, Interplay held a contest from [[July 28]] to [[August 25]], [[1998]], in which the submitted fan-designed missions could win their authors prizes such as free copies of ''Silent Threat'', ''FreeSpace'' apparel, and gaming hardware.<ref>{{cite web
+  | author = Interplay staff
+  | title = Descent: FreeSpace Mission Design Contest
+  | publisher = [[Interplay Entertainment]]
+  | date = 1998-11-18
+  | url = http://web.archive.org/web/20010307171402/www.interplay.com/FreeSpace/missions/fredrule.html#judge
+  | accessdate = 2007-11-14 }}
+</ref> Entries were judged by a panel from ''[[PC Gamer]]'', and qualified entries constituted half of the missions in ''Silent Threat''.<ref>{{cite web
+  | author = FreeSpace Watch staff
+  | title = Silent Threat Information
+  | publisher = FreeSpace Watch
+  | date = n.d.
+  | url = http://freespace.volitionwatch.com/fs1/st/
+  | accessdate = 2007-11-13 }}
+</ref><ref name="stwant" />
+
+On [[December 14]], [[1999]], [[Hyperion Entertainment]] announced their acquisition of the license to [[Porting|port]] ''FreeSpace'' to the [[Amiga]] system.<ref>{{cite press release
+  | title = Hyperion licences "Freespace: The Great War" for Amiga
+  | publisher = [[Hyperion Entertainment]]
+  | date = [[1999-12-14]]
+  | url = http://www.hyperion-entertainment.biz:8080/news/news21
+  | accessdate = 2007-11-13 }}
+</ref> The publisher was changed to Haage & Partner Computer on [[October 18]], [[2001]].<ref>{{cite web
+  | author = Haage & Partner Computer staff
+  | title = News Archive 2001
+  | publisher = Haage & Partner Computer
+  | date = 2001-12-31
+  | url = http://www.haage-partner.de/amiga/misc/h_new2001e.htm
+  | accessdate = 2007-11-13 }}
+</ref> Despite the game's official release being announced for December 2001,<ref>{{cite web
+  | author = Amiga Flame staff
+  | title = Released Games of 2001
+  | publisher = Amiga Flame
+  | date = n.d.
+  | url = http://www.amigaflame.com/amipast01.htm
+  | accessdate = 2007-11-13 }}
+</ref> the approval to do so could only be gotten on [[January 07]], [[2002]].<ref>{{cite web
+  | author = Haage & Partner Computer staff
+  | title = News Archive 2002
+  | publisher = Haage & Partner Computer
+  | date = 2002-07-10
+  | url = http://www.haage-partner.de/amiga/misc/h_newe.htm
+  | accessdate = 2007-11-13 }}
+</ref> The game was shipped without a printed manual,<ref name="agdb">{{cite web
+  | author = Seppo Typpö
+  | title = FreeSpace &mdash; The Great War
+  | publisher = The Amiga Games Database
+  | date = n.d.
+  | url = http://www.angusm.demon.co.uk/AGDB/DBA1/FSpace.html
+  | accessdate = 2007-11-18 }}
+</ref> but had additional [[German language|German]] and [[French language|French]] language support.<ref name="totalami" /> Hyperion had stated they would port over ''Silent Threat'' if the ''FreeSpace'' port sold well. To date, ''Silent Threat'' has yet to be ported over to the Amiga platform.
+
+==Reception==
+<div style="font-size: 80%;float:right;border-left:1em solid white">
+{| class="wikitable"
+! colspan="2" style="font-size:120%; text-align: center; background-color: #d1dbdf;" | ''Descent: FreeSpace -<br />The Great War'' reviews
+|-
+! style="background-color: #e8f4f8;" | Publication
+! style="background-color: #e8f4f8;" | Score
+|-
+|<center>[[GameSpot]]
+|<center>8.9 / 10<ref name="gamespot">{{cite web
+  | author = Stefan "Desslock" Janicki
+  | title = Descent: FreeSpace &mdash; The Great War
+  | publisher = [[GameSpot]]
+  | date = 1998-07-22
+  | url = http://www.gamespot.com/pc/sim/descentfreespacethegw/review.html?om_act=convert&om_clk=gssummary&tag=summary;review
+  | accessdate = 2007-11-13 }}
+</ref>
+|-
+|<center>''[[GamePro]]''
+|<center>4.5 / 5<ref>{{cite web
+  | author = Michael E. Ryan
+  | title = Review: Descent: Freespace
+  | publisher = [[GamePro]]
+  | date = 2000-11-24
+  | url = http://www.gamepro.com/computer/pc/games/reviews/829.shtml
+  | accessdate = 2007-11-13 }}
+</ref>
+|-
+|<center>[[Game Revolution]]
+|<center>A-<ref name="gamerevo">{{cite web
+  | author = Mark Cooke
+  | title = Descent: Freespace &mdash; PC
+  | publisher = [[Game Revolution]]
+  | date = 2004-06-05
+  | url = http://www.gamerevolution.com/review/pc/descent_freespace
+  | accessdate = 2007-11-13 }}
+</ref>
+|-
+|<center>''[[Computer and Video Games]]''
+|<center>8.9 / 10<ref name="cvgrev">{{cite web
+  | author = Richie Shoemaker
+  | title = Conflict: FreeSpace &mdash; The Great War
+  | publisher = ''[[Computer and Video Games]]''
+  | date = 2001-08-13
+  | url = http://www.computerandvideogames.com/article.php?id=2847
+  | accessdate = 2007-11-13 }}
+</ref>
+|-
+|<center>''Total Amiga''
+|<center>5 / 5<ref name="totalami">{{cite journal
+ | last = Sutton
+ | first = Mick
+ | date = [[February 18]], [[2002]]
+ | title = Descent: Freespace
+ | journal = Total Amiga
+ | issue = 10
+ | pages = pp. 30-32
+ | publisher = South Essex Amiga Link
+ | location = Essex, England
+ | url = http://www.totalamiga.org/pdf/totalamiga_10.pdf
+ | format = PDF
+ | accessdate = 2007-11-14 }}
+</ref>
+|-
+! colspan="2" style="font-size:120%; text-align: center; background-color: #d1dbdf;" | Compilations of multiple reviews
+|-
+! style="background-color: #e8f4f8;" | Compiler
+! style="background-color: #e8f4f8;" | Score
+|-
+|<center>[[Game Rankings]]
+|align="center" | 82.0%<ref>{{cite web
+  | title = Descent: FreeSpace &mdash; The Great War Reviews
+  | publisher = [[Game Rankings]]
+  | url = http://www.gamerankings.com/htmlpages2/197099.asp
+  | accessdate = 2007-11-12 }}
+</ref>
+|}
+</div>
+''FreeSpace'', which was placed 20th in ''[[PC Gamer#PC Gamer UK|PC Gamer UK]]''{{'}}s 1999 Top 100 Awards,<ref>{{cite journal
+  | author = PC Gamer UK staff
+  | year = 1999
+  | month = June
+  | title = The Top 100 Awards
+  | journal = [[PC Gamer#PC Gamer UK|PC Gamer UK]]
+  | accessdate = 2007-09-14 }}
+</ref> was frequently compared against ''[[Wing Commander: Prophecy]]'' and ''[[Star Wars: X-Wing vs. TIE Fighter|X-Wing vs. TIE Fighter]]'' in its reviews, and stood up well against them. It has been said to be a combination of the two games, but possessing the better qualities of each; the player is just a pilot caught up in an [[wikt:overarching|overarching]] plot fighting amongst fleets of starships.<ref name="skoar">{{cite web
+  | author = Reevus
+  | title = Descent: FreeSpace &mdash; The Great War
+  | publisher = SKOAR!
+  | date = n.d.
+  | url = http://www.skoar.com/Story.php?StoryTitle=Descent:%20Freespace%20-%20The%20Great%20War&StoryId=1075&GroupId=5
+  | accessdate = 2007-11-13 }}
+</ref><ref name="allgame">{{cite web
+  | author = Beth Wasden
+  | title = Descent: FreeSpace &mdash; The Great War
+  | publisher = [[All Game Guide]]
+  | date = n.d.
+  | url = http://www.allgame.com/cg/agg.dll?p=agg&sql=1:14536~T1
+  | accessdate = 2007-10-26 }}
+</ref> As the game took inspiration from space simulation classics and offered comparatively little of its own innovation, it was called unoriginal by a few reviewers.<ref name="alamode">{{cite web
+  | author = Greg Miller
+  | title = Review of:Descent: FREESPACE (The Great War)
+  | publisher = PC Alamode
+  | date = n.d.
+  | url = http://www.alamopc.org/pcalamode/reviews/archive1/rev349.html
+  | accessdate = 2007-11-13 }}
+</ref><ref name="sharky">{{cite web
+  | author = Anders Hammervald
+  | title = Conflict: Freespace Review
+  | publisher = Sharky Extreme
+  | date = 1999-04-26
+  | url = http://www.sharkygames.com/games/reviews/volation/freespace/
+  | accessdate = 2007-11-13 }}
+</ref>
+
+Most of the reviewers glossed over the game's story but a few found it lacking the depth needed to captivate the player.<ref name="allgame" /><ref name="combat" /> There are suggestions that the game would have been much better if the player had a greater obvious role in controlling the outcome of the story. Without this impetus, the reviewers found themselves simply playing a "very sweet looking arcade title",<ref name="combat" /> and felt detached from their wingmen and environment.<ref name="gamewant" /> This feeling was made worse in ''Silent Threat'' with its "cold and inhuman" briefings and non-player characters.<ref name="stwant" />
+
+[[Image:FS Explosion.gif|thumbnail|200px|left|The explosions in the game have impressed a lot of reviewers]]Reviewers called ''FreeSpace''{{'}}s graphics beautiful, claiming asteroids are realistically rendered against softly glowing [[nebula]]e, while galaxies and stars of varying colors lay in the background.<ref name="combat" /><ref name="gamerevo" /><ref name="totalami" /><ref name="gameover" /> A few others begged to differ, stating the [[3D computer graphics|3D effects]] were less spectacular than the software rendered version, the nebulae were unconvincing, and the ships' textures were blurry and lacking detail.<ref name="alamode" /><ref>{{cite web
+  | author = Randy Widell
+  | title = Descent: FreeSpace
+  | publisher = GameGenie.com
+  | date = n.d.
+  | url = http://www.gamegenie.com/reviews/pc/descentfs.html
+  | accessdate = 2007-11-13 }}
+</ref><ref name="forcegood" /> However all reviewers were united in stating that the explosions in ''FreeSpace'' were the most spectacular they have ever seen. They were impressed with how a ship undergoing destruction would have electricity arcing over the hull, buckling under multiple small explosions before bursting in a large fireball with debris being flung out, leaving wreckage where the ship once stood. Sharky Extreme was dismayed by the game's inability to go beyond 640x480 screen size.<ref name="sharky" /> The game's AI garnered several praises from the reviewers.<ref name="cvgrev" /> The player's [[Wingman|wingmen]] were competent on their own and could be trusted with orders, even to the extent of co-ordinating attacks on capital ships.<ref name="skoar" /><ref name="agdb" /><ref name="forcegood">{{cite web
+  | author = Stoo
+  | title = A Force for Good &mdash; review of Conflict: Freespace
+  | publisher = A Force for Good
+  | month = November
+  | year = 2002
+  | url = http://www.forceforgood.co.uk/reviewpage.php?selected=29
+  | accessdate = 2007-11-09 }}
+</ref> Likewise, the same could be said of the enemies as they act in concert with each other to achieve their squadron's objectives.<ref>{{cite web
+  | author = Stephen Fulljames
+  | title = Descent: Freespace
+  | publisher = ''[[Computer and Video Games]]''
+  | date = 2001-08-15
+  | url = http://www.computerandvideogames.com/article.php?id=7460
+  | accessdate = 2007-11-13 }}
+</ref><ref name="gameover" /><ref name="combat" />
+
+Despite one reviewer's glowing praise for the ''FreeSpace''{{'}}s online multiplayer over [[cable modem]]s,<ref name="gameover">{{cite web
+  | author = TraderX
+  | title = Review: Descent: Freespace
+  | publisher = Game Over Online Magazine
+  | date = 1998-06-07
+  | url = http://www.game-over.com/reviews/pc/Descent_FreeSpace.html
+  | accessdate = 2007-11-13 }}
+</ref> the majority at that time were on [[dial-up access]] and roundly condemned the online multiplayer mode. The chief complaint was lag.<ref>{{cite web
+  | author = Joe Koenig (Elemental)
+  | title = The Major Problem: LAG!
+  | publisher = FreeSpace Watch
+  | date = 1998-06-10
+  | url = http://freespace.volitionwatch.com/editorials/06-10-98.shtml
+  | accessdate = 2007-11-13 }}
+</ref> GameSpot's Desslock was amazed the game dared to advertise as being able to support 16 players online when it could not even support two players on [[56k modem]]s. Combatsim.com's Fitzgerald called the multiplayer "bug ridden" after enduring a lot of his shots not registering hits or kills on enemy ships after over 40 minutes of play; all of it due to [[lag]].<ref name="combat">{{cite web
+  | author = Maurice Fitzgerald
+  | title = Descent Freespace
+  | publisher = Combatsim.com
+  | date = 1998-07-17
+  | url = http://www.combatsim.com/memb123/archive/htm/htm_arc1/descent1.htm
+  | accessdate = 2007-11-18 }}
+</ref> Other reviewers found their situations similar with their guns only firing, seconds after depressing the trigger, and ships warping all over the place.<ref name="skoarfs">{{cite web
+  | author = Reevus
+  | title = Descent: FreeSpace &mdash; The Great War
+  | publisher = SKOAR!
+  | date = n.d.
+  | url = http://www.skoar.com/Story.php?StoryTitle=Descent:%20Freespace%20-%20The%20Great%20War&StoryId=1075&GroupId=5
+  | accessdate = 2007-11-13 }}
+</ref><ref name="gamewant">{{cite web
+  | author = Warren Liu
+  | title = Review: Descent: FreeSpace &mdash; The Great War
+  | publisher = GamersWanted.com
+  | date = 1998-09-20
+  | url = http://www.gamerswanted.com/PC/137/reviews/1/
+  | accessdate = 2007-11-13 }}
+</ref>
+
+''Silent Threat'' was judged to be a decent but uninspiring add-on. The campaign missions were either standard escort or destroy missions, and offered no new equipment which were unable to compete against the older equipment.<ref>{{cite web
+  | author = Reevus
+  | title = Descent: Freespace Silent Threat
+  | publisher = SKOAR!
+  | date = n.d.
+  | url = http://www.skoar.com/Story.php?StoryTitle=Descent:%20Freespace%20Silent%20Threat&StoryId=901&GroupId=5
+  | accessdate = 2007-11-13 }}
+</ref><ref name="stwant" /> The stand-alone missions were however toasted for the way they were conceived. The contest winning entries gave breadth to the game's variety of missions, and encouraged greater community participation. This was possible with the free editor, FreeSpace Editor (FRED), which has been called the best space simulation editor. Able to import personal audio and 3D animation files, the editor allows users the same capability as Volition to create their own missions.<ref name="gamewant" /> The possibilities offered by the editor resulted in a call to the community to stop the flood of "[[Battle of Endor]]"-type missions, and to design missions following Volition's Jason Hoffoss' [[Zen]] philosophy of accomplishing more with less.<ref>{{cite web
+  | author = Michael Diedrich (Zarathud)
+  | title = FRED and the Battle of Endor Syndrome
+  | publisher = FreeSpace Watch
+  | date = 1998-08-05
+  | url = http://freespace.volitionwatch.com/editorials/08-05-98.shtml
+  | accessdate = 2007-11-13 }}
+</ref>
+
+==References==
+{{reflist|3}}
+
+==External links==
+* [http://www.volition-inc.com/fs/ Official ''FreeSpace &mdash; The Great War'' website]
+* [http://www.hyperion-entertainment.biz:8080/projects/freespace/index_html?arch=amiga&id=freespace ''FreeSpace &mdash; The Great War''] - Hyperion Entertainment's website for the Amiga port
+* {{moby game|id=/descent-freespace-the-great-war|name=''Descent: FreeSpace &mdash; The Great War''}}
+* {{moby game|id=/amiga/descent-freespace-the-great-war|name=''Descent: FreeSpace &mdash; The Great War'' for Amiga}}
+* {{GameFAQs|id=197099|name=''Descent: FreeSpace &mdash; The Great War''}}
+* {{imdb title|0169922|Descent: FreeSpace &mdash; The Great War}}
+
+[[Category:1998 video games]]
+[[Category:Amiga games]]
+[[Category:Cooperative video games]]
+[[Category:FreeSpace series]]
+[[Category:Science fiction video games]]
+[[Category:Space combat simulators]]
+[[Category:Space operas]]
+[[Category:Windows games]]
+
+[[cs:Freespace]]
+[[de:Freespace]]
+[[fr:Descent: FreeSpace]]
+[[ru:Descent: FreeSpace]]
+[[sk:FreeSpace]]

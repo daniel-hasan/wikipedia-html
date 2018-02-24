@@ -1,0 +1,56 @@
+{{Taxobox
+| color = pink
+| name = Yellow-bellied Glider<ref name=MSW3>{{MSW3 Groves|pages=54-55}}</ref>
+| status = LR/nt
+| status_system = iucn2.3
+| status_ref = <ref name=iucn>{{IUCN2006 | assessors = Australasian Marsupial & Monotreme Specialist Group | year = 1996 | title = Petaurus australis | id = 16730 | downloaded = [[2006-11-21]]}}</ref>
+| regnum = [[Animal]]ia
+| phylum = [[Chordate|Chordata]]
+| classis = [[Mammal]]ia
+| infraclassis = [[Marsupial]]ia
+| ordo = [[Diprotodontia]]
+| familia = [[Petauridae]]
+| genus = ''[[Petaurus]]''
+| species = '''''P. australis'''''
+| binomial = ''Petaurus australis''
+| binomial_authority = [[George Shaw|Shaw]], 1791
+}}
+
+The '''Yellow-bellied Glider''' ''(Petaurus australis)'', also known as the '''''Fluffy Glider''''', is about the size of a rabbit, and has a grey-brown back and is off-white to [[Orange (colour)|orange]] underneath, with large pointed ears and a long tail.<ref>{{cite book | author = Cronin, Leonard and Westmacott, Marion (illustrator) | title = Key Guide to Australian Mammals | year = 1991 | pages = pp. 64-65 | publisher = Reed Books Pty. Ltd. | id = ISBN 0-7301-0355-2}}</ref>
+
+The Yellow-bellied Glider is the largest species of ''Petaurus'', and can glide up to 150 metres.<ref>{{cite book | author = Jones, Cath & Parish, Steve | title = Field Guide to Australian Mammals | pages = pp. 86, 88 | publisher = Steve Parish Publishing Pty. Ltd. | id = ISBN 1-74021-743-8}}</ref>
+
+It is similar in appearance to the [[Mahogany Glider]], although slightly larger in size, and also similar in appearance to the [[Greater Glider]].<ref>{{cite book | author = Menkhorst, Peter and Knight, Frank | title = A Field Guide to the Mammals of Australia | year = 2001 | pages = pp. 94-95 | publisher = Oxford University Press | id = ISBN 0-19-550870-X}}</ref>
+
+The Yellow-bellied Glider is [[Wiktionary:gregarious|gregarious]] and spends the day in a leaf-lined tree hole, which is usually shared with other Yellow-bellied Gliders.
+
+Although the Yellow-bellied Glider has a narrow range down eastern Australia, reaching from northern [[Queensland]] to [[Victoria (Australia)|Victoria]], it's status is classified as uncommon to rare, and it is vulnerable in the topics.
+
+The Yellow-belled Glider's diet consists of [[nectar]], [[honeydew]], [[insect]]s, [[pollen]] and [[Eucalyptus|Eucalyptus sap]] (which is obtained by the Yellow-bellied Glider biting a 'V' shape wedge into the bark to promote the flow of gum and sap).<ref>{{cite book | author = Strahan, Ronald | title = A Photographic Guide to Mammals of Australia | year = 1995 | pages = p. 58 | publisher = The Australian Museum, New Holland (Publishers) Ltd. | id = ISBN 1-85368-583-6}}</ref>
+
+Breeding occurs in spring in the south, but throughout the year in the north.
+
+There are two subspecies:
+* ''P. a. australis'' in the south (which is locally common)
+* ''P. a. reginae'' in northern Queensland (which is rare and threatened with logging) 
+
+==Threats==
+
+Barbed-wire fences and [[felling]] of old nest trees. <ref>{{cite book | editor = Ryan, Michelle (General Editor), and Burwell, Chris (Scientific Editor) | title = Wildlife of Tropical North Queensland | pages = p.338 | publisher = Queensland Museum | id = ISBN 0-7242-9349-3}}</ref>
+
+==References==
+{{reflist}}
+
+==External links==
+* [http://www.zoo.org.au/animal_page.cfm?area_id=37&zoo_id=2&animal_id=58 Yellow-bellied Glider] &mdash; [[Healesville Sanctuary]]
+* [http://threatenedspecies.environment.nsw.gov.au/tsprofile/profile.aspx?id=10601 Yellow-bellied Glider] &mdash; Threatened species &mdash; [[Government of New South Wales]] website
+* [http://www.nationalparks.nsw.gov.au/npws.nsf/Content/Yellow-bellied+glider+vulnerable+species+listing Yellow-bellied Glider] &mdash; Vulnerable species &mdash; [[National Parks and Wildlife Service (New South Wales)|National Parks and Wildlife Service]]
+* [http://www.wildlife.org.au/wildlife-gliders.php?page=w-gliders-yellowbellied.html Yellow-bellied Glider] &mdash; [[Wildlife Preservation Society of Queensland]]
+* [http://www.wildlife.org.au/wildlife.php?page=w-gliders1.html Gliders in the Spotlight] &mdash; Wildlife Preservation Society of Queensland
+* [http://www.museum.vic.gov.au/forest/animals/yell_glider.html Yellow-bellied Glider] - [[Museum Victoria]]
+* [http://www.nationalparks.nsw.gov.au/PDFs/recoveryplan_final_yellowbellied_glider.pdf Yellow-bellied Glider] &mdash; Recovery plan &mdash; [[National Parks and Wildlife Service (New South Wales)|National Parks and Wildlife Service]] (.pdf file &mdash; file is 32 pages long)
+[[Category:Possums]]
+[[Category:Mammals of Australia]]
+
+[[fr:Petaurus australis]]
+[[nl:Grote suikereekhoorn]]

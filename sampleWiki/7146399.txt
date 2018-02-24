@@ -1,0 +1,29 @@
+If [[special relativity]] is true then each observer will have their own ''[[Relativity of simultaneity|plane of simultaneity]]'' that contains a unique set of events that constitute the observer's present moment. Observers moving at different relative velocities have different planes of simultaneity hence different sets of events that are present. Each observer considers their set of present events to be a three dimensional universe but even the slightest movement of the head or offset in distance between observers can cause the three dimensional universes to have differing content. If each three dimensional universe exists then the existence of multiple three dimensional universes suggests that the universe is four dimensional. The argument is named after the discussions by Rietdijk(1966)<ref>Rietdijk, C.W. (1966) A Rigorous Proof of Determinism Derived from the Special Theory of Relativity, Philosophy of Science, 33 (1966) pp. 341-344</ref> and Putnam(1967)<ref>Putnam, H. (1967). Time and Physical Geometry, Journal of Philosophy, 64,
+(1967) pp.240-247</ref>. It is sometimes called the Rietdijk-Putnam-Penrose argument<ref>Being and Becoming in Modern Physics. Stanford Encyclopedia of Philosophy.</ref>
+
+[[Roger Penrose]]<ref>Penrose, R. 1989. The Emperor's New Mind: Concerning Computers, Minds, and Laws of Physics. New York and Oxford: Oxford University Press.</ref> advanced a form of this argument that has been called the '''Andromeda Paradox''' in which he points out that two people walking past each other in the street could have very different present moments. If one of the people were walking towards the Andromeda Galaxy then events in this galaxy might be hours or even days advanced compared with the events on Andromeda for the person walking in the other direction. If this occurs it would have dramatic effects on our understanding of time, Penrose highlighted the consequences by discussing a potential invasion of Earth by aliens living in the Andromeda galaxy. On Earth one person might live in a universe where the Andromedeans have not yet decided to invade whilst someone passing them in the street could live in a universe where alien spaceships are underway.  As Penrose put it:
+
+"Two people pass each other on the street; and according to one of the two people, an Andromedean space fleet has already set off on its journey, while to the other, the decision as to whether or not the journey will actually take place has not yet been made. How can there still be some uncertainty as to the outcome of that decision? If to either person the decision has already been made, then surely there cannot be any uncertainty. The launching of the space fleet is an inevitability." 
+
+
+[[Image:rel2.gif]]
+
+The 'paradox' consists of two observers who are in the same place and at the same instant having different sets of events in their present moment.
+
+See [[Introduction to special relativity]] for an explanation of how and why the plane of simultaneity varies from one person to another.
+
+==References==
+<references />
+
+==Further reading==
+
+* [http://philsci-archive.pitt.edu/archive/00002408/ Vesselin Petkov. (2005) Is There an Alternative to the Block Universe View?] in: D. Dieks (ed.), The Ontology of Spacetime (Elsevier, Amsterdam 2006); "Philosophy and Foundations of Physics" Series, pp. 207-228. 
+* [http://en.wikibooks.org/wiki/Special_Relativity:_Simultaneity%2C_time_dilation_and_length_contraction Wikibook:The relativity of simultaneity and the Andromeda paradox]
+* [http://plato.stanford.edu/entries/spacetime-bebecome/ Being and Becoming in Modern Physics. Stanford Encyclopedia of Philosophy.]
+
+==See also==
+
+[[Special relativity]]
+
+[[Category:Physical paradoxes]]
+[[Category:Special relativity]]

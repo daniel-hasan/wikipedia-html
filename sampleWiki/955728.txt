@@ -1,0 +1,90 @@
+{{ infobox game
+| image_link    = [[Image:Space hulk box.jpg|200px]]
+| image_caption = Cover of the first edition of ''Space Hulk''
+| developer     = [[Games Workshop]]
+| publisher     = Games Workshop
+| manufacturer  = Games Workshop
+}}
+
+'''''Space Hulk''''' is an out of print [[board game]] by [[Games Workshop]]. The game was set in their [[Warhammer 40,000]] universe and draws a certain degree of inspiration from the ''[[Alien (film)|Alien]]'' movies.
+
+The term "Space Hulk", from which the game gets its name, is used within the Warhammer 40,000 universe for any masses of ancient, derelict [[starship]]s, asteroids, and other assorted space junk that eventually merges into one massive form, ranging from the size of a small moon to a large planet, which drift through the territory of the [[Imperium (Warhammer 40,000)|Imperium]].<ref>{{ cite web | url = http://lasttruth.tripod.com/genespacehulks.htm | title = Description of Space Hulks | work = White Dwarf #114 | accessdate = 2007-06-06 }}</ref> Because a hulk may contain bits of lost information or technology, the Imperium often sends teams of [[Space Marines (Warhammer 40,000)|Space Marine]] Terminators to search for and recover these valuable items. The hulk may not stay in real space for very long, eventually slipping back into the [[Immaterium|Warp]], so retrieval operations must be rapid and efficient.
+
+[[Genestealer]]s often make homes of these hulks, attacking those who come aboard in order to spread their genetic code further afield. The game pits an investigative force of Space Marines against such a coven.
+
+== Gameplay ==
+
+The game is set on a board made up of various corridor and room tiles which can be freely arranged and locked together like a [[jigsaw puzzle]] to represent the interior of derelict space ships. One player controls the Space Marines, and the other controls the Genestealers.
+
+The game is notable for its hidden play mechanics, from which it derives much of its playability and tension. The actual number of genestealers in play is hidden from the Marines because they came into play as "blips" which can represent 1-3 creatures (or 0-6 in the ''Deathwing'' expansion and second edition). On the other hand, the Marine player has a number of "action points" available each turn which are only revealed to the genestealer player after they are used up. (In the second edition, the extra points are no longer hidden from the genestealer player.)
+
+''Space Hulk'' won the [[Origins Award]] for ''Best Fantasy or Science Fiction Boardgame of 1989''.  Its first expansion, ''Deathwing'', won ''Best Fantasy or Science Fiction Boardgame of 1990''.
+
+In the basic versions of the game, playing the genestealers is very straightforward; so simple, in fact, that ''Space Hulk'' is quite playable as a solo game.{{Fact|date=July 2007}} Playing the marines on the other hand is engaging and tactically challenging - partly because the Space Marines player is constrained by a time limit for his turn. To overcome this shortfall, players are encouraged to play each game twice, swapping roles after the first play. The fairly fast play time (around half an hour per game), driven by the Space Marines time limitation, makes this a reasonable solution. The expansion packs for the First edition add human-[[genestealer hybrid]]s, which can carry weapons and equipment, to the Genestealer player's forces, adding more depth for the genestealer side.
+
+== Editions ==
+[[Image:Space hulk cover.JPG|thumb|Second edition rulebook cover]]
+
+The first edition has two expansion packs:
+* ''Deathwing'' focuses on additional Space Marine weapons, Space Marine Librarians, new features and rules
+* ''Genestealer'' introduces Genestealer hybrids, greatly expanding the tactical possibilities for the Genestealer side, and an elaborate system of psychic combat.
+Further scenarios and rules were released in the ''White Dwarf'' and ''Citadel Journal'' magazines. A hardback book, ''Space Hulk Campaigns'', was released in 1991 and later reprinted as a paperback (1993). It contained much of the magazine material, including rules for Traitor Terminators and Space Marines in Power Armour and some new board sections.
+
+The second edition has no expansion packs, although additional scenarios and board sections were released in ''White Dwarf'' magazine. While it features better board artwork and Terminator models, it is significantly simplified from the original rules and offers less opportunity for expansion.{{Fact|date=July 2007}}  A critical change was made to the Command Point system, no longer allowing them to be used in the enemy turn altering the game's strategic complexity. The flamer rules were also changed and the difference between the standard weapons and the area effect flamer was reduced.
+
+
+== Storyline ==
+
+Space Hulk 1st edition and its expansion complemented their rules and missions with a compelling story, drawing the player into an intriguing sci-fi world.
+
+The basic game tells the story of the [Blood Angels] chapter embarking a Hulk with a vengeance, 600 years after failing to capture another Hulk. The DeathWing expansion recounts a crucial period in the history of the Dark Angels' Deathwing chapter as they attempt to save their homeworld. The Genestealer expansion describes the heroic battles against a Genestealer patriarch and his retinue. Ironically, neither the Deathwing or Genestealer scenarios are situated in a Hulk.
+
+== Official support and player community ==
+
+Games Workshop hasn't added Space Hulk to its collection of 'Specialist Games', and as such no longer supports it officially. Several reasons for this have been suggested, among others: the limited success of Space Hulk second edition, and the fact that the Space Hulk rules and background no longer correlate to those of the Warhammer 40,000 game.
+
+However, a hardcore player community still exists that still contributes to the existing game, generally based on elements in the ever expanding Warhammer 40,000 universe; thus custom rules and accessories can be found on various sources around the Internet. Many contemporary miniatures of Warhammer 40,000 can still be used to replace or complement those of Space Hulk.
+
+== Derivatives ==
+
+Two computer games were made based on the board game, the first, ''[[Space Hulk (computer game)|Space Hulk]]'', for the PC and Amiga; and the second, ''[[Space Hulk: Vengeance of the Blood Angels]]'' for the PC, [[PlayStation]], [[Sega Saturn]], and [[3DO Interactive Multiplayer|3DO]] [[video game console|consoles]]. Both of these were tactical action shooters based on the boardgame rather than reproductions of the boardgame.
+
+In 2005, a [[mobile phone]] version of the ''Space Hulk'' boardgame was released. This game replicates the board game's play mechanics and allows play as either Space Marines or Genestealers.<ref>{{ cite web | url = http://www.gamespot.com/mobile/action/warhammerspacehulk/index.html | title = ''Space Hulk'' | publisher = GameSpot | accessdate = 2007-03-08 }}</ref>
+
+An open source fan conversion of Space Hulk based on the second edition rules can be found at [http://sourceforge.net/projects/hulk SourceForge]
+
+== See also ==
+
+* [[Space Crusade]]
+* [[Ultra Marines]]
+
+== References ==
+
+{{refbegin}}
+* {{ cite book | title = Space Hulk Rules | publisher = [[Games Workshop]] | year = 1989 | isbn = 1 869893 69 7 }} - included in the game box
+* {{ cite book | title = Deathwing Rules & Missions | publisher = [[Games Workshop]] | year = 1990 }} - included in the expansion box
+* {{ cite book | title = Genestealer Rules and Missions | publisher = [[Games Workshop]] | year = 1990 }} - included in the expansion box
+* {{ cite book | title=Space Hulk Campaigns | edition=softback | publisher=[[Games Workshop]] | year=1993 | isbn=1 872372 65 1 }}
+{{refend}}
+
+== Notes ==
+
+{{reflist}}
+
+== External links ==
+
+* {{bgg|2163|''Space Hulk''}}
+* [http://a.webring.com/hub?ring=spacehulk] Space Hulk webring
+
+{{Games Workshop}}
+
+[[Category:Warhammer 40,000]]
+[[Category:Origins Award winners]]
+[[Category:Science fiction board games]]
+[[Category:Board games using action points]]
+[[Category:Board games with a modular board]]
+[[Category:Games Workshop games]]
+
+[[de:Space Hulk]]
+[[es:Space Hulk]]
+[[fr:Space Hulk]]

@@ -1,0 +1,75 @@
+{{Infobox Album <!-- See Wikipedia:WikiProject_Albums -->
+ | Name        = In Concert: Live at Philharmonic Hall
+ | Type        = [[Live Album]]
+ | Artist      = [[Miles Davis]]
+ | Cover       = 
+ | Released    = 1973
+ | Recorded    = September 29, 1972
+ | Genre       = [[Jazz]]
+ | Length      = 46:02 (CD 1), 38:25 (CD 2)
+ | Label       = Columbia
+ | Producer    = Teo Macero
+ | Reviews     = *''[[Rolling Stone]]'' (favorable) [http://www.rollingstone.com/artists/milesdavis/albums/album/109695/review/6212325/in_concert_live_at_philharmonic_hall link]
+ | Last album  = 
+ | This album  = 
+ | Next album  = 
+}}
+
+'''In Concert: Live at Philharmonic Hall''' is a double album recorded by trumpeter [[Miles Davis]].
+It was recorded live at [[Avery Fisher Hall|Philharmonic Hall]], [[New York, New York]] on September 29, 1972.  The two discs have been given the individual titles '''Foot Fooler''' and '''Slickaphonics'''.
+
+----
+
+== '''Track Listing''' ==
+'''Disc 1: "FOOT FOOLER" IN CONCERT, PARTS 1 & 2'''
+{| class="wikitable"
+|-
+! <CENTER>Track</CENTER>
+! <CENTER>Song Title</CENTER>
+! <CENTER>Length</CENTER>
+|-
+| 1.
+| Rated X
+| <CENTER>12:16</CENTER>
+|-
+| 2.
+| Honky Tonk
+| <CENTER>9:18</CENTER>
+|-
+| 3.
+| Theme from Jack Johnson
+| <CENTER>10:12</CENTER>
+|-
+| 4.
+| Black Satin/The Theme
+| <CENTER>14:14</CENTER>
+|}
+
+'''Disc 2: "SLICKAPHONICS" IN CONCERT, PARTS 3 & 4:'''
+{| class="wikitable"
+|-
+! <CENTER>Track</CENTER>
+! <CENTER>Song Title</CENTER>
+! <CENTER>Length</CENTER>
+|-
+| 1.
+| Ife
+| <CENTER>27:53</CENTER>
+|-
+| 2.
+| Right Off/The Theme
+| <CENTER>10:30</CENTER>
+|}
+
+== Performers ==
+[[Miles Davis]] - [[Trumpet]]<br />
+[[Carlos Garnett]] - Soprano & Tenor [[Saxophone]]<br />
+[[Cedric Lawson]] - [[Electric Piano]], [[Synthesizer]]<br />
+[[Reggie Lucas]] - [[Guitar]]<br />
+[[Khalil Balakrishna]] - [[Electric Guitar]]<br />
+[[Michael Henderson]] - [[Electric Bass]]<br />
+[[Al Foster]] - [[Drums]]<br />
+[[Badal Roy]] - [[Tabla]]s<br />
+[[James Mtume]] - [[Percussion]]<br />
+{{album-stub}}
+[[Category:Miles Davis albums]]

@@ -1,0 +1,12 @@
+The term '''change management''' can refer to:
+
+*[[Change management (engineering)]], a process in systems engineering
+*[[Change management (people)]], a structured approach to change in individuals, teams, organizations and societies
+*[[Change Management (ITSM)]], an IT Service Management discipline
+
+==See also==
+*[[Change management auditing]]
+*[[Change management analyst]]
+*[[Change control]]
+
+{{disambig}}

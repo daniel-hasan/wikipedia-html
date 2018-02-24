@@ -1,0 +1,90 @@
+{{Infobox Ship Class
+ | Class image= [[Image:S-56 from sea.jpg|300px|]]
+ | Class caption= [[S-56 submarine|''S-56'']] submarine on display in [[Vladivostok]]
+ | Class type= Diesel attack submarine
+ | Class name= S
+ | Class number= 56
+ | Class before=[[Shchuka class submarine|Shch]]
+ | Class after= [[K class submarine (Soviet)|K]]
+ | Class displacement=840 [[tonne]]s (surfaced) <br> 1050 tonnes (submerged)
+ | Class length=77.8 [[m]]
+ | Class beam=6.4 m
+ | Class draught=4.4 m
+ | Class depth=100 m
+ | Class propulsion= 2 x diesels (2000 [[Horsepower|hp]]) <br> 2 x electric motors (550 hp) <br> 2 x propeller.
+ | Class speed= 19.5 [[Knot (speed)|knots]] (36 [[km/h]]) surfaced <br> 9 knots (16.7 km/h) submerged
+ | Class range= 9800 [[mile]]s (10.4 knots) surfaced <br> 148 miles (3 knots) submerged
+ | Class complement= 8 officers <br> 16 non-coms and <br> 21 ratings
+ | Class armament= 6 x 533 mm tubes <br> (4 fore, 2 aft, 12 torpedoes) <br> 1 x 100 mm [[B-24-2]] gun <br> 1 x 45 mm [[21-K]] gun <br> mines 
+ | Class sensors=2 x periscopes <br>
+Mars-12 microphone system <br>
+Sirius communication system <br>
+[[ASDIC]] (on some boats)
+}}
+'''Type S''' medium ({{Lang-ru|C - Средняя}}) [[submarine]]s (unofficially nicknamed '''''Stalinets''''') were one of the most widely produced and employed submarine class in the [[Soviet Navy]] during [[World War II]]. Boats of this class were the most successful and achieved most significant victories among all Soviet submarines. They sunk totally 82,770 [[Tonnage|Gross Register Tonnage]] (GRT) of merchant shipping and seven [[warship]]s, which accounts for about one-third of all tonnage sunk by Soviet submarines.
+
+==Project history==
+'''Type S''' history represents quite an interesting turn in a warship development. It was a result of international collaboration between [[Soviet Union|Soviet]] and German engineers that resulted in two different (but nevertheless, still related) classes of submarines often pitted against each other in the war.
+
+In early 1930s the Soviet government started a massive program of general rearmament, including naval expansion. Submarines were one key point of this program, but currently available types did not completely satisfy naval authorities. The recently developed [[Type Sch submarine]] was satisfactory, but it was designed specifically for shallow [[Baltic Sea]] service and lacked true ocean-going capabilities, and larger boats of Soviet Navy were quickly getting obsolete.
+
+Thus, government commissioned several engineers to search for suitable design for medium-sized ocean-going submarine, and this search soon brought a success. After its defeat in [[World War I]], the German [[Weimar Republic]] was forbidden under the terms of the [[Treaty of Versailles]] to have submarines or build them in its own yards. Germany circumvented this restriction by creating various subsidiaries of their shipbuilding and design companies in third countries.
+
+One of such proxies, the [[Netherlands]] based [[NV Ingenieurskantoor voor Scheepsbouw]] (IvS), a subsidiary of [[Deutsche Schiff- und Maschinenbau AG]]-[[AG Weser]], was developing a similar design for a [[Spanish Navy]], called E-1. The boat was already laid down in [[Cadiz]], when the events of [[Spanish Revolution]] made it clear that the ship would not be commissioned. Designers and builders then went to offer the design and the boat for sale to return their cost. Soviet engineers, among others, visited the yard in 1932 and were generally satisfied with the design, but suggested several modifications and improvements, in expectation of future local production. Another group of engineers went next year to IvS office in [[Hague]], as well as [[Bremen]] office of Deschimag, and then attended the completed boat's trials in [[Cartagena, Spain|Cartagena]].
+
+Despite several problems with trials, the design was considered satisfactory and Soviet government bought the design, with the condition that Deschimag would make the suggested improvements to it and assist with the building of several prototypes, which it did. Said modifications resulted in significant rework of the project that was then designated E-2. Blueprints were received from Germany in the end of 1933 and on August 14, 1934, the design was officially approved for production, designated ''IX series''. Construction of the first two prototypes commenced in December 1934 at the [[Baltic Shipyard]] (''Baltiysky zavod'') in [[Leningrad]], using partially German equipment. In April 1935, the third prototype was laid down as well.
+
+By the time the third prototype was started, it became obvious that building the boats with foreign equipment would be too expensive, so design was reworked slightly to use only domestically produced equipment. The result of this modification was designated ''IX-bis series'' and went to mass production in 1936. Initially the first prototypes received the official designations N-1, N-2, and N-3 (''Nemetskaya'' for ''German'') but in October 1937 they were re-designated S-x (''Srednyaya'' for ''Medium''). In the West the class was much more widely known for its nickname, ''Stalinets'', coined in analogy to earlier boats of [[Type L submarine|''Leninets'' type]], but it was never featured in any official documents.
+
+The E-1 boat was eventually sold to [[Turkey]] in 1935, and was a prototype for German's own boats of [[German Type I submarine|Type I]]. This design was later improved to become the famous [[German Type VII submarine|German type VII]] and [[German Type IX submarine|type IX]] [[U-boat]]s of the [[Kriegsmarine]].
+
+==Building and trials==
+Five naval yards were employed in series production of the class, three in [[Leningrad]] (#189, #194, and #196), one in [[Nikolayev]] (#198) and one in [[Gorky]] (#112). Boats for [[Russian Pacific Fleet|Pacific Fleet]] were assembled from prefabricated sections, delivered by railroad, in [[Vladivostok]]'s plant #202. The first boat was completed in the beginning of December 1935, and it performed its first submersion on [[December 15]]. Next August both first boats entered official trials, and while several requirements were not met (for example, speed was 0.5 knots lower that specs' 20 knots) and there were some technical difficulties, the project was considered successful and boats were commissioned into [[Soviet Navy]].
+
+The third boat, while still using other German machinery, was powered by Soviet-made diesels, due to delays in delivery of originally intended ones. However, adaptation to significantly different domestic engines required significant redesigns that slowed construction. These modifications were later included into the official blueprints and were the foundation of the later, completely domestically build production series. These series were produced for all four fleets, with boats for [[Baltic Fleet|Baltic]], [[Soviet Red Banner Northern Fleet|Northern]], and [[Russian Pacific Fleet|Pacific]] fleets being built in [[Leningrad]], [[Black Sea Fleet]] boats in [[Nikolayev]], and some boats for Baltic and North in [[Gorky]].
+
+During the war the formerly riverboat production yard #638 in [[Astrakhan]] was employed for completion of several boats constructed in Leningrad and Gorky. Several boats were not completed: S-36, S-37 and S-38 were scuttled in the Nikolayev yard before the city was captured by Germans, and S-27 to S-30, S-45, and S-47, frozen during the war, were not completed after it, as their design was considered already obsolete. These boats were generally scrapped; however S-27's hull was eventually utilized for a workshop ship.
+
+==Technical description==
+There existed three mass-produced variations, differing mostly in the equipment used. The first series utilized German engines and batteries, while the second was produced with domestic machinery. The third series introduced further improvements aimed mostly at lowering production cost and time, and the fourth series, albeit planned, was cancelled due to the beginning of the war.
+
+===IX series===
+Only three ships were built, S-1, S-2, and S-3, using partially German-supplied machinery. The boats were of semi-double hull type, with riveted [[pressure hull]] and welded [[light hull]] sections in [[superstructure]] and extremities for improved seaworthiness. Sail was medium sized and oval in plane, to reduce water drag. It housed [[conning tower]], [[bridge]], [[periscope]] fairings, and 45&nbsp;mm anti-aircraft gun. A saw for breaking through the nets was mounted in the bow. Hull was separated into seven compartments, three of which were able to withstand 10 &nbsp;[[Atmosphere (unit)|atm]] pressure. Nine main [[ballast tank]]s, separated into three groups (4 bow, 2 stern, and 3 middle), together with a balancing tank and a quick dive tank were placed in the light hull. Trimming tanks were inside the pressure hull. Ballast tanks were emptied by pressurized air or engines exhaust, thus removing the need for ballast pumps. 
+
+Boats were powered by two [[MAN AG|MAN]] М6V49/48 [[four-stroke]] atmospheric reversive [[Diesel engine|diesels]] (2000&nbsp;hp each at 465&nbsp;rev/min) that drove two fixed pitch propellers together with two [[Electrosila]] PG-72/35 electric motors (550&nbsp;hp at 275&nbsp;rev/min), connecting by BAMAG type friction [[clutch]]. Delivery of the engines for the third boat was constantly delayed and eventually it was equipped with domestically produced ones. For underwater propulsion energy was supplied by 124 [[APA]] 38-MAK-760 accumulators, equipped with K-5 hydrogen burners. Batteries lacked traditional central walkway, instead using special service trolleys suspended from deckhead. This design allowed to significantly decrease the height of the battery compartment, freeing space for crew. The electrical system omitted the complicated layout common on earlier Soviet designs and was simple and reliable. All connections were insulated and the [[bulkhead]] feedthroughs were designed to withstand same pressure as the bulkheads themselves.
+
+The vessels were relatively heavily armed for their size, equipped with six [[torpedo]] tubes (four [[Bow (ship)|bow]] and two [[stern]]) of 533&nbsp;mm caliber. Six spare torpedoes could be stored in the racks of the bow torpedo compartment, so the complete load was 12 torpedoes. Usually [[53-38 torpedo|53-38]] torpedoes were used, as high-speed [[53-39 torpedo|53-39]] torpedoes were available only in limited numbers, and electric [[ET-80 torpedo|ET-80]] torpedoes were unreliable and the crews did not like them. It was also possible to launch [[Naval mine|mine]]s through torpedo tubes. No torpedo automates were installed, and all shooting was manual. The rear torpedo tubes had an interesting feature: instead of common doors they were closed by a special rotating cylinder that streamlined the contour of the stern when the tubes were not in use. A 45-mm semi-automatic [[anti-aircraft gun]] was mounted on the conning tower, and a 100&nbsp;mm gun was installed on the superstructure deck for surface combat. 
+
+Observation and communication equipment was somewhat less that top-level, but generally adequate. The boats were equipped with two [[periscope]]s, observation PZ-7.5 and targeting PA-7.5, however, they were mounted very close to each other and reports existed of difficulties in their simultaneous use. Several radios were installed. The [[Mars-12 microphone system]] was primary an underwater sensor, and an underwater communication system was also installed on all boats. No radars were attempted to be installed on any series of the type. Complete lack of fire control systems contributed to rather mediocre fire efficiency.
+
+===IX-bis series===
+Instead of German engines domestically produced 1D turbo-diesels were installed. Unlike their foreign counterparts, they had (for the same power) slightly higher speeds and were non-reversible. To accommodate [[turbocompressor]]s and other additional systems, exhaust manifolds were enlarged and various subsystems completely redesigned. In addition, domestically produced batteries were used. The open bridge was redesigned after requests from the crews, returning to traditional closed type. Later in the war boats were equipped with a Burun-M [[radio director]], and the radios received an upgrade. Some boats were also equipped with periscope aerials, allowing the use of radio at periscope depths, and an [[ASDIC]] was mounted on most of the boats, significantly increasing patrolling and fire efficiency.
+
+===IX-bis-2 series===
+Many minor improvements were introduced in this series, mostly to reduce cost and production time. Welding started to be implemented in building pressure hull as well.
+
+===Project 97===
+A major redesign of the series was started in early [[1940s]], including new engines, increased torpedo load and an all-welded pressure hull, but war interrupted the work and all six boats of first series were scuttled soon after laying down.
+
+==Service==
+===Winter war===
+===Great Patriotic War===
+====Baltic sea====
+====Arctic seas====
+====Black sea====
+===Performance===
+==After war==
+==References==
+{{reflist}}
+
+* [http://www.dutchsubmarines.com/export/export_ivs.htm Dutch Export Submarines - Ingenieurskantoor voor Scheepsbouw]
+
+{{WWIISovietShips}}
+
+[[Category:Submarine classes|S]]
+[[Category:Submarines of the Soviet Union|S]]
+[[Category:World War II submarines of the Soviet Union|S]]
+
+[[cs:Ponorka třídy S]]
+[[ru:Подводные лодки типа «Средняя»]]
+[[fi:Stalinets-luokka]]

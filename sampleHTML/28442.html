@@ -1,0 +1,464 @@
+
+<p>In <a href="/wiki/Computer_science" id="w">computer science</a> and <a href="/wiki/Mathematics" id="w">mathematics</a>, a <b>sorting algorithm</b> is an <a href="/wiki/Algorithm" id="w">algorithm</a> that puts elements of a <a href="/wiki/List_(computing)" id="w">list</a> in a certain <a href="/wiki/Total_order" id="w">order</a>. The   most-used orders are numerical order and <a href="/wiki/Lexicographical_order" id="w">lexicographical order</a>. Efficient <a href="/wiki/Sorting" id="w">sorting</a> is important to optimizing the use of other algorithms (such as <a href="/wiki/Search_algorithm" id="w">search</a> and <a href="/wiki/Merge_algorithm" id="w">merge</a> algorithms) that require sorted lists to work correctly; it is also often useful for <a href="/wiki/Canonicalization" id="w">canonicalizing</a> data and for producing human-readable output. More formally, the output must satisfy two conditions:</p>
+
+<ol>
+<li>The output is in nondecreasing order (each element is no smaller than the previous element according to the desired <a href="/wiki/Total_order" id="w">total order</a>);</li>
+<li>The output is a <a href="/wiki/Permutation" id="w">permutation</a>, or reordering, of the input.</li></ol>
+<p>Since the dawn of computing, the sorting problem has attracted a great deal of research, perhaps due to the complexity of solving it efficiently despite its simple, familiar statement. For example, <a href="/wiki/Bubble_sort" id="w">bubble sort</a> was analyzed as early as 1956.<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup> Although many consider it a solved problem, useful new sorting algorithms are still being invented to this day (for example, <a href="/wiki/Library_sort" id="w">library sort</a> was first published in 2004). Sorting algorithms are prevalent in introductory computer science classes, where the abundance of algorithms for the problem provides a gentle introduction to a variety of core algorithm concepts, such as <a href="/wiki/Big_O_notation" id="w">big O notation</a>, <a href="/wiki/Divide-and-conquer_algorithm" id="w">divide-and-conquer algorithms</a>, <a href="/wiki/Data_structure" id="w">data structures</a>, <a href="/wiki/Randomized_algorithm" id="w">randomized algorithms</a>, <a href="/wiki/Best%2C_worst_and_average_case" id="w">best, worst and average case</a> analysis, <a href="/wiki/Time-space_tradeoff" id="w">time-space tradeoffs</a>, and lower bounds.</p>
+<a id="Classification" name="Classification"></a><h2> Classification </h2>
+<p>Sorting algorithms used in <a href="/wiki/Computer_science" id="w">computer science</a> are often classified by:</p>
+
+<ul>
+<li>Computational <a href="/wiki/Computational_complexity_theory" id="w">complexity</a> (<a href="/wiki/Worst-case_performance" id="w">worst</a>, <a href="/wiki/Average_performance" id="w">average</a> and <a href="/wiki/Best-case_performance" id="w">best</a> behaviour) of element comparisons in terms of the size of the list (<i>n</i>). For typical sorting algorithms good behavior is <a href="/wiki/Big_O_notation" id="w">O</a>(<i>n</i>&#160;log&#160;<i>n</i>) and bad behavior is Ω(<i>n</i>²). (See <a href="/wiki/Big_O_notation" id="w">Big O notation</a>) Ideal behavior for a sort is O(<i>n</i>). Sort algorithms which only use an abstract key comparison operation always need Ω(<i>n</i>&#160;log&#160;<i>n</i>) comparisons in the worst case.</li>
+<li>Computational <a href="/wiki/Computational_complexity_theory" id="w">complexity</a> of swaps (for &#34;in place&#34; algorithms).</li>
+<li>Memory usage (and use of other computer resources). In particular, some sorting algorithms are &#34;<a href="/wiki/In-place_algorithm" id="w">in place</a>&#34;, such that only O(1) or O(log n) memory is needed beyond the items being sorted, while others need to create auxiliary locations for data to be temporarily stored.</li>
+<li>Recursion.  Some algorithms are either recursive or non recursive, while others may be both (e.g., merge sort).</li>
+<li>Stability: <b>stable sorting algorithms</b> maintain the relative order of records with equal keys (i.e., values). See below for more information. </li>
+<li>Whether or not they are a <a href="/wiki/Comparison_sort" id="w">comparison sort</a>. A comparison sort examines the data only by comparing two elements with a comparison operator.</li>
+<li>General method: insertion, exchange, selection, merging, <i>etc</i>. Exchange sorts include bubble sort and quicksort. Selection sorts include shaker sort and heapsort.</li></ul>
+<a id="Stability" name="Stability"></a><h4> Stability </h4>
+<p><i>Stable sorting algorithms</i> maintain the relative order of {{ml}} (i.e., sort key values).
+That is, a sorting algorithm is <i>stable</i> if whenever there are two records <i>R</i> and <i>S</i> with the same key and with <i>R</i> appearing before <i>S</i> in the original list, <i>R</i> will appear before <i>S</i> in the sorted list. </p>
+<p>When equal elements are indistinguishable, such as with integers, or more generally, any data where the entire element is the key, stability is not an issue. However, assume that the following pairs of numbers are to be sorted by their first component:</p>
+<pre>(4, 1)  (3, 7)  (3, 1)  (5, 6)
+</pre>
+<p>In this case, two different results are possible, one which maintains the relative order of records with equal keys, and one which does not:</p>
+<pre>(3, 7)  (3, 1)  (4, 1)  (5, 6)   (order maintained)
+(3, 1)  (3, 7)  (4, 1)  (5, 6)   (order changed)
+</pre>
+<p>Unstable sorting algorithms may change the relative order of records with equal keys, but stable sorting algorithms never do so. Unstable sorting algorithms can be specially implemented to be stable. One way of doing this is to artificially extend the key comparison, so that comparisons between two objects with otherwise equal keys are decided using the order of the entries in the original data order as a tie-breaker. Remembering this order, however, often involves an additional space cost.</p>
+<p>Sorting based on a primary, secondary, tertiary, etc. sort key can be done by any sorting method, taking all sort keys into account in comparisons (in other words, using a single composite sort key). If a sorting method is stable, it is also possible to sort multiple times, each time with one sort key. In that case the keys need to be applied in order of increasing priority.</p>
+<p>Example: sorting pairs of numbers as above by first, then second component:</p>
+<pre>(4, 1)  (3, 7)  (3, 1)  (4, 6) (original)
+
+(4, 1)  (3, 1)  (4, 6)  (3, 7) (after sorting by second component)
+(3, 1)  (3, 7)  (4, 1)  (4, 6) (after sorting by first component)
+</pre>
+<p>On the other hand:</p>
+<pre>(3, 7)  (3, 1)  (4, 1)  (4, 6) (after sorting by first component)
+(3, 1)  (4, 1)  (4, 6)  (3, 7) (after sorting by second component, 
+                                order by first component is disrupted)
+
+</pre><a id="List_of_sorting_algorithms" name="List_of_sorting_algorithms"></a><h2> List of sorting algorithms </h2>
+<p>In this table, <i>n</i> is the number of records to be sorted. The columns &#34;Average&#34; and &#34;Worst&#34; give the time complexity in each case, under the assumption that the length of each key is constant, and that therefore all comparisons, swaps, and other needed operations can proceed in constant time. &#34;Memory&#34; denotes the amount of auxiliary storage needed beyond that used by the list itself, under the same assumption. These are all <a href="/wiki/Comparison_sort" id="w">comparison sorts</a>.</p>
+
+<div style="page-break-inside:	avoid;">
+<table class="wikitable sortable">
+<tr>
+<th>Name  </th>
+<th>Average </th>
+<th>Worst </th>
+<th>Memory </th>
+<th>Stable </th>
+<th>Method </th>
+<th>Other notes
+</th></tr>
+<tr align="center">
+<td><a href="/wiki/Bubble_sort" id="w">Bubble sort</a></td>
+<td>&#8212;</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Exchanging</td>
+<td align="left" nowrap="null">Times are for best variant
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Cocktail_sort" id="w">Cocktail sort</a></td>
+<td>&#8212;</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Exchanging </td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Comb_sort" id="w">Comb sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ffdddd">No </td>
+<td>Exchanging </td>
+<td align="left" nowrap="null">Small code size
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Gnome_sort" id="w">Gnome sort</a></td>
+<td>&#8212;</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Exchanging </td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Selection_sort" id="w">Selection sort</a></td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ffdddd">No </td>
+<td>Selection </td>
+<td align="left" nowrap="null">Can be implemented as a stable sort
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Insertion_sort" id="w">Insertion sort</a></td>
+<td style="background:#ffdddd">O(<i>n</i> + <i>d</i>)</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Insertion </td>
+<td align="left" nowrap="null"><i>d</i> is the number of <a href="/wiki/Permutation_groups#Simple transpositions, inversions and sorting" id="w">inversions</a>, which is O(<i>n</i>²)
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Shell_sort" id="w">Shell sort</a></td>
+<td>&#8212;</td>
+<td style="background:#ffdddd">O(<i>n</i>&#160;log²&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ffdddd">No </td>
+<td>Insertion</td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Binary_tree_sort" id="w">Binary tree sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td>O(<i>n</i>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Insertion </td>
+<td align="left" nowrap="null">When using a <a href="/wiki/Self-balancing_binary_search_tree" id="w">self-balancing binary search tree</a>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Library_sort" id="w">Library sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td>O(<i>n</i>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Insertion </td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Merge_sort" id="w">Merge sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td>O(<i>n</i>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Merging </td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/In-place" id="w">In-place</a> <a href="/wiki/Merge_sort" id="w">merge sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Merging</td>
+<td align="left" nowrap="null">
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Heapsort" id="w">Heapsort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ffdddd">No </td>
+<td>Selection </td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Smoothsort" id="w">Smoothsort</a></td>
+<td>&#8212;</td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(1)</td>
+<td style="background:#ffdddd">No </td>
+<td>Selection </td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Quicksort" id="w">Quicksort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td>O(log <i>n</i>)</td>
+<td style="background:#ffdddd">No </td>
+<td>Partitioning</td>
+<td align="left" nowrap="null"><a href="/wiki/Na%C3%AFve_algorithm" id="w">Naïve</a> variants use O(<i>n</i>) space; can be O(<i>n</i> log <i>n</i>) worst case if median pivot is used
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Introsort" id="w">Introsort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td>O(log <i>n</i>)</td>
+<td style="background:#ffdddd">No </td>
+<td>Hybrid </td>
+<td align="left" nowrap="null">used in most implementations of <a href="/wiki/Standard_Template_Library" id="w">STL</a> {{Fact}}
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Patience_sorting" id="w">Patience sorting</a></td>
+<td>&#8212;</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td>O(<i>n</i>)</td>
+<td style="background:#ffdddd">No </td>
+<td>Insertion</td>
+<td align="left">Finds all the <a href="/wiki/Longest_increasing_subsequence" id="w">longest increasing subsequences</a> within O(<i>n</i> log <i>n</i>)
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Strand_sort" id="w">Strand sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>&#160;log&#160;<i>n</i>)</td>
+<td style="background:#ffdddd">O(<i>n</i>²)</td>
+<td>O(<i>n</i>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Selection</td>
+<td align="left" /></tr></table></div>
+
+<p>This table describes sorting algorithms that are not <a href="/wiki/Comparison_sort" id="w">comparison sorts</a>. As such, they are not limited by a O(<i>n</i> log <i>n</i>) lower bound.  Complexities below are in terms of <i>n</i>, the number of items to be sorted, <i>k</i>, the size of each key, and <i>s</i>, the chunk size used by the implementation. Many of them are based on the assumption that the key size is large enough that all entries have unique key values, and hence that <i>n</i> &#60;&#60; 2<sup><i>k</i></sup>, where &#60;&#60; means &#34;much less than.&#34;</p>
+
+<div style="page-break-inside:	avoid;">
+<table class="wikitable sortable">
+<tr>
+<th>Name  </th>
+<th>Average </th>
+<th>Worst </th>
+<th>Memory </th>
+<th>Stable </th>
+<th><i>n</i> &#60;&#60; 2<sup><i>k</i></sup>? </th>
+<th>Notes
+</th></tr>
+<tr align="center">
+<td><a href="/wiki/Pigeonhole_sort" id="w">Pigeonhole sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>+2<sup><i>k</i></sup>)</td>
+<td style="background:#ddffdd">O(<i>n</i>+2<sup><i>k</i></sup>)</td>
+<td>O(2<sup><i>k</i></sup>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Yes</td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Bucket_sort" id="w">Bucket sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>·<i>k</i>)</td>
+<td style="background:#ffdddd">O(<i>n</i>²·<i>k</i>)</td>
+<td>O(<i>n</i>·<i>k</i>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>No</td>
+<td>Assumes uniform distribution of elements from the domain in the array.
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Counting_sort" id="w">Counting sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>+2<sup><i>k</i></sup>)</td>
+<td style="background:#ddffdd">O(<i>n</i>+2<sup><i>k</i></sup>)</td>
+<td>O(<i>n</i>+2<sup><i>k</i></sup>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>Yes</td>
+<td>
+</td></tr>
+<tr align="center">
+<td>LSD <a href="/wiki/Radix_sort" id="w">Radix sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>·<i>k</i>/<i>s</i>)</td>
+<td style="background:#ddffdd">O(<i>n</i>·<i>k</i>/<i>s</i>)</td>
+<td>O(<i>n</i>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>No</td>
+<td>
+</td></tr>
+<tr align="center">
+<td>MSD <a href="/wiki/Radix_sort" id="w">Radix sort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>·<i>k</i>/<i>s</i>)</td>
+<td style="background:#ddffdd">O(<i>n</i>·(<i>k</i>/<i>s</i>)·2<sup><i>s</i></sup>)</td>
+<td>O((<i>k</i>/<i>s</i>)·2<sup><i>s</i></sup>)</td>
+<td style="background:#ffdddd">No </td>
+<td>No</td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Spreadsort" id="w">Spreadsort</a></td>
+<td style="background:#ddffdd">O(<i>n</i>·<i>k</i>/log(<i>n</i>))</td>
+<td style="background:#ddffdd">O(<i>n</i>·(<i>k</i> - log(<i>n</i>))<sup>.5</sup>)</td>
+<td>O(<i>n</i>)</td>
+<td style="background:#ffdddd">No </td>
+<td>No</td>
+<td>Asymptotics are based on the assumption that n &#60;&#60; 2<sup>k</sup>, but the algorithm does not require this.</td></tr></table></div>
+
+<p>This table describes some sorting algorithms that are impractical for real-life use due to extremely poor performance or a requirement for specialized hardware.</p>
+
+<div style="page-break-inside:	avoid;">
+<table class="wikitable sortable">
+<tr>
+<th>Name  </th>
+<th>Average </th>
+<th>Worst </th>
+<th>Memory </th>
+<th>Stable </th>
+<th>Comparison </th>
+<th>Other notes
+</th></tr>
+<tr align="center">
+<td><a href="/wiki/Bogosort" id="w">Bogosort</a></td>
+<td>O(<i>n</i> &#215; <i>n</i>!)</td>
+<td>∞</td>
+<td>O(1)</td>
+<td style="background:#ffdddd">No </td>
+<td>Yes </td>
+<td align="left">Average time using Knuth shuffle
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Bogosort#Bozo sort" id="w">Bozo sort</a></td>
+<td>O(<i>n</i> &#215; <i>n</i>!)</td>
+<td>∞</td>
+<td>O(1)</td>
+<td style="background:#ffdddd">No </td>
+<td>Yes </td>
+<td align="left">Average time is asymptotically half that of bogosort
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Stooge_sort" id="w">Stooge sort</a></td>
+<td>O(<i>n</i><sup>2.71</sup>)</td>
+<td>O(<i>n</i><sup>2.71</sup>)</td>
+<td>O(log <i>n</i>)</td>
+<td style="background:#ffdddd">No </td>
+<td>Yes </td>
+<td>
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Bead_sort" id="w">Bead sort</a></td>
+<td>N/A</td>
+<td>N/A</td>
+<td>&#8212;</td>
+<td>N/A </td>
+<td>No</td>
+<td align="left" nowrap="null">Requires specialized hardware
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Pancake_sorting" id="w">Simple pancake sort</a></td>
+<td>O(<i>n</i>)</td>
+<td>O(<i>n</i>)</td>
+<td>O(log <i>n</i>)</td>
+<td style="background:#ffdddd">No </td>
+<td>Yes</td>
+<td align="left" nowrap="null">Count is number of flips.
+</td></tr>
+<tr align="center">
+<td><a href="/wiki/Sorting_network" id="w">Sorting network</a>s</td>
+<td>O(log <i>n</i>)</td>
+<td>O(log <i>n</i>)</td>
+<td>O(<i>n</i>•log <i>n</i>)</td>
+<td style="background:#ddffdd">Yes </td>
+<td>No</td>
+<td align="left" nowrap="null">Requires a custom circuit of size O(<i>n</i>•log <i>n</i>)</td></tr></table></div>
+
+<a id="Summaries_of_popular_sorting_algorithms" name="Summaries_of_popular_sorting_algorithms"></a><h2> Summaries of popular sorting algorithms </h2>
+<a id="Bubble_sort" name="Bubble_sort"></a><h3> Bubble sort </h3>
+<p>{{main}}
+<i>Bubble sort</i> is a straightforward and simplistic method of sorting data that is used in computer science education. The algorithm starts at the beginning of the data set. It compares the first two elements, and if the first is greater than the second, it swaps them. It continues doing this for each pair of adjacent elements to the end of the data set. It then starts again with the first two elements, repeating until no swaps have occurred on the last pass. While simple, this algorithm is highly inefficient and is rarely used except in education. A slightly better variant, <a href="/wiki/Cocktail_sort" id="w">cocktail sort</a>, works by inverting the ordering criteria and the pass direction on alternating passes.
+Its average case and worst case are both O(<i>n</i>²).</p>
+<a id="Selection_sort" name="Selection_sort"></a><h3> Selection sort </h3>
+<p>{{main}}
+<i>Selection sort</i> is a simple sorting algorithm that improves on the performance of bubble sort. It works by first finding the smallest element using a linear scan and swapping it into the first position in the list, then finding the second smallest element by scanning the remaining elements, and so on. Selection sort is unique compared to almost any other algorithm in that its running time is not affected by the prior ordering of the list: it performs the same number of operations because of its simple structure. Selection sort also requires only <i>n</i> swaps, and hence just Θ(<i>n</i>) memory writes, which is optimal for any sorting algorithm. Thus it can be very attractive if writes are the most expensive operation, but otherwise selection sort will usually be outperformed by insertion sort or the more complicated algorithms.</p>
+<a id="Insertion_sort" name="Insertion_sort"></a><h3> Insertion sort </h3>
+<p>{{main}}
+<i>Insertion sort</i> is a simple sorting algorithm that is relatively efficient for small lists and mostly-sorted lists, and often is used as part of more sophisticated algorithms. It works by taking elements from the list one by one and inserting them in their correct position into a new sorted list. In arrays, the new list and the remaining elements can share the array&#39;s space, but insertion is expensive, requiring shifting all following elements over by one. The insertion sort works just like its name suggests - it inserts each item into its proper place in the final list. The simplest implementation of this requires two list structures - the source list and the list into which sorted items are inserted. To save memory, most implementations use an in-place sort that works by moving the current item past the already sorted items and repeatedly swapping it with the preceding item until it is in place. <a href="/wiki/Shell_sort" id="w">Shell sort</a> (see below) is a variant of insertion sort that is more efficient for larger lists. This method is much more efficient than the bubble sort, though it has more constraints.</p>
+<a id="Shell_sort" name="Shell_sort"></a><h3> Shell sort </h3>
+<p>{{main}}
+<i>Shell sort</i> was invented by <a href="/wiki/Donald_Shell" id="w">Donald Shell</a> in <a href="/wiki/1959" id="w">1959</a>. It improves upon bubble sort and insertion sort by moving out of order elements more than one position at a time. One implementation can be described as arranging the data sequence in a two-dimensional array and then sorting the columns of the array using insertion sort. Although this method is inefficient for large data sets, it is one of the fastest algorithms for sorting small numbers of elements (sets with less than 1000 or so elements). Another advantage of this algorithm is that it requires relatively small amounts of memory.</p>
+<a id="Merge_sort" name="Merge_sort"></a><h3> Merge sort </h3>
+<p>{{main}}
+<i>Merge sort</i> takes advantage of the ease of merging already sorted lists into a new sorted list. It starts by comparing every two elements (i.e., 1 with 2, then 3 with 4...) and swapping them if the first should come after the second. It then merges each of the resulting lists of two into lists of four, then merges those lists of four, and so on; until at last two lists are merged into the final sorted list. Of the algorithms described here, this is the first that scales well to very large lists, because its worst-case running time is O(<i>n</i> log <i>n</i>). </p>
+<a id="Heapsort" name="Heapsort"></a><h3> Heapsort </h3>
+<p>{{main}}
+<i>Heapsort</i> is a much more efficient version of <a href="/wiki/Selection_sort" id="w">selection sort</a>. It also works by determining the largest (or smallest) element of the list, placing that at the end (or beginning) of the list, then continuing with the rest of the list, but accomplishes this task efficiently by using a data structure called a <a href="/wiki/Heap_(data_structure)" id="w">heap</a>, a special type of <a href="/wiki/Binary_tree" id="w">binary tree</a>. Once the data list has been made into a heap, the root node is guaranteed to be the largest element. When it is removed and placed at the end of the list, the heap is rearranged so the largest element remaining moves to the root. Using the heap, finding the next largest element takes <i>O(log n)</i> time, instead of <i>O(n)</i> for a linear scan as in simple selection sort. This allows Heapsort to run in <i>O(n log n)</i> time.</p>
+<a id="Quicksort" name="Quicksort"></a><h3> Quicksort </h3>
+<p>{{main}}
+<i>Quicksort</i> is a <a href="/wiki/Divide_and_conquer_algorithm" id="w">divide and conquer</a> <a href="/wiki/Algorithm" id="w">algorithm</a> which relies on a <i>partition</i> operation: to partition an array, we choose an element, called a <i>pivot</i>, move all smaller elements before the pivot, and move all greater elements after it. This can be done efficiently in linear time and <a href="/wiki/In-place_algorithm" id="w">in-place</a>. We then recursively sort the lesser and greater sublists. Efficient implementations of quicksort (with in-place partitioning) are typically unstable sorts and somewhat complex, but are among the fastest sorting algorithms in practice. Together with its modest O(log <i>n</i>) space usage, this makes quicksort one of the most popular sorting algorithms, available in many standard libraries. The most complex issue in quicksort is choosing a good pivot element; consistently poor choices of pivots can result in drastically slower (O(<i>n</i>²)) performance, but if at each step we choose the <i>median</i> as the pivot then it works in O(<i>n</i>&#160;log&#160;<i>n</i>).</p>
+<a id="Bucket_sort" name="Bucket_sort"></a><h3>Bucket sort</h3>
+<p>{{main}}
+Bucket sort is a sorting algorithm that works by partitioning an array into a finite number of buckets. Each bucket is then sorted individually, either using a different sorting algorithm, or by recursively applying the bucket sorting algorithm. A variation of this method called the single buffered count sort is faster than the quick sort and takes about the same time to run on any set of data.  More information is available at <a class="externallink" href="http://www.mcky.net/hedx.php?res=hsrto" rel="nofollow" title="http://www.mcky.net/hedx.php?res=hsrto">http://www.mcky.net/hedx.php?res=hsrto</a></p>
+<a id="Radix_sort" name="Radix_sort"></a><h3> Radix sort </h3>
+<p>{{main}}
+<i>Radix sort</i> is an algorithm that sorts a list of fixed-size numbers of length <i>k</i> in O(<i>n</i> · <i>k</i>) time by treating them as bit strings. We first sort the list by the least significant bit while preserving their relative order using a stable sort. Then we sort them by the next bit, and so on from right to left, and the list will end up sorted. Most often, the <a href="/wiki/Counting_sort" id="w">counting sort</a> algorithm is used to accomplish the bitwise sorting, since the number of values a bit can have is small.</p>
+<a id="Memory_usage_patterns_and_index_sorting" name="Memory_usage_patterns_and_index_sorting"></a><h2> Memory usage patterns and index sorting </h2>
+<p>When the size of the array to be sorted approaches or exceeds the available primary memory, so that (much slower) disk or swap space must be employed, the memory usage pattern of a sorting algorithm becomes important, and an algorithm that might have been fairly efficient when the array fit easily in RAM may become impractical. In this scenario, the total number of comparisons becomes (relatively) less important, and the number of times sections of memory must be copied or swapped to and from the disk can dominate the performance characteristics of an algorithm. Thus, the number of passes and the localization of comparisons can be more important than the raw number of comparisons, since comparisons of nearby elements to one another happen at <a href="/wiki/Computer_bus" id="w">system bus</a> speed (or, with caching, even at <a href="/wiki/Central_Processing_Unit" id="w">CPU</a> speed), which, compared to disk speed, is virtually instantaneous.</p>
+<p>For example, the popular recursive <a href="/wiki/Quicksort" id="w">quicksort</a> algorithm provides quite reasonable performance with adequate RAM, but due to the recursive way that it copies portions of the array it becomes much less practical when the array does not fit in RAM, because it may cause a number of slow copy or move operations to and from disk. In that scenario, another algorithm may be preferable even if it requires more total comparisons.</p>
+<p>One way to work around this problem, which works well when complex records (such as in a <a href="/wiki/Relational_database" id="w">relational database</a>) are being sorted by a relatively small key field, is to create an index into the array and then sort the index, rather than the entire array. (A sorted version of the entire array can then be produced with one pass, reading from the index, but often even that is unnecessary, as having the sorted index is adequate.)  Because the index is much smaller than the entire array, it may fit easily in memory where the entire array would not, effectively eliminating the disk-swapping problem. This procedure is sometimes called &#34;tag sort&#34;.<sup id="_ref-2" class="reference"><a href="#_note-2" title="">[2]</a></sup></p>
+<p>Another technique for overcoming the memory-size problem is to combine two algorithms in a way that takes advantages of the strength of each to improve overall performance. For instance, the array might be subdivided into chunks of a size that will fit easily in RAM (say, a few thousand elements), the chunks sorted using an efficient algorithm (such as <a href="/wiki/Quicksort" id="w">quicksort</a> or <a href="/wiki/Heapsort" id="w">heapsort</a>), and the results merged as per <a href="/wiki/Mergesort" id="w">mergesort</a>. This is less efficient than just doing mergesort in the first place, but it requires less physical RAM (to be practical) than a full quicksort on the whole array.</p>
+<p>Techniques can also be combined. For sorting very large sets of data that vastly exceed system memory, even the index may need to be sorted using an algorithm or combination of algorithms designed to perform reasonably with <a href="/wiki/Virtual_memory" id="w">virtual memory</a>, i.e., to reduce the amount of swapping required.</p>
+<a id="Graphical_representations" name="Graphical_representations"></a><h2> Graphical representations </h2>
+
+<ul>
+<li><a href="/wiki/Hobart_and_William_Smith_Colleges" id="w">Hobart and William Smith Colleges</a> has a <i><a class="externallink" href="http://math.hws.edu/TMCM/java/xSortLab/" rel="nofollow" title="http://math.hws.edu/TMCM/java/xSortLab/">graphical demonstration</a></i> of various sorting algorithms. It includes explanations of each step in the sort, plus a timing test. Thus is a good tool for the novice computer science student.</li>
+<li><a href="/wiki/University_of_British_Columbia" id="w">University of British Columbia</a> has a <i><a class="externallink" href="http://www.cs.ubc.ca/spider/harrison/Java/sorting-demo.html" rel="nofollow" title="http://www.cs.ubc.ca/spider/harrison/Java/sorting-demo.html">graphical demonstration</a></i> of various in-place sorts.</li>
+<li><a href="/wiki/University_of_Link%C3%B6ping" id="w">University of Linköping</a> has a <i><a class="externallink" href="http://www.ida.liu.se/~TDDB28/mtrl/demo/sorting/index.sv.shtml" rel="nofollow" title="http://www.ida.liu.se/~TDDB28/mtrl/demo/sorting/index.sv.shtml">similar demonstration</a></i> in their course material.</li>
+<li>The <a class="externallink" href="http://thomas.baudel.name/Visualisation/VisuTri/" rel="nofollow" title="http://thomas.baudel.name/Visualisation/VisuTri/">sort algorithm visualizer</a> provides graphical animation of 11 comparison-based sorts in a variety of initial configurations.</li>
+<li>A <a class="externallink" href="http://homepage.mac.com/mihailod/atic/sorting.html" rel="nofollow" title="http://homepage.mac.com/mihailod/atic/sorting.html">Java applet</a> visually demonstrates several sorting algorithms.</li>
+<li><a href="/wiki/Boston_College" id="w">Boston College</a> has a <i><a class="externallink" href="http://vision.bc.edu/~dmartin/teaching/sorting/anim-html/all.html" rel="nofollow" title="http://vision.bc.edu/~dmartin/teaching/sorting/anim-html/all.html">graphical demonstration</a></i> of various sorting algorithms with various initial conditions.</li></ul>
+<p>Microsoft&#39;s &#34;Quick&#34; programming languages (such as <a href="/wiki/QuickBASIC" id="w">QuickBASIC</a> and <a href="/wiki/QuickPascal" id="w">QuickPascal</a>) have a file named &#34;sortdemo&#34; (with extension BAS and PAS for QB and QP, respectively) in the examples folder that provides a graphical representation of several of the various sort procedures described here, as well as performance ratings of each.</p>
+<a id="See_also" name="See_also"></a><h2> See also </h2>
+
+<ul>
+<li><a href="/wiki/Big_O_notation" id="w">Big O notation</a></li>
+<li><a href="/wiki/External_sorting" id="w">External sorting</a></li>
+<li><a href="/wiki/Sorting_network" id="w">Sorting networks</a> (compare)</li>
+<li><a href="/wiki/Collation" id="w">Collation</a></li>
+<li><a href="/wiki/Schwartzian_transform" id="w">Schwartzian transform</a></li>
+<li><a href="/wiki/Shuffle#Shuffling algorithms" id="w">Shuffling algorithms</a></li>
+<li><a href="/wiki/Search_algorithm" id="w">Search algorithm</a>s</li>
+<li><a href="http://en.wikibooks.org/wiki/A-level_Mathematics/D1/Algorithms">Wikibooks: Algorithms</a>: Uses sorting a deck of cards with many sorting algorithms as an example</li></ul>
+<a id="Notes_and_references" name="Notes_and_references"></a><h2>Notes and references</h2>
+<p>{{Reflist}}
+</p>
+<ul>
+<li><a href="/wiki/D._E._Knuth" id="w">D. E. Knuth</a>, <i><a href="/wiki/The_Art_of_Computer_Programming" id="w">The Art of Computer Programming</a>, Volume 3: Sorting and Searching</i>.</li></ul>
+<a id="External_links" name="External_links"></a><h2> External links</h2>
+<p>{{external links}} 
+{{wikibooks}}</p>
+
+<ul>
+<li><a class="externallink" href="http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm" rel="nofollow" title="http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/algoen.htm">Sequential and parallel sorting algorithms</a> - has explanations and analyses of many of these algorithms.</li>
+<li><a class="externallink" href="http://www.dcc.uchile.cl/~rbaeza/handbook/sort_a.html" rel="nofollow" title="http://www.dcc.uchile.cl/~rbaeza/handbook/sort_a.html">Ricardo Baeza-Yates&#39; sorting algorithms on the Web</a></li>
+<li><a class="externallink" href="http://www.nist.gov/dads/" rel="nofollow" title="http://www.nist.gov/dads/">&#39;Dictionary of Algorithms, Data Structures, and Problems&#39;</a></li>
+<li><a class="externallink" href="http://www.softpanorama.org/Algorithms/sorting.shtml" rel="nofollow" title="http://www.softpanorama.org/Algorithms/sorting.shtml">Slightly Skeptical View on Sorting Algorithms</a> Softpanorama page that discusses several classic algorithms and promotes alternatives to quicksort.</li>
+<li><a class="externallink" href="http://www.azillionmonkeys.com/qed/sort.html" rel="nofollow" title="http://www.azillionmonkeys.com/qed/sort.html">Sorting Revisited</a></li>
+<li><a class="externallink" href="http://www.iguanarama.com/programming/sorting/index.html" rel="nofollow" title="http://www.iguanarama.com/programming/sorting/index.html">Sorting small arrays</a> C++ code and analysis looking at the best (fastest) way to sort small (ie &#60; 64) items, including special attention on sorting networks.
+
+<ul>
+<li>For a repository of algorithms with source code and lectures, see <a class="externallink" href="http://www.cs.sunysb.edu/~algorith/" rel="nofollow" title="http://www.cs.sunysb.edu/~algorith/">The Stony Brook Algorithm Repository</a></li>
+<li><a class="externallink" href="http://www.cs.oswego.edu/~mohammad/classes/csc241/samples/sort/Sort2-E.html" rel="nofollow" title="http://www.cs.oswego.edu/~mohammad/classes/csc241/samples/sort/Sort2-E.html">Graphical Java illustrations of the Bubble sort, Insertion sort, Quicksort, and Selection sort</a></li>
+<li><a class="externallink" href="http://math.hws.edu/TMCM/java/xSortLab/" rel="nofollow" title="http://math.hws.edu/TMCM/java/xSortLab/">xSortLab</a> - An interactive Java demonstration of Bubble, Insertion, Quick, Select and Merge sorts, which displays the data as a bar graph with commentary on the workings of the algorithm printed below the graph.</li>
+<li><a class="externallink" href="http://www.cs.ubc.ca/spider/harrison/Java/sorting-demo.html" rel="nofollow" title="http://www.cs.ubc.ca/spider/harrison/Java/sorting-demo.html">Sorting Algorithms Demo</a> - Java applets that chart the progress of several common sorting algorithms while sorting an array of data using in-place algorithms.</li>
+<li><a class="externallink" href="http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/sortcontest/sortcontest.htm" rel="nofollow" title="http://www.iti.fh-flensburg.de/lang/algorithmen/sortieren/sortcontest/sortcontest.htm">Sorting contest</a> - An applet visually demonstrating a contest between a number of different sorting algorithms</li>
+<li>{{it}} <a class="externallink" href="http://www.massimop.eu/index.php?option=com_content&#38;view=article&#38;id=53:graphicsorting&#38;catid=38:java&#38;Itemid=66" rel="nofollow" title="http://www.massimop.eu/index.php?option=com_content&#38;view=article&#38;id=53:graphicsorting&#38;catid=38:java&#38;Itemid=66">Java Applet that show some sorting algorithms</a></li>
+<li><a class="externallink" href="http://www.TropicalCoder.com/3dBubbleSort.htm" rel="nofollow" title="http://www.TropicalCoder.com/3dBubbleSort.htm">The Three Dimensional Bubble Sort</a>- A method of sorting in three or more dimensions (of questionable merit)</li>
+<li><a class="externallink" href="http://www.mycplus.com/utilitiesdetail.asp?iPro=9" rel="nofollow" title="http://www.mycplus.com/utilitiesdetail.asp?iPro=9">Sort huge amounts of data by doing a multi-phase sorting on temporary file</a></li>
+<li><a class="externallink" href="http://siebn.de/index.php?page=anisort/english" rel="nofollow" title="http://siebn.de/index.php?page=anisort/english">AniSort</a> - Java applet visualizing 6 different sorting algorithms</li>
+<li><a class="externallink" href="http://www.naturalordersort.org/" rel="nofollow" title="http://www.naturalordersort.org/">Naturalorder</a> - Natural Order Numerical Sorting</li>
+<li>Pointers to <a class="externallink" href="http://web-cat.cs.vt.edu/AlgovizWiki/SortAlgorithms" rel="nofollow" title="http://web-cat.cs.vt.edu/AlgovizWiki/SortAlgorithms">sorting visualizations</a></li>
+<li><a class="externallink" href="http://www.cs.loyola.edu/~kbg/MonkeySort.pdf" rel="nofollow" title="http://www.cs.loyola.edu/~kbg/MonkeySort.pdf">Monkey Sort discussion (another name for Bozo-sort)</a></li>
+<li><a class="externallink" href="http://home.westman.wave.ca/~rhenry/sort/" rel="nofollow" title="http://home.westman.wave.ca/~rhenry/sort/">Extensive collection of animated sorting algorithms with source code.</a></li>
+<li><a class="externallink" href="http://www.cs.rit.edu/~atk/Java/Sorting/sorting.html" rel="nofollow" title="http://www.cs.rit.edu/~atk/Java/Sorting/sorting.html">Several sorting algorithms demonstrated in Java</a></li>
+<li><a class="externallink" href="http://linux.wku.edu/~lamonml/algor/sort/" rel="nofollow" title="http://linux.wku.edu/~lamonml/algor/sort/">OPL booklet of the main sorting algorithms by Michael Lamont</a></li>
+<li><a class="externallink" href="http://matthewcopeland.com/QiSort.html" rel="nofollow" title="http://matthewcopeland.com/QiSort.html">QiSort - A new O(n log n) algorithm for 2007</a></li></ul>
+{{sorting}}
+
+
+
+<a href="http://ar.wikipedia.org/wiki/خ%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A7%D8%AA_%D8%A7%D9%84%D8%AA%D8%B1%D8%AA%D9%8A%D8%A8">ar:خوارزميات الترتيب</a>
+<a href="http://ca.wikipedia.org/wiki/Algorisme_d%26%2339%3Bordenaci%C3%B3">ca:Algorisme d&#39;ordenació</a>
+<a href="http://cs.wikipedia.org/wiki/Řadic%C3%AD_algoritmus">cs:Řadicí algoritmus</a>
+<a href="http://da.wikipedia.org/wiki/Sorteringsalgoritme">da:Sorteringsalgoritme</a>
+<a href="http://de.wikipedia.org/wiki/Sortierverfahren">de:Sortierverfahren</a>
+<a href="http://es.wikipedia.org/wiki/Algoritmo_de_ordenamiento">es:Algoritmo de ordenamiento</a>
+<a href="http://fa.wikipedia.org/wiki/ا%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85_%D9%85%D8%B1%D8%AA%D8%A8%E2%80%8C%D8%B3%D8%A7%D8%B2%DB%8C">fa:الگوریتم مرتب‌سازی</a>
+<a href="http://fr.wikipedia.org/wiki/Algorithme_de_tri">fr:Algorithme de tri</a>
+<a href="http://ko.wikipedia.org/wiki/정%EB%A0%AC_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98">ko:정렬 알고리즘</a>
+<a href="http://is.wikipedia.org/wiki/R%C3%B6%C3%B0unarreiknirit">is:Röðunarreiknirit</a>
+<a href="http://it.wikipedia.org/wiki/Algoritmo_di_ordinamento">it:Algoritmo di ordinamento</a>
+<a href="http://he.wikipedia.org/wiki/מ%D7%99%D7%95%D7%9F_(%D7%9E%D7%93%D7%A2%D7%99_%D7%94%D7%9E%D7%97%D7%A9%D7%91)">he:מיון (מדעי המחשב)</a>
+<a href="http://lb.wikipedia.org/wiki/Zort%C3%A9ieralgorithmus">lb:Zortéieralgorithmus</a>
+<a href="http://lt.wikipedia.org/wiki/Rikiavimo_algoritmas">lt:Rikiavimo algoritmas</a>
+<a href="http://hu.wikipedia.org/wiki/Rendez%C3%A9s_(programoz%C3%A1s)">hu:Rendezés (programozás)</a>
+<a href="http://nl.wikipedia.org/wiki/Sorteeralgoritme">nl:Sorteeralgoritme</a>
+<a href="http://ja.wikipedia.org/wiki/ソ%E3%83%BC%E3%83%88">ja:ソート</a>
+<a href="http://no.wikipedia.org/wiki/Sorteringsalgoritme">no:Sorteringsalgoritme</a>
+<a href="http://pl.wikipedia.org/wiki/Sortowanie">pl:Sortowanie</a>
+<a href="http://pt.wikipedia.org/wiki/Algoritmo_de_ordena%C3%A7%C3%A3o">pt:Algoritmo de ordenação</a>
+<a href="http://ru.wikipedia.org/wiki/А%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC_%D1%81%D0%BE%D1%80%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%BA%D0%B8">ru:Алгоритм сортировки</a>
+<a href="http://fi.wikipedia.org/wiki/Lajittelualgoritmi">fi:Lajittelualgoritmi</a>
+<a href="http://sv.wikipedia.org/wiki/Sorteringsalgoritm">sv:Sorteringsalgoritm</a>
+<a href="http://th.wikipedia.org/wiki/ข%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A3%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%A5%E0%B8%B3%E0%B8%94%E0%B8%B1%E0%B8%9A">th:ขั้นตอนวิธีการเรียงลำดับ</a>
+<a href="http://vi.wikipedia.org/wiki/Thu%E1%BA%ADt_to%C3%A1n_s%E1%BA%AFp_x%E1%BA%BFp">vi:Thuật toán sắp xếp</a>
+<a href="http://uk.wikipedia.org/wiki/А%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC%D0%B8_%D1%81%D0%BE%D1%80%D1%82%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F">uk:Алгоритми сортування</a>
+<a href="http://zh.wikipedia.org/wiki/排%E5%BA%8F%E7%AE%97%E6%B3%95">zh:排序算法</a>
+</li></ul>

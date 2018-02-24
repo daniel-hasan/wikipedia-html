@@ -1,0 +1,135 @@
+{{Infobox Airliner accident
+|name=TAM Linhas Aéreas Flight 3054
+|Crash image= TAM Linhas Aéreas Flight 3054.jpg
+|Image caption= Firefighters among the wreckage
+|Date=[[July 17]], [[2007]]
+|Type=Under investigation (Overrun)
+|Site=[[Congonhas-São Paulo International Airport]], [[São Paulo]], [[Brazil]]
+|Fatalities=199 confirmed (includes 12 people on the ground)<ref name="GloboG1">{{pt icon}}[http://g1.globo.com/Noticias/SaoPaulo/0,,MUL75785-5605,00.html] Globo G1 Noticias (in Portuguese. Retrieved July 23, 2007</ref>
+|Injuries=13 (people on the ground)<ref name="agbrasil2203">{{cite web|first=Paulo|last=Montoia|title=Bombeiros deverão iniciar logo a retirada dos corpos das vítimas do acidente com avião da TAM|url=http://www.agenciabrasil.gov.br/noticias/2007/07/17/materia.2007-07-17.7726672606/view|publisher=[[Agência Brasil]]|date=[[2007-07-17]]|accessdate=2007-07-17|language=Portuguese}}</ref>
+|Aircraft Type=[[Airbus A320 family|Airbus A320-233]]
+|Operator=[[TAM Linhas Aéreas]]
+|Tail Number=PR-MBK<ref name="flightbreaking">{{cite web|first=Nicholas|last=Ionides|title=BREAKING NEWS: TAM A320 crashes in Sao Paulo|url=http://www.flightglobal.com/articles/2007/07/18/215565/breaking-news-tam-a320-crashes-in-sao-paolo.html||publisher=''[[Flight International]]''|date=[[2007-07-18]]|accessdate=2007-07-18}}</ref>
+|Passengers=181<ref name="187 on board">{{cite web|title=TAM confirms 187th passenger on flight 3054 (trans. from Portuguese) |url=http://g1.globo.com/Noticias/SaoPaulo/0,,MUL74102-5605,00.html |publisher=Globo |date=2007-07-20|accessdate=2007-07-21|language=Portuguese}}</ref><ref name="MSNBC 2">{{cite web|author=[[Associated Press]]|title=Brazil president vows thorough probe of crash: Da Silva unveils new safety steps after latest aviation disaster killed 191 |url=http://www.msnbc.msn.com/id/19864334/ |publisher=[[MSNBC]] |date=[[2007-07-21]] |accessdate=2007-07-21}}</ref>
+|Crew=6<ref name="notaTAM">{{cite web|title=Nota da TAM retifica informação e diz que Airbus 320 levava 176 pessoas |url=http://www.agenciabrasil.gov.br/noticias/2007/07/17/materia.2007-07-17.3821074797/view|publisher=[[Agência Brasil]]|date=[[2007-07-17]]|accessdate=2007-07-17|language=Portuguese}}</ref>
+|Survivors=0
+|}}
+'''[[TAM Linhas Aéreas]] Flight 3054''' (JJ 3054) was a scheduled domestic [[Airline|passenger flight]] between [[Porto Alegre]] and [[São Paulo]], [[Brazil]]. It crashed upon landing during rain in São Paulo on [[July 17]], [[2007]].<ref name="CNN">{{cite web|url=http://www.cnn.com/2007/WORLD/americas/07/18/brazil.plane.crash/index.html|title=Pilot in Brazilian crash tried to abort landing, official says|publisher=[[CNN]]|date=[[2007-07-18]]|accessdate=2007-07-20}}</ref> The [[Airbus A320 family|Airbus A320]] overran the runway, crossed a major thoroughfare during rush hour, crashed at high speed into a TAM Express warehouse adjacent to a [[gas station]] and exploded.<ref>{{cite web|url=http://www1.folha.uol.com.br/folha/cotidiano/ult95u312789.shtml|title=Incêndio permanece fora de controle; chances de sobrevivência diminuem|publisher=''[[Folha de S. Paulo]]''|date=[[2007-07-17]]|accessdate=2007-07-17|language=Portuguese}}</ref><ref>{{cite web|url=http://www1.folha.uol.com.br/folha/cotidiano/ult95u312799.shtml|title=Três vítimas do acidente com avião da TAM são atendidas no hospital Alvorada|publisher=''[[Folha de S. Paulo]]''|date=[[2007-07-17]]|accessdate=2007-07-17|language=Portuguese}}</ref> There were 187 people on board: 181 passengers, 19 of whom were TAM employees, and 6 crew members.<ref name="187 on board" /><ref name="MSNBC 2" />
+All passengers and crew were killed in the crash,<ref>{{cite web|first=Dayanne|last=Mikevis|url=http://www1.folha.uol.com.br/folha/cotidiano/ult95u312806.shtml|title="Tem 200 mortos aí", diz coronel dos bombeiros sobre acidente da TAM|publisher=''[[Folha de S. Paulo]]''|date=[[2007-07-17]]|accessdate=2007-07-17|language=Portuguese}}</ref> in addition to twelve people on the ground.<ref name="GloboG1" /> As of 2007, Flight 3054 has the highest death toll of any [[aviation accident]] in [[Latin America]] and the highest death toll of any accident involving an Airbus A320 anywhere in the world.<ref>{{cite web|url=http://aviation-safety.net/database/record.php?id=20070717-0|title=Accident Description|publisher=Aviation Safety Network|date=[[2007-07-17]]|accessdate=2007-07-19}}</ref>
+
+==Aircraft==
+The aircraft was an [[Airbus A320 family|Airbus A320-233]] registered as PR-MBK and manufacturer's serial number of 789. It was powered by two [[International Aero Engines V2500|International Aero V2527E-A5 engines]]. According to ''[[Flight International]]'', the aircraft was built in February 1998 and first entered service in [[March 1998|March]] flying for [[Grupo TACA]] and later in November 2003 by [[Pacific Airlines]]. The aircraft was owned by [[Pegasus Aviation Finance Company|Pegasus Aviation]], prior to the crash, and entered into service for TAM in December 2006. As of [[April 20]], [[2007]], the aircraft had flown 20,379 hours over 9,313 cycles.<ref name="flightbreaking"/>
+
+The aircraft was dispatched with the [[thrust reversal|thrust reverser]], a mechanical device to help slow the airplane down on landing, on the number 2 (right-side) engine deactivated as it had jammed. TAM said in a statement that a fault in a reverser "does not jeopardize landings."<ref name="fault">{{cite web|url=http://www.news.com.au/story/0,23599,22104315-23109,00.html|title=Brazil plane 'flew with mechanical fault'|date=2007-07-20|accessdate=2007-07-20|work=news.com.au}}</ref> In the same statement TAM also said "no mechanical problem had been recorded on July 16" (the day before the accident)."<ref name="fault"/> It was reported that the plane had difficulty braking on the same runway only one day prior to the fatal accident.<ref name="Reuters focus shift"/> The inactivated thrust reverser on the number 2 engine was confirmed by Airbus on [[July 25]].<ref name="flight-july25" />
+
+==Flight chronology==
+The plane departed from [[Salgado Filho International Airport]] in [[Porto Alegre]] at 17:16 [[Time zone|local time]] (20:16 [[UTC]]). It crashed upon landing at [[Congonhas-São Paulo International Airport]] in [[São Paulo]] at 18:50 local time (21:50 [[UTC]]).
+
+==Crash==
+[[Image:Voo TAM 3054 - Trajetoria.png|right|thumb|An artist's rendering showing the path of the aircraft during its final moments]]
+Flight 3054 was cleared to land at Congonhas' 35L runway. Reviews by government officials of the surveillance videos showed that despite the aircraft touching down at the normal touch-down point on the runway, it did not slow down normally, crossing the far end of the runway at around 90&nbsp;[[knot (speed)|knots]] (103&nbsp;mph, 162&nbsp;km/h).<ref>{{pt icon}}[http://www.estadao.com.br/cidades/not_cid20766,0.htm Authorities say the plane was above normal speed] O Estado de S. Paulo. Retrieved July 18, 2007.</ref> The aircraft, bearing to the left, continued off the end of the runway, clearing, barely airborne, the airport perimeter fence. The runway is elevated above the surrounding area, and the aircraft's momentum carried it over the traffic on the adjacent Avenida [[Washington Luís Pereira de Sousa|Washington Luís]], a major thoroughfare. After clearing the road, the aircraft exploded on impact with a four-story TAM Express facility, resulting in a large fire. The TAM Express building contained offices and a warehouse, and was located adjacent to a gas station.<ref>{{cite web|title=O acidente do avião da TAM|url=http://www.agenciabrasil.gov.br/media/infograficos/2007/07/17/acidente_170707.swf/view|publisher=[[Agência Brasil]]|date=[[2007-07-17]]|accessdate=2007-07-17|language=Portuguese}}</ref>
+
+The runway had recently been resurfaced, but it did not yet have [[Runway#Pavement|water-channeling grooves]] cut into it to reduce the danger of [[hydroplaning (road vehicle)|hydroplaning]].<ref name="CNN" />
+
+(''Note'': Due to technical changes still in progress, click "file info" to view the video in browser.)
+{{User:Omegatron/Sandbox/Video|filename=Avio tam editado.ogg|title=Surveillance video of Flight 3054 landing|description=|format=[[ogg]]/[[Theora]]}}
+{{User:Omegatron/Sandbox/Video|filename=TAMPouso.ogg|title=Different angle videos of Flight 3054 landing|description=|format=[[ogg]]/[[Theora]]}}
+
+[[Flight Data Recorder]] (FDR) information recovered after the crash and released by Brazilian authorities showed that immediately prior to touchdown, both thrust levers were in CL (or "climb") position, with engine power being governed by the flight computer's [[autothrottle]] system.<ref name="DFDR">[http://www1.folha.uol.com.br/folha/cotidiano/20070809-voo3054.pdf TAM Airbus 320-200, Flight No. 3054, PR-MBK]. [[NTSB]]. July 24, 2007. Retrieved on [[September 5]], [[2007]].</ref> Two seconds prior to touchdown, an aural warning, "retard, retard," was issued by the flight's computer system, advising the pilots to "retard" the thrust lever to the recommended idle or reverse thrust lever position. This would disengage the aircraft's autothrottle system, with engine power then being governed directly by the thrust lever's position.
+
+At the moment of touchdown, the [[Spoiler (aeronautics)|spoiler]] lever was in the "ARMED" position.<ref name="DFDR"/> According to the system logic of the A320's flight controls,<ref name="manual">[http://www.smartcockpit.com/data/pdfs/plane/airbus/A320/systems/A320-Flight_Controls.pdf A320 Flight Controls Manual]. [[Airbus]]. Retrieved on [[September 5]], [[2007]]</ref> in order for the spoilers to automatically deploy upon touchdown not only must the spoiler lever be in the "ARMED" position, but both thrust levers must be at or close to the "idle" position. The FDR transcript shows that immediately after the warning, the flight computer recorded the left thrust lever being retarded to the rear-most position, activating the thrust reverser on the left engine, while the right thrust lever (controlling the engine with the disabled thrust reverser) remained in the CL position. The right engine accelerated to a power setting corresponding to the "climb" position of the thrust lever, while the left engine deployed its thrust reverser. The A320's spoilers did not deploy during the landing run, as the right thrust lever was above the "idle" setting required for automatic spoiler deployment.<ref name="DFDR"/>
+
+==Congonhas==
+[[Image:Tamexpress.jpg|right|thumb|The TAM warehouse prior to the crash.]]
+[[Image:Acidentetam0.jpg|right|thumb|The TAM warehouse shortly after the crash.]]
+
+Air safety in Brazil has been under increased scrutiny recently following the mid-air collision in September 2006 over the [[Amazon Basin|Amazon]] of [[Gol Transportes Aéreos]] [[Gol Transportes Aéreos Flight 1907|Flight 1907]] and an [[Embraer Legacy 600]] (see [[Brazil's 2006-2007 aviation crisis]]). Congonhas has been singled out for having safety issues relating to operations in wet weather due to its location and runway characteristics for the traffic it serves.
+
+The 35L runway at Congonhas is 1,940&nbsp;[[metre]]s (6,365&nbsp;[[foot (unit of length)|feet]]) long. Congonhas' counterpart in [[Rio de Janeiro]], the [[Santos Dumont Airport]], has an even shorter runway, at 1,323&nbsp;metres (4,341&nbsp;ft). Both airports receive the same type of traffic &mdash; ranging from small private planes to Boeing 737s and A320s. Many variables affect the landing distance of an aircraft, such as approach speed, weight and the presence of either a tailwind or a headwind. For an Airbus A320, a speed of just 20&nbsp;[[Knot (speed)|knots]] higher than normal can result in as much as a 25% increase in the runway length needed to stop an aircraft. Wet weather can also significantly reduce the braking performance of aircraft, leading to an increase in the minimum runway length requirement.<ref>[http://www.rvs.uni-bielefeld.de/publications/Incidents/DOCS/ComAndRep/Warsaw/leyman/analysis-leyman.html A320 Warsaw landing analysis] Prof. Clive Leyman, City University of London. Retrieved July 18, 2007</ref> 
+As water accumulation in the runway at the time of the crash was not significant, the focus of the investigation shifted away from runway hydroplaning concerns.<ref name="Reuters focus shift" />
+
+In February 2007, a Brazilian judge briefly banned flights using [[Fokker 100]], [[Boeing 737|Boeing 737-700]] and Boeing 737-800 aircraft in and out of the airport. The [[Airbus A320]] was not among the aircraft banned, due to its manufacturer-stated [[braking distance]] being shorter than those of the banned aircraft. Pilots had complained that water had been accumulating on the runway, reducing aircraft braking performance and occasionally causing planes to [[hydroplaning (road vehicle)|hydroplane]]. The judge claimed the runway needed to be 388&nbsp;metres (1,275&nbsp;ft) longer for these aircraft to operate safely. At the time, a spokeswoman from Brazil's National Civil Aviation Agency claimed "The safety conditions of the runway and the airport as a whole are adequate."<ref name="BBC News1"> {{cite web|title=Jets banned from Sao Paulo runway|url=http://news.bbc.co.uk/1/hi/world/americas/6337217.stm|publisher=[[BBC News]]|date=[[2007-02-06]]|accessdate=2007-07-18}}</ref> TAM also objected to the decision, with a spokesman stating "If the injunction stands, it will cause total chaos," claiming over 10,000 passengers per day would be inconvenienced.<ref name="BBC News1" /> The airport authorities appealed the decision, resulting in it being overturned the following day. An appeals court overruled the ban on the three types of planes, saying it was too harsh as it would have severe economic ramifications and that there were not enough safety concerns to prevent the planes from landing and taking off from the airport. "The runway was reopened because of popular pressure," Gianfranco Beting, an aviation consultant, said in a TV interview.<ref name="Reuters">{{cite web|title=Up to 200 feared dead in Brazil crash|url=http://www.reuters.com/article/newsOne/idUSN1726359820070718?pageNumber=2|publisher=[[Reuters]]|date=[[2007-07-17]]|accessdate=2007-07-17}}</ref>
+
+===Aftermath===
+The airport reopened on [[July 19]] using an alternate runway.<ref name="Reuters focus shift">{{cite web|url=http://www.reuters.com/article/latestCrisis/idUSN19425884|title=Focus of Brazil air crash shifts away from runway|date=2007-07-20|accessdate=2007-07-20|work=Reuters}}</ref>
+
+Many flights, including all [[OceanAir]] and [[BRA Transportes Aéreos]], were transferred to [[Guarulhos International Airport]], the second major airport in São Paulo, due to the closure of the main runway at Congonhas and the ongoing investigation of the accident.
+
+On [[July 20]] minister [[Dilma Rousseff]] of Casa Civil (Civil House, part of the federal government) announced plans to significantly reduce the number of flights operating at Congonhas. The plan included banning, within 60 days, all connection, stopover, charter, and international flights and the reduction in the number of private jets. The airport would only operate direct flights to certain cities in Brazil. The plan also called for a study of the expansion of São Paulo's two current airports and the construction of a third airport in the metropolitan area.<ref> [http://g1.globo.com/Noticias/SaoPaulo/0,,MUL74121-5605,00.html Confirmed: São Paulo will have a 3rd Airport (in Portuguese)] 20 July 2007</ref>
+
+State crime scene investigators terminated the search for remains on [[July 28]] [[2007]];<ref>{{cite web | url = http://www1.folha.uol.com.br/folha/cotidiano/ult95u315915.shtml | title = Peritos concluem varredura nos escombros do prédio da TAM Express | date = [[2007-07-31]] | accessdate = 2007-07-28 | work = [[Folha de S. Paulo]] | language=Portuguese}}</ref> as of that date, 114 bodies recovered from the site had been identified by the São Paulo Medical Examiner's Office as those of passengers.<ref>{{cite web | url = http://www1.folha.uol.com.br/folha/cotidiano/ult95u315933.shtml | title = Número de vítimas do acidente da TAM identificadas sobe para 104 | date = [[2007-07-28]] | accessdate = 2007-07-28 | work = [[Folha de S. Paulo]] | language=Portuguese}}</ref>
+
+==Investigation==
+[[Image:TAM Airbus.jpg|thumb|right|The aircraft was an [[Airbus A320 family|Airbus A320]], similar to the one pictured here.]]
+
+The investigation is being carried out by Brazil's [[Centre for the Investigation and Prevention of Aeronautical Accidents]] (Centro de Investigação e Prevenção de Acidentes Aeronáuticos, CENIPA). Data from the [[flight data recorder]] and [[cockpit voice recorder]] (CVR) were downloaded by the [[National Transportation Safety Board]] in the [[United States]] commencing [[July 20]] and [[July 23]] respectively.<ref name="flight-july25">{{Cite web|last=Learmount|first=David|title=Airbus cleared to release TAM accident flight recorder information|publisher=''[[Flight International]]''|date=[[2007-07-25]]|url =http://www.flightglobal.com/articles/2007/07/25/215718/airbus-cleared-to-release-tam-accident-flight-recorder.html |accessdate= 2007-07-25}} </ref><ref name="flight-july23">{{Cite web|last=Learmount|first=David|title=Probe asks why Airbus A320 could not stop|publisher=''[[Flight International]]''|date=[[2007-07-23]]|url =http://www.flightglobal.com/articles/2007/07/23/215642/probe-asks-why-airbus-a320-could-not-stop.html |accessdate= 2007-07-23}} </ref> Based on preliminary data from the FDR, on [[July 25]] Airbus cautioned A320 operators to ensure that both thrust levers are set to idle during flare.<ref name="flight-july25" /> The transcript of the CVR was released on [[August 1]].<ref name="cvr">{{cite web | last = Targett | first =Michael | title =TAM A320 crash - full transcript from cockpit voice recorder | publisher =''[[Flight International]]''| date =[[2007-08-02]]| url =http://www.flightglobal.com/articles/2007/08/02/215872/tam-a320-crash-full-transcript-from-cockpit-voice-recorder.html| | accessdate = 2007-08-02 }}</ref> It shows that the pilots were aware of the wet runway conditions and the deactivated thrust reverser.<ref name="flight-aug02">{{cite web
+ | last =Kaminksi-Morrow | first =David | title =Full cockpit-voice transcript of TAM A320 reveals clues to crash | publisher =''[[Flight International]]'' | date = [[2007-08-02]] | url =http://www.flightglobal.com/articles/2007/08/02/215869/full-cockpit-voice-transcript-of-tam-a320-reveals-clues-to-crash.html | accessdate = 2007-08-02 }}</ref> The pilots' comments suggest that the spoilers did not deploy and that they were unable to slow the aircraft.<ref name="flight-aug02" />
+
+==Response==
+After the crash, President [[Luiz Inácio Lula da Silva|Lula]] of Brazil ordered three days of national mourning.<ref>{{cite news|url=http://g1.globo.com/Noticias/SaoPaulo/0,,MUL72081-5605,00.html|title=Luto oficial de três dias por acidente da TAM|language=Portuguese}}</ref>
+
+Several countries and organisations offered their condolences: [[Angola]], [[Argentina]], [[Bulgaria]], [[Chile]], [[People's Republic of China|China]], [[Cuba]], [[East Timor]], the [[European Union]], [[France]], [[Germany]], [[Indonesia]], [[Ireland]], [[Israel]], [[Mexico]], [[Oman]], [[Pakistan]], [[Panama]], [[Peru]], [[Portugal]], [[Russia]], [[South Africa]], [[Spain]], [[Tunisia]], [[United States]], [[Vatican City]]<ref>{{cite news|url=http://www1.folha.uol.com.br/folha/bbc/ult272u312906.shtml|title=Papa envia condolências às famílias das vítimas de acidente em São Paulo|publisher=''[[Folha de S. Paulo]]''|language=Portuguese}}</ref> and [[Venezuela]].
+
+During the [[2007 Pan American Games]] in [[Rio de Janeiro]], the Brazilian athletes wore a black armband in remembrance of the victims.<ref>{{cite news|url=http://www.voanews.com/english/2007-07-18-voa74.cfm|title=Brazilian Athletes Mourn Plane Crash Victims|author=David Byrd|publisher=[[Voice of America]]|date=[[2007-07-18]]|accessdate=2007-07-23}}</ref> The flags of all participating countries were flown at half mast on [[July 18]]. Matches involving a Brazilian athlete or team started with a minute silence.
+
+All matches of the [[Campeonato Brasileiro 2007]] started with a minute silence, while all players wore black armbands. Brazilian [[Formula One]] driver [[Felipe Massa]] had a black stripe on top of his helmet during the [[2007 European Grand Prix]], to commemorate the victims. [[Rubens Barrichello]] also had stripes on his helmet, and the two [[Red Bull Racing]] drivers [[David Coulthard]] and [[Mark Webber]] had small Brazilian flags on their helmets referring to the accident.
+
+More than 5,000 Brazilians marched to the crash site on [[July 29]], [[2007]], blaming their government's failure to invest in airport infrastructure for the crash. Many of the protesters also demanded the ouster of President [[Luiz Inacio Lula da Silva]].<ref>{{cite news|title = Brazilians blame gov't for jet crash |work=Associated Press|publisher=am New York|date=2007-07-30|pages= 9}}</ref>
+
+==Notable passengers==
+Among the passengers were:
+* [[Júlio Redecker]] (aged 51), a [[Brazilian Social Democracy Party]] federal politician, member and leader of the opposition in the [[Chamber of Deputies of Brazil]].<ref>{{cite web|url=http://www.agenciabrasil.gov.br/noticias/2007/07/18/materia.2007-07-18.9399401592/view|title=Listas de nomes divulgada pela TAM ultrapassam previsão oficial de 176 passageiros|author=Marcos Chagas and Aloisio Milani|publisher=[[Agência Brasil]]|date=[[2007-07-17]]|accessdate=2007-07-18|language=Portuguese|quote=71.Julio Cesar Redecker}}</ref><ref>{{cite web|url=http://www.psdb.org.br/noticias.asp?id=30878|title=Redecker estava no vôo da TAM que pegou fogo em SP|publisher=[[Brazilian Social Democracy Party]]|date=[[2007-07-17]]|accessdate=2007-07-18|language=Portuguese}}</ref><ref>{{cite web|url=http://noticias.terra.com.br/brasil/acidentecongonhas/interna/0,,OI1765928-EI10210,00.html|title=Deputado do RS estava no vôo que sofreu acidente|publisher=[[Terra Networks|Terra Brasil]]|date=[[2007-07-17]]|accessdate=2007-07-18|language=Portuguese}}</ref>
+* [[Paulo Rogério Amoretty Souza]] (aged 60), former chairman of the football team [[Sport Club Internacional]] and attorney for [[Sport Club Corinthians Paulista]].<ref>{{cite web|url=http://www.agenciabrasil.gov.br/noticias/2007/07/18/materia.2007-07-18.9399401592/view|title=Listas de nomes divulgada pela TAM ultrapassam previsão oficial de 176 passageiros|author=Marcos Chagas and Aloisio Milani|publisher=[[Agência Brasil]]|date=[[2007-07-17]]|accessdate=2007-07-18|language=Portuguese|quote=106.Paulo Rogerio Amoretty Souza}}</ref>
+
+==See also==
+* [[Brazil's 2006-2007 aviation crisis]]
+* [[TAM Linhas Aéreas Flight 402]]
+* [[Gol Transportes Aéreos Flight 1907]]
+* [[Philippine Airlines Flight 137]]
+* [[List of notable accidents and incidents on commercial aircraft]]
+* [[Runway safety area]]
+* [[Engineered materials arrestor system]]
+
+==References==
+{{Reflist|colwidth=35em}}
+
+==External links==
+{{commons|Category: Vôo TAM 3054|TAM Linhas Aéreas Flight 3054}}
+{{wikinews|TAM Linhas Aéreas plane crashes at São Paulo airport in Brazil}}
+* [http://www.airliners.net/search/photo.search?regsearch=PR-MBK Pre-accident pictures of aircraft at Airliners.net]
+* [http://www.jetphotos.net/showphotos.php?regsearch=PR-MBK&view=true Pre-accident pictures of aircraft at JetPhotos.net]
+* [http://www.tam.com.br/b2c/jsp/default.jhtml?adPagina=3&adArtigo=10742 List of passengers on TAM Airlines web page]
+* [http://aviation-safety.net/database/record.php?id=20070717-0 The accident on Aviation Safety Network]
+* [http://news.bbc.co.uk/2/hi/in_pictures/6903885.stm In pictures: Brazil plane crash (BBC)]
+* [http://noticias.uol.com.br/uolnews/brasil/2007/07/18/ult2486u946.jhtm Video from Congonhas airport security camera, comparing a normal landing with TAM flight 3054's landing] {{pt icon}}
+* [http://www.1001crash.com/index-page-description-accident-TAM_A320-lg-2-crash-182.html Video of flight 3054 crash, photos, investigation]
+* [http://www.slate.com/id/2170727/nav/tap3/ The World's Worst Airline] - Elizabeth Spiers
+* [http://www.nytimes.com/2007/07/18/world/americas/18brazil.html?_r=2&hp&oref=slogin&oref=slogin Plane Crashes in Brazil]
+* [http://i.a.cnn.net/cnn/2007/images/07/18/tam.list.pdf List of passengers on Flight 3054]
+<!-- Templates -->
+
+{{coor title dms|23|37|11|S|046|39|44|W|region:BR-SP_type:landmark_scale:5000}}
+<!-- [[Category:Accidents and incidents on commercial airliners caused by bad weather]] -->
+
+<!-- Categories -->
+[[Category:Aviation accidents and incidents in 2007]]
+[[Category:Aviation accidents and incidents in Brazil]]
+[[Category:Airliner collisions on ground]]
+[[Category:TAM Linhas Aéreas]]
+[[Category:2007 in Brazil]]
+
+<!-- Interwikis -->
+[[de:TAM-Linhas-Aéreas-Flug 3054]]
+[[es:Vuelo 3054 de TAM Linhas Aéreas]]
+[[fr:Vol 3054 TAM]]
+[[id:TAM Linhas Aéreas Penerbangan 3054]]
+[[ms:Penerbangan 3054 TAM Linhas Aereas]]
+[[nl:TAM Linhas Aéreas Vlucht 3054]]
+[[ja:TAM航空3054便オーバーラン事故]]
+[[no:TAM Linhas Aéreas Flight 3054]]
+[[pl:Katastrofa lotu TAM Linhas Aéreas 3054]]
+[[pt:Vôo TAM 3054]]
+[[sr:Лет ТАМ 3054]]
+[[fi:TAM Linhas Aéreasin lento 3054]]
+[[vi:Chuyến bay TAM Linhas Aéreas 3054]]
+[[zh:巴西天馬航空3054號班機]]

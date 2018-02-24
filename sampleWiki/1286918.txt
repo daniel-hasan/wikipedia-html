@@ -1,0 +1,452 @@
+{{Infobox Interstate
+|article_route=295
+|type=Auxiliary
+|length_mi=73.50
+|length_round=2
+|length_ref=<!--Lengths are referenced by state in "Route description" section-->
+|year_established=1958
+|direction_a=South
+|terminus_a=[[Image:I-95.svg|20px]][[Image:De-tpk.gif|30px]][[Image:I-495.svg|25px]][[Image:US 202.svg|25px]] [[Interstate 95 in Delaware|I-95]]/[[Delaware Turnpike]]/[[Interstate 495 (Delaware)|495]]/[[US 202]] in [[New Castle, Delaware|New Castle, DE]]
+|junction=[[Image:US 13.svg|20px]][[Image:US 40.svg|20px]] [[U.S. Route 13|US 13]]/[[U.S. Route 40|40]] in [[New Castle, Delaware|New Castle, DE]]<br>[[Image:US 40.svg|20px]][[Image:New Jersey Turnpike Shield.svg|20px]] [[U.S. Route 40|US 40]]/[[New Jersey Turnpike|NJTP]] in [[Carneys Point Township, New Jersey|Carneys Pt, NJ]]<br>[[Image:US 130.svg|25px]] [[U.S. Route 130|US 130]] in [[Logan Township, New Jersey|Logan Twp, NJ]]<br>[[Image:I-76.svg|20px]][[Image:Circle sign 42.svg|20px]] [[Interstate 76 (east)|I-76]]/[[New Jersey Route 42|NJ 42]] in [[Bellmawr, New Jersey|Bellmawr, NJ]]<br>[[Image:Circle sign 70.svg|20px]] [[New Jersey Route 70|NJ 70]] in [[Cherry Hill Township, New Jersey|Cherry Hill Twp, NJ]]<br>[[Image:Circle sign 73.svg|20px]] [[New Jersey Route 73|NJ 73]] in [[Mount Laurel Township, New Jersey|Mt Laurel Twp, NJ]]<br>[[Image:US 130.svg|25px]][[Image:US 206.svg|25px]] [[U.S. Route 130|US 130]]/[[U.S. Route 206|206]] in [[Bordentown Township, New Jersey|Bordentown, NJ]]<br>[[Image:I-195.svg|25px]][[Image:Circle sign 29.svg|20px]] [[Interstate 195 (New Jersey)|I-195]]/[[New Jersey Route 29|NJ 29]] in [[Hamilton Township, Mercer County, New Jersey|Hamilton Twp, NJ]]<br>[[Image:Circle sign 33.svg|20px]] [[New Jersey Route 33|NJ 33]] in [[Hamilton Township, Mercer County, New Jersey|Hamilton, NJ]]
+|direction_b=North
+|terminus_b=[[Image:I-95.svg|20px]][[Image:US 1.svg|20px]] [[Interstate 95 in New Jersey|I-95]]/[[U.S. Route 1 in New Jersey|US 1]] in [[Lawrence Township, Mercer County, New Jersey|Lawrence Twp, NJ]]
+}}
+'''Interstate 295''' (abbreviated '''I-295''') in [[New Jersey]] and [[Delaware]] is a bypass route from a junction with [[Interstate 95 in Delaware|Interstate 95]] south of [[Wilmington, Delaware]] to another junction with I-95 north of [[Trenton, New Jersey]]. The route runs parallel with the [[New Jersey Turnpike]] for most of its course.
+
+Interstate 295 is an [[List of auxiliary Interstate Highways|auxiliary Interstate Highway]], designated as a [[bypass]] around [[Philadelphia, Pennsylvania]].  Interstate 95 serves the city directly, connecting it with Wilmington and Trenton, whereas I-295 bypasses the city running east of the [[Delaware River]].  Interstate 95 was originally supposed to continue northeast from the routes' junction near Trenton on the proposed [[Somerset Freeway]], but this plan was cancelled, limiting I-295's capability as a true bypass between [[Baltimore, Maryland|Baltimore]] and [[New York City]].
+
+Today, traffic on Interstate 295 is directed to take [[Interstate 195 (New Jersey)|Interstate 195]] (or surface street connections further south) to the [[New Jersey Turnpike]] to reach [[New York City]].  The same route is prescribed for traffic on I-95 in Pennsylvania and near Trenton to bridge the gap with I-95 further north.
+
+==Route description==
+{{lengths table}}
+|-
+|[[Delaware|DE]]
+|5.71<ref name="FHWA log">[[Federal Highway Administration]] Route Log and Finder List, [http://www.fhwa.dot.gov/reports/routefinder/table2.htm Auxiliary Routes of the Dwight D. Eisenhower National System Of Interstate and Defense Highways as of October 31, 2002]</ref>
+|9.19
+|-
+|[[New Jersey|NJ]]
+|67.79<ref name="sld">[http://www.state.nj.us/transportation/refdata/sldiag/00000295__-.pdf Interstate 295] [[Straight Line Diagram]] from the [[New Jersey Department of Transportation]]</ref>
+|109.10
+|-
+|Total
+|73.50
+|118.29
+|}
+{|class="infobox" width="230px"
+!style="background: #ccf;"|<big>Major cities</big><br><small>'''Bolded cities''' are officially-designated [[control city|control cities]] for signs</small>
+|-
+|
+*'''[[Newark, Delaware]]''' and '''[[Baltimore, Maryland]]''' (via [[Interstate 95 in Delaware|Interstate 95]])
+*'''[[Delaware Memorial Bridge]]'''
+*'''[[Camden, New Jersey]]'''
+*[[Mount Laurel, New Jersey]]
+*[[Cherry Hill, New Jersey]]
+*'''[[Trenton, New Jersey]]'''
+*'''[[Princeton, New Jersey]]''' (via [[U.S. Route 1 in New Jersey|U.S. Route 1]] or [[U.S. Route 206]])
+|}
+I-295 begins at a complex interchange with [[I-95]], [[Interstate 495 (Delaware)|I-495]], and [[Delaware Route 141]] in [[New Castle, Delaware]]. From there, it runs for about three miles east, then crosses the [[Delaware River]] via the [[Delaware Memorial Bridge]], which is actually two twin [[suspension bridge]]s carrying traffic in opposite directions.  One bridge carries traffic from Delaware to New Jersey, while the other span carries traffic from New Jersey to Delaware. At the New Jersey approaches of the [[toll bridge]], a connection is provided with the south end of the New Jersey Turnpike. The Delaware Memorial Bridge is the only toll portion of the highway, and only about three miles of the entire route of I-295 lie in Delaware.
+
+For its entire route (excluding the portion north of [[Interstate 195 (New Jersey)|I-195]] near Trenton and its route in Delaware), I-295 closely parallels both the [[New Jersey Turnpike]] and [[U.S. Route 130]]; sometimes the turnpike is visible from I-295.  In the region, I-295 serves as a local complement to the Turnpike, due to the slower design speed and the Turnpike's relatively few interchanges in the area.  Interstate 195 is the only expressway connection between the two routes besides their junction near the Delaware Memorial Bridge, as I-295 has no interchange with the Turnpike's [[Pennsylvania Turnpike]] Connector (now called the "Pearl Harbor Memorial Extension"), and the Turnpike has no interchange with [[New Jersey Route 42|Route 42]] (the North-South Freeway). This way, I-295 serves as a route to access the South Jersey suburbs of Philadelphia, while the Turnpike provides an "express" route from Wilmington to Trenton. [[Image:Map New Jersey NA.jpg|right |thumb|245px| '''I-295''' runs north through [[Camden, New Jersey|Camden]] up towards [[Trenton, New Jersey|Trenton]] (crossing [[Interstate 195 (New Jersey)|I-195]]), and ends at [[Interstate 95 in New Jersey|I-95(M)]]/[[U.S. Route 1 in New Jersey|US 1]] north of Trenton.]]
+South of the interchange with [[Interstate 76 (east)|Interstate 76]] and [[New Jersey Route 42|Route 42]], 9.32 miles (15.00 km) of I-295 (between exit 13 and exit 23) is [[concurrency (road)|concurrent]] with [[U.S. Route 130]], and was in fact built as part of US 130 before the [[Interstate Highway System]] was created.  The interchange with I-76 (exit 26) is a [[semi-directional T]], and the nearby junction with Route 42 is a single Y, with through traffic on I-295 northbound forced to merge and re-exit from Route 42/I-76. Due to the complex interchange design and resulting weaving, the speed limit on I-295 through the area is 35&nbsp;mph.
+
+North of [[Camden, New Jersey|Camden]], I-295 continues north, paralleling the [[New Jersey Turnpike]]. At around exit 57A in [[Bordentown, New Jersey|Bordentown]], I-295 takes a slight westerly turn away from the [[New Jersey Turnpike]] and continues its run towards [[Trenton, New Jersey|Trenton]]. Also, north of exit 57A, I-295 becomes less rural and passes through a more open area where more buildings and a farther distance could be seen from the freeway, a sign that I-295 is leaving the [[Delaware Valley]] area and entering the [[New York metropolitan area]]. Upon reaching its interchange with [[Interstate 195 (New Jersey)|Interstate 195]] (one of the last portions of the freeway to be completed), it no longer parallels with the [[New Jersey Turnpike]], and runs along the eastern side of [[Trenton, New Jersey|Trenton]], where I-295 ends at US 1, and then (I-95) starts to circle around Trenton.  At Exit 67 with [[U.S. Route 1 in New Jersey|U.S. Route 1]] in [[Lawrence Township, Mercer County, New Jersey|Lawrence Township, NJ]], Interstate 295 formally ends and becomes [[Interstate 95 in New Jersey|Interstate 95]] south to [[Pennsylvania]].  Interstate 295 originally continued approximately five miles beyond this point to a proposed interchange with the [[Somerset Freeway]] near Interstate 95's current exit with [[New Jersey Route 31|Route 31]].<ref>{{cite web|url=http://www.njfreeways.com/Interstate_95_Gap_Map0.html|title=Map 1: I-95 Corridor Shifts, 1954 - 1982|accessdate=2007-01-13|last=Martin|first=Raymond C}}</ref><ref>{{cite web|url=http://www.njfreeways.com/Interstate_95_Gap_Map6.html|title=Map 7: Exit Number Changes, 1984 - 1996|accessdate=2007-01-13|last=Martin|first=Raymond C}}</ref>  Had the Somerset Freeway been completed, Interstate 295 would have ended here at a completed Interstate 95 between [[Philadelphia, Pennsylvania|Philadelphia]] and [[New York City]].  When the Somerset Freeway was cancelled, Interstate 95 was extended and Interstate 295 was truncated to their current termini at US 1. The portion running through New Jersey is sometimes called the '''Camden Freeway'''.<ref>{{cite news|author=[[New Jersey Department of Transportation]]|title=The Trenton Complex: I-295 & 195 / Route 29|pages=3-4|work=Transporter|date=May 2006|url=http://www.interstate50th.org/images/njdot/transporter.pdf|accessdate=2007-02-07}}</ref>
+
+==History==
+[[Image:South Jersey Expressway.JPG|right|300px|thumb|Northbound view of I-295 in [[Hamilton Township, Mercer County, New Jersey|Hamilton, New Jersey]]]]
+Portions of what is now Interstate 295 were planned as early as the 1940s as a bypass replacement for U.S. Route 130 in southern New Jersey, as well as the [[New Jersey Route 39|Route 39]] beltway around Trenton.  The first section of the US 130 bypass in [[Gloucester County, New Jersey|Gloucester County]] (between current exits 21 and 24) opened in 1948, with a second section (between exits 14 and 21) opening in 1954.<ref>{{cite web|url=http://www.phillyroads.com/roads/I-295_NJ/ |title=Interstate 295 (New Jersey)|accessdate=2007-01-14|author=Eastern Roads}}</ref>  Both these sections were originally signed only as US 130, but became a part of I-295 when the Interstate Highway System was created in 1958.
+
+Also among the earliest portions of I-295 to be built are the [[Delaware Memorial Bridge]] and the [[Delaware]] approach.  When the bridge opened on [[August 16]], [[1951]], so did the eastern two miles of I-295 in Delaware, between [[U.S. Route 13]] and the bridge.  The bridge was signed as a portion of [[U.S. Route 40]], and also became a part of I-295 in 1958.  The western section from US 13 to I-95 opened with the completion of the [[Delaware Turnpike]] in 1963, which – when combined with the [[Baltimore-Washington Parkway]], [[Harbor Tunnel Thruway]], [[JFK Memorial Highway]], and [[New Jersey Turnpike]] – completed a nonstop freeway between [[Washington, D.C.]], and [[New York City]].<ref>{{cite web|url=http://www.phillyroads.com/roads/I-295_DE/|title=Interstate 295 (Delaware)|accessdate=2007-01-14|author=Eastern Roads}}</ref>
+
+The remainder of Interstate 295 through New Jersey was planned as '''Federal Aid Interstate Route 108''', which was created by the [[New Jersey Department of Transportation]] in 1956<ref>{{cite web|url=http://www.alpsroads.net/roads/nj/log/8.html|title=New Jersey Roads - NJ State Highways - 91-147|last=Alpert|first=Steve|accessdate=2007-01-14}}</ref> when the Interstate Highways System was being planned but not yet numbered.  Interstate 295 was mostly complete (especially south of Trenton) by the 1980s; the last portion to be completed was around the [[Interstate 195 (New Jersey)|Interstate 195]]/[[New Jersey Route 29|Route 29]] interchange in 1994.
+
+The 295 expressway originally had extended further north (along the current I-95M) and ended at the (now) "ghost" interchange (where the [[Somerset Freeway]] would've intersected) at 95M's Mile marker 5.0 in [[Hopewell Township, Mercer County, New Jersey|Hopewell Township]]. The 295 expressway continued for an extra 4 miles (thereby making its NJ length about 72 miles), which then changed the exit numbers for: [[County Route 583 (New Jersey)|''Princeton Pike'']] (95M Exit 8/295 Exit 68), [[U.S. Route 206|US 206]] (95M Exit 7/295 Exit 69), and ''Federal City Road'' (95M Exit 5/295 Exit 71). Even after the Somerset Freeway was terminated, 295 still continued north; it wasn't until 1993 that the NJDOT shortened the NJ length of 295 from 72 miles to 68 miles, and extended the 95M designation along 295's former 4-mile stretch (to the exit for [[U.S. Route 1 in New Jersey|US 1]]).  
+
+Since Interstate 95M ends at the junction with Interstate 295 and US Route 1, the NJDOT installed signs that direct motorists to the "official" part of Interstate 95. At 295's Exit 67, there are signs that state the beginning of the 295 expressway which will lead to Interstate 95/[[New Jersey Turnpike]]. This signage continues south for approximately 7 miles and then directs motorists to exit 295 at Exit 60 for [[Interstate 195 (New Jersey)|Interstate 195]] east (towards I-95/New Jersey Turnpike). Motorists then must travel on 195 for approximately 6 miles to (the continuation of) Interstate 95 (New Jersey Turnpike).
+<!-- Image with unknown copyright status removed: [[Image:Existing I-95.png|left|thumb|150px|Current "I-95" corridor according to the '''IBTTA''']] -->
+
+The expressway, like many others in New Jersey, once had solar powered emergency call boxes every 1.0 mile, however with the advent of cell phones the usage of these call boxes became extremely limited.  To save on maintenance costs, the [[New Jersey Department of Transportation|NJDOT]] removed these call boxes in 2005.  Due to difficulty replacing parts, the call boxes are disappearing from many other highways as well, such as [[Interstate 195 (New Jersey)|I-195]], [[Interstate 280 (New Jersey)|I-280]], [[Interstate 78 (New Jersey)|I-78]], [[Interstate 80 (New Jersey)|I-80]], [[Route 55 (New Jersey)|NJ 55]], and [[Route 208 (New Jersey)|NJ 208]].<ref>{{cite news|author=The Road Warrior|title=Reducing highway safety completely uncalled for|work=Bergen Record|date=[[June 26]], [[2005]]|accessdate=2007-02-28|url=http://www.bergenrecord.com/page.php?qstr=eXJpcnk3ZjczN2Y3dnFlZUVFeXk0NSZmZ2JlbDdmN3ZxZWVFRXl5NjcxMzEyMyZ5cmlyeTdmNzE3Zjd2cWVlRUV5eTU=}}</ref><ref>{{cite news|first=Thomas|last=Barlas|title=Last call for N.J.'s roadside call boxes|work=Press of Atlantic City|date=[[February 28]], [[2007]]|accessdate=2007-02-28|url=http://www.pressofatlanticcity.com/news/newjersey/nj_politics/story/7249540p-7103827c.html}}</ref>
+
+==Future==
+The [[New Jersey Department of Transportation]] (NJDOT) is currently planning to reconstruct the interchange with [[Interstate 76 (east)|Interstate 76]] and [[New Jersey Route 42|Route 42]] south of [[Camden, New Jersey|Camden]].  The project is necessary to create a direct through connection for I-295 through the interchange, eliminate weaving between I-295 and I-76, and to fill in the missing movements between I-295 and Route 42 south of the interchange.<ref>{{cite web|url=http://www.state.nj.us/transportation/works/studies/rt295/pdf/StatementofPurpose.pdf|title=I-295/I-76/Route 42 Direct Connection Project: Project Purpose and Need|date=[[December 4]], [[2006]]|accessdate=2007-01-16}}</ref>  There were several alternatives proposed for the interchange design, which were then shortlisted to five.  A final preferred alternative will be selected sometime early  in 2007.<ref>{{cite web|url=http://www.state.nj.us/transportation/works/studies/rt295/faq.shtm|title=I-295/I-76/Route 42 Direct Connection: Frequently Asked Questions|accessdate=2007-01-16}}</ref>  All of the shortlisted alternatives provide a direct connection for I-295 through the interchange without using the present substandard ramps, and also provide new connections from Route 42 northbound to I-295 southbound and from I-295 northbound to Route 42 southbound.
+
+The northern portion of Interstate 295 will be affected by the [[Pennsylvania Turnpike/Interstate 95 Interchange Project]] in [[Bristol, Pennsylvania]]. With the completion of the project, [[Interstate 95]] will be redesignated along the [[Pennsylvania Turnpike]] to connect with the [[New Jersey Turnpike]] (currently the northern section of I-95) at exit 6, and the I-95 designation will be removed from the section north of the interchange in Pennsylvania. Under the original plan, I-295 would have been extended past its current terminus at [[U.S. Route 1 in New Jersey|US 1]] along current I-95, across the [[Scudder Falls Bridge]], and into [[Pennsylvania]] to the new interchange.<ref>[http://www.paturnpikei95.com/pdf/ROD_figA.pdf Pennsylvania Turnpike Commission I-95/I-276 Interchange Project Final Environmental Impact Statement - Appendix A: Alternative Map]</ref><ref>{{cite web|url=http://www.paturnpikei95.com/pdf/DACMeeting050302.pdf|title=Pennsylvania Turnpike Commission PA Turnpike/I-95 Interchange Project Design Management Meeting Summary|date=[[March 2]], [[2005]]|accessdate=2007-01-16}}</ref>
+
+However, in September 2005, the states of [[New Jersey]] and [[Pennsylvania]] came to an agreement that, instead, [[Interstate 195 (New Jersey)|Interstate 195]] would be extended along this section of I-95.<ref>[http://www.paturnpikei95.com/pdf/DACMeeting050914.pdf Pennsylvania Turnpike Commission I-95/I-276 Interchange Project Meeting Design Management Summary - DRAFT: Design Advisory Committee Meeting #2]</ref> This means that the extended I-195 would replace the portion of I-95 between the [[Pennsylvania Turnpike]] in [[Bristol Township, Pennsylvania]], and [[U.S. Route 1 in New Jersey|U.S. Route 1]] in [[Lawrence Township, Mercer County, New Jersey|Lawrence Township, New Jersey]].  It would also replace Interstate 295 north of exit 60 in [[Hamilton Township, Mercer County, New Jersey|Hamilton Township, New Jersey]] (its exit with I-195), truncating I-295 at that junction.  This option would reduce the confusion of having I-295 parallel itself in New Jersey and Pennsylvania.<ref>{{cite web|title=PA Turnpike / I-95 Interchange Project: FAQ|url=http://www.paturnpikei95.com/faq.htm|author=Pennsylvania Turnpike Commission|accessdate=2007-01-16}}</ref> This proposal is waiting for approval by [[American Association of State Highway and Transportation Officials|AASHTO]].
+
+==Exit list==
+In [[Delaware]], the exits are not numbered.
+{| class=wikitable
+!County
+!Location
+!Mile<br><small>{{fact|date=December 2007}}</small>
+![[Exit number|#]]
+!Destinations
+!Notes
+|-
+|rowspan=7|[[New Castle County, Delaware|New Castle]]
+|
+|0.00
+|
+|{{jct|state=DE|I|95|dir1=south|name1=[[Delaware Turnpike]]}} - [[Baltimore, MD|Baltimore]]
+|Southbound exit and northbound entrance
+|-
+|
+|
+|
+|{{jct|state=DE|DE|141|dir1=north|city1=Newport}}, [[Lancaster, PA|Lancaster]]
+|Southbound exit and northbound entrance; signed as exit 5 (the exit number used on I-95)
+|-
+|
+|1.43
+|
+|{{jct|state=DE|I|95|dir1=north|US|202|dir2=north|city1=Wilmington}}
+|Southbound exit and northbound entrance
+|-
+|
+|1.43
+|
+|{{jct|state=DE|I|495|dir1=north|city1=Port of Wilmington}}, [[Philadelphia, PA|Philadelphia]]
+|Southbound exit and northbound entrance
+|-
+|
+|1.93
+|
+|{{jct|state=DE|US|13|US|40|dir2=west|city1=New Castle Airport|city2=Dover|city3=Wilmington}}
+|South end of US 40 overlap
+|-
+|
+|
+|
+|Landers Lane
+|Northbound exit only
+|-
+|
+|3.20
+|
+|{{jct|state=DE|DE|9|city1=New Castle|city2=Wilmington}}
+|
+|-
+!colspan=6|[[Delaware Memorial Bridge]] over the [[Delaware River]]<br>[[Delaware]]-[[New Jersey]] state line
+|-
+|rowspan=8|[[Salem County, New Jersey|Salem]]
+|rowspan=3|[[Pennsville Township, New Jersey|Pennsville Township]]
+|0.95
+|1A
+|{{jct|state=NJ|NJ|49|dir1=east|city1=Pennsville|city2=Salem}}
+|Signed as exit 1 southbound
+|-
+|
+|
+|{{jct|state=NJ|NJTP||US|40|dir2=east}} - [[New York, NY|New York]], [[Atlantic City, NJ|Atlantic City]]
+|North end of US 40 overlap; northbound exit and southbound entrance
+|-
+|0.95
+|1B
+|{{jct|state=NJ|US|130|dir1=north|city1=Penns Grove}}
+|Northbound exit and southbound entrance
+|-
+|rowspan=4|[[Carneys Point Township, New Jersey|Carneys Point Township]]
+|1.39
+|1C
+|{{jct|state=NJ|CR|551|dir1=south|name1=Hook Road|city1=Salem}}
+|South end of CR 551 overlap
+|-
+|1.60
+|2A
+|{{jct|state=NJ|I|295|dir1=south|nolink1=yes|US|40|dir2=west|road=[[Delaware Memorial Bridge]]}}
+|Northbound exit and southbound entrance, providing a U-turn to allow traffic from CR 551 north to access I-295 south/US 40 west
+|-
+|1.92
+|2B-C
+|{{jct|state=NJ|US|40|dir1=east|to2=to|US|130|NJTP||name3=[[NJ 140]]|city1=Deepwater}}
+|Signed as exits 2B (east) and 2C (west to US 130)
+|-
+|4.46
+|4
+|{{jct|state=NJ|NJ|48|city1=Penns Grove|city2=Woodstown}}
+|
+|-
+|[[Oldmans Township, New Jersey|Oldmans Township]]
+|7.15
+|7
+|[[Auburn, New Jersey|Auburn]], [[Pedricktown, New Jersey|Pedricktown]]
+|
+|-
+|rowspan=18|[[Gloucester County, New Jersey|Gloucester]]
+|rowspan=5|[[Logan Township, New Jersey|Logan Township]]
+|10.30
+|10
+|Center Square Road - [[Swedesboro, New Jersey|Swedesboro]]
+|
+|-
+|11.92
+|11A
+|{{jct|state=NJ|US|322|dir1=east|to2=to|NJTP||city1=Mullica Hill}}
+|Signed as exit 11 southbound
+|-
+|11.92
+|11B
+|{{jct|state=NJ|US|322|dir1=west|city1=Bridgeport|road=[[Commodore Barry Bridge]]}}
+|Northbound exit and southbound entrance
+|-
+|14.31
+|13
+|{{jct|state=NJ|US|130|dir1=south|to2=to|US|322|dir2=west|city1=Bridgeport|road=[[Commodore Barry Bridge]]}}
+|South end of US 130 overlap; southbound exit and northbound entrance
+|-
+|14.57
+|14
+|{{jct|state=NJ|CR|684|county1=Gloucester|to2=to|NJ|44|city1=Repaupo|city2=Gibbstown}}
+|
+|-
+|rowspan=3|[[Greenwich Township, Gloucester County, New Jersey|Greenwich Township]]
+|15.44
+|15
+|{{jct|state=NJ|CR|607|county1=Gloucester|city1=Gibbstown|city2=Harrisonville}}
+|
+|-
+|16.06
+|16A
+|{{jct|state=NJ|CR|653|county1=Gloucester|city1=Swedesboro|city2=Paulsboro}}
+|
+|-
+|16.42
+|16B
+|{{jct|state=NJ|CR|673|county1=Gloucester|city1=Gibbstown|city2=Mickleton}}
+|
+|-
+|[[Greenwich Township, Gloucester County, New Jersey|Greenwich Township]]/[[East Greenwich Township, New Jersey|East Greenwich Township]]
+|17.25
+|17
+|{{jct|state=NJ|to1=To|CR|680|county1=Gloucester|city1=Gibbstown}}
+|
+|-
+|[[Greenwich Township, Gloucester County, New Jersey|Greenwich Township]]/[[Paulsboro, New Jersey|Paulsboro Boro]]
+|18.34<br>18.49
+|18
+|{{jct|state=NJ|CR|667|county1=Gloucester|CR|678|county2=Gloucester|city1=Paulsboro|city2=Mt. Royal|city3=Clarksboro}}
+|
+|-
+|rowspan=5|[[West Deptford Township, New Jersey|West Deptford Township]]
+|19.43
+|19
+|{{jct|state=NJ|CR|656|county1=Gloucester|to2=to|NJ|44|city1=Mantua|city2=Paulsboro}}
+|
+|-
+|20.62
+|20
+|{{jct|state=NJ|to1=To|NJ|44|to2=to|CR|643|county2=Gloucester|CR|660|county3=Gloucester|city1=Mantua|city2=Thorofare|city3=Woodbury}}
+|
+|-
+|21.87
+|21
+|{{jct|state=NJ|NJ|44|dir1=south|CR|640|county2=Gloucester|city1=National Park|city2=Paulsboro|city3=Woodbury}}
+|
+|-
+|22.94
+|22
+|{{jct|state=NJ|CR|631|county1=Gloucester|CR|644|county2=Gloucester|to3=to|CR|642|county3=Gloucester|city1=Red Bank|city2=Woodbury}}
+|
+|-
+|23.68<br>23.98
+|23
+|{{jct|state=NJ|US|130|dir1=north|to2=to|CR|642|county2=Gloucester|city1=Westville|city2=Gloucester|city3=National Park}}
+|North end of US 130 overlap
+|-
+|[[West Deptford Township, New Jersey|West Deptford Township]]/[[Deptford Township, New Jersey|Deptford Township]]
+|24.53
+|24A
+|{{jct|state=NJ|NJ|45|dir1=south|city1=Woodbury}}
+|Southbound exit and northbound entrance
+|-
+|[[Deptford Township, New Jersey|Deptford Township]]/[[Westville, New Jersey|Westville Boro]]
+|24.60
+|24B
+|{{jct|state=NJ|CR|551|city1=Westville|city2=Woodbury Heights}}
+|Southbound exit and northbound entrance
+|-
+|[[Westville, New Jersey|Westville Boro]]
+|25.18
+|25
+|{{jct|state=NJ|NJ|47|city1=Westville|city2=Deptford|city3=Glassboro}}
+|Southbound exit and northbound entrance; signed as exits 25A (south) and 25B (north)
+|-
+|rowspan=9|[[Camden County, New Jersey|Camden]]
+|rowspan=4|[[Bellmawr, New Jersey|Bellmawr Boro]]
+|26.41
+|26
+|{{jct|state=NJ|I|76|dir1=express|to2=to|I|676|city1=Camden}}, [[Philadelphia, PA|Philadelphia]]
+|Northbound exit and southbound entrance
+|-
+|26.93
+|
+|{{jct|state=NJ|NJ|42|dir1=south|city1=Atlantic City}}
+|Southbound exit and northbound entrance
+|-
+|27.44
+|26
+|{{jct|state=NJ|I|76|to2=to|I|676|US|130|city1=Camden}}, [[Philadelphia, PA|Philadelphia]]
+|Exit number signed southbound only
+|-
+|28.16
+|28
+|{{jct|state=NJ|NJ|168|to2=to|NJTP||city1=Bellmawr|city2=Runnemede|city3=Mt. Ephraim}}
+|-
+|[[Haddon Heights, New Jersey|Haddon Heights Boro]]/[[Barrington, New Jersey|Barrington Boro]]
+|30.00<br>30.22
+|29
+|{{jct|state=NJ|US|30|city1=Lawnside|city2=Berlin|city3=Barrington|city4=Haddon Heights}}, [[Collingswood, New Jersey|Collingswood]]
+|Signed as exits 29A (east) and 29B (west) northbound
+|-
+|[[Lawnside, New Jersey|Lawnside Boro]]
+|30.65
+|30
+|Warwick Road – [[Lawnside, New Jersey|Lawnside]], [[Haddonfield, New Jersey|Haddonfield]]
+|Southbound exit and northbound entrance
+|-
+|[[Haddonfield, New Jersey|Haddonfield]]
+|31.74
+|31
+|[[Woodcrest (PATCO station)|Woodcrest Station]]
+|
+|-
+|rowspan=2|[[Cherry Hill Township, New Jersey|Cherry Hill Township]]
+|32.40
+|32
+|{{jct|state=NJ|CR|561|city1=Haddonfield|city2=Voorhees|city3=Gibbsboro}}
+|
+|-
+|34.80
+|34
+|{{jct|state=NJ|NJ|70|city1=Marlton|city2=Cherry Hill|city3=Camden}}
+|Signed as exits 34A (east) and 34B (west)
+|-
+|rowspan=9|[[Burlington County, New Jersey|Burlington]]
+|rowspan=3|[[Mount Laurel Township, New Jersey|Mount Laurel Township]]
+|36.86
+|36
+|{{jct|state=NJ|NJ|73|to2=to|NJTP||city1=Berlin|road=[[Tacony Bridge]]}}
+|Signed as exits 36A (south) and 36B (north)
+|-
+|40.60
+|40
+|{{jct|state=NJ|NJ|38|city1=Mt. Holly|city2=Moorestown}}
+|Signed as exits 40A (east) and 40B (west) northbound
+|-
+|43.10
+|43
+|[[Rancocas Woods, New Jersey|Rancocas Woods]], [[Delran, New Jersey|Delran]]
+|Signed as exits 43A (Rancocas Woods) and 43B (Delran) southbound
+|-
+|[[Westampton Township, New Jersey|Westampton Township]]
+|44.94
+|45
+|[[Mount Holly, New Jersey|Mount Holly]], [[Willingboro, New Jersey|Willingboro]]
+|Signed as exits 45A (Mount Holly) and 45B (Willingboro)
+|-
+|[[Burlington Township, New Jersey|Burlington Township]]
+|47.53
+|47
+|{{jct|state=NJ|CR|541|to2=to|NJTP||city1=Mount Holly|city2=Burlington}}
+|Signed as exits 47A (south) and 47B (north)
+|-
+|[[Mansfield Township, Burlington County, New Jersey|Mansfield Township]]
+|52.33
+|52
+|[[Columbus, New Jersey|Columbus]], [[Florence, New Jersey|Florence]]
+|Signed as exits 52A (Columbus) and 52B (Florence)
+|-
+|rowspan=3|[[Bordentown Township, New Jersey|Bordentown Township]]
+|56.10
+|56
+|{{jct|state=NJ|US|206|to2=to|NJTP||city1=Fort Dix|city2=McGuire AFB}}
+|Northbound exit and southbound entrance
+|-
+|56.82
+|57A
+|{{jct|state=NJ|US|130|dir1=north|US|206|dir2=north|city1=Bordentown}}
+|Signed as exit 57 northbound
+|-
+|56.82
+|57B
+|{{jct|state=NJ|US|130|dir1=south|city1=Burlington}}
+|Southbound exit and northbound entrance
+|-
+|rowspan=10|[[Mercer County, New Jersey|Mercer]]
+|rowspan=8|[[Hamilton Township, Mercer County, New Jersey|Hamilton Township]]
+|60.23
+|60
+|[[Image:I-195.svg|25px]][[Image:New Jersey Turnpike Shield.svg|20px]][[Image:I-95.svg|20px]][[Image:circle sign 29.svg|20px]][[Image:Circle sign 129.svg|25px]] [[Interstate 195 (New Jersey)|I-195]] to [[New Jersey Turnpike|NJTP]]/[[Interstate 95 in New Jersey|I-95]], [[New Jersey Route 29|NJ 29]] to [[New Jersey Route 129|NJ 129]] – [[Trenton, New Jersey|Trenton]], [[Jersey Shore|Shore Points]]
+|Signed as exits 60A (I-195) and 60B (NJ 29) southbound
+|-
+|61.40
+|61A
+|Arena Drive east, White Horse Avenue
+|
+|-
+|61.40
+|61B
+|Arena Drive west, Olden Avenue
+|Northbound exit and southbound entrance
+|-
+|61.89
+|62
+|Olden Avenue north
+|Southbound exit and northbound entrance
+|-
+|63.93
+|63A
+|{{jct|state=NJ|NJ|33|dir1=east|to2=to|CR|535|city1=Mercerville}}
+|Northbound exit and southbound entrance
+|-
+|64.01
+|63B
+|{{jct|state=NJ|NJ|33|dir1=west|city1=Trenton}}
+|Signed as exit 63 southbound
+|-
+|64.61
+|64
+|{{jct|state=NJ|CR|535|dir1=north|to2=to|NJ|33|dir2=east|city1=Mercerville}}
+|Southbound exit and northbound entrance
+|-
+|65.27
+|65w
+|Sloan Avenue
+|Signed as exits 65A (east) and 65B (west)
+|-
+|rowspan=2|[[Lawrence Township, Mercer County, New Jersey|Lawrence Township]]
+|67.63
+|67
+|{{jct|state=NJ|US|1|city1=New Brunswick|city2=Trenton}}
+|Signed as exits 67A (north) and 67B (south) northbound
+|-
+|67.79
+|
+|[[Image:I-95.svg|20px]] [[Interstate 95 in New Jersey|I-95(M)]] south - [[Philadelphia, Pennsylvania|Philadelphia]]
+|Northbound exit and southbound entrance
+|}
+
+==References==
+{{Reflist}}
+
+==External links==
+*[http://www.kurumi.com/roads/3di/i295.html#295nj I-295 on Kurumi.com]
+*[http://www.state.nj.us/transportation/refdata/sldiag/ NJDOT] [[Straight Line Diagrams]]
+*[http://www.paturnpikei95.com Pennsylvania Turnpike Commission I-95/I-276 Interchange Project Home]
+*[http://www.state.nj.us/transportation/works/studies/rt295/ I-295/I-76/Route 42 Direct Connection Overview]
+*[http://www.transportation.org/ AASHTO Homepage]
+
+{{3di|95}}
+
+{{start srbox}}
+{{de browse|previous_type=DE|previous_route=286|route=[[List of numbered routes in Delaware|DE]]|next_type=DE|next_route=299}}
+{{nj browse|previous_type=Interstate|previous_route=287|route=[[State highways in New Jersey|NJ]]|next_type=|next_route=300}}
+{{end box}}
+
+{{Metro Philadelphia expressways}}
+{{NJ Expressways}}
+
+[[Category:Three-digit Interstate Highways|95-2 Delaware]]
+[[Category:Interstate Highways in Delaware|95-2]]
+[[Category:Interstate Highways in New Jersey|95-2]]
+[[Category:Interstate 95|2 Delaware]]
