@@ -6,7 +6,7 @@
 In <a href="/wiki/Number_theory" id="w">number theory</a>, <b>Sylvester&#39;s sequence</b> is a <a href="/wiki/Sequence" id="w">sequence</a> of <a href="/wiki/Integer" id="w">integers</a> in which each member of the sequence is the product of the previous members, plus one. The first few terms of the sequence are:
 </p><dl><dd><a href="/wiki/2_(number)" id="w">2</a>, <a href="/wiki/3_(number)" id="w">3</a>, <a href="/wiki/7_(number)" id="w">7</a>, <a href="/wiki/43_(number)" id="w">43</a>, 1807, 3263443, 10650056950807, 113423713055421844361000443 {{OEIS}}.</dd></dl>
 <p>Sylvester&#39;s sequence is named after <a href="/wiki/James_Joseph_Sylvester" id="w">James Joseph Sylvester</a>, who first investigated it in 1880. Its values grow <a href="/wiki/Double_exponential_function" id="w">doubly exponentially</a>, and the sum of its <a href="/wiki/Reciprocal_(mathematics)" id="w">reciprocals</a> forms a <a href="/wiki/Series_(mathematics)" id="w">series</a> of <a href="/wiki/Unit_fraction" id="w">unit fractions</a> that converges to 1 more rapidly than any other series of unit fractions with the same sum. The <a href="/wiki/Recurrence_relation" id="w">recurrence</a> by which it is defined allows the numbers in the sequence to be <a href="/wiki/Integer_factorization" id="w">factored</a> more easily than other numbers of the same magnitude, but, due to the rapid growth of the sequence, complete prime factorizations are known only for a few of its members. Values derived from this sequence have also been used to construct finite <a href="/wiki/Egyptian_fraction" id="w">Egyptian fraction</a> representations of 1, <a href="/wiki/Sasakian_manifold" id="w">Sasakian</a> <a href="/wiki/Einstein_manifold" id="w">Einstein manifolds</a>, and hard instances for <a href="/wiki/Online_algorithm" id="w">online algorithms</a>.</p>
-<a id="Formal_definitions" name="Formal_definitions"></a><h2> Formal definitions </h2>
+<a id="Formal_definitions" name="Formal_definitions"></a><h1> Formal definitions </h1>
 
 <p>Formally, Sylvester&#39;s sequence can be defined by the formula
 </p><dl><dd><span class="math">s_n = 1 + \prod_{i = 0}^{n - 1} s_i.</span></dd></dl>
@@ -14,7 +14,7 @@ In <a href="/wiki/Number_theory" id="w">number theory</a>, <b>Sylvester&#39;s se
 <p>Alternatively, one may define the sequence by the <a href="/wiki/Recurrence_relation" id="w">recurrence</a>
 </p><dl><dd><span class="math">\displaystyle s_i = s_{i-1}(s_{i-1}-1)+1,</span> with <i>s</i><sub>0</sub> = 2.</dd></dl>
 <p>It is straightforward to show by induction that this is equivalent to the other definition.</p>
-<a id="Connection_with_Egyptian_fractions" name="Connection_with_Egyptian_fractions"></a><h2> Connection with Egyptian fractions </h2>
+<a id="Connection_with_Egyptian_fractions" name="Connection_with_Egyptian_fractions"></a><h1> Connection with Egyptian fractions </h1>
 
 <p>The <a href="/wiki/Unit_fraction" id="w">unit fractions</a> formed by the <a href="/wiki/Multiplicative_inverse" id="w">reciprocals</a> of the values in Sylvester&#39;s sequence generate an <a href="/wiki/Series_(mathematics)" id="w">infinite series</a>:
 </p><dl><dd><span class="math">\sum_{i=0}^{\infty} \frac1{s_i} = \frac12 + \frac13 + \frac17 + \frac1{43} + \frac1{1807} + \cdots</span></dd></dl>
@@ -28,7 +28,7 @@ In <a href="/wiki/Number_theory" id="w">number theory</a>, <b>Sylvester&#39;s se
 </p><dl><dd><span class="math">1 = \tfrac12 + \tfrac13 + \tfrac16, \quad 1 = \tfrac12 + \tfrac13 + \tfrac17 + \tfrac1{42}, \quad 1 = \tfrac12 + \tfrac13 + \tfrac17 + \tfrac1{43} + \tfrac1{1806},\quad \dots</span></dd></dl>
 <p>The sum of the first <i>k</i> terms of the infinite series provides the closest possible underestimate of 1 by any <i>k</i>-term Egyptian fraction.<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup> For example, the first four terms add to 1805/1806, and therefore any Egyptian fraction for a number in the open interval (1805/1806,1) requires at least five terms.</p>
 <p>It is possible to interpret the Sylvester sequence as the result of a <a href="/wiki/Greedy_algorithm_for_Egyptian_fractions" id="w">greedy algorithm for Egyptian fractions</a>, that at each step chooses the smallest possible denominator that makes the partial sum of the series be less than one. Alternatively, the terms of the sequence after the first can be viewed as the denominators of the <a href="/wiki/Odd_greedy_expansion" id="w">odd greedy expansion</a> of 1/2.</p>
-<a id="Closed_form_formula_and_asymptotics" name="Closed_form_formula_and_asymptotics"></a><h2> Closed form formula and asymptotics </h2>
+<a id="Closed_form_formula_and_asymptotics" name="Closed_form_formula_and_asymptotics"></a><h1> Closed form formula and asymptotics </h1>
 
 <p>The Sylvester numbers grow <a href="/wiki/Double_exponential_function" id="w">doubly exponentially</a> as a function of <i>n</i>. Specifically, it can be shown that</p>
 <dl><dd><span class="math">s_n = \left\lfloor E^{2^{n+1}}+\frac12 \right\rfloor,</span></dd></dl>
@@ -37,7 +37,7 @@ In <a href="/wiki/Number_theory" id="w">number theory</a>, <b>Sylvester&#39;s se
 <p>This would only be a practical algorithm if we had a better way of calculating E to the requisite number of places than calculating s<sub><i>n</i></sub> and taking its repeated square root.</p>
 <p>The double-exponential growth of the Sylvester sequence is unsurprising if one compares it to the sequence of <a href="/wiki/Fermat_number" id="w">Fermat numbers</a> <i>F</i><sub><i>n</i></sub>; the Fermat numbers are usually defined by a doubly exponential formula, <span class="math">2^{2^n}+1</span>, but they can also be defined by a product formula very similar to that defining Sylvester&#39;s sequence:</p>
 <dl><dd><span class="math">F_n = 2 + \prod_{i = 0}^{n - 1} F_i.</span></dd></dl>
-<a id="Uniqueness_of_quickly_growing_series_with_rational_sums" name="Uniqueness_of_quickly_growing_series_with_rational_sums"></a><h2> Uniqueness of quickly growing series with rational sums </h2>
+<a id="Uniqueness_of_quickly_growing_series_with_rational_sums" name="Uniqueness_of_quickly_growing_series_with_rational_sums"></a><h1> Uniqueness of quickly growing series with rational sums </h1>
 
 <p>As Sylvester himself observed, Sylvester&#39;s sequence seems to be unique in having such quickly growing values, while simultaneously having a series of reciprocals that converges to a rational number.</p>
 <p>To make this more precise, it follows from results of Badea (1993) that, if a sequence of integers <span class="math">a_n</span> grows quickly enough that
@@ -50,7 +50,7 @@ In <a href="/wiki/Number_theory" id="w">number theory</a>, <b>Sylvester&#39;s se
 <p><a href="/wiki/Paul_Erd%C5%91s" id="w">Erdős</a> (1980) <a href="/wiki/Erd%C5%91s_conjecture" id="w">conjectured</a> that, in results of this type, the inequality bounding the growth of the sequence could be replaced by a weaker condition,
 </p><dl><dd><span class="math">\lim_{n\rightarrow\infty} \frac{a_n}{a_{n-1}^2}=1.</span></dd></dl>
 <p>Badea (1995) surveys progress related to this conjecture; see also Brown.</p>
-<a id="Divisibility_and_factorizations" name="Divisibility_and_factorizations"></a><h2> Divisibility and factorizations </h2>
+<a id="Divisibility_and_factorizations" name="Divisibility_and_factorizations"></a><h1> Divisibility and factorizations </h1>
 
 <p>If <i>i</i> &#60; <i>j</i>, it follows from the definition that <i>s</i><sub><i>j</i></sub> ≡ 1 (mod <i>s</i><sub><i>i</i></sub>). Therefore, every two numbers in Sylvester&#39;s sequence are <a href="/wiki/Relatively_prime" id="w">relatively prime</a>. The sequence can be used to prove that there are infinitely many <a href="/wiki/Prime_number" id="w">prime numbers</a>, as any prime can divide at most one number in the sequence.</p>
 <p>Some effort has been expended in an attempt to factor the numbers in Sylvester&#39;s sequence, but much remains unknown about their factorization. For instance, it is not known if all numbers in the sequence are <a href="/wiki/Squarefree" id="w">squarefree</a>, although all the known terms are.</p>
@@ -121,22 +121,22 @@ In <a href="/wiki/Number_theory" id="w">number theory</a>, <b>Sylvester&#39;s se
 <td>91798039513 × C853750</td></tr></table></div>
 
 <p>As is customary, P<i>n</i> and C<i>n</i> denote prime and composite numbers <i>n</i> digits long.</p>
-<a id="Applications" name="Applications"></a><h2> Applications </h2>
+<a id="Applications" name="Applications"></a><h1> Applications </h1>
 
 <p>Boyer et al. (2005) use the properties of Sylvester&#39;s sequence to define large numbers of <a href="/wiki/Sasakian_manifold" id="w">Sasakian</a> <a href="/wiki/Einstein_manifold" id="w">Einstein manifolds</a> having the <a href="/wiki/Differential_topology" id="w">differential topology</a> of odd-dimensional <a href="/wiki/Hypersphere" id="w">spheres</a> or <a href="/wiki/Exotic_sphere" id="w">exotic spheres</a>. They show that the number of distinct Sasakian Einstein <a href="/wiki/Riemannian_metric" id="w">metrics</a> on a <a href="/wiki/Topological_sphere" id="w">topological sphere</a> of dimension 2<i>n</i> &#8722; 1 is at least proportional to <i>s</i><sub><i>n</i></sub> and hence has double exponential growth with <i>n</i>.</p>
 <p>As Galambos and Woeginger (1995) describe, Brown (1979) and Liang (1980) used values derived from Sylvester&#39;s sequence to construct lower bound examples for <a href="/wiki/Online_algorithm" id="w">online</a> <a href="/wiki/Bin_packing" id="w">bin packing</a> <a href="/wiki/Algorithm" id="w">algorithms</a>. Seiden and Woeginger (2005) similarly use the sequence to lower bound the performance of a two-dimensional cutting stock algorithm.<sup id="_ref-5" class="reference"><a href="#_note-5" title="">[5]</a></sup></p>
 <p><a href="/wiki/Zn%C3%A1m%26%2339%3Bs_problem" id="w">Znám&#39;s problem</a> concerns sets of numbers such that each number in the set divides but is not equal to the product of all the other numbers, plus one. Without the inequality requirement, the values in Sylvester&#39;s sequence would solve the problem; with that requirement, it has other solutions derived from recurrences similar to the one defining Sylvester&#39;s sequence. Solutions to Znám&#39;s problem have applications to the classification of surface singularities (Brenton and Hill 1988) and to the theory of <a href="/wiki/Nondeterministic_finite_automata" id="w">nondeterministic finite automata</a> (Domaratzki et al. 2005).</p>
 <p>Curtiss (1922) describes an application of the closest approximations to one by <i>k</i>-term sums of unit fractions, in lower-bounding the number of divisors of any <a href="/wiki/Perfect_number" id="w">perfect number</a>, and Miller (1919) uses the same property to lower bound the size of certain groups.</p>
-<a id="See_also" name="See_also"></a><h2> See also </h2>
+<a id="See_also" name="See_also"></a><h1> See also </h1>
 
 
 <ul>
 <li><a href="/wiki/Cahen%26%2339%3Bs_constant" id="w">Cahen&#39;s constant</a></li>
 <li><a href="/wiki/Primary_pseudoperfect_number" id="w">Primary pseudoperfect number</a></li></ul>
-<a id="Footnotes" name="Footnotes"></a><h2> Footnotes </h2>
+<a id="Footnotes" name="Footnotes"></a><h1> Footnotes </h1>
 
 <p /><ol class="references">
-<li id="_note-1"><b><a href="#_ref-1" title="">&uarr;</a></b> This claim is commonly attributed to Curtiss (1922), but Miller (1919) appears to be making the same statement in an earlier paper. See also Rosenman (1933), Salzer (1947), and Soundararajan (2005).</li><li id="_note-2"><b><a href="#_ref-2" title="">&uarr;</a></b> Graham, Knuth, and Patashnik (1989) set this as an exercise; see also Golomb (1963).</li><li id="_note-3"><b><a href="#_ref-3" title="">&uarr;</a></b> This appears to be a typo, as Andersen finds 1167 prime divisors in this range.</li><li id="_note-4"><b><a href="#_ref-4" title="">&uarr;</a></b> All prime factors <i>p</i> of Sylvester numbers <i>s</i><sub><i>n</i></sub> with <i>p</i> &#60; 5&#215;10<sup>7</sup> and <i>n</i> ≤ 200 are listed by Vardi. Ken Takusagawa lists the <a class="externallink" href="http://kenta.blogspot.com/2006/01/factoring-sylvesters-sequence.html" rel="nofollow" title="http://kenta.blogspot.com/2006/01/factoring-sylvesters-sequence.html">factorizations up to &#39;&#39;s&#39;&#39;&#60;sub&#62;9&#60;/sub&#62;</a> and the <a class="externallink" href="http://kenta.blogspot.com/2006/04/sylvester-10th-factored.html" rel="nofollow" title="http://kenta.blogspot.com/2006/04/sylvester-10th-factored.html">factorization of &#39;&#39;s&#39;&#39;&#60;sub&#62;10&#60;/sub&#62;</a>. The remaining factorizations are from  <a class="externallink" href="http://hjem.get2net.dk/jka/math/sylvester-factors.htm" rel="nofollow" title="http://hjem.get2net.dk/jka/math/sylvester-factors.htm">a list of factorizations of Sylvester&#39;s sequence</a> maintained by Jens Kruse Andersen, retrieved October 2, 2007.</li><li id="_note-5"><b><a href="#_ref-5" title="">&uarr;</a></b> In their work, Seiden and Woeginger refer to Sylvester&#39;s sequence as &#34;Salzer&#39;s sequence&#34; after Salzer&#39;s (1947) paper on closest approximation.</li></ol><a id="References" name="References"></a><h2> References </h2>
+<li id="_note-1"><b><a href="#_ref-1" title="">&uarr;</a></b> This claim is commonly attributed to Curtiss (1922), but Miller (1919) appears to be making the same statement in an earlier paper. See also Rosenman (1933), Salzer (1947), and Soundararajan (2005).</li><li id="_note-2"><b><a href="#_ref-2" title="">&uarr;</a></b> Graham, Knuth, and Patashnik (1989) set this as an exercise; see also Golomb (1963).</li><li id="_note-3"><b><a href="#_ref-3" title="">&uarr;</a></b> This appears to be a typo, as Andersen finds 1167 prime divisors in this range.</li><li id="_note-4"><b><a href="#_ref-4" title="">&uarr;</a></b> All prime factors <i>p</i> of Sylvester numbers <i>s</i><sub><i>n</i></sub> with <i>p</i> &#60; 5&#215;10<sup>7</sup> and <i>n</i> ≤ 200 are listed by Vardi. Ken Takusagawa lists the <a class="externallink" href="http://kenta.blogspot.com/2006/01/factoring-sylvesters-sequence.html" rel="nofollow" title="http://kenta.blogspot.com/2006/01/factoring-sylvesters-sequence.html">factorizations up to &#39;&#39;s&#39;&#39;&#60;sub&#62;9&#60;/sub&#62;</a> and the <a class="externallink" href="http://kenta.blogspot.com/2006/04/sylvester-10th-factored.html" rel="nofollow" title="http://kenta.blogspot.com/2006/04/sylvester-10th-factored.html">factorization of &#39;&#39;s&#39;&#39;&#60;sub&#62;10&#60;/sub&#62;</a>. The remaining factorizations are from  <a class="externallink" href="http://hjem.get2net.dk/jka/math/sylvester-factors.htm" rel="nofollow" title="http://hjem.get2net.dk/jka/math/sylvester-factors.htm">a list of factorizations of Sylvester&#39;s sequence</a> maintained by Jens Kruse Andersen, retrieved October 2, 2007.</li><li id="_note-5"><b><a href="#_ref-5" title="">&uarr;</a></b> In their work, Seiden and Woeginger refer to Sylvester&#39;s sequence as &#34;Salzer&#39;s sequence&#34; after Salzer&#39;s (1947) paper on closest approximation.</li></ol><a id="References" name="References"></a><h1> References </h1>
 <p />
 <div class="references-small" style="-moz-column-count:2; column-count:2;">
 
@@ -201,7 +201,7 @@ In <a href="/wiki/Number_theory" id="w">number theory</a>, <b>Sylvester&#39;s se
 <li>{{cite book}}</li></ul>
 <p /></div>
 
-<a id="External_links" name="External_links"></a><h2> External links </h2>
+<a id="External_links" name="External_links"></a><h1> External links </h1>
 
 
 <ul>

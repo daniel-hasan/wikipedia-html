@@ -8,7 +8,7 @@
 <p>Together with <a href="/wiki/Automake" id="w">Automake</a> and <a href="/wiki/Libtool" id="w">Libtool</a>, Autoconf forms the <a href="/wiki/GNU_build_system" id="w">GNU build system</a>.</p>
 <p>Autoconf makes use of <a href="/wiki/GNU_m4" id="w">GNU m4</a> to transform a user-written &#39;configure.ac&#39; (formerly, and on older projects, called &#39;configure.in&#39;) file to a portable shell script called &#39;configure&#39;.  The &#39;configure&#39; script runs non-interactively, and generates customized headers and <a href="/wiki/Makefile" id="w">makefiles</a> derived from pre-written templates. You could say that Autoconf <a href="/wiki/Compiler" id="w">compiles</a> the <a href="/wiki/M4_(language)" id="w">M4</a> program in &#39;configure.ac&#39; into a shell script.</p>
 <p>Autoconf was begun in the summer of 1991 by David Mackenzie to support his work at the <a href="/wiki/Free_Software_Foundation" id="w">Free Software Foundation</a>.  In the subsequent years it grew to include enhancements from a variety of authors and became the most widely used build configuration system for writing portable free or open source software.</p>
-<a id="Approach" name="Approach"></a><h2> Approach </h2>
+<a id="Approach" name="Approach"></a><h1> Approach </h1>
 <p>Autoconf is similar to the <a href="/wiki/Metaconfig" id="w">Metaconfig</a> package used by <a href="/wiki/Perl" id="w">Perl</a>.  The <a href="/wiki/Imake" id="w">imake</a> system formerly used by the <a href="/wiki/X_Window_System" id="w">X Window System</a> (up to X11R6.9) is closely related, but has a different philosophy.</p>
 <p>The Autoconf approach to <a href="/wiki/Porting" id="w">portability</a> is to test for <a href="/wiki/Feature" id="w">features</a>, not for <a href="/wiki/Version" id="w">versions</a>. For example, the native C compiler on SunOS 4 did not support <a href="/wiki/C_(programming_language)" id="w">ISO C</a>. However, it is possible for the user or administrator to have installed an ISO C compliant compiler.  A pure version-based approach would not detect the presence of the ISO C compiler, but a feature testing approach would be able to discover the ISO C compiler the user had installed. The rationale of this approach is to gain the following advantages:</p>
 
@@ -16,14 +16,14 @@
 <li>the configure script can get reasonable results on newer or unknown systems</li>
 <li>it allows <a href="/wiki/System_administrator" id="w">administrators</a> to customize their machines and have the configure script take advantage of the customizations</li>
 <li>there&#39;s no need to keep track of minute details of versions, patch numbers, etc., to figure out whether a particular feature is supported or not</li></ul>
-<a id="See_also" name="See_also"></a><h2>See also</h2>
+<a id="See_also" name="See_also"></a><h1>See also</h1>
 
 <ul>
 <li><a href="/wiki/GNU_build_system" id="w">GNU build system</a></li>
 <li><a href="/wiki/Sane_build_environment" id="w">Sane build environment</a></li>
 <li><a href="/wiki/Pkg-config" id="w">pkg-config</a> Detecting package dependencies</li>
 <li><a href="/wiki/CMake" id="w">CMake</a> Alternative build system</li></ul>
-<a id="External_links" name="External_links"></a><h2>External links</h2>
+<a id="External_links" name="External_links"></a><h1>External links</h1>
 <p>{{portal}}
 </p>
 <ul>

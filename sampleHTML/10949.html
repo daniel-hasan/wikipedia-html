@@ -6,7 +6,7 @@
 <p>It is often the case that using only three colors is inadequate. This applies already to the map with one region surrounded by three other regions (although with an even number of surrounding countries three colors are enough) and it is not at all difficult to prove that <a href="/wiki/Five_color_theorem" id="w">five colors are sufficient</a> to color a map.</p>
 <p>The four color theorem was the first major <a href="/wiki/Theorem" id="w">theorem</a> to be proven using a computer, and the proof is not accepted by all mathematicians because it would be unfeasible for a human to verify by hand (see <a href="/wiki/Computer-assisted_proof" id="w">computer-assisted proof</a>). Ultimately, in order to believe the proof, one has to have faith in the correctness of the <a href="/wiki/Compiler" id="w">compiler</a> and <a href="/wiki/Hardware" id="w">hardware</a> executing the program used for the proof.</p>
 <p>The perceived lack of mathematical elegance by the general mathematical community was another factor, and to paraphrase comments of the time, &#34;a good <a href="/wiki/Mathematical_proof" id="w">mathematical proof</a> is like a poem—this is a <a href="/wiki/Telephone_directory" id="w">telephone directory</a>!&#34;<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup></p>
-<a id="History" name="History"></a><h2>History</h2>
+<a id="History" name="History"></a><h1>History</h1>
 
 <p>The <a href="/wiki/Conjecture" id="w">conjecture</a> was first proposed in 1852 when <a href="/wiki/Francis_Guthrie" id="w">Francis Guthrie</a>, while trying to color the map of counties of <a href="/wiki/England" id="w">England</a>, noticed that only four different colors were needed.  At the time, Guthrie&#39;s brother, Fredrick, was a student of <a href="/wiki/Augustus_De_Morgan" id="w">Augustus De Morgan</a> at <a href="/wiki/University_College%2C_London" id="w">University College</a>.  Francis inquired with Fredrick regarding it, who then took it to DeMorgan. (Fredrick Guthrie graduated later in 1852, and later became a professor of mathematics in <a href="/wiki/South_Africa" id="w">South Africa</a>). According to De Morgan:</p>
 <dl><dd><i>A student of mine</i> [Guthrie] <i>asked me today to give him a reason for a fact which I did not know was a fact - and do not yet. He says that if a figure be anyhow divided and the compartments differently coloured so that figures with any portion of common boundary line are differently colored - four colours may be wanted, but not more—the following is the case in which four colours are wanted. Query cannot a necessity for five or more be invented…</i></dd></dl>
@@ -26,17 +26,17 @@
 <p>In 1980, <a href="/wiki/George_Spencer-Brown" id="w">George Spencer-Brown</a> deposited his purported proof of the four color map theorem at the <a href="/wiki/Royal_Society" id="w">Royal Society</a>. The validity of this proof, which makes up Appendix 5 of the German translation of his book &#34;<a href="/wiki/Laws_of_Form" id="w">Laws of Form</a>&#34; (Lübeck 1997), is generally doubted.</p>
 <p>In 2004 <a href="/wiki/Benjamin_Werner" id="w">Benjamin Werner</a> and <a href="/wiki/Georges_Gonthier" id="w">Georges Gonthier</a> formalized a proof of the theorem inside the <a href="/wiki/Coq" id="w">Coq</a> proof assistant (Gonthier, n.d.). This removes the need to trust the various computer programs used to verify particular cases; it is only necessary to trust the Coq kernel.</p>
 <p>There are also efficient algorithms to determine whether 1 or 2 colors suffice to color a map. Determining whether 3 colors suffice is, however, <a href="/wiki/NP-complete" id="w">NP-complete</a>, and so a fast algorithm is unlikely. Determining whether a general (possibly non-planar) <a href="/wiki/Graph_(mathematics)" id="w">graph</a> can be 4-colored is likewise NP-complete.</p>
-<a id="Not_for_mapmakers" name="Not_for_mapmakers"></a><h2>  Not for mapmakers  </h2>
+<a id="Not_for_mapmakers" name="Not_for_mapmakers"></a><h1>  Not for mapmakers  </h1>
 
 <p>Although the four color theorem was discovered in the process of coloring a real map, it is rarely used in practical <a href="/wiki/Cartography" id="w">cartography</a>. According to Kenneth May, a mathematical historian who studied a sample of atlases in the Library of Congress, there is no tendency to minimize the number of colors used. Many maps use color for things other than political regions. Most maps use more than four colors, and when only four colors are used, usually the minimum number of colors actually needed is fewer than four.</p>
 <p>On most actual maps there are lakes, which must all be in the same color. This is then additional to whatever colors are required for political regions. If the lakes are counted as a single region, the theorem does not apply. It can be applied to the map&#39;s land areas alone by considering the lakes as not belonging to the map regions, but on actual maps several non-<a href="/wiki/Contiguity" id="w">contiguous</a> map regions may furthermore belong to a single non-<a href="/wiki/Connectivity_(graph_theory)" id="w">connected</a> political region and require the same color (see <a href="/wiki/#Non-contiguous regions" id="w">below</a>), so then again the theorem does not apply.</p>
 <p>Textbooks on cartography and the <a href="/wiki/History_of_cartography" id="w">history of cartography</a> do not mention the four color theorem, even though map coloring is a subject of discussion. Generally, mapmakers say they are more concerned about coloring political maps in a balanced fashion, so that no single color dominates. Whether they use four, five, or more colors is not a primary concern.</p>
-<a id="Formal_statement_in_graph_theory" name="Formal_statement_in_graph_theory"></a><h2> Formal statement in graph theory </h2>
+<a id="Formal_statement_in_graph_theory" name="Formal_statement_in_graph_theory"></a><h1> Formal statement in graph theory </h1>
 
 <p>To formally state the theorem, it is easiest to rephrase it in <a href="/wiki/Graph_theory" id="w">graph theory</a>.  It then states that the <a href="/wiki/Vertex_(graph_theory)" id="w">vertices</a> of every <a href="/wiki/Planar_graph" id="w">planar graph</a> can be <a href="/wiki/Graph_coloring" id="w">colored</a> with at most four colors so that no two adjacent vertices receive the same color. Or &#34;every planar graph is four-colorable&#34; for short. Here, every region of the map is replaced by a vertex of the graph, and two vertices are connected by an <a href="/wiki/Edge_(graph_theory)" id="w">edge</a> <a href="/wiki/If_and_only_if" id="w">if and only if</a> the two regions share a border segment (not just a corner).</p>
 <p><a class="internal" href="/wiki/Image:Four_Colour_Planar_Graph.svg.png" ><img src="http://en.wikipedia.org/wiki/Four_Colour_Planar_Graph.svg.png" class="location-center" />
 </a></p>
-<a id="False_disproofs" name="False_disproofs"></a><h2> False disproofs </h2>
+<a id="False_disproofs" name="False_disproofs"></a><h1> False disproofs </h1>
 
 <p>Like many famous open problems of mathematics, the four color theorem has attracted a large number of false proofs and disproofs in its long history. Some, like Kempe&#39;s and Tait&#39;s mentioned above, stood under public scrutiny for over a decade before they were exposed. But many more, authored by amateurs, were never published at all.</p>
 <p />
@@ -64,7 +64,7 @@
 <p>This trick can be generalized: there are many maps where if the colors of some regions are selected beforehand, it becomes impossible to color the remaining regions without exceeding four colors. A casual verifier of the counterexample may not think to change the colors of these regions, so that the counterexample will appear as though it is valid.</p>
 <p>Perhaps one effect underlying this common misconception is the fact that the color restriction is not <a href="/wiki/Transitive_relation" id="w">transitive</a>: a region only has to be colored differently from regions it touches directly, not regions touching regions that it touches. If this were the restriction, planar graphs would require arbitrarily large numbers of colors.</p>
 <p>Other false disproofs violate the assumptions of the theorem in unexpected ways, such as using a region that consists of multiple disconnected parts, or disallowing regions of the same color from touching at a point.</p>
-<a id="Generalizations" name="Generalizations"></a><h2> Generalizations </h2>
+<a id="Generalizations" name="Generalizations"></a><h1> Generalizations </h1>
 
 <p><div style="wigth:300px"><a class="internal" href="/wiki/Image:300px-Torus_with_seven_colours.svg.png" title="By joining the single arrows together and the double arrows together, one obtains a [[torus]] with seven mutually touching regions; therefore seven colors are necessary"><img src="http://en.wikipedia.org/wiki/300px-Torus_with_seven_colours.svg.png" alt="By joining the single arrows together and the double arrows together, one obtains a [[torus]] with seven mutually touching regions; therefore seven colors are necessary" title="By joining the single arrows together and the double arrows together, one obtains a [[torus]] with seven mutually touching regions; therefore seven colors are necessary" class="location-right type-thumb" width="300px" />
 </a>
@@ -81,7 +81,7 @@
 </p><dl><dd><dl><dd><span class="math">p=\left\lfloor\frac{7 + \sqrt{1 + 48g }}{2}\right\rfloor.</span></dd></dl></dd></dl>
 <p>For example, the <a href="/wiki/Torus" id="w">torus</a> has Euler characteristic χ = 0 (and genus <i>g</i> = 1) and thus <i>p</i> = 7, so no more than 7 colors are required to color any map on a torus.</p>
 <p>A <a href="/wiki/M%C3%B6bius_strip" id="w">Möbius strip</a> also requires six colors. <a class="externallink" href="http://mathforum.org/library/drmath/view/52257.html" rel="nofollow" title="http://mathforum.org/library/drmath/view/52257.html">http://mathforum.org/library/drmath/view/52257.html</a></p>
-<a id="Non-contiguous_regions" name="Non-contiguous_regions"></a><h2> Non-contiguous regions</h2>
+<a id="Non-contiguous_regions" name="Non-contiguous_regions"></a><h1> Non-contiguous regions</h1>
 
 <p><div style="wigth:200px"><a class="internal" href="/wiki/Image:200px-Azerbaijan-CIA_WFB_Map.png" title="Example of a map with non-contiguous regions"><img src="http://en.wikipedia.org/wiki/200px-Azerbaijan-CIA_WFB_Map.png" alt="Example of a map with non-contiguous regions" title="Example of a map with non-contiguous regions" class="location-right type-thumb" width="200px" />
 </a>
@@ -92,14 +92,14 @@ In the real world, <a href="/wiki/Enclave_and_exclave" id="w">not all countries 
 </a>
 <div class="caption">center</div></p>
 <p>In this map, the two regions labeled <i>A</i> belong to the same country, and must be the same color. This map then requires five colors, since the two <i>A</i> regions together are contiguous with four other regions, each of which is contiguous with all the others. If <i>A</i> consisted of three regions, six or more colors might be required; one can construct maps that require an arbitrarily high number of colors.</p>
-<a id="See_also" name="See_also"></a><h2>See also</h2>
+<a id="See_also" name="See_also"></a><h1>See also</h1>
 
 <ul>
 <li><a href="/wiki/Graph_coloring" id="w">Graph coloring</a></li>
 <li><a href="/wiki/Graph_theory" id="w">Graph theory</a></li>
 <li><a href="/wiki/Topology" id="w">Topology</a></li>
 <li><a href="/wiki/WikiBooks:Amateur%26%2339%3Bs_guide_to_proving_the_four_color_theorem" id="w">WikiBooks:Amateur&#39;s guide to proving the four color theorem</a></li></ul>
-<a id="References" name="References"></a><h2>References</h2>
+<a id="References" name="References"></a><h1>References</h1>
 <p /><ol class="references">
 <li id="_note-1"><b><a href="#_ref-1" title="">&uarr;</a></b> <a class="externallink" href="http://encarta.msn.com/encyclopedia_761578291_12/Mathematics.html" rel="nofollow" title="http://encarta.msn.com/encyclopedia_761578291_12/Mathematics.html">Mathematics</a>, Microsoft Encarta Online Encyclopedia, Microsoft Corporation, 2007.</li><li id="_note-2"><b><a href="#_ref-2" title="">&uarr;</a></b> Arthur Cayley, &#34;On the colourings of maps.&#34;, Proc. <a href="/wiki/Royal_Geographical_Society" id="w">Royal Geographical Society</a> 1, 259-261, 1879.</li><li id="_note-3"><b><a href="#_ref-3" title="">&uarr;</a></b> Neil Robertson, Daniel P. Sanders, Paul Seymour, and Robin Thomas. A new proof of the four-colour theorem. Electronic Research Announcements of the American Mathematical Society 2 (1996), pp.17-25. <a class="externallink" href="http://www.ams.org/era/1996-02-01/S1079-6762-96-00003-0/home.html" rel="nofollow" title="http://www.ams.org/era/1996-02-01/S1079-6762-96-00003-0/home.html">Online archive</a></li></ol>
 <ul>

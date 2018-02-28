@@ -12,10 +12,10 @@
 </a>
 <div class="thumbcaption">This Dutch protester is expressing his desire to &#34;reset&#34; government policies via the symbolic value of Control-Alt-Delete.</div>
 Colloquially, the combination is also known as a <a href="/wiki/Three-finger_salute_(computing)" id="w">three-finger salute</a>, Three Fingered Death Grip or, more esoterically, as a <a href="/wiki/Vulcan_nerve_pinch" id="w">Vulcan nerve pinch</a>.</p>
-<a id="DOS_and_all_real_mode_systems" name="DOS_and_all_real_mode_systems"></a><h2> DOS and all real mode systems </h2>
+<a id="DOS_and_all_real_mode_systems" name="DOS_and_all_real_mode_systems"></a><h1> DOS and all real mode systems </h1>
 <p>On a <a href="/wiki/Personal_computer" id="w">PC</a> running <a href="/wiki/DOS" id="w">DOS</a> or a system that runs in <a href="/wiki/Real_mode" id="w">real mode</a>, this keystroke combination is recognized by the keyboard handling code in the <a href="/wiki/BIOS" id="w">BIOS</a> and treated as the <a href="/wiki/Intel_8086" id="w">CPU</a>&#39;s <a href="/wiki/Non-Maskable_interrupt" id="w">NMI</a> signal, which, except for rare exceptions, invokes a soft reboot.</p>
-<a id="Windows" name="Windows"></a><h2> Windows </h2>
-<a id="DOS-based_Windows" name="DOS-based_Windows"></a><h3>DOS-based Windows</h3>
+<a id="Windows" name="Windows"></a><h1> Windows </h1>
+<a id="DOS-based_Windows" name="DOS-based_Windows"></a><h2>DOS-based Windows</h2>
 <p><a class="internal" href="/wiki/Image:CloseProgram.png" title="The Close Program window on Microsoft [[Windows 9x]]."><img src="http://en.wikipedia.org/wiki/CloseProgram.png" alt="The Close Program window on Microsoft [[Windows 9x]]." title="The Close Program window on Microsoft [[Windows 9x]]." class="location-none type-thumb" />
 </a>
 <div class="thumbcaption">The Close Program window on Microsoft <a href="/wiki/Windows_9x" id="w">Windows 9x</a>.</div> 
@@ -29,7 +29,7 @@ Under <a href="/wiki/Windows_3.0" id="w">Windows 3.0</a> and earlier (and <a hre
 <li>Windows 95, Windows 98, and Windows Me, present a window which lists currently running <a href="/wiki/Process_(computing)" id="w">processes</a>, and can be used to notify them that they should end, or, when they don&#39;t respond, kill them. The user can press Control-Alt-Delete again to perform a soft reboot.</li></ul></li></ul>
 <p>Killing tasks/processes is useful, for instance, if a program has entered an <a href="/wiki/Infinite_loop" id="w">infinite loop</a>. Theoretically, the system&#39;s other processes should continue normally&#8212;in practice, using this key combination to terminate a program/process in Windows 3.1 can result in resources and memory being leaked. As such, it is strongly recommended that, following a process kill in these versions of Windows, any work should be saved in any other applications and Windows should be restarted. Such damage is much less likely in newer versions of DOS-based Windows because of resource tracking.</p>
 <p>In Windows 9x, pressing the combination a second time if the process listing has not appeared would display a blue screen from which the user can reboot the system by pressing the combination a third time.  This allows the user to over-ride any &#34;stuck&#34; process, since no user-level program is able to define its own response to the Control-Alt-Delete key combination.  However, this functionality does not always work.</p>
-<a id="Windows_NT" name="Windows_NT"></a><h3> Windows NT </h3>
+<a id="Windows_NT" name="Windows_NT"></a><h2> Windows NT </h2>
 <p><a class="internal" href="/wiki/Image:Xp_windows_security.png" title="The Windows Security Dialog in [[Windows XP]] provides various security-related options."><img src="http://en.wikipedia.org/wiki/Xp_windows_security.png" alt="The Windows Security Dialog in [[Windows XP]] provides various security-related options." title="The Windows Security Dialog in [[Windows XP]] provides various security-related options." class="location-right type-thumb" />
 </a>
 <div class="thumbcaption">The Windows Security Dialog in <a href="/wiki/Windows_XP" id="w">Windows XP</a> provides various security-related options.</div>
@@ -51,31 +51,31 @@ Under <a href="/wiki/Windows_3.0" id="w">Windows 3.0</a> and earlier (and <a hre
 <p>Windows NT is designed so that, unless security is already compromised in some other way, only the WinLogon process, a trusted system process, can receive notification of this keystroke combination. This is because the kernel remembers the <a href="/wiki/Process_ID" id="w">Process ID</a> of the WinLogon process, and allows only that process to receive the notification. This keystroke combination is thus called the <a href="/wiki/Secure_attention_key" id="w">Secure Attention Sequence</a>. A user pressing Control-Alt-Delete can be sure that it is the operating system (specifically the WinLogon process), rather than a third party program, that is responding to the key combination, and that it is therefore safe to enter a password. It was chosen as the secure attention key in Windows (instead of, for example, the <a href="/wiki/SysRq" id="w">System Request</a> key), because on the PC platform no program could reasonably expect to redefine this keystroke combination for its own purposes.<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup></p>
 <p>It is also a reliable method for bringing up the Task Manager (in Windows Server 2003 and older). All other keystroke combinations could potentially be exclusively tied up by a process that is stuck, but a user process is not able to intercept the Control-Alt-Delete sequence. It can be however disabled by Windows Group Policies. Ctrl+Shift+Esc also brings up the task manager in all Windows NT versions starting with NT 4.0, even if pressing Ctrl+Alt+Del is set to bring up the Windows Security dialog.</p>
 <p>As a side effect, users who do not have physical access to the <a href="/wiki/Computer_power_supply" id="w">computer&#39;s power supply</a> and power/reset switches can be denied the ability to shut down or restart the computer, where previously (on MS-DOS and other variants of Windows) they could always use Control-Alt-Delete. However, as both the Task Manager and Windows Security have options for shutting down the computer, this operation can still be executed unless explicitly denied through Group Policy.</p>
-<a id="OS/2" name="OS/2"></a><h2> OS/2 </h2>
+<a id="OS/2" name="OS/2"></a><h1> OS/2 </h1>
 <p>In <a href="/wiki/OS/2" id="w">OS/2</a>, this keystroke combination is recognised by the OS/2 keyboard device driver, which notifies the session manager process. The normal session manager process in OS/2 versions 2.0 and later is the parent Workplace Shell process, which displays the &#34;The system is rebooting&#34; window and triggers a soft reboot. If it is pressed twice in succession OS/2 triggers an immediate soft reboot, without waiting for the session manager process. </p>
 <p>In both cases, the system flushes the <a href="/wiki/Page_cache" id="w">page cache</a>, cleanly <a href="/wiki/Mount_(computing)" id="w">unmounts</a> all disc volumes, but does not cleanly shut down any running programs (and thus does not save any unsaved documents, or the current arrangements of the objects on the Workplace Shell desktop or in any of its open folders).</p>
-<a id="Linux" name="Linux"></a><h2> Linux </h2>
+<a id="Linux" name="Linux"></a><h1> Linux </h1>
 <p>In <a href="/wiki/Linux" id="w">Linux</a>, this keystroke combination is recognised by the keyboard device driver in the <a href="/wiki/Kernel_(computer_science)" id="w">kernel</a>. In the absence of more specific instructions, which will usually only be during system initialisation, the kernel directly initiates a soft reboot in response. More commonly, the kernel will send a signal to the <i>init</i> process, which will perform an administrator-configured task, such as running a script, or displaying an &#34;end current session&#34; box in <a href="/wiki/KDE" id="w">KDE</a>.</p>
 <p>In many Linux distributions, <i>init</i> is configured to switch run levels and to perform a soft reboot in response to the signal. Thus it provides a mechanism for a person with physical access to the keyboard to perform system shut down (a task that requires <a href="/wiki/Superuser" id="w">superuser</a> rights to initiate programmatically).  However, Linux systems can be configured to ignore the keystroke combination. The setting is usually in the inittab(5) configuration file under the keyword &#34;ca&#34;.</p>
-<a id="Mac_OS" name="Mac_OS"></a><h2>Mac OS</h2>
+<a id="Mac_OS" name="Mac_OS"></a><h1>Mac OS</h1>
 <p>In <a href="/wiki/Mac_OS_X" id="w">Mac OS X</a> and older <a href="/wiki/Mac_OS" id="w">Mac Operating Systems</a>, Ctrl-<a href="/wiki/Command_key" id="w">Command</a>-Power will instantly hard-reboot the system. To close a program (with Force Quit), the user can just type Command-Option-Esc.</p>
 <p>On 1980s Apple <a href="/wiki/Microcomputers" id="w">microcomputers</a> (such as the <a href="/wiki/Apple_II" id="w">Apple II</a> or the <a href="/wiki/Apple_III" id="w">Apple III</a>), if a user initiated the Control-Open Apple-Reset key function, the computer would initiate a soft boot.</p>
-<a id="Control-Alt-Delete_in_popular_culture" name="Control-Alt-Delete_in_popular_culture"></a><h2> Control-Alt-Delete in popular culture </h2>
+<a id="Control-Alt-Delete_in_popular_culture" name="Control-Alt-Delete_in_popular_culture"></a><h1> Control-Alt-Delete in popular culture </h1>
 <p>As computers became ubiquitous, so too, has the <a href="/wiki/Jargon" id="w">jargon</a>. Control-Alt-Delete can also mean &#34;dump,&#34; or &#34;do away with.&#34; <sup id="_ref-2" class="reference"><a href="#_note-2" title="">[2]</a></sup></p>
-<a id="See_also" name="See_also"></a><h2> See also </h2>
+<a id="See_also" name="See_also"></a><h1> See also </h1>
 
 <ul>
 <li><a href="/wiki/Three-finger_salute_(computing)" id="w">Three-finger salute</a> - A list of key combinations similar to &#34;Ctrl-Alt-Del&#34; on different platforms.</li>
 <li><a href="/wiki/Raising_Skinny_Elephants_Is_Utterly_Boring" id="w">Raising Skinny Elephants Is Utterly Boring</a> - A  mnemonic for remembering the Linux safe reboot for Linux crashes</li>
 <li><a href="/wiki/Winlogon" id="w">Winlogon</a> - The Windows process that detects and responds to Ctrl+Alt+Del</li>
 <li><a href="/wiki/Secure_attention_key" id="w">Secure attention key</a></li></ul>
-<a id="External_links" name="External_links"></a><h2> External links </h2>
+<a id="External_links" name="External_links"></a><h1> External links </h1>
 
 <ul>
 <li><a class="externallink" href="http://www.worldspace.nu/The_origin_of_Control-Alt-Delete_-_David_Bradley_invented_CTRL-ALT-DEL_Bill_Gates_made_it_famous_avi:watch" rel="nofollow" title="http://www.worldspace.nu/The_origin_of_Control-Alt-Delete_-_David_Bradley_invented_CTRL-ALT-DEL_Bill_Gates_made_it_famous_avi:watch">David Bradley described how he invented CTRL-ALT-DEL and made famous stab on Bill Gates</a></li></ul>
-<a id="References" name="References"></a><h2> References </h2>
+<a id="References" name="References"></a><h1> References </h1>
 <p /><ol class="references">
-<li id="_note-1"><b><a href="#_ref-1" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-2"><b><a href="#_ref-2" title="">&uarr;</a></b> <a class="externallink" href="http://www.wordspy.com/words/Ctrl-Alt-Delete.asp" rel="nofollow" title="http://www.wordspy.com/words/Ctrl-Alt-Delete.asp">Wordspy</a> cites the earliest such use as Chris Miksanek&#39;s December 18, 1995 Computerworld column titled, &#34;Ctrl-Alt-Delete those holiday trinkets.&#34;</li></ol><a id="General_references" name="General_references"></a><h3> General references </h3>
+<li id="_note-1"><b><a href="#_ref-1" title="">&uarr;</a></b> {{cite web}}</li><li id="_note-2"><b><a href="#_ref-2" title="">&uarr;</a></b> <a class="externallink" href="http://www.wordspy.com/words/Ctrl-Alt-Delete.asp" rel="nofollow" title="http://www.wordspy.com/words/Ctrl-Alt-Delete.asp">Wordspy</a> cites the earliest such use as Chris Miksanek&#39;s December 18, 1995 Computerworld column titled, &#34;Ctrl-Alt-Delete those holiday trinkets.&#34;</li></ol><a id="General_references" name="General_references"></a><h2> General references </h2>
 
 <ol>
 <li>{{cite web}}</li>

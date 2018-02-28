@@ -2,7 +2,7 @@
 <p>In <a href="/wiki/Mathematics" id="w">mathematics</a>, especially in <a href="/wiki/Order_theory" id="w">order theory</a>, the <b>cofinality</b> cf(<i>A</i>) of a <a href="/wiki/Partially_ordered_set" id="w">partially ordered set</a> <i>A</i> is the least of the <a href="/wiki/Cardinality" id="w">cardinalities</a> of the <a href="/wiki/Cofinal_(mathematics)" id="w">cofinal</a> subsets of <i>A</i>. </p>
 <p>This definition of cofinality relies on the <a href="/wiki/Axiom_of_choice" id="w">axiom of choice</a>, as it uses the fact that every non-empty set of <a href="/wiki/Cardinal_number" id="w">cardinal numbers</a> has a least member. The cofinality of a partially ordered set <i>A</i> can alternatively be defined as the least <a href="/wiki/Ordinal_number" id="w">ordinal</a> <i>x</i> such that there is a function from <i>x</i> to <i>A</i> with cofinal <a href="/wiki/Image_(mathematics)" id="w">image</a>. This second definition makes sense without the axiom of choice. If the axiom of choice is assumed, as will be the case in the rest of this article, then the two definitions are equivalent.</p>
 <p>Cofinality can be similarly defined for a <a href="/wiki/Directed_set" id="w">directed set</a> and is used to generalize the notion of a <a href="/wiki/Subsequence" id="w">subsequence</a> in a <a href="/wiki/Net_(mathematics)" id="w">net</a>.</p>
-<a id="Examples" name="Examples"></a><h2> Examples </h2>
+<a id="Examples" name="Examples"></a><h1> Examples </h1>
 
 <ul>
 <li>The cofinality of a partially ordered set with <a href="/wiki/Greatest_element" id="w">greatest element</a> is 1 as the set consisting only of the greatest element is cofinal and must be contained in every other cofinal subset.
@@ -13,17 +13,17 @@
 <li>In particular, let <i>A</i> be a set of size <i>n</i>, and consider the set of subsets of <i>A</i> containing no more than <i>m</i> elements.  This is partially ordered under inclusion and the subsets with <i>m</i> elements are maximal.  Thus the cofinality of this poset is <i>n</i> <a href="/wiki/Choose" id="w">choose</a> <i>m</i>.</li></ul></li>
 <li>A subset of the natural numbers <b>N</b> is cofinal in <b>N</b> if and only if it is infinite, and therefore the cofinality of <span class="math">\aleph_0</span> is <span class="math">\aleph_0</span>. Thus <span class="math">\aleph_0</span> is a <a href="/wiki/Regular_cardinal" id="w">regular cardinal</a>.</li>
 <li>The cofinality of the <a href="/wiki/Real_number" id="w">real numbers</a> with their usual ordering is <span class="math">\aleph_0</span>, since <b>N</b> is cofinal in <b>R</b>.  The usual ordering of <b>R</b> is not <a href="/wiki/Order_isomorphic" id="w">order isomorphic</a> to <i>c</i>, the <a href="/wiki/Cardinality_of_the_continuum" id="w">cardinality of the real numbers</a>, which has cofinality strictly greater than <span class="math">\aleph_0</span>.  This demonstrates that the cofinality depends on the order; different orders on the same set may have different cofinality.</li></ul>
-<a id="Properties" name="Properties"></a><h2>Properties</h2>
+<a id="Properties" name="Properties"></a><h1>Properties</h1>
 <p>If <i>A</i> admits a <a href="/wiki/Total_order" id="w">totally ordered</a> cofinal subset, then we can find a subset <i>B</i> which is well-ordered and cofinal in <i>A</i>. Any subset of <i>B</i> is also well-ordered. If two cofinal subsets of <i>B</i> have minimal cardinality (i.e. their cardinality is the cofinality of <i>B</i>), then they are order isomorphic to each other.</p>
-<a id="Cofinality_of_ordinals_and_other_well-ordered_sets" name="Cofinality_of_ordinals_and_other_well-ordered_sets"></a><h2> Cofinality of ordinals and other well-ordered sets </h2>
+<a id="Cofinality_of_ordinals_and_other_well-ordered_sets" name="Cofinality_of_ordinals_and_other_well-ordered_sets"></a><h1> Cofinality of ordinals and other well-ordered sets </h1>
 <p>The <b>cofinality of an ordinal</b> <span class="math">\alpha</span> is the smallest ordinal <span class="math">\delta</span> which is the <a href="/wiki/Order_type" id="w">order type</a> of a cofinal subset of <span class="math">\alpha</span>.  The cofinality of a set of ordinals or any other <a href="/wiki/Well-ordered_set" id="w">well-ordered set</a> is the cofinality of the order type of that set.</p>
 <p>Thus for a <a href="/wiki/Limit_ordinal" id="w">limit ordinal</a>, there exists a <span class="math">\delta</span>-indexed strictly increasing sequence with limit <span class="math">\alpha</span>.  For example, the cofinality of ω² is ω, because the sequence ω·<i>m</i> (where <i>m</i> ranges over the natural numbers) tends to ω²; but, more generally, any countable limit ordinal has cofinality ω.  An uncountable limit ordinal may have either cofinality ω as does <span class="math">\omega_\omega</span> or an uncountable cofinality.</p>
 <p>The cofinality of 0 is 0. The cofinality of any <a href="/wiki/Successor_ordinal" id="w">successor ordinal</a> is 1.  The cofinality of any limit ordinal is at least <span class="math">\omega</span>.</p>
-<a id="Regular_and_singular_ordinals" name="Regular_and_singular_ordinals"></a><h2> Regular and singular ordinals </h2>
+<a id="Regular_and_singular_ordinals" name="Regular_and_singular_ordinals"></a><h1> Regular and singular ordinals </h1>
 <p>A <b>regular ordinal</b> is an ordinal which is equal to its cofinality. A <b>singular ordinal</b> is any ordinal which is not regular. </p>
 <p>Every regular ordinal is the <a href="/wiki/Initial_ordinal" id="w">initial ordinal</a> of a cardinal.  Any limit of regular ordinals is a limit of initial ordinals and thus is also initial but need not be regular. Assuming the Axiom of choice, <span class="math">\omega_{\alpha+1}</span> is regular for each α.  In this case, the ordinals 0, 1, <span class="math">\omega</span>, <span class="math">\omega_1</span>, and <span class="math">\omega_2</span> are regular, whereas 2, 3, <span class="math">\omega_\omega</span>, and ω<sub>ω·2</sub> are initial ordinals which are not regular.</p>
 <p>The cofinality of any ordinal <i>α</i> is a regular ordinal, i.e. the cofinality of the cofinality of <i>α</i> is the same as the cofinality of <i>α</i>.  So the cofinality operation is <i>idempotent</i>.</p>
-<a id="Cofinality_of_cardinals" name="Cofinality_of_cardinals"></a><h2>Cofinality of cardinals</h2>
+<a id="Cofinality_of_cardinals" name="Cofinality_of_cardinals"></a><h1>Cofinality of cardinals</h1>
 <p>If κ is an infinite cardinal number, then cf(κ) is the least cardinal such that there is an <a href="/wiki/Bounded_(set_theory)" id="w">unbounded</a> function from it to κ; and cf(κ) = the cardinality of the smallest collection of sets of strictly smaller cardinals such that their sum is κ; more precisely</p>
 <dl><dd><span class="math">\mathrm{cf}(\kappa) = \inf \left\{ \mathrm{card}(I)\ |\ \kappa = \sum_{i \in I} \lambda_i\ \mathrm{and}\ (\forall i)(\lambda_i &lt; \kappa)\right\}</span></dd></dl>
 <p>That the set above is nonempty comes from the fact that</p>
@@ -38,11 +38,11 @@ The cofinality of any totally ordered set is regular, so one has cf(κ) = cf(cf(
 <p>(Compare to the <a href="/wiki/Continuum_hypothesis" id="w">continuum hypothesis</a>, which states <span class="math">2^{\aleph_0}= \aleph_1</span>.)</p>
 <p>Generalizing this argument, one can prove that for a limit ordinal δ</p>
 <dl><dd><span class="math">\mathrm{cf} (\aleph_\delta) = \mathrm{cf} (\delta) </span>.</dd></dl>
-<a id="See_also" name="See_also"></a><h2>See also</h2>
+<a id="See_also" name="See_also"></a><h1>See also</h1>
 
 <ul>
 <li><a href="/wiki/Initial_ordinal" id="w">Initial ordinal</a></li></ul>
-<a id="References" name="References"></a><h2>References</h2>
+<a id="References" name="References"></a><h1>References</h1>
 
 <ul>
 <li>Jech, Thomas, 2003. <i>Set Theory: The Third Millennium Edition, Revised and Expanded</i>.  Springer.  <a class="external text" href="http://www.amazon.com/exec/obidos/ASIN/3540440852" rel="nofollow" title="http://www.amazon.com/exec/obidos/ASIN/3540440852">ISBN 3-540-44085-2</a>.</li>

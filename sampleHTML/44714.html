@@ -2,7 +2,7 @@
 <p><b>Karplus-Strong string synthesis</b> is a method of <a href="/wiki/Physical_modelling_synthesis" id="w">physical modelling synthesis</a> that loops a short waveform through a filtered delay line to simulate the sound of a hammered or plucked <a href="/wiki/String_instrument" id="w">string</a> or some types of <a href="/wiki/Percussion_instrument" id="w">percussion</a>.
 Although it is useful to view this as a <a href="/wiki/Subtractive_synthesis" id="w">subtractive synthesis</a> technique based on a <a href="/wiki/Feedback_loop" id="w">feedback loop</a> similar to that of a <a href="/wiki/Comb_filter" id="w">comb filter</a> for <a href="/wiki/Z-transform" id="w">z-transform</a> analysis, it is better viewed as the simplest of a class of <a href="/wiki/Wavetable" id="w">wavetable</a>-modification algorithms now known as <a href="/wiki/Digital_waveguide_synthesis" id="w">digital waveguide synthesis</a>, as the delay line acts to store one period of the signal.</p>
 <p>Alexander Strong invented the algorithm, and Kevin Karplus did the first analysis of how it worked.  Together they developed software and hardware implementations of the algorithm, including a custom VLSI chip. They named the algorithm &#34;Digitar&#34; synthesis, as an abbreviation for &#34;digital guitar&#34;.</p>
-<a id="How_it_works" name="How_it_works"></a><h2> How it works </h2>
+<a id="How_it_works" name="How_it_works"></a><h1> How it works </h1>
 
 <p />
 <table align="center">
@@ -22,7 +22,7 @@ Although it is useful to view this as a <a href="/wiki/Subtractive_synthesis" id
 <li>The filtered output is simultaneously mixed back into the output and fed back into the delay line.</li></ol>
 <p /></td></tr></table>
 
-<a id="Tuning_the_string" name="Tuning_the_string"></a><h2> Tuning the string </h2>
+<a id="Tuning_the_string" name="Tuning_the_string"></a><h1> Tuning the string </h1>
 
 <p>The <a href="/wiki/Oscillation" id="w">period</a> of the resulting signal is the period of the delay line plus the average <a href="/wiki/Group_delay" id="w">group delay</a> of the filter; the <a href="/wiki/Fundamental_frequency" id="w">fundamental frequency</a>, as usual, is the <a href="/wiki/Reciprocal_(mathematics)" id="w">reciprocal</a> of the period.  The required delay <i>D</i> for a given fundamental frequency <i>F</i><sub>1</sub> is therefore calculated according to <i>D</i> = <i>F</i><sub><i>s</i></sub>/<i>F</i><sub>1</sub> where <i>F</i><sub><i>s</i></sub> is the sampling frequency.  </p>
 <p>The length of any digital delay line is a whole-number multiple of the sampling period.  In order to obtain a <a href="/wiki/Fractional_delay" id="w">fractional delay</a>, <a href="/wiki/Interpolation" id="w">interpolating filters</a> are used with parameters selected to obtain an appropriate group delay at the fundamental frequency.  Either <a href="/wiki/Infinite_impulse_response" id="w">IIR</a> or <a href="/wiki/Finite_Impulse_Response" id="w">FIR</a> filters may be used, however FIR have the advantage that transients are suppressed if the fractional delay is changed over time. The most elementary fractional delay is the <a href="/wiki/Linear_interpolation" id="w">linear interpolation</a> between two samples (e.g., <i>s</i>(4.2) = 0.8<i>s</i>(4) + 0.2<i>s</i>(5)).  If the group delay varies too much with frequency, <a href="/wiki/Harmonic" id="w">harmonics</a> may be sharpened or flattened relative to the fundamental frequency.  The original algorithm used equal weighting on two adjacent samples, as this can be achieved without multiplication hardware, allowing extremely cheap implementations.</p>
@@ -30,11 +30,11 @@ Although it is useful to view this as a <a href="/wiki/Subtractive_synthesis" id
 <p>A demonstration of the Karplus-Strong algorithm can be heard in the following <a href="/wiki/Vorbis" id="w">Vorbis</a> file.  The algorithm used a loop gain of 0.98 with increasingly attenuating first order lowpass filters.  The pitch of the note was A2, or 220 Hz. </p>
 <p>{{listen}}</p>
 <p>Holding the period (= length of the delay line) constant produces vibrations similar to those of a string or bell.  Increasing the period sharply after the transient input produces drum-like sounds.</p>
-<a id="Refinements_to_the_algorithm" name="Refinements_to_the_algorithm"></a><h2> Refinements to the algorithm </h2>
+<a id="Refinements_to_the_algorithm" name="Refinements_to_the_algorithm"></a><h1> Refinements to the algorithm </h1>
 <p>Alex Strong and Kevin Karplus realized that the Karplus-Strong algorithm was physically analogous to a sampling of the transversal wave on a string instrument, with the filter in the feedback loop representing the total string losses over one period. <a href="/wiki/Julius_O._Smith_III" id="w">Julius O. Smith III</a> <a class="externallink" href="http://ccrma.stanford.edu/~jos/" rel="nofollow" title="http://ccrma.stanford.edu/~jos/">http://ccrma.stanford.edu/~jos/</a> and others 
 generalized the algorithm to <a href="/wiki/Digital_waveguide_synthesis" id="w">digital waveguide synthesis</a>, which could also be used to model acoustic waves in tubes and on drum membranes.</p>
 <p>Alex Strong developed a superior wavetable-modification method for plucked-string synthesis, but only published it as a patent.</p>
-<a id="References" name="References"></a><h2> References </h2>
+<a id="References" name="References"></a><h1> References </h1>
 
 
 <ul>
@@ -51,7 +51,7 @@ generalized the algorithm to <a href="/wiki/Digital_waveguide_synthesis" id="w">
 
 <ul>
 <li>Moore, F. Richard. <i>Elements of Computer Music</i>. Upper Saddle River: Prentice-Hall, 1990. <a class="external text" href="http://www.amazon.com/exec/obidos/ASIN/0132525526" rel="nofollow" title="http://www.amazon.com/exec/obidos/ASIN/0132525526">ISBN 0-13-252552-6</a>.</li></ul>
-<a id="External_links" name="External_links"></a><h2> External links </h2>
+<a id="External_links" name="External_links"></a><h1> External links </h1>
 
 
 <ul>

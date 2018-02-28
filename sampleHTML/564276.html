@@ -5,18 +5,18 @@
 </p>
 <p>A <b>delimiter</b> is a sequence of one or more <a href="/wiki/Character_(computing)" id="w">characters</a> used to specify the boundary between separate, independent regions in <a href="/wiki/Plain_text" id="w">plain text</a> or other data stream.<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup> An example of a delimiter is the comma character, which acts as a <i>field delimiter</i> in a sequence of <a href="/wiki/Comma-separated_values" id="w">comma-separated values</a>.</p>
 <p>An alternative to the use of field delimiters is <a href="/wiki/String_literal#Declarative notation" id="w">declarative notation</a>, which uses a length field at the start of a region to specify the boundary. For word delimiters used in the written form of human languages, see <a href="/wiki/Interword_separation" id="w">interword separation</a>.</p>
-<a id="Overview" name="Overview"></a><h2> Overview </h2>
+<a id="Overview" name="Overview"></a><h1> Overview </h1>
 <p>Delimiters can be broken down into:</p>
 
 <ul>
 <li>Field and Record delimiters; and</li>
 <li>Bracket delimiters.</li></ul>
-<a id="Field_and_record_delimiters" name="Field_and_record_delimiters"></a><h2>Field and record delimiters</h2>
+<a id="Field_and_record_delimiters" name="Field_and_record_delimiters"></a><h1>Field and record delimiters</h1>
 <p>Field delimiters  separate data fields. Record delimiters separate groups of fields.<sup id="_ref-FldDelm_a" class="reference"><a href="#_note-FldDelm" title="">[2]</a></sup></p>
 <p>For example, the (CSV) file format uses a <a href="/wiki/Comma" id="w">comma</a> as the delimiter between <a href="/wiki/Field_(computer_science)" id="w">fields</a>, and a <a href="/wiki/End-of-line" id="w">end-of-line</a> indicator as the delimiter between <a href="/wiki/Row_(database)" id="w">records</a>.  For instance:
 </p>
 <p>specifies a simple <a href="/wiki/Flat_file_database" id="w">flat file database</a> <a href="/wiki/Table_(information)" id="w">table</a> using the (CSV) file format.</p>
-<a id="Conventions" name="Conventions"></a><h2>Conventions</h2>
+<a id="Conventions" name="Conventions"></a><h1>Conventions</h1>
 
 <p>Computing platforms historically use certain delimiters by convention.<sup id="_ref-3" class="reference"><a href="#_note-3" title="">[3]</a></sup> The following tables depict just a few examples for comparison.</p>
 <p><b>Programming languages</b>
@@ -66,7 +66,7 @@
 <td>RECORD SEPARATOR<br/>Position 30 (U+001E) </td>
 <td>FILE SEPARATOR<br/>Position 28 (U+001C)</td></tr></table></div>
 
-<a id="Bracket_delimiters" name="Bracket_delimiters"></a><h2>Bracket delimiters</h2>
+<a id="Bracket_delimiters" name="Bracket_delimiters"></a><h1>Bracket delimiters</h1>
 
 <p>Bracket delimiters (also block delimiters, region delimiters, balanced delimiters)  mark both the start and end of a region of text.<sup id="_ref-BalaDelm_a" class="reference"><a href="#_note-BalaDelm" title="">[4]</a></sup> They are used in almost all programming languages, including <a href="/wiki/Wikicode" id="w">Wikicode</a>.<sup id="_ref-Scott000_a" class="reference"><a href="#_note-Scott000" title="">[5]</a></sup></p>
 <p>Common examples of <i>bracket</i> delimiters include:<sup id="_ref-programmingperl_a" class="reference"><a href="#_note-programmingperl" title="">[6]</a></sup></p>
@@ -123,9 +123,9 @@
 <p /></td></tr>
 </table>
 
-<a id="Delimiter_collision" name="Delimiter_collision"></a><h2>Delimiter collision</h2>
+<a id="Delimiter_collision" name="Delimiter_collision"></a><h1>Delimiter collision</h1>
 <p><b>Delimiter collision</b> is a problem that occurs when an author or programmer introduces delimiters into text without actually intending them to be interpreted as boundaries between separate regions.<sup id="_ref-FldDelm_b" class="reference"><a href="#_note-FldDelm" title="">[2]</a></sup> In the case of <a href="/wiki/Comma-separated_values" id="w">Comma-separated values</a> files, for example, this can occur whenever an author attempts to include a comma as part of a field value (e.g., salary = &#34;$30,000&#34;). In the case of <a href="/wiki/XML" id="w">XML</a>, for example, this can occur whenever an author attempts to specify an <a href="/wiki/Angle_bracket" id="w">angle bracket</a> character.</p>
-<a id="Solutions" name="Solutions"></a><h3>Solutions</h3>
+<a id="Solutions" name="Solutions"></a><h2>Solutions</h2>
 
 <p>Because delimiter collision is a very common problem, various methods for avoiding it have been invented.</p>
 <a id="Escape_character" name="Escape_character"></a><h4>Escape character</h4>
@@ -175,12 +175,12 @@ provide yet another way to avoid delimiter collision. Some languages, for exampl
    print $string1 =~ m{httq://};       # same as previous, but different delimiter
    print $string1 =~ m!httq://!;       # same as previous, but different delimiter
 
-</pre><a id="ASCII_armor" name="ASCII_armor"></a><h2>ASCII armor</h2>
+</pre><a id="ASCII_armor" name="ASCII_armor"></a><h1>ASCII armor</h1>
 <p>Although principally used as a mechanism for text encoding of binary data,
 &#34;<a href="/wiki/ASCII_armor" id="w">ASCII armoring</a>&#34; is a programming and systems administration technique 
 that also helps to avoid delimiter collision in some circumstances.<sup id="_ref-Rhee000_a" class="reference"><a href="#_note-Rhee000" title="">[19]</a></sup><sup id="_ref-Gross000_a" class="reference"><a href="#_note-Gross000" title="">[20]</a></sup> This technique is contrasted from the other approaches described above because it is more complicated, and therefore not suitable for small applications and simple data storage formats. The technique employs a special encoding scheme or <a href="/wiki/Hash_function" id="w">hash function</a>, such as <a href="/wiki/Base64" id="w">base64</a>, to ensure that delimiter characters do not appear in transmitted data.</p>
 <p>This technique is used, for example, in <a href="/wiki/Microsoft" id="w">Microsoft</a>&#39;s <a href="/wiki/ASP.NET" id="w">ASP.NET</a> web development technology, and is closely associated with the &#34;VIEWSTATE&#34; component of that system.<sup id="_ref-Kalani000_a" class="reference"><a href="#_note-Kalani000" title="">[21]</a></sup></p>
-<a id="Example" name="Example"></a><h3> Example </h3>
+<a id="Example" name="Example"></a><h2> Example </h2>
 <p>The following is a simplified example demonstrating how this technique works in practice. </p>
 <p>The first code fragment shows a simple HTML tag in which the VIEWSTATE value contains characters that are incompatible with the delimiters of the HTML tag itself:
 </p><pre class="code">
@@ -194,9 +194,9 @@ with a recovering sex addict.&#34;</font> <font color="#7F0055">/&#62;</font>
     <b><font color="#7F0055">&#60;input</font></b> type=<font color="#2A00FF">&#34;hidden&#34;</font> __VIEWSTATE=<font color="#2A00FF">&#34;TmFtZTpMYXJyeSAiQnVkIiBNZWxtYW47&#34;</font> <font color="#7F0055">/&#62;</font>
 </pre>
 <p>This prevents delimiter collision and ensures that incompatible characters will not appear inside the HTML code, regardless of what characters appear in the original (decoded) text.<sup id="_ref-Kalani000_b" class="reference"><a href="#_note-Kalani000" title="">[21]</a></sup></p>
-<a id="Notes_and_references" name="Notes_and_references"></a><h2>Notes and references</h2>
+<a id="Notes_and_references" name="Notes_and_references"></a><h1>Notes and references</h1>
 <p>{{reflist}}</p>
-<a id="See_also" name="See_also"></a><h2>See also</h2>
+<a id="See_also" name="See_also"></a><h1>See also</h1>
 
 <ul>
 <li><a href="/wiki/Delimiter-separated_values" id="w">Delimiter-separated values</a></li>

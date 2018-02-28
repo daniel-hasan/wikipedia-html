@@ -5,12 +5,12 @@
 <div class="framecaption"><a href="/wiki/HTML" id="w">HTML</a> syntax highlighting</div></p>
 <p><b>Syntax highlighting</b> is a feature of some <a href="/wiki/Text_editor" id="w">text editors</a> that displays text&#8212;especially <a href="/wiki/Source_code" id="w">source code</a>&#8212;in different colors and <a href="/wiki/Typeface" id="w">fonts</a> according to the category of terms. This feature eases writing in a structured language such as a <a href="/wiki/Programming_language" id="w">programming language</a> or a <a href="/wiki/Markup_language" id="w">markup language</a> as both structures and <a href="/wiki/Syntax_error" id="w">syntax errors</a> are visually distinct. </p>
 <p>Syntax highlighting is a form of <a href="/wiki/Secondary_notation" id="w">secondary notation</a>, since the highlights are not part of the text meaning, but serve to reinforce it. Some editors also integrate syntax highlighting with other features, such as <a href="/wiki/Spell_checking" id="w">spell checking</a> or <a href="/wiki/Code_folding" id="w">code folding</a>.</p>
-<a id="Practical_considerations" name="Practical_considerations"></a><h2>Practical considerations</h2>
+<a id="Practical_considerations" name="Practical_considerations"></a><h1>Practical considerations</h1>
 <p>Syntax highlighting is one strategy to improve the readability and context of the text; especially for code that spans several pages. The reader can easily ignore large sections of comments or code, depending on what one desires.</p>
 <p>Syntax highlighting also helps programmers find errors in their program. For example, most editors highlight <a href="/wiki/String_literal" id="w">string literals</a> in a different color. Consequently, spotting a missing <a href="/wiki/String_literal#Bracketed_delimiters" id="w">delimiter</a> is much easier because of the contrasting color of the text. <a href="/wiki/Bracket#In_computing" id="w">Brace matching</a> is another important feature with many popular editors. This makes it simple to see if a brace has been left out or locate the match of the brace the cursor is on by highlighting the pair in a different color.</p>
 <p>Some text editors can also export the color markup in a format that is suitable for printing or for importing into word-processing or other kinds of text-formatting software; for instance a HTML, colorized LaTeX, <a href="/wiki/PostScript" id="w">PostScript</a> or <a href="/wiki/Rich_Text_Format" id="w">RTF</a> version of its syntax highlighting.</p>
 <p>At least one commentator has argued that syntax highlighting encourages programmers to skim through code without making an effort of understanding it, and that, for <a href="/wiki/Typography" id="w">typographical</a> reasons, highlighted code is actually less legible than plain code.<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup></p>
-<a id="Document_class" name="Document_class"></a><h2>Document class</h2>
+<a id="Document_class" name="Document_class"></a><h1>Document class</h1>
 
 <p>For editors that support more than one language, the user can specify the language of the text, such as <a href="/wiki/C_(programming_language)" id="w">C</a>, <a href="/wiki/LaTeX" id="w">LaTeX</a>, <a href="/wiki/HTML" id="w">HTML</a>, or the text editor can automatically recognize it based on the file extension or by scanning contents of the file.</p>
 <p>One approach for supporting syntax highlighting for multiple languages is the use of &#34;Document classes&#34;. Each separate language constitutes a separate &#34;class&#34; of document. Each &#34;class&#34; can be associated with a specific set of syntax coloring rules. This approach affords a certain degree of flexibility for multi-language editors, but there are some potential limitations as well.</p>
@@ -20,21 +20,21 @@
 <li>treat a single document as belonging to more than just one document class (for example when editing an <a href="/wiki/HTML" id="w">HTML</a> file that contains embedded <a href="/wiki/Javascript" id="w">Javascript</a> code).</li>
 <li>edit a language that does not belong to a recognized class (for example when editing source code for an obscure or relatively new programming language). </li></ul>
 <p>Some multi-language editors that use the &#34;Document class&#34; method sometimes provide additional features that specifically address these limitations.</p>
-<a id="Syntax_elements" name="Syntax_elements"></a><h2>Syntax elements</h2>
+<a id="Syntax_elements" name="Syntax_elements"></a><h1>Syntax elements</h1>
 
 <p>Most editors with syntax highlighting allow different colors and text styles to be given to dozens of different lexical sub-elements of syntax. These include keywords, comments, control-flow statements, variables, and other elements. Programmers often heavily customize their settings in an attempt to show as much useful information as possible without making the code difficult to read.</p>
-<a id="Example" name="Example"></a><h2>Example</h2>
+<a id="Example" name="Example"></a><h1>Example</h1>
 
 <p>Below is a <a href="/wiki/Snippet_(programming)" id="w">snippet</a> of syntax highlighted <a href="/wiki/C%2B%2B" id="w">C++</a> code:
 </p>
 
 <p>In this example, the editor has recognized the <a href="/wiki/Keyword_(computer_programming)" id="w">keywords</a> <code>for</code>, <code>int</code>, and <code>new</code>.  It recognized the <a href="/wiki/Variable" id="w">variable</a> names <code>i</code>, <code>wins</code>, and <code>max</code> and highlighted them accordingly.  The <a href="/wiki/Comment_(computer_programming)" id="w">comment</a> at the beginning is also highlighted in a specific manner to distinguish it from working code.</p>
-<a id="History_and_limitations" name="History_and_limitations"></a><h2>History and limitations</h2>
+<a id="History_and_limitations" name="History_and_limitations"></a><h1>History and limitations</h1>
 
 <p>The Live Parsing Editor (LEXX or LPEX) was written for the computerization of the <a href="/wiki/Oxford_English_Dictionary" id="w">Oxford English Dictionary</a> in 1985 and was probably the first to use color syntax highlighting.  Its <i>live parsing</i> capability allowed user-supplied parsers to be added to the editor, for text, programs, data file, <i>etc.</i>  See: <a class="externallink" href="http://www.research.ibm.com/journal/rd/311/ibmrd3101G.pdf" rel="nofollow" title="http://www.research.ibm.com/journal/rd/311/ibmrd3101G.pdf">LEXX &#8211; A programmable structured editor</a>, Cowlishaw, M. F., <i>IBM Journal of Research and Development</i>, Vol 31, No. 1, 1987, IBM Reprint order number G322-0151</p>
 <p>Since most text editors highlight syntax based on complex <a href="/wiki/Pattern_matching" id="w">pattern matching</a> <a href="/wiki/Heuristics" id="w">heuristics</a> rather than actually implementing a <a href="/wiki/Parsing" id="w">parser</a> for each possible language, which could be prohibitively complex, the highlighting is almost never completely accurate.  Moreover, depending on the pattern matching algorithms, the highlighting &#34;engine&#34; can become very slow for certain types of language structures.  Some editors overcome this problem by not always parsing the whole file but rather just the visible area, sometimes scanning backwards in the text up to a limited number of lines for &#34;syncing&#34;.</p>
 <p>See the <a href="/wiki/Comparison_of_text_editors#Programming features" id="w">Programming features</a> section of the <a href="/wiki/Comparison_of_text_editors" id="w">Comparison of text editors</a> article for a list of some editors that have syntax highlighting.</p>
-<a id="References" name="References"></a><h2>References</h2>
+<a id="References" name="References"></a><h1>References</h1>
 <p>{{reflist}}</p>
 <p>
 </p>

@@ -2,25 +2,25 @@
 <p>{{Mergefrom}}
 {{Infobox_Software}}
 The <b>GNU Debugger</b>, usually called just <b>GDB</b>, is the standard <a href="/wiki/Debugger" id="w">debugger</a> for the <a href="/wiki/GNU" id="w">GNU</a> software system. It is a portable debugger that runs on many <a href="/wiki/Unix-like" id="w">Unix-like</a> systems and works for many <a href="/wiki/Programming_language" id="w">programming languages</a>, including <a href="/wiki/Ada_programming_language" id="w">Ada</a>, <a href="/wiki/C_(programming_language)" id="w">C</a>, <a href="/wiki/C%2B%2B" id="w">C++</a>, <a href="/wiki/FreeBASIC" id="w">FreeBASIC</a>, and <a href="/wiki/Fortran_programming_language" id="w">Fortran</a>.</p>
-<a id="History" name="History"></a><h2>History</h2>
+<a id="History" name="History"></a><h1>History</h1>
 <p>GDB was first written by <a href="/wiki/Richard_Stallman" id="w">Richard Stallman</a> in <a href="/wiki/1986" id="w">1986</a> as part of his <a href="/wiki/GNU" id="w">GNU</a> system, after his <a href="/wiki/GNU_Emacs" id="w">GNU Emacs</a> was &#34;reasonably stable&#34;.<sup id="_ref-1" class="reference"><a href="#_note-1" title="">[1]</a></sup> GDB is <a href="/wiki/Free_software" id="w">free software</a> released under the <a href="/wiki/GNU_General_Public_License" id="w">GNU General Public License</a> (GPL). It was modeled after the <a href="/wiki/Dbx_debugger" id="w">Dbx debugger</a>, which came with <a href="/wiki/BSD" id="w"> Berkeley Unix</a> distributions.</p>
 <p>From 1990 to 1993 it was maintained by <a href="/wiki/John_Gilmore_(activist)" id="w">John Gilmore</a> while he worked for <a href="/wiki/Cygnus_Solutions" id="w">Cygnus Solutions</a>.</p>
-<a id="Technical_details" name="Technical_details"></a><h2>Technical details</h2>
-<a id="Features" name="Features"></a><h3>Features</h3>
+<a id="Technical_details" name="Technical_details"></a><h1>Technical details</h1>
+<a id="Features" name="Features"></a><h2>Features</h2>
 <p>GDB offers extensive facilities for tracing and altering the execution of <a href="/wiki/Computer_program" id="w">computer programs</a>. The user can monitor and modify the values of programs&#39; internal <a href="/wiki/Variable" id="w">variables</a>, and even call <a href="/wiki/Function_(programming)" id="w">functions</a> independently of the program&#39;s normal behavior.</p>
 <p>GDB target processors (as of <a href="/wiki/2003" id="w">2003</a>) include:
 <a href="/wiki/DEC_Alpha" id="w">Alpha</a>, <a href="/wiki/ARM_architecture" id="w">ARM</a>, <a href="/wiki/Atmel_AVR" id="w">AVR</a>, <a href="/wiki/Hitachi_H8" id="w">H8/300</a>, <a href="/wiki/System/370" id="w">System/370</a>, <a href="/wiki/System_390" id="w">System 390</a>, <a href="/wiki/X86" id="w">X86</a> and <a href="/wiki/X86-64" id="w">X86-64</a>, <a href="/wiki/Itanium" id="w">IA-64</a> &#34;Itanium&#34;, <a href="/wiki/Motorola_68000" id="w">Motorola 68000</a>, <a href="/wiki/MIPS_architecture" id="w">MIPS</a>, <a href="/wiki/PA-RISC" id="w">PA-RISC</a>, <a href="/wiki/PowerPC" id="w">PowerPC</a>, <a href="/wiki/SuperH" id="w">SuperH</a>, <a href="/wiki/SPARC" id="w">SPARC</a>, and <a href="/wiki/VAX" id="w">VAX</a>.</p>
 <p>Lesser-known target processors supported in the standard release have included <a href="/wiki/A29K" id="w">A29K</a>, <a href="/wiki/Advanced_RISC_Computing" id="w">ARC</a>, <a href="/wiki/CRIS" id="w">CRIS</a>, <a href="/wiki/D10V" id="w">D10V</a>, <a href="/wiki/D30V" id="w">D30V</a>, <a href="/wiki/FR-30" id="w">FR-30</a>, <a href="/wiki/FR-V" id="w">FR-V</a>, <a href="/wiki/Intel_i960" id="w">Intel i960</a>, <a href="/wiki/M32R" id="w">M32R</a>, <a href="/wiki/Motorola_68HC11" id="w">68HC11</a>, <a href="/wiki/Motorola_88000" id="w">Motorola 88000</a>, <a href="/wiki/MCORE" id="w">MCORE</a>, <a href="/wiki/MN10200" id="w">MN10200</a>, <a href="/wiki/MN10300" id="w">MN10300</a>, <a href="/wiki/320xx_microprocessor" id="w">NS32K</a>, <a href="/wiki/Stormy16" id="w">Stormy16</a>, <a href="/wiki/V850" id="w">V850</a>, and <a href="/wiki/Zilog_Z8000" id="w">Z8000</a>.  (Newer releases will likely not support some of these.)</p>
 <p>GDB has compiled-in <a href="/wiki/Instruction_Set_Simulator" id="w">simulators</a> for target processors even for lesser-known target processors such like M32R or V850.</p>
 <p>GDB is still actively developed.  As of early 2007, the focus is on adding &#34;reversible debugging&#34; support<sup id="_ref-2" class="reference"><a href="#_note-2" title="">[2]</a></sup> &#8212; allowing a debugging session to step backwards, much like rewinding a crashed program to see what happened. Adding reversible debugging is one of the <a href="/wiki/High_Priority_Free_Software_Projects" id="w">High Priority Free Software Projects</a>.</p>
-<a id="Remote_debugging" name="Remote_debugging"></a><h3>Remote debugging</h3>
+<a id="Remote_debugging" name="Remote_debugging"></a><h2>Remote debugging</h2>
 <p>GDB offers a &#39;remote&#39; mode often used when debugging embedded systems. Remote operation is when GDB runs on one machine and the program being debugged runs on another. GDB can communicate to the remote &#39;stub&#39; which understands GDB protocol via Serial or TCP/IP.</p>
 <p>The same mode is also used by KGDB for debugging a running <a href="/wiki/Linux_kernel" id="w">Linux kernel</a> on the source level with gdb. With kgdb, kernel developers can debug a kernel in much the same way as they debug application programs. It makes it possible to place breakpoints in kernel code, step through the code and observe variables. On architectures where hardware debugging registers are available, watchpoints can be set which trigger breakpoints when specified memory addresses are executed or accessed. kgdb requires an additional machine which is connected to the machine to be debugged using a <a href="/wiki/Serial_cable" id="w">serial cable</a> or <a href="/wiki/Ethernet" id="w">ethernet</a>. On <a href="/wiki/FreeBSD" id="w">FreeBSD</a>, it is also possible to debug using <a href="/wiki/Firewire" id="w">Firewire</a> <a href="/wiki/Direct_memory_access" id="w">DMA</a>.</p>
-<a id="Limitations" name="Limitations"></a><h3>Limitations</h3>
+<a id="Limitations" name="Limitations"></a><h2>Limitations</h2>
 <p>The debugger does not contain its own <a href="/wiki/Graphical_user_interface" id="w">graphical user interface</a>, and defaults to a <a href="/wiki/Command-line_interface" id="w">command-line interface</a>. Several front-ends have been built for it, such as <a href="/wiki/Data_Display_Debugger" id="w">DDD</a>, <a href="/wiki/List_of_Eclipse_projects#Tools projects" id="w">Eclipse CDT</a>, <a href="/wiki/Xcode" id="w">Xcode</a> debugger, GDBtk/<a class="externallink" href="http://sources.redhat.com/insight/" rel="nofollow" title="http://sources.redhat.com/insight/">Insight</a> and the &#34;GUD mode&#34; in <a href="/wiki/GNU_Emacs" id="w">GNU Emacs</a>. These offer facilities similar to debuggers found in <a href="/wiki/Integrated_development_environment" id="w">integrated development environments</a>.</p>
 <p>GDB does not correctly support C++ templates. <sup id="_ref-3" class="reference"><a href="#_note-3" title="">[3]</a></sup></p>
 <p>Some other debugging tools have been designed to work with GDB, such as <a href="/wiki/Memory_leak" id="w">memory leak</a> detectors.</p>
-<a id="Examples_of_commands" name="Examples_of_commands"></a><h2>Examples of commands</h2>
+<a id="Examples_of_commands" name="Examples_of_commands"></a><h1>Examples of commands</h1>
 
 <div style="page-break-inside:	avoid;">
 <table class="wikitable">
@@ -40,7 +40,7 @@ The <b>GNU Debugger</b>, usually called just <b>GDB</b>, is the standard <a href
 <th style="text-align:left"><tt>gdb&#62; disass $pc-32 $pc+32</tt></th>
 <td>disassemble</td></tr></table></div>
 
-<a id="An_example_session" name="An_example_session"></a><h2> An example session </h2>
+<a id="An_example_session" name="An_example_session"></a><h1> An example session </h1>
 <p>This is an example GDB session on the example program in <a href="/wiki/Stack_trace" id="w">Stack trace</a>:</p>
 <p />
 <pre>
@@ -78,24 +78,24 @@ Program exited normally.
 </pre>
 
 <p>The program is being run.  After the cause of the segmentation fault is found, the program is edited to use the correct behavior.  The corrected program is recompiled with <a href="/wiki/GNU_Compiler_Collection" id="w">GCC</a> and then run.</p>
-<a id="See_also" name="See_also"></a><h2> See also </h2>
+<a id="See_also" name="See_also"></a><h1> See also </h1>
 <p>{{portal}} </p>
 
 <ul>
 <li><a href="/wiki/Binary_File_Descriptor_library" id="w">Binary File Descriptor library</a> (libbfd)</li></ul>
-<a id="References" name="References"></a><h2> References </h2>
+<a id="References" name="References"></a><h1> References </h1>
 <p>{{reflist}}</p>
-<a id="External_links" name="External_links"></a><h2> External links </h2>
+<a id="External_links" name="External_links"></a><h1> External links </h1>
 
 <ul>
 <li><a class="externallink" href="http://www.gnu.org/software/gdb/" rel="nofollow" title="http://www.gnu.org/software/gdb/">GDB homepage</a></li>
 <li><a class="externallink" href="http://kgdb.linsyssoft.com" rel="nofollow" title="http://kgdb.linsyssoft.com">kgdb, the gdb backend for debugging the Linux kernel</a></li></ul>
-<a id="Documentation" name="Documentation"></a><h3>Documentation</h3>
+<a id="Documentation" name="Documentation"></a><h2>Documentation</h2>
 
 <ul>
 <li><a href="/wiki/Richard_Stallman" id="w">Richard M. Stallman</a>, <a href="/wiki/Roland_Pesch" id="w">Roland Pesch</a>, <a href="/wiki/Stan_Shebs" id="w">Stan Shebs</a>, et al., <a class="externallink" href="http://sourceware.org/gdb/current/onlinedocs/gdb.html" rel="nofollow" title="http://sourceware.org/gdb/current/onlinedocs/gdb.html">&#39;&#39;Debugging with GDB&#39;&#39;</a> (<a href="/wiki/Free_Software_Foundation" id="w">Free Software Foundation</a>, 2002) <a class="external text" href="http://www.amazon.com/exec/obidos/ASIN/1882114884" rel="nofollow" title="http://www.amazon.com/exec/obidos/ASIN/1882114884">ISBN 1-882114-88-4</a></li>
 <li><a class="externallink" href="http://sourceware.org/gdb/current/onlinedocs/gdbint.html" rel="nofollow" title="http://sourceware.org/gdb/current/onlinedocs/gdbint.html">GDB Internals</a></li></ul>
-<a id="Tutorials" name="Tutorials"></a><h3>Tutorials</h3>
+<a id="Tutorials" name="Tutorials"></a><h2>Tutorials</h2>
 
 <ul>
 <li><a class="externallink" href="http://www.dirac.org/linux/gdb/" rel="nofollow" title="http://www.dirac.org/linux/gdb/">Peter Jay Salzman&#39;s GDB guide</a>: <i>Using GNU&#39;s GDB Debugger</i></li></ul>
