@@ -106,5 +106,4 @@ with open('wikipedia_data_sample.csv') as csvfile:
 				print(strL)
 				f.write(strL)
 		
-#	profhasan@comanche:~/git/wiki-quality$ curl -d "" 'https://en.wikipedia.org/w/index.php?title=Special:Export&pages=United States%0ATalk:Main_Page&offset=1&limit=5&action=submit'>teste.xml
 
